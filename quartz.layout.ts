@@ -38,7 +38,18 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  folderClickBehavior: "collapse",
+  folderDefaultState: "collapsed",
+  useSavedState: true,
+  sortFn: (a, b) => {
+    if ((!a.file && !b.file) || (a.file && b.file)) {
+      return a.displayName.localeCompare(b.displayName)
+    }
+    if (a.file && !b.file) return 1
+    return -1
+  },
+}),
   ],
   right: [
     Component.Graph(),
