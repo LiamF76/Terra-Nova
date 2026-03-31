@@ -1,7 +1,9 @@
 ---
 publish: true
-title: Welcome to Quartz
-aliases:
+title: Terra-Nova Wiki Home
+aliases: 
+- Homepage
+- Home
 ---
 
 
