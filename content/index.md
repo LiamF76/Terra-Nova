@@ -15,7 +15,8 @@ Enjoy, and I hope to play through your tales in Terra-Nova very soon!
 
 Here are some helpful links to get you started.
 
+> [!info] [[Resources]]
+
 > [!info] [[Terra-Nova Primer]]
 
-> [!info] [[Resources]]
 
