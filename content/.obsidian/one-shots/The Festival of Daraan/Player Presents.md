@@ -1,0 +1,12 @@
+- ##### Audrey: Ryfon
+	- A gauntlet carved from the bones of the Tapu Kele Thunderbird and adorned with the feathers of the last Dragonturtle. (Grants TMP hit points = to your druid level when you wildshape)
+- ##### Grey: Melantha
+	- A sword forged from an alloy of fallen stars and meteorites. (+3 Longsword)
+- ##### Hunter: Ivys
+	- A set of wizards robes woven from threads of fate themselves. (Robes that grant +3 to AC and advantage on spell saving throws)
+- ##### Dawson: Reister
+	- A suit of armor, forged in the fires of the story of the first flame, and cooled in the waters of the Temporal Plane. (+3 Suit of Plate Armor)
+- ##### Ariana: Fargrim
+	- An axe carved from the wooden cover of the Eternal Book, upon a page of which the City of Stories lies. (+3 Battleaxe)
+- ##### Hannah: Owlin
+	- A belt from the ancient king of the Mist Giants (Belt of Giant Strength: Cloud Giant (29 Strength))

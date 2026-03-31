@@ -1,0 +1,5 @@
+Hello and welcome to another exciting installment of Tales of Terra-Nova I am your humble dungeon master and you are my intrepid heroes, say hi "heroic generals" ! In our previous session we saw Ivys face off with Azrael the angel of death, and he made a deal with his Replicant father Kairos.... Melantha talked to Tyran and has been killed, captured, gone missing? Antigone was given a job by the mysterious Red Warlock Tlaloc, and did some digging around the Lysandrian heresy.
+
+While solving mysteries and conversing with the wizards council, we return, the evening before departure to war. In the rooms of the Young Wolves. Fargrim, Ivys, Antigone, and Melantha (and orb Reister), are conversing about their findings in the lounge. The fireplace hums warmly as you hear the sounds of rain and storm outside. There are many footsteps of armored soldiers marching through the halls, the guard having been doubled since Melantha's suspected passing. 
+
+Emrys has repeatedly inquired about the nature of the supposed "anti-gods", but Ivys had made it very clear, even revealing the information privately could have dire consequences. 

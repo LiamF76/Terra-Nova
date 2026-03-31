@@ -1,0 +1,1 @@
+Behold the God of the brave and stars. Speak his name, Rovan

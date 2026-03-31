@@ -1,0 +1,1 @@
+Rovan was once the god of rebellion. He and Calina were in love, but Calina was destined to marry the Dawnfather. 

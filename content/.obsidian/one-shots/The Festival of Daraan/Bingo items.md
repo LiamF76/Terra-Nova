@@ -1,0 +1,24 @@
+- Hunter is Late
+- Liam pee break (free middle space)
+- grey says sum gay shit
+- skibidi toilet
+- hunter uses web firebolt
+- Reister crit smite
+- Melantha is girlfailure
+- someone confuses a terra-nova name
+- family guy tangent
+- Ivys goes full diddy
+- Reister mews for an entire conversation
+- Fargrim calls Ivys white man
+- anyone forgets to use extra attack
+- you roll a nat 20
+- You kill a boss monster
+- you solve a puzzle
+- you get hit by  a trap
+- Liam forgets an NPCs voice
+- Ariana gets mad at hunter
+- You get a nat 1
+- Eddie pees inside
+- Fargrim is oblivious
+- Party member gets downed
+- You roll a nat 1

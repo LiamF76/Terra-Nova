@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "dc314ca498a3473c",
+    "type": "split",
+    "children": [
+      {
+        "id": "86d5b67a42714c3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3ce63e2d0408ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session preps/12-28-2024 session prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-28-2024 session prep"
+            }
+          },
+          {
+            "id": "7a4996a215da93d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/The Pact of Shattered Fate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Pact of Shattered Fate"
+            }
+          },
+          {
+            "id": "78b968444ea50cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Escarth/Kingdoms/Arkonia/The Sword on the Wall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Sword on the Wall"
+            }
+          },
+          {
+            "id": "8d790feaa9a912df",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Statblocks/dire polar bear.png"
+              },
+              "icon": "lucide-image",
+              "title": "dire polar bear"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34e07a434bd8fd20",
+    "type": "split",
+    "children": [
+      {
+        "id": "152813e6fc78899e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f489a89495c94b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1cc3d8124128f4f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dawnheart",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "27348480cc3c9ff2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "596d1f86e1eff213",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8be1b12d99cd0f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "482800d48e1b1e45",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_29cbd80be978",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 18,
+                    "month": 0,
+                    "year": 20305
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_bb685b8a184b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "2247f589db720924",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8c60541714ca0e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59e350c750decbd2",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "id": "ID_782a9979a8da",
+                "parent": "ID_1a48fb8a3a2b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "7a4996a215da93d1",
+  "lastOpenFiles": [
+    "Session preps/12-28-2024 session prep.md",
+    "Characters/People/Lorne.md",
+    "Characters/People/Promise.md",
+    "Geography/Escarth/Kingdoms/Arkonia/The Sword on the Wall.md",
+    "Statblocks/dire polar bear.png",
+    "Campaigns/Play By Posts/The Odyssey of the Fallen.md",
+    "Statblocks/kobold (with bow).png",
+    "Geography/Maps/DrokShah.jpg",
+    "Session preps/Random ideas dump.md",
+    "History/Terra-Nova Timeline/Terra-Nova Timeline.md",
+    "Session preps/long term prep/Supernatural Allies & Gifts.md",
+    "Geography/Maps/Western Escarth.jpg",
+    "Items/unique items/Bloom of Renewal.md",
+    "Session preps/long term prep/Friendly Faces.md",
+    "aa templates/Tyran.md",
+    "Statblocks/allies/old tyran.png",
+    "aa templates/Solace.md",
+    "Statblocks/allies/solace.png",
+    "Statblocks/clash files/solace.clash",
+    "Characters/People/Juno.md",
+    "aa templates/Thalia.md",
+    "Organizations/The Fractal Oath.md",
+    "Characters/People/Lennox.md",
+    "Statblocks/clash files/old tyran.clash",
+    "Characters/People/Tyran.md",
+    "Statblocks/allies/jerome darksteel.png",
+    "Statblocks/clash files/jerome darksteel.clash",
+    "Statblocks/clash files",
+    "Statblocks/New folder",
+    "Characters/People/Kairos.md",
+    "Session preps/old sessions/9-15-2024 session prep.md",
+    "History/books/The Great Wyrms of Terra-Nova.md",
+    "Characters/People/Brawler.md",
+    "Statblocks/jerome.png",
+    "Campaigns/The Reckoner's Wrath/Events/Fate's Rise/THE WEAVER OF OUR WORLD.md",
+    "Organizations/Divine Champions.md",
+    "player docs/Ivys' Dreams.md",
+    "player docs/Ivys Stuff.md",
+    "Statblocks/spruce willis.png",
+    "Spells/planar pathway.jpg",
+    "Characters/Dragons",
+    "Geography/Iramo",
+    "Geography/Talayal",
+    "videos",
+    "Characters/Character Backstories",
+    "Geography/Nyxaleth.canvas"
+  ]
+}

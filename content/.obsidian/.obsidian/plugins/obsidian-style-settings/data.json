@@ -1,0 +1,20 @@
+{
+  "ITS@@select": "none",
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false,
+  "ITS@@nord": true,
+  "ITS@@accent-color": false,
+  "ITS@@s-d": false,
+  "ITS@@kanban-title-center": false,
+  "ITS@@kanban-minimal": false,
+  "ITS@@kanban-boxed": false,
+  "ITS@@paper": true,
+  "ITS@@writing-document": false,
+  "obsidian-joval-theme@@switch-dcol": "col-mod-a",
+  "obsidian-joval-theme@@switch-lcol": "col-mod-d"
+}

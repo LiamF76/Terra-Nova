@@ -1,0 +1,30 @@
+This is a list of all Gods in Terra-Nova:
+- [[Characters/Gods/Shao Daraan|Shao Daraan]] the Elder
+- Illuman The Lightbringer, God of Light and the Sun
+- [[Balthazaar]] the Night serpent, God of Chaos and Darkness
+- Tena the World-Mother, Goddess of Nature
+- Erebos the Reaper, God of Death
+- Mani the Crescent Son, God of the Moon
+- [[Aton]] the Unrelenting Hawk (Tuah), God of Revenge and Speed
+- Iros the Celestial Hammer, God of Crafting and Trade
+- [[Vulcan]] the Blade Master, God of War
+- Fulgrim the Thunder Bringer, God of Storms and Weather 
+- Mira the Leviathan’s Beloved, Goddess of the Seas and Oceans
+- Skuld Ysor the Winterborn Matron, Goddess of Winter, Snow, and North
+- Ishtar the Wise, God of Peace and Reason
+- Oras the Sleeper, God of Dreams and Twilight
+- [[Kronos]] the Unchained, God of Time
+- Khabris the Expansive, God of Space
+- Telura the Caster, Goddess of Magic
+- Duraadin the Stonefather, God of Dwarves and the Earth
+- Silvanus the Trickster, God of Nature and Mischief
+- Aureon the Intelligent, God of Knowledge and Strategy
+- Jahaad the God of the Dead
+- Oasis the Kind, Goddess of Forgiveness and Respite
+- Surtur the Burning Soul, God of Fire and Volcanoes
+- Hermod the Lucky, God of Luck
+- Fermus the Merry, God of Beer
+- Tiamat the Dragon Queen, Goddess of Greed and Chromatic Dragonborn
+- Aethor the Mithril Dragon, God of the Sky, and Metallic Dragonborn
+- Aurum the Golden Child, God of Pride
+- Aestus the Brass King, God of Promise and Dedication

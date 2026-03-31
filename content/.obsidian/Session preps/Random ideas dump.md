@@ -1,0 +1,12 @@
+- monster/ NPC: giant furnace like a beholder that is a center furnace like the eye, and then the stalks are steampunk arms with weapons and gadgets
+- warforged that looks like Megatron but uses a spear, is a warforged clone/ reforged of Pontius?
+- fey knight with horns like Loki
+- Antigone campfire session, mom traps Antigone in an experiment chamber with mutant vampires to train them/ punish them for something
+- The King in Rags: undead king of the cursed land Akash
+- The Cult of the Black Grail
+- Zyrathia spell book is an abyssal spell book and clovis' ripped in half and sewn together
+- The Pyroxian Spire
+- Khal Daraan speaking, "It speaks in a language so old even the earth no longer remembers, not in words but feelings, thoughts, a direct line of communication, it is Khal, and it is awake."
+- Where the stars kiss the ocean.
+- Khal Daraan is imprisoned in Terra-Nova, The Temple of Jahaad, The Hall of Creations, and the one in Agamarth are the locks that hold him in, the keys are pieces of the prime creations. The Oakenheart is the door.
+- 

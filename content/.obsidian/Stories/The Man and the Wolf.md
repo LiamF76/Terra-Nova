@@ -1,0 +1,23 @@
+The Man and the Wolf:
+
+In the early days of Terra-Nova, a wanderer by the name of Toren, he traveled the land seeing all the beauty and sadness the world had to offer. He sought to understand the people of the world, seeing their culture, their songs and stories, seeking to see their hearts and their meanings. He wanted to learn the trade of blacksmithing, desiring the skill to create his own weapons, to better understand every part of them.
+
+One especially harsh winter Toren rested in a small village. The townspeople spoke of a ferocious and terrible beast, a wolf that attacked their people and killed their livestock. It was said to me many tens of feet tall, with terrible fangs and snow white fur. The villagers were unable to defeat or capture the wolf, so they asked Toren the wanderer if he could help them, desperate for a solution. They were starving without their livestock and their traders could not make passage outside town while the wolf prowled. Toren was reluctant, but obliged them, and made his way into the forest.
+
+Toren however, did not go with an ax, sword, or spell. He took his tools, a hammer and tongs, and his heavy leather apron. Vulcan followed the tracks through the snow until he reached a small cave, dark and ominous, he entered with his trusty hammer. As he delved through the cave he came to a chamber, where he saw the great and terrible wolf, but it was not as the people had described. Its fur was matted and emaciated and its chest was sunken and hungry, with ribs showing. How could you starve if you had stolen the villagers' sheep and men? Toren thought, but then he was his answer, a litter of 12 pups dining upon a  sheep behind their mother. 
+
+Toren instinctively raised his hammer back to strike, but stayed his hand, and placed his tools back on his belt. Instead of fighting, he spoke to the wolf. He saw the same hunger and desire to survive in the wolf and he did in those villagers. 
+
+The wolf, sensing Toren’s peaceful intentions, laid down, ceasing its aggression and listened. He ran his hand down the beast's snout, caressing and petting it softly as he laid his apron across her back to warm her. He pleaded with the wolf to come with him to the village, so he could show both groups how the other was the same as them, all just wanting to survive Skuld Ysor’s harsh winter.
+
+The wolf was angry, she did not trust the villagers, they had killed her mate and hurt her, starving her and her children. Toren understood, but said that if we do not learn to work together, the cycle will never end, and her children would be trapped in the same doom as her mate and she was. This swayed the wolf, and she along with her pups accompanied Toren back to the village.
+
+Reaching the village the people were outraged, and made to the gate with their weapons ready, but Toren stopped their fury and stayed their blades. He showed them the wolf and her cubs, seeing the same hunger and desperation that the villagers had. He showed them that they had the same struggle, and fighting each other was only a path to death for all of them. Toren shared with the wolf and the villagers the true essence of strength: it is not merely the ability to overpower others, but the responsibility to protect and uplift those in need. He demonstrated how his physical strength was secondary to the strength of his spirit and compassion.
+
+The people were hesitant at first, but as Toren spoke they saw their children play with the pups and heard him truly. The wolf was accepted, and together they prospered through the winter and beyond. The wolf mother and her pups becoming great friends and protectors of the people and the village for many years. Toren, satisfied with his help for the people and the wolf, continued on in his travels.
+
+Through Toren's wisdom, the villagers learned that violence begets more violence and that true power lies in unity and understanding. The wolf, transformed by Toren’s message, became a guardian of the village, its ferocity turned to protection rather than destruction.
+
+After many years of prosperity Toren returned to the village, and revealed himself to be the God [[Vulcan]]. He said that despite being the god of war, he wanted to show the mortals of this world, both man and beast, that war cannot be forever, and we must always strive to be better than those who came before us. The people of the village were granted passage to [[Vulcan]]’s divine paradise of Armageddon, feasting in his Ruby Palace and never facing the harsh world again. 
+
+The wolf passed soon after, and found herself reborn in fire and black fur, now known as Onyx, [[Vulcan]]’s most trusted and beloved friend, it is said she guides [[Vulcan]]’s faithful across the stars to his realm when they pass.

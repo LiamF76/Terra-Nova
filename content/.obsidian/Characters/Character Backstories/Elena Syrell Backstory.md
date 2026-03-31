@@ -1,0 +1,22 @@
+Elena's strength is dwarfed only by her unyielding faith. She follows the Moon God Mani, bringing his teachings to all evildoers who see the night as their ally. She is there to remind them that the night belongs to the moons. It is said that her blade burns with cool blue light as if she holds Thalun her very hand. 
+
+Elena carries the noble name of Syrell, an ancient house of Estor whom has defended the legendary Lakefort since before almost anyone can remember. Built on the North-Eastern shores of the Moonlight Lake, Elena rules the region from her castle, a bastion of safety and justice for the people she protects.
+
+Although today Elena is a noble and valiant woman, praised for her mastery of the divine weapon Lune, the Pillar of Moonlight, she was not always so. Elena grew up under the expected challenges a woman in a noble house faces. She was discouraged from fighting and learning the ways of statecraft and ruling. Her father Harlan Syrell was not always attentive, and often broke his marriage vows. She grew up beside his bastard son, and often times she was angry at both the baby and her father for it. As she grew older, she was often raised mainly by her mother, who was kind and open to her desire to learn swordcraft. She honed her skills in diplomacy and combat desiring to inherit her father's castle and lands.
+Despite her dutiful work and dedication, Harlan never believed she would be ready, and before he could name an heir, he died in a skirmish with Winterlandian raiders that he believed he could trust. Elena was just 16, and her life was changed thereafter.
+
+Her uncle, Damion Syrell, a second son of her Grandfather, had always been jealous, and had always admired Elena. He loved her, as an Uncle, and maybe as more. He murdered her mother, though she has never been able to prove it. Damion was appointed the interim Lord until Elena came of age, and he attempted to sink his hooks as deep into her mind as he could. The acts he preformed will not be described, but he tried, and failed, to gain her affection. 
+
+On one particularly terrible night, as Elena lay in her bed and Damion lay his body on top of hers, she looked up at the moon, its cleansing light washed over her, and in a moment of pure grace she saw Mani. He wiped her tears and told his child of moonlight that she need not cry, for so long as she followed him, no man could touch her, and should he, his skin would cause no feeling from her. She would be invincible in the grasp of debauchery.
+
+She survived him, and with the help of her friend Bekarys, finally had him removed from the castle two long years later when she became the Lady of the Lakefort. Elena rules with the pillars of her father's rule, treat your subjects as you treat your lords, and mercy to the guilty is cruelty to the innocent.
+
+While she tried to accept her half-brother, she realized quickly that their upbringing had led him down dark roads. He had pledged himself to the vengeful daughter of Mani, Aria the Black Star. She attempted to sway Kieran with words, but he would not listen. He believed Aria loved him, and that they could be together, despite Elena knowing this to simply be a calculated attack on Mani through Aria. The siblings fought. Aria had made the frail young boy Kieran a decent opponent, but he was outclassed in the end. Elena shattered his celestial blade, and banished him north. Sentenced to never return to Estor after attempting to take his sister's life.
+
+For her stance against Aria, even in the face of hurting her family, Mani named her his champion. Swearing that as long as the moons rose in the night sky he would protect her as his child, as compensation for the difficult choice she made.
+
+Elena made her way as a Lady on her martial prowess and ability. She was often courted and even King Adrithyr encouraged her to marry to strengthen her line on many occasions. She refused. She wanted to be known for her own deeds and nothing else. She would die Elena Syrell, not some Lord's wife.
+
+During the Ivar's Rebellion she made a name for herself after multiple battles. She led the defense of her home in the Battle of the Red Moon, known for causing so much bloodshed the Moonlight Lake was red for three days afterwards.
+
+Against the scar Elena is the first line of defense. Literally less than 300ft from her castle gates, across the Moonlight bridge sits the portal to the deep Abyss. 

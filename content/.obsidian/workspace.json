@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working Folder/Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7fd963d1fb72649",
+    "type": "split",
+    "children": [
+      {
+        "id": "f67b9d3ed94c60db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a20b8c888495672e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dbf3a6fd19f04ab1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edfa255f6987f8f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d2b1980da109ea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d5e71c731e094b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "45ca96a981b904aa",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "b450cb6f1974b846",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "f3ee0023d4eca680",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "dacf1174451fbaa0",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "82f6dec143a7e707",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "88e31279d7074680",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "5e78cf4548ce28b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Working Folder/Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          },
+          {
+            "id": "3c8a61d2f589c9e1",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "3a73549a0677f425",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Resources/Resources.md",
+    "Resources/Gameplay Resources/Safety Tools.md",
+    "index.md",
+    "Resources/Gameplay Resources/Safety Tools",
+    "Resources/Gameplay Resources/Terra-Nova Primer.md",
+    "Working Folder/Dashboard.md",
+    "Templates/Basic Template.md",
+    "conflict-files-obsidian-git.md",
+    "Wiki/index.md",
+    "Untitled",
+    "Characters/People/Fenwarin.md",
+    "Working Folder/Kanban Boards/TBD Campaign.md",
+    "Characters/People/Frobwina.md",
+    "Characters/People/Solace.md",
+    "Characters/People/Skaadi.md",
+    "Characters/People/Stannis.md",
+    "Characters/People/Stoneheart.md",
+    "Characters/People/Surge.md",
+    "Characters/People/Zurbag.md",
+    "Characters/People/Wendell.md",
+    "Characters/People/Waft.md",
+    "Characters/People/Vivienne.md",
+    "Characters/People/Vesper.md",
+    "Characters/People/Vazzrick.md",
+    "Characters/People/Urzoth.md",
+    "Characters/People/Vashmira.md",
+    "Characters/People/Omroc.md",
+    "Characters/People/Rhas'Vinul.md",
+    "Wiki",
+    "quartz/content",
+    "quartz/node_modules/@citation-js/core/package.json",
+    "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/json.js",
+    "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/index.js",
+    "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs",
+    "quartz/node_modules/@citation-js/plugin-bibtex/lib/output/index.js",
+    "quartz/node_modules/@citation-js/plugin-bibtex/lib/output/value.js",
+    "quartz/node_modules/cli-spinner/img/spinner.gif",
+    "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
+    "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
+    "quartz/node_modules/js-binary-schema-parser/example/box.gif",
+    "quartz/node_modules/gifuct-js/demo/dog.gif",
+    "quartz/node_modules/gifuct-js/demo/jblack.gif",
+    "quartz/node_modules/gifuct-js/demo/horses.gif",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/images/social-image-preview-light.png"
+  ]
+}

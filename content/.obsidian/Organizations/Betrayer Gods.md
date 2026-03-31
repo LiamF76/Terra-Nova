@@ -1,0 +1,5 @@
+- [[Characters/Gods/Betrayers/Arkonil]] the Wicked, God Hatred and Rebellion
+- Voracia the Dreaded, Goddess of Blood Magic and Ritual
+- Korvus the Cruel, God of Violence
+- Vikon, God of Natural Disasters and Earthquakes
+- 

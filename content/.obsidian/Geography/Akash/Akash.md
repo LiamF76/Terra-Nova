@@ -1,0 +1,7 @@
+The continent of Akash is a set of  3 major landmasses and a few smaller ones known as, "The Golden Land". The name comes from its history as being protected by Golden Dragons, and for its iconic Marigold flowers. It is generally warm with some extreme temperature zones towards the north and in its deserts. The continent is largely rivers and grasslands, making it rife with fertile soil and healthy land for settlement.
+
+##### The Nations:
+- **Aravalla Accord**: Republic, power is held by democratically elected officials who form the Avalonian Senate and create law and policy.
+- **The Wahellian Wilds**: The largest part of the continent, Wahellia is known as The Wilds for its unique properties and lack of rulership. It is a vast and dangerous land that is full to the brim with opportunity for profit due to its rare creatures and many mysterious remains of ancient civilizations. Many adventurers make a living on expeditions to Wahellia.
+- **Lazarus**: Empire, Monarchy, power is passed through a bloodline. There are Emperors and their Princes who inherit upon the Emperor's death or forfeit of power. They have a council made up of advisors who preside different state organizations, including regional governors.
+- **Talasva**: Theocracy, central state religion and the government is the church. There are religious ceremonies to determine the next leader who is a known as "The Prophet". 

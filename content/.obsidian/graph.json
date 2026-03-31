@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"z Old\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:characters",
+      "color": {
+        "a": 1,
+        "rgb": 6076630
+      }
+    },
+    {
+      "query": "path:places",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:history",
+      "color": {
+        "a": 1,
+        "rgb": 13032856
+      }
+    },
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 14649382
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.728690228690229,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 105,
+  "scale": 0.2930067804536717,
+  "close": true
+}

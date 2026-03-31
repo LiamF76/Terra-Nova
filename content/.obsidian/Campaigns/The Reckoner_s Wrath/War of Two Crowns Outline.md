@@ -1,0 +1,8 @@
+- Battle of Bloody Gems
+	- The first battle of the war, Young Wolves lead airships and Royal army along with their own forces to pincer the army of Thargoth.
+	- Party gets into combat with an Abyssal Dragon and fire wisps (expected win)
+	- Runic Pillars are activated, Abyss portal is opened across Estor, the world is forever changed, this event becomes known as [[The Sundering]]
+	- The party is trapped within Bourn Dorhul under siege, Atligan in a moment of clarity in his madness tells the party they must "Seek the shrine of gold".
+	- Party goes down through the depths of Bourn Dorhul into "[[Lost halls of Durik]]" dungeon.
+	- Reach the shrine of gold, activate it using Reister's key, and fight Aurelionite in the Golden Shores, gain him as an ally.
+	- After gaining Aurelionite as an ally
