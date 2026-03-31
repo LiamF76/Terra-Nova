@@ -1,0 +1,6 @@
+- Uther God of Victory
+- Yagi God of Wonders
+- Choion God of Poetry
+- Egoana Goddess of Rivers
+- Ytulla Goddess of Secrecy
+- Calina Goddess of Love

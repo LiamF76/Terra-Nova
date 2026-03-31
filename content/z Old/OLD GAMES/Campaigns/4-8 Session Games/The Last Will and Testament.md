@@ -1,0 +1,2 @@
+
+TBD NPC has passed away, and left a very long list of friends. The PCs are all people who were related to, friends with, or just invited to the funeral. The TBD NPC left a last will, and it names all the PCs as the benefactors to obtain their family treasure from a bank vault in a far away place.

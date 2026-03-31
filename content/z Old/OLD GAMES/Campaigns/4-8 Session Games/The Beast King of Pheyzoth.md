@@ -1,0 +1,2 @@
+
+Medium campaign based after the first Lazarus campaign, where the party goes into the Pheyzoth ravine and learns of and fights against a coalition of beast races who have crowned a Leonin necromancer as King of the Wahellian Wilds. This crowning results in the curse of Lazarus manifesting, and wreaking havoc which the players are pitted against.

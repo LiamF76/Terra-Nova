@@ -1,0 +1,3 @@
+A wonderous and sacred treasure to the people of Estor, this gemstone was said to be part of the eye of the heavens themselves. It shines in the dark like the night sky itself. About 8 inches across at tits longest, its an oblong oval like the visible section of an eyeball. 
+
+VALUE: Considered priceless, could only be bought with a holy promise, or an insane amount of gold. Kings have fought wars over much less. 

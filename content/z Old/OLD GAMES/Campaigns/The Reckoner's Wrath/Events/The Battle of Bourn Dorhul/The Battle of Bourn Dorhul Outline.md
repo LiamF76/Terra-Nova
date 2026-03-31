@@ -1,0 +1,16 @@
+The battle is a bloody chaotic massacre. The main parts of the battle are the start of the siege, where Thargoth hits the gates with his burning hammer, weakening the adamantine lined stone gateway. Then the Young Wolves attack, the battle turns into a stalemate for a short while, and within the hour the Young Wolves are clearly at the advantage. The entire valley is covered in dust and darkness, making visibility very low. At the beginning you notice some strange arcane energy, not like there are enemies behind you, but something magical is at work. There are a strange number of magic standing stones lining the edges of the valley, the same one you saw during your fly over into the battlefield. As the battle rages on a few stragglers are noticed coming from different areas, probably scouts from the hills that made their way down behind you. Melantha and the Wolves come face to face with Thargoth, and then the battle erupts around you. Suddenly you aren't surrounding Thargoth at the gates, a wave of devils is flowing in behind you, as the dust clears you see a gigantic portal, lining from one edge of the valley to the other. A portal directly into the abyss.
+
+TIMELINE:
+- Thargoth and his army of men and devils begin siege of Bourn Dorhul
+- The siege is a stalemate for 2 hours, the gates start to waver under Thargoth's Hammer
+- Young Wolves receive the signal, and make their move
+- The battle begins in full, Crownbreaker army is trapped between the mountain and the Young Wolves army.
+- The battle goes well, and the party cuts the Crownbreaker army in half (Fiona captures Verrow in a wall of force prison.)
+- As the Young wolves gain sight of Thargoth, his giant hammer beating on the gates of Bourn Dorhul, the battle shifts as enemies appear to be coming from behind them. 
+- Chaos erupts as the sundering beings, the pillars come alive by some spell being cast by Damion Syrell. (He self deletes using a Balthazaar dagger) A giant rift to the Abyss opens across the world.
+- The Young Wolves begin to lose, Mervin grabs Melantha on the shoulder and tells her they need to retreat, they've lost half their army.
+- The party retreats into Bourn Dorhul, trapped there for days during the siege.
+- Argentus sends the party to awaken the titan beneath the mountain (they go get Aurelionite/ do the Lost Halls of Durik).
+- Come back, reinforced with him, just in time because the enemy is about to breach the gate, Tyran and Mervin agree their best chance to survive is to counterattack before they get inside. They will be fighting with less than half of their enemies number, but there's a chance. Argentus sent word via mirror to Augustus, they don't know when help will arrive.
+- Attack begins, the party explodes out of the gate, Aurelionite rises from a golden portal in the earth, he 1v1s Thargoth. The party manages to fight well, but they are losing.
+- Kairos offers Ivys power (mention sun), helps, but its not enough. Dragons arrive, battle evens out, party is victorious.

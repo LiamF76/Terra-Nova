@@ -1,0 +1,23 @@
+The dark tribunal is a trio of newly ascended gods (technically not mantled, but harnessing the power of Khal Daraan to become nigh divine through the ritual of ). They are working with the servants of both Arkonil and Balthazaar, playing every side of every conflict to incite as much chaos as possible to distract from their plan to free Khal Daraan and destroy the world. This document will list the members and their servants. 
+
+- #### [[Hyperion, The Setting Sun]], God of Endings
+	- ##### Lieutenants: 
+		- The Final Witness
+		- The Clockhand Scythe
+		- Ra Chimon, The Final Evolution
+	- ##### Lesser Followers:
+		- Eternity Echoes
+		- 
+- #### [[Ozymandias, The Scorpion King]], God of Lies and Venom
+	- ##### Lieutenants: 
+		- Alarak, First Sword of Nyxaleth
+		- Malcon the Moon Wyrm
+		- Agamemnon, The Red Rage
+	- ##### Lesser Followers:
+		- Scorpion Priests
+		- The Thalians of Nyxaleth
+- #### [[Aldred, The Black Sun Deity]], God of Penance and Punishment
+	- ##### Lieutenants: 
+		- Sister Lash, The Whip of Darkness
+		- Brother Tarot, Keeper of the Scales
+		- Brother Iman Bloodhand, The Dragon Rider (Dragon: Sanguirax)

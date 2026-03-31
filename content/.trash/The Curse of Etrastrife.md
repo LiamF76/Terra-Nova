@@ -1,0 +1,1 @@
+A potent and nigh unbreakable curse, this forces the target to suffer eternally living as long as the person they despise most exists.

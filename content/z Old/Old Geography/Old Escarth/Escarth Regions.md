@@ -1,0 +1,13 @@
+South of the Blade Peaks:
+- The North Caspian Shore: The land along the north side of the Caspian Bay. It contains the Screamwind Peaks (home to Skor Ventos), and the small village of Sunset. Also home to the small Solwood Forest. 
+- The Valley of Stones: The deep valley at the base of Mount Stoneheart, contains the town of Gembourne and entrance to the dwarves Kingdom. Known for its iconic stone pillars of various exotic stone types.
+- The Shattered Crown: The ruins of Oligoth and the ravaged battlefield around it. 
+- The Ironwood Forest: A massive and magical forest, the largest in Escarth. It contains The town of Petlia and the Lake of Glass. It is famous for its magical trees, and the wood is almost as valuable as gold.
+- The Graygrove: A large landmass flanked by the Warming River on its right and the Silverstream on its left. It is a prosperous and peaceful region, home to wildlife and many small taverns and towns. It was once home to the legendary castle Tor Vorah, but now its a ruin, surrounded by pastel flowers and a fertile grove.
+- The Tiberian Highlands: Known for its high altitude, the ground level in this region is almost 6,000 miles above sea level. It's a harsh and cold area, home to the small city of Felldoor and the Beastmaster city of Griffhold. This region is also home to the Griffons of Escarth.
+- The Elorian Hills: Known for its iconic white stone cliffs and hills, this region is a jagged cluster of dangerous sharp peaks and valleys. It is home to the aptly named Castle Whitestone, and the historic town of Aemon's Landing. The caves in the Slate cliffs are said to be home to valuable crystals, but the beasts that protect them are a threat to any who seek them.
+- The Crownlands: Terraven, Redsong, Temple Hyperios
+- The Elmsong Basin: The White Plains, The Cage, Silverglade, Meadowfen
+- The Eastmarch: The most prosperous region of Escarth. Home to the massive trade center 
+- The Valley of Silver: Mythria, The Mythwood
+- The Iron Coast: Fort Dueregar, The Silvermist Mountains

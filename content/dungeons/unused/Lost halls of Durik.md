@@ -1,0 +1,30 @@
+BATTLEMAP STUFF
+- Wandering Monsters: 2x [[hobgoblin.png]] investigating a strange sound, if the party makes noise they will come investigate (probably in room 5).
+
+- 1: At the end of the rope, the fine carved and maintained Dwarven tunnels open up into jagged natural caves. The air is strangely warm and comfortable, and the walls are dark stone. There is glowing yellow moss along the ceilings and walls.
+	- a: The floor is made of perfect hexagonal tiles. An old iron box lies in the south corner of the room. 
+		- Enemies: 6x [[goblin.png]] (Goblin Swarm large creature), 1x [[hobgoblin captain.png]]
+		- Loot: 20GP
+	- b: The floor of this room is covered with a thick layer of dust. There are old mining tools hanging from the walls. (Helmets, pickaxes, lamps). After being in the room and inspecting the stuff, you notice the doorway is covered with a thin film of green goo, and it is leaking from the ceiling as well, Roll initiative!
+		- Enemies: [[gelatinous cube.png]], the gelatinous cube you notice, has hundreds of gold pieces and a small jar inside it as well.
+		- Loot: 500GP, potion of Darkvision (60ft 1 minute)
+- 2: The hallway stretches before you, to the west is a large carven with a small pillar in the center, to the north is a small cavern with a large pillar in the center. 
+	- Trap: pressure plate stone, Ice dart trap: +7 to hit 10ft area targets, 2d10 cold damage. DC 15 to find, DC 15 to disable
+	- 3: The room is warm, to the south of the pillar is a small campfire, sitting beside it is a pair of hobgoblins in armor.
+		- Enemies: 2x [[hobgoblin.png]]
+- 4: Along the walls, in Goblin, there are crude letters that spell, "Trespassers shall be sacrificed to the altars." Carved into the front of the large natural stone pillar is a vile and cruel altar, washed in blood with bones and teeth placed on it. There is a golden coin with a bloody chain tied to it like a necklace.
+	- Loot: Cursed Amulet of Gold, whoever wears it must pick up all the gold they find.
+- 5: This room is filled with corpses in piles. To the south there is a large cavern, to the northwest there is a small room with branching paths. 
+	- d: This is a connecting cave, leading up stairs north to a large cave room and an angled tunnel to the west. 
+- 6: This room is filled with webs, large crates are covered in spiders webs and there are barrels as well. The room is cold and has high ceilings, sounds echo greatly here. (Touching the spider webs alerts spiders from room 7)
+	- Enemies: 2x [[giant spider.png]]
+	- Loot: 100 pounds of Iron ore (worth 10GP)
+- 7: This room is clearly a nest, the spider webs cover every inch of the walls and ceilings. In the largest web there is a sleeping spider, larger than all the others and curled up.
+	- Enemies: [[goliath longlegs.png]]
+- 8: BOSS ROOM! This gigantic cavern is the largest in the cave system, and has multiple gigantic jagged stone pillars stretching from floor to ceiling. 
+	- Enemies: 1x [[hobgoblin warlord.png]] riding a [[tiger.png]] (bonus 20 to both HP), 4x [[hobgoblin.png]] (bonus 10hp), 6x [[goblin.png]] (swarm)
+	- Loot:
+		- On Hobgoblins: weapons and armor, total 50GP (10 on each)
+		- Hidden chest: DC 20 to find, hidden underneath a large stone in the floor, DC 20 to unlock, 25 to break (20hp): 5000GP, bloodstone, citrine, quartz, sardonyx, and zircon worth a total of 1000GP
+	- c: A small offshoot from the center cavern, there is a tall altar made of pure gold, with a small keyhole in its center. 
+		- Placing Reister's key in the keyhole opens a golden portal, walking through it beings you to the [[Gilded Coast]]. 

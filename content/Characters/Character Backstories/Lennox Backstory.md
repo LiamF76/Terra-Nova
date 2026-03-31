@@ -1,0 +1,9 @@
+The Codebreaker, Lennox takes his iconic red hat, Steel Defender Kali, and homunculus servant Ubuntu everywhere he goes. Lennox is an artificer, and uses his prowess and understanding for his own mechanical nature to masterfully interweave his technology with that of the Aelarians. His mind is sharp, and his weapons dangerous, especially his powerful Aelarian pulse cannon. 
+
+Lennox represents the Fractal Oath, a group of warforged who sought to understand their nature as constructs, who discovered that their first purpose was that of an army to protect the world. Now he may no longer be a slave, but he seeks to embody the purpose set for him by his creators, and defend the world of his own volition. 
+
+While a young Warforged, Lennox has a thirst for learning. He sought freedom under the watchful eye of Paragon, and when they discovered Arkeron's Heart beneath Bourn Dorhul, he was completely dedicated to the cause. Lennox was very helpful in assisting Tolgar become a Warforged, though most of the work was done by the Dwarf. When Lennox saw Locket, an enigmatic and inspiring member of the Warforged, he was inspired, and decided to make his own pilgrimage to follow Arkeron. 
+
+On his journey he discovered a small Aelarian ruin, and therein he found the blueprints for a Pulse Cannon, and a trinket. What would have been a simple toy in Aelarian times, Lennox took under his care. He named his pet mechanical sparrow Ubuntu, and they became a pair. 
+
+Using his discovery he constructed a guardian of mechanical might, calling it Kali. He believes Kali represents the Warforged's purpose as defenders of the world, and Ubuntu represents his desire to learn and explore. The troupe is always seeking new Aelarian technology, ruins, or evildoers to remove from the world's equation. 

@@ -1,0 +1,9 @@
+Name: Wings of Pyrahn
+
+Rarity/Attunement: 
+
+"" HIDDEN IN UNDERGROUND CATACOMB IN TRAXGATE, CERWAN GIVES KNOWLEDGE OF THE SECRET ENTRANCE!
+
+Description: 
+
+Effects: 

@@ -1,0 +1,2 @@
+
+A magical market wrapped in perpetual twilight, where you trade much more valuable things than memories in exchange for wares. be it memories, skills, or your very soul, the price is high for the items sold in this mystic market.

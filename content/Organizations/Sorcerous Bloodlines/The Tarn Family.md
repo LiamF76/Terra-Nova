@@ -1,0 +1,2 @@
+
+The Tarn family are the ancestral rulers of Tarnkeep, a fortress / town in the [[Kheagon]] Province of [[Sovrentia]]. The Tarn family are a sorcerous bloodline, descended from a great Basilisk, they have powers related to crystal and stone.

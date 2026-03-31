@@ -1,0 +1,22 @@
+Essek Eyewright, born and raised in Terraven, comes from a poor and hard working family. His father was involved with the Redsong academy, working as a menial cleaner and occasional rune carver for the school. His mother was a dishwasher at a small local tavern. The struggled, often times the parents went without food so Essek could eat, but they did survive.
+
+Essek often spent time with his father at work, helping out around the academy. He was strictly instructed to stay at his father's side, not to bother the students, and to never go inside any of the rooms without permission. Essek obeyed, for months, every day enticed by the beauty of the magic around him, but he resisted against every fiber of his being, until he didn't. 
+
+While his father toiled, carving runes in a small closet beside a lecture hall, Essek heard a strange noise. Almost like a blurred voice, speaking, chanting, calling him. He followed it down the high ceilinged halls of Redsong as the voice grew louder, until he reached a room with a closed wood door. Essek reached his small hands to the handle and cracked it open slightly, where he saw a sight he would never forget. 
+
+In that room he saw a group of students, all bearing the mark of the most prestigious fraternity on campus, chanting around a brimstone circle. As they spoke a pale red light engulfed the room, as a book covered in strange eyeballs shuddered and vibrated in the center of the circle. Essek slipped as his focus was consumed by this strange ritual, and he tumbled into the room, slipping into the circle and breaking the line of brimstone. 
+
+As if simultaneously with Essek's fall, a blood red skinned demon with its back covered in gnarled spines of greasy black hair appeared above the book, screeching terribly. Essek collapsed, frozen in fear of the monster as it screamed, and he heard the sounds of gore and violence as he heard the students bodies crash to the floor. As he lay curled into the fetal position, a child terrified for his life, he felt himself be lifted, warm and safe. He cried as he was cradled, but what he thought would be the face of his father, come to keep him safe, was that of the demon. Its empty eye sockets looking down at him, as it took one of its long clawed fingers and carved a symbol into the boys chest, an abyssal rune.
+
+As strange as it seemed Essek felt no pain, on the warm touch of something that expressed him love. As the symbol cooled the devil whispered softly into Essek's ear, "You shall have no magic but that of your mind, and when you have mastered it, return to me child."
+
+As the beast finished its words Essek's father alongside a woman clad in deep red robes burst into the room, she let loose a hailstorm of fiery arrows piercing and tearing the demon's flesh. It screamed and leapt back to the pages of the book, disappearing.
+
+The woman was Kaela, the Red Wizard, and she took Essek in as her apprentice that very day. Essek studied magics, though was never able to use them himself, save a few minor cantrips. He worked in the libraries to assist with Lady Kaela's research, and was especially attracted to the study of the abyss, Demonology as he called it. He became one of the premier researchers in the field of abyssal academia, and to this day has (through theory and text based research), been able to create the clearest map of the Abyss to date.
+
+
+Essek served as Kaela's apprentice for a few years, but was quickly pushed aside when his inability to develop his own magic as a wizard became more apparent. He was very talented in research and learning about the Abyss, but could not seem to grasp leveled spellcasting.
+
+After his years as Kaela's apprentice and then research assistant, Essek traveled alongside the Young Wolves. He became their companion as they traveled to the Fates, and subsequently to Ironpetal. After fleeing Ironpetal's collapse Essek became lost in the Abyss scar alongside Talinor. The two survived using Essek's deep understanding of the Hells and their interworking systems. During their attempt to reach the edge of the scar and escape they were attacked by a group of devils, which Essek managed to fend off as Talinor was badly wounded. 
+
+In a desperate attempt to save Talinor's life, Essek dragged his dying friend to an ancient temple to a forgotten god. This temple belonged to something Essek did not understand or recognize, but he knew it was dark, and abyssal. Essek prayed beyond all hope for a way to save Talinor and escape the Abyss, and in turn was granted a celestial vestige.

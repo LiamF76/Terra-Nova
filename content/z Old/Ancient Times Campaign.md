@@ -1,0 +1,1 @@
+Thaldrax the Nightbringer, a great and terrible scourge and force of darkness once waged war against the Wizard Council, but was defeated by a group of heroes. Thaldrax was using the power of Khal Daraan in the ancient times, but his story and power have changed and been molded over time, forgetting his connection to the Destroyer.

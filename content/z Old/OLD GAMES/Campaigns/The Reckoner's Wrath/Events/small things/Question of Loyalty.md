@@ -1,0 +1,7 @@
+Adrithyr waits for everyone to exit before turning to face you as the massive doors to the room are shut, booming loudly and echoing through the massive ornate hall. He flexes his shoulders slowly, basking in the silence of the room, the air feels heavy as he exerts his presence.
+- "Your friend Melantha has gone missing. Tell me what has happened to our cherished Champion of War."
+- "She was killed? Kidnapped? Perhaps fled? Under my watchful eye... this I must say... I *doubt*." As he says doubt you can feel the rumbling of his voice just slightly shake the room around him. 
+- "Did she die so quietly that none of her allies heard a whisper? Or perhaps she has betrayed me. Perhaps you have betrayed me." His eyes begin to glow orange and red as the air around him begins to warm. "Betraying me is betraying your own desire to walk upon Terra-Nova."
+- "There have been questions amongst my generals about the situation, my mages and knights are concerned, if the champion of war is so easily killed, what chance do we have? Prove to me that you can win this war."
+- "Emrys is an honored and decorated member of the Hyperion Knights, and due to the death of Hyperion Magnus Manson, I have chosen him with First Knight Mervin's blessing, to accompany you and represent the interest of the church."
+- 

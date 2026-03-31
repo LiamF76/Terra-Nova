@@ -1,0 +1,41 @@
+This is a list of all Divine Champions: 
+- [[Shao Daraan|Shao Daraan]], [[Augustus]]
+- Illuman, [[Mervin]]
+- Balthazaar, [[Damion]]
+- Tena, Ryfon
+- Erebos, Elaris (DEAD)
+- Mani, [[Elena]]
+- [[Aton]], 
+- Iros, [[Brondar]]
+- [[Vulcan]], Melantha
+- Fulgrim, [[Tonitru]]
+- Mira, 
+- Skuld Ysor, [[Magnus]] Whitefur
+- Ishtar, 
+- Oras, [[Kijma]]
+- Kronos, Reister Metamorph 
+- Khabris, Vega Nebule
+- Telura, Shin Tzu (DEAD)
+- Duraadin, 
+- Silvanus, 
+- Aureon, [[Julius]]
+- Jahaad, Igan (DEAD)
+- Oasis, (DEAD)
+- Surtur, 
+- Hermod, 
+- Fermus, 
+- Tiamat, 
+- Aethor, Ramses
+- Aurum, Bloodhorn
+- Aestus, 
+- Harmoniel, Elton
+
+- Arkonil, 
+- Voracia, 
+- Korvus, 
+
+FORMER CHAMPIONS:
+- [[Kairos]] of [[Kronos]]
+- [[Horus]] of [[Vaior]]
+- Lazarus of [[Vulcan]]
+- [[Characters/People/Tyran]] of [[Vulcan]]

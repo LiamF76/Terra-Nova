@@ -1,0 +1,36 @@
+The city of Krag Irath is a legendary and historic bastion of Orcish history and culture. It is built in the highest and most jagged peaks of the Berserker Peaks. Known for its strength, it houses powerful defenses and works of orcish design such as cliff spikes used to deter climbing, and ballista to ward off aerial attacks. Krag Irath has long been a supplier of powerful warriors and talented smiths to the world, known for giving the Estorian Royal Army many of their most elite and loyal warriors. 
+
+
+- #### People and Politics:
+	- Demographics: The population is mostly Orc, about 60%, with the rest being unevenly divided amongst Dragonborn, Warforged, Goblins, Bugbears, and Humans.
+	- Factions: 
+	- Politics: 
+- #### Locations and Architecture:
+	- There are a few different districts, *The Stonehearth Ward*, *The Frostfang Quarter*, *The Hallowed Crag*, and *The Stonemaw Enclave*. The Stonehearth Ward is residential. The Frostfang Quarter is where merchants, guilds, and all manner of industry occur. The Hallowed Crag is the area where the city's temples are built, and the Stonemaw Enclave is the fortified military center of the city. 
+	- The architecture is crude stone with thatch and wooden rooves. Orcs are known for their structural soundness but not the beauty, and Krag Irath is the pinnacle of function over form.
+	- The climate is cold, almost all year round, the warmest is during summer where it is usually warmest at 40-50 degrees.
+- #### Specific Locations:
+- ###### The Stonehearth Ward
+	- **The Towers of Lumdum**: Entrance to the city. Large fortified defense tower at entrance
+	- **The Bridge of Bones**: Entrance to the city. Bridge to city, when you kill your first enemy you place a bone on the bridge
+	- **The Howling Gate**: Main Gate entrance to the city, leads to the *Stonehearth Ward*.
+	- **The Blackfang Pit**: Isolated prison on a mountain peak outside the main city. Massive pit with walled fortified entrance, mechanical wooden elevator takes you down. The prison was built inside an ancient dormant volcano. Named the Blackfang Pit after the ancient Pit Fiend, called Blackfang, that resided there. 
+- ###### The Hallowed Crag
+	- **The Emberforge Sanctum**: The largest temple in the city, where the Orcs main deity, [[Vulcan]] the God of War, is worshipped. 
+	- **The House of the Unfortunate**: 
+	- **The Forgotten Hall**: A ruined temple to a forgotten or no longer important god, now it houses the humble followers of Illuman, led by the Warforged Priest Solace, who carries with him the kind word of the Dawnfather.
+- ###### The Frostfang Quarter
+	- **The Split Lip**: The most popular local tavern. Known for its internal fighting pit, where disputes during drunkenness are settled.
+	- **The Bloody Eye**: The Orcish equivalent of a mages guild. The Bloody Eye is largely composed of artificers who create magical items and great works of smithing (they may also work at the forges). The other major group of mages is the evocation sorcerers, specifically fire mages who use their magic to maintain the Dragonfire in *The Bloody Anvil*.
+	- **Urzoth's Hall**: 
+- ###### The Stonemaw Enclave
+	- **The Bloody Anvil**: The large city forges, worked by almost 50 orcs each day. This is where the greatest feats of Orcish smithing take place, powered by the captured fire of an ancient fire dragon long forgotten. 
+	- **The Chieftain's Spire**: The castle is named for its large spire, a tower built by the first chieftain who ruled after the city was founded. It is a dangerous stronghold with many layers of defense, soldiers, traps, and other things to deter attackers. Also home to a large central war room.
+- #### Religion and Temples:
+	- [[The Warrior's Way]] is the church of Vulcan, they have a massive and highly important temple in the city called *The Emberforge Sanctum*
+	- [[The Order of Armul]] resides in the *House of the Unfortunate*. 
+	- [[The Sunlight Road]] has a small temporary church in the ruins of *The Forgotten Hall*. Run by the Illumanic missionary, Solace, this temple seeks to bring Illuman to the downtrodden and forsaken. Contrary to popular belief, the worship is not outlawed, as King [[Ivar]] is a staunch supporter of religious freedom, much to Lady [[Zyrathia]]'s displeasure. 
+- #### Economy:
+	- 
+- #### Law and Military:
+	- The city is currently part of Arkonia, and is under the rule of King Ivar the Uncrowned. The city follows the laws of Arkonia loosely, but also their own doctrine under the teachings of the Vulcanite Church.

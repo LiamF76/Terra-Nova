@@ -1,0 +1,5 @@
+This is a message to every mortal in Terra-Nova, my name is Kairos Karius Bekarys Bontell. I am your savior. I was the first being created by Shao Daraan, and in my creation, in all of your creation, he has tortured, hurt, manipulated and wronged us. WE hae suffered because of an all powerful gods lack of compassion, but do not fear. I am here to avenge you all. I am going to kill god.
+
+*He raises his hands as the sun beings to shine brighter in the sky as it spins around the world faster and faster, he begins to glow with translucent light as a spectral clock appears behind his head.*
+
+TIME IS MY WEAPON! EXISTENCE IS MY PRISON, THE TABLE FADES UNBROKEN WITH THE MEMORIES OF US ALL! THOSE WHO WERE UNWRITTEN I REMEMBER YOU! LAZARUS THE FALLEN ANGEL, KARIUS THE KIND, GUS OAKALDRATT! THERE IS NO END, THERE IS NO EXISTENCE THERE IS SO DARAAN THERE IS NO TERRA NOVA THERE IS NO GAME!- Without me. I am the master of time, and that is where we end tonight's session.

@@ -1,0 +1,6 @@
+- Magmasaur has 2 chains around its arms, one is broken, the other looks weakened
+- there is a glass display screen with warming indicators, alarm starts blaring if touched, Magmasaur wakes up
+- doors become cloaked in a wall of arcane energy to protect from Magmasaur escape, while also trapping the party
+- when it engages with the part, one of the pipes (roll a d4 going clockwise from 1) breaks and lava begins to put out of it
+- the malfunctioning arcane engine in the center of the room starts to cause wild magic surges centered on casters in the party (targets them for their magic, make a point to mention that)
+- 

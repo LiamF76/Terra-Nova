@@ -1,0 +1,19 @@
+  
+
+
+
+# Areas:
+
+- **The Aurion Flats**: Named for their golden grasses that shimmer in the sunlight, resembling fields of precious metal. The Aurion flats are the safest region of the Wilds, mainly housing wolves, bears, and other weaker monsters. This is the only widely settled region. 
+	- *Geographical Features*: Made up of mostly golden grasslands. The terrain is not entirely flat but marked by gentle, undulating hills that stretch as far as the eye can see, offering expansive views of the surrounding landscape. Small clusters of trees, such as hardy oaks and acacias, break up the otherwise open terrain, creating shaded sanctuaries. Several small streams crisscross the plains, fed by snowmelt from the Shardveil Heights. These streams are vital water sources for animals and travelers. In spring, the plains burst into vibrant colors as wildflowers bloom, attracting pollinators and creating a breathtaking spectacle. 
+	- *Climate*: The Aurion Flats are subject to frequent strong winds sweeping down from the Shardveil Heights, shaping the grasses and making the air feel crisp and refreshing.
+	- *Wildlife*: Herds of wild horses and antelopes roam the golden grasses, while foxes and prairie dogs scurry among the scattered groves and rocky outcroppings. Overhead, hawks and golden eagles soar, hunting smaller prey like rabbits and field mice. In spring, the plains come alive with buzzing bees and colorful butterflies attracted to blooming wildflowers, while songbirds like larks and sparrows fill the air with their melodies. Predators like wolves and the occasional mountain lion stalk the edges, especially near the forest border or rocky terrain. The streams host frogs, otters, and fish, sustaining the diverse ecosystem.
+- **The Pheyzoth Ravine**: The Pheyzoth Ravine is a breathtaking geographical marvel, teeming with life and dynamic landscapes that contrast the surrounding regions. It is the main crossing for travelers and adventurers into the Wahellian Wilds. It was once the home of a highly advanced civilization, but is now filled with the spirits and undead of the fallen empire.
+	- *Geographical Features*: 
+		- **Eastern Edge**: Golden grasslands of the Aurion Flats stretch to the ravine’s edge, merging into dense forests. The trees here are ancient, their roots gripping the ravine’s cliffs and forming natural terraces. The forest is alive with the sounds of birds and the rustling of leaves.
+		- **Western Edge**: Massive lakes dominate the landscape, their waters feeding into cascading waterfalls that thunder down the ravine walls. These falls carve intricate paths through the stone, creating misty rainbows in the sunlight. Along the cliffs, rocky ledges are interspersed with vegetation, providing homes for nesting birds and small mammals.
+		- **Inside the Ravine**: The base of the ravine is a fertile paradise, with towering ferns, vibrant flowers, and thick undergrowth thriving in the nutrient-rich soil. Fed by the waterfalls, winding rivers crisscross the ravine floor, creating an intricate network of waterways. The ravine teems with life, from brightly colored insects and birds to larger creatures adapted to the unique ecosystem. Natural caves carved into the ravine walls offer shelter for creatures and potential exploration points for adventurers, alongside the ruins of a lost empire.
+	- *Climate*: The Pheyzoth Ravine’s cooler climate results in a temperate environment, with crisp air and frequent mists rising from its cascading waterfalls. Its unique positioning and the abundance of water create a lush but brisk microclimate, where the flora and fauna thrive in the chillier conditions.
+	- *Wildlife*: Creatures such as mountain goats, deer, and cold-adapted birds make their homes in the ravine, along with occasional predators like wolves or lynxes.
+-  **The Mistweaver Marshes**: 
+- **The Azure Veil**: 

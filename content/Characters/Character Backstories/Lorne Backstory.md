@@ -1,0 +1,23 @@
+Lorne grew up in the village of Westhollow, alongside Tyran. he was older but still they played as children. Lorne's father owned the Inn, the big hollowed out tree in town where he and the local kids played until Lorne's father reminded him to keep it down so the guests could have some peace. 
+
+Lorne always had a knack for getting himself intro trouble, fighting, stealing, pretty much anything you could think of for a kid to get up to, he did. Lorne wised up during his teenage years when his father got sick. He came down with a  bad fever that never really faded. He got his act together, learned the trade of Innkeeping, doing repairs (he's gotten quite decent with a little hammer), and even got some swordplay under his belt thanks to the Lord, Kenji.
+
+Eventually, the business had done well enough for a couple years the Lorne's father accepted his fate. Lorne thinks he just needed to know his boy would be alright, and when he did, he felt safe to pass on. They buried him beside the big tree, and Lorne became the owner of the newly named, "Ashwood Inn". Lorne and his new wife Mia made do with what they could, and eventually they had a daughter named Juno.
+
+Business was good, and then bad, when Tyran, now the Lord of Obelask, fell to his madness. Travelers were less and less frequent, the lumberjacks couldn't work in the forest so they had no coin for drinks at the bar. Times got hard. 
+
+Things got darkest when the Young Wolves arrived. Tyran attacked the village, destroyed the Inn, and unfortunately Mia was lost to the assault. Lorne was at the mercy of Tyran's shadowy soldiers until he was saved by Ryfon, and was able to escape with little Juno in his arms. He made his way south with the refugees, and eventually returned to Westhollow after the dark lord Tyran was defeated. 
+
+He and Juno rebuilt a new Inn, having found Kenji's old sword in the wreckage. Lorne placed it on a plaque above the bar, naming his new business, "The Sword on the Wall Inn", in honor of Kenji. 
+
+As Lorne raised Juno and ran his business, drawing mainly travelers and adventurers to the strange land of Obelask, the war kicked back up. Ivar's soldiers marched in and out, until one day no soldiers marched. It was strangely quiet, some merchants in the corner talking about a great stone pillar they saw with runes carved into it, Lorne couldn't place it but he felt uneasy, something bad could be coming he just didn't know what.
+
+As quickly as the feeling came, so did the fear. A small rumble could be felt, a minor earthquake, rare in these parts but not impossible. Then another, and another, bigger, thrumming like the Terra-Nova's heart itself was beating. A local blacksmith burst through the door screaming madness about a giant storm of red, fire and brimstone.
+
+Lorne knew it was bad, he had been through one catastrophe already, he would not lose Juno to another. He ripped Kenji's sword from its display and rushed upstairs to find his daughter, to escape with her, but she was nowhere to be found. She had her fathers ability to escape and get into trouble, and had found her way out of the Inn on the worst of days. Lorne sprinted through the halls and out the front door, desperately searching through the streets as dust and red smoke raged around him. It was as if her was inside a black cloud and a red thunderstorm was shattering the very world around him. The earth turned red like blood and he could barely keep his eyes open. 
+
+He called out for his child, screaming into the storm, into the Abyss, and he found her. He lifted her tiny body and cradled her in his arms. Her skin was red, faint veins of pale pink ran across her arms and back like lightning. She, and now her father, as a bolt of the red Abyssal lightning hit their bodies, were transformed. Lorne and Juno were Scartouched. 
+
+Lorne wandered for what felt like days, adjusting to his new body as his baby wept in agony from the transformation. Eventually they escaped the storm, a small miracle in its own right that they did. Lorne found himself in the Vesper Wilds, alone with his daughter and near death from their journey. He was saved by a friendly Warforged named [[Lennox]], and eventually decided to restart his business. He rebuilt his "Sword on the Wall Inn", and is now famous for his transformation, known as Lorne Scartouched, though he does not enjoy the nickname.
+
+Where is his Inn? Depends on where the party goes.
