@@ -17,3 +17,5 @@ Here are some helpful links to get you started.
 
 > [!info] [[Terra-Nova Primer]]
 
+> [!info] [[Resources]]
+
