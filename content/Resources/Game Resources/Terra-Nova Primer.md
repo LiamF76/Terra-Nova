@@ -5,6 +5,7 @@ aliases:
   - Primer
   - Intro
   - Introduction
+  - primer
 ---
 
 This is the primer / intro doc! 
