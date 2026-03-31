@@ -5,8 +5,7 @@ aliases:
   - Homepage
   - Home
 ---
-
-# :LiCalendar: `$= dv.date("today").toFormat("EEEE, MMMM d, yyyy")`
+## Terra-Nova Wiki Homepage
 
 Welcome to Terra-Nova! This is my Cloud stored Obsidian vault for all things Terra-Nova, my homebrew Dungeons & Dragons setting and campaign world.
 
@@ -16,8 +15,12 @@ Enjoy, and I hope to play through your tales in Terra-Nova very soon!
 
 Here are some helpful links to get you started.
 
-> [!info] [[Resources]]
-
+## An Introduction to the World
 > [!info] [[Terra-Nova Primer]]
 
+## The Pantheon
+> [!info] [[Gods of Terra-Nova]]
+
+## Geography
+> [!info] Terra-Nova World Map
 
