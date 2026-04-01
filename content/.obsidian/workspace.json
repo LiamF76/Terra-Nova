@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wiki To-Do"
+              "title": "Outline of index"
             }
           }
         ]
@@ -153,10 +153,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa4374d1b58163c1",
+  "active": "853c0c57d26356cf",
   "lastOpenFiles": [
-    "index.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "index.md",
     "Working Folder/Dashboard.md",
     "Resources/Resources.md",
     "Working Folder/WIP",
