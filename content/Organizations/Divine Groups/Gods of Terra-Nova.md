@@ -71,7 +71,7 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 
 ---
 
-## The Eternal Forces
+## The Eternal
 
 | God    | Domain | Alignment |
 | ------ | ------ | --------- |
