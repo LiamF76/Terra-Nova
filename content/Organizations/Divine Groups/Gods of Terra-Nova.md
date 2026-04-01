@@ -38,6 +38,8 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 
 ## The Convergence
 
+The principal Gods, this pantheon represents light and darkness, good and evil, and the balance between them represented in the celestial bodies.
+
 | God        | Domain    | Alignment |
 | ---------- | --------- | --------- |
 | Illuman    | Light     |           |
@@ -49,43 +51,47 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 
 ## The Fathers of Forge and Flame
 
+This pantheon governs the primal powers. Mortal domains of strength and force such as war and creating objects from raw materials, mastery of nature into mortal tools.
+
 | God    | Domain    | Alignment |
 | ------ | --------- | --------- |
 | Vulcan | War       |           |
 | Iros   | The Forge |           |
-|        |           |           |
 
 ---
 
 ## The Hearts of Storm and Sea
 
-| God        | Domain | Alignment |
-| ---------- | ------ | --------- |
-| Fulgrim    |        |           |
-| Mira       |        |           |
-| Skuld Ysor |        |           |
+Weather.
+
+| God        | Domain  | Alignment |
+| ---------- | ------- | --------- |
+| Fulgrim    | Storms  |           |
+| Mira       | The Sea |           |
+| Skuld Ysor | Winter  |           |
 
 ---
 
-## The Divine Pillars
+## The Stellar Forces
+
+The Gods of force beyond the mortal world. 
 
 | God     | Domain | Alignment |
 | ------- | ------ | --------- |
-| Kronos  |        |           |
-| Khabris |        |           |
-| Telura  |        |           |
+| Kronos  | Time   |           |
+| Khabris | Space  |           |
+| Telura  | Magic  |           |
 
 ---
 
 ## The Natural Truths
 
-| God    | Domain | Alignment |
-| ------ | ------ | --------- |
-| Tena   |        |           |
-| Erebos |        |           |
-| Jahaad |        |           |
-| Surtur |        |           |
-
+| God    | Domain   | Alignment |
+| ------ | -------- | --------- |
+| Tena   | Life     |           |
+| Erebos | Death    |           |
+| Jahaad | The Dead |           |
+| Surtur | Fire     |           |
 
 ---
 
