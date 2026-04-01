@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "Resources/Gameplay Resources/Terra-Nova Primer.md",
-      "timestamp": 1775076741948
+      "timestamp": 1775077606764
+    },
+    {
+      "filepath": "Characters/Extraplanar/Gods/Shao Daraan.md",
+      "timestamp": 1775077605702
     },
     {
       "filepath": "index.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "History/Timelines/Terra-Nova Master Timeline.md",
       "timestamp": 1775076110767
-    },
-    {
-      "filepath": "Working Folder/Kanban Boards/Wiki To-Do.md",
-      "timestamp": 1775076072697
     }
   ],
   "bookmarkedFileStore": [],
