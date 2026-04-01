@@ -7,18 +7,7 @@ aliases:
   - Pantheon
 ---
 This is a list of all Gods in Terra-Nova:
-- [[Shao Daraan|Shao Daraan]] the Elder
-- Illuman The Lightbringer, God of Light and the Sun
-- [[Balthazaar]] the Night serpent, God of Chaos and Darkness
-- Tena the World-Mother, Goddess of Nature
-- Erebos the Reaper, God of Death
-- Mani the Crescent Son, God of the Moon
 - [[Aton]] the Unrelenting Hawk (Tuah), God of Revenge
-- Iros the Celestial Hammer, God of Crafting and Trade
-- [[Vulcan]] the Blade Master, God of War
-- Fulgrim the Thunder Bringer, God of Storms and Weather 
-- Mira the Leviathan’s Beloved, Goddess of the Seas and Oceans
-- Skuld Ysor the Winterborn Matron, Goddess of Winter, Snow, and North
 - Ishtar the Wise, God of Peace and Reason
 - Oras the Sleeper, God of Dreams and Twilight
 - [[Kronos]] the Unchained, God of Time
@@ -61,6 +50,26 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 
 ---
 
+## The Forge Pantheon
+
+| God    | Domain | Alignment |
+| ------ | ------ | --------- |
+| Vulcan |        |           |
+| Iros   |        |           |
+|        |        |           |
+
+---
+
+## The Weather Pantheon
+
+| God        | Domain | Alignment |
+| ---------- | ------ | --------- |
+| Fulgrim    |        |           |
+| Mira       |        |           |
+| Skuld Ysor |        |           |
+
+---
+
 ## The Divine Pillars
 
 | God     | Domain | Alignment |
@@ -71,11 +80,12 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 
 ---
 
-## The Eternal
+## The Natural Truths
 
 | God    | Domain | Alignment |
 | ------ | ------ | --------- |
 | Tena   |        |           |
+| Erebos |        |           |
 | Jahaad |        |           |
 | Surtur |        |           |
 
@@ -84,6 +94,19 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 
 ## The Dragon Pantheon
 
-| God | Domain | Alignment |
-| --- | ------ | --------- |
-|     |        |           |
+| God    | Domain | Alignment |
+| ------ | ------ | --------- |
+| Tiamat |        |           |
+| Aethor |        |           |
+| Aurum  |        |           |
+| Aestus |        |           |
+
+---
+
+## The Stone Pantheon
+
+| God      | Domain | Alignment |
+| -------- | ------ | --------- |
+| Duraadin |        |           |
+| Hermod   |        |           |
+| Silvarus |        |           |
