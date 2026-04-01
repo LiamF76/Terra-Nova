@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,11 +19,47 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "081dee415835cf6a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Wiki To-Do"
+            }
+          },
+          {
+            "id": "317b7cdaf0061fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,20 +250,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "317b7cdaf0061fe4",
   "lastOpenFiles": [
+    "History/Timelines/Terra-Nova Master Timeline.md",
+    "index.md",
+    "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "Working Folder/Dashboard.md",
     "Campaigns/TBD Campaign/Local Area.md",
     "Campaigns/TBD Campaign/TBD Campaign Workshop.md",
     "Working Folder/Kanban Boards/TBD Campaign.md",
-    "Working Folder/Dashboard.md",
-    "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Working Folder/WIP/Races Checklist.md",
-    "History/Timelines/Terra-Nova Master Timeline.md",
     "Templates/Race Template.md",
     "Resources/Gameplay Resources/Races of Terra-Nova.md",
     "Geography/Planes/The Material Plane/World Map.md",
     "z Images/Terra-Nova Prime V2.webp",
-    "index.md",
     "Geography/Planes/The Material Plane/Untitled.canvas",
     "z Images/Terra-Nova Prime V2.jpg",
     "WIki To-Do.md",
