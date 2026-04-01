@@ -28,19 +28,15 @@
             "id": "0aaa4f85280e1c35",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Resources/Gameplay Resources/Start Guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Wiki To-Do"
+              "icon": "lucide-file",
+              "title": "Start Guide"
             }
           },
           {
@@ -74,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Gameplay Resources/Races of Terra-Nova.md",
+                "file": "Resources/Gameplay Resources/Start Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Races of Terra-Nova"
+              "title": "Outline of Start Guide"
             }
           }
         ]
@@ -168,15 +164,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbe90587d14b6c92",
+  "active": "0aaa4f85280e1c35",
   "lastOpenFiles": [
-    "Working Folder/WIP/Races Checklist.md",
-    "Resources/Gameplay Resources/Races of Terra-Nova.md",
+    "index.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "Resources/Gameplay Resources/Races of Terra-Nova.md",
+    "Working Folder/WIP/Races Checklist.md",
     "Working Folder/Dashboard.md",
     "z Old/Old Geography/Old Akash/Akash.md",
     "Resources/Gameplay Resources/Start Guide.md",
-    "index.md",
     "Resources/Resources.md",
     "Working Folder/WIP",
     "Working Folder/Untitled.md",

@@ -19,7 +19,7 @@ Here are some helpful links to get you started.
 > [!info] [[Terra-Nova Primer]]
 
 ## Player Start Guide
-> [!info] Start Guide
+> [!info] [[Start Guide]]
 
 ## The Pantheon & Gods
 > [!info] [[Gods of Terra-Nova]]
