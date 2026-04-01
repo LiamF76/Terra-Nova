@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "ae5be2bb32e9c53a",
+            "id": "853c0c57d26356cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +60,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -134,13 +134,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae5be2bb32e9c53a",
+  "active": "853c0c57d26356cf",
   "lastOpenFiles": [
-    "Working Folder/Kanban Boards/To-Do.md",
+    "Resources/Resources.md",
+    "index.md",
+    "Working Folder/WIP",
+    "Working Folder/Untitled.md",
+    "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "Working Folder/Kanban Boards/TBD Campaign.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Resources/Gameplay Resources/Terra-Nova Primer.md",
-    "index.md",
-    "Working Folder/Dashboard.md",
     "Organizations/Divine Groups/The Abyss Hierarchy.md",
     "Organizations/Divine Groups/The Fallen Gods.md",
     "Organizations/Divine Groups/The Dark Tribunal.md",
@@ -151,27 +155,22 @@
     "Wiki/Gods",
     "Wiki/Characters",
     "Wiki",
-    "Resources/Resources.md",
     "Resources/Gameplay Resources/Safety Tools.md",
     "Resources/Gameplay Resources/Safety Tools",
     "Templates/Basic Template.md",
     "conflict-files-obsidian-git.md",
     "Wiki/index.md",
     "Characters/People/Fenwarin.md",
-    "Working Folder/Kanban Boards/TBD Campaign.md",
     "Characters/People/Frobwina.md",
     "Characters/People/Solace.md",
     "Characters/People/Skaadi.md",
     "Characters/People/Stannis.md",
     "Characters/People/Stoneheart.md",
-    "Characters/People/Surge.md",
-    "Characters/People/Zurbag.md",
     "Wiki",
     "quartz/content",
     "quartz/node_modules/@citation-js/core/package.json",
     "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/json.js",
     "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/index.js",
-    "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
     "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
