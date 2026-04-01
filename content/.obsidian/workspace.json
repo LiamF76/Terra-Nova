@@ -49,13 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Working Folder/WIP/Races Checklist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Races Checklist"
             }
           }
         ],
@@ -122,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Working Folder/WIP/Races Checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Races Checklist"
             }
           }
         ]
@@ -155,7 +155,10 @@
   },
   "active": "853c0c57d26356cf",
   "lastOpenFiles": [
+    "Resources/Gameplay Resources/Races of Terra-Nova.md",
+    "Working Folder/WIP/Races Checklist.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "Resources/Gameplay Resources/Start Guide.md",
     "index.md",
     "Working Folder/Dashboard.md",
     "Resources/Resources.md",
@@ -183,8 +186,6 @@
     "Characters/People/Frobwina.md",
     "Characters/People/Solace.md",
     "Characters/People/Skaadi.md",
-    "Characters/People/Stannis.md",
-    "Characters/People/Stoneheart.md",
     "Wiki",
     "quartz/content",
     "quartz/node_modules/@citation-js/core/package.json",
