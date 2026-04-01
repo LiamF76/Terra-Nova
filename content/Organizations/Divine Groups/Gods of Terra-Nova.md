@@ -81,6 +81,7 @@ The Gods of force beyond the mortal world.
 | Oras   | Dreams   |
 | Yagi   | Wonders  |
 
+
 ---
 
 ## The High Truths
@@ -93,6 +94,7 @@ The Gods of force beyond the mortal world.
 | Aton   | Revenge     |
 | Choion | Poetry      |
 | Calina | Love        |
+| Aldred | Penance     |
 
 ---
 ## The Dragon Pantheon
