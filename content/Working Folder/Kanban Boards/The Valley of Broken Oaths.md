@@ -6,8 +6,9 @@ kanban-plugin: list
 
 ## Worldbuilding
 
-- [ ] [[TBD Campaign Workshop]]
-- [ ] [[Local Area]]
+- [ ] [[TVBO Workshop]]
+- [ ] [[The Valley of Broken Oaths Primer]]
+- [ ] [[Westwood Valley]]
 
 
 ## Characters
