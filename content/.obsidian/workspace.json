@@ -23,8 +23,43 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "cdaa08e2d00606a8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "To-Do"
+            }
+          },
+          {
+            "id": "6e0685906f0af2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Divine Groups/Gods of Terra-Nova.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gods of Terra-Nova"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,11 +249,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6e0685906f0af2bf",
   "lastOpenFiles": [
-    "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Working Folder/Kanban Boards/To-Do.md",
     "Working Folder/Dashboard.md",
+    "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "index.md",
     "z Needs Sorted/Malos.md",
     "Characters/Extraplanar/Gods/Shao Daraan.md",

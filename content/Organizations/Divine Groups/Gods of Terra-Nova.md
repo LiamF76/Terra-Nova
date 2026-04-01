@@ -8,18 +8,9 @@ aliases:
 ---
 This is a list of all Gods in Terra-Nova:
 - [[Aton]] the Unrelenting Hawk (Tuah), God of Revenge
-- Ishtar the Wise, God of Peace and Reason
 - Oras the Sleeper, God of Dreams and Twilight
-- Silvarus the Trickster, God of Mischief
 - Aureon the Intelligent, God of Knowledge and Strategy
-- Jahaad the God of the Dead
 - Oasis the Kind, Goddess of Forgiveness and Respite
-- Surtur the Burning Soul, God of Fire and Volcanoes
-- Fermus the Merry, God of Beer
-- Tiamat the Dragon Queen, Goddess of Greed and Chromatic Dragonborn
-- Aethor the Mithril Dragon, God of the Sky, and Metallic Dragonborn
-- Aurum the Golden Child, God of Pride
-- Aestus the Brass King, God of Promise and Dedication
 
 # Gods of Terra-Nova 
 
@@ -93,6 +84,14 @@ The Gods of force beyond the mortal world.
 
 ---
 
+## The High Truths
+
+| God    | Domain | Alignment |
+| ------ | ------ | --------- |
+| Ishtar | Wisdom |           |
+|        |        |           |
+
+---
 ## The Dragon Pantheon
 
 | God    | Domain | Alignment |
@@ -106,8 +105,9 @@ The Gods of force beyond the mortal world.
 
 ## The Stone Pantheon
 
-| God      | Domain   | Alignment |
-| -------- | -------- | --------- |
-| Duraadin | Earth    |           |
-| Hermod   | Luck     |           |
-| Silvarus | Mischief |           |
+| God      | Domain    | Alignment |
+| -------- | --------- | --------- |
+| Duraadin | Earth     |           |
+| Hermod   | Luck      |           |
+| Silvarus | Mischief  |           |
+| Fermus   | Merriment |           |
