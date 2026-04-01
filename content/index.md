@@ -25,7 +25,7 @@ Here are some helpful links to get you started.
 > [!info] [[Gods of Terra-Nova]]
 
 ## Geography
-> [!info] Terra-Nova World Map
+> [!info] [[World Map]]
 
 ## Factions & Organizations
 > [!info] Factions
