@@ -7,11 +7,6 @@ aliases:
   - Pantheon
 ---
 
-- Uther God of Victory
-- Yagi God of Wonders
-- Choion God of Poetry
-- Egoana Goddess of Rivers
-- Ytulla Goddess of Secrecy
 - Calina Goddess of Love
 
 # Gods of Terra-Nova 
@@ -48,7 +43,7 @@ This pantheon governs the primal powers. Mortal domains of strength and force su
 | ------ | --------- |
 | Vulcan | War       |
 | Iros   | The Forge |
-|        |           |
+| Uther  | Victory   |
 
 ---
 
@@ -61,6 +56,7 @@ Weather.
 | Fulgrim    | Storms  |
 | Mira       | The Sea |
 | Skuld Ysor | Winter  |
+| Egoana     | Rivers  |
 
 ---
 
@@ -85,6 +81,7 @@ The Gods of force beyond the mortal world.
 | Jahaad | The Dead |
 | Surtur | Fire     |
 | Oras   | Dreams   |
+| Yagi   | Wonders  |
 
 ---
 
@@ -96,6 +93,7 @@ The Gods of force beyond the mortal world.
 | Aureon | Strategy    |
 | Oasis  | Forgiveness |
 | Aton   | Revenge     |
+| Choion | Poetry      |
 
 ---
 ## The Dragon Pantheon
