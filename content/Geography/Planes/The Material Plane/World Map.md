@@ -4,9 +4,6 @@ title:
 aliases:
 ---
 
-<img src="/worldMap.jpg" style="width:100%;">
+![[Terra-Nova Prime V2.webp|1000x1000]]
 
-
-
-/<filename>
-
+Map!
