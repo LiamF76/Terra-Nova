@@ -10,9 +10,6 @@ This is a list of all Gods in Terra-Nova:
 - [[Aton]] the Unrelenting Hawk (Tuah), God of Revenge
 - Ishtar the Wise, God of Peace and Reason
 - Oras the Sleeper, God of Dreams and Twilight
-- [[Kronos]] the Unchained, God of Time
-- Khabris the Expansive, God of Space
-- Telura the Caster, Goddess of Magic
 - Duraadin the Stonefather, God of Dwarves and the Earth
 - Silvarus the Trickster, God of Nature and Mischief
 - Aureon the Intelligent, God of Knowledge and Strategy
@@ -32,35 +29,35 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 
 ## The Elder Pantheon
 
-| God             | Domain | Alignment |
-| --------------- | ------ | --------- |
-| [[Shao Daraan]] |        |           |
-| [[Khal Daraan]] |        |           |
-| Mani            |        |           |
+| God             | Domain      | Alignment |
+| --------------- | ----------- | --------- |
+| [[Shao Daraan]] | Creation    |           |
+| [[Khal Daraan]] | Destruction |           |
 
 ---
 
 ## The Convergence
 
-| God        | Domain | Alignment |
-| ---------- | ------ | --------- |
-| Illuman    |        |           |
-| Balthazaar |        |           |
-| Malos      |        |           |
+| God        | Domain    | Alignment |
+| ---------- | --------- | --------- |
+| Illuman    | Light     |           |
+| Balthazaar | Darkness  |           |
+| Mani       | The Moons |           |
+| Malos      | Balance   |           |
 
 ---
 
-## The Forge Pantheon
+## The Fathers of Forge and Flame
 
-| God    | Domain | Alignment |
-| ------ | ------ | --------- |
-| Vulcan |        |           |
-| Iros   |        |           |
-|        |        |           |
+| God    | Domain    | Alignment |
+| ------ | --------- | --------- |
+| Vulcan | War       |           |
+| Iros   | The Forge |           |
+|        |           |           |
 
 ---
 
-## The Weather Pantheon
+## The Hearts of Storm and Sea
 
 | God        | Domain | Alignment |
 | ---------- | ------ | --------- |
