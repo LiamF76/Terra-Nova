@@ -35,4 +35,30 @@ Aldros steals it because he hates Aldred, and wants to corrupt the blade and bre
 
 ## The Story
 
+The party arrives in Westwood and the valley. There has been an influx of monsters, and there are bounties for them to track. During the bounties they get some hooks related towards why there are more monsters, because the valley is supposed to be magically protected.
+
+Once they discover the artifact that protects the Valley is missing, they need to figure out what to do.
+
 Aldros and the Artifact are stuck in the Valley. The party travels through the land to find him and the blade, before its enchantment is destroyed and the Valley becomes vulnerable to attack.
+
+### Don't prep campaigns, prep situations.
+
+- The players are hired to retrieve the Artifact from Aldros and bring back the magical protection of the Valley, **BUT** Aldros has begun a ritual to destroy the magic forever, *THEREFORE* they must reunite it with the grave of the knight who first blessed it to restore its magic.
+- **BUT** the party does not know the holy ritual to restore the holy magic of the artifact *THEREFORE* they must seek out a powerful mage/priest to obtain the knowledge.
+- **BUT** the priest has been kidnapped by a dragon and forced to revere and worship it, granting it magical power, *THEREFORE* the party must defeat or negotiate with the dragon to free them.
+- **BUT** after freeing the priest the party learns he has lost his bond to his God, *THEREFORE* they must help him regain his holy powers by defeating the undead he failed to save a town from.
+
+### Things to set up prior in the campaign, plot hooks
+
+- Mention another town in the valley that was destoryed years ago, this is where the priest was and failed to save from undead.
+- Mention influx of monsters, sets up the magical protection of the artifact fading.
+- A mage was robbing graves in the valley, known to have visited the ancient Knight's grave. The mage raised him as an undead and attacked the Priest's town, so the final BBEG of the campaign is the undead knight who first protected the valley.
+- The valley priest went missing after a nearby town was destoryed, hasn't been seen in years.
+- 
+
+
+### Bosses / Acts
+
+- Act 1: Aldros and the stolen artifact
+- Act 2: The dragon and the captured priest
+- Act 3: The priest and the undead

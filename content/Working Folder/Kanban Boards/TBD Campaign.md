@@ -1,10 +1,13 @@
 ---
+
 kanban-plugin: list
+
 ---
 
 ## Worldbuilding
 
 - [ ] [[TBD Campaign Workshop]]
+- [ ] [[Local Area]]
 
 
 ## Characters
@@ -19,6 +22,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false]}
 ```
 %%
