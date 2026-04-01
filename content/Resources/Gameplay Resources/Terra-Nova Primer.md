@@ -20,7 +20,7 @@ Like may D&D settings I draw heavily on inspiration, and the major setting inspi
 - Faerun & The Forgotten Realms
 - Malazan Book of the Fallen
 
-While many elements from these sources can be found in the world, it is not overly or exactly like any of them. It is organic and unique in many ways. Depending on location, the tone ranges from dark to cozy fantasy, and high to low magics, though generally it leans towards lower magics as compared to traditional D&D.
+While many elements from these sources can be found in the world, it is not overly or exactly like any of them. It is organic and unique in many ways. Depending on location, the tone ranges from dark to cozy fantasy, and high to low magics, though generally it leans towards lower magics as compared to traditional D&D. The tone of the setting depends very heavily on the continent and even nation or plane your adventure is taking place. 
 
 ---
 
