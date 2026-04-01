@@ -12,9 +12,6 @@ kanban-plugin: list
 	- add more basic information, navigation, common links
 - [ ] Factions & Organizations
 	- players love joining things, list some major factions and groups
-- [ ] Character Creation Guide
-	- create a resources doc that shows permitted races and all homebrew options
-	- stat choice type
 - [ ] New Player Quickstart
 	- note that shows each step to play in the world
 	- docs to read
