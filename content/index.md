@@ -27,3 +27,6 @@ Here are some helpful links to get you started.
 ## Factions & Organizations
 > [!info] Factions
 
+## Legendary Heroes
+> [!info] Legendary Heroes
+
