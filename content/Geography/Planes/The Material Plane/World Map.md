@@ -4,6 +4,6 @@ title:
 aliases:
 ---
 
-![[Terra-Nova Prime V2.webp|1000x1000]]
+![[Terra-Nova Prime V2.webp|700x700]]
 
 Map!
