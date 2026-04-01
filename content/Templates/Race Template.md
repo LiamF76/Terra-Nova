@@ -2,13 +2,15 @@
 
 ### Race Name
 
+Identity: *A proud people shaped by volcanic winds and ancestral memory.*
+
 ---
 ##### Mechanics
 
 **Ability Score Adjustments**
 
-- +2 to a primary trait
-- +1 to a secondary trait
+- +2 to an ability score
+- +1 to an ability score
 
 **Age**
 - Lifespan
@@ -31,12 +33,12 @@
 
 ##### Unique Features
 
-**Feature 1 — Name** _A short description of what the feature does._
+**Feature 1 — Name** *A short description of what the feature does.*
 
 - Mechanical effect
 - Flavor note
 
-**Feature 2 — Name** _A short description._
+**Feature 2 — Name** *A short description.*
 
 - Mechanical effect
 - Flavor note
