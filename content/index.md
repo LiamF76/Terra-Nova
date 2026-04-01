@@ -36,6 +36,6 @@ Here are some helpful links to get you started.
 ## Myths and Stories
 > [!info] WIP
 
-## Legendary Heroes
-> [!info] Legendary Heroes
+## Legendary Individuals
+> [!info] Legendary Individuals
 
