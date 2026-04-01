@@ -30,8 +30,11 @@ Here are some helpful links to get you started.
 ## Factions & Organizations
 > [!info] Factions
 
-## History
+## Timeline
 > [!info] [[Terra-Nova Master Timeline]]
+
+## Myths Stories
+> [!info] WIP
 
 ## Legendary Heroes
 > [!info] Legendary Heroes
