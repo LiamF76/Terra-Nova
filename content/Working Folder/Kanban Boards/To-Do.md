@@ -10,6 +10,16 @@ kanban-plugin: list
 	- Finish dividing Gods into pantheons
 - [ ] Update Homepage: [[index]]
 	- add more basic information, navigation, common links
+- [ ] Character Creation Guide
+	- create a resources doc that shows permitted races and all homebrew options
+	- stat choice type
+- [ ] New Player Quickstart
+	- note that shows each step to play in the world
+	- docs to read
+	- backstory guidelines
+	- character creation
+- [ ] Factions & Organizations
+	- players love joining things, list some major factions and groups
 
 
 

@@ -18,9 +18,12 @@ Here are some helpful links to get you started.
 ## An Introduction to the World
 > [!info] [[Terra-Nova Primer]]
 
-## The Pantheon
+## The Pantheon & Gods
 > [!info] [[Gods of Terra-Nova]]
 
 ## Geography
 > [!info] Terra-Nova World Map
+
+## Factions & Organizations
+> [!info] Factions
 
