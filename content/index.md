@@ -33,7 +33,7 @@ Here are some helpful links to get you started.
 ## Timeline
 > [!info] [[Terra-Nova Master Timeline]]
 
-## Myths Stories
+## Myths and Stories
 > [!info] WIP
 
 ## Legendary Heroes
