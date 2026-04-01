@@ -7,8 +7,6 @@ aliases:
   - Pantheon
 ---
 
-- Calina Goddess of Love
-
 # Gods of Terra-Nova 
 
 The gods of Terra-Nova are divided into multiple pantheons. Worship can span across Pantheons, but these divisions came about during the Age of Divines, as many Gods were reborn and worship had to be reorganized.
@@ -94,6 +92,7 @@ The Gods of force beyond the mortal world.
 | Oasis  | Forgiveness |
 | Aton   | Revenge     |
 | Choion | Poetry      |
+| Calina | Love        |
 
 ---
 ## The Dragon Pantheon
