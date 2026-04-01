@@ -20,8 +20,9 @@ kanban-plugin: list
 	- character creation
 - [ ] Factions & Organizations
 	- players love joining things, list some major factions and groups
-- [ ] Races: Races of Terra-Nova
+- [ ] Races: [[Races of Terra-Nova]]
 	- create entries for all players races
+	- checklist [[Races Checklist]]
 
 
 

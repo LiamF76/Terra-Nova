@@ -5,53 +5,58 @@ aliases:
 ---
 
 List of all Races: (check them off when they have an entry in Races of Terra-Nova completed.)
-- [ ] Humans
-- [ ] Elves
-- [ ] Half-Elves
-- [ ] Dwarves
-- [ ] Gnomes
-- [ ] Halflings
-- [ ] Tieflings
-- [ ] Orcs
-- [ ] Half-Orcs
-- [ ] Dragonborn
-- [ ] Warforged
-- [ ] Genasi
-	- [ ] Air
-	- [ ] Earth
-	- [ ] Fire
-	- [ ] Water
-- [ ] Goliath
-- [ ] Triton
-- [ ] Bugbear
-- [ ] Goblin
-- [ ] Kobold
-- [ ] Shifter
 - [ ] Aasimar
-- [ ] Grung
+- [ ] Dragonborn
+- [ ] Dwarves
+- [ ] Elves
+- [ ] Genasi
+    - [ ] Air
+    - [ ] Earth
+    - [ ] Fire
+    - [ ] Water
+- [ ] Gnomes
+- [ ] Goliath
+- [ ] Half-Elves
+- [ ] Half-Orcs
+- [ ] Halflings
+- [ ] Humans
+- [ ] Tieflings
+- [ ] Triton
 
+---
 
 Beastfolk:
-- [ ] Leonin
-- [ ] Noctral
-- [ ] Skelial
-	- [ ] Loomkin
-	- [ ] Mothryn
-	- [ ] Honeykin
-- [ ] Velorn
 - [ ] Badgerfolk
 - [ ] Bearfolk
-- [ ] Lupin
-- [ ] Quillborn
-- [ ] Mousefolk
-- [ ] Harengon
-- [ ] Tabaxi
-- [ ] Leonin
-- [ ] Loxodon
-- [ ] Lizardfolk
-- [ ] Minotaur
 - [ ] Birdfolk
-	- [ ] Owlin
-	- [ ] Aarakocra
-	- [ ] Kenku
+    - [ ] Aarakocra
+    - [ ] Kenku
+    - [ ] Owlin
+- [ ] Harengon
+- [ ] Leonin
+- [ ] Lizardfolk
+- [ ] Loxodon
+- [ ] Lupin
+- [ ] Minotaur
+- [ ] Mousefolk
+- [ ] Noctral
+- [ ] Quillborn
+- [ ] Skelial
+    - [ ] Honeykin
+    - [ ] Loomkin
+    - [ ] Mothryn
+- [ ] Tabaxi
 - [ ] Tortle
+- [ ] Velorn
+
+
+---
+
+Monstrous Races:
+- [ ] Bugbears
+- [ ] Bullywugs
+- [ ] Goblin
+- [ ] Grung
+- [ ] Kobold
+- [ ] Orcs
+- [ ] Shifter
