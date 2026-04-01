@@ -110,3 +110,13 @@ The Gods of force beyond the mortal world.
 | Hermod   | Luck      |           |
 | Silvarus | Mischief  |           |
 | Fermus   | Merriment |           |
+
+---
+
+## The Betrayer Gods
+
+| God     | Domain    | Alignment |
+| ------- | --------- | --------- |
+| Arkonil | Rebellion |           |
+| Voracia | Blood     |           |
+| Korvus  | Violence  |           |
