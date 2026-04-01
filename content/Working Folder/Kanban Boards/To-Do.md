@@ -8,6 +8,8 @@ kanban-plugin: list
 
 - [ ] [[Gods of Terra-Nova]]
 	- Finish dividing Gods into pantheons
+- [ ] Update Homepage: [[index]]
+	- add more basic information, navigation, common links
 
 
 
