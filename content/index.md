@@ -27,6 +27,9 @@ Here are some helpful links to get you started.
 ## Factions & Organizations
 > [!info] Factions
 
+## Myths & Histories
+> [!info] Myths and Histories
+
 ## Legendary Heroes
 > [!info] Legendary Heroes
 

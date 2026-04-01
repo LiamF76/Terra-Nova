@@ -25,6 +25,25 @@
             }
           },
           {
+            "id": "aa4374d1b58163c1",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Wiki To-Do"
+            }
+          },
+          {
             "id": "853c0c57d26356cf",
             "type": "leaf",
             "state": {
@@ -103,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Wiki To-Do"
             }
           }
         ]
@@ -134,14 +153,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "853c0c57d26356cf",
+  "active": "aa4374d1b58163c1",
   "lastOpenFiles": [
-    "Resources/Resources.md",
     "index.md",
+    "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "Working Folder/Dashboard.md",
+    "Resources/Resources.md",
     "Working Folder/WIP",
     "Working Folder/Untitled.md",
-    "Working Folder/Dashboard.md",
-    "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Working Folder/Kanban Boards/TBD Campaign.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Resources/Gameplay Resources/Terra-Nova Primer.md",
