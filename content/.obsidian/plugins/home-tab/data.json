@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "index.md",
+      "timestamp": 1775083321120
+    },
+    {
       "filepath": "Organizations/Divine Groups/Gods of Terra-Nova.md",
       "timestamp": 1775082451145
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Resources/Gameplay Resources/Glossary.md",
       "timestamp": 1775082447219
-    },
-    {
-      "filepath": "index.md",
-      "timestamp": 1775082270760
     }
   ],
   "bookmarkedFileStore": [],
