@@ -20,6 +20,9 @@ kanban-plugin: list
 - [ ] Races: [[Races of Terra-Nova]]
 	- create entries for all players races
 	- checklist [[Races Checklist]]
+- [ ] Important People
+	- [[Figures of Today]]
+	- [[Figures of History]]
 
 
 

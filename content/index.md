@@ -37,9 +37,9 @@ Here are some helpful links to get you started.
 > [!info] WIP
 
 ## Legendary Individuals
-> [!info] Figures of Today
+> [!info] [[Figures of Today]]
 
-> [!info] Figures of History
+> [!info] [[Figures of History]]
 
 ## Glossary of Setting Terms
 > [!info] Glossary
