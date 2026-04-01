@@ -13,10 +13,10 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 
 ## The Elder Pantheon
 
-| God             | Domain      | Alignment |
-| --------------- | ----------- | --------- |
-| [[Shao Daraan]] | Creation    |           |
-| [[Khal Daraan]] | Destruction |           |
+| God             | Domain      |
+| --------------- | ----------- |
+| [[Shao Daraan]] | Creation    |
+| [[Khal Daraan]] | Destruction |
 
 ---
 
@@ -24,12 +24,12 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 
 The principal Gods, this pantheon represents light and darkness, good and evil, and the balance between them represented in the celestial bodies.
 
-| God        | Domain    | Alignment |
-| ---------- | --------- | --------- |
-| Illuman    | Light     |           |
-| Balthazaar | Darkness  |           |
-| Mani       | The Moons |           |
-| Malos      | Balance   |           |
+| God        | Domain    |
+| ---------- | --------- |
+| Illuman    | Light     |
+| Balthazaar | Darkness  |
+| Mani       | The Moons |
+| Malos      | Balance   |
 
 ---
 
@@ -37,10 +37,11 @@ The principal Gods, this pantheon represents light and darkness, good and evil, 
 
 This pantheon governs the primal powers. Mortal domains of strength and force such as war and creating objects from raw materials, mastery of nature into mortal tools.
 
-| God    | Domain    | Alignment |
-| ------ | --------- | --------- |
-| Vulcan | War       |           |
-| Iros   | The Forge |           |
+| God    | Domain    |
+| ------ | --------- |
+| Vulcan | War       |
+| Iros   | The Forge |
+|        |           |
 
 ---
 
@@ -48,11 +49,11 @@ This pantheon governs the primal powers. Mortal domains of strength and force su
 
 Weather.
 
-| God        | Domain  | Alignment |
-| ---------- | ------- | --------- |
-| Fulgrim    | Storms  |           |
-| Mira       | The Sea |           |
-| Skuld Ysor | Winter  |           |
+| God        | Domain  |
+| ---------- | ------- |
+| Fulgrim    | Storms  |
+| Mira       | The Sea |
+| Skuld Ysor | Winter  |
 
 ---
 
@@ -60,44 +61,44 @@ Weather.
 
 The Gods of force beyond the mortal world. 
 
-| God     | Domain | Alignment |
-| ------- | ------ | --------- |
-| Kronos  | Time   |           |
-| Khabris | Space  |           |
-| Telura  | Magic  |           |
+| God     | Domain |
+| ------- | ------ |
+| Kronos  | Time   |
+| Khabris | Space  |
+| Telura  | Magic  |
 
 ---
 
 ## The Natural Truths
 
-| God    | Domain   | Alignment |
-| ------ | -------- | --------- |
-| Tena   | Life     |           |
-| Erebos | Death    |           |
-| Jahaad | The Dead |           |
-| Surtur | Fire     |           |
-| Oras   | Dreams   |           |
+| God    | Domain   |
+| ------ | -------- |
+| Tena   | Life     |
+| Erebos | Death    |
+| Jahaad | The Dead |
+| Surtur | Fire     |
+| Oras   | Dreams   |
 
 ---
 
 ## The High Truths
 
-| God    | Domain      | Alignment |
-| ------ | ----------- | --------- |
-| Ishtar | Wisdom      |           |
-| Aureon | Strategy    |           |
-| Oasis  | Forgiveness |           |
-| Aton   | Revenge     |           |
+| God    | Domain      |
+| ------ | ----------- |
+| Ishtar | Wisdom      |
+| Aureon | Strategy    |
+| Oasis  | Forgiveness |
+| Aton   | Revenge     |
 
 ---
 ## The Dragon Pantheon
 
-| God    | Domain | Alignment |
-| ------ | ------ | --------- |
-| Tiamat |        |           |
-| Aethor |        |           |
-| Aurum  |        |           |
-| Aestus |        |           |
+| God    | Domain  | Alignment |
+| ------ | ------- | --------- |
+| Tiamat | Greed   |           |
+| Aethor | Sky     |           |
+| Aurum  | Truth   |           |
+| Aestus | Passion |           |
 
 ---
 
