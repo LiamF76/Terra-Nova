@@ -6,9 +6,6 @@ aliases:
   - Divines
   - Pantheon
 ---
-This is a list of all Gods in Terra-Nova:
-- [[Aton]] the Unrelenting Hawk (Tuah), God of Revenge
-- Oasis the Kind, Goddess of Forgiveness and Respite
 
 # Gods of Terra-Nova 
 
@@ -85,11 +82,12 @@ The Gods of force beyond the mortal world.
 
 ## The High Truths
 
-| God    | Domain   | Alignment |
-| ------ | -------- | --------- |
-| Ishtar | Wisdom   |           |
-| Aureon | Strategy |           |
-|        |          |           |
+| God    | Domain      | Alignment |
+| ------ | ----------- | --------- |
+| Ishtar | Wisdom      |           |
+| Aureon | Strategy    |           |
+| Oasis  | Forgiveness |           |
+| Aton   | Revenge     |           |
 
 ---
 ## The Dragon Pantheon
