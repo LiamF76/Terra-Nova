@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Resources/Gameplay Resources/Terra-Nova Primer.md",
+      "timestamp": 1775076741948
+    },
+    {
       "filepath": "index.md",
-      "timestamp": 1775076112723
+      "timestamp": 1775076735373
+    },
+    {
+      "filepath": "Resources/Gameplay Resources/Races of Terra-Nova.md",
+      "timestamp": 1775076732453
     },
     {
       "filepath": "History/Timelines/Terra-Nova Master Timeline.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "Working Folder/Kanban Boards/Wiki To-Do.md",
       "timestamp": 1775076072697
-    },
-    {
-      "filepath": "Working Folder/Dashboard.md",
-      "timestamp": 1775076020455
-    },
-    {
-      "filepath": "Campaigns/TBD Campaign/Local Area.md",
-      "timestamp": 1775076020223
     }
   ],
   "bookmarkedFileStore": [],

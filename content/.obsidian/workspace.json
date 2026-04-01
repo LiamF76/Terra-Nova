@@ -57,9 +57,24 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "ad20bbb34c17f09a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Gameplay Resources/Terra-Nova Primer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Terra-Nova Primer"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -250,10 +265,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "317b7cdaf0061fe4",
+  "active": "ad20bbb34c17f09a",
   "lastOpenFiles": [
-    "History/Timelines/Terra-Nova Master Timeline.md",
     "index.md",
+    "Resources/Gameplay Resources/Races of Terra-Nova.md",
+    "Resources/Gameplay Resources/Start Guide.md",
+    "History/Timelines/Terra-Nova Master Timeline.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Working Folder/Dashboard.md",
     "Campaigns/TBD Campaign/Local Area.md",
@@ -261,7 +278,6 @@
     "Working Folder/Kanban Boards/TBD Campaign.md",
     "Working Folder/WIP/Races Checklist.md",
     "Templates/Race Template.md",
-    "Resources/Gameplay Resources/Races of Terra-Nova.md",
     "Geography/Planes/The Material Plane/World Map.md",
     "z Images/Terra-Nova Prime V2.webp",
     "Geography/Planes/The Material Plane/Untitled.canvas",
@@ -281,7 +297,6 @@
     "Organizations/Divine Groups/The Dark Tribunal.md",
     "Organizations/Divine Groups/The Betrayer Gods.md",
     "z Needs Sorted/Malos.md",
-    "Characters/Extraplanar/Gods/Shao Daraan.md",
     "Wiki/Gods",
     "Wiki/Characters",
     "Wiki",
