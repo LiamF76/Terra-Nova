@@ -15,7 +15,7 @@
   "maxResults": 5,
   "showbookmarkedFiles": true,
   "showRecentFiles": true,
-  "maxRecentFiles": 5,
+  "maxRecentFiles": 10,
   "storeRecentFile": true,
   "showPath": true,
   "selectionHighlight": "default",
@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Working Folder/Dashboard.md",
-      "timestamp": 1775050309565
-    },
-    {
       "filepath": "Organizations/Divine Groups/Gods of Terra-Nova.md",
-      "timestamp": 1775049234855
+      "timestamp": 1775050667707
     },
     {
       "filepath": "index.md",
-      "timestamp": 1775049172410
+      "timestamp": 1775050611317
+    },
+    {
+      "filepath": "Working Folder/Dashboard.md",
+      "timestamp": 1775050604387
     }
   ],
   "bookmarkedFileStore": [],

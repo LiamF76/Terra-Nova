@@ -25,16 +25,22 @@
             }
           },
           {
-            "id": "5a3ec898337a2b67",
+            "id": "4633e39cfc3e84e0",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Divine Groups/Gods of Terra-Nova.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gods of Terra-Nova"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working Folder/Dashboard.md",
+                "file": "Organizations/Divine Groups/Gods of Terra-Nova.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of Gods of Terra-Nova"
             }
           }
         ]
@@ -127,11 +133,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e78cf4548ce28b0",
+  "active": "4633e39cfc3e84e0",
   "lastOpenFiles": [
+    "index.md",
     "Working Folder/Dashboard.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
-    "index.md",
     "Organizations/Divine Groups/The Abyss Hierarchy.md",
     "Organizations/Divine Groups/The Fallen Gods.md",
     "Organizations/Divine Groups/The Dark Tribunal.md",
