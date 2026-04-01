@@ -6,7 +6,7 @@ aliases:
   - World
   - Material Plane
 ---
-<img src="/Terra-Nova Prime V2.jpg" usemap="#worldmap" style="width:100%;">
+<img src="/terra-nova-prime-v2.jpg" usemap="#worldmap" style="width:100%;">
 
 <map name="worldmap">
   <!-- Example clickable region -->
