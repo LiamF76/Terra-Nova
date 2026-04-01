@@ -25,22 +25,16 @@
             }
           },
           {
-            "id": "d534898ba7a728d9",
+            "id": "5a3ec898337a2b67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/Divine Groups/Gods of Terra-Nova.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gods of Terra-Nova"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,81 +92,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d5e71c731e094b8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "45ca96a981b904aa",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "b450cb6f1974b846",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "f3ee0023d4eca680",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "dacf1174451fbaa0",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "82f6dec143a7e707",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "88e31279d7074680",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
             "id": "5e78cf4548ce28b0",
             "type": "leaf",
             "state": {
@@ -186,47 +105,16 @@
               "icon": "lucide-list",
               "title": "Outline of Dashboard"
             }
-          },
-          {
-            "id": "3c8a61d2f589c9e1",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "3a73549a0677f425",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "50ee99f042d260d6",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251,
-    "collapsed": true
+    "width": 251
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false,
@@ -234,18 +122,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "homepage:Open homepage": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d534898ba7a728d9",
+  "active": "5e78cf4548ce28b0",
   "lastOpenFiles": [
-    "index.md",
     "Working Folder/Dashboard.md",
-    "Organizations/Divine Groups/The Abyss Hierarchy.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
+    "index.md",
+    "Organizations/Divine Groups/The Abyss Hierarchy.md",
     "Organizations/Divine Groups/The Fallen Gods.md",
     "Organizations/Divine Groups/The Dark Tribunal.md",
     "Working Folder/Kanban Boards/To-Do.md",
