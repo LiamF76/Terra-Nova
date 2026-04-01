@@ -7,13 +7,6 @@ aliases:
   - Pantheon
 ---
 
-- Uther God of Victory
-- Yagi God of Wonders
-- Choion God of Poetry
-- Egoana Goddess of Rivers
-- Ytulla Goddess of Secrecy
-- Calina Goddess of Love
-
 # Gods of Terra-Nova 
 
 The gods of Terra-Nova are divided into multiple pantheons. Worship can span across Pantheons, but these divisions came about during the Age of Divines, as many Gods were reborn and worship had to be reorganized.
@@ -48,7 +41,7 @@ This pantheon governs the primal powers. Mortal domains of strength and force su
 | ------ | --------- |
 | Vulcan | War       |
 | Iros   | The Forge |
-|        |           |
+| Uther  | Victory   |
 
 ---
 
@@ -61,6 +54,7 @@ Weather.
 | Fulgrim    | Storms  |
 | Mira       | The Sea |
 | Skuld Ysor | Winter  |
+| Egoana     | Rivers  |
 
 ---
 
@@ -85,6 +79,7 @@ The Gods of force beyond the mortal world.
 | Jahaad | The Dead |
 | Surtur | Fire     |
 | Oras   | Dreams   |
+| Yagi   | Wonders  |
 
 ---
 
@@ -96,40 +91,42 @@ The Gods of force beyond the mortal world.
 | Aureon | Strategy    |
 | Oasis  | Forgiveness |
 | Aton   | Revenge     |
+| Choion | Poetry      |
+| Calina | Love        |
 
 ---
 ## The Dragon Pantheon
 
-| God    | Domain  | Alignment |
-| ------ | ------- | --------- |
-| Tiamat | Greed   |           |
-| Aethor | Sky     |           |
-| Aurum  | Truth   |           |
-| Aestus | Passion |           |
+| God    | Domain  |
+| ------ | ------- |
+| Tiamat | Greed   |
+| Aethor | Sky     |
+| Aurum  | Truth   |
+| Aestus | Passion |
 
 ---
 
 ## The Stone Pantheon
 
-| God      | Domain    | Alignment |
-| -------- | --------- | --------- |
-| Duraadin | Earth     |           |
-| Hermod   | Luck      |           |
-| Silvarus | Mischief  |           |
-| Fermus   | Merriment |           |
+| God      | Domain    |
+| -------- | --------- |
+| Duraadin | Earth     |
+| Hermod   | Luck      |
+| Silvarus | Mischief  |
+| Fermus   | Merriment |
 
 ---
 
 ## The Betrayer Gods
 
-| God      | Domain            | Alignment |
-| -------- | ----------------- | --------- |
-| Arkonil  | Rebellion         |           |
-| Voracia  | Blood             |           |
-| Korvus   | Violence          |           |
-| Vikon    | Natural Disasters |           |
-| Kaelros  | Collapse          |           |
-| Morkhal  | Gluttony          |           |
-| Velkris  | Assassins         |           |
-| Vrynthal | Foresight         |           |
-| Xavoris  | Secrets           |           |
+| God      | Domain            |
+| -------- | ----------------- |
+| Arkonil  | Rebellion         |
+| Voracia  | Blood             |
+| Korvus   | Violence          |
+| Vikon    | Natural Disasters |
+| Kaelros  | Collapse          |
+| Morkhal  | Gluttony          |
+| Velkris  | Assassins         |
+| Vrynthal | Foresight         |
+| Xavoris  | Secrets           |

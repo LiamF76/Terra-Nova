@@ -9,5 +9,5 @@ Welcome to Terra-Nova! This is my Cloud stored Obsidian vault for all things Ter
 # :LiBookAlert: My Boards
 
 > [!note] Quick Navigation
-> ## [[To-Do]] | [[TBD Campaign]] | [[Penance Lost PBP]] | [[Rulers of the Maze PBP]] | [[Solo Projects]] | 
+> ## [[Wiki To-Do]] | [[TBD Campaign]] | [[Penance Lost PBP]] | [[Rulers of the Maze PBP]] | [[Solo Projects]] | 
 

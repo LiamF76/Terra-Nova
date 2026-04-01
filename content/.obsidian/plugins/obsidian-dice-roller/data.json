@@ -22,7 +22,7 @@
   "diceColor": "#202020",
   "textColor": "#ffffff",
   "textFont": "Arial",
-  "showLeafOnStartup": true,
+  "showLeafOnStartup": false,
   "narrativeSymbolSet": "Genesys",
   "displayAsSymbols": false,
   "displayAsEmbed": true,
