@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: list
+
 ---
 
 ## Wiki
@@ -18,6 +20,8 @@ kanban-plugin: list
 	- character creation
 - [ ] Factions & Organizations
 	- players love joining things, list some major factions and groups
+- [ ] Races: Races of Terra-Nova
+	- create entries for all players races
 
 
 
