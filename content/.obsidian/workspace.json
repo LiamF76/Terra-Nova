@@ -214,10 +214,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a20b8c888495672e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "WIki To-Do.md",
     "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "WIki To-Do.md",
     "To-Do.md",
     "index.md",
     "conflict-files-obsidian-git.md",
@@ -246,7 +247,6 @@
     "Resources/Gameplay Resources/Terra-Nova Primer.md",
     "Templates/Basic Template.md",
     "Wiki/index.md",
-    "Characters/People/Fenwarin.md",
     "Wiki",
     "quartz/content",
     "quartz/node_modules/@citation-js/core/package.json",
