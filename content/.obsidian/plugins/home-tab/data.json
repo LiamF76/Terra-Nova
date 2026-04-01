@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "index.md",
-      "timestamp": 1775081391071
-    },
-    {
       "filepath": "Resources/Gameplay Resources/Terra-Nova Primer.md",
-      "timestamp": 1775080349360
+      "timestamp": 1775082208744
     },
     {
-      "filepath": "Working Folder/Dashboard.md",
-      "timestamp": 1775080155923
+      "filepath": "Resources/Gameplay Resources/Glossary.md",
+      "timestamp": 1775082206935
+    },
+    {
+      "filepath": "index.md",
+      "timestamp": 1775082130329
     },
     {
       "filepath": "Working Folder/Kanban Boards/Wiki To-Do.md",
-      "timestamp": 1775080152252
+      "timestamp": 1775082128532
+    },
+    {
+      "filepath": "Working Folder/Dashboard.md",
+      "timestamp": 1775082125313
     }
   ],
   "bookmarkedFileStore": [],

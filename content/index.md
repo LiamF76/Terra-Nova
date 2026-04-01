@@ -39,3 +39,6 @@ Here are some helpful links to get you started.
 ## Legendary Individuals
 > [!info] Legendary Individuals
 
+## Glossary of Setting Terms
+> [!info] Glossary
+

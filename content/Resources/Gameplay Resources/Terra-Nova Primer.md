@@ -30,6 +30,8 @@ The core of Terra-Nova is the powers of divinity and mortality. [[Shao Daraan]] 
 
 Champions are the bridge between divinity and mortality, meant to shepherd and guide mortals through turmoil and great change. Gods often interact with Mortals through their Angels, Priests, and Paladins. Followers of the Divine are very common, and most are raised in households that revere one God or another to some degree. Nearly every town has a priest, and most major cities have multiple temples, some are home to holy orders and religious capitals or monuments.
 
+Divine magic is usually viewed as favorable or a blessing. People look upon Divine magic users favorably, and will not judge your use of it.
+
 ---
 
 ## Arcane Magic
@@ -40,4 +42,11 @@ Telura is the Goddess of Magic, but she does not govern it. That is handled by t
 
 Arcane magic is generally equal to Divine magic in power, though not in commonality. In the last few hundred years Arcane magic has dwindled substantially due to The Scars, Pillars of Dark Magic that drain Terra-Nova's leylines and funnel it into the Abyss.
 
-In the modern day, 
+In the modern day, magic users have become much more rare. In the Third Age you could find a cantrip peddler in every circus, now you will have to visit a city to find someone who can truly cast a spell. Small towns often have those learned in magics, but none who can use it.
+
+People are often wary of Arcane magic, and may not attack you outright, but will demand you do it away from or not to them. Some nations have laws regulating the use of Arcane magic.
+
+---
+
+That is the end of the general primer. Not much information I know, but more can be found on the homepage and by exploring the Wiki!
+
