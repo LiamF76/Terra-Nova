@@ -8,8 +8,6 @@ aliases:
 ---
 This is a list of all Gods in Terra-Nova:
 - [[Aton]] the Unrelenting Hawk (Tuah), God of Revenge
-- Oras the Sleeper, God of Dreams and Twilight
-- Aureon the Intelligent, God of Knowledge and Strategy
 - Oasis the Kind, Goddess of Forgiveness and Respite
 
 # Gods of Terra-Nova 
@@ -81,15 +79,17 @@ The Gods of force beyond the mortal world.
 | Erebos | Death    |           |
 | Jahaad | The Dead |           |
 | Surtur | Fire     |           |
+| Oras   | Dreams   |           |
 
 ---
 
 ## The High Truths
 
-| God    | Domain | Alignment |
-| ------ | ------ | --------- |
-| Ishtar | Wisdom |           |
-|        |        |           |
+| God    | Domain   | Alignment |
+| ------ | -------- | --------- |
+| Ishtar | Wisdom   |           |
+| Aureon | Strategy |           |
+|        |          |           |
 
 ---
 ## The Dragon Pantheon
