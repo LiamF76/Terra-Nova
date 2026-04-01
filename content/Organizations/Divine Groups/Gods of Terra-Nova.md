@@ -7,6 +7,13 @@ aliases:
   - Pantheon
 ---
 
+- Uther God of Victory
+- Yagi God of Wonders
+- Choion God of Poetry
+- Egoana Goddess of Rivers
+- Ytulla Goddess of Secrecy
+- Calina Goddess of Love
+
 # Gods of Terra-Nova 
 
 The gods of Terra-Nova are divided into multiple pantheons. Worship can span across Pantheons, but these divisions came about during the Age of Divines, as many Gods were reborn and worship had to be reorganized.
@@ -115,8 +122,14 @@ The Gods of force beyond the mortal world.
 
 ## The Betrayer Gods
 
-| God     | Domain    | Alignment |
-| ------- | --------- | --------- |
-| Arkonil | Rebellion |           |
-| Voracia | Blood     |           |
-| Korvus  | Violence  |           |
+| God      | Domain            | Alignment |
+| -------- | ----------------- | --------- |
+| Arkonil  | Rebellion         |           |
+| Voracia  | Blood             |           |
+| Korvus   | Violence          |           |
+| Vikon    | Natural Disasters |           |
+| Kaelros  | Collapse          |           |
+| Morkhal  | Gluttony          |           |
+| Velkris  | Assassins         |           |
+| Vrynthal | Foresight         |           |
+| Xavoris  | Secrets           |           |
