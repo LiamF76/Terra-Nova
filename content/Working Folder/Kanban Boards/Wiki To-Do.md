@@ -10,6 +10,8 @@ kanban-plugin: list
 	- Finish dividing Gods into pantheons
 - [ ] Update Homepage: [[index]]
 	- add more basic information, navigation, common links
+- [ ] Factions & Organizations
+	- players love joining things, list some major factions and groups
 - [ ] Character Creation Guide
 	- create a resources doc that shows permitted races and all homebrew options
 	- stat choice type
@@ -18,8 +20,6 @@ kanban-plugin: list
 	- docs to read
 	- backstory guidelines
 	- character creation
-- [ ] Factions & Organizations
-	- players love joining things, list some major factions and groups
 - [ ] Races: [[Races of Terra-Nova]]
 	- create entries for all players races
 	- checklist [[Races Checklist]]
