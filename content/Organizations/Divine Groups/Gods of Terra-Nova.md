@@ -1,3 +1,11 @@
+---
+publish: true
+title: Gods of Terra-Nova
+aliases:
+  - Gods
+  - Divines
+  - Pantheon
+---
 This is a list of all Gods in Terra-Nova:
 - [[Shao Daraan|Shao Daraan]] the Elder
 - Illuman The Lightbringer, God of Light and the Sun
@@ -5,7 +13,7 @@ This is a list of all Gods in Terra-Nova:
 - Tena the World-Mother, Goddess of Nature
 - Erebos the Reaper, God of Death
 - Mani the Crescent Son, God of the Moon
-- [[Aton]] the Unrelenting Hawk (Tuah), God of Revenge and Speed
+- [[Aton]] the Unrelenting Hawk (Tuah), God of Revenge
 - Iros the Celestial Hammer, God of Crafting and Trade
 - [[Vulcan]] the Blade Master, God of War
 - Fulgrim the Thunder Bringer, God of Storms and Weather 
@@ -28,3 +36,54 @@ This is a list of all Gods in Terra-Nova:
 - Aethor the Mithril Dragon, God of the Sky, and Metallic Dragonborn
 - Aurum the Golden Child, God of Pride
 - Aestus the Brass King, God of Promise and Dedication
+
+# Gods of Terra-Nova 
+
+The gods of Terra-Nova are divided into multiple pantheons. Worship can span across Pantheons, but these divisions came about during the Age of Divines, as many Gods were reborn and worship had to be reorganized.
+
+## The Elder Pantheon
+
+| God             | Domain | Alignment |
+| --------------- | ------ | --------- |
+| [[Shao Daraan]] |        |           |
+| [[Khal Daraan]] |        |           |
+| Mani            |        |           |
+
+---
+
+## The Convergence
+
+| God        | Domain | Alignment |
+| ---------- | ------ | --------- |
+| Illuman    |        |           |
+| Balthazaar |        |           |
+| Malos      |        |           |
+
+---
+
+## The Divine Pillars
+
+| God     | Domain | Alignment |
+| ------- | ------ | --------- |
+| Kronos  |        |           |
+| Khabris |        |           |
+| Telura  |        |           |
+
+---
+
+## The Eternal Forces
+
+| God    | Domain | Alignment |
+| ------ | ------ | --------- |
+| Tena   |        |           |
+| Jahaad |        |           |
+| Surtur |        |           |
+
+
+---
+
+## The Dragon Pantheon
+
+| God | Domain | Alignment |
+| --- | ------ | --------- |
+|     |        |           |
