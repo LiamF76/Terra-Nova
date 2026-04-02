@@ -45,8 +45,6 @@ This campaign is about:
 
 You will uncover the truth behind the Valley’s magic, confront the consequences of ancient choices, and decide what the Valley deserves now. Will you save it, leave it in ruin, or perhaps rule it?
 
-I write campaigns as situations, not stories. You write the stories with your actions. Anything is possible, that is, if you are willing to roll for it.
-
 
 ---
 
@@ -67,6 +65,11 @@ Here are some easy motivations that fit naturally into the story:
 - Protecting the Valley from monsters or dragons
 - Seeking glory, purpose, or redemption
 - Investigating the failing magic
+
+
+---
+
+I write campaigns as situations, not stories. You write the stories with your actions. Anything is possible, that is, if you are willing to roll for it.
 - Helping the priest who believes in you
 - Uncovering the truth behind the magic barrier
 - Defending Sovrentia from the Triumvirate Scales
