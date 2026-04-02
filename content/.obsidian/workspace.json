@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,48 +18,11 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "cfbcd13a1e09a792",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
-          },
-          {
-            "id": "8882ebd8d9cd37eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Valley of Broken Oaths Primer"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,13 +213,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8882ebd8d9cd37eb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "z Images/image-1.webp",
     "z Images/image.webp",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Dashboard.md",
-    "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Campaigns/The Valley of Broken Oaths/Westwood Valley.md",
     "Characters/Figures of Today.md",
@@ -298,7 +260,6 @@
     "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
     "quartz/node_modules/js-binary-schema-parser/example/box.gif",
     "quartz/node_modules/gifuct-js/demo/dog.gif",
-    "quartz/node_modules/gifuct-js/demo/jblack.gif",
-    "quartz/node_modules/gifuct-js/demo/horses.gif"
+    "quartz/node_modules/gifuct-js/demo/jblack.gif"
   ]
 }
