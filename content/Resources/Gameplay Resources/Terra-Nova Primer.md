@@ -19,8 +19,13 @@ Like may D&D settings I draw heavily on inspiration, and the major setting inspi
 - The Dark Crystal
 - Faerun & The Forgotten Realms
 - Malazan Book of the Fallen
+- Frieren: Beyond Journey's End
 
-While many elements from these sources can be found in the world, it is not overly or exactly like any of them. It is organic and unique in many ways. Depending on location, the tone ranges from dark to cozy fantasy, and high to low magics, though generally it leans towards lower magics as compared to traditional D&D. The tone of the setting depends very heavily on the continent and even nation or plane your adventure is taking place. 
+You may notice some diverse and conflicting themes and inspirations from the above sources. I do too. While many elements from these sources can be found in the world, it is not overly or exactly like any of them. It is organic and unique in many ways. Depending on location, the tone ranges from dark to cozy fantasy, and high to low magics, though generally it leans towards lower magics as compared to traditional D&D. The tone of the setting depends very heavily on the continent and even nation or plane your adventure is taking place. 
+
+Here are tow examples from Terra-Nova. Take for instance the land of Escarth, full of legendary stories, fantasy knights and castles, classic monsters, tyrant kings and agents of the heavens fighting against demons and dragons , it could be an Elder Scrolls game setting. Compare that to the land of Iramo, a continent entirely made of a Maze covered and devoid of sunlight, hundreds of miles wide and tall, with many levels, filled with the most horrific monsters and traps imaginable, where a trio of Eldritch beings rule and war eternally over the secrets and powers held within left behind by the ancient Aelarians.
+
+These tow places are so different they are almost entirely separate worlds, but look outside. If you in the Unites States or wherever you live, woke up one morning in Palestine, Russia, the Philippines, or Antarctica, would it not feel like you had traveled to another planet even for a moment? This world is vast and diverse, and yours to explore.
 
 ---
 
