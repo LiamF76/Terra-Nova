@@ -11,3 +11,6 @@ A Tiefling of purple skin and extreme magical ability walked out the front door 
 
 This amulet, when worn by a willing subject, would allow Teya'ka to take mortal form once again. Teya'ka was so grateful to the Wizard that he adopted a mortal name to accompany his new state, choosing one of great honor to Ivys, calling himself Horus Hixs.
 
+---
+
+Horus was given a temporary host in the form of a warforged body by Ivys, but this would not last forever. When Horus took human form his divine flame was too powerful to be contained by a body, and the hose would eventually burn up.
