@@ -42,6 +42,7 @@ This pantheon governs the primal powers. Mortal domains of strength and force su
 | Vulcan | War       |
 | Iros   | The Forge |
 | Uther  | Victory   |
+| Agni   | Fire      |
 
 ---
 

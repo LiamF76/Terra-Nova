@@ -10,14 +10,71 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Working Folder/Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "886cc8ce538c33e2",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Wiki To-Do"
+            }
+          },
+          {
+            "id": "c8a8782b805c0c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Figures of Today.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Figures of Today"
+            }
+          },
+          {
+            "id": "cbfa0acce2a8540a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Backstories/Horus Hixs Backstory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Horus Hixs Backstory"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,24 +265,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cbfa0acce2a8540a",
   "lastOpenFiles": [
-    "Resources/Gameplay Resources/Terra-Nova Primer.md",
-    "index.md",
+    "Characters/Figures of Today.md",
+    "Organizations/Divine Groups/Gods of Terra-Nova.md",
+    "Characters/Character Backstories/Horus Hixs Backstory.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "Characters/demigods/Horus Hixs.md",
+    "Templates/Character Template.md",
+    "index.md",
     "Working Folder/Dashboard.md",
+    "Resources/Gameplay Resources/Terra-Nova Primer.md",
     "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "z Images/image-1.webp",
     "z Images/image.webp",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Campaigns/The Valley of Broken Oaths/Westwood Valley.md",
-    "Characters/Figures of Today.md",
     "Characters/demigods/Astarielle.md",
-    "Characters/demigods/Horus Hixs.md",
     "Figures of History.md",
     "Resources/Gameplay Resources/Glossary.md",
-    "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Characters/Extraplanar/Gods/Shao Daraan.md",
     "Resources/Gameplay Resources/Races of Terra-Nova.md",
     "Resources/Gameplay Resources/Start Guide.md",
@@ -239,7 +298,6 @@
     "WIki To-Do.md",
     "To-Do.md",
     "conflict-files-obsidian-git.md",
-    "Working Folder/WIP/Theme Test Note.md",
     "Working Folder/WIP",
     "Wiki/Gods",
     "Wiki/Characters",
