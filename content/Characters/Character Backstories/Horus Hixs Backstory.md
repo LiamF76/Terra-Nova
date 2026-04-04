@@ -1,3 +1,10 @@
+---
+publish: true
+title: Horus Hixs Backstory
+aliases:
+  - Horus
+  - Teya'ka
+---
 
 Horus Hixs was born to the name Teya'ka, given to him by the Ryfiri Druids of Escarth. Horus was born a spirit of fire, a Phoenix and Demi-God son of Agni. Horus was Agni's first child since being revived by Melantha Celestia-Shield.
 

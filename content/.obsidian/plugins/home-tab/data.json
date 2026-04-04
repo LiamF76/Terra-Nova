@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "Characters/Character Backstories/Horus Hixs Backstory.md",
-      "timestamp": 1775322673841
+      "timestamp": 1775323125007
+    },
+    {
+      "filepath": "Characters/demigods/Horus Hixs.md",
+      "timestamp": 1775323105482
+    },
+    {
+      "filepath": "Characters/Figures of Today.md",
+      "timestamp": 1775323104526
     },
     {
       "filepath": "Characters/Extraplanar/Abyssal Creatures/Malphas.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "Characters/Extraplanar/Abyssal Creatures/Denlain.md",
       "timestamp": 1775322663979
-    },
-    {
-      "filepath": "Characters/Figures of Today.md",
-      "timestamp": 1775321997001
-    },
-    {
-      "filepath": "Organizations/Divine Groups/Gods of Terra-Nova.md",
-      "timestamp": 1775321995448
     }
   ],
   "bookmarkedFileStore": [],

@@ -1,3 +1,12 @@
+---
+publish: true
+title: Horus Hixs
+aliases:
+  - Horus
+  - Teya'ka
+  - Phoenix
+  - Emperor
+---
 
 ![[Pasted image 20260104120251.png | 500]]
 
