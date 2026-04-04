@@ -20,4 +20,4 @@ This amulet, when worn by a willing subject, would allow Teya'ka to take mortal 
 
 ---
 
-Horus was given a temporary host in the form of a warforged body by Ivys, but this would not last forever. When Horus took human form his divine flame was too powerful to be contained by a body, and the hose would eventually burn up.
+Horus was given a temporary host in the form of a warforged body by Ivys, but this would not last forever. When Horus took human form his divine flame was too powerful to be contained by a body, and the host would eventually burn up.
