@@ -44,36 +44,6 @@
             }
           },
           {
-            "id": "c8a8782b805c0c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Figures of Today.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Figures of Today"
-            }
-          },
-          {
-            "id": "36847bd8eacea208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/demigods/Horus Hixs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Horus Hixs"
-            }
-          },
-          {
             "id": "cbfa0acce2a8540a",
             "type": "leaf",
             "state": {
@@ -89,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +79,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -284,13 +254,14 @@
   "lastOpenFiles": [
     "Characters/demigods/Horus Hixs.md",
     "Characters/Figures of Today.md",
+    "Characters/Figures of History.md",
+    "index.md",
+    "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Characters/Character Backstories/Horus Hixs Backstory.md",
     "Characters/Extraplanar/Abyssal Creatures/Malphas.md",
     "Characters/Extraplanar/Abyssal Creatures/Denlain.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
-    "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Templates/Character Template.md",
-    "index.md",
     "Working Folder/Dashboard.md",
     "Resources/Gameplay Resources/Terra-Nova Primer.md",
     "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
@@ -300,7 +271,6 @@
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Campaigns/The Valley of Broken Oaths/Westwood Valley.md",
     "Characters/demigods/Astarielle.md",
-    "Figures of History.md",
     "Resources/Gameplay Resources/Glossary.md",
     "Characters/Extraplanar/Gods/Shao Daraan.md",
     "Resources/Gameplay Resources/Races of Terra-Nova.md",
