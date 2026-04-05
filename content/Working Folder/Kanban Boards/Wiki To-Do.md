@@ -23,6 +23,11 @@ kanban-plugin: list
 - [ ] Important People
 	- [[Figures of Today]]
 	- [[Figures of History]]
+- [ ] [[Figures of Today]]
+	- Wizard Council Members
+	- Ruler of Sovrentia
+	- Some villain / anti-hero adjacent character
+	-
 
 
 
