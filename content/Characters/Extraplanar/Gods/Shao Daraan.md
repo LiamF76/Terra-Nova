@@ -18,3 +18,4 @@ Description: Appearance & vibe description
 
 Important Info: 
 - Creator of the universe, somewhat a manifestation of the Dungeon Master/The Ruler
+- Shao Daraan is the Creator, he created Terra-Nova and its planes 

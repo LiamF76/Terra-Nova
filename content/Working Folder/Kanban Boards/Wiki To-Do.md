@@ -27,7 +27,7 @@ kanban-plugin: list
 	- Wizard Council Members
 	- Ruler of Sovrentia
 	- Some villain / anti-hero adjacent character
-	-
+	- honorable knight / wanderer
 
 
 
