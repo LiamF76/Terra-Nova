@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Working Folder/Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -213,17 +218,17 @@
     "Characters/Character Backstories/Horus Hixs Backstory.md",
     "Characters/demigods/Horus Hixs.md",
     "Characters/Figures of Today.md",
+    "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Characters/Figures of History.md",
     "index.md",
-    "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Characters/Extraplanar/Abyssal Creatures/Malphas.md",
     "Characters/Extraplanar/Abyssal Creatures/Denlain.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Templates/Character Template.md",
-    "Working Folder/Dashboard.md",
     "Resources/Gameplay Resources/Terra-Nova Primer.md",
     "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "z Images/image-1.webp",
     "z Images/image.webp",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
