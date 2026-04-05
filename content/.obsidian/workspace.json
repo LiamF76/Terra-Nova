@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,19 +281,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "573dc9ab3790321d",
+  "active": "e413e4026876c2fc",
   "lastOpenFiles": [
-    "z Images/image-7.webp",
     "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
-    "Finnick.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Working Folder/Kanban Boards/Penance Lost PBP.md",
+    "Characters/People/Marvos.md",
+    "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/Solo Projects.md",
+    "Real Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
+    "Finnick.md",
+    "z Images/image-7.webp",
     "Characters/People/Aldros.md",
     "Characters/People/Ciro.md",
     "z Images/image-6.webp",
     "z Images/image-5.webp",
     "z Images/image-4.webp",
-    "Working Folder/Dashboard.md",
     "Characters/Figures of Today.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Characters/Character Backstories/Horus Hixs Backstory.md",
@@ -311,11 +315,8 @@
     "Characters/Extraplanar/Abyssal Creatures/Malphas.md",
     "Characters/Extraplanar/Abyssal Creatures/Denlain.md",
     "Templates/Character Template.md",
-    "Resources/Gameplay Resources/Terra-Nova Primer.md",
     "z Images/image-1.webp",
     "z Images/image.webp",
-    "Campaigns/The Valley of Broken Oaths/Westwood Valley.md",
-    "Resources/Gameplay Resources/Glossary.md",
     "z Images/Terra-Nova Prime V2.webp",
     "Geography/Planes/The Material Plane/Untitled.canvas",
     "z Images/Terra-Nova Prime V2.jpg",
@@ -328,7 +329,6 @@
     "quartz/content",
     "quartz/node_modules/@citation-js/core/package.json",
     "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/json.js",
-    "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/index.js",
-    "quartz/node_modules/cli-spinner/img/spinner.gif"
+    "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/index.js"
   ]
 }

@@ -62,3 +62,22 @@ Aldros and the Artifact are stuck in the Valley. The party travels through the l
 - Act 1: Aldros and the stolen artifact
 - Act 2: The dragon and the captured priest
 - Act 3: The priest and the undead
+
+---
+
+## Dungeon Ideas
+
+- Path Dungeon: Dungeon set in some area they have to pass through to reach Aldros
+- 
+
+
+---
+
+## Beginning
+
+Ambushes, the best action films start with a fight.
+
+- Travel ambush? Meeting at a tavern when it gets attacked by monsters?
+- Go take some contracts for work, do a couple, cliffhanger where they see evidence of the magical protection fading around the valley
+- 
+
