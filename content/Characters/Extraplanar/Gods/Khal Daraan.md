@@ -1,9 +1,19 @@
-Name: Khal Daraan, the Doombringer, The Aspect of Apocalypse
+---
+publish: true
+title: Khal Daraan
+aliases:
+  - Khal
+  - Daraan
+---
 
-Voice: 
+![[image-3.webp|500x750]]
 
-Description: 
+Name: **Khal Daraan**, the Doombringer, The Aspect of Apocalypse
 
-Important Info: Brother of [[Shao Daraan]], the antithesis to creation, the manifestation of ultimate evil
+Voice: Voice Description
+- Example Dialogue
 
-Statblock: 
+Description: Appearance & vibe description
+
+Important Info: 
+- Connections, Abilities, Secrets
