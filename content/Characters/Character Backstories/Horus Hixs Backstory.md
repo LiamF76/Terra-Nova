@@ -21,3 +21,9 @@ This amulet, when worn by a willing subject, would allow Teya'ka to take mortal 
 ---
 
 Horus was given a temporary host in the form of a warforged body by Ivys, but this would not last forever. When Horus took human form his divine flame was too powerful to be contained by a body, and the host would eventually burn up.
+
+Horus lived in his first body for many years, but as it degraded his abilities and strength waned. He amassed a following, and eventually became the ruler of a small land in the heart of the continent. As he lay dying, one of his loyal followers offered themselves as a host. Horus was initially hesitant, but the kingdom came under attack as he delayed his revival. A nearby warlord had sought to capitalize on the death of the Phoenix, but he failed. Horus accepted his follower's sacrifice, and was reborn. He obliterated the invaders, and took up the mantle of Phoenix Emperor.
+
+Horus and his followers expanded his domain over 200 years, and formed the Empire of New Estorias, with Horus at the throne. The most loyal of his people consider him to be their God Emperor, and Horus is the figure of the state religion in New Estorias. He is a living god emperor, and is revered through his lands.
+
+Now Horus rules as a military mastermind with the strength and wisdom of a Demi-God. Those who follow his church call him 'The Paragon', a holy title derived from the ancient myth of the Lightbearer, a term of revelry referring to Horus as the living savior. They believe Horus must be made Emperor of all the world, and he agrees, his divine mandate was to guide mortals, and he will do so as Phoenix Emperor.
