@@ -6,13 +6,16 @@ kanban-plugin: list
 
 ## Worldbuilding
 
-- [ ] [[TVBO Workshop]]
 - [ ] [[The Valley of Broken Oaths Primer]]
+- [ ] [[TVBO Workshop]]
 - [ ] [[Westwood Valley]]
 
 
 ## Characters
 
+- [ ] [[Ciro]]
+- [ ] [[Aldros]]
+- [ ] [[Finnick]]
 
 
 ## Locations

@@ -43,9 +43,9 @@ Aldros and the Artifact are stuck in the Valley. The party travels through the l
 
 ### Don't prep campaigns, prep situations.
 
-- The players are hired to retrieve the Artifact from Aldros and bring back the magical protection of the Valley, **BUT** Aldros has begun a ritual to destroy the magic forever, *THEREFORE* they must reunite it with the grave of the knight who first blessed it to restore its magic.
+- The players are hired to retrieve the Artifact from [[Aldros]] and bring back the magical protection of the Valley, **BUT** [[Aldros]] has begun a ritual to destroy the magic forever, *THEREFORE* they must reunite it with the grave of the knight who first blessed it to restore its magic.
 - **BUT** the party does not know the holy ritual to restore the holy magic of the artifact *THEREFORE* they must seek out a powerful mage/priest to obtain the knowledge.
-- **BUT** the priest has been kidnapped by a dragon and forced to revere and worship it, granting it magical power, *THEREFORE* the party must defeat or negotiate with the dragon to free them.
+- **BUT** the priest ([[Ciro]])has been kidnapped by a dragon and forced to revere and worship it, granting it magical power, *THEREFORE* the party must defeat or negotiate with the dragon to free [[Ciro]].
 - **BUT** after freeing the priest the party learns he has lost his bond to his God, *THEREFORE* they must help him regain his holy powers by defeating the undead he failed to save a town from.
 
 ### Things to set up prior in the campaign, plot hooks
