@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,77 +18,11 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "78325b2f3722c997",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Wiki To-Do"
-            }
-          },
-          {
-            "id": "9135f4c3f8a785d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Figures of History.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Figures of History"
-            }
-          },
-          {
-            "id": "49006c679153989e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Figures of Today.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Figures of Today"
-            }
-          },
-          {
-            "id": "71f58ff740653912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/demigods/Astarielle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Astarielle"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,11 +213,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "71f58ff740653912",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Characters/demigods/Astarielle.md",
     "Characters/Figures of Today.md",
     "Characters/Figures of History.md",
-    "Characters/demigods/Astarielle.md",
     "History/History Docs/Story of Maple Celestia.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Characters/People/Maple.md",
