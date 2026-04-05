@@ -44,6 +44,21 @@
             }
           },
           {
+            "id": "9135f4c3f8a785d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Figures of History.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Figures of History"
+            }
+          },
+          {
             "id": "49006c679153989e",
             "type": "leaf",
             "state": {
@@ -74,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -268,11 +283,13 @@
   "active": "71f58ff740653912",
   "lastOpenFiles": [
     "Characters/Figures of Today.md",
+    "Characters/Figures of History.md",
     "Characters/demigods/Astarielle.md",
+    "History/History Docs/Story of Maple Celestia.md",
+    "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "Characters/People/Maple.md",
     "Characters/demigods/Horus Hixs.md",
     "Characters/Character Backstories/Horus Hixs Backstory.md",
-    "Working Folder/Kanban Boards/Wiki To-Do.md",
-    "Characters/Figures of History.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Characters/Extraplanar/Gods/Shao Daraan.md",
     "Working Folder/Dashboard.md",
@@ -294,7 +311,6 @@
     "History/Timelines/Terra-Nova Master Timeline.md",
     "Working Folder/WIP/Races Checklist.md",
     "Templates/Race Template.md",
-    "Geography/Planes/The Material Plane/World Map.md",
     "z Images/Terra-Nova Prime V2.webp",
     "Geography/Planes/The Material Plane/Untitled.canvas",
     "z Images/Terra-Nova Prime V2.jpg",
