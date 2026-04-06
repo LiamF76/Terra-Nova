@@ -77,7 +77,7 @@ Aldros and the Artifact are stuck in the Valley. The party travels through the l
 
 Ambushes, the best action films start with a fight.
 
+- TVBO Session 1 Prep
 - Travel ambush? Meeting at a tavern when it gets attacked by monsters?
 - Go take some contracts for work, do a couple, cliffhanger where they see evidence of the magical protection fading around the valley
 - 
-

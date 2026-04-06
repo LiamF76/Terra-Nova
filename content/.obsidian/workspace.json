@@ -50,13 +50,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
+                "file": "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TVBO Workshop"
+              "title": "TVBO Session 1 Prep"
+            }
+          },
+          {
+            "id": "8866a38876a2446e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Organizations/Nobility/Sovrentia Org Structure.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Sovrentia Org Structure"
             }
           }
         ],
@@ -253,19 +265,22 @@
   },
   "active": "682f966f8a9b503e",
   "lastOpenFiles": [
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Organizations/Nobility/Sovrentia Org Structure.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
     "Working Folder/Dashboard.md",
+    "Characters/People/Finnick.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
+    "Campaigns/The Valley of Broken Oaths/Past Sessions",
     "Characters/Figures of Today.md",
     "Characters/People/Thalanil.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
     "z Images/image-8.webp",
     "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
-    "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Working Folder/Kanban Boards/Penance Lost PBP.md",
     "Characters/People/Marvos.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
     "Real Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
-    "Finnick.md",
     "z Images/image-7.webp",
     "Characters/People/Aldros.md",
     "Characters/People/Ciro.md",
@@ -284,7 +299,6 @@
     "Characters/People/Maple.md",
     "z Images/image-2.webp",
     "index.md",
-    "Characters/Extraplanar/Abyssal Creatures/Malphas.md",
     "z Images/image-1.webp",
     "z Images/image.webp",
     "z Images/Terra-Nova Prime V2.webp",
@@ -297,7 +311,6 @@
     "Wiki",
     "quartz/content",
     "quartz/node_modules/@citation-js/core/package.json",
-    "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/json.js",
-    "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/index.js"
+    "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/json.js"
   ]
 }
