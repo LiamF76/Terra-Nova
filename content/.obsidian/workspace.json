@@ -45,38 +45,18 @@
             }
           },
           {
-            "id": "2a0708ab9c48673d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
-          },
-          {
-            "id": "d99f41dd0861bf1f",
+            "id": "7fe544fcd9ceb106",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
+                "file": "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Valley of Broken Oaths Primer"
+              "title": "TVBO Workshop"
             }
           },
           {
@@ -95,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -288,13 +268,19 @@
   },
   "active": "682f966f8a9b503e",
   "lastOpenFiles": [
-    "Organizations/Nobility/Sovrentia Org Structure.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
     "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
+    "Abraham.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "z Images/image-11.webp",
+    "z Images/image-10.webp",
+    "z Images/image-9.webp",
+    "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
+    "Characters/People/Ciro.md",
+    "Characters/People/Aldros.md",
+    "Organizations/Nobility/Sovrentia Org Structure.md",
     "Working Folder/Dashboard.md",
     "Characters/People/Finnick.md",
-    "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Campaigns/The Valley of Broken Oaths/Past Sessions",
     "Characters/Figures of Today.md",
     "Characters/People/Thalanil.md",
@@ -305,8 +291,6 @@
     "Working Folder/Kanban Boards/Solo Projects.md",
     "Real Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
     "z Images/image-7.webp",
-    "Characters/People/Aldros.md",
-    "Characters/People/Ciro.md",
     "z Images/image-6.webp",
     "z Images/image-5.webp",
     "z Images/image-4.webp",
@@ -319,12 +303,7 @@
     "Characters/demigods/Astarielle.md",
     "Characters/Figures of History.md",
     "History/History Docs/Story of Maple Celestia.md",
-    "Characters/People/Maple.md",
     "z Images/image-2.webp",
-    "index.md",
-    "z Images/image-1.webp",
-    "z Images/image.webp",
-    "z Images/Terra-Nova Prime V2.webp",
     "Geography/Planes/The Material Plane/Untitled.canvas",
     "Working Folder/WIP",
     "Wiki/Gods",

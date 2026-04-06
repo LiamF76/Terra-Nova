@@ -16,6 +16,7 @@ kanban-plugin: list
 - [ ] [[Ciro]]
 - [ ] [[Aldros]]
 - [ ] [[Finnick]]
+- [ ] [[Abraham]]
 - [ ] Zaltana Maram
 	- Governor of Lightbear
 
