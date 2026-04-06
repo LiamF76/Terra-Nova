@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,62 +18,11 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "dee980e65a3ecc87",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Wiki To-Do"
-            }
-          },
-          {
-            "id": "95d8ba4553f3d2af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Figures of Today.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Figures of Today"
-            }
-          },
-          {
-            "id": "929d41237d2832e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/People/Thalanil.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Thalanil"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,12 +213,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "929d41237d2832e4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "z Images/image-8.webp",
     "Characters/Figures of Today.md",
     "Characters/People/Thalanil.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "z Images/image-8.webp",
     "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
@@ -303,7 +251,6 @@
     "z Images/image.webp",
     "z Images/Terra-Nova Prime V2.webp",
     "Geography/Planes/The Material Plane/Untitled.canvas",
-    "z Images/Terra-Nova Prime V2.jpg",
     "Working Folder/WIP",
     "Wiki/Gods",
     "Wiki/Characters",
