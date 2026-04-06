@@ -13,6 +13,7 @@ After arriving in town a local farmer offers the party 10 GP to handle a small h
 Party is invited to meet the Judge, [[Finnick]], who presides over the town. He also mentions the Pegasus and says if the party can capture one for him he will give them access to the Valley's adventuring jobs before any missives are sent to parties outside the valley, meaning they get exclusive access to jobs in the area. He is aware of the fading protection of the relic, but wont acknowledge it due to the implications on his ability to govern. 
 
 
+---
 
 ## Doing the Job
 
