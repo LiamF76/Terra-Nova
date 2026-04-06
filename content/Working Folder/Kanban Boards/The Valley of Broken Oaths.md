@@ -16,6 +16,8 @@ kanban-plugin: list
 - [ ] [[Ciro]]
 - [ ] [[Aldros]]
 - [ ] [[Finnick]]
+- [ ] Zaltana Maram
+	- Governor of Lightbear
 
 
 ## Locations

@@ -25,6 +25,26 @@
             }
           },
           {
+            "id": "9e73340173d0c96b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
+          },
+          {
             "id": "2a0708ab9c48673d",
             "type": "leaf",
             "state": {
@@ -45,6 +65,21 @@
             }
           },
           {
+            "id": "d99f41dd0861bf1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Valley of Broken Oaths Primer"
+            }
+          },
+          {
             "id": "682f966f8a9b503e",
             "type": "leaf",
             "state": {
@@ -58,21 +93,9 @@
               "icon": "lucide-file",
               "title": "TVBO Session 1 Prep"
             }
-          },
-          {
-            "id": "8866a38876a2446e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Organizations/Nobility/Sovrentia Org Structure.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sovrentia Org Structure"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -266,17 +289,17 @@
   "active": "682f966f8a9b503e",
   "lastOpenFiles": [
     "Organizations/Nobility/Sovrentia Org Structure.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
+    "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
     "Working Folder/Dashboard.md",
     "Characters/People/Finnick.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Campaigns/The Valley of Broken Oaths/Past Sessions",
     "Characters/Figures of Today.md",
     "Characters/People/Thalanil.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
     "z Images/image-8.webp",
-    "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
     "Working Folder/Kanban Boards/Penance Lost PBP.md",
     "Characters/People/Marvos.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
