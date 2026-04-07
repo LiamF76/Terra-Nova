@@ -8,3 +8,10 @@ There is a small festival / market that occurs once per season between the morta
 
 
 
+## Ambush
+
+TBD
+
+```statblock
+creature: Ogre
+```
