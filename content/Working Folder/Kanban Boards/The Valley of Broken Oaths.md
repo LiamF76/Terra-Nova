@@ -9,6 +9,7 @@ kanban-plugin: list
 - [ ] [[The Valley of Broken Oaths Primer]]
 - [ ] [[TVBO Workshop]]
 - [ ] [[Westwood Valley]]
+- [ ] [[TVBO Session 1 Prep]]
 
 
 ## Characters

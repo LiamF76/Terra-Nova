@@ -69,9 +69,20 @@ Here are some easy motivations that fit naturally into the story:
 
 ---
 
+## How I Play
+
+
 I write campaigns as situations, not stories. You write the stories with your actions. Anything is possible, that is, if you are willing to roll for it.
 - Helping the priest who believes in you
 - Uncovering the truth behind the magic barrier
 - Defending Sovrentia from the Triumvirate Scales
 
 Pick one, or invent your own! You could be from the Valley, or anywhere far away or nearby.
+
+---
+
+## Why are you here?
+
+Four times a year during each season there is a small festival in Westwood Valley. While the gathering is small it is centered around local spirits and trade, meaning different folks from nearby and sometimes faraway lands can attend. It is a small but important tradition that many participate in.
+
+Perhaps your character is here to visit the local spirits, searching for a lost artifact that may have ended up in a backwater market, or there to hide out in a remote border town. Whatever your reasons for being there, please remember the fundamentals of D&D and character building. Making a character who is against working with others or against going on adventures will be a bad time for you, your party, and the DM. Make someone who wants to do this stuff, or don't do this stuff. Can't wait to see what you come up with!
