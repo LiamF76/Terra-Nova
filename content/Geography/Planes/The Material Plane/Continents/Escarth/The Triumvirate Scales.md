@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: The Triumvirate Scales
 aliases:
   - The Dragonlands
