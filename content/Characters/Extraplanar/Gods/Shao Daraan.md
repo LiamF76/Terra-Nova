@@ -1,9 +1,21 @@
-Name: Shao Daraan the Elder God, the Creator
+---
+publish: true
+title: Shao Daraan
+aliases:
+  - Shao
+  - Daraan
+  - God
+---
+
+![[image-2.webp|500x750]]
+
+Name: **Shao Daraan**, The Elder God, the Creator
 
 Voice: does not speak with his own voice, uses the voices of those you know in your head telepathically
+- Example Dialogue
 
-Description: Gigantic hundreds of feet tall scaled eldritch creature, Cthulhu like tentacled face, more tendrils extend from the back oh its head like hair that wave and move on their own
+Description: Appearance & vibe description
 
-Important Info: [[Gods of Terra-Nova]], Creator of the universe, somewhat a manifestation of the Dungeon Master/ The Ruler
-
-Statblock: 
+Important Info: 
+- Creator of the universe, somewhat a manifestation of the Dungeon Master/The Ruler
+- Shao Daraan is the Creator, he created Terra-Nova and its planes 

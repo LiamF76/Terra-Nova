@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHome",
       "LiBrainCircuit",
       "LiPersonStanding",
       "LiBinary",
-      "LiFolderCode",
-      "LiComputer"
+      "LiFolderCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,5 @@
   "z Needs Sorted": "LiBinary",
   "SoloTTRPG": "LiBrainCircuit",
   "Working Folder": "LiNotebookPen",
-  "Working Folder/Kanban Boards/Wiki To-Do.md": "LiListTodo"
+  "Working Folder/Dashboard.md": "LiHome"
 }

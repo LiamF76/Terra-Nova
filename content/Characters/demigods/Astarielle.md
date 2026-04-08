@@ -1,9 +1,21 @@
+---
+publish: true
+title: Astarielle
+aliases:
+  - Astarielle Veil
+  - Astar Arthur
+  - Lady Spacetime
+---
+
+
 ![[Pasted image 20260110125401.png|300]]
 
-Name: Astarielle Veil, Astar Arthur, Lady Spacetime
+Name: **Astarielle Veil**, Astar Arthur, Lady Spacetime
 
-Voice: 
+Voice: Voice Description
+- Example Dialogue
 
-Description: 
+Description: Appearance & vibe description
 
 Important Info: 
+- Connections, Abilities, Secrets

@@ -12,9 +12,6 @@ kanban-plugin: list
 	- add more basic information, navigation, common links
 - [ ] Factions & Organizations
 	- players love joining things, list some major factions and groups
-- [ ] Character Creation Guide
-	- create a resources doc that shows permitted races and all homebrew options
-	- stat choice type
 - [ ] New Player Quickstart
 	- note that shows each step to play in the world
 	- docs to read
@@ -23,6 +20,14 @@ kanban-plugin: list
 - [ ] Races: [[Races of Terra-Nova]]
 	- create entries for all players races
 	- checklist [[Races Checklist]]
+- [ ] Important People
+	- [[Figures of Today]]
+	- [[Figures of History]]
+- [ ] [[Figures of Today]]
+	- Wizard Council Members
+	- Ruler of Sovrentia
+	- Some villain / anti-hero adjacent character
+	- honorable knight / wanderer
 
 
 
