@@ -1,23 +1,33 @@
+---
+publish: false
+title: The Triumvirate Scales
+aliases:
+  - The Dragonlands
+---
+
+
 
 Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small but powerful due to dragon rulers, only mortal inhabitants are followers / servants of the dragons.
 
-# **Nation Outline Template (Worldbuilding Document)**
+# **The Triumvirate Scales**
 
 ## **1. Core Identity**
 
 - **Nation Name:** The Triumvirate Scales
-- **Nicknames / Epithets:** The Dragonlands, Lizard Land
+- **Nicknames / Epithets:** The Dragonlands, The Scaled Scar
 - **One‑Sentence Summary:** A nation ruled by a trio of dragons, where each of their hordes takes a corner of their triangular territory.
-- **What Makes It Unique:** Firstly ruled by dragons, secondly it is barely inhabited, the only people there are servants / followers of the dragons. Many worship them, others make deals with their rulers.
+- **What Makes It Unique:** Firstly ruled by dragons, secondly it is barely inhabited, the only people there are servants / followers of the dragons. Many worship them, others make deals with their rulers. It is a nation of monsters and outcasts, and travelling through it is a death sentence to all but the most skilled adventurers and warriors.
 
 ---
 
 ## **2. Geography & Environment**
 
-- **Location on the Continent:** 
-- **Climate & Biomes:**
+- **Location on the Continent:** The Northeast corner of Southern Escarth, taking up territory along the southern boarder of the Great Divide Mountains.
+- **Climate & Biomes:** The climate is largely temperate or tropical, despite its more northern location than other nations in the area, it has massive underground sulfur deposits and magma caves, making the area quite warm. There are swamps, jungles, wastelands, and some pine forests.
 - **Major Natural Features:**
-    - Mountains
+    - Mount Hunder
+    - Galewatch Mountain
+    - The Grove Plains
     - Rivers
     - Forests
     - Deserts
@@ -130,14 +140,3 @@ Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small 
 - **Exploration Hooks:**
 - **Cultural Hooks:**
 - **Threat Hooks:**
-
----
-
-## **12. Secrets (DM‑Only)**
-
-- **Hidden History:**
-- **Conspiracies:**
-- **Ancient Threats:**
-- **Future Plot Seeds:**
-
----
