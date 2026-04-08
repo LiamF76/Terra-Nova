@@ -28,10 +28,7 @@ Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small 
     - Mount Hunder
     - Galewatch Mountain
     - The Grove Plains
-    - Rivers
-    - Forests
-    - Deserts
-    - Magical anomalies
+    - The Drowning Dream Swamp
 - **Environmental Magic (if any):**
     - Leylines
     - Spirit presence
