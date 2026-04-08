@@ -23,28 +23,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "31231146a499472d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Wiki To-Do"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,6 +95,21 @@
               "icon": "lucide-list",
               "title": "Outline of Wiki To-Do"
             }
+          },
+          {
+            "id": "e0575d2aea1548bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ]
       }
@@ -128,17 +123,17 @@
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "31231146a499472d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
