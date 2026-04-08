@@ -29,7 +29,12 @@ kanban-plugin: list
 	- Some villain / anti-hero adjacent character
 	- honorable knight / wanderer
 - [ ] Continents
+	- Escarth (high prio as it is the current campaign setting)
+	- Ikon
+	- Iramo
 - [ ] Nations
+	- Sovrentia
+	- New Estorias
 
 
 
