@@ -32,7 +32,7 @@ kanban-plugin: list
 	- Escarth (high prio as it is the current campaign setting)
 	- Ikon
 	- Iramo
-- [ ] Nations
+- [ ] [[Escarth Overview]]
 	- Sovrentia
 	- New Estorias
 
