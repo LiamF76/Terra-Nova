@@ -1,5 +1,10 @@
+---
+publish: true
+title: Sovrentia
+aliases:
+---
 
-Brief text overview.
+Sovrentia was once known as The Freehold, form it stood as a bastion of justice and fairness in a time of strife. Now it attempts to uphold that spirit, despite many attempts from both within and without to change that. Sovrentia is a Republic, where the nation is divided into states which elect a Sovereign from the leaders of the nation. Each state has its own system of government, but all answer to the Sovereign.
 
 # **Sovrentia**
 
@@ -7,14 +12,14 @@ Brief text overview.
 
 - **Nation Name:** Sovrentia
 - **Nicknames / Epithets:** The Freehold, The Democracy, The Golden Lands
-- **One‑Sentence Summary:** A diverse democracy of independent states with private militaries and unique state government systems.
-- **What Makes It Unique:** 
+- **One‑Sentence Summary:** A diverse democratic republic of independent states with private militaries and unique state government systems.
+- **What Makes It Unique:** Sovrentia has monarchal provinces, theological states, and electoral democracies that all make up its diverse and volatile government system.
 
 ---
 
 ## **2. Geography & Environment**
 
-- **Location on the Continent:** 
+- **Location on the Continent:** Sovrentia is located in the Southwest corner of Escarth, having a large coastline along the southern edge of the continent.
 - **Climate & Biomes:**
 - **Major Natural Features:**
     - Mountains
