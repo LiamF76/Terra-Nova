@@ -33,7 +33,7 @@ Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small 
     - Leylines
     - Spirit presence
     - Undead zones
-    - Planar bleed
+- Planar bleed
 
 ---
 
