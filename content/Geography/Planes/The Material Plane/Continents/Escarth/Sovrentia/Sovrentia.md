@@ -20,7 +20,7 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
 ## **2. Geography & Environment**
 
 - **Location on the Continent:** Sovrentia is located in the Southwest corner of Escarth, having a large coastline along the southern edge of the continent.
-- **Climate & Biomes:**
+- **Climate & Biomes:** Sovrentia has a diverse climate, experiencing all four seasons in a healthy amount. The south is much warmer than the north of the nation, and across its many mountain peaks are yearlong snowfalls. The climate ranges from temporal to continental, but is mostly continental as it becomes chilly in the elevated center of the nation.
 - **Major Natural Features:**
     - Mountains
     - Rivers
@@ -50,7 +50,9 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
 
 ## **4. Government & Power Structure**
 
-- **Government Type:**  Sovrentia is an electoral Republic, in which the different territories send a representative to the parliament. The members of the parliament then elect the Sovereign from those running for the seat.
+See [[Sovrentia Org Structure]] for more information.
+
+- **Government Type:**  Sovrentia is an electoral Republic, in which the different territories send a representative to the parliament. The members of the parliament then elect the Sovereign from those running for the seat. Those running can be any member of the government be they as highly ranked as a Prince or low as a local Judge.
 - **Ruling Body / Leader:** 
 - **Noble Houses / Power Factions:**
 - **How Magic Influences Politics:**
