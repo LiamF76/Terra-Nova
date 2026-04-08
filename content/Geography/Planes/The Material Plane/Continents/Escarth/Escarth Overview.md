@@ -1,5 +1,5 @@
 
-TBD
+Escarth is known as 'The Land of Legends'
 
 
 ## Nations of Southern Escarth

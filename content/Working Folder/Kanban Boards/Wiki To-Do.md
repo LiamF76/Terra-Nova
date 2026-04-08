@@ -28,6 +28,8 @@ kanban-plugin: list
 	- Ruler of Sovrentia
 	- Some villain / anti-hero adjacent character
 	- honorable knight / wanderer
+- [ ] Continents
+- [ ] Nations
 
 
 
