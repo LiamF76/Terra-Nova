@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
-      "timestamp": 1775682954406
+      "timestamp": 1775683521941
+    },
+    {
+      "filepath": "Templates/Nation Outline Template.md",
+      "timestamp": 1775683512189
     },
     {
       "filepath": "Geography/Planes/The Material Plane/World Map.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "index.md",
       "timestamp": 1775678514148
-    },
-    {
-      "filepath": "Working Folder/Kanban Boards/Wiki To-Do.md",
-      "timestamp": 1775678511926
     }
   ],
   "bookmarkedFileStore": [],
