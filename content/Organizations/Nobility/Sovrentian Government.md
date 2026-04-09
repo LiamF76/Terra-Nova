@@ -27,7 +27,8 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 	- 
 
 - #### Jasage
-	- 
+	- **Archdruid of Tena**: Ryfon Al-Ryfiri Evergreen
+		- *Guardian of Druidica*: Elioenai Al-Ryfiri
 
 - #### Kheagon
 	- **Prince of Kheagon**: Kensa Ferran
