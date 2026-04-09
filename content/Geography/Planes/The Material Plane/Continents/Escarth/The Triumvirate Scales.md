@@ -54,10 +54,10 @@ Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small 
 
 - **Government Type:**  
     (Monarchy, council, theocracy, magocracy, necrocracy, etc.)
-- **Ruling Body / Leader:**
-- **Noble Houses / Power Factions:**
-- **How Magic Influences Politics:**
-- **Foreign Relations:**
+- **Ruling Body / Leader:** Gravebinder the Lifebender, Garthrax the Living Storm, Vesponous the Serpent Queen
+- **Noble Houses / Power Factions:** 
+- **How Magic Influences Politics:** 
+- **Foreign Relations:** 
 
 ---
 
