@@ -4,3 +4,6 @@
 | God | Domain | Alignment |
 | --- | ------ | --------- |
 |     |        |           |
+
+**Religions**: 
+- 
