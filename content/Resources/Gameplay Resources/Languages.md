@@ -26,7 +26,7 @@ This is a list of all languages in Terra-Nova. Listed are the languages and belo
 	- Metallic
 	- Crystal
 - **Primordial**
-	- Eldish
+	- Elder
 	- Giant's Tongue
 	- Dwarvish
 - **Goblin**
