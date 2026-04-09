@@ -6,12 +6,16 @@ aliases:
 
 This is a breakdown of the full Sovrentian Government, organized by Province/parliament members.
 
-# Parliament & Sovreign
+# Parliament & Sovereign
 
-- ##### Sovereign: 
-	- 
+- ##### Sovereign:
+	- Nuri Crest, Sovereigness of Sovrentia
 - ##### Parliament: 
-	- 
+	- Rakesh of Ark
+	- Gawen of Crest
+	- Ryfon of Jasage
+	- Kensa of Kheagon
+	- Zaltana of Lightbear
 
 ---
 
@@ -22,7 +26,8 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 		- 
 
 - #### Crest
-	- **Prince of Crest**: 
+	- **Prince of Crest**: Gawen Realmcrest
+		- *First Crestblade*: [[Thalanil]] Realmcrest
 		- 
 
 - #### Hearth
@@ -37,7 +42,7 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 - #### Kheagon
 	- **Prince of Kheagon**: Kensa Ferran
 		- *Lord of Tarnkeep*: Haemal Tarn
-		- 
+		- Steward of Silversong: 
 
 - #### Lightbear
 	- **Governor of Lightbear**: Zaltana Maram
