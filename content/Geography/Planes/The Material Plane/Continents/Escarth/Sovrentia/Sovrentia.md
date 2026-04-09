@@ -43,7 +43,8 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
     - Golden Age
     - Decline
     - Modern Era
-- **Key Historical Events:** 
+- **Key Historical Events:**
+- **How the 300‑Year Timeskip Changed It:** 
 
 ---
 
