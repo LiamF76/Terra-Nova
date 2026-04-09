@@ -30,7 +30,6 @@ Identity: *A proud and timeless people who have found beauty and sorrow in watch
 **Languages**
 
 - 
-- Any unique dialects
 
 ---
 

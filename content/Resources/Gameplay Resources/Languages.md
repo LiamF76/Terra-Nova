@@ -14,6 +14,7 @@ This is a list of all languages in Terra-Nova. Listed are the languages and belo
 	- Shari
 	- Lazuran
 - **Elvish**
+	- Ikonik
 	- Drok'langa
 	- Iramian
 - **Celestial**
