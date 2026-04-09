@@ -1,9 +1,17 @@
-Name: 
+---
+publish: false
+title:
+aliases:
+---
 
-Voice: 
+![[image.png|300]]
 
-Description: 
+Name: **Name**, Aliases
+
+Voice: Voice Description
+- Example Dialogue
+
+Description: Appearance & vibe description
 
 Important Info: 
-
-Statblock: 
+- Connections, Abilities, Secrets
