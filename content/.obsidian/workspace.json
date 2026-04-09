@@ -25,6 +25,25 @@
             }
           },
           {
+            "id": "90582d7ec86d11ed",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Wiki To-Do"
+            }
+          },
+          {
             "id": "b77957ab86b1b6bf",
             "type": "leaf",
             "state": {
@@ -200,18 +219,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e34ef340d2fcf6ef",
+  "active": "abbac25abd05bbc9",
   "lastOpenFiles": [
+    "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "History/Timelines/Terra-Nova Master Timeline.md",
     "Working Folder/Dashboard.md",
+    "Organizations/Nobility/Sovrentian Government.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
     "Real Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
     "Real Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
     "Real Books/The Sparrow Knight/The Sparrow Knight Chapter 3.md",
-    "Organizations/Nobility/Sovrentian Government.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Escarth Overview.md",
-    "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/New Estorias.md",
     "Organizations/Nobility/Sovrentia Org Structure.md",
     "Characters/People/Finnick.md",
@@ -228,7 +248,6 @@
     "Geography/Planes/The Material Plane/Continents/Escarth/Istola.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
     "Real Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
-    "Templates/Insert Statblock.md",
     "z Images/image-11.webp",
     "z Images/image-10.webp",
     "z Images/image-9.webp",

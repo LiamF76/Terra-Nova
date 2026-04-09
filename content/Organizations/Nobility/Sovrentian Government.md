@@ -18,10 +18,12 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 # Provinces
 
 - #### Ark
-	- 
+	- **Grand Sun Hierophant**: Rakesh Solivath
+		- 
 
 - #### Crest
-	- 
+	- Prince of Crest: 
+		- 
 
 - #### Hearth
 	- 

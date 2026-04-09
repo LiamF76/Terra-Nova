@@ -43,8 +43,8 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
     - Golden Age
     - Decline
     - Modern Era
-- **Key Historical Events:**
-- **How the 300‑Year Timeskip Changed It:** 
+- **Key Historical Events:** 
+- **How the 300‑Year Timeskip Changed It:** Sovrentia was formed quickly during the timeskip, and as a result has had a long history, all of its history actually inside the timeskip. It did not change as much as it began during that time.
 
 ---
 

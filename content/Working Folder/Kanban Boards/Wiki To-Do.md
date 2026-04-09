@@ -6,6 +6,7 @@ kanban-plugin: list
 
 ## Wiki
 
+- [ ] Keep [[Terra-Nova Master Timeline]] updated
 - [ ] [[Gods of Terra-Nova]]
 	- Finish dividing Gods into pantheons
 - [ ] Update Homepage: [[index]]
