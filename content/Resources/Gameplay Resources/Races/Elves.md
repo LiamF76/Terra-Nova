@@ -39,15 +39,13 @@ Identity: *A proud and timeless people who have found beauty and sorrow in watch
 
 - You have Darkvision with a range of 60 ft.
 
-**Feature 2 — Name** *A short description.*
+**Feature 2 — Fey Ancestry** *Since the ancient Aelarians elves have been tied to the mysterious power of the Fey, and they carry its ethereal charm with them.*
 
-- Mechanical effect
-- Flavor note
+- You have Advantage on saving throws you make to avoid or end the Charmed condition.
 
-**Feature 3 — Name** (Optional)
+**Feature 3 — Trance**
 
-- Mechanical effect
-- Flavor note
+- You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 **Subraces**
 
