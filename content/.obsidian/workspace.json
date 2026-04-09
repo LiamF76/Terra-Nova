@@ -23,28 +23,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "fe29aebd347fd0de",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Wiki To-Do"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,6 +120,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Create new canvas": false,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -153,13 +134,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fe29aebd347fd0de",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Working Folder/Dashboard.md",
     "Organizations/Religions & Cults/The Paragon of Rebirth.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Escarth Overview.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Xerathos/Xerathos.md",
-    "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "conflict-files-obsidian-git.md",
     "z Images/image.webp",
