@@ -74,6 +74,21 @@
             }
           },
           {
+            "id": "b3f80580dce558c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Nobility/Sovrentian Government.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sovrentian Government"
+            }
+          },
+          {
             "id": "e34ef340d2fcf6ef",
             "type": "leaf",
             "state": {
@@ -89,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,14 +230,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "abbac25abd05bbc9",
+  "active": "b3f80580dce558c6",
   "lastOpenFiles": [
+    "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
     "Organizations/Nobility/Sovrentian Government.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Escarth Overview.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Working Folder/Dashboard.md",
-    "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/New Estorias.md",
     "Organizations/Nobility/Sovrentia Org Structure.md",
     "Characters/People/Finnick.md",
