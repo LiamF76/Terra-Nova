@@ -11,9 +11,9 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
 ## **1. Core Identity**
 
 - **Nation Name:** Sovrentia
-- **Nicknames / Epithets:** The Freehold, The Democracy, The Golden Lands
+- **Nicknames / Epithets:** The Freehold, The Democracy, The Golden Land
 - **One‑Sentence Summary:** A diverse democratic republic of independent states with private militaries and unique state government systems.
-- **What Makes It Unique:** Sovrentia has monarchal provinces, theological states, and electoral democracies that all make up its diverse and volatile government system.
+- **What Makes It Unique:** Sovrentia has monarchal provinces, theological states, and electoral democracies that all make up its diverse government system.
 
 ---
 
