@@ -4,6 +4,6 @@ Voice: Otto Hightower, older man, wispy kind of like Gandalf, "Crowns are made o
 
 Description: middle aged human, short cut gray hair, wears fine silver and gold robes, he has a few scars above his eyebrows and a stern face. He is polite and receptive to talk of war and trade, but is not interested in making merry for new friends. 
 
-Important Info: King of [[Calixos]], husband of Jessica, older brother of [[Adrithyr]], father of Argus, half brother of Ferran, seeking to rule all of [[Escarth]] as Emperor
+Important Info: King of [[Calixos]], husband of Jessica, older brother of [[Adrithyr]], father of Argus, half brother of Ferran, seeking to rule all of [[z Old/Old Geography/Old Escarth/Escarth]] as Emperor
 
 Statblock: 

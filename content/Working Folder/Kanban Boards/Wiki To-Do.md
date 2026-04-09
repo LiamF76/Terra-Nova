@@ -33,7 +33,7 @@ kanban-plugin: list
 	- Escarth (high prio as it is the current campaign setting)
 	- Ikon
 	- Iramo
-- [ ] [[Escarth Overview]]
+- [ ] [[Geography/Planes/The Material Plane/Continents/Escarth/Escarth]]
 	- Sovrentia
 	- New Estorias
 
