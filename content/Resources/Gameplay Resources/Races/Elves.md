@@ -63,8 +63,8 @@ Identity: *A proud and timeless people who have found beauty and sorrow in watch
 **Names**
 
 - Elf names often end in 'il', 'alar', or 'antha'. They are regal and carry strength no matter the station of the Elf.
-- Example names: Thandil, Orthan, Candalar, Melantha, Kymil
-- Clan/house/family names
+- Example male, female, neutral names: Thandil, Orthan, Candalar, Melantha, Kymil, Kagerra
+- Clan/house/family names: Laethire, Amakiir, Liadon, Starwind, Silvercrest, Lightveil
 
 ---
 
@@ -72,9 +72,9 @@ Identity: *A proud and timeless people who have found beauty and sorrow in watch
 
 **Appearance**
 
-- Skin, hair, eyes
-- Distinctive features
-- Variations across regions
+- Pale or lightly tanned skin, hair color ranging from jet black to piercing blonde, even white, eyes are ethereal, taking bright colors such as blues, greens, purples, and reds.
+- Elves possess pointed ears, slim figures, and height. 
+- Elves born in the North of Ikon possess innate markings on their veins that show magical potency in their blood known as Spirit Marks.
 
 **Physiology**
 
