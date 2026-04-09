@@ -19,7 +19,7 @@ This is a list of all languages in Terra-Nova. Listed are the languages and belo
 	- Iramian
 - **Celestial**
 	- Aelarian
-- Abyssal
+- **Abyssal**
 	- Arken's Tongue
 	- Black-Speech
 - **Draconic**

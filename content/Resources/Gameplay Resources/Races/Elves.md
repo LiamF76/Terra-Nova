@@ -29,16 +29,15 @@ Identity: *A proud and timeless people who have found beauty and sorrow in watch
 
 **Languages**
 
-- 
+- Elves usually know Elvish (Ikonik dialect), and Common (dialect dependent on where they are raised).
 
 ---
 
 ##### Unique Features
 
-**Feature 1 — Name** *A short description of what the feature does.*
+**Feature 1 — Darkvision** *Elvish eyes can see a short distance in darkness.*
 
-- Mechanical effect
-- Flavor note
+- You have Darkvision with a range of 60 ft.
 
 **Feature 2 — Name** *A short description.*
 
@@ -50,11 +49,13 @@ Identity: *A proud and timeless people who have found beauty and sorrow in watch
 - Mechanical effect
 - Flavor note
 
-**Subraces (Optional)**
+**Subraces**
 
-- Name, theme, and 1–2 unique traits each
+| Lineage  | Level 1                                                                                                                                                                                                        | Level 3                                                       | Level 5                                                                   |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| High Elf | You know the [Prestidigitation](http://dnd2024.wikidot.com/spell:prestidigitation) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [Detect Magic](http://dnd2024.wikidot.com/spell:detect-magic) | [Misty Step](http://dnd2024.wikidot.com/spell:misty-step)                 |
+| Wood Elf | Your Speed increases to 35 feet. You also know the [Druidcraft](http://dnd2024.wikidot.com/spell:druidcraft) cantrip.                                                                                          | [Longstrider](http://dnd2024.wikidot.com/spell:longstrider)   | [Pass without Trace](http://dnd2024.wikidot.com/spell:pass-without-trace) |
 
----
 
 ##### Personality
 
