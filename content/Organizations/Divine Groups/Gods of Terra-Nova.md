@@ -34,6 +34,9 @@ The principal Gods, this pantheon represents light and darkness, good and evil, 
 | Mani       | The Moons |
 | Malos      | Balance   |
 
+**Religions**: 
+- 
+
 ---
 
 ## The Fathers of Forge and Flame
@@ -46,6 +49,9 @@ This pantheon governs the primal powers. Mortal domains of strength and force su
 | Iros   | The Forge |
 | Uther  | Victory   |
 | Agni   | Fire      |
+
+**Religions**: 
+- 
 
 ---
 
@@ -60,6 +66,9 @@ Weather.
 | Skuld Ysor | Winter  |
 | Egoana     | Rivers  |
 
+**Religions**: 
+- 
+
 ---
 
 ## The Stellar Forces
@@ -71,6 +80,9 @@ The Gods of force beyond the mortal world.
 | Kronos  | Time   |
 | Khabris | Space  |
 | Telura  | Magic  |
+
+**Religions**: 
+- 
 
 ---
 
@@ -85,6 +97,8 @@ The Gods of force beyond the mortal world.
 | Oras   | Dreams   |
 | Yagi   | Wonders  |
 
+**Religions**: 
+- 
 
 ---
 
@@ -100,6 +114,9 @@ The Gods of force beyond the mortal world.
 | Calina | Love        |
 | Aldred | Penance     |
 
+**Religions**: 
+- 
+
 ---
 ## The Dragon Pantheon
 
@@ -109,6 +126,9 @@ The Gods of force beyond the mortal world.
 | Aethor | Sky     |
 | Aurum  | Truth   |
 | Aestus | Passion |
+
+**Religions**: 
+- 
 
 ---
 
@@ -120,6 +140,9 @@ The Gods of force beyond the mortal world.
 | Hermod   | Luck      |
 | Silvarus | Mischief  |
 | Fermus   | Merriment |
+
+**Religions**: 
+- 
 
 ---
 
@@ -136,3 +159,6 @@ The Gods of force beyond the mortal world.
 | Velkris  | Assassins         |
 | Vrynthal | Foresight         |
 | Xavoris  | Secrets           |
+
+**Religions**: 
+- 
