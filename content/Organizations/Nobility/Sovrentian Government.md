@@ -22,20 +22,24 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 		- 
 
 - #### Crest
-	- Prince of Crest: 
+	- **Prince of Crest**: 
 		- 
 
 - #### Hearth
-	- 
+	- **Governor of Hearth**: 
+		- 
 
 - #### Jasage
 	- **Archdruid of Tena**: Ryfon Al-Ryfiri Evergreen
 		- *Guardian of Druidica*: Elioenai Al-Ryfiri
+		- 
 
 - #### Kheagon
 	- **Prince of Kheagon**: Kensa Ferran
 		- *Lord of Tarnkeep*: Haemal Tarn
+		- 
 
 - #### Lightbear
 	- **Governor of Lightbear**: Zaltana Maram
 		- *Judge of Westwood*: [[Finnick]] Ascian
+		- 
