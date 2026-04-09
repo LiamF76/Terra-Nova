@@ -16,4 +16,5 @@ Description: Appearance & vibe description
 
 Important Info: 
 - Tirian is a Bard and Dragon hunter, having worked in Wahellia for many years. He holds 5 dragon slayings to his name, and is a famed hero across Lazarus.
-- Tirian came to Escarth
+- Tirian came to Escarth hoping to expand his fortune and legend by defeating the Dragons of the Triumvirate Scales.
+- 
