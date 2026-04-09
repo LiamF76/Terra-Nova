@@ -36,7 +36,7 @@ The principal Gods, this pantheon represents light and darkness, good and evil, 
 
 **Religions**: 
 - [[The Paragon of Rebirth]]
-- The Rising Sun
+- [[The Rising Sun]]
 - 
 
 ---
