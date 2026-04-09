@@ -14,3 +14,5 @@ Figures of today are notable individuals in current times. They could be powerfu
 
 [[Thalanil]]
 
+[[Tirian]]
+
