@@ -132,12 +132,3 @@ Brief text overview.
 - **Threat Hooks:**
 
 ---
-
-## **12. Secrets (DM‑Only)**
-
-- **Hidden History:**
-- **Conspiracies:**
-- **Ancient Threats:**
-- **Future Plot Seeds:**
-
----

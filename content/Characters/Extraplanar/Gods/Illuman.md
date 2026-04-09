@@ -1,9 +1,17 @@
-Name: 
+---
+publish: false
+title:
+aliases:
+---
 
-Voice: 
+![[image-12.webp|500x650]]
 
-Description: 
+Name: **Illuman**, The Dawnfather, Firstborn of Daraan
+
+Voice: Voice Description
+- Example Dialogue
+
+Description: Appearance & vibe description
 
 Important Info: 
-
-Statblock: 
+- Connections, Abilities, Secrets

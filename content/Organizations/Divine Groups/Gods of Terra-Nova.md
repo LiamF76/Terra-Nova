@@ -18,18 +18,26 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 | [[Shao Daraan]] | Creation    |
 | [[Khal Daraan]] | Destruction |
 
+**Religions**: 
+- 
+
 ---
 
 ## The Convergence
 
 The principal Gods, this pantheon represents light and darkness, good and evil, and the balance between them represented in the celestial bodies.
 
-| God        | Domain    |
-| ---------- | --------- |
-| Illuman    | Light     |
-| Balthazaar | Darkness  |
-| Mani       | The Moons |
-| Malos      | Balance   |
+| God         | Domain    |
+| ----------- | --------- |
+| [[Illuman]] | Light     |
+| Balthazaar  | Darkness  |
+| Mani        | The Moons |
+| Malos       | Balance   |
+
+**Religions**: 
+- [[The Paragon of Rebirth]]
+- [[The Rising Sun]]
+- 
 
 ---
 
@@ -44,6 +52,9 @@ This pantheon governs the primal powers. Mortal domains of strength and force su
 | Uther  | Victory   |
 | Agni   | Fire      |
 
+**Religions**: 
+- 
+
 ---
 
 ## The Hearts of Storm and Sea
@@ -57,6 +68,9 @@ Weather.
 | Skuld Ysor | Winter  |
 | Egoana     | Rivers  |
 
+**Religions**: 
+- 
+
 ---
 
 ## The Stellar Forces
@@ -68,6 +82,9 @@ The Gods of force beyond the mortal world.
 | Kronos  | Time   |
 | Khabris | Space  |
 | Telura  | Magic  |
+
+**Religions**: 
+- 
 
 ---
 
@@ -82,6 +99,8 @@ The Gods of force beyond the mortal world.
 | Oras   | Dreams   |
 | Yagi   | Wonders  |
 
+**Religions**: 
+- 
 
 ---
 
@@ -97,6 +116,9 @@ The Gods of force beyond the mortal world.
 | Calina | Love        |
 | Aldred | Penance     |
 
+**Religions**: 
+- 
+
 ---
 ## The Dragon Pantheon
 
@@ -106,6 +128,9 @@ The Gods of force beyond the mortal world.
 | Aethor | Sky     |
 | Aurum  | Truth   |
 | Aestus | Passion |
+
+**Religions**: 
+- 
 
 ---
 
@@ -117,6 +142,9 @@ The Gods of force beyond the mortal world.
 | Hermod   | Luck      |
 | Silvarus | Mischief  |
 | Fermus   | Merriment |
+
+**Religions**: 
+- 
 
 ---
 
@@ -133,3 +161,6 @@ The Gods of force beyond the mortal world.
 | Velkris  | Assassins         |
 | Vrynthal | Foresight         |
 | Xavoris  | Secrets           |
+
+**Religions**: 
+- 
