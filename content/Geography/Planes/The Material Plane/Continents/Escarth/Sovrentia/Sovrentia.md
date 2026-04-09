@@ -20,7 +20,7 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
 ## **2. Geography & Environment**
 
 - **Location on the Continent:** Sovrentia is located in the Southwest corner of Escarth, having a large coastline along the southern edge of the continent.
-- **Climate & Biomes:** Sovrentia has a diverse climate, experiencing all four seasons in a healthy amount. The south is much warmer than the north of the nation, and across its many mountain peaks are yearlong snowfalls. The climate ranges from temporal to continental, but is mostly continental as it becomes chilly in the elevated center of the nation.
+- **Climate & Biomes:** Sovrentia has a diverse climate, experiencing all four seasons in a healthy amount. The south is much warmer than the north of the nation, and across its many mountain peaks are yearlong snowfalls. The climate ranges from temporal to continental, but is mostly continental as it becomes chilly in the elevated center of the nation. Most lands are filled with pine trees and tough cold grasslands that can survive harsh winters and warm summers.
 - **Major Natural Features:**
     - Mountains
     - Rivers
