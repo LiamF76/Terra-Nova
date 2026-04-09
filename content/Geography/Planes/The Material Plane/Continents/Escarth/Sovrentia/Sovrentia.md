@@ -53,10 +53,10 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
 See [[Sovrentian Government]] for a full list of members.
 
 - **Government Type:**  Sovrentia is an electoral Republic, in which the different territories send a representative to the parliament. The members of the parliament then elect the Sovereign from those running for the seat. Those running can be any member of the government be they as highly ranked as a Prince or low as a local Judge.
-- **Ruling Body / Leader:** 
+- **Ruling Body / Leader:** The ruling body is made up of the Sovereign, the individual leader of the nation, alongside the Parliament whom elects them.
 - **Noble Houses / Power Factions:** 
-- **How Magic Influences Politics:**
-- **Foreign Relations:**
+- **How Magic Influences Politics:** 
+- **Foreign Relations:** 
 
 ---
 
