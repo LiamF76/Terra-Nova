@@ -11,6 +11,7 @@ Name: **Tirian Leofrey**, Dragonsong
 
 Voice: Voice Description
 - "Ah you wish to hear my song! I shall play one of my originals, the Dragonsong is... a bit deadly for good company."
+- "Come then you foul wyrm"
 
 Description: Appearance & vibe description
 
