@@ -4,9 +4,9 @@ title:
 aliases:
 ---
 
-![[image.png|300]]
+![[image-12.webp|500x650]]
 
-Name: **Name**, Aliases
+Name: **Illuman**, The Dawnfather, Firstborn of Daraan
 
 Voice: Voice Description
 - Example Dialogue
