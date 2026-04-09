@@ -58,12 +58,12 @@ Identity: *A proud and timeless people who have found beauty and sorrow in watch
 ##### Personality
 
 **Common Traits**
-- Typical attitudes, quirks, emotional tendencies
+- Elves often carry a cocky or superiority in their attitude. They are descended from the Aelarians, made by Shao Daraan's own hand, and they know it. Often Elves have an obsesseive compulsiveness around their chosen areas of study, and cannot help but take charge in matters they consider themself an expert. This makes it difficult to work with one another without an established hierarchy. They are generally stoic, and their long lives allow them, time to process emotions, but that has caused them to do so slowly, they have difficulty connecting with the shorter lived 'lesser' races of Terra-Nova, and can forget about those they once considered to be closer than family.
 
 **Names**
 
-- Naming conventions
-- Example male, female, neutral names
+- Elf names often end in 'il', 'alar', or 'antha'. They are regal and carry strength no matter the station of the Elf.
+- Example names: Thandil, Orthan, Candalar, Melantha, Kymil
 - Clan/house/family names
 
 ---
