@@ -12,6 +12,8 @@ This is a compiled list of all player available races in Terra-Nova. Please feel
 
 The races are organized by type: Mortal, Beastfolk, and Monstrous, and alphabetically.
 
+See [[Languages]] for more info on what is spoken.
+
 ---
 
 # Mortal Races
