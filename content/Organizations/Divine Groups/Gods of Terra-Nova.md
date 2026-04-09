@@ -35,7 +35,7 @@ The principal Gods, this pantheon represents light and darkness, good and evil, 
 | Malos      | Balance   |
 
 **Religions**: 
-- 
+- [[The Paragon of Rebirth]]
 
 ---
 
