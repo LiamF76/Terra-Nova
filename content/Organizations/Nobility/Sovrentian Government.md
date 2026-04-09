@@ -30,4 +30,5 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 	- 
 
 - #### Lightbear
-	- 
+	- Governor of Lightbear: Zaltana Maram
+		- Judge of Westwood: [[Finnick]] Ascian

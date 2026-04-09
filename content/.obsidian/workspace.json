@@ -87,18 +87,6 @@
               "icon": "lucide-file",
               "title": "Sovrentian Government"
             }
-          },
-          {
-            "id": "f711b5ee5937eed1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Organizations/Nobility/Sovrentia Org Structure.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sovrentia Org Structure"
-            }
           }
         ],
         "currentTab": 4
@@ -230,9 +218,10 @@
   "active": "e34ef340d2fcf6ef",
   "lastOpenFiles": [
     "Organizations/Nobility/Sovrentia Org Structure.md",
-    "Working Folder/Dashboard.md",
+    "Characters/People/Finnick.md",
     "Organizations/Nobility/Sovrentian Government.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
+    "Working Folder/Dashboard.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Escarth Overview.md",
     "Organizations/Nobility/Untitled.canvas",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
@@ -258,7 +247,6 @@
     "z Images/image-10.webp",
     "z Images/image-9.webp",
     "Characters/People/Ciro.md",
-    "Characters/People/Aldros.md",
     "Campaigns/The Valley of Broken Oaths/Past Sessions",
     "z Images/image-8.webp",
     "z Images/image-7.webp",
