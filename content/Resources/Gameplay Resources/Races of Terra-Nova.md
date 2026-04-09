@@ -16,7 +16,15 @@ The races are organized by type: Mortal, Beastfolk, and Monstrous, and alphabeti
 
 # Mortal Races
 
+The mortal races of Terra-Nova consist of all seeded Races. Seeded races are those created by the Gods, meaning they bear holy or evolved from holy origins.
 
+- Aelarians
+- [[Elves]]
+- Humans
+- Half-Elves
+- Dwarves
+- Halflings
+- Gnomes
 
 
 
