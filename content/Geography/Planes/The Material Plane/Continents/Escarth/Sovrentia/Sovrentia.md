@@ -54,9 +54,9 @@ See [[Sovrentian Government]] for a full list of members.
 
 - **Government Type:**  Sovrentia is an electoral Republic, in which the different territories send a representative to the parliament. The members of the parliament then elect the Sovereign from those running for the seat. Those running can be any member of the government be they as highly ranked as a Prince or low as a local Judge.
 - **Ruling Body / Leader:** The ruling body is made up of the Sovereign, the individual leader of the nation, alongside the Parliament whom elects them.
-- **Noble Houses / Power Factions:** 
-- **How Magic Influences Politics:** 
-- **Foreign Relations:** 
+- **Noble Houses / Power Factions:** The Tarn Family of Kheagon / Tarnkeep, 
+- **How Magic Influences Politics:** Magic influences politics heavily through bloodlines. Every royal bloodline that remains in Sovrentia is of a sorcerous descent, and many long for the days when sorcerer kings ruled through magical might to return. Those without magic, be it innate or holy, will struggle to enforce their will against ancient and honored dynasties.
+- **Foreign Relations:** Highly hostile to [[The Triumvirate Scales]], in a tentative non-aggression pact with [[New Estorias]] after the last large Scale War.
 
 ---
 
