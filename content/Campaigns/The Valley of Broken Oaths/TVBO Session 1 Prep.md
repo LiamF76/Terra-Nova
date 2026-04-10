@@ -25,7 +25,6 @@ TBD
 creature: Kobold
 ```
 
-
 ---
 
 ## Room 2: Puzzle or Roleplaying Challenge
