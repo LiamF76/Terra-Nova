@@ -1,7 +1,6 @@
 ---
 ---
 
----
 ## Campaign Ideas
 
 - *The Dead Party*: Party is all dead and went to hell, powerful demon gives them life but they are bound to a quest in order to regain their freedom
@@ -12,10 +11,16 @@
 	- Alternate: The party lives in a quiet village inside the boarders of the warlord's domain. Knights come to conscript all able bodied fighters, and the party escapes, vowing revenge on the evil ruler.
 - 
 
-
 ---
+
 ## Quest Ideas
 
 - Metal men have appeared out of the ancient castle, they are chopping down the forest and bringing the lumber back to the ruins. Nobody knows why.
 - An aging wizard wishes to give back to the community and start his own wizarding school. He urgently needs his first ever spell book, but he sold it some years back while travelling the land. Return it and he'll pay handsomely.
+- l
+
+---
+
+## Exploration Encounter Ideas
+
 - 

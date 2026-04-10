@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Session Prepping
@@ -11,6 +13,7 @@ kanban-plugin: board
 
 - [ ] [[The Valley of Broken Oaths Primer]]
 - [ ] [[TVBO Workshop]]
+- [ ] [[Campaign & Quest Ideas]]
 
 
 ## Characters
@@ -32,6 +35,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
