@@ -19,7 +19,7 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 | [[Khal Daraan]] | Destruction |
 
 **Religions**: 
-- 
+- The Eternal Cycle
 
 ---
 

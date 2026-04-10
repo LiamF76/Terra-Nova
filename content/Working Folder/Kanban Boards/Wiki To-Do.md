@@ -6,11 +6,11 @@ kanban-plugin: list
 
 ## Wiki
 
+- [ ] Update Homepage: [[index]]
+	- add more basic information, navigation, common links
 - [ ] Keep [[Terra-Nova Master Timeline]] updated
 - [ ] [[Gods of Terra-Nova]]
 	- Finish dividing Gods into pantheons
-- [ ] Update Homepage: [[index]]
-	- add more basic information, navigation, common links
 - [ ] Factions & Organizations
 	- players love joining things, list some major factions and groups
 - [ ] New Player Quickstart
