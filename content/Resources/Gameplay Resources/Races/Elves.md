@@ -78,14 +78,14 @@ Identity: *A proud and timeless people who have found beauty and sorrow in watch
 
 **Physiology**
 
-- Strengths, weaknesses
-- Magical or biological quirks
+- Elves are naturally physically dexterous, often quick, and many possess above average intelligence. They are physically weaker than some stout races like Dwarves or Orcs and Dragonborn, but equal or better than Humans.
+- Elves are naturally inclined to magic, often able to hear and understand spell language and cast cantrips nearly from the time they are able to talk.
 
 **Fashion & Aesthetic**
 
-- Clothing
-- Armor style
-- Symbolic colors or motifs
+- Elves possess a unique and ancient style of clothing. They wear fine silks and handcrafted armaments. Often times their clothing has fine gilding and designs such as magical depictions, dragons, or spirits. (Think of Chinese or Mongolian styles.)
+- In armor elves wear light and enchanted metals, no heavy steel plates or iron helms. Their armor is carved of Mithril, Adamantine, and enchanted golds. They have thin layers that encourage movement and adaptation over defense.
+- The most important color in elf culture is white. It represents their connection to Illuman and to the Witch Queen Kagerra's magical tower, which watches, rules over, and protects all of Agamarth.
 
 ---
 
@@ -93,13 +93,13 @@ Identity: *A proud and timeless people who have found beauty and sorrow in watch
 
 **Origins**
 
-- Where did they come from
-- What shaped their early history
-- Mythic ancestors or creation stories
+- Elves evolved from the Aelarians that survived the Titan and Abyss wars of ancient history.
+- The early history of the Elves was shaped by their learning of magics. After the Aelarians fell they dedicated themselves to mastering both divine and arcane magic, and as a result this study catapulted their society into splendor, allowing them to survive the primal early Terra-Nova. Despite this leap, elves and their long lives grew to a strange shared sense of contentment, and their society stopped advancing for tens of thousands of years beyond what they reached in the first millennia.
+- The Elves have one mythic ancestor, the Aelarians, the first mortal race shaped by God. The Elves hold a unique creation story, believing that they were created by the Gods as a test, to see if they could reach divinity. They aspire to return to the heavens they believe the Aelarians were destined for.
 
 **Society**
 
-- How they organize themselves (clans, tribes, city‑states, nomads)
+- Elven society is violently stratified. There are clearly defined social classes ranging from servant to royalty. There is no upward movement between classes, only downwards. All Elves begin at the station of their parents, and great failures deemed by their betters can send them down the ranks. The Elves began Agamarth with millions of Upper Class citizens, and this system was designed to remove the unworthy. It succeeded 
 - Values, taboos, virtues
 - What they admire or despise
 
