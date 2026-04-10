@@ -9,7 +9,10 @@ TBD
 
 *Set the Scene*: TBD
 
+**Enemies**: 
+
 ---
+
 ## Room 2: Puzzle or Roleplaying Challenge
 
 #### **TBD**
@@ -20,8 +23,8 @@ TBD
 
 *Set the Scene*: TBD
 
-
 ---
+
 ## Room 3: Trick or Setback
 
 #### **TBD**
@@ -32,8 +35,8 @@ TBD
 
 *Set the Scene*: TBD
 
-
 ---
+
 ## Room 4: Climax, Big Battle
 
 #### **TBD**
@@ -44,8 +47,10 @@ TBD
 
 *Set the Scene*: TBD
 
+**Enemies**: 
 
 ---
+
 ## Room 5: Reward, Revelation, Plot Twist
 
 #### **TBD**

@@ -17,7 +17,8 @@
 
 - Metal men have appeared out of the ancient castle, they are chopping down the forest and bringing the lumber back to the ruins. Nobody knows why.
 - An aging wizard wishes to give back to the community and start his own wizarding school. He urgently needs his first ever spell book, but he sold it some years back while travelling the land. Return it and he'll pay handsomely.
-- l
+- A Lich who lived for a thousand years has finally decided he wants to die, but he can't remember where his left his phylactery.
+- 
 
 ---
 
