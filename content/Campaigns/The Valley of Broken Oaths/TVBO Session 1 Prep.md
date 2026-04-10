@@ -19,7 +19,12 @@ TBD
 
 *Set the Scene*: TBD
 
-**Enemies**: 
+**Enemies**: 5x Kobold
+
+```statblock
+creature: Kobold
+```
+
 
 ---
 
