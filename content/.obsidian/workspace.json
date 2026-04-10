@@ -23,73 +23,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "c7d3d140474c536e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Wiki To-Do"
-            }
-          },
-          {
-            "id": "9864b9d33f541dab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Gameplay Resources/Languages.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Languages"
-            }
-          },
-          {
-            "id": "38aa095f09b6a522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Gameplay Resources/Races of Terra-Nova.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Races of Terra-Nova"
-            }
-          },
-          {
-            "id": "88ca573954dcf298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Gameplay Resources/Races/Elves.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Elves"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,11 +151,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "88ca573954dcf298",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Resources/Gameplay Resources/Races/Elves.md",
     "Resources/Gameplay Resources/Languages.md",
     "Resources/Gameplay Resources/Races of Terra-Nova.md",
-    "Resources/Gameplay Resources/Races/Elves.md",
     "index.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Resources/Gameplay Resources/Races",
