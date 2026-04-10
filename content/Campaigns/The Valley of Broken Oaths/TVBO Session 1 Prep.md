@@ -19,6 +19,8 @@ TBD
 
 *Set the Scene*: TBD
 
+**Enemies**: 
+
 ---
 
 ## Room 2: Puzzle or Roleplaying Challenge
