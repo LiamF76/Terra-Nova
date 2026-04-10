@@ -1,15 +1,16 @@
 ---
-
-kanban-plugin: list
-
+kanban-plugin: board
 ---
+
+## Session Prepping
+
+- [ ] [[TVBO Session 1 Prep]]
+
 
 ## Worldbuilding
 
 - [ ] [[The Valley of Broken Oaths Primer]]
 - [ ] [[TVBO Workshop]]
-- [ ] [[Westwood Valley]]
-- [ ] [[TVBO Session 1 Prep]]
 
 
 ## Characters
@@ -24,12 +25,13 @@ kanban-plugin: list
 
 ## Locations
 
+- [ ] [[Westwood Valley]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false]}
 ```
 %%
