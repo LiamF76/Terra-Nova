@@ -4,7 +4,7 @@ title:
 aliases:
 ---
 
-![[image-5.webp|504]]
+![[Aldros-1775853605189.webp|500x713]]
 
 Name: **Aldros**, Wyrm-Chosen
 
