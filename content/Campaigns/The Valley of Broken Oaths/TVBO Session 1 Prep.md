@@ -33,7 +33,7 @@ TBD
 creature: Kobold
 ```
 
-Post Battle: Scared farmer
+Post Battle: Scared farmer talks to the party, says Kobolds came along with an Ogre and stole all his horses. He needs those purebred horses as offerings and for sale at the festival or he won't be able to survive the winter.
 
 ---
 
@@ -41,11 +41,13 @@ Post Battle: Scared farmer
 
 #### **TBD**
 
-`DM NOTE:`
+`DM NOTE: Wayfinder stones, the Ogre tracks stop between some ancient magical stones, puzzle where you ahve to touch them in order of the moons.`
 
 TBD
 
 *Set the Scene*: TBD
+
+**Puzzle**: 
 
 ---
 
