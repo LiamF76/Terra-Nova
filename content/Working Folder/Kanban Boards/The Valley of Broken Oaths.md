@@ -29,7 +29,7 @@ kanban-plugin: board
 
 ## Locations
 
-- [ ] [[Westwood Valley]]
+- [ ] [[Westwood Valley Map]]
 
 
 

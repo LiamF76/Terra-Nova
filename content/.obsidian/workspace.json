@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,13 +202,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6f2af3d68c85c452",
+  "active": "0845e849bcc5f285",
   "lastOpenFiles": [
-    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
     "Working Folder/WIP/Campaign & Quest Ideas.md",
+    "Campaigns/The Valley of Broken Oaths/Westwood Valley.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Geography/Space/Cosmology.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
+    "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Valley Map.md",
     "Working Folder/Dashboard.md",
+    "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley",
+    "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear",
+    "Geography/Space/Cosmology.md",
     "Characters/People/Abraham.md",
     "Characters/People/Finnick.md",
     "Characters/People/Aldros.md",
@@ -234,8 +238,6 @@
     "conflict-files-obsidian-git.md",
     "Characters/Extraplanar/Gods/Illuman.md",
     "z Images/image-12.webp",
-    "Organizations/Religions & Cults/The Rising Sun.md",
-    "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
     "Organizations/Nobility/Untitled.canvas",
     "z Images/image-11.webp",
     "z Images/image-10.webp",
@@ -249,8 +251,6 @@
     "Wiki/Gods",
     "Wiki/Characters",
     "Wiki",
-    "Resources/Gameplay Resources/Safety Tools",
-    "Wiki",
-    "quartz/content"
+    "Resources/Gameplay Resources/Safety Tools"
   ]
 }
