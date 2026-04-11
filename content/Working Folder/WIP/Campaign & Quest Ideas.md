@@ -18,6 +18,9 @@
 - Metal men have appeared out of the ancient castle, they are chopping down the forest and bringing the lumber back to the ruins. Nobody knows why.
 - An aging wizard wishes to give back to the community and start his own wizarding school. He urgently needs his first ever spell book, but he sold it some years back while travelling the land. Return it and he'll pay handsomely.
 - A Lich who lived for a thousand years has finally decided he wants to die, but he can't remember where his left his phylactery.
+- Party has to be tested against a powerful forest spirit (leaf tree green knight thing) in order to be allowed to adventure north or into a dangerous land.
+- A deadly arcane virus, the Necrosurge, is spreading across the land. It kills people within days and immediately revives them as undead. They are violent and dangerous, the Necromancer who started the virus needs to be stopped.
+- A gigantic earth elemental mountain has awakened and is migrating, the wizard who awoke it resides in a dungeon on the top of the mountain. He must be defeated to stop the elemental before it crushes a settlement, and it must be done somewhere safe foe the mountain to land.
 - 
 
 ---
