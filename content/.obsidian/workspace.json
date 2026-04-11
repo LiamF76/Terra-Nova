@@ -110,8 +110,19 @@
               "icon": "lucide-list",
               "title": "Outline of Escarth Overview"
             }
+          },
+          {
+            "id": "4bc3bfeaca23476f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b757590bba577b02",
@@ -131,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251,
-    "collapsed": true
+    "width": 251
   },
   "left-ribbon": {
     "hiddenItems": {
