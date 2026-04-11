@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,7 +18,6 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
@@ -152,10 +150,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Battlemaps/Zone Battlemaps/Westwood Ambush.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Dashboard.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
     "Battlemaps/Zone Battlemaps",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Templates/5 Room Dungeon Template.md",
     "Working Folder/WIP/Campaign & Quest Ideas.md",
     "Characters/People/Aldros.md",
