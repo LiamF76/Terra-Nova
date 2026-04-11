@@ -24,4 +24,5 @@
 
 ## Exploration Encounter Ideas
 
+- Suit of armor filled with moss and plants that rises when you try to cross the bridge it is protecting. It is not aggressive, but is hostile to those who try to cross the bridge it protects.
 - 
