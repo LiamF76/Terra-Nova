@@ -19,7 +19,7 @@ TBD
 
 *Set the Scene*: TBD
 
-**Enemies**: 5x Kobold
+**Enemies**: 6x Kobold
 
 ```statblock
 creature: Kobold
