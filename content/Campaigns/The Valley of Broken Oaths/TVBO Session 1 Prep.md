@@ -41,7 +41,7 @@ Post Battle: Scared farmer
 
 #### **TBD**
 
-`DM NOTE: The farmer directs the party to look for Abraham, an old Knight who scours the nearby woods. He has information that will help.`
+`DM NOTE:`
 
 TBD
 
