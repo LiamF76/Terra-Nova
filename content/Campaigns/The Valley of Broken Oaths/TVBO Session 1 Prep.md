@@ -41,13 +41,19 @@ Post Battle: Scared farmer talks to the party, says Kobolds came along with an O
 
 #### **TBD**
 
-`DM NOTE: Wayfinder stones, the Ogre tracks stop between some ancient magical stones, puzzle where you ahve to touch them in order of the moons.`
+`DM NOTE: Wayfinder stones, the Ogre tracks stop between some ancient magical stones, puzzle where you have to touch them in order of the moons.`
 
 TBD
 
 *Set the Scene*: TBD
 
-**Puzzle**: 
+**Puzzle**: There are 6 stones, each bearing a different symbol depicting the moons of Terra-Nova. When touched the symbols glow with a faint light.
+- **Astreth** 
+- **Nysria** 
+- **Thalun** 
+- **Selene** 
+- **Arrak** 
+- **Lumina** 
 
 ---
 

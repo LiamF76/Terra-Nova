@@ -23,8 +23,60 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "0845e849bcc5f285",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
+          },
+          {
+            "id": "81d657c10c286e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TVBO Session 1 Prep"
+            }
+          },
+          {
+            "id": "92b3764b39ce19c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Space/Cosmology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosmology"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,19 +198,21 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "81d657c10c286e22",
   "lastOpenFiles": [
+    "Geography/Space/Cosmology.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
-    "Characters/People/Abraham.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Working Folder/Dashboard.md",
+    "Characters/People/Abraham.md",
     "Characters/People/Finnick.md",
     "Characters/People/Aldros.md",
     "Characters/People/Ciro.md",
     "Battlemaps/Zone Battlemaps/Westwood Ambush.md",
-    "Working Folder/Dashboard.md",
     "Working Folder/WIP/Campaign & Quest Ideas.md",
     "Battlemaps/Zone Battlemaps",
     "Templates/5 Room Dungeon Template.md",
@@ -182,7 +236,6 @@
     "z Images/image-12.webp",
     "Organizations/Religions & Cults/The Rising Sun.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
-    "Organizations/Religions & Cults/The Paragon of Rebirth.md",
     "Organizations/Nobility/Untitled.canvas",
     "z Images/image-11.webp",
     "z Images/image-10.webp",
