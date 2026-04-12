@@ -61,7 +61,7 @@ TBD
 - **Selene** 
 - **Arrak** 
 - **Lumina** 
-*Solution*: They must be touched in order of closes to farthest from Terra-Nova. Anyone can make checks to see what they know about the moons, or if they are knowledgeable trackers or navigators they could use that to figure out the proper order.
+*Solution*: They must be touched in order of closes to farthest from Terra-Nova. Anyone can make checks to see what they know about the moons, or if they are knowledgeable trackers or navigators they could use that to figure out the proper order. The order above is correct.
 
 ---
 
