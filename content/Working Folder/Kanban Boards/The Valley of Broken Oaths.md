@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Session Prepping
 
 - [ ] [[TVBO Session 1 Prep]]
+- [ ] [[The Spire of Virtue]]
 
 
 ## Worldbuilding
