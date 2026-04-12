@@ -38,7 +38,9 @@ creature: Ogre
 ```
 
 
-Post Battle: Scared farmer talks to the party, says Kobolds came along with an Ogre and stole all his horses. He needs those purebred horses as offerings and for sale at the festival or he won't be able to survive the winter.
+**Post Battle**: Scared farmer talks to the party, says Kobolds came along with an Ogre and stole all his horses. He needs those purebred horses as offerings and for sale at the festival or he won't be able to survive the winter. He says a troll made off with the horses, and he points out tracks they can follow. 
+
+He can also offer the party 10% of the money he will make from the horses. He can't afford to give any more than that.
 
 ---
 
@@ -48,9 +50,9 @@ Post Battle: Scared farmer talks to the party, says Kobolds came along with an O
 
 `DM NOTE: Wayfinder stones, the Ogre tracks stop between some ancient magical stones, puzzle where you have to touch them in order of the moons.`
 
-TBD
+*Set the Scene*: You come to a clearing in the woods where the tracks lead. Before you are a scattered circle of 6 standing stones. The air of the 
 
-*Set the Scene*: TBD
+TBD
 
 **Puzzle**: There are 6 stones, each bearing a different symbol depicting the moons of Terra-Nova. When touched the symbols glow with a faint light.
 - **Astreth** 
@@ -59,6 +61,7 @@ TBD
 - **Selene** 
 - **Arrak** 
 - **Lumina** 
+*Solution*: They must be touched in order of closes to farthest from Terra-Nova. Anyone can make checks to see what they know about the moons, or if they are knowledgeable trackers or navigators they could use that to figure out the proper order.
 
 ---
 
