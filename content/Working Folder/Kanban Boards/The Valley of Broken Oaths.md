@@ -7,8 +7,6 @@ kanban-plugin: board
 ## Session Prepping
 
 - [ ] [[TVBO Session 1 Prep]]
-- [ ] [[Westwood Ambush]]
-- [x] [[TVBO Session 0 Prep]]
 
 
 ## Worldbuilding
@@ -37,7 +35,11 @@ kanban-plugin: board
 - [ ] [[Westwood Valley Map]]
 
 
+***
 
+## Archive
+
+- [x] [[TVBO Session 0 Prep]]
 
 %% kanban:settings
 ```

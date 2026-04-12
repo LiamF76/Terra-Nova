@@ -18,7 +18,7 @@ The party is making their way to Westwood alongside some wagon or caravan, and t
 
 ## Room 1: Entrance Guardian
 
-#### **Kobold Riders**
+#### **Kobold Ambush**
 
 `DM NOTE: Party is approaching the town of Westwood. A group of Kobolds ambush them at a farm with an Ogre.`
 
