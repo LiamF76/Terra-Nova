@@ -37,7 +37,6 @@ creature: Kobold
 creature: Ogre
 ```
 
-
 **Post Battle**: Scared farmer talks to the party, says Kobolds came along with an Ogre and stole all his horses. He needs those purebred horses as offerings and for sale at the festival or he won't be able to survive the winter. He says a troll made off with the horses, and he points out tracks they can follow. 
 
 He can also offer the party 10% of the money he will make from the horses. He can't afford to give any more than that.
