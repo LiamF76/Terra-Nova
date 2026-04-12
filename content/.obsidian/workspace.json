@@ -89,18 +89,6 @@
             }
           },
           {
-            "id": "c80fe9f08435fee0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Working Folder/Zone Map Test.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Zone Map Test"
-            }
-          },
-          {
             "id": "372fea604c84f1e0",
             "type": "leaf",
             "state": {
@@ -278,11 +266,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c80fe9f08435fee0",
+  "active": "372fea604c84f1e0",
   "lastOpenFiles": [
+    "Working Folder/Zone Map Test.md",
     "Working Folder/Dashboard.md",
     "Organizations/Divine Groups/Divine Champions.md",
-    "Working Folder/Zone Map Test.md",
     "Characters/Figures of Today.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
