@@ -71,9 +71,9 @@ TBD
 
 `DM NOTE: Describe the encounter / overview of the room`
 
-TBD
-
 *Set the Scene*: TBD
+
+TBD
 
 ---
 
@@ -83,9 +83,9 @@ TBD
 
 `DM NOTE: Describe the encounter / overview of the room`
 
-TBD
-
 *Set the Scene*: TBD
+
+TBD
 
 **Enemies**: 
 
@@ -97,6 +97,6 @@ TBD
 
 `DM NOTE: Describe the encounter / overview of the room`
 
-TBD
-
 *Set the Scene*: TBD
+
+TBD
