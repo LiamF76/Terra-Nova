@@ -1,6 +1,6 @@
 ---
-publish: false
-title:
+publish: true
+title: Zaltana
 aliases:
 ---
 

@@ -28,19 +28,15 @@
             "id": "9262ef0579e697c2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Zaltana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Wiki To-Do"
+              "icon": "lucide-file",
+              "title": "Zaltana"
             }
           },
           {
@@ -223,8 +219,8 @@
   },
   "active": "9262ef0579e697c2",
   "lastOpenFiles": [
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Battlemaps/thing.ds.crswap",
     "Battlemaps/thing.ds",
