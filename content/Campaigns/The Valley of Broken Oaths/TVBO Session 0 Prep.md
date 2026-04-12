@@ -20,3 +20,9 @@ This is a list of things we can go over during session 0.
 	- Mysteries
 	- Exploration
 
+
+Character Notes:
+- Hunter: 
+- Grey:
+- Hannah: 
+- Audrey: 
