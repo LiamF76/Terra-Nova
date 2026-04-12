@@ -80,11 +80,15 @@ His face is young, looking barely 20, but his image was carved to impose a sense
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+`DM NOTE: The party is met by one of Judge Finnick's Knights. The Knight, Abraham, stops the party saying the Judge has been made aware of the situation, and is willing to give special to the favor to the party in exchange for bringing the horses directly to him instead of back to the farmer.`
 
-*Set the Scene*: TBD
+*Set the Scene*: As you follow the tracks ahead, you see a figure seated upon a large boulder beside a small creek. The water babbles quietly as he sits, his head perking up at your approach, he waves in a friendly manner. The tracks continue past him towards some hills.
 
-TBD
+An older man with a bald head and wearing decent plate armor sits on the rock, he bears the crest of Westwood and of the Judge. He has a kind smile and very large beard.
+[[Abraham]]: "Greetings travelers. I heard you were hunting a horse thief, and I have a message for you from the Judge."
+- He was sent by the Judge to offer them special treatment in exchange for stealing the horses from the farmer.
+- He promises they will receive better adventuring jobs, more privileges, and lenience on their actions in the Valley if they do this.
+- He hopes they will say no, but he honor bound to [[Finnick]] and has to obey his orders even when they are wrong.
 
 ---
 
@@ -92,13 +96,31 @@ TBD
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+`DM NOTE: The party reaches the Troll's cave and finds the horses, but no Troll. The moment they interact with one of the horses a big bouder mvoes and reveals its actually a young stone troll, it attacks in anger at them stealing its 'ponies'.`
 
-*Set the Scene*: TBD
+*Set the Scene*: You continue following the tracks until you reach a hill, on the side of which you can see the rocky entrance to a large cave. The sound of horses chuffing and whinnying can be heard inside. The cave mouth yawns open beneath a low overhang of stone, its interior dimly lit by the soft, nervous snorts of half a dozen beautiful riding horses huddled together in the shadows. They are chewing gently on bales of hay no doubt stolen from the farm. In the back of the cave a pair of wolves sleep a short distance apart on piles of soft hay.
 
-TBD
+Once they interact with the horses, the Troll awakens and reveals it is no boulder. It attacks alongside its pet wolves.
 
-**Enemies**: 
+**Enemies**: 1x troll, 2x Wolf
+
+```statblock
+creature: Wolf
+```
+
+```statblock
+creature: Troll
+```
+
+Troll HP: (8 boxes)
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ---
 
