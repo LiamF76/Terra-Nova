@@ -15,4 +15,5 @@ Voice: Voice Description
 Description: Appearance & vibe description
 
 Important Info: 
-- Connections, Abilities, Secrets
+- Lich who served as Egreth's apprentice, became a Lich after Egreth passed away, and has served as Purple Wizard ever since.
+- 
