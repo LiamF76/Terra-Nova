@@ -71,11 +71,12 @@ Each stone bears a different symbol, one representing each of the moons.
 
 `DM NOTE: They come across an ancient statue of a young man, Augustus Auranthor. It is covered in moss and plants as it has gone untouched for at least a hundred years.`
 
-*Set the Scene*: TBD
+*Set the Scene*: Vines peel back as you enter a quiet pocket of the forest, revealing an ancient stone statue of a young man half‑claimed by moss and creeping ivy. Though weathered by a century of rain and roots, the name **Auranthor** can still be read on the cracked plinth, watching you with a serene, forgotten gaze.
 
-TBD
+His face is young, looking barely 20, but his image was carved to impose a sense of authority, but his face looks forlorn, as if this statue was made long after his days of glory.
 
 ---
+
 ## Room 3: Trick or Setback
 
 #### **TBD**
