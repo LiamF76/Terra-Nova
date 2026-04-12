@@ -26,6 +26,10 @@ kanban-plugin: board
 - [ ] [[Abraham]]
 - [ ] Zaltana Maram
 	- Governor of Lightbear
+- [ ] [[Purple Wizard]]
+	- Ethical Lich
+	- Lives in the purple tower
+	- After Egreth, Purple Wizard nearly 400 years
 
 
 ## Locations
