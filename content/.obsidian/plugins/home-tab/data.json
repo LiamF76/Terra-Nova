@@ -22,7 +22,20 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Working Folder/Kanban Boards/Wiki To-Do.md",
+      "timestamp": 1776024903466
+    },
+    {
+      "filepath": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+      "timestamp": 1776024903111
+    },
+    {
+      "filepath": "Organizations/Divine Groups/Gods of Terra-Nova.md",
+      "timestamp": 1776024885100
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

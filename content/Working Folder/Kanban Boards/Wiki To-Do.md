@@ -29,6 +29,7 @@ kanban-plugin: list
 	- Ruler of Sovrentia
 	- Some villain / anti-hero adjacent character
 	- honorable knight / wanderer
+	- divine champions
 - [ ] Continents
 	- Escarth (high prio as it is the current campaign setting)
 	- Ikon
