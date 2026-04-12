@@ -11,11 +11,6 @@ Identity: *A proud and timeless people who have found beauty and sorrow in watch
 ---
 ##### Mechanics
 
-**Ability Score Adjustments**
-
-- +2 to an ability score
-- +1 to an ability score
-
 **Age**
 - Elves live for around 1000 years.
 - Elves reach adulthood around 100 years old.

@@ -25,6 +25,55 @@
             }
           },
           {
+            "id": "a299cefade9ea4aa",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Wiki To-Do"
+            }
+          },
+          {
+            "id": "71eeb3ab57d6adf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Gameplay Resources/Races of Terra-Nova.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Races of Terra-Nova"
+            }
+          },
+          {
+            "id": "ecbb605029f78ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Gameplay Resources/Races/Elves.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Elves"
+            }
+          },
+          {
             "id": "372fea604c84f1e0",
             "type": "leaf",
             "state": {
@@ -59,9 +108,24 @@
               "icon": "lucide-file",
               "title": "TVBO Session 0 Prep"
             }
+          },
+          {
+            "id": "ea9166c43547626c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Nobility/Sovrentian Government.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sovrentian Government"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,13 +251,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "45d192b7e9f156dd",
+  "active": "ecbb605029f78ad4",
   "lastOpenFiles": [
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Resources/Gameplay Resources/Races of Terra-Nova.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
-    "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
     "Organizations/Nobility/Sovrentian Government.md",
+    "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
     "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 0 Prep.md",
     "Organizations/Mortal Alliances/The Wizard Council.md",
     "Characters/Figures of Today.md",
@@ -221,7 +286,6 @@
     "z Images/image-14.webp",
     "History/Timelines/Terra-Nova Master Timeline.md",
     "Resources/Gameplay Resources/Races/Elves.md",
-    "Resources/Gameplay Resources/Races of Terra-Nova.md",
     "Resources/Gameplay Resources/Races",
     "z Images/image-13.webp",
     "z Images/image-12.webp",
