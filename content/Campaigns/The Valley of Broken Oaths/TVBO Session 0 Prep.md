@@ -22,7 +22,8 @@ This is a list of things we can go over during session 0.
 
 
 Character Notes:
-- Hunter: 
-- Grey:
-- Hannah: 
+- Hunter: Human fighter battlemaster
+- Grey: half-elf divine soul sorc
+- Hannah: fairy rogue
 - Audrey: 
+- 
