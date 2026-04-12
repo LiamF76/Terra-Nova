@@ -24,7 +24,7 @@ kanban-plugin: board
 - [ ] [[Aldros]]
 - [ ] [[Finnick]]
 - [ ] [[Abraham]]
-- [ ] [[Zaltana Maram]]
+- [ ] [[Zaltana]]
 	- Governor of Lightbear
 - [ ] [[Purple Wizard]]
 	- Ethical Lich

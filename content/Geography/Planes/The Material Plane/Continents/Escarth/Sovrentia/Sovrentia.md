@@ -63,8 +63,7 @@ See [[Sovrentian Government]] for a full list of members. The
 
 ## **5. Culture & Society**
 
-- **Population Makeup:**  
-    (Races, subraces, undead, spirits, outsiders)
+- **Population Makeup:**  Sovrentia is largely Human but has a decent distribution of other races, though they are all vast minorities to Humans. This includes Dragonborn, Half-Elves, Dwarves, Orcs, and Tieflings. Other races are present albeit sparingly.
 - **Values & Ideals:**
 - **Religion & Spiritual Beliefs:**
 - **Traditions & Festivals:**

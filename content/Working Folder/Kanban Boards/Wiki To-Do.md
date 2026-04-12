@@ -34,7 +34,7 @@ kanban-plugin: list
 	- Ikon
 	- Iramo
 - [ ] [[Geography/Planes/The Material Plane/Continents/Escarth/Escarth]]
-	- Sovrentia
+	- [[Sovrentia]]
 	- New Estorias
 
 

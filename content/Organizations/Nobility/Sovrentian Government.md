@@ -42,9 +42,10 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 - #### Kheagon
 	- **Prince of Kheagon**: Kensa Ferran
 		- *Lord of Tarnkeep*: Haemal Tarn
-		- Steward of Silversong: 
+		- *Steward of Silversong*: 
+		- 
 
 - #### Lightbear
-	- **Governor of Lightbear**: Zaltana Maram
+	- **Governor of Lightbear**: [[Zaltana]] Maram
 		- *Judge of Westwood*: [[Finnick]] Ascian
 		- 

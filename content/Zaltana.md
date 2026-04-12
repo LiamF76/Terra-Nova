@@ -4,7 +4,7 @@ title:
 aliases:
 ---
 
-![[image.png|300]]
+![[Zaltana Maram-1775958470488.webp|500x635]]
 
 Name: **Zaltana Maram**, Aliases
 
