@@ -16,3 +16,5 @@ Figures of today are notable individuals in current times. They could be powerfu
 
 [[Tirian]]
 
+[[The Wizard Council]]
+

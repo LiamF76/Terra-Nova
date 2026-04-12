@@ -1,20 +1,39 @@
-An ancient and important organization, these wizards inherit colored titles and domains. They help to maintain balance alongside the Eldermourne druids. They are considered leaders and innovators in the arcane world, but also protect the world from great threats and outside influence. 
-They hold votes to approve apprentices and each wizard has their own colored tower as well.
+---
+publish: true
+title: The Wizard Council
+aliases:
+  - Wizard Council
+  - Wizards
+  - Council
+---
 
-- White: None
-	- Apprentice: None
+An ancient and important organization, these wizards inherit colored titles and towers. They help to maintain balance alongside the Ryfiri Druids of Escarth. They are considered leaders and innovators in the arcane world, but also protect the world from great threats and outside influence.  They protect from extra-magical threats, negotiatie and mediate between mortal nations, and serve as protectors and guides for the peoples of Terra-Nova.
+They hold votes to approve apprentices and nominations from Apprentice to Council member.
 
-- Red: Kaela Redsong
-	- Apprentice: Callum DeMantun
+- **White**: 
+	- Apprentice: 
 
-- Blue: Kimil Windwalker
-	- Apprentice: Elewyn Thorne
+---
 
-- Green: Rhumanor Cliffbreaker
-	- Apprentice: Lumen Wingcleaver
+- **Red**: 
+	- Apprentice: 
 
-- Purple: Egreth
-	- Apprentice: None
+---
 
-- Brown: Dremoran Sage-Eye
-	- Apprentice: Rhiannon Nightshade
+- **Blue**: 
+	- Apprentice:  
+
+---
+
+- **Green**: 
+	- Apprentice: 
+
+---
+
+- **Purple**: 
+	- Apprentice: 
+
+---
+
+- **Brown**: 
+	- Apprentice: 

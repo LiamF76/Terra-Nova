@@ -10,14 +10,71 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Working Folder/Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "91063750bdc9a76d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/Wiki To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Wiki To-Do"
+            }
+          },
+          {
+            "id": "d566a66bfe215637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Figures of Today.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Figures of Today"
+            }
+          },
+          {
+            "id": "a571f5d94b8bdb3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Mortal Alliances/The Wizard Council.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Wizard Council"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,16 +200,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a571f5d94b8bdb3d",
   "lastOpenFiles": [
-    "Campaigns/The Valley of Broken Oaths/TVBO Session 0 Prep.md",
+    "Characters/Figures of Today.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "Working Folder/Dashboard.md",
+    "Organizations/Mortal Alliances/The Wizard Council.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 0 Prep.md",
     "Organizations/Nobility/Sovrentian Government.md",
     "Zaltana.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "z Images/Zaltana Maram-1775958470488.webp",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
-    "Working Folder/Dashboard.md",
     "Working Folder/WIP/Races Checklist.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Purple Wizard.md",
@@ -176,7 +235,6 @@
     "History/Timelines/Terra-Nova Master Timeline.md",
     "Resources/Gameplay Resources/Races/Elves.md",
     "Resources/Gameplay Resources/Races of Terra-Nova.md",
-    "Geography/Planes/The Material Plane/Continents/Escarth/Escarth.md",
     "Resources/Gameplay Resources/Races",
     "z Images/image-13.webp",
     "z Images/image-12.webp",
