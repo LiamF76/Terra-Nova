@@ -1,12 +1,13 @@
 ---
-publish: false
-title:
+publish: true
+title: Zveksa
 aliases:
+  - Purple Wizard
 ---
 
 ![[Purple Wizard-1775957538437.webp|500x500]]
 
-Name: **Name**, Aliases
+Name: **Zveksa the Unyielding**, The Purple Wizard
 
 Voice: Voice Description
 - Example Dialogue

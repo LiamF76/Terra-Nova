@@ -26,7 +26,7 @@ kanban-plugin: board
 - [ ] [[Abraham]]
 - [ ] [[Zaltana]]
 	- Governor of Lightbear
-- [ ] [[Purple Wizard]]
+- [ ] [[Zveksa]]
 	- Ethical Lich
 	- Lives in the purple tower
 	- After Egreth, Purple Wizard nearly 400 years

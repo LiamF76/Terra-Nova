@@ -31,7 +31,7 @@ They hold votes to approve apprentices and nominations from Apprentice to Counci
 
 ---
 
-- **Purple**: 
+- **Purple**: [[Zveksa]]
 	- *Apprentice*: 
 
 ---
