@@ -21,6 +21,7 @@
 - Party has to be tested against a powerful forest spirit (leaf tree green knight thing) in order to be allowed to adventure north or into a dangerous land.
 - A deadly arcane virus, the Necrosurge, is spreading across the land. It kills people within days and immediately revives them as undead. They are violent and dangerous, the Necromancer who started the virus needs to be stopped.
 - A gigantic earth elemental mountain has awakened and is migrating, the wizard who awoke it resides in a dungeon on the top of the mountain. He must be defeated to stop the elemental before it crushes a settlement, and it must be done somewhere safe foe the mountain to land.
+- A land is the only place a specific kind of magic crystal grows, and a caravan is traveling there to obtain and sell them, they offer to split profit and pay the party to accompany and protect them.
 - 
 
 ---
