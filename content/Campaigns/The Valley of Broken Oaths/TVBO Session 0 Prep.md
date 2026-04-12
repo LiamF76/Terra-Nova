@@ -25,6 +25,6 @@ Character Notes:
 - Hunter: Human fighter battlemaster
 - Grey: half-elf divine soul sorc
 - Hannah: fairy rogue
-- Audrey: dragonborn Druid / barbarian
+- Audrey: dragonborn barbarian giant
 - Donna: ranger battlemaster
 - Chance: halfling paladin oath of glory halfling

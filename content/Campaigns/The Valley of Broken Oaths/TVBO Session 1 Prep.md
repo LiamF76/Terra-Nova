@@ -26,12 +26,17 @@ TBD
 
 *Set the Scene*: TBD
 
-[[Westwood Ambush]]
-**Enemies**: 6x Kobold
+**Enemies**: 6x Kobold, 1x Ogre
 
 ```statblock
 creature: Kobold
 ```
+
+
+```statblock
+creature: Ogre
+```
+
 
 Post Battle: Scared farmer talks to the party, says Kobolds came along with an Ogre and stole all his horses. He needs those purebred horses as offerings and for sale at the festival or he won't be able to survive the winter.
 
