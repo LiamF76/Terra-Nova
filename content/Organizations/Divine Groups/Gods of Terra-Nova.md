@@ -92,14 +92,15 @@ The Gods of force beyond the mortal world. Those that are alien and incomprehens
 
 This pantheon governs the unbreakable truths of the world. Things that are mystical yet unavoidable, ever changing and ever present.
 
-| God    | Domain   |
-| ------ | -------- |
-| Tena   | Life     |
-| Erebos | Death    |
-| Jahaad | The Dead |
-| Surtur | Fire     |
-| Oras   | Dreams   |
-| Yagi   | Wonders  |
+| God      | Domain   |
+| -------- | -------- |
+| Tena     | Life     |
+| Erebos   | Death    |
+| Jahaad   | The Dead |
+| Surtur   | Fire     |
+| Oras     | Dreams   |
+| Yagi     | Wonders  |
+| Casalina | Love     |
 
 **Religions**: 
 - 
