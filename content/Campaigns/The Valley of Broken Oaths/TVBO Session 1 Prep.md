@@ -20,7 +20,7 @@ The party is making their way to Westwood alongside some wagon or caravan, and t
 
 #### **Kobold Riders**
 
-`DM NOTE: Party is approaching the town of Westwood. A group of Kobolds ambush them with ponies. This is a zone absed combat: road, forest west, east ditch.`
+`DM NOTE: Party is approaching the town of Westwood. A group of Kobolds ambush them at a farm with an Ogre.`
 
 TBD
 
