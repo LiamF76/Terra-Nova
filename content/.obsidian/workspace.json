@@ -89,6 +89,18 @@
             }
           },
           {
+            "id": "c80fe9f08435fee0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Working Folder/Zone Map Test.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Zone Map Test"
+            }
+          },
+          {
             "id": "372fea604c84f1e0",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -266,15 +278,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3f19ac0403f4ecad",
+  "active": "c80fe9f08435fee0",
   "lastOpenFiles": [
+    "Working Folder/Dashboard.md",
+    "Organizations/Divine Groups/Divine Champions.md",
+    "Working Folder/Zone Map Test.md",
     "Characters/Figures of Today.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
-    "Organizations/Divine Groups/Divine Champions.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Organizations/Mortal Alliances/The Wizard Council.md",
-    "Working Folder/Dashboard.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 0 Prep.md",
     "Organizations/Nobility/Sovrentian Government.md",
     "Resources/Gameplay Resources/Races of Terra-Nova.md",
@@ -298,7 +311,6 @@
     "Characters/People/Ciro.md",
     "Battlemaps/Zone Battlemaps/Westwood Ambush.md",
     "Battlemaps/Zone Battlemaps",
-    "Templates/5 Room Dungeon Template.md",
     "z Images/Aldros-1775853605189.webp",
     "z Images/image-14.webp",
     "Resources/Gameplay Resources/Races",
