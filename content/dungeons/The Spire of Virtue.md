@@ -14,9 +14,7 @@ aliases:
 
 TBD
 
-![[The Spire of Virtue-1776034635362.webp|500x357]]
-
-**Enemies**: 1x Weakened Golem (modified HP, less damage)
+**Enemies**: 
 
 ```statblock
 creature: 
