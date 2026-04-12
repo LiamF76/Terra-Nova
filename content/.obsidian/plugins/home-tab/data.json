@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Zaltana.md",
+      "filepath": "Campaigns/The Valley of Broken Oaths/TVBO Session 0 Prep.md",
+      "timestamp": 1776025877105
+    },
+    {
+      "filepath": "Organizations/Nobility/Sovrentian Government.md",
+      "timestamp": 1776025873898
+    },
+    {
+      "filepath": "Resources/Gameplay Resources/Languages.md",
+      "timestamp": 1776025778754
+    },
+    {
+      "filepath": "Characters/People/Zaltana.md",
       "timestamp": 1776025526496
     },
     {
       "filepath": "Working Folder/Kanban Boards/Wiki To-Do.md",
       "timestamp": 1776024903466
-    },
-    {
-      "filepath": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-      "timestamp": 1776024903111
-    },
-    {
-      "filepath": "Organizations/Divine Groups/Gods of Terra-Nova.md",
-      "timestamp": 1776024885100
     }
   ],
   "bookmarkedFileStore": [],
