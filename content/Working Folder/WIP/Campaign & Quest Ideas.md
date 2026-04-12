@@ -29,4 +29,5 @@
 ## Exploration Encounter Ideas
 
 - Suit of armor filled with moss and plants that rises when you try to cross the bridge it is protecting. It is not aggressive, but is hostile to those who try to cross the bridge it protects.
+- Party enters a thick fog, when they see each other they appear to be monsters, and they speak the monsters language. It's an illusory fog they need to realize is disguising their allies as enemies.
 - 
