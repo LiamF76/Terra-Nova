@@ -50,9 +50,9 @@ He can also offer the party 10% of the money he will make from the horses. He ca
 
 `DM NOTE: Wayfinder stones, the Ogre tracks stop between some ancient magical stones, puzzle where you have to touch them in order of the moons.`
 
-*Set the Scene*: You come to a clearing in the woods where the tracks lead. Before you are a scattered circle of 6 standing stones. The air of the 
+*Set the Scene*: The trees thin as you step into a quiet clearing where **six ancient standing stones** rise in a perfect circle, each one etched with faint runes that pulse like fireflies in the dusk. A hush settles over the forest, as if the stones themselves are holding their breath, waiting to see what you’ll do next.
 
-TBD
+Each stone bears a different symbol, one representing each of the moons. 
 
 **Puzzle**: There are 6 stones, each bearing a different symbol depicting the moons of Terra-Nova. When touched the symbols glow with a faint light.
 - **Astreth** 
@@ -65,6 +65,17 @@ TBD
 
 ---
 
+## Exploration Encounter
+
+#### **The Forgotten Statue**
+
+`DM NOTE: They come across an ancient statue of a young man, Augustus Auranthor. It is covered in moss and plants as it has gone untouched for at least a hundred years.`
+
+*Set the Scene*: TBD
+
+TBD
+
+---
 ## Room 3: Trick or Setback
 
 #### **TBD**
