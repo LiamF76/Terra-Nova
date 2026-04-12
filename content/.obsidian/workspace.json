@@ -46,37 +46,22 @@
             }
           },
           {
-            "id": "6f2af3d68c85c452",
+            "id": "13d8aa6f365f601b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working Folder/WIP/Campaign & Quest Ideas.md",
+                "file": "Campaigns/The Valley of Broken Oaths/TVBO Session 0 Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Campaign & Quest Ideas"
-            }
-          },
-          {
-            "id": "81d657c10c286e22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Session 1 Prep"
+              "title": "TVBO Session 0 Prep"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,12 +187,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0845e849bcc5f285",
+  "active": "13d8aa6f365f601b",
   "lastOpenFiles": [
-    "Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Campaigns/The Valley of Broken Oaths/Westwood Valley.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
+    "Working Folder/WIP/Campaign & Quest Ideas.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 0 Prep.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Campaigns/The Valley of Broken Oaths/Westwood Valley.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Valley Map.md",
     "Working Folder/Dashboard.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley",
@@ -236,7 +222,6 @@
     "Characters/People/Tirian.md",
     "z Images/image-13.webp",
     "conflict-files-obsidian-git.md",
-    "Characters/Extraplanar/Gods/Illuman.md",
     "z Images/image-12.webp",
     "Organizations/Nobility/Untitled.canvas",
     "z Images/image-11.webp",

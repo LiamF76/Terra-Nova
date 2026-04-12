@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[TVBO Session 1 Prep]]
 - [ ] [[Westwood Ambush]]
+- [ ] [[TVBO Session 0 Prep]]
 
 
 ## Worldbuilding
