@@ -25,22 +25,7 @@
             }
           },
           {
-            "id": "9262ef0579e697c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/People/Zaltana.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Zaltana"
-            }
-          },
-          {
-            "id": "372fea604c84f1e0",
+            "id": "d8c280780db2be80",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -73,6 +58,18 @@
               },
               "icon": "lucide-file",
               "title": "TVBO Session 1 Prep"
+            }
+          },
+          {
+            "id": "1d2e434a41ab0efa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Geography/Planes/Planes of Terra-Nova.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Planes of Terra-Nova"
             }
           }
         ],
@@ -202,22 +199,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ec1a70586943765c",
+  "active": "1d2e434a41ab0efa",
   "lastOpenFiles": [
-    "Templates/5 Room Dungeon Template.md",
-    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
-    "z Images/5 Room Dungeon Template-1776027881449.webp",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Working Folder/Dashboard.md",
+    "Geography/Planes/Planes of Terra-Nova.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
+    "Characters/People/Zaltana.md",
+    "Templates/5 Room Dungeon Template.md",
+    "z Images/5 Room Dungeon Template-1776027881449.webp",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 0 Prep.md",
     "Organizations/Nobility/Sovrentian Government.md",
     "Resources/Gameplay Resources/Languages.md",
-    "Characters/People/Zaltana.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Battlemaps/thing.ds.crswap",
     "Battlemaps/thing.ds",
     "Working Folder/Zone Map Test.md",
-    "Working Folder/Dashboard.md",
     "Organizations/Divine Groups/Divine Champions.md",
     "Characters/Figures of Today.md",
     "Organizations/Mortal Alliances/The Wizard Council.md",
@@ -236,7 +234,6 @@
     "Geography/Space/Cosmology.md",
     "Characters/People/Abraham.md",
     "Characters/People/Finnick.md",
-    "Characters/People/Aldros.md",
     "Battlemaps/Zone Battlemaps",
     "z Images/Aldros-1775853605189.webp",
     "z Images/image-14.webp",
