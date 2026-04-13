@@ -24,12 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Working Folder/Dashboard.md",
-      "timestamp": 1776123201049
+      "filepath": "Templates/City Template.md",
+      "timestamp": 1776123574462
     },
     {
-      "filepath": "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
-      "timestamp": 1776123200855
+      "filepath": "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Village.md",
+      "timestamp": 1776123558253
+    },
+    {
+      "filepath": "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Valley Map.md",
+      "timestamp": 1776123234953
+    },
+    {
+      "filepath": "Working Folder/Dashboard.md",
+      "timestamp": 1776123234917
     }
   ],
   "bookmarkedFileStore": [],
