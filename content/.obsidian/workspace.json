@@ -49,13 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Village.md",
+                "file": "Templates/Locations/Town Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Westwood Village"
+              "title": "Town Template"
             }
           },
           {
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/City Template.md",
+                "file": "Templates/Locations/City Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,11 +184,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4c44472a389eecfa",
+  "active": "f3b4816f9bfe5e52",
   "lastOpenFiles": [
-    "Location Name.md",
-    "Templates/City Template.md",
+    "Templates/Locations/City Template.md",
+    "Templates/Locations/Town Template.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Village.md",
+    "Templates/Locations",
+    "Location Name.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Valley Map.md",
     "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/Wiki To-Do.md",
@@ -216,7 +218,6 @@
     "Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 0 Prep.md",
     "Organizations/Nobility/Sovrentian Government.md",
     "Resources/Gameplay Resources/Languages.md",
-    "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Battlemaps/thing.ds.crswap",
     "Battlemaps/thing.ds",
     "z Images/Zaltana Maram-1775958470488.webp",
@@ -232,7 +233,6 @@
     "Organizations/Nobility/Untitled.canvas",
     "z Images/image-11.webp",
     "Campaigns/The Valley of Broken Oaths/Past Sessions",
-    "Geography/Planes/The Material Plane/Untitled.canvas",
-    "Working Folder/WIP"
+    "Geography/Planes/The Material Plane/Untitled.canvas"
   ]
 }
