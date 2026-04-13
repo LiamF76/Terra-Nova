@@ -126,10 +126,11 @@ Troll HP: (8 boxes)
 
 ## Room 5: Reward, Revelation, Plot Twist
 
-#### **TBD**
+#### **Return the Horses**
 
-`DM NOTE: Describe the encounter / overview of the room`
+`DM NOTE: The party returns the horses to the farmer, brings them to Judge Finnick, or perhaps keeps them for themselves? Upon doing so they discover that ponies were taken too, and one of the villagers saw Kobolds riding them deeper into the valley this morning.`
 
 *Set the Scene*: TBD
 
-TBD
+Abstract scene, no need to set it. Likely they return to the farm. RP as the farmer and inform them he is glad the horses are back, but where are the ponies?
+
