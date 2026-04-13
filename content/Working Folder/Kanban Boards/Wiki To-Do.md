@@ -6,6 +6,8 @@ kanban-plugin: list
 
 ## Wiki
 
+- [ ] [[Sovrentia]]
+	- priority 1, do all your worldbuilding, unless great inspiration strikes WORK ON THIS!
 - [ ] Update Homepage: [[index]]
 	- add more basic information, navigation, common links
 - [ ] Keep [[Terra-Nova Master Timeline]] updated
@@ -34,9 +36,6 @@ kanban-plugin: list
 	- Escarth (high prio as it is the current campaign setting)
 	- Ikon
 	- Iramo
-- [ ] [[Geography/Planes/The Material Plane/Continents/Escarth/Escarth]]
-	- [[Sovrentia]]
-	- New Estorias
 
 
 
