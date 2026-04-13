@@ -16,6 +16,16 @@ The party is making their way to Westwood alongside some wagon or caravan, and t
 
 ---
 
+## Session Start
+
+#### **The long road to Westwood**
+
+Golden leaves skitter across the valley road as you continue to descends toward Westwood Village, its rooftops just beginning to peek through the autumn haze. A cool fall breeze rolls down from the hills, carrying the scent of woodsmoke and the faint echo of distant farm bells. The world feels quiet and expectant, and there is a peace in the air.
+
+Hunter and Grey describe their characters, ask them how they feel
+
+---
+
 ## Room 1: Entrance Guardian
 
 #### **Kobold Ambush**
@@ -50,6 +60,8 @@ He can also offer the party 10% of the money he will make from the horses. He ca
 `DM NOTE: Wayfinder stones, the Ogre tracks stop between some ancient magical stones, puzzle where you have to touch them in order of the moons.`
 
 *Set the Scene*: The trees thin as you step into a quiet clearing where **six ancient standing stones** rise in a perfect circle, each one etched with faint runes that pulse like fireflies in the dusk. A hush settles over the forest, as if the stones themselves are holding their breath, waiting to see what you’ll do next.
+
+(To anyone who has studied ancient magics or perhaps is ancient themselves, these are known as 'Promise Stones' magical teleportation stones built by an ancient mage, used to travel through different lands. You can only teleport between stones you have physically been to, and it takes some arcane ability. Additionally, to protect travelers, when used it makes your tracks or footsteps disappear.)
 
 Each stone bears a different symbol, one representing each of the moons. 
 
