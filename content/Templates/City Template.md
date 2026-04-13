@@ -35,7 +35,7 @@ A short paragraph describing the city at a glance. What is it known for? What is
 - **Overall Style:** What materials, shapes, and aesthetic define the city?
 - **Layout:** How is the city organized — districts, walls, rings, organic sprawl?
 - **Distinct Visual Feature:** The one thing a visitor would remember about how this city looks
-- **Districts:**
+- **Districts:** 
     - **District Name:** 
     - **District Name:** 
     - **District Name:** 
@@ -54,9 +54,9 @@ A short paragraph describing the city at a glance. What is it known for? What is
 
 ## Religion and Temples
 
-- **Primary Faith:**
-- **Secondary Faiths:**
-- **Temples and Shrines:**
+- **Primary Faith:** 
+- **Secondary Faiths:** 
+- **Temples and Shrines:** 
 - **Religious Tensions:** Are different faiths in conflict here?
 - **Attitude Toward the Divine:** Is religion central to daily life or kept private?
 
@@ -64,8 +64,8 @@ A short paragraph describing the city at a glance. What is it known for? What is
 
 ## Economy
 
-- **Primary Industry:**
-- **Secondary Industry:**
+- **Primary Industry:** 
+- **Secondary Industry:** 
 - **Trade:** What does the city import and export?
 - **Wealth Level:** Is the city prosperous, struggling, or somewhere between?
 - **Markets and Commerce:** Where does trade happen and what can be found?
