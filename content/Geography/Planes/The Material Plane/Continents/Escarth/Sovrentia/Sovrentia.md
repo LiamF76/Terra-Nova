@@ -109,13 +109,10 @@ See [[Sovrentian Government]] for a full list of members. The
 
 ## **9. Cities & Regions**
 
-- **Capital City:**
-- **Major Cities:**
+- **Capital City:**  Arthos, Lycost, Highcrest, 
+- **Major Cities:** 
 - **Unique Regions:**
-    - Haunted zones
-    - Spirit‑dense forests
-    - Arcane academies
-    - Ruins / megadungeons
+    - 
 
 ---
 
