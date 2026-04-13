@@ -27,6 +27,8 @@ Here are some helpful links to get you started.
 ## Geography
 > [!info] [[World Map]]
 
+> [!info] [[Cosmology]]
+
 ## Factions & Organizations
 > [!info] Factions
 
