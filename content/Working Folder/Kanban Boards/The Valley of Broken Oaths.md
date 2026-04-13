@@ -34,6 +34,7 @@ kanban-plugin: board
 ## Locations
 
 - [ ] [[Westwood Valley Map]]
+- [ ] [[Westwood Village]]
 
 
 ***
