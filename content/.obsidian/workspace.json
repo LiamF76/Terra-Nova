@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,79 +18,11 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "d42d5af757b04bcd",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
-          },
-          {
-            "id": "d828466385683d43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Workshop"
-            }
-          },
-          {
-            "id": "fc473f1b3dc66645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Session 1 Prep"
-            }
-          },
-          {
-            "id": "031272cab5029c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Statblocks/Helmed Horror.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Helmed Horror"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +131,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "031272cab5029c91",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "dungeons/The Spire of Virtue.md",
     "Resources/Statblocks/Helmed Horror.md",
+    "dungeons/The Spire of Virtue.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Dashboard.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
