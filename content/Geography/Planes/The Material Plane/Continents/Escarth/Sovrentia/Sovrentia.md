@@ -103,7 +103,7 @@ See [[Sovrentian Government]] for a full list of members.
 	- Xerathos
 	- Istola
 	- The Emerald Sultanate
-- **Currency / Wealth Systems:** Uses standard CP, SP, and GP. Sovrentia has multiple banks that give Bank Slips, which can be cashed at said banks in exchange for coins.
+- **Currency / Wealth Systems:** Uses standard CP, SP, and GP. Sovrentia has multiple banks that give Bank Slips, which can be cashed at said banks in exchange for coins. Trade and skills are often accepted in rural areas as well, such as Adventurers doing jobs or individuals giving a service in exchange for another or supplies. 
 - **Industries & Crafts:** 
 
 ---
