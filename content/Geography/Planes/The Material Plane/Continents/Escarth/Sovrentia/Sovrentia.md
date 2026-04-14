@@ -92,15 +92,15 @@ See [[Sovrentian Government]] for a full list of members. The
 
 ## **7. Magic & Supernatural Elements**
 
-- **How Common Is Magic:**
-- **Dominant Magical Disciplines:**
-- **Spirit / Undead / Elemental Presence:**
-- **Magical Infrastructure:**
+- **How Common Is Magic:** 
+- **Dominant Magical Disciplines:** 
+- **Spirit / Undead / Elemental Presence:** 
+- **Magical Infrastructure:** 
     - Teleportation
     - Weather control
     - Spirit labor
     - Undead workforce
-- **Forbidden Magic:**
+- **Forbidden Magic:** 
 
 ---
 
@@ -118,36 +118,26 @@ See [[Sovrentian Government]] for a full list of members. The
 
 - **Capital City:**  Arthos, Lycost, Highcrest, 
 - **Major Cities:** 
-- **Unique Regions:**
+- **Unique Regions:** 
     - 
 
 ---
 
 ## **10. Important NPCs**
 
-- **Rulers:**
-- **Faction Leaders:**
-- **Heroes / Villains:**
-- **Scholars / Mages:**
-- **Legends / Mythic Figures:**
+- **Rulers:** 
+- **Faction Leaders:** 
+- **Heroes / Villains:** 
+- **Scholars / Mages:** 
+- **Legends / Mythic Figures:** 
 
 ---
 
 ## **11. Adventure Hooks**
 
-- **Political Hooks:**
-- **Magical Hooks:**
-- **Exploration Hooks:**
-- **Cultural Hooks:**
-- **Threat Hooks:**
+- **Political Hooks:** 
+- **Magical Hooks:** 
+- **Exploration Hooks:** 
+- **Cultural Hooks:** 
+- **Threat Hooks:** 
 
----
-
-## **12. Secrets (DM‑Only)**
-
-- **Hidden History:**
-- **Conspiracies:**
-- **Ancient Threats:**
-- **Future Plot Seeds:**
-
----
