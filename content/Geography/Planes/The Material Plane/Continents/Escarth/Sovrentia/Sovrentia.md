@@ -114,8 +114,9 @@ See [[Sovrentian Government]] for a full list of members.
 - **Dominant Magical Disciplines:** There are two true magic discipline in Sovrentia. Divine Magic of the Rising Sun Priests. it is taught at the holy city of Arthos, in its vast temples and monastery. Unique to Sovrentia is that it is home to Druidic magic in the city of Druidica. There are few druids, but their power is quite real and potent. They train their apprentices in the Eldermourne Forest.
 - **Spirit / Undead / Elemental Presence:** Spirits are present and while not abundant, are common enough for most folk outside major cities to be aware of them. Those within massive population centers such as Arthos may think spirits to be myth or different than the truth of their existence.
 - **Magical Infrastructure:** 
-    - The ancient 'Promise Stones' of Sovrentia still serve those who know how to work them. These magical standing stones connect one another through teleportation, with some caveats. You must have been to and activated a Promise Stone to teleport to it from another, and each stone is locked with a unique puzzle to activate them.
-- **Forbidden Magic:** 
+    - The Promise Stones: The ancient 'Promise Stones' of Sovrentia still serve those who know how to work them. These magical standing stones connect one another through teleportation, with some caveats. You must have been to and activated a Promise Stone to teleport to it from another, and each stone is locked with a unique puzzle to activate them.
+    - The Auranthor Statues: A series of statues spanning the jagged and stoned coast of Western Sovrentia. The series runs from the Northern end of Arthos to the South, protecting the city form outside threats. They are heavily enchanted with Divine magics, and it is said they can come alive and destroy great threats to Arthos with the power of the ancient hero Auranthor, but this has never been proven true since they were built. 
+- **Forbidden Magic:** Necromancy and vampirism are utterly illegal. They are both heretical to the Rising Sun church and against common sense laws against manipulation and harm to others.
 
 ---
 
@@ -131,8 +132,8 @@ See [[Sovrentian Government]] for a full list of members.
 
 ## **9. Cities & Regions**
 
-- **Capital City:**  Arthos, Lycost, Highcrest, 
-- **Major Cities:** 
+- **Capital City:**  Arthos 
+- **Major Cities:** Lycost, Highcrest, Druidica
 - **Unique Regions:** 
     - Ark
     - Jasage
