@@ -11,6 +11,8 @@ kanban-plugin: list
 - [ ] Update Homepage: [[index]]
 	- add more basic information, navigation, common links
 - [ ] Keep [[Terra-Nova Master Timeline]] updated
+	- 3 wars between Sovrentia and Triumvirate Scales
+	- War between New Estorias and Sovrentia
 - [ ] [[Gods of Terra-Nova]]
 	- Finish dividing Gods into pantheons
 - [ ] Factions & Organizations

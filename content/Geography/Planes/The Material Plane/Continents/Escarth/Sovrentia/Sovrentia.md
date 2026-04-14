@@ -28,17 +28,19 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
 	    - The Small Divide
 	    - The Ember Mountains
 	    - Tena's Peak
+	    - The Maple Mountains
     - Rivers
 	    - The Scaleborn River: Massive river that runs from the North end of Sovrentia all the way to the South Coast.
     - Forests
 	    - The Alderwood
+	    - The Eldermourne Forest
     - Deserts
-    - Magical anomalies
+	    - The Dreadlands
 - **Environmental Magic (if any):**
     - Leylines
+	    - Present but fading, compared to original potency the Leylines of Sovrentia are at 30% capacity.
     - Spirit presence
-    - Undead zones
-    - Planar bleed
+	    - Spirits are present, uncommon in population centers but somewhat common in the wilderness. Extremely common in vast and uninhabited areas such as dangerous forests or mountains, and underground.
 
 ---
 
@@ -51,6 +53,8 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
     - Decline
     - Modern Era
 - **Key Historical Events:** 
+	- *The Great Unity*: Maple Celestia unites the nation and forms Sovrentia
+	- 
 - **How the 300‑Year Timeskip Changed It:** Sovrentia was formed quickly during the timeskip, and as a result has had a long history, all of its history actually inside the timeskip. It did not change as much as it began during that time.
 
 ---
@@ -64,7 +68,10 @@ See [[Sovrentian Government]] for a full list of members. The
 - **Noble Houses / Power Factions:** (Listed here will be those outside of the direct Government structure listed in the [[Sovrentian Government]]) 
 	- 
 - **How Magic Influences Politics:** Magic influences politics heavily through bloodlines. Every royal bloodline that remains in Sovrentia is of a sorcerous descent, and many long for the days when sorcerer kings ruled through magical might to return. Those without magic, be it innate or holy, will struggle to enforce their will against ancient and honored dynasties.
-- **Foreign Relations:** Highly hostile to [[The Triumvirate Scales]], in a tentative non-aggression pact with [[New Estorias]] after the last large Scale War.
+- **Foreign Relations:** 
+	- [[The Triumvirate Scales]]: Hostile with the Scales, constant border skirmishes, political disputes, and multiple wars through history.
+	- [[New Estorias]]: Non-aggression pact following a war between the two nations 50 years ago.
+	- 
 
 ---
 
@@ -136,6 +143,8 @@ See [[Sovrentian Government]] for a full list of members. The
 - **Heroes / Villains:** 
 - **Scholars / Mages:** 
 - **Legends / Mythic Figures:** 
+	- Auranthor, The Golden Hero
+	- 
 
 ---
 
