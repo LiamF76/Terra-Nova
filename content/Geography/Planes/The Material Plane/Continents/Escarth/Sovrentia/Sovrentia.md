@@ -122,10 +122,14 @@ See [[Sovrentian Government]] for a full list of members.
 
 ## **8. Military & Defense**
 
-- **Military Structure:** Multiple private mercenary guilds / military companies.
+- **Military Structure:** Multiple private mercenary guilds / military companies. There are no standing armies in Sovrentia that are tied to the government, but they are explicitly permitted as private organizations. The Rising Sun church has a sizable cohort of knights and war priests, and many noble houses have their own decently managed guard regiments. The actual military of Sovrentia though is made up of private mercenary companies and guilds that are contracted by the Parliament when needed.
 - **Elite Units:** 
+	- *Solonix*: Paladins of the Rising Sun
+	- 
 - **Magical Warfare:** 
 - **Defensive Infrastructure:** 
+	- The Auranthor Statues: A series of statues spanning the jagged and stoned coast of Western Sovrentia. The series runs from the Northern end of Arthos to the South, protecting the city form outside threats. They are heavily enchanted with Divine magics, and it is said they can come alive and destroy great threats to Arthos with the power of the ancient hero Auranthor, but this has never been proven true since they were built. 
+	- 
 - **Threats (Internal & External):** 
 
 ---
