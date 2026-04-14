@@ -61,13 +61,17 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
 
 ## **4. Government & Power Structure**
 
-See [[Sovrentian Government]] for a full list of members. The
+See [[Sovrentian Government]] for a full list of members.
 
 - **Government Type:**  Sovrentia is an electoral Republic, in which the different territories send a representative to the parliament. The members of the parliament then elect the Sovereign from those running for the seat. Those running can be any member of the government be they as highly ranked as a Prince or low as a local Judge.
 - **Ruling Body / Leader:** The ruling body is made up of the Sovereign, the individual leader of the nation, alongside the Parliament whom elects them.
 - **Noble Houses / Power Factions:** (Listed here will be those outside of the direct Government structure listed in the [[Sovrentian Government]]) 
+	- The Realmcrest Family
+	- The Tarn Family
+	- The Ferran Family
+	- The Celestia Family
 	- 
-- **How Magic Influences Politics:** Magic influences politics heavily through bloodlines. Every royal bloodline that remains in Sovrentia is of a sorcerous descent, and many long for the days when sorcerer kings ruled through magical might to return. Those without magic, be it innate or holy, will struggle to enforce their will against ancient and honored dynasties.
+- **How Magic Influences Politics:** Magic influences politics heavily through bloodlines. Every royal bloodline that remains in Sovrentia is of a sorcerous descent, and many long for the days when sorcerer kings ruled through magical might to return. Those without magic, be it innate or holy, will struggle to enforce their will against ancient and honored dynasties. As is true in nature, the strong generally hold power over the weak, and those with magical ability have used it to put themselves in positions of power such as noble bloodlines.
 - **Foreign Relations:** 
 	- [[The Triumvirate Scales]]: Hostile with the Scales, constant border skirmishes, political disputes, and multiple wars through history.
 	- [[New Estorias]]: Non-aggression pact following a war between the two nations 50 years ago.
@@ -77,13 +81,13 @@ See [[Sovrentian Government]] for a full list of members. The
 
 ## **5. Culture & Society**
 
-- **Population Makeup:**  Sovrentia is largely Human but has a decent distribution of other races, though they are all vast minorities to Humans. This includes Dragonborn, Half-Elves, Dwarves, Orcs, and Tieflings. Other races are present albeit sparingly.
-- **Values & Ideals:**
-- **Religion & Spiritual Beliefs:**
-- **Traditions & Festivals:**
-- **Art, Music, and Aesthetics:**
-- **Education & Magic Training:**
-- **Attitudes Toward Outsiders:**
+- **Population Makeup:**  Sovrentia is largely Human but has a decent distribution of other races, though they are all minorities compared to Humans. This includes Dragonborn, Half-Elves, Dwarves, Orcs, and Tieflings. Other races are present albeit sparingly. 
+- **Values & Ideals:** Sovrentia holds strong values in honor, tied heavily into the Rising Sun and 'The Road's Honor'. Sovrentia seeks to act as a bastion of peace and stability amongst a land of chaos and danger, accepting those who flee mistreatment at the hands of neighboring nations. People in Sovrentia are generally honest and understanding.
+- **Religion & Spiritual Beliefs:** The most common religion in Sovrentia is The Rising Sun, which revers Illuman the Light God. Large cities do not focus on spirits, but most small towns and villages hold a heavy respect for local spirits and tribal traditions that predate Sovrentia and even the Freehold.
+- **Traditions & Festivals:** 
+- **Art, Music, and Aesthetics:** 
+- **Education & Magic Training:** Education beyond basic speech and reading ability is rare outside cities. Children work their parents trades and live simple lives as they grow. Magic training is virtually nonexistent besides Court Wizards and their apprentices. Those who show magical aptitude are often sent to learn at magic academies in Lazarus or Drok'Shah.
+- **Attitudes Toward Outsiders:** 
 
 ---
 

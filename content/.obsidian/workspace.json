@@ -44,6 +44,21 @@
             }
           },
           {
+            "id": "8f0fc85afa23523b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Divine Groups/Gods of Terra-Nova.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gods of Terra-Nova"
+            }
+          },
+          {
             "id": "abf17408c1257899",
             "type": "leaf",
             "state": {
@@ -56,6 +71,21 @@
               },
               "icon": "lucide-file",
               "title": "Sovrentia"
+            }
+          },
+          {
+            "id": "accb1ce825fceb16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Nobility/Sovrentian Government.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sovrentian Government"
             }
           },
           {
@@ -80,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,11 +223,14 @@
   },
   "active": "abf17408c1257899",
   "lastOpenFiles": [
-    "History/Timelines/Terra-Nova Master Timeline.md",
-    "Working Folder/Kanban Boards/Wiki To-Do.md",
-    "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
-    "Working Folder/Dashboard.md",
+    "Organizations/Nobility/Sovrentian Government.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
+    "Organizations/Religions & Cults/The Rising Sun.md",
+    "Organizations/Divine Groups/Gods of Terra-Nova.md",
+    "Working Folder/Kanban Boards/Wiki To-Do.md",
+    "History/Timelines/Terra-Nova Master Timeline.md",
+    "Working Folder/Dashboard.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Village.md",
     "z Images/Westwood Village-1776124094975.webp",
     "Templates/Locations/City Template.md",
@@ -222,10 +255,7 @@
     "Westwood Ambush.md",
     "Geography/Planes/Planes of Terra-Nova.md",
     "Characters/People/Zaltana.md",
-    "Templates/5 Room Dungeon Template.md",
     "z Images/5 Room Dungeon Template-1776027881449.webp",
-    "Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 0 Prep.md",
-    "Organizations/Nobility/Sovrentian Government.md",
     "Battlemaps/thing.ds.crswap",
     "Battlemaps/thing.ds",
     "z Images/Zaltana Maram-1775958470488.webp",

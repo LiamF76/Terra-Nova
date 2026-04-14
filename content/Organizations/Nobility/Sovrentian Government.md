@@ -4,7 +4,7 @@ title: Sovrentian Government
 aliases:
 ---
 
-This is a breakdown of the full Sovrentian Government, organized by Province/parliament members.
+This is a breakdown of the full Sovrentian Government, organized by Province/parliament members. Leaders of each province are also the leaders of the capital cities of that region.
 
 # Parliament & Sovereign
 
