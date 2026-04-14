@@ -86,8 +86,8 @@ See [[Sovrentian Government]] for a full list of members.
 - **Religion & Spiritual Beliefs:** The most common religion in Sovrentia is The Rising Sun, which revers Illuman the Light God. Large cities do not focus on spirits, but most small towns and villages hold a heavy respect for local spirits and tribal traditions that predate Sovrentia and even the Freehold.
 - **Traditions & Festivals:** 
 - **Art, Music, and Aesthetics:** 
-- **Education & Magic Training:** Education beyond basic speech and reading ability is rare outside cities. Children work their parents trades and live simple lives as they grow. Magic training is virtually nonexistent besides Court Wizards and their apprentices. Those who show magical aptitude are often sent to learn at magic academies in Lazarus or Drok'Shah.
-- **Attitudes Toward Outsiders:** 
+- **Education & Magic Training:** Education beyond basic speech and reading ability is rare outside cities. Children work their parents trades and live simple lives as they grow. Magic training is virtually nonexistent besides Court Wizards and their apprentices. Those who show magical aptitude are often sent to learn at magic academies in Lazarus or Drok'Shah. Court Wizards will take apprentices but this is more often to have an assistant than to actually teach them magic. For nobility education is extensive, often consisting of history, combat, minor magics (if ability is shown), manners, and arts.
+- **Attitudes Toward Outsiders:** Sovrentia is accepting of outsiders. Many face discrimination but not because they are foreigners, but because of their race. Some Sovrentians hold grudges towards Chromatic Dragonborn because of wars with [[The Triumvirate Scales]], and against races that are common in [[New Estorias]] such as Tieflings and Fire Genasi.
 
 ---
 
