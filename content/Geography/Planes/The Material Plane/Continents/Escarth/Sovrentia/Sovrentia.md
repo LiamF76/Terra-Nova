@@ -81,6 +81,7 @@ See [[Sovrentian Government]] for a full list of members.
 - **Values & Ideals:** Sovrentia holds strong values in honor, tied heavily into the Rising Sun and 'The Road's Honor'. Sovrentia seeks to act as a bastion of peace and stability amongst a land of chaos and danger, accepting those who flee mistreatment at the hands of neighboring nations. People in Sovrentia are generally honest and understanding.
 - **Religion & Spiritual Beliefs:** The most common religion in Sovrentia is The Rising Sun, which revers Illuman the Light God. Large cities do not focus on spirits, but most small towns and villages hold a heavy respect for local spirits and tribal traditions that predate Sovrentia and even the Freehold.
 - **Traditions & Festivals:** 
+	- Warriors of Sovrentia: The nation possess a strong adventuring culture, and while knights exist, the backbone of this tradition are 'Warriors of Sovrentia'. It is an unofficial title that is given out by the people of the land to those who help and do good for the land. Adventurers often become known as a 'Warrior of Sovrentia' after defeating a great foe, ending a difficult time, or completing a great amount of jobs. Those who hold this title are respected and honored, foten given free or discounted loging, food, and supplies for the road. While it is valuable to have, it must be earned. Calling yourself one such warrior without having done so in the public eye is social murder, and can often land you in an unforvable position throughout the entire country.
 - **Art, Music, and Aesthetics:** 
 - **Education & Magic Training:** Education beyond basic speech and reading ability is rare outside cities. Children work their parents trades and live simple lives as they grow. Magic training is virtually nonexistent besides Court Wizards and their apprentices. Those who show magical aptitude are often sent to learn at magic academies in Lazarus, Drok'Shah, or the Emerald Sultanate. Court Wizards will take apprentices but this is more often to have an assistant than to actually teach them magic. For nobility education is extensive, often consisting of history, combat, minor magics (if ability is shown), manners, and arts.
 - **Attitudes Toward Outsiders:** Sovrentia is accepting of outsiders. Many face discrimination but not because they are foreigners, but because of their race. Some Sovrentians hold grudges towards Chromatic Dragonborn because of wars with [[The Triumvirate Scales]], and against races that are common in [[New Estorias]] such as Tieflings and Fire Genasi.
@@ -102,14 +103,14 @@ See [[Sovrentian Government]] for a full list of members.
 	- Xerathos
 	- Istola
 	- The Emerald Sultanate
-- **Currency / Wealth Systems:** 
+- **Currency / Wealth Systems:** Uses standard CP, SP, and GP. Sovrentia has multiple banks that give Bank Slips, which can be cashed at said banks in exchange for coins.
 - **Industries & Crafts:** 
 
 ---
 
 ## **7. Magic & Supernatural Elements**
 
-- **How Common Is Magic:** 
+- **How Common Is Magic:** Magic is uncommon in Sovrentia. The number of fully fledged spell casters in the nation is under 50, and most of them are limited to upper level Divine magic users. The most likely place to find mortal magic users is in bloodlines of note such as the Realmcrest or Ferran families.
 - **Dominant Magical Disciplines:** 
 - **Spirit / Undead / Elemental Presence:** 
 - **Magical Infrastructure:** 
