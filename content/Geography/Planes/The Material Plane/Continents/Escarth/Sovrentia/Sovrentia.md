@@ -110,14 +110,11 @@ See [[Sovrentian Government]] for a full list of members.
 
 ## **7. Magic & Supernatural Elements**
 
-- **How Common Is Magic:** Magic is uncommon in Sovrentia. The number of fully fledged spell casters in the nation is under 50, and most of them are limited to upper level Divine magic users. The most likely place to find mortal magic users is in bloodlines of note such as the Realmcrest or Ferran families.
-- **Dominant Magical Disciplines:** 
-- **Spirit / Undead / Elemental Presence:** 
+- **How Common Is Magic:** Magic is uncommon in Sovrentia. The number of fully fledged spell casters in the nation is under 50, and most of them are limited to upper level Divine magic users. The most likely place to find mortal magic users is in bloodlines of note such as the Realmcrest or Ferran families. Outside of magic users, ambient magic and ritual are the most common forms of magic found. It is quite easy to find enchanted places like ruins or dungeons and caves, but these are dangerous and should not be approached carelessly. 
+- **Dominant Magical Disciplines:** There are two true magic discipline in Sovrentia. Divine Magic of the Rising Sun Priests. it is taught at the holy city of Arthos, in its vast temples and monastery. Unique to Sovrentia is that it is home to Druidic magic in the city of Druidica. There are few druids, but their power is quite real and potent. They train their apprentices in the Eldermourne Forest.
+- **Spirit / Undead / Elemental Presence:** Spirits are present and while not abundant, are common enough for most folk outside major cities to be aware of them. Those within massive population centers such as Arthos may think spirits to be myth or different than the truth of their existence.
 - **Magical Infrastructure:** 
-    - Teleportation
-    - Weather control
-    - Spirit labor
-    - Undead workforce
+    - The ancient 'Promise Stones' of Sovrentia still serve those who know how to work them. These magical standing stones connect one another through teleportation, with some caveats. You must have been to and activated a Promise Stone to teleport to it from another, and each stone is locked with a unique puzzle to activate them.
 - **Forbidden Magic:** 
 
 ---
