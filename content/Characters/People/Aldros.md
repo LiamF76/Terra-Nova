@@ -11,7 +11,7 @@ Name: **Aldros**, Wyrm-Chosen
 Voice: Voice Description
 - Example Dialogue
 
-Description: 4 foot tall Red Kobold
+Description: Dragonborn male, 7ft tall, strong muscular frame with burning red scales. His eyes and body are covered with scars from endless battles.
 
 Important Info: 
 - Aldros serves the Dragon Rulers of [[The Triumvirate Scales]]

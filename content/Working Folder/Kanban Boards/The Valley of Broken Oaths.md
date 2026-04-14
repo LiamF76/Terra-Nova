@@ -12,7 +12,6 @@ kanban-plugin: board
 
 ## Worldbuilding
 
-- [ ] [[The Valley of Broken Oaths Primer]]
 - [ ] [[TVBO Workshop]]
 - [ ] [[Campaign & Quest Ideas]]
 
@@ -42,6 +41,7 @@ kanban-plugin: board
 ## Archive
 
 - [x] [[TVBO Session 0 Prep]]
+- [x] [[The Valley of Broken Oaths Primer]]
 
 %% kanban:settings
 ```

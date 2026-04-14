@@ -18,11 +18,15 @@ The party is making their way to Westwood alongside some wagon or caravan, and t
 
 ## Session Start
 
-#### **The long road to Westwood**
+#### **The Road to Westwood**
 
 Golden leaves skitter across the valley road as you continue to descends toward Westwood Village, its rooftops just beginning to peek through the autumn haze. A cool fall breeze rolls down from the hills, carrying the scent of woodsmoke and the faint echo of distant farm bells. The world feels quiet and expectant, and there is a peace in the air.
 
 Hunter and Grey describe their characters, ask them how they feel after having walked from Lycost, the capital city of Lightbear. Your stay there was quite short, wanting to avoid the upheaval over the newly elected Governor.
+
+As they walk have them run into the Farmer's wife, she tripped over a root in the path and needs  abiut of help getting back home.
+
+On the way back to their stables, run into the rest of the party.
 
 ---
 
@@ -37,6 +41,10 @@ TBD
 *Set the Scene*: TBD
 
 **Enemies**: 6x Kobold, 1x Ogre
+
+COMBAT DIALOGUE:
+- Ogre: "Grab em up! Aldros said grab all da 'orses!"
+- Kobold: "Grab horse! Grab! Aldros kill if no grab ponies grab grab!"
 
 ```statblock
 creature: Kobold
