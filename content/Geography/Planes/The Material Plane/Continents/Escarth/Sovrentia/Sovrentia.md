@@ -119,7 +119,13 @@ See [[Sovrentian Government]] for a full list of members. The
 - **Capital City:**  Arthos, Lycost, Highcrest, 
 - **Major Cities:** 
 - **Unique Regions:** 
-    - 
+    - Ark
+    - Jasage
+    - Goldridge
+    - Crest
+    - Lightbear
+    - Kheagon
+    - Hearth
 
 ---
 
