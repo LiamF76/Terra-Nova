@@ -71,6 +71,7 @@ See [[Sovrentian Government]] for a full list of members.
 - **Foreign Relations:** 
 	- [[The Triumvirate Scales]]: Hostile with the Scales, constant border skirmishes, political disputes, and multiple wars through history.
 	- [[New Estorias]]: Non-aggression pact following a war between the two nations 50 years ago.
+	- Lazarus: 
 	- 
 
 ---
