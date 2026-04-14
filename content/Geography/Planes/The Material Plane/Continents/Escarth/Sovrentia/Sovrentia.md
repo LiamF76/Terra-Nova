@@ -48,10 +48,6 @@ Sovrentia was once known as The Freehold, form it stood as a bastion of justice 
 
 - **Founding Myth / Origin:** Sovrentia was formed from the remains of the Freehold, a coalition of independent settlements that survived assault by the forces of the long fallen demon kingdom of Arkonia. After uniting under the banner of Maple Celestia, the first Sovereign, the nation formed its unique and time honored tradition of electing from the top class of warriors and leaders. The myth of the Freehold is that it was founded by the last Demi-God son of Illuman, known to his people as Auranthor. It was said he passed his divine power on to Lady Maple when he stepped down from the throne, and now the followers of Illuman and the Convergence Pantheon believe Sovrentia to be the holy land given to them by God.
 - **Major Eras:** 
-    - Rise
-    - Golden Age
-    - Decline
-    - Modern Era
 - **Key Historical Events:** 
 	- *The Great Unity*: Maple Celestia unites the nation and forms Sovrentia
 	- 
