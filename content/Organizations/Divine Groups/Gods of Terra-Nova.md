@@ -19,7 +19,7 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 | [[Khal Daraan]] | Destruction |
 
 **Religions**: 
-- 
+- The Eternal Cycle
 
 ---
 
@@ -59,7 +59,7 @@ This pantheon governs the primal powers. Mortal domains of strength and force su
 
 ## The Hearts of Storm and Sea
 
-Weather.
+This pantheon governs chaotic nature, things that are beyond the hands of mortal to master. Weather and storms that claim lives and sunder dreams.
 
 | God        | Domain  |
 | ---------- | ------- |
@@ -75,7 +75,7 @@ Weather.
 
 ## The Stellar Forces
 
-The Gods of force beyond the mortal world. 
+The Gods of force beyond the mortal world. Those that are alien and incomprehensive, invisible hands that guide and control the laws of nature.
 
 | God     | Domain |
 | ------- | ------ |
@@ -90,14 +90,17 @@ The Gods of force beyond the mortal world.
 
 ## The Natural Truths
 
-| God    | Domain   |
-| ------ | -------- |
-| Tena   | Life     |
-| Erebos | Death    |
-| Jahaad | The Dead |
-| Surtur | Fire     |
-| Oras   | Dreams   |
-| Yagi   | Wonders  |
+This pantheon governs the unbreakable truths of the world. Things that are mystical yet unavoidable, ever changing and ever present.
+
+| God      | Domain   |
+| -------- | -------- |
+| Tena     | Life     |
+| Erebos   | Death    |
+| Jahaad   | The Dead |
+| Surtur   | Fire     |
+| Oras     | Dreams   |
+| Yagi     | Wonders  |
+| Casalina | Love     |
 
 **Religions**: 
 - 
@@ -105,6 +108,8 @@ The Gods of force beyond the mortal world.
 ---
 
 ## The High Truths
+
+TBD
 
 | God    | Domain      |
 | ------ | ----------- |
@@ -122,6 +127,8 @@ The Gods of force beyond the mortal world.
 ---
 ## The Dragon Pantheon
 
+TBD
+
 | God    | Domain  |
 | ------ | ------- |
 | Tiamat | Greed   |
@@ -136,6 +143,8 @@ The Gods of force beyond the mortal world.
 
 ## The Stone Pantheon
 
+TBD
+
 | God      | Domain    |
 | -------- | --------- |
 | Duraadin | Earth     |
@@ -149,6 +158,8 @@ The Gods of force beyond the mortal world.
 ---
 
 ## The Betrayer Gods
+
+TBD
 
 | God      | Domain            |
 | -------- | ----------------- |

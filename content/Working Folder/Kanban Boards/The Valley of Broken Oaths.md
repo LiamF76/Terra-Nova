@@ -1,15 +1,20 @@
 ---
 
-kanban-plugin: list
+kanban-plugin: board
 
 ---
+
+## Session Prepping
+
+- [ ] [[TVBO Session 1 Prep]]
+- [ ] [[The Spire of Virtue]]
+
 
 ## Worldbuilding
 
 - [ ] [[The Valley of Broken Oaths Primer]]
 - [ ] [[TVBO Workshop]]
-- [ ] [[Westwood Valley]]
-- [ ] [[TVBO Session 1 Prep]]
+- [ ] [[Campaign & Quest Ideas]]
 
 
 ## Characters
@@ -18,18 +23,28 @@ kanban-plugin: list
 - [ ] [[Aldros]]
 - [ ] [[Finnick]]
 - [ ] [[Abraham]]
-- [ ] Zaltana Maram
+- [ ] [[Zaltana]]
 	- Governor of Lightbear
+- [ ] [[Zveksa]]
+	- Ethical Lich
+	- Lives in the purple tower
+	- After Egreth, Purple Wizard nearly 400 years
 
 
 ## Locations
 
+- [ ] [[Westwood Valley Map]]
+- [ ] [[Westwood Village]]
 
 
+***
 
+## Archive
+
+- [x] [[TVBO Session 0 Prep]]
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpenText",
       "LiHome",
       "LiBrainCircuit",
       "LiPersonStanding",
-      "LiBinary",
-      "LiFolderCode"
+      "LiBinary"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,6 @@
   "z Needs Sorted": "LiBinary",
   "SoloTTRPG": "LiBrainCircuit",
   "Working Folder": "LiNotebookPen",
-  "Working Folder/Dashboard.md": "LiHome"
+  "Working Folder/Dashboard.md": "LiHome",
+  "Campaigns": "LiBookOpenText"
 }

@@ -1,3 +1,8 @@
+---
+publish: false
+title:
+aliases:
+---
 
 ## Room 1: Entrance Guardian
 
@@ -10,6 +15,10 @@
 TBD
 
 **Enemies**: 
+
+```statblock
+creature: 
+```
 
 ---
 
@@ -48,6 +57,10 @@ TBD
 TBD
 
 **Enemies**: 
+
+```statblock
+creature: 
+```
 
 ---
 

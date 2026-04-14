@@ -45,8 +45,8 @@ Aldros and the Artifact are stuck in the Valley. The party travels through the l
 
 - The players are hired to retrieve the Artifact from [[Aldros]] and bring back the magical protection of the Valley, **BUT** [[Aldros]] has begun a ritual to destroy the magic forever, *THEREFORE* they must reunite it with the grave of the knight who first blessed it to restore its magic.
 - **BUT** the party does not know the holy ritual to restore the holy magic of the artifact *THEREFORE* they must seek out a powerful mage/priest to obtain the knowledge.
-- **BUT** the priest ([[Ciro]])has been kidnapped by a dragon and forced to revere and worship it, granting it magical power, *THEREFORE* the party must defeat or negotiate with the dragon to free [[Ciro]].
-- **BUT** after freeing the priest the party learns he has lost his bond to his God, *THEREFORE* they must help him regain his holy powers by defeating the undead he failed to save a town from.
+- **BUT** the priest ([[Ciro]])has been kidnapped by a Goblin Tribe and forced to revere and worship the Bugbear Warlord, granting it magical power, *THEREFORE* the party must defeat or negotiate to free [[Ciro]].
+- **BUT** after freeing the priest the party learns they must bring the artifact back to the knight's grave to restore its magic, *THEREFORE* they must reach the grave before the valley is destoryed by the impending Triumvirate Scales army.
 
 ### Things to set up prior in the campaign, plot hooks
 
@@ -60,8 +60,13 @@ Aldros and the Artifact are stuck in the Valley. The party travels through the l
 ### Bosses / Acts
 
 - Act 1: Aldros and the stolen artifact
-- Act 2: The dragon and the captured priest
-- Act 3: The priest and the undead
+	- Session 1, start in town, horses and troll quest
+	- Session 2, first job, investigate the artifact's tower, find it missing
+	- Session 3, chase Aldros, defeat him and retrieve the artifact
+- Act 2: The bugbear and the captured priest
+	- Session 4, 
+- Act 3: Restore the artifact's magic
+	- 
 
 ---
 

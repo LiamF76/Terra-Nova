@@ -1,3 +1,12 @@
+---
+publish: true
+title: Cosmology
+aliases:
+  - Stars
+  - Constellations
+  - Planets
+  - Moons
+---
 
 #### Stars:
 - <mark style="background: #FFF3A3A6;">Nova Magnus</mark> (The Sun): The Heart of the Heavens, The central star of Terra-Nova’s solar system, Nova Magnus is more than just a life-giving sun—it is a divine entity. Its surface is said to house **Elysium**, the radiant city of the gods, where celestial beings dwell and watch over creation. Legends say that only the purest souls ascend to Elysium upon death. Nova Magnus shines with a golden light, symbolizing justice, creation, and divine authority. Some cults revere it as the ultimate arbiter of mortal deeds.
