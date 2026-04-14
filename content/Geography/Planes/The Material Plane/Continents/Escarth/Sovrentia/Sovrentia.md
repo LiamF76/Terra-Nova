@@ -152,9 +152,13 @@ See [[Sovrentian Government]] for a full list of members.
 ## **10. Important NPCs**
 
 - **Rulers:** 
+	- 
 - **Faction Leaders:** 
+	- 
 - **Heroes / Villains:** 
+	- 
 - **Scholars / Mages:** 
+	- 
 - **Legends / Mythic Figures:** 
 	- Auranthor, The Golden Hero
 	- 
@@ -164,8 +168,13 @@ See [[Sovrentian Government]] for a full list of members.
 ## **11. Adventure Hooks**
 
 - **Political Hooks:** 
+	- 
 - **Magical Hooks:** 
+	- 
 - **Exploration Hooks:** 
+	- 
 - **Cultural Hooks:** 
+	- 
 - **Threat Hooks:** 
+	- 
 
