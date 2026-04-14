@@ -125,7 +125,7 @@ See [[Sovrentian Government]] for a full list of members.
 
 - **Military Structure:** Multiple private mercenary guilds / military companies. There are no standing armies in Sovrentia that are tied to the government, but they are explicitly permitted as private organizations. The Rising Sun church has a sizable cohort of knights and war priests, and many noble houses have their own decently managed guard regiments. The actual military of Sovrentia though is made up of private mercenary companies and guilds that are contracted by the Parliament when needed.
 - **Elite Units:** 
-	- *Solonix*: Paladins of the Rising Sun
+	- *Solonix*: Paladins of the Rising Sun, powerful holy warriors who carry blessed weapons and armor.
 	- 
 - **Magical Warfare:** 
 - **Defensive Infrastructure:** 
