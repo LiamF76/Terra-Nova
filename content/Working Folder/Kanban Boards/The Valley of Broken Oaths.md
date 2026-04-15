@@ -12,7 +12,6 @@ kanban-plugin: board
 
 ## Worldbuilding
 
-- [ ] [[The Valley of Broken Oaths Primer]]
 - [ ] [[TVBO Workshop]]
 - [ ] [[Campaign & Quest Ideas]]
 
@@ -29,6 +28,9 @@ kanban-plugin: board
 	- Ethical Lich
 	- Lives in the purple tower
 	- After Egreth, Purple Wizard nearly 400 years
+- [ ] [[Bark]]
+	- Spirit of the Valley
+	- Herald of the Wood
 
 
 ## Locations
@@ -42,6 +44,7 @@ kanban-plugin: board
 ## Archive
 
 - [x] [[TVBO Session 0 Prep]]
+- [x] [[The Valley of Broken Oaths Primer]]
 
 %% kanban:settings
 ```
