@@ -123,7 +123,7 @@ An older man with a bald head and wearing decent plate armor sits on the rock, h
 
 Once they interact with the horses, the Troll awakens and reveals it is no boulder. It attacks alongside its pet wolves.
 
-**Enemies**: 1x troll, 2x Wolf
+**Enemies**: 1x troll, 4x Wolf (2 additional summoned during combat by the Troll)
 
 ```statblock
 creature: Wolf
