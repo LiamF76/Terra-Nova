@@ -91,10 +91,8 @@ Each stone bears a different symbol, one representing each of the moons.
 
 *Set the Scene*: Vines peel back as you enter a quiet pocket of the forest, revealing an ancient stone statue of a young man half‑claimed by moss and creeping ivy. Though weathered by a century of rain and roots, the name **Auranthor** can still be read on the cracked plinth, watching you with a serene, forgotten gaze.
 
-His face is young, looking barely 20, but his image was carved to impose a sense of authority, but his face looks forlorn, as if this statue was made long after his days of glory.
-
-Statues of Auranthor are rare in these times, as most have been destoryed by time and erosion. Once he was akin to a living God, according to stories and thsoe who still live from that time period, but now he is nothing more than a fading memory.
-
+His face is young, looking barely 20, but his image was carved to impose a sense of authority, but he looks forlorn, as if this statue was made long after his days of glory. It captured a strange sort of divine melancholy.
+Statues of Auranthor are rare in these times, as most have been destoryed by time and erosion. Once he was akin to a living God, according to stories and those who still live from that time period, but now he is nothing more than a fading memory.
 *Thalia*: You would remember how Augustus' story truly ended, and that he did not give power to Maple, but abandonned his throne after the loss of his powers, and helped to defeat Arkonil, but unable to reconcile his loss of destiny, he disappeared into the Freehold, and was never seen again. Even Alabaster and Melantha could not find him.
 
 ---
