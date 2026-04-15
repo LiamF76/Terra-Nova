@@ -61,8 +61,8 @@ Aldros and the Artifact are stuck in the Valley. The party travels through the l
 
 - Act 1: Aldros and the stolen artifact
 	- Session 1, start in town, horses and troll quest
-	- Session 2, first job, investigate the artifact's tower, find it missing
-	- Session 3, chase Aldros, defeat him and retrieve the artifact
+	- Session 2, attend the festival, meet spirits and townsfolk, another monster attack, get asked to check on the artifact, boss fight at ruins and find it missing
+	- Session 3, 
 - Act 2: The bugbear and the captured priest
 	- Session 4, 
 - Act 3: Restore the artifact's magic
