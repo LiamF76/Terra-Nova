@@ -52,8 +52,7 @@ Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small 
 
 ## **4. Government & Power Structure**
 
-- **Government Type:**  
-    (Monarchy, council, theocracy, magocracy, necrocracy, etc.)
+- **Government Type:**  Dracharchy (Strongest dragons in the nation hold absolute power with no laws or rules other than their will and ability to exercise on their subjects.)
 - **Ruling Body / Leader:** [[Gravebinder]], [[Garthrax]], [[Vesponous]]
 - **Noble Houses / Power Factions:** 
 - **How Magic Influences Politics:** 
