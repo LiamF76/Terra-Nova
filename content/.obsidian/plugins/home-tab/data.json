@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Characters/Dragons/Gravebinder.md",
+      "timestamp": 1776300429276
+    },
+    {
       "filepath": "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
-      "timestamp": 1776298378688
+      "timestamp": 1776300427750
     },
     {
       "filepath": "Characters/Dragons/Garthrax.md",
-      "timestamp": 1776298257882
+      "timestamp": 1776300426360
     },
     {
       "filepath": "z Images/Garthrax-1776298245678.webp",
@@ -38,10 +42,6 @@
     {
       "filepath": "z Images/Garthrax-1776298227354.webp",
       "timestamp": 1776298255965
-    },
-    {
-      "filepath": "z Images/Garthrax-1776298041193.webp",
-      "timestamp": 1776298255319
     }
   ],
   "bookmarkedFileStore": [],
