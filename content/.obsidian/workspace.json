@@ -10,14 +10,72 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Working Folder/Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "d2009df00e9f616a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/General To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "General To-Do"
+            }
+          },
+          {
+            "id": "f723716b776253c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Triumvirate Scales"
+            }
+          },
+          {
+            "id": "a321de054ee648b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Dragons/Garthrax.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Garthrax"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,20 +185,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a321de054ee648b1",
   "lastOpenFiles": [
+    "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
+    "Characters/Dragons/Gravebinder.md",
+    "Characters/Dragons/Vesponous.md",
+    "Working Folder/Kanban Boards/General To-Do.md",
+    "Characters/Dragons/Garthrax.md",
+    "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Characters/Spirits",
-    "Working Folder/Dashboard.md",
     "Characters/Spirits/Bark.md",
     "z Images/Bark-1776213958938.webp",
     "Characters/People/Aldros.md",
     "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
     "dungeons/The Spire of Virtue.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
-    "Working Folder/Kanban Boards/Wiki To-Do.md",
     "Items/Magic Items/Hallowed Artifacts/Hallowed Artifacts.md",
     "conflict-files-obsidian-git.md",
     "Items/Magic Items/Hallowed Artifacts",
@@ -159,9 +221,6 @@
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Valley Map.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Lycost.md",
     "z Images/Lycost-1776123225149.webp",
-    "Geography/Planes/The Material Plane/World Map.md",
-    "Geography/Space/Cosmology.md",
-    "index.md",
     "z Images/The Spire of Virtue-1776034635362.webp",
     "dungeons/Untitled",
     "dungeons/Escarth",

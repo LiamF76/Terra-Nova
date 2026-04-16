@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: list
+kanban-plugin: board
 
 ---
 
@@ -40,10 +40,18 @@ kanban-plugin: list
 	- Iramo
 
 
+## Triumvirate Scales
+
+- [ ] [[The Triumvirate Scales]]
+- [ ] [[Gravebinder]]
+- [ ] [[Garthrax]]
+- [ ] [[Vesponous]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false],"show-checkboxes":true,"full-list-lane-width":false,"show-set-view":true,"lane-width":400}
+{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":true,"full-list-lane-width":false,"show-set-view":true,"lane-width":400}
 ```
 %%
