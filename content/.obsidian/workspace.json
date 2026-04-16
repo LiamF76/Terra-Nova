@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,11 +19,34 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "f749a5dd098cce60",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/General To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "General To-Do"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,11 +156,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f749a5dd098cce60",
   "lastOpenFiles": [
+    "Working Folder/Dashboard.md",
     "History/Histories Videos/The Story of the Uncrowned and Realmcrest.md",
     "Working Folder/Kanban Boards/General To-Do.md",
-    "Working Folder/Dashboard.md",
     "Characters/People/Marvos.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "History/Histories Videos",

@@ -52,6 +52,12 @@ kanban-plugin: board
 
 - [ ] [[The Story of the Uncrowned and Realmcrest]]
 	- Ivar's story narrated by Marvos, Ferran descendant
+- [ ] Triumvirate Scales Wars
+	- Narrated by TBD
+- [ ] Blue Dragonborn
+	- Narrated by TBD
+	- Story about blue dragon's half-dragon son who is a great warrior and dangerous
+- [ ] The Wahellian Curse
 
 
 
