@@ -5,8 +5,6 @@ aliases:
   - The Dragonlands
 ---
 
-
-
 Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small but powerful due to dragon rulers, only mortal inhabitants are followers / servants of the dragons.
 
 # **The Triumvirate Scales**
@@ -52,7 +50,7 @@ Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small 
 
 ## **4. Government & Power Structure**
 
-- **Government Type:**  Dracharchy (Strongest dragons in the nation hold absolute power with no laws or rules other than their will and ability to exercise on their subjects.)
+- **Government Type:**  Dracharchy (absolute draconic rule shared between three Dragon Monarchs. No written law exists beyond their word.)
 - **Ruling Body / Leader:** [[Gravebinder]], [[Garthrax]], [[Vesponous]]
 - **Noble Houses / Power Factions:** 
 - **How Magic Influences Politics:** 
