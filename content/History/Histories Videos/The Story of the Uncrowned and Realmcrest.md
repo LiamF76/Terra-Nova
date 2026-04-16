@@ -32,4 +32,6 @@ Eventually of course, because he loved Ivar like his own son, Ferran broke, and 
 
 Ivar fought Ferran in a rage, took every ounce of willpower the boy had not to kill his adoptive father. He had Adrithyr's rage in his heart too it seemed, but he spared my ancestor thank the Gods. He left Felldoor and took to the wilds of Escarth. The priests will tell you Ivar's rage was so deep it shook the earth itself. The historians will say it was the day Estor's doom was sealed.
 
-Ivar swore vengeance on the very bones of the world, he swore it to every God. The Gods in the heavens didn't answer... but a God from the Abyss did.
+Ivar swore vengeance on the very bones of the world, he swore it to every God. He begged for the strength to kill the Dragon blooded tyrant Adrithyr, he begged for justice, for revenge, and for peace for his siblings those who had died and yet to be born.
+
+The Gods in the heavens didn't answer... but a God from the Abyss did.

@@ -48,10 +48,16 @@ kanban-plugin: board
 - [ ] [[Vesponous]]
 
 
+## History Videos
+
+- [ ] [[The Story of the Uncrowned and Realmcrest]]
+	- Ivar's story narrated by Marvos, Ferran descendant
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":true,"full-list-lane-width":false,"show-set-view":true,"lane-width":400}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true,"full-list-lane-width":false,"show-set-view":true,"lane-width":400}
 ```
 %%
