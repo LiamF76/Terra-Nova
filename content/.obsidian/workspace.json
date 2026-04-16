@@ -25,15 +25,16 @@
             }
           },
           {
-            "id": "d2009df00e9f616a",
+            "id": "b4b97990fe40e9b9",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Working Folder/Kanban Boards/General To-Do.md",
+                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
                     false,
                     false,
                     false
@@ -41,41 +42,11 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "General To-Do"
-            }
-          },
-          {
-            "id": "f723716b776253c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Triumvirate Scales"
-            }
-          },
-          {
-            "id": "dd9ecbb621c6908b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Dragons/Gravebinder.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gravebinder"
+              "title": "The Valley of Broken Oaths"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,28 +156,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dd9ecbb621c6908b",
+  "active": "b4b97990fe40e9b9",
   "lastOpenFiles": [
+    "Working Folder/Dashboard.md",
+    "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
+    "Working Folder/Kanban Boards/General To-Do.md",
+    "Characters/Dragons/Garthrax.md",
+    "Characters/Dragons/Gravebinder.md",
+    "Characters/Dragons/Vesponous.md",
+    "z Images/Vesponous-1776300870324.webp",
+    "z Images/Vesponous-1776300867952.webp",
+    "z Images/Vesponous-1776300841675.webp",
     "z Images/Gravebinder-1776300638628.webp",
     "z Images/Gravebinder-1776300482680.webp",
     "z Images/Gravebinder-1776300469942.webp",
-    "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
-    "Characters/Dragons/Garthrax.md",
     "z Images/Garthrax-1776298292824.webp",
     "z Images/Garthrax-1776298282937.webp",
     "z Images/Garthrax-1776298245678.webp",
     "z Images/Garthrax-1776298227354.webp",
-    "z Images/Garthrax-1776298041193.webp",
-    "Characters/Dragons/Gravebinder.md",
-    "Characters/Dragons/Vesponous.md",
-    "Working Folder/Kanban Boards/General To-Do.md",
-    "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Characters/Spirits",
     "Characters/Spirits/Bark.md",
-    "z Images/Bark-1776213958938.webp",
     "Characters/People/Aldros.md",
     "Campaigns/The Valley of Broken Oaths/The Valley of Broken Oaths Primer.md",
     "dungeons/The Spire of Virtue.md",
@@ -221,13 +193,11 @@
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "History/Timelines/Terra-Nova Master Timeline.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Village.md",
-    "z Images/Westwood Village-1776124094975.webp",
     "Templates/Locations/City Template.md",
     "Templates/Locations/Town Template.md",
     "Templates/Locations",
     "Location Name.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia Provinces/Lightbear/Westwood Valley/Westwood Valley Map.md",
-    "z Images/Lycost-1776123225149.webp",
     "dungeons/Untitled",
     "dungeons/Escarth",
     "Battlemaps/thing.ds.crswap",

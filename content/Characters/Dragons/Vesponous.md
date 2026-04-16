@@ -4,7 +4,9 @@ title:
 aliases:
 ---
 
-![[image.png|300]]
+| Dragon Form                                | Human Form                                 |
+| ------------------------------------------ | ------------------------------------------ |
+| ![[Vesponous-1776300870324.webp\|300x435]] | ![[Vesponous-1776300841675.webp\|300x413]] |
 
 Name: **Vesponous**, The Serpent Queen
 
