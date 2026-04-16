@@ -24,3 +24,11 @@ As they created, the echoes of their consciousness called out into nothing, and 
 
 The first to accept became Illuman, and Shao gave his eldest child the Sun, to shine and show his father all the wonders of their world. Then came Balthazaar, who Shao gave the shadowed and dangerous places that the Sun could not see, so that no shrewd or hidden corner of the world could hide from him. Many more came, and many Gods were born.
 
+For the Gods, Khal made the first people, the Aelarians, and they were grateful children. They revered and worshipped their Divine parents, and loved them.
+
+Then came strife, for Khal had decreed his creations of life so great, they would never end. Shao did not enjoy a game with no end, and instituted rules, that all things must end.
+
+Khal created heretical and rule-breaking beings, Primordials, Aelarians, and Vampires. Shao and his children agreed that Khal had violated the rules, and they captured him.
+
+Shao said to Khal that if he loved so greatly the mortals and souls he had created, he should be with them, and led Khal to the heart of Terra-Nova, beneath the Abyss where Nothing rested, and trapped him there.
+
