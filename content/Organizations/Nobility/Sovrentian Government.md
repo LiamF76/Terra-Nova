@@ -23,7 +23,8 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 
 - #### Ark
 	- **Grand Sun Hierophant**: Rakesh Solivath
-		- 
+		- Dawnkeeper, First Blade of the Hierophant: 
+		-  
 
 - #### Crest
 	- **Prince of Crest**: Gawen Realmcrest

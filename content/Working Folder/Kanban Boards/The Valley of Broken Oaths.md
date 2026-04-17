@@ -14,14 +14,19 @@ kanban-plugin: board
 
 - [ ] [[TVBO Workshop]]
 - [ ] [[Campaign & Quest Ideas]]
+- [ ] [[Promise Stones]]
 
 
 ## Characters
 
 - [ ] [[Ciro]]
+	- Holy magic expert / priest
 - [ ] [[Aldros]]
+	- bad guy
 - [ ] [[Finnick]]
+	- noble / lord / judge
 - [ ] [[Abraham]]
+	- old honorable knight
 - [ ] [[Zaltana]]
 	- Governor of Lightbear
 - [ ] [[Zveksa]]

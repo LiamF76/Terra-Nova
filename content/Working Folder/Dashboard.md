@@ -8,5 +8,5 @@ Welcome to Terra-Nova! This is my Cloud stored Obsidian vault for all things Ter
 # :LiBookAlert: My Boards
 
 > [!note] Quick Navigation
-> ## [[WIki To-Do]] | [[The Valley of Broken Oaths]] | [[Penance Lost PBP]] | [[Rulers of the Maze PBP]] | [[Solo Projects]] | 
+> ## [[General To-Do]] | [[The Valley of Broken Oaths]] | [[Penance Lost PBP]] | [[Rulers of the Maze PBP]] | [[Solo Projects]] | 
 

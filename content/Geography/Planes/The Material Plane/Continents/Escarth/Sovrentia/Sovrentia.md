@@ -153,7 +153,7 @@ See [[Sovrentian Government]] for a full list of members.
 ## **10. Important NPCs**
 
 - **Rulers:** 
-	- 
+	- See [[Sovrentian Government]]
 - **Faction Leaders:** 
 	- 
 - **Heroes / Villains:** 
