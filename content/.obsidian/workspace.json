@@ -23,8 +23,30 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "83712717bb6789a9",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/General To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "General To-Do"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,11 +156,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "83712717bb6789a9",
   "lastOpenFiles": [
-    "Working Folder/Kanban Boards/General To-Do.md",
-    "Working Folder/Kanban Boards/Worldbuilding Board.md",
     "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/Worldbuilding Board.md",
+    "Working Folder/Kanban Boards/General To-Do.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/Play by Post/Penance Lost/Penance Lost.md",
     "Working Folder/Kanban Boards/Penance Lost PBP.md",
