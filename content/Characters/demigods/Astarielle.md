@@ -13,9 +13,12 @@ aliases:
 Name: **Astarielle Veil**, Astar Arthur, Lady Spacetime
 
 Voice: Voice Description
-- Example Dialogue
+- "If there is magic left anywhere in this world it is here, where my father slew the Devil, and where Gods were born."
+- "I will fall before Tamora does, and the children of the Devilmoon do not fall."
+- 
 
 Description: Appearance & vibe description
 
 Important Info: 
-- Connections, Abilities, Secrets
+- Leader of the last school of magic in Southern Escarth, [[Tamora]].
+- 

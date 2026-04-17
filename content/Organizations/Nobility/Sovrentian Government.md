@@ -4,7 +4,7 @@ title: Sovrentian Government
 aliases:
 ---
 
-This is a breakdown of the full Sovrentian Government, organized by Province/parliament members. Leaders of each province are also the leaders of the capital cities of that region.
+This is a breakdown of the full Sovrentian Government, organized by Province/parliament members. Leaders of each province are also the leaders of the capital cities of that region. Notably, the Sovrentian Government does not grant a seat to the leader of the Ark province.
 
 # Parliament & Sovereign
 
@@ -22,14 +22,19 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 # Provinces
 
 - #### Ark
-	- **Grand Sun Hierophant**: Rakesh Solivath
-		- Dawnkeeper, First Blade of the Hierophant: 
-		-  
+	- **Ark Magus of Tamora**: [[Astarielle]]
+		- *First Drawn of Tamora*: [[Makhel]]
+		- 
 
 - #### Crest
 	- **Prince of Crest**: Gawen Realmcrest
 		- *First Crestblade*: [[Thalanil]] Realmcrest
 		- 
+
+- #### Goldridge
+	- **Grand Sun Hierophant**: Rakesh Solivath
+		- *Dawnkeeper, First Blade of the Hierophant*: 
+		-  
 
 - #### Hearth
 	- **Governor of Hearth**: 
