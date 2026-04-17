@@ -23,30 +23,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "5b04d2eb5a218fd1",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,8 +134,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5b04d2eb5a218fd1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Working Folder/Kanban Boards/General To-Do.md",
+    "Working Folder/Kanban Boards/Worldbuilding Board.md",
     "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/Play by Post/Penance Lost/Penance Lost.md",
@@ -167,12 +147,10 @@
     "Organizations/Nobility/Sovrentian Government.md",
     "Makhel.md",
     "Characters/Demigods/Astarielle.md",
-    "Working Folder/Kanban Boards/Worldbuilding Board.md",
     "Tamora.md",
     "z Images/Makhel-1776406577727.webp",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
     "The Reckoner's Grave.md",
-    "Working Folder/Kanban Boards/General To-Do.md",
     "conflict-files-obsidian-git.md",
     "History/Histories Videos/The Triumvirate Scales Wars.md",
     "History/Histories Videos/The Story of the Uncrowned and Realmcrest.md",
