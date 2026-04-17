@@ -18,4 +18,5 @@ Voice: Voice Description
 Description: Appearance & vibe description
 
 Important Info: 
-- Connections, Abilities, Secrets
+- Leader of the last school of magic in Southern Escarth, [[Tamora]].
+- 

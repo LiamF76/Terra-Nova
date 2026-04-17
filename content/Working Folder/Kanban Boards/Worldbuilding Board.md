@@ -21,21 +21,28 @@ kanban-plugin: board
 
 ## Places
 
-- [ ] Magic Academy
+- [ ] [[Tamora]]
 	- last magic academy in Escarth
 	- location?
 	- study focus?
 	- quality?
-- [ ] The Reckoner's Grave
+- [ ] [[The Reckoner's Grave]]
 	- Site of Kairos / Arkonil's sealing
 	- Great stone monument built around the statue
 	- seen as a site for pilgrimage, people pay their respect to the Young Wolves who protected the world
+
+
+## People
+
+- [ ] [[Makhel]]
+	- Spellblade of Tamora
+	- Powerful warrior
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,false]}
+{"kanban-plugin":"board","list-collapse":[null,false,false]}
 ```
 %%
