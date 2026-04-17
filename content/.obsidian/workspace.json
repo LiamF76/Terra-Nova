@@ -23,8 +23,28 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "00cb87d22728e9a6",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/Worldbuilding Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    null,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Worldbuilding Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +154,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "00cb87d22728e9a6",
   "lastOpenFiles": [
     "Working Folder/Dashboard.md",
     "conflict-files-obsidian-git.md",
