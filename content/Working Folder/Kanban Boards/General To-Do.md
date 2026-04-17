@@ -59,6 +59,8 @@ kanban-plugin: board
 	- Story about blue dragon's half-dragon son who is a great warrior and dangerous
 - [ ] The Wahellian Curse
 - [ ] Fading Magic
+	- Narrated by TBD
+	- The scars and magic fading
 
 
 
