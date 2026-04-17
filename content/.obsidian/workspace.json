@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,34 +18,11 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "83712717bb6789a9",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/General To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "General To-Do"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,10 +132,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "83712717bb6789a9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "History/History Videos/Scales and Swords.md",
     "Working Folder/Kanban Boards/General To-Do.md",
+    "History/History Videos/Scales and Swords.md",
     "History/History Videos/Fading Wonder.md",
     "History/History Videos/The Paragon.md",
     "History/History Videos/Son of the Storm Queen.md",
