@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,11 +19,34 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "5b04d2eb5a218fd1",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,11 +156,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5b04d2eb5a218fd1",
   "lastOpenFiles": [
-    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Campaigns/Play by Post/Penance Lost/Penance Lost.md",
+    "Working Folder/Kanban Boards/Penance Lost PBP.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
     "Organizations/Nobility/Sovrentian Government.md",
     "Makhel.md",
     "Characters/Demigods/Astarielle.md",
@@ -154,14 +181,12 @@
     "History/History Docs/The Creation of Terra-Nova.md",
     "z Images/The Creation of Terra-Nova-1776377134697.webp",
     "Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Promise Stones.md",
     "Characters/People/Zveksa.md",
     "Characters/People/Zaltana.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
     "Characters/Dragons/Garthrax.md",
     "Characters/Dragons/Gravebinder.md",
-    "Characters/Dragons/Vesponous.md",
     "z Images/Vesponous-1776300870324.webp",
     "z Images/Vesponous-1776300867952.webp",
     "z Images/Vesponous-1776300841675.webp",

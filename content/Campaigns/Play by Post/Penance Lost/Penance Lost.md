@@ -29,3 +29,4 @@ Ancient Guardian, Emrys and Tancred accidentally awaken it on the road, have to 
 Emrys awakens in the middle of a thunder storm during fall, cold rain and strong wind follow the heavy rain. He is woken by a dog licking his cheek. The rain is strong, the dog walks away, stops and waits for Emrys, then continues through the field as if leading him.
 
 The Dog wants Emrys to follow him, leads Emrys to a farmstead. [[Tancred]] inside who is surprised but offers him a blanket and to sit by the fire and dry off. 
+
