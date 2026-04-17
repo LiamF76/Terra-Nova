@@ -4,27 +4,28 @@ kanban-plugin: board
 
 ---
 
-## Triumvirate Scales
-
-- [ ] [[The Triumvirate Scales]]
-- [ ] [[Gravebinder]]
-- [ ] [[Garthrax]]
-- [ ] [[Vesponous]]
-
-
 ## History Videos
 
 - [ ] [[The Story of the Uncrowned and Realmcrest]]
 	- Ivar's story narrated by Marvos, Ferran descendant
 - [ ] Triumvirate Scales Wars
 	- Narrated by TBD
-- [ ] Blue Dragonborn
+- [ ] [[Son of the Storm Queen]]
 	- Narrated by TBD
 	- Story about blue dragon's half-dragon son who is a great warrior and dangerous
 - [ ] The Wahellian Curse
 - [ ] Fading Magic
 	- Narrated by TBD
 	- The scars and magic fading
+
+
+## Triumvirate Scales
+
+- [ ] [[The Triumvirate Scales]]
+- [ ] [[Gravebinder]]
+- [ ] [[Garthrax]]
+- [ ] [[Vesponous]]
+- [ ] [[Lanxaad]]
 
 
 ## Places
