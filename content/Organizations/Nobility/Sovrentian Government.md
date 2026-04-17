@@ -29,6 +29,7 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 - #### Crest
 	- **Prince of Crest**: Gawen Realmcrest
 		- *First Crestblade*: [[Thalanil]] Realmcrest
+		- 
 
 - #### Goldridge
 	- **Grand Sun Hierophant**: Rakesh Solivath
