@@ -50,6 +50,7 @@ kanban-plugin: board
 - [ ] [[Makhel]]
 	- Spellblade of Tamora
 	- Powerful warrior
+- [ ] Rakesh
 
 
 ## Wiki
