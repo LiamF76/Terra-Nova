@@ -26,6 +26,10 @@ kanban-plugin: board
 	- location?
 	- study focus?
 	- quality?
+- [ ] The Reckoner's Grave
+	- Site of Kairos / Arkonil's sealing
+	- Great stone monument built around the statue
+	- seen as a site for pilgrimage, people pay their respect to the Young Wolves who protected the world
 
 
 
