@@ -8,15 +8,19 @@ kanban-plugin: board
 
 - [ ] [[The Story of the Uncrowned and Realmcrest]]
 	- Ivar's story narrated by Marvos, Ferran descendant
-- [ ] Triumvirate Scales Wars
+- [ ] [[Scales and Swords]]
 	- Narrated by TBD
+	- History of the Triumvirate Scales Wars
 - [ ] [[Son of the Storm Queen]]
-	- Narrated by TBD
+	- Narrated by Abraham the Sword Oracle, narrator is a rival who greatly respects his rival's skill
 	- Story about blue dragon's half-dragon son who is a great warrior and dangerous
-- [ ] The Wahellian Curse
-- [ ] Fading Magic
-	- Narrated by TBD
+- [ ] [[Fading Wonder]]
+	- Narrated by Rakesh of the Rising Sun
 	- The scars and magic fading
+- [ ] [[The Paragon]]
+	- Narrated by Finnick, highly skeptical of the religion / net good, but clearly assesses the strength
+	- Talks about Horus Hixs and his holy empire
+	- comments on the constant diplomacy and military push for control of the Ark province
 
 
 ## Triumvirate Scales
