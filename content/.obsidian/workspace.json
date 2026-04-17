@@ -23,28 +23,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "49945f7fdce427f9",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/Worldbuilding Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Worldbuilding Board"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,10 +134,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "49945f7fdce427f9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/Worldbuilding Board.md",
+    "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/General To-Do.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "conflict-files-obsidian-git.md",
