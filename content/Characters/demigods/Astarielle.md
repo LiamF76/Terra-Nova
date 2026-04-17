@@ -13,7 +13,8 @@ aliases:
 Name: **Astarielle Veil**, Astar Arthur, Lady Spacetime
 
 Voice: Voice Description
-- Example Dialogue
+- "If there is magic left anywhere in this world it is here, where my father slew the Devil, and where Gods were born."
+- 
 
 Description: Appearance & vibe description
 
