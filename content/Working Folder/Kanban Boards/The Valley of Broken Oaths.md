@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[TVBO Session 1 Prep]]
 - [ ] [[The Spire of Virtue]]
+- [ ] [[TVBO Player Characters]]
 
 
 ## Worldbuilding
