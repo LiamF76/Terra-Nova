@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
@@ -134,11 +136,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Organizations/Nobility/Sovrentian Government.md",
-    "Organizations/Divine Groups/Divine Champions.md",
+    "Campaigns/The Valley of Broken Oaths/Player Characters/Lazlo.md",
+    "Campaigns/The Valley of Broken Oaths/Player Characters/Jerran.md",
     "Working Folder/Kanban Boards/General To-Do.md",
-    "Characters/Figures of Today.md",
+    "Campaigns/The Valley of Broken Oaths/Player Characters/Donna.md",
+    "Organizations/Nobility/Sovrentian Government.md",
+    "Campaigns/The Valley of Broken Oaths/Player Characters",
     "Working Folder/Dashboard.md",
+    "Organizations/Divine Groups/Divine Champions.md",
+    "Characters/Figures of Today.md",
     "Characters/People/Maro.md",
     "z Images/Maor-1776524593929.webp",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
@@ -159,10 +165,7 @@
     "Campaigns/Play by Post/Penance Lost/Penance Lost.md",
     "Working Folder/Kanban Boards/Penance Lost PBP.md",
     "Characters/People/Makhel.md",
-    "Characters/Demigods/Astarielle.md",
-    "Tamora.md",
     "z Images/Makhel-1776406577727.webp",
-    "The Reckoner's Grave.md",
     "History/History Videos",
     "z Images/The Creation of Terra-Nova-1776377134697.webp",
     "z Images/Vesponous-1776300870324.webp",
@@ -179,7 +182,6 @@
     "dungeons/Untitled",
     "dungeons/Escarth",
     "Battlemaps/thing.ds.crswap",
-    "Battlemaps/thing.ds",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
   ]

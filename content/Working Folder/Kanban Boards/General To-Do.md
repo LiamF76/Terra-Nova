@@ -57,6 +57,7 @@ kanban-plugin: board
 
 ## Wiki
 
+- [ ] [[Sovrentian Government]]
 - [ ] [[Sovrentia]]
 	- priority 1, do all your worldbuilding, unless great inspiration strikes WORK ON THIS!
 - [ ] Update Homepage: [[index]]
