@@ -77,9 +77,6 @@ kanban-plugin: board
 - [ ] Races: [[Races of Terra-Nova]]
 	- create entries for all players races
 	- checklist [[Races Checklist]]
-- [ ] Important People
-	- [[Figures of Today]]
-	- [[Figures of History]]
 - [ ] [[Figures of Today]]
 	- Wizard Council Members
 	- Ruler of Sovrentia
