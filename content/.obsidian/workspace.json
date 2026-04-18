@@ -46,36 +46,6 @@
             }
           },
           {
-            "id": "1c610df0f9fbbe52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Session 1 Prep"
-            }
-          },
-          {
-            "id": "13c9136ab87a162f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Workshop"
-            }
-          },
-          {
             "id": "ef0ce6993d968ccb",
             "type": "leaf",
             "state": {
@@ -201,12 +171,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1c610df0f9fbbe52",
+  "active": "ef0ce6993d968ccb",
   "lastOpenFiles": [
-    "Working Folder/Dashboard.md",
-    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
+    "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Player Characters.md",
     "Working Folder/Kanban Boards/General To-Do.md",
     "Organizations/Nobility/Sovrentian Government.md",
