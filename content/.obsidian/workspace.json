@@ -23,60 +23,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "1da759536b0c693b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/General To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "General To-Do"
-            }
-          },
-          {
-            "id": "a7bc09378a5ca810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/Nobility/Sovrentian Government.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sovrentian Government"
-            }
-          },
-          {
-            "id": "2978e2673274d6d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/History Videos/Fading Wonder.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Fading Wonder"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,11 +134,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1da759536b0c693b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Working Folder/Kanban Boards/General To-Do.md",
     "Organizations/Nobility/Sovrentian Government.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
-    "Working Folder/Kanban Boards/General To-Do.md",
     "History/History Videos/Fading Wonder.md",
     "Working Folder/Dashboard.md",
     "History/History Videos/Son of the Storm Queen.md",
