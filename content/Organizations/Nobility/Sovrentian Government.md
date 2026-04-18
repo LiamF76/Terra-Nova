@@ -20,38 +20,66 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 ---
 
 # Provinces
+ 
+#### Ark
+- **Ark Magus of Tamora**: [[Astarielle]]
+	- *First Drawn of Tamora*: [[Makhel]]
+	- 
 
-- #### Ark
-	- **Ark Magus of Tamora**: [[Astarielle]]
-		- *First Drawn of Tamora*: [[Makhel]]
-		- 
+TBD
 
-- #### Crest
-	- **Prince of Crest**: Gawen Realmcrest
-		- *First Crestblade*: [[Thalanil]] Realmcrest
-		- 
+---
 
-- #### Goldridge
-	- **Grand Sun Hierophant**: Rakesh Solivath
-		- *Dawnkeeper, First Blade of the Hierophant*: 
-		-  
+#### Crest
+- **Prince of Crest**: Gawen Realmcrest
+	- *First Crestblade*: [[Thalanil]] Realmcrest
+	- 
 
-- #### Hearth
-	- **Governor of Hearth**: 
-		- 
+TBD
 
-- #### Jasage
-	- **Archdruid of Tena**: Ryfon Al-Ryfiri Evergreen
-		- *Guardian of Druidica*: Elioenai Al-Ryfiri
-		- 
+---
 
-- #### Kheagon
-	- **Prince of Kheagon**: Kensa Ferran
-		- *Lord of Tarnkeep*: Haemal Tarn
-		- *Steward of Silversong*: 
-		- 
+#### Goldridge
+- **Grand Sun Hierophant**: Rakesh Solivath
+	- *Dawnkeeper, First Blade of the Hierophant*: 
+	- Dusk
 
-- #### Lightbear
-	- **Governor of Lightbear**: [[Zaltana]] Maram
-		- *Judge of Westwood*: [[Finnick]] Ascian
-		- 
+Goldridge is the capital province of Sovrentia. It's government is a Theocracy, where the leader is chosen by the current Champion of Illuman. 
+
+---
+
+#### Hearth
+- **Governor of Hearth**: 
+	- 
+
+TBD
+
+---
+
+#### Jasage
+- **Archdruid of Tena**: Ryfon Al-Ryfiri Evergreen
+	- *Guardian of Druidica*: Elioenai Al-Ryfiri
+	- 
+
+TBD
+
+---
+
+#### Kheagon
+**Prince of Kheagon**: Kensa Ferran
+- *Lord of Tarnkeep*: Haemal Tarn
+- *Steward of Silversong*: 
+- 
+
+TBD
+
+---
+
+#### Lightbear
+- **Governor of Lightbear**: [[Zaltana]] Maram
+	- *Judge of Westwood*: [[Finnick]] Ascian
+	- 
+
+TBD
+
+---

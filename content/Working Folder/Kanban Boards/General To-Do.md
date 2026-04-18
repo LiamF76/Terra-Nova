@@ -51,6 +51,8 @@ kanban-plugin: board
 	- Spellblade of Tamora
 	- Powerful warrior
 - [ ] Rakesh
+- [ ] [[Maro]]
+	- Champion of Illuman
 
 
 ## Wiki
