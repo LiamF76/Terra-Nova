@@ -9,6 +9,6 @@ Voice: robotic, slightly off pace, like TTS
 
 Description: A simple steel warforged, a labor class unit, wearing tan and yellow robes with a few armor plantings on his shoulders, chest, and hips. On his back is a large Illumanic cross, and he carries a shortsword on his hip, for desperate situations.
 
-Important Info: Member of the [[The Fractal Oath]], Priest of Illuman. Working as a humanitarian in Arkonia. Friend and ally to Lorne and the Young Wolves. Protector and devout friend to [[Thalia]] Brightheart. He stands against Arkonil as a missionary and follower of Illuman, and seeks to usurp Ivar and pass the throne of Arkonia to Thalia. He believes Thalia was chosen by Illuman to rule Arkonia after Ivar's passing and deliver its people from darkness.
+Important Info: Member of the [[The Fractal Oath]], Priest of Illuman. Working as a humanitarian in Arkonia. Friend and ally to Lorne and the Young Wolves. Protector and devout friend to [[Characters/People/Thalia]] Brightheart. He stands against Arkonil as a missionary and follower of Illuman, and seeks to usurp Ivar and pass the throne of Arkonia to Thalia. He believes Thalia was chosen by Illuman to rule Arkonia after Ivar's passing and deliver its people from darkness.
 
 Statblock: [[solace.png]]
