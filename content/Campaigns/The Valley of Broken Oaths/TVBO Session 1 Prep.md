@@ -58,10 +58,10 @@ creature: Ogre
 
 Ogre HP:
 - [x] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
 - [ ] 
 
 **Post Battle**: Scared George (stablekeep) talks to the party, says Kobolds came with the Ogre, some ran off and stole his finest horses. He needs those purebred horses as offerings and for sale at the festival or he won't be able to survive the winter. He says a troll made off with the horses, and he points out tracks they can follow. 
