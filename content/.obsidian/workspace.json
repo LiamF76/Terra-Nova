@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
@@ -134,9 +136,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Working Folder/Dashboard.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/General To-Do.md",
     "Organizations/Divine Groups/Divine Champions.md",
     "Characters/Figures of Today.md",
