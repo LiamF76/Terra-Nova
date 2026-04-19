@@ -25,27 +25,6 @@
             }
           },
           {
-            "id": "4cc9c531b7ebeac9",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/General To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "General To-Do"
-            }
-          },
-          {
             "id": "d2c015f1b2ea1053",
             "type": "leaf",
             "state": {
@@ -61,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,20 +152,21 @@
   },
   "active": "d2c015f1b2ea1053",
   "lastOpenFiles": [
+    "Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
+    "Campaigns/The Valley of Broken Oaths/Player Characters/Sobek.md",
+    "Resources/Gameplay Resources/Languages.md",
+    "Campaigns/The Valley of Broken Oaths/Player Characters/Lazlo.md",
+    "Campaigns/The Valley of Broken Oaths/Player Characters/Jerran.md",
+    "Campaigns/The Valley of Broken Oaths/Player Characters/Donna.md",
+    "Campaigns/The Valley of Broken Oaths/Player Characters/Bindi.md",
     "Working Folder/Kanban Boards/General To-Do.md",
     "Working Folder/Dashboard.md",
-    "Campaigns/The Valley of Broken Oaths/Player Characters/Sobek.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 1 Prep.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Organizations/Divine Groups/Divine Champions.md",
     "Characters/Figures of Today.md",
     "Characters/People/TBD.md",
     "z Images/TBD-1776545101159.webp",
-    "Campaigns/The Valley of Broken Oaths/Player Characters/Bindi.md",
-    "Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
-    "Campaigns/The Valley of Broken Oaths/Player Characters/Lazlo.md",
-    "Campaigns/The Valley of Broken Oaths/Player Characters/Jerran.md",
-    "Campaigns/The Valley of Broken Oaths/Player Characters/Donna.md",
     "Organizations/Nobility/Sovrentian Government.md",
     "Campaigns/The Valley of Broken Oaths/Player Characters",
     "Characters/People/Maro.md",
