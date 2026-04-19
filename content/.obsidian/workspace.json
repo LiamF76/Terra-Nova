@@ -10,11 +10,18 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Working Folder/Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -129,11 +136,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Campaigns/The Valley of Broken Oaths/Player Characters/Jerran.md",
+    "Working Folder/Dashboard.md",
     "Resources/Gameplay Resources/Languages.md",
     "Campaigns/The Valley of Broken Oaths/Player Characters/Lazlo.md",
-    "Working Folder/Dashboard.md",
     "Campaigns/The Valley of Broken Oaths/Player Characters/Sobek.md",
-    "Campaigns/The Valley of Broken Oaths/Player Characters/Jerran.md",
     "Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
     "Campaigns/The Valley of Broken Oaths/Player Characters/Donna.md",
     "Campaigns/The Valley of Broken Oaths/Player Characters/Bindi.md",
