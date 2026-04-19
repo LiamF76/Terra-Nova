@@ -87,6 +87,7 @@ kanban-plugin: board
 	- Escarth (high prio as it is the current campaign setting)
 	- Ikon
 	- Iramo
+- [ ] [[Languages]]
 
 
 

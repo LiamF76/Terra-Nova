@@ -31,6 +31,12 @@ This is a list of all languages in Terra-Nova. Listed are the languages and belo
 	- Giant's Tongue
 	- Dwarvish
 - **Goblin**
-	- Orc
+	- Gobbish
+	- Orcish
 - **Beast-Speech**
+	- Wahellian
+	- Lazurian
+	- Drok'Shari
+- **Druidic**
+	- Ryfiri 
 
