@@ -39,4 +39,5 @@ This is a list of all languages in Terra-Nova. Listed are the languages and belo
 	- Drok'Shari
 - **Druidic**
 	- Ryfiri 
+	- Talayan
 
