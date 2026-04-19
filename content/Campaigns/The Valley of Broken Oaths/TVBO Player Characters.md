@@ -4,10 +4,10 @@ title:
 aliases:
 ---
 
-Audrey: Sobek
-Chance: 
-Donna: 
-Grey: Thalia
-Hannah: Bindi
-Hunter: Jerran
+Audrey: [[Sobek]]
+Chance: [[Lazlo]]
+Donna: [[Donna]]
+Grey: [[Characters/People/Thalia|Thalia]]
+Hannah: [[Bindi]]
+Hunter: [[Jerran]]
 
