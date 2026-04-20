@@ -44,7 +44,7 @@ He chuckles in a highborn accent, how does a laugh even have an accent? Its damn
 
 "It saved you from losing your arm, but the infection will still spread through the blood. We must stop the flow, and you are lucky a Tarn is here to do it."
 
-His eyes meet mine, and a spectral glint falls over them, like light passing through a crystal. "My family is a sorcerous bloodline, our ancestry is magic, there are few left with this power. We are born of the great basilisk, Rocsu. I can turn, " he says, running his finger gently along the upper limit of my curse, just below the elbow joint. "all of this, to stone. Enchanted stone. You will be able to move it, it will be just as it was, perhaps stronger."
+His eyes meet mine, and a spectral glint falls over them, like light passing through a crystal. "My family is a sorcerous bloodline, our ancestry is magic, there are few left with this power. We are born of the great basilisk, Thauxxos. I can turn, " he says, running his finger gently along the upper limit of my curse, just below the elbow joint. "all of this, to stone. Enchanted stone. You will be able to move it, it will be just as it was, perhaps stronger."
 
 I raise an eyebrow at the offer, "What's the catch then?" Knowing this is too good to be true.
 
