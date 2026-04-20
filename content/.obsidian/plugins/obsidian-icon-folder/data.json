@@ -36,7 +36,6 @@
   },
   "videos": "LiTv",
   "Spells": "LiBook",
-  "Real Books": "LiBookKey",
   "Organizations": "LiGroup",
   "MTG Cards": "LiIdCard",
   "Items": "LiBoxes",
@@ -57,5 +56,6 @@
   "SoloTTRPG": "LiBrainCircuit",
   "Working Folder": "LiNotebookPen",
   "Working Folder/Dashboard.md": "LiHome",
-  "Campaigns": "LiBookOpenText"
+  "Campaigns": "LiBookOpenText",
+  "Books": "LiBookKey"
 }

@@ -41,7 +41,7 @@ He has the wide-set eyes and pointed ears of an Elf, but his face is shorter and
 
 Alcor gives a respectful bow at the waist, Petlia and I begin to follow, but Lord Tarn raises his hand dismissing the gesture.
 
-"I have no need for bows today. Business calls, and I have a job for you. Alcor the Golden Dragonborn and his guards, your caravan is regarded highly by everyone I have asked. I should like to see some proof of that. There is something of value I need delivered, discreetly and safely." He waves his hand again, the pair of guards and his servant bow and exit quickly before he continues. "But before I give your troupe the chance for that job, I want some proof of your capability. I will pay you a small sum for the test, and a substantial one for completion of the next."
+"I have no need for bows today. Business calls, and I have a job for you. Alcor the Golden Dragonborn and his guards, your caravan is regarded highly by everyone I have asked. I should like to see some proof of that. There is something of value I need delivered, discreetly and safely." He waves his hand again, his soldiers and his servant bow and exit quickly before he continues. "But before I give your troupe the chance for that job, I want some proof of your capability. I will pay you a small sum for the test, and a substantial one for completion of the next."
 
 Ashe speaks he runs his hand along his pale forehead, and back into his red hair. The Tarn family are tied to these mountains dating back a hundred years or more, but his voice is less rock and more crystal. Its jagged and shining, like it grabs your attention and holds it while he speaks.
 
