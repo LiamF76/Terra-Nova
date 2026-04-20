@@ -95,5 +95,15 @@ I stand and catch my breath, jogging towards my shield as I look for Lukas, his 
 
 "Lukas! Lukas! I'm coming!" I shout, grabbing my shield and charging towards the group of them, my feet fire up the steps of the tomb. I am just about to reach the large undead and help Petlia when I see a flash, a strange flash of darkness, and then it is flying towards me.
 
-A barrage of spectral skulls, gnawing teeth and laughing, flies towards me at rapid speed. I am terrified, but am able to raise my shield in time. The impact feels like I have been punched in the head. I am spinning. My body tumbles down the stairs and my shield is shattered. There is a fearful scream, Lukas... he is calling out to me. He's begging me to be alive.
+A barrage of spectral skulls, gnawing teeth and laughing, flies towards me at rapid speed. I am terrified, but am able to raise my shield in time. The impact feels like I have been punched in the head. I am spinning. My body tumbles down the stairs and my shield is shattered. There is a fearful scream, Lukas... he is calling out to me. He's begging me to be alive. Damn it Petlia I am trying.
+
+My body feels tired, like my energy was ripped right out of my arms and legs. I put my palms on the cold dusty stone floor and push myself up, my right hand... it's numb. I can barely feel my body, and as my hearing comes back slowly, I hear a sputtering cough. Lukas.
+
+The big skeleton has him, a black iron spear laced with rust is protruding from Lukas' side, he's in bad shape. I shout, half a battle cry half in terror, he can't die here. I need him.
+
+My shield is gone, but I snatch up my sword and try up the steps again, it feels like climbing a mountain. My stamina is failing, and quickly. I need to end this before that wound on Lukas has time to fester. He needs a healer, and we both need to get out of this tomb.
+
+The skeleton meets me, and thanks to Lukas, its slow, he hurt it. I dodge its first swing, a huge bony hand flying past my head, and as the arm soars past I make my blade sing, driving it into the leg, the whole beast tumbles forward, I use its own weight to catapult it down the stairs. Its not dead, but it will be, if I can stop the mage I can take down both at once.
+
+'Kill a necromancer, and the things he summons die too.' Old man knew his stuff, it was helpful advice before we entered the Tarn crypt.
 
