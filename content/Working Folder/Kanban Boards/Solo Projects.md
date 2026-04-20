@@ -10,16 +10,21 @@ kanban-plugin: board
 - [ ] [[The Sparrow Knight Chapter 4]]
 
 
+## Tales from Terra-Nova
+
+- [ ] [[Tales from Terra-Nova]]
+
+
 ## Solo Projects
 
 - [ ] [[Character Building Challenge]]
-- [ ] [[Tales from Terra-Nova]]
+- [ ] [[Books]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
