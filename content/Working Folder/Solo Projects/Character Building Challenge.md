@@ -1,13 +1,11 @@
 
-This is where I am doing a character building challenge. I want to make a character using every D&D class. I will try to make them using subclasses I have never played as well. I am trying not to reuse ideas, but may if they haven't been played yet.
+This is where I am doing a character building challenge. I want to make a character using every D&D class. I will try to make them using subclasses I have never played as well. I am trying not to reuse ideas, but may if they haven't been played yet. I also intend to write a short story or novel about their backstories, because its fun.
 
 ---
 
 ## Artificer / Cartographer
 #### Race
 #### Name
-
-![[Pasted image 20260227231148.png | 300]]
 
 "Quote"
 
