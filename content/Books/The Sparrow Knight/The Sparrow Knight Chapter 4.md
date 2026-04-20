@@ -35,7 +35,7 @@ It seems Lord Tarn of Tarnkeep has a different approach, as we are led by his se
 
 It's a cozy workspace, a large stone desk, many bookshelves lined with business ledgers and rare books. Alcor would like to get his hands on something like this someday, a place, solid on the ground, somewhere that shows his prestige and respect in the merchants world.
 
-Lord Tarn commands respect in a high degree,  but from  an entirely different angle. If you tell me his family are still Princes and Masters of Kheagon, I would believe you, he has the look of royalty, he could be the Sovereign for Tena's sake.
+Lord Tarn commands respect in a high degree, but from an entirely different angle. If you tell me his family are still Princes and Masters of Kheagon, I would believe you, he has the look of royalty, he could be the Sovereign for Tena's sake.
 
 He has the wide-set eyes and pointed ears of an Elf, but his face is shorter and his hair more fiery like a human's, a Half-Elf. His regal red vest and finely pressed shirt completed the Kingly look nicely, and I couldn't help but admit that he was handsome with a raised eyebrow and smirk from Alcor.
 
@@ -47,3 +47,6 @@ Ashe speaks he runs his hand along his pale forehead, and back into his red hair
 
 Alcor wrings his scaled hands eagerly, "I will need to discuss numbers, but so long as you meet our Mile-Rate, I am happy to fulfill any requirement, and of course I would hope that this healthy compensation would be accompanied by a sealed letter of recommendation."
 
+I can practically feel the money radiating off Lord Tarn in waves, and Alcor soaking it up like a sponge. Lord Tarn nods inna royal manner, knowing he has stuck Alcor for what both men believe to be a bargain against the other, and they shake hands.
+
+It takes immense effort, but I hold in a disappointed sigh, having not the faintest idea what great peril Alcor has signed me up for. 
