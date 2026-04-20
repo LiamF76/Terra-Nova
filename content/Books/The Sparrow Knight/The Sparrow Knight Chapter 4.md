@@ -49,4 +49,11 @@ Alcor wrings his scaled hands eagerly, "I will need to discuss numbers, but so l
 
 I can practically feel the money radiating off Lord Tarn in waves, and Alcor soaking it up like a sponge. Lord Tarn nods inna royal manner, knowing he has stuck Alcor for what both men believe to be a bargain against the other, and they shake hands.
 
-It takes immense effort, but I hold in a disappointed sigh, having not the faintest idea what great peril Alcor has signed me up for. 
+It takes immense effort, but I hold in a disappointed sigh, having not the faintest idea what great peril Alcor has signed me up for. With as much respect as I can muster, I take a couple short steps forward, making sure to track a bit of the rain from my boots onto the carpet, "So what exactly are Petlia and I supposed to do for you, Lord Tarn?"
+
+He smiles at me, with that rich noble smile of someone who is about to leave all the hard parts to someone far more capable and expendable than themselves.
+
+---
+
+Lukas and I had always differed on armor. While I carried a shield, he preferred a dual handed weapon, and where I wore medium and more maneuverable armor, Petlia always chose heavy metal plate. Today though, as he clanged and clinked down the halls of the cave I could feel his eyes jealously watching me from behind.
+
