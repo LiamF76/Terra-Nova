@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,10 +170,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b290f400afc84b0b",
+  "active": "975bd89a1dc9f248",
   "lastOpenFiles": [
-    "Books/Books.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
+    "Books/Books.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
     "Working Folder/Solo Projects/Character Building Challenge.md",
     "Books/Tales from Terra-Nova/Tales from Terra-Nova.md",

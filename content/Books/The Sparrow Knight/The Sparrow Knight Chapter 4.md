@@ -57,3 +57,43 @@ He smiles at me, with that rich noble smile of someone who is about to leave all
 
 Lukas and I had always differed on armor. While I carried a shield, he preferred a dual handed weapon, and where I wore medium and more maneuverable armor, Petlia always chose heavy metal plate. Today though, as he clanged and clinked down the halls of the cave I could feel his eyes jealously watching me from behind.
 
+His chain mail shirt jingles as his head darts back and forth, scanning the walls of the crypt rapidly. 
+
+"You nervous Old Man? Tena's blessed us both by your hand, but you don't seem comfortable. Any reason I should be worried?" I ask him jokingly, but I would like some reassurance that he is being cautious not fearful. Never good when the mana t your back is afraid of the walls around him.
+
+His response is quiet, slow, and deliberate. This worries me more than anything, "You've fought many a beast and I trust your sword more than any man's my boy, but when dealing with the undead, you can never be too careful."
+
+My lantern flickers, and I dip in some more oil to keep to bright. It shines, casting long shadows behind myself and Lukas, and illuminates the walls of the Tarn family's burial chambers. There are beautiful murals and designs along the walls, depicting the family's histories and legends.
+
+I pause as a specific history catches my eye. The wall is carved with a great battle, warriors of the Ferran family, wielding their arcane swords of enchanted metal that their bloodline is known for, fighting against the Tarns. A few of the Ferrans are statues, turned to stone by the Tarn's basilisk blessed sorcery. It's strange to imagine how much magic once ran through these lands, how dangerous must it have been when any fool on the street could cast a fireball big enough to destroy a carriage.
+
+Lukas stands barely an inch away from me, and he terrifies me, giving me quite the start. I just nervously, the lantern clanging to the floor as I am broken from my trance viewing the wall. 
+
+I run my hand along my brow as I bend to pick up the lantern, "By Daraan you scared me Lukas. Don't scare me like that again this place is creepy enough."
+
+His metal gauntlet reaches my collar, yanking my face to his, "If you want a history lesson you can ask the Tarn to tell you about how he turned honorable men to stone and fought as a violent rebel against everyone who worked to keep this land safe and just. Don't dawdle around like a fucking idiot down here when we were bid kill the undead. There is unholy magic in this place, men felled hundreds of years ago risen by necromancy, so please forgive me if I ask you to FOCUS."
+
+I stare at him in disbelief for a moment before giving him a somewhat absent nod. He doesn't usually get so angry, in fact he had always encouraged my interest in history. He lets go of me, but before I can offer a verbal apology, another voice echoes through the halls from further into the crypt.
+
+"Lord Tarn sent you to kill me didn't he? Strange, it was he that offered me his family's corpses in the first place. I suppose he was hoping his father would be a bit more... intact, when I raised him hm?" It's a sinister and twisted voice, laced with the bile and venom of dark magics.
+
+I shove Lukas to the side and both of us duck behind a pillar before this mage has the chance to destroy us.
+
+He draws his sword, and I mine, my shield unbuckled from my back in the same fluid motion. Our eyes meet again, and we both nod, no time to talk, time to work.
+
+The clatter of bones hits my ears as I dive out from my cover, and with two quick swings of my blade a pair of skeletons charging towards me fall. I make quick work of them, stomping on the skulls to ensure they stay dead.
+
+I hear Petlia shout, a flash of light nearly blinds me, and I see a full undead specter be smited by the Old Man's blessed strike. I know he told me not to gawk, but every time his Oath magic manifests, a true Knight of the Green Mother, it does instill a bit of wonder in my heart. There is still good magic in the hearts of men.
+
+A guttural undead screech reminds me I am in a fight, and another pair of skeletons make their move on me, both leaping from the darkness in opposite directions. They flanked me, and now I have to make a choice on who to fight first. My shield instinctively goes up, blocking the one on my right, and I shove it backwards hard. It slams into the wall and a few ribs fall from its chest, but its still alive. That's fine, I got the opening I needed.
+
+I roll, using my shield as a base, and drive my blade through the skull of the one on my left, killing it instantly. The second charges me, and from my crouched position I toss my shield, it shatters the spine and kills it in a single blow.
+
+I stand and catch my breath, jogging towards my shield as I look for Lukas, his light tells me where he is. The necromancer and he are caught in a struggle, a large skeleton, at least 7 feet tall, has Lukas locked in a melee, meanwhile the mage's staff is raised high over his head, and he is chanting something.
+
+"Alok nu dilon, ALOK AHRK AAM HIN JUN!" His voice grows as he shouts, and I can literally feel the room get colder, the shadows are growing longer around me. This is something ancient, something so evil my soul is sick at its mere mention.
+
+"Lukas! Lukas! I'm coming!" I shout, grabbing my shield and charging towards the group of them, my feet fire up the steps of the tomb. I am just about to reach the large undead and help Petlia when I see a flash, a strange flash of darkness, and then it is flying towards me.
+
+A barrage of spectral skulls, gnawing teeth and laughing, flies towards me at rapid speed. I am terrified, but am able to raise my shield in time. The impact feels like I have been punched in the head. I am spinning. My body tumbles down the stairs and my shield is shattered. There is a fearful scream, Lukas... he is calling out to me. He's begging me to be alive.
+
