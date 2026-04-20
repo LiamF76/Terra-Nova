@@ -62,4 +62,8 @@ The infection is trapped in my hand, but my whole body feels numb. Damn it all.
 
 ---
 
+I don't remember much of the strange ritual they performed, only that it was important I stayed conscious. I didn't. Once they opened up my arm, had Lord Tarn stare at me a bit too deeply for me to keep eye contact, and start literally pouring his (somehow green) saliva into the wound, I passed out from the shock and pain.
+
+When I awoke however, the pressure, the weight, and that necromantic cold, were gone. They were replaced with something else, a strength, like my two feet had been molded so firmly with the earth not even Balthazaar could knock me down.
+
 
