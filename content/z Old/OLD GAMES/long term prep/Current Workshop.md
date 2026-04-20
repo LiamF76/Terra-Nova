@@ -16,7 +16,7 @@
 - Ivys will need the rebirth ritual soon, [[Essek]] notices his condition and says it could be a solution, but doesn't honestly know what will happen, best to wait until everyone is fully rested in case it goes wrong
 - Things to do during downtime can include coordinate with [[Promise]], information exchange to get intel on next targets. Promise can inform them that [[Kor Goroth]] is moving his Flying Fortress from Arkenstone to Traxgate, seemingly to meet up with [[Hannibal]] in response to [[Zyrathia]]'s death.
 - [[Essek]] is going north to investigate Thargoth and whatever is happening at the Shattered Crown
-- [[Solace]] and [[Thalia]] are at the ruined temple doing humanitarian aid, would love to talk to Emrys. Solace and Thalia need to get to the scar, Solace believes that she is the key to destroying it, as she was blessed with the Light by Illuman (up to speculation if that is true or not). 
+- [[Solace]] and [[Characters/People/Thalia]] are at the ruined temple doing humanitarian aid, would love to talk to Emrys. Solace and Thalia need to get to the scar, Solace believes that she is the key to destroying it, as she was blessed with the Light by Illuman (up to speculation if that is true or not). 
 
 
 #### Traxgate

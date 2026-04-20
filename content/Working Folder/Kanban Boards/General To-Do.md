@@ -50,10 +50,14 @@ kanban-plugin: board
 - [ ] [[Makhel]]
 	- Spellblade of Tamora
 	- Powerful warrior
+- [ ] Rakesh
+- [ ] [[Maro]]
+	- Champion of Illuman
 
 
 ## Wiki
 
+- [ ] [[Sovrentian Government]]
 - [ ] [[Sovrentia]]
 	- priority 1, do all your worldbuilding, unless great inspiration strikes WORK ON THIS!
 - [ ] Update Homepage: [[index]]
@@ -73,9 +77,6 @@ kanban-plugin: board
 - [ ] Races: [[Races of Terra-Nova]]
 	- create entries for all players races
 	- checklist [[Races Checklist]]
-- [ ] Important People
-	- [[Figures of Today]]
-	- [[Figures of History]]
 - [ ] [[Figures of Today]]
 	- Wizard Council Members
 	- Ruler of Sovrentia
@@ -86,6 +87,7 @@ kanban-plugin: board
 	- Escarth (high prio as it is the current campaign setting)
 	- Ikon
 	- Iramo
+- [ ] [[Languages]]
 
 
 

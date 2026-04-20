@@ -22,7 +22,7 @@ The party is making their way to Westwood alongside some wagon or caravan, and t
 
 Golden leaves skitter across the valley road as you continue to descends toward Westwood Village, its rooftops just beginning to peek through the autumn haze. A cool fall breeze rolls down from the hills, carrying the scent of woodsmoke and the faint echo of distant farm bells. The world feels quiet and expectant, and there is a peace in the air.
 
-Hunter and Grey describe their characters, ask them how they feel after having walked from Lycost, the capital city of Lightbear. Your stay there was quite short, wanting to avoid the upheaval over the newly elected Governor.
+Hunter and Grey describe their characters, ask them how they feel after having walked from Everton, the small coastal city before Westwood.
 
 As you continue down the road you notice a few divots and protruding roots from some larger nearby trees. Someone else seems to have found them as well, because just up ahead sitting beside the road is an older woman who appears to have tripped over one of the roots. A basket of apples has spilled around her as she tenderly holds her leg.
 Her name is Maple (her mother named her after a famous hero). Her Husband George runs a stable, and sells horses.
@@ -55,6 +55,14 @@ creature: Kobold
 ```statblock
 creature: Ogre
 ```
+
+Ogre HP:
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
 
 **Post Battle**: Scared George (stablekeep) talks to the party, says Kobolds came with the Ogre, some ran off and stole his finest horses. He needs those purebred horses as offerings and for sale at the festival or he won't be able to survive the winter. He says a troll made off with the horses, and he points out tracks they can follow. 
 If they barter / try to extort him: He can also offer the party 10% of the money he will make from the horses. He can't afford to give any more than that.
