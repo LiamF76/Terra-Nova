@@ -12,6 +12,6 @@ Here are some intros to the stories in this folder, feel free to give them a rea
 
 **The Sparrow Knight**: The story of a wandering warrior, Inayet Sparrow, and his struggle to honor a friend's wishes and find a destiny for himself.
 
-**Tales from Terra-Nova**: A compendium of short stories from within the world of Terra-Nova, written by a Lich historian called Sorvael of Atlas
+**Tales from Terra-Nova**: A compendium of short stories from the world of Terra-Nova, written in world by a Lich historian called Sorvael of Atlas.
 
 

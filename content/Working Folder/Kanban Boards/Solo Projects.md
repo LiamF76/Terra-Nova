@@ -17,8 +17,8 @@ kanban-plugin: board
 
 ## Solo Projects
 
-- [ ] [[Character Building Challenge]]
 - [ ] [[Books]]
+- [ ] [[Character Building Challenge]]
 
 
 

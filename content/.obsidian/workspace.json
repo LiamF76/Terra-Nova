@@ -45,18 +45,18 @@
             }
           },
           {
-            "id": "c8834a07a8e5672c",
+            "id": "975bd89a1dc9f248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Tales from Terra-Nova/Tales from Terra-Nova.md",
+                "file": "Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tales from Terra-Nova"
+              "title": "The Sparrow Knight Chapter 4"
             }
           },
           {
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,17 +185,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c8834a07a8e5672c",
+  "active": "469c1d4ad171cb50",
   "lastOpenFiles": [
-    "Books/Tales from Terra-Nova/Tong story.md",
+    "Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
-    "Books/Tales from Terra-Nova/Tales from Terra-Nova.md",
-    "Books/Tales from Terra-Nova/Chosen One.md",
     "Books/Books.md",
+    "Books/Tales from Terra-Nova/Tales from Terra-Nova.md",
+    "Books/Tales from Terra-Nova/Tong story.md",
+    "Books/Tales from Terra-Nova/Chosen One.md",
     "Working Folder/Dashboard.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
-    "Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
     "conflict-files-obsidian-git.md",
     "z Images/TBD-1776545101159.webp",
     "z Images/Maor-1776524593929.webp",
