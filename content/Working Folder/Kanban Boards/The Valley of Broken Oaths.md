@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Session Prepping
 
-- [ ] [[TVBO Session 1 Prep]]
 - [ ] [[The Spire of Virtue]]
 - [ ] [[TVBO Player Characters]]
 
@@ -51,6 +50,7 @@ kanban-plugin: board
 
 - [x] [[TVBO Session 0 Prep]]
 - [x] [[The Valley of Broken Oaths Primer]]
+- [x] [[TVBO Session 1 Prep]]
 
 %% kanban:settings
 ```
