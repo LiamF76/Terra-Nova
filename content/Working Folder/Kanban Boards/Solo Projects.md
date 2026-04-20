@@ -7,7 +7,7 @@ kanban-plugin: board
 ## The Sparrow Knight
 
 - [ ] [[The Sparrow Knight Brainstorm]]
-- [ ] [[The Sparrow Knight Chapter 4]]
+- [ ] [[The Sparrow Knight Chapter 5]]
 
 
 ## Tales from Terra-Nova
@@ -21,7 +21,11 @@ kanban-plugin: board
 - [ ] [[Character Building Challenge]]
 
 
+***
 
+## Archive
+
+- [x] [[The Sparrow Knight Chapter 4]]
 
 %% kanban:settings
 ```
