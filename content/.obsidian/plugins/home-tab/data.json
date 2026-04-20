@@ -24,12 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Books/Untitled.md",
+      "timestamp": 1776694655050
+    },
+    {
       "filepath": "Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
-      "timestamp": 1776694380678
+      "timestamp": 1776694572141
     },
     {
       "filepath": "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
-      "timestamp": 1776694370690
+      "timestamp": 1776694481440
+    },
+    {
+      "filepath": "Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
+      "timestamp": 1776694477570
     },
     {
       "filepath": "Working Folder/Kanban Boards/Solo Projects.md",
@@ -38,10 +46,6 @@
     {
       "filepath": "Working Folder/Dashboard.md",
       "timestamp": 1776694366752
-    },
-    {
-      "filepath": "Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
-      "timestamp": 1776694016088
     }
   ],
   "bookmarkedFileStore": [],
