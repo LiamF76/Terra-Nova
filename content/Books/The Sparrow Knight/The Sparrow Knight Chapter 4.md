@@ -105,5 +105,18 @@ My shield is gone, but I snatch up my sword and try up the steps again, it feels
 
 The skeleton meets me, and thanks to Lukas, its slow, he hurt it. I dodge its first swing, a huge bony hand flying past my head, and as the arm soars past I make my blade sing, driving it into the leg, the whole beast tumbles forward, I use its own weight to catapult it down the stairs. Its not dead, but it will be, if I can stop the mage I can take down both at once.
 
-'Kill a necromancer, and the things he summons die too.' Old man knew his stuff, it was helpful advice before we entered the Tarn crypt.
+'Kill a necromancer, their summons die too.' Old man knew his stuff, it was helpful advice before we entered the Tarn crypt.
 
+As I force myself up the steps further, the mage is just outside my blade's range. He raises his staff defensively, and I do the same with my sword. I bring down my blade against the wooden stick hard, and I cleave it through, the edge of my longsword cleaves through his right shoulder, tearing his robes and severing the muscles across his collarbone. 
+
+He screams something in a language I don't understand, but it is guttural and evil. Another lash of black flies out of his staff as it cracks, and I feel fire in my right hand again. My sword remains in his gushing wound, as I am forced to let go of it by the searing pain.
+
+He collapses, his chest heaves for a moment, and I hear the clatter of bones as the skeleton charges at me from behind. T he bones clatter louder as they tumble down the stairs, the skeleton shattered as its master draws his final breath with my sword in his neck. I collapse beside Lukas, his would is open, spear fell out. it's sickly, black veinage around the entry point, its some poison, perhaps a curse?
+
+His eyes aren't open, but he coughs, and laughs painfully. "Stop gawking at me boy. You're worse for wear, we need to get that hand looked at."
+
+My hand? Oh damn my hand. I grab it at the wrist with my left hand, I can barely feel it or move my right anymore, and its covered in the same black veins and is completely numb. My eyes are fighting to stay open, I am so exhausted. I reach out to Petlia with my good hand, holding his tightly.
+
+"You fought like a wild beast Old Man." I say as I feel my body getting colder.
+
+He doesn't laugh this time, "Thank you boy. You fought gracefully, dancing about, like a sparrow."
