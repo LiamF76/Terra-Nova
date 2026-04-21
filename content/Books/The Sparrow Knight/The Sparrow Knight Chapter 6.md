@@ -14,3 +14,4 @@ We had enough for salted meat, bread, and water. That was enough, hells plenty, 
 
 We plotted a path through the quickest path to the Scales, which meant heading through the Drowning Dream swamp, lovely name for a lovely place. I had been once before, and hoped i would never have to again.
 
+Lucky for me we still have a ways to go. I toss Lukas the waterskin, wiping my upper lip dry after my small sip. He catches it and grunts, shaking it and feeling the little remaining water. 
