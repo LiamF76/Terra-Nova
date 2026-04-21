@@ -47,5 +47,6 @@ This is a book / backstory of Inayet Uncrowned, beginning under the name Inayet 
 - [[The Sparrow Knight Chapter 3]]
 - [[The Sparrow Knight Chapter 4]]
 - [[The Sparrow Knight Chapter 5]]
-- The Sparrow Knight Chapter 6
-- 
+- [[The Sparrow Knight Chapter 6]]
+- The Sparrow Knight Chapter 7
+- The Sparrow Knight Chapter 8
