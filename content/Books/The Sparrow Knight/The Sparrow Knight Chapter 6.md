@@ -12,4 +12,5 @@ Alcor was gone from Tarnkeep before Petlia and I made it out of the city that ev
 
 We had enough for salted meat, bread, and water. That was enough, hells plenty, except for the fact that we didn't have mounts. Walking isn't so bad, but when you have to carry all your weapons and armor, supplies, and well everything on your own two feet? It gets bad quickly. Out journey was anything but quick. 
 
-We plotted a path through the quickest path to the Scales, which meant heading through the Drowning Dream swamp, lovely name for a lovely place. 
+We plotted a path through the quickest path to the Scales, which meant heading through the Drowning Dream swamp, lovely name for a lovely place. I had been once before, and hoped i would never have to again.
+
