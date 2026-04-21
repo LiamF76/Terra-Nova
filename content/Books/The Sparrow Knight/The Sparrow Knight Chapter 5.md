@@ -117,3 +117,5 @@ I shrug and stand up, walking forward to lean on the railing, absent mindedly po
 I look back at him, and he looks horrified at that statement. In honestly I don't know where that came from, it bubbled from deep in my heart, somewhere I don't go often. It almost felt beyond myself, some of that destiny he wanted for me so bad accidentally made its way to the surface.
 
 "Or maybe not. Who's to say? I'm not so worried about changing the world today my friend. We need to get you home. Come, let's leave before the sun peaks today, we can came in the Alderwood again, hopefully no rain this time."
+
+We both laugh, and for a moment things are quiet, and good, and then my ring starts to glow.
