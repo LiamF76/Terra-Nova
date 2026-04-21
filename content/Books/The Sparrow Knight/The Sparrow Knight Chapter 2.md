@@ -8,19 +8,19 @@ The rain continued deep into the night. Petlia took an easy watch, a few travele
 
 My watch begins as the sun sets, the orange and pink light of the days end sits like a quiet campfire along the dark horizon. I do enjoy sunsets greatly, they remind me of home in the valley. The sounds of the night engulf the forest around the ruins where we set our camp. Raccoons, chittering of all manner of forest creatures, and an owl calls out 'who' into the shadows. The moon is thin and dark, the only light is my small campfire set upon the old stones of this castle.
 
-I poke at my fire, prodding the largest log into the center, it does not quite catch. I grimace, the largest pieces may be too wet for lighting, going to be a chilly night. I pull the wolf's pelt tighter around my shoulders, thankful for its warmth. The Wolf I killed to earn it was a vicious old thing, her pelt was white as snow, stood almost as tall as I am, nearly 6 feet. Alcor had taken a contract for selling a large number of Istolan pelts from the North, meaning I had to trudge through snow and bitter cold air in that frozen hell to get them South. The dragon says he would love to visit North again, because he rode inside the wagon. I fought starving she-wolves searching for meat to feed their pups, and helped cover the wagon in white cloth at night to hide from massive Griffons that patrol the mountain passes. By my account, that was the worst job I have done, and by Alcor's it was a wonderful winter vacation.
+I poke at my fire, prodding the largest log into the center, it does not quite catch. I grimace, the largest pieces may be too wet for lighting, going to be a chilly night. I pull the wolf's pelt tighter around my shoulders, thankful for its warmth. The Wolf I killed to earn it was a vicious old thing, her pelt was white as snow, stood almost as tall as I am, nearly 6 feet. Alcor had taken a contract for selling numerous Istolan pelts from the North, meaning I had to trudge through snow and bitter cold air in that frozen hell to get them South. The dragon says he would love to visit North again, because he rode inside the wagon. I fought starving she-wolves searching for meat to feed their pups, and helped cover the wagon in white cloth at night to hide from massive Griffons that patrol the mountain passes. By my account, that was the worst job I have done, and by Alcor's it was a wonderful winter vacation.
 
 I once again find myself fondly reminiscing, and am startled back to reality by a fearful whinny. My ears perk a bit more at the pitch of the cry, it sounds like Pudding. She's the youngest of the three, prone to a scare. I grunt as I hop up, and stride away from the campfire with a lit torch to inspect the horses. 
 
 Redrum and Jasper, the big boys who pull the main wagon, are hitched together against what remains of a fireplace. Their chestnut and black coats are harder to see in the dark, but they're just fine, chewing on some grass poking through the old tiles. I run my hand on Jasper's snout, he's the biggest of the trio, a true war-horse, granted he is retired to pulling the wagon. Pudding is nowhere to be found.
 
-I pet Redrum as well, he has a good sense, he knows monsters are near before I do quite often. "Where's Pudding gone hm? Searching for some tack in the night? You two are supposed to look after her you know."
+I pet Redrum as well, he has a good sense, he knows monsters are near before I do quite often. "Where's Pudding gone hm? Searching for some tack in the night? You two are supposed to look after her, you know."
 
-I click my tongue at the pair, and Redrum whinnies back annoyed. "Well lucky for you I look after all three of you." I take my leave of them, she can't have gone far. As I scour the ruins I hear another cry from Pudding, a grunt, like she's digging at something. That's exactly what I find her doing. She stands in a large stone archway, looks like it used to lead into the chapel, but noting remains of that except the doorway and some walls. Her snout is to the ground, and she is dragging her hoof across the stones.
+I click my tongue at the pair, and Redrum whinnies back annoyed. "Well lucky for you, I look after all three of you." I take my leave of them, she can't have gone far. As I scour the ruins I hear another cry from Pudding, a grunt, like she's digging at something. That's exactly what I find her doing. She stands in a large stone archway, looks like it used to lead into the chapel, but noting remains of that except the doorway and some walls. Her snout is to the ground, and she is dragging her hoof across the stones.
 
-"There you are sweet girl." I say calmly, something spooked her bad enough to bring her here, be patient and calming, and she'll treat me the same. "What are you looking at there Pudding? Something catch your eye? Come back here, let's get you some rest, long day tomorrow."
+"There you are, sweet girl." I say calmly, something spooked her bad enough to bring her here, be patient and calming, and she'll treat me the same. "What are you looking at there Pudding? Something catch your eye? Come back here, let's get you some rest, long day tomorrow."
 
-I reach out and place my hand on her side, she's so soft, its like petting a cloud. I grab her reigns gently and start to lead her back to the hitches, but something catches my eye. It's a faint glint, something metallic wedged between the tiles where Pudding had been searching, perhaps she had noticed something there?
+I reach out and place my hand on her side, she's so soft, it's like petting a cloud. I grab her reigns gently and start to lead her back to the hitches, but something catches my eye. It's a faint glint, something metallic wedged between the tiles where Pudding had been searching, perhaps she had noticed something there?
 
 I walk her over a few steps and bend down to inspect it. I wipe away some dirt and find something metal. It's a small brass circle, with a signet engraved on the outside, a ring! I wipe it on my sleeve, it's beautiful craftsmanship. It's a vault style ring, made of a single material and the details are driven into it by smiths, its signet is an eight pointed star. I find myself staring at it for a long moment, it's a precious thing, a bit dirty, but still very nice, this must have meant quite a bit to someone once.
 
@@ -34,11 +34,11 @@ He chuckles and tears a piece of the salted beef with his massive hands. Tossing
 
 I avoid Towser. He's crass, curses, and is generally rude. I make a habit of remembering any day could be someone's worst, so be kind. He makes everyone's day their worse. Lucky for him, Alcor owed his father a favor, so he works the caravan on a near indefinite contract. If he jilted me enough I would quit, or ask Alcor to fire him, but I try to give him the benefit of the doubt, not liking him doesn't mean he deserves to lose his job, everyone has to eat. Even jerks.
 
-I cannot hold back a sigh. "I guess not. You planning to sit with me all night?" I would rather he didn't, but he's probably lonely. As much as I may dislike him, Petlia hates him, and Alcor views him very much as an employee, not a friend. Long journey to be all alone.
+I cannot hold back a sigh. "I guess not. You're planning to sit with me all night?" I would rather he didn't, but he's probably lonely. As much as I may dislike him, Petlia hates him, and Alcor views him very much as an employee, not a friend. Long journey to be all alone.
 
 He shakes his head no, his green skin is free of wrinkles and blemishes, despite his advanced age for an orc. He was at least 50 years old, and his people usually only lived for 80. Despite that he looks in decent shape, must help he lives comfortable riding a wagon all day. He plucks one of the stones from what remains of the short wall behind him, inspecting it, then tossing it aimlessly across the fire, knocking the log out and onto the grass.
 
-It doesn't catch thanks to the rain, but I throw off my cloak and stamp out the fire before it has a chance anyways. I give him a look, a raised eyebrow and downturned lip, some would call it a scowl.
+It doesn't catch thanks to the rain, but I throw off my cloak and stamp out the fire before it has a chance anyway. I give him a look, a raised eyebrow and downturned lip, some would call it a scowl.
 
 He doesn't look up. "Can you please be careful Towser? You're the reason Alcor and Petlia's tents were set afire on that job in New Estorias. Remember? Now only the Old Man and I can take night watches? And he's quite the tired soul, so only I end up doing the overnight watch."
 
@@ -46,7 +46,7 @@ He doesn't look up. "Can you please be careful Towser? You're the reason Alcor a
 
 "I'm sorry Towser, forget I mentioned it." I sit beside him and twirl my knife in my hands, I put some flourish on the turns and spins. Perhaps to remind him I am a capable warrior.
 
-"Do you remember, many months ago now, " I ask, but this question will be rhetorical, "When Petlia gathered all those Oak branches to cover the grave of Jeko? He was a true Warrior of Sovrentia, did well as a caravan guard, but he died defending the wagon from those dire wolves."
+"Do you remember, many months ago now, "I ask, but this question will be rhetorical, "When Petlia gathered all those Oak branches to cover the grave of Jeko? He was a true Warrior of Sovrentia, did well as a caravan guard, but he died defending the wagon from those dire wolves."
 
 I am looking at the fire, but I can feel his eyes on me. "Sparrow I don't want to-"
 
