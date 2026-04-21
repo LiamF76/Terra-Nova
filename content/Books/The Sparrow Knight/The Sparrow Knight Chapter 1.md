@@ -78,17 +78,17 @@ The wagon and horses are parked on the remains of a stone courtyard. The poor be
 
 "You should get a smaller tent when we stop. You'll be setting that thing up for an hour before you can get some sleep." I shout over the sound of the rain. Its heavy, and despite Lukas' prediction, it is very much here. Alcor glares at me as he attempts to pitch his massive tent. Lucky for both of us we are under the remains of the castle's main hall. Some roof remains, deflecting the majority of the rain away from our tents.
 
-I groan, knowing I'll no doubt end up setting his tent after mine. It won't take long, my tent is reasonably sized for one person. I can sit upright in the morning, and over my pack and armaments. Luxuries are rarely worth the coin and effort they cost you. All the best things in life were passed down to you, like a trusty dagger. I hold my mother's knife tightly, its grip is worn but I keep the blade sharp. My mother taught me that a good knife is a hammer, blade, and lock pick if you know how to use it. I finish pitching my tent and then I help Alcor, he is grateful, and promises me an extra gold coin for the effort of pushing the wagon uphill to the ruins. I give him a brief hug, and accept. 
+I groan, knowing I'll no doubt end up setting his tent after mine. It won't take long, my tent is reasonably sized for one person. I can sit upright in the morning, and over my pack and armaments. Luxuries are rarely worth the coin and effort they cost you. All the best things in life were passed down to you, like a trusty dagger. I hold my mother's knife tightly, its grip is worn, but I keep the blade sharp. My mother taught me that a good knife is a hammer, blade, and lock pick if you know how to use it. I finish pitching my tent and then I help Alcor, he is grateful, and promises me an extra gold coin for the effort of pushing the wagon uphill to the ruins. I give him a brief hug, and accept. 
 
 "You're lucky I like you dragon, most guards don't push wagons up hills. But bring me somewhere dangerous next trip. You'll regret giving me a coin for just pushing a wagon after you see what I can do." I am jesting, I don't quite enjoy danger. Being capable is a great thing, that's why I train hard. But just like with the dagger, mother taught me that just because you have the tools does not mean you are suited for the job. Don't get into fights you don't need to. I run my finger along my nose, should have remembered that lesson sooner.
 
 Alcorn steps inside his tent, carrying a large crate of ledgers, he never stops working. "You are a marvel indeed my boy. Do me a favor and find Petlia when you have a moment, someone has to take the night watch. I'd rather you did, his advice is starting to lose my favor. He may be past his years of capability."
 
-I nod, Alcorn may be right. Petlia's been working as a warrior for nearly 60 years now. He likes to ramble about his family's history, but there's at least one thing I'll never deny. His fathers or mothers must have been elves or the like, because he had a longevity no human could match. To work the road into your late 80s was extraordinary. "I hear you, I'll check on him. Don't let his stories get to you though alright? I'm not quite so bored of them. Don't go dumping him in Tarnkeep first chance you get."
+I nod, Alcorn may be right. Petlia's been working as a warrior for nearly 60 years now. He likes to ramble about his family's history, but there's at least one thing I'll never deny. His fathers or mothers must have been elves or the like, because he had a longevity no human could match. To work the road into your late 80s was extraordinary. "I hear you, I'll check on him. Don't let his stories get to you though alright? I'm not quite so bored with them. Don't go dumping him in Tarnkeep first chance you get."
 
 ---
 
-It takes me a few minutes to find the old man, but eventually I do. The helmet antlers catch my eye. He's sitting beneath a sizeable tree, across a clearing from the ruins I hide under. I wave, and his weathered face perks up a bit, he was hoping I would come looking for him. 
+It takes me a few minutes to find the old man, but eventually I do. The helmet antlers catch my eye. He's sitting beneath a sizable tree, across a clearing from the ruins I hide under. I wave, and his weathered face perks up a bit, he was hoping I would come looking for him. 
 
 "Come over this way you! We are pitching the tents. You're taking first watch, I will cover the night!" I scream across the storm, the rain is picking up, the wind is howling louder now. Should have consulted a mage about the weather, if we could have found on in Silversong. They weren't so rare as the blue roses, but finding both in a single trip would be quite the memory.
 
@@ -112,13 +112,13 @@ Three little bird heads peak out, they have the same unique blue cresting that a
 
 I hear the rustle of his armor as he nods slowly, not speaking a word for a long moment. 
 
-He coughs, clearing his throat, before he asks in a meek tone, "I know you like em. Inayet Sparrow. It's a good name, your mother must've love you quite a bit. Inayet... what's it mean again boy?"
+He coughs, clearing his throat, before he asks in a meek tone, "I know you like em. Inayet Sparrow. It's a good name, your mother must've loved you quite a bit. Inayet... what's it mean again boy?"
 
-"To forgive." I say, picking a piece of grass from the ground and placing it between my lips, making a high pitched whistle that sends a nearby squirrel tearing away through a shrub. He knew that, he wanted to remind me of my name before I said anything else, but he had nothing to worry about from me. "Don't get down on yourself. Nobody's upset about the rain, how could you have known?"
+"To forgive." I say, picking a piece of grass from the ground and placing it between my lips, making a high-pitched whistle that sends a nearby squirrel tearing away through a shrub. He knew that, he wanted to remind me of my name before I said anything else, but he had nothing to worry about from me. "Don't get down on yourself. Nobody's upset about the rain, how could you have known?"
 
 He doesn't give that an answer. "I have a cousin, Tancred. He fought with me in the boarder wars against the Dragon's legions. He owns a sheep farm now. I think I could do well on a sheep farm these days. My armor feels heavier than it used to, the sword feels like it was made for someone else..."
 
-As I turn to look at him I realize just how old he really looks. His skin is wilted and wrinkled, looking more like a raisin than the grape he once was. His shoulders are drooped, and I can see the forward bend in his neck. "Probably doesn't help you wear such a heavy helmet, those antlers..."
+As I turn to look at him, I realize just how old he really looks. His skin is wilted and wrinkled, looking more like a raisin than the grape he once was. His shoulders are drooped, and I can see the forward bend in his neck. "Probably doesn't help you wear such a heavy helmet, those antlers..."
 
 "I am not taking the antlers off." He says shortly. "You'll understand when you're older. They mean something to me, you should be so lucky as to have something that important to you! History! Family! Legacy!"
 
