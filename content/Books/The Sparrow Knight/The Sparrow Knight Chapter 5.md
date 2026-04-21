@@ -66,4 +66,38 @@ I don't remember much of the strange ritual they performed, only that it was imp
 
 When I awoke however, the pressure, the weight, and that necromantic cold, were gone. They were replaced with something else, a strength, like my two feet had been molded so firmly with the earth not even Balthazaar could knock me down.
 
+My entire forearm had been reforged like a mountain. The skin was darker, but still skin, though all those blackened and cursed veins shone silver, like ore in the earth. It felt like I could lift anything, and Tarn had me test it, he brought me a chair, I shattered it. A stone altar in his castle? I broke it in half with one downward swing of the new limb. It was unnatural, and amazing.
+
+Lukas was happy enough for me, but every time I mentioned getting back out on the road, I could see the weight of his on his face. He couldn't think about the future anymore. I didn't want to let him fall into a depression, I won't let him give up.
+
+I find him today, nearly a week since our delve into the crypt, sitting on a long stone bench, overlooking the fields north of Tarnkeep. We had shared a similar view above the tavern, but now it felt different. I sit beside him on the bench, but there's a strange feeling about him, I leave a gap to give him some space.
+
+"It's a nice view." I say plainly.
+
+"I don't have time for pleasantries Inayet." He says, lifting his shirt and showing the mass of bandages and healing herbs laid across his skin. "I don't care to talk about the view today, I am dying. And I have to ask a large favor from my closest friend... and worse still I find myself hoping he will say no."
+
+I slide closer, "Oh? And why would Towser ever say no to you Old Man?"
+
+He sighs, smacking away the hand I try to place on his shoulder. "Gods be good boy I need you for once to listen to me. This isn't some traveling nick. I have been doomed. I am going to die, and soon. I'm trying to figure out how to look after you... after I'm gone."
+
+I feel my hands tighten, wringing themselves against one another outside my conscious control. This is not something I even want to think about. "What's the favor you're hoping I will say no to my friend. I am eager to disappoint you by saying yes."
+
+He wipes his eyes, "I know you are." A deep breath in, and the request follows. "I am leaving the caravan. I promised my father one day I would return home, to Petlia, and I am. But I won't make it, I don't have much time, less than a year, and only that long if I pour all my healing knowledge and magics into keeping myself going. So I am asking you, Inayet, to come with me, and after I die, burn me, and bring my ashes to the Ironwood. Scatter me amongst the roots of my father's and grandfather's forest."
+
+I shake my head in disagreement. "You'll be happily surprised, when you make it to the forest yourself. Then you can tell me about every individual tree and no doubt all the wonderful legends and stories, how each leaf is a greater hero than anyone born today."
+
+He relents to my affection, allowing me to place an arm around him. "You don't even remember where the forest is. It's a long journey my boy, North through half of Sovrentia, into the Triumvirate Scales. You'll have a hell of a time getting through there... I wouldn't ask if I didn't have to... our afterlife, it's tied to the trees, you live forever within the roots and earth you are left upon. I want to see my family again, I don't want to be alone in some apple tree down here in the South."
+
+Souls living in trees forever, that's a strange belief. "What happens if someone cuts down your afterlife tree?"
+
+"I become a vengeful forest spirit, and I hunt them until one of us dies."
+
+"Sounds like revenge, and you wouldn't let me have any of that."
+
+"You're better for it. Revenge is not for men, revenge is for the trees and the rivers, the mountains and the seas. When a man cuts down a tree, another grows behind his house, and the roots grow into his cellar. in fifty years his house collapses and kills him. It is slow, and it is fair, but it is not ours to decide. I better not need to remind you not to get tied up with that Aton worshipping lot now boy."
+
+I laugh, and go to clap him on the back, but I stop before I let my new hand send him flying off the bench.
+
+"What about you Ina, what did that mother of yours tell you about tradition? What happens when Sparrows die?"
+
 
