@@ -84,7 +84,7 @@ I stare at him in disbelief for a moment before giving him a somewhat absent nod
 
 I shove Lukas to the side and both of us duck behind a pillar before this mage has the chance to destroy us.
 
-He draws his sword, and I mine, my shield unbuckled from my back in the same fluid motion. Our eyes meet again, and we both nod, no time to talk, time to work.
+He draws his axe, and I my sword, my shield unbuckled from my back in the same fluid motion. Our eyes meet again, and we both nod, no time to talk, time to work.
 
 The clatter of bones hits my ears as I dive out from my cover, and with two quick swings of my blade a pair of skeletons charging towards me fall. I make quick work of them, stomping on the skulls to ensure they stay dead.
 
