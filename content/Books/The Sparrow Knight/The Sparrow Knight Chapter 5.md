@@ -100,4 +100,6 @@ I laugh, and go to clap him on the back, but I stop before I let my new hand sen
 
 "What about you Ina, what did that mother of yours tell you about tradition? What happens when Sparrows die?"
 
+"Nothing." I say, trying not to choke on the word. "Mother was strange with talk about our family, I do remember once though, she said our name wasn't always Sparrow. We took it to hide, not from anyone else, but from our past. Our family was destined to have things taken from us, a bloodline born from... theft, wrongdoing, not ours but to us, and that we would carry the weight of surviving those injustices forever. I suppose she was right, world took my sister, and now they're taking you."
+
 
