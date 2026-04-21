@@ -14,4 +14,8 @@ We had enough for salted meat, bread, and water. That was enough, hells plenty, 
 
 We plotted a path through the quickest path to the Scales, which meant heading through the Drowning Dream swamp, lovely name for a lovely place. I had been once before, and hoped i would never have to again.
 
-Lucky for me we still have a ways to go. I toss Lukas the waterskin, wiping my upper lip dry after my small sip. He catches it and grunts, shaking it and feeling the little remaining water. 
+Lucky for me we still have a ways to go. I toss Lukas the waterskin, wiping my upper lip dry after my small sip. He catches it and grunts, shaking it and feeling the little remaining water. His breath sounded weaker every day, at least he was still sleeping well.
+
+He takes a greedy drink and speaks, "How much farther to the swamp? I love the open road, but damn Ina my blisters are growing blisters." He says, stomping his foot on the dirt road.
+
+I consult my map, "Well we've gone nearly 200 miles. After passing through Silversong we were more than  half done, so I think we need to keep along the Red Road untul we reach that village you mentioned. Shouldn't be more than a hundred more miles."
