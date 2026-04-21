@@ -18,4 +18,4 @@ Lucky for me we still have a ways to go. I toss Lukas the waterskin, wiping my u
 
 He takes a greedy drink and speaks, "How much farther to the swamp? I love the open road, but damn Ina my blisters are growing blisters." He says, stomping his foot on the dirt road.
 
-I consult my map, "Well we've gone nearly 200 miles. After passing through Silversong we were more than  half done, so I think we need to keep along the Red Road untul we reach that village you mentioned. Shouldn't be more than a hundred more miles." I say, giving him a look to acknowledge the hilarity in that statement.
+I consult my map, "Well we've gone nearly 200 miles. After passing through Silversong we were more than  half done, so I think we need to keep along the Red Road until we reach that village you mentioned. Shouldn't be more than a hundred more miles." I say, giving him a look to acknowledge the hilarity in that statement.
