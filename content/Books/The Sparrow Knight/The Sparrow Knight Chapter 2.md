@@ -30,7 +30,7 @@ He smiles with that toothy grin of his, "Much obliged Sparrow." He hands me the 
 
 I could scarcely remember seeing or hearing Towser all day. "You were quiet today. Barely noticed you driving, didn't hear a peep."
 
-He chuckles and tears a piece of the salted beef with his massive hands. Tossing it between his tusks and ripping it to shreds with those pointed orcish teeth. "I mustn't have had anything to fucking say then did I?"
+He chuckles and tears a piece of the salted beef with his massive hands. Tossing it between his tusks and ripping it to shreds with those pointed Orcish teeth. "I mustn't have had anything to fucking say then did I?"
 
 I avoid Towser. He's crass, curses, and is generally rude. I make a habit of remembering any day could be someone's worst, so be kind. He makes everyone's day their worse. Lucky for him, Alcor owed his father a favor, so he works the caravan on a near indefinite contract. If he jilted me enough I would quit, or ask Alcor to fire him, but I try to give him the benefit of the doubt, not liking him doesn't mean he deserves to lose his job, everyone has to eat. Even jerks.
 
@@ -50,7 +50,7 @@ He doesn't look up. "Can you please be careful Towser? You're the reason Alcor a
 
 I am looking at the fire, but I can feel his eyes on me. "Sparrow I don't want to-"
 
-"And when we dug through that cold hard ground to bury him, half under stones because we couldn't get deep enough for the grave. The Old Man and I lay those branches across his grave, in the tradition of his family? Because in his people, follower of the Green Mother, they believe you must be left under a piece of nature, so that when the string comes and they grow over your grave, the plants will carry your soul to Tena. I was happy to do it, Petlia though he was obsessed, it had to be done. It was the right thing to do you see. What happened to those branches Towser?"
+"And when we dug through that cold hard ground to bury him, half under stones because we couldn't get deep enough for the grave. The Old Man and I lay those branches across his grave, in the tradition of his family? Because in his people, follower of the Green Mother, they believe you must be left under a piece of nature, so that when the string comes, and they grow over your grave, the plants will carry your soul to Tena. I was happy to do it, Petlia though he was obsessed, it had to be done. It was the right thing to do you see. What happened to those branches Towser?"
 
 He stutters the beginning of an answer, but I don't let him finish. I'm telling him a story he already knows. He remembers the events, but not the lesson. "Those branches, were gone in the morning. The mad who took watch that night said he saw not a beast nor bandit. No riches were taken, no food drink or horses robbed, only oak branches. Strange! Stranger still, was how greatly the fire burned during that night watch. Sodden winter trees, drenched in the cold snow, freezing, and yet somehow the watchman found plenty of kindling for a large fire to stay snug and warm for the night."
 
@@ -68,13 +68,13 @@ I am left alone with my thoughts, and one echoes through my mind over and over. 
 
 There are of course runes, employed by wizards and shaman of all kinds, though these were different. These looked celestial, holy magics, like that of the Sunlight Road. Perhaps they came not from Illuman the Lord of the Sun, but his brother Mani, the King of the Moons, or his children? He has many, eldest among them Rovan, the North Star, God of Bravery, Courage, and leadership.
 
-I could use some of Rovan's leadership with Towser, the man never agrees with me. Perhaps the ring will grant me that. I slide it about my right ring finger, and it slides down effortlessly. Amazing, at first glace it had appeared too large, but it is snug about my finger now. Perfectly sized. Well I had a suspicion, but now it is confirmed, it must be magic. If not for its beautiful design then for the changing of size, I think as I swap the ring from finger to finger, fitting perfectly each time. Could fetch a decent coin in Tarnkeep, even more so in the a city like Highstride. A fanciful gift for a Noble to hand his wife, not knowing her ring size from one of his mistresses.
+I could use some of Rovan's leadership with Towser, the man never agrees with me. Perhaps the ring will grant me that. I slide it about my right ring finger, and it slides down effortlessly. Amazing, at first glance it had appeared too large, but it is snug about my finger now. Perfectly sized. Well I had a suspicion, but now it is confirmed, it must be magic. If not for its beautiful design then for the changing of size, I think as I swap the ring from finger to finger, fitting perfectly each time. Could fetch a decent coin in Tarnkeep, even more so in a city like Highstride. A fanciful gift for a Noble to hand his wife, not knowing her ring size from one of his mistresses.
 
 I return the trinket to my right hand, and let it settle there. I think I'll keep it. It had been a long time since I found anything I felt was worth holding on to on my journeys. Perhaps I needed to take other jobs during our prolonged stays in the towns. There are always lords looking for good swords and monster hunting contracts.
 
 Tomorrow morning I will have Alcorn inspect my prize. Maybe It'll turn out to be pure gold, could retire for a few years on that. I kick back against the hard stones I have made my pillow, my shoulders hurt from wearing my sword so often. Perhaps I could use some real rest.
 
-I don't sleep, its my watch, a cup of Drok'Shari coffee ensures my eyes stay open, but I enjoy the sounds of the bugs and owl as the night drags on.
+I don't sleep, it's my watch, a cup of Drok'Shari coffee ensures my eyes stay open, but I enjoy the sounds of the bugs and owl as the night drags on.
 
 ---
 
@@ -88,9 +88,9 @@ I will. "Thank you for assessing it at all Alcorn. Pudding found it in the dirt.
 
 I mumble something about treating the back of his head with what it deserves, but nobody hears me. The wagons continue on, but something feels strange. A flurry of leaves on the road behind Towser's wagon is lifted by a wind, but when it should reach me I feel nothing. A ghost? It wasn't cold, the undead usually make my hair stand up, this feels almost warm, but still heavy.
 
-I see it again off the side of the road, an ruined archway beside a marking stone. It directs us further down the hill, but I feel something calling me through that arch. It leads down a dirt footpath, and I answer whatever calls me. I dive into the archway off the main path, and as Towser demands to know where I am going, I only find effort to call back, "Keep going I'll catch up!"
+I see it again off the side of the road, a ruined archway beside a marking stone. It directs us further down the hill, but I feel something calling me through that arch. It leads down a dirt footpath, and I answer whatever calls me. I dive into the archway off the main path, and as Towser demands to know where I am going, I only find effort to call back, "Keep going I'll catch up!"
 
-My hand finds the hilt of my sword as I walk the path, the air beneath the thick trees here feels warm. The light is dabbled through the leaves above, it feels like I have stepped out from the Alderwood Forest, and into the realm of the Fey. The air tingles, and I can taste a faint hint of sugar on its gusts. There is no sound, but for that of my boots on the dirt, and the single branch that snaps under my foot. I freeze, but the forest does not. It erupts with sound as one, two, three, many many more Sparrows, at least ten, begin chirping and flitting about the branches above me. 
+My hand finds the hilt of my sword as I walk the path, the air beneath the thick trees here feels warm. The light is dabbled through the leaves above, it feels like I have stepped out from the Alderwood Forest, and into the realm of the Fey. The air tingles, and I can taste a faint hint of sugar on its gusts. There is no sound, but for that of my boots on the dirt, and the single branch that snaps under my foot. I freeze, but the forest does not. It erupts with sound as one, two, three, many more Sparrows, at least ten, begin chirping and flitting about the branches above me. 
 
 I stare up in awe for a moment before taking another step forward, following that pull in my gut. The sparrows fall silent when I continue on. The path widens, the tall fall trees bending backwards away from the center of a small grass floored grove. A thin, pale, and pure beam of sunlight illuminates nearly the perfect center of the clearing, its almost ethereal. I am just about to step within when my breath catches and I stop. There is something here.
 
