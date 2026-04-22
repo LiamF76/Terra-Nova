@@ -39,3 +39,5 @@ She gasps, barely able to breath beneath the trunk of the massive tree. She is s
 "Do what you have to do." I say, nodding towards, his axe, he nods in agreement and draws it. I focus my attention on the woman as Lukas does the dirty work. "Miss, you need to try and stay still. A tree fell on you, a big one, I'm going to try to move it, you need to stay still if you want to live." Her eyes dart around wildly, but she manages to look at me long enough to nod a vague affirmative.
 
 A whelp and cry from the horse is followed by a whispered blessing from Petlia, poor horse.
+
+I get my hands under the trunk, as much leverage as I can generate, try to lift it off her. I brace myself, and I lift with all my might. 
