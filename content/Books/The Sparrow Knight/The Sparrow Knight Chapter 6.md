@@ -56,3 +56,4 @@ Petlia murmurs a curse, or perhaps a blessing, I won't repeat. "Inayet! Your rin
 
 He is shouting, but not in fear, because he is fighting to be heard over the sudden gale of wind, and the light comes after. It is nearly blinding, like looking into the center of a star. My hand is warm like the night I found the ring, it feels like soup made by mother, like a campfire with a friend, like being seated on the back of a loyal steed.
 
+A powerful whinny, with force and royalty like that of a roaring chimera, hits my eardrums above the rising wind. I can barely understand what I see beside me. 
