@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: The Sparrow Knight Chapter 5
 aliases:
 ---
@@ -62,4 +62,60 @@ The infection is trapped in my hand, but my whole body feels numb. Damn it all.
 
 ---
 
+I don't remember much of the strange ritual they performed, only that it was important I stayed conscious. I didn't. Once they opened up my arm, had Lord Tarn stare at me a bit too deeply for me to keep eye contact, and start literally pouring his (somehow green) saliva into the wound, I passed out from the shock and pain.
 
+When I awoke however, the pressure, the weight, and that necromantic cold, were gone. They were replaced with something else, a strength, like my two feet had been molded so firmly with the earth not even Balthazaar could knock me down.
+
+My entire forearm had been reforged like a mountain. The skin was darker, but still skin, though all those blackened and cursed veins shone silver, like ore in the earth. It felt like I could lift anything, and Tarn had me test it, he brought me a chair, I shattered it. A stone altar in his castle? I broke it in half with one downward swing of the new limb. It was unnatural, and amazing.
+
+Lukas was happy enough for me, but every time I mentioned getting back out on the road, I could see the weight of his on his face. He couldn't think about the future anymore. I didn't want to let him fall into a depression, I won't let him give up.
+
+I find him today, nearly a week since our delve into the crypt, sitting on a long stone bench, overlooking the fields north of Tarnkeep. We had shared a similar view above the tavern, but now it felt different. I sit beside him on the bench, but there's a strange feeling about him, I leave a gap to give him some space.
+
+"It's a nice view." I say plainly.
+
+"I don't have time for pleasantries Inayet." He says, lifting his shirt and showing the mass of bandages and healing herbs laid across his skin. "I don't care to talk about the view today, I am dying. And I have to ask a large favor from my closest friend... and worse still I find myself hoping he will say no."
+
+I slide closer, "Oh? And why would Towser ever say no to you Old Man?"
+
+He sighs, smacking away the hand I try to place on his shoulder. "Gods be good boy I need you for once to listen to me. This isn't some traveling nick. I have been doomed. I am going to die, and soon. I'm trying to figure out how to look after you... after I'm gone."
+
+I feel my hands tighten, wringing themselves against one another outside my conscious control. This is not something I even want to think about. "What's the favor you're hoping I will say no to my friend. I am eager to disappoint you by saying yes."
+
+He wipes his eyes, "I know you are." A deep breath in, and the request follows. "I am leaving the caravan. I promised my father one day I would return home, to Petlia, and I am. But I won't make it, I don't have much time, less than a year, and only that long if I pour all my healing knowledge and magics into keeping myself going. So I am asking you, Inayet, to come with me, and after I die, burn me, and bring my ashes to the Ironwood. Scatter me amongst the roots of my father's and grandfather's forest."
+
+I shake my head in disagreement. "You'll be happily surprised, when you make it to the forest yourself. Then you can tell me about every individual tree and no doubt all the wonderful legends and stories, how each leaf is a greater hero than anyone born today."
+
+He relents to my affection, allowing me to place an arm around him. "You don't even remember where the forest is. It's a long journey my boy, North through half of Sovrentia, into the Triumvirate Scales. You'll have a hell of a time getting through there... I wouldn't ask if I didn't have to... our afterlife, it's tied to the trees, you live forever within the roots and earth you are left upon. I want to see my family again, I don't want to be alone in some apple tree down here in the South."
+
+Souls living in trees forever, that's a strange belief. "What happens if someone cuts down your afterlife tree?"
+
+"I become a vengeful forest spirit, and I hunt them until one of us dies."
+
+"Sounds like revenge, and you wouldn't let me have any of that."
+
+"You're better for it. Revenge is not for men, revenge is for the trees and the rivers, the mountains and the seas. When a man cuts down a tree, another grows behind his house, and the roots grow into his cellar. in fifty years his house collapses and kills him. It is slow, and it is fair, but it is not ours to decide. I better not need to remind you not to get tied up with that Aton worshipping lot now boy."
+
+I laugh, and go to clap him on the back, but I stop before I let my new hand send him flying off the bench.
+
+"What about you Ina, what did that mother of yours tell you about tradition? What happens when Sparrows die?"
+
+"Nothing." I say, trying not to choke on the word. "Mother was strange with talk about our family, I do remember once though, she said our name wasn't always Sparrow. We took it to hide, not from anyone else, but from our past. Our family was destined to have things taken from us, a bloodline born from... theft, wrongdoing, not ours but to us, and that we would carry the weight of surviving those injustices forever. I suppose she was right, world took my sister, and now they're taking you."
+
+He grumbles, "Nobody is taking me anywhere, except you. I want to go home Inayet, and hopefully we find that destiny of yours on the road."
+
+I take a breath in and ask a painfully honest question. "Do you think I might be someone who doesn't have a destiny Lukas? I think, perhaps, I am beset to the background of this world. I am quite happy to help people, and you, along on grand journeys. I don't think there is one out there for me, not one I would want anyway."
+
+"Keep talking like that and there'll be trouble for you. Speak of having no destiny longingly while overlooking the land like this, straight from one of those plays they do in Agamarth. You know the ones, the Elven tragedies, like the divine champions of the ancient times who watched the first city fall into the sea. They thought they were bigger than destiny."
+
+I shrug and stand up, walking forward to lean on the railing, absent mindedly pointing North, beyond the Small Divide mountains, beyond the Dreadlands and the Gilded Range, even beyond the dragon wilds of the Triumvirate Scales. It is so far I can barely comprehend it. "Lucky me then. I don't particularly like the ocean anyway. But it may be interesting at least, I do have a disdain for Knights and Lords."
+
+"What might be interesting?" I can hear the tone of his voice, is it intrigue, concern, or both?
+
+"Change. To actually see something fall. Perhaps that's what this world needs, maybe that's all of our destiny. All things pass Old Man, everything dies eventually."
+
+I look back at him, and he looks horrified at that statement. In honestly I don't know where that came from, it bubbled from deep in my heart, somewhere I don't go often. It almost felt beyond myself, some of that destiny he wanted for me so bad accidentally made its way to the surface.
+
+"Or maybe not. Who's to say? I'm not so worried about changing the world today my friend. We need to get you home. Come, let's leave before the sun peaks today, we can came in the Alderwood again, hopefully no rain this time."
+
+We both laugh, and for a moment things are quiet, and good, and then my ring starts to glow.

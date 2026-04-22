@@ -1,21 +1,21 @@
 {
-  "logoType": "imagePath",
+  "logoType": "default",
   "logo": {
     "lucideIcon": "",
-    "imagePath": "z Images/fantasy.png",
+    "imagePath": "",
     "imageLink": ""
   },
   "logoScale": 1.2,
   "iconColorType": "default",
-  "wordmark": "Terra-Nova",
+  "wordmark": "Obsidian",
   "customFont": "interfaceFont",
   "fontSize": "4em",
   "fontColorType": "default",
   "fontWeight": 600,
   "maxResults": 5,
   "showbookmarkedFiles": true,
-  "showRecentFiles": true,
-  "maxRecentFiles": 10,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
   "storeRecentFile": true,
   "showPath": true,
   "selectionHighlight": "default",
@@ -25,11 +25,7 @@
   "recentFilesStore": [
     {
       "filepath": "Working Folder/Dashboard.md",
-      "timestamp": 1776793760277
-    },
-    {
-      "filepath": "Books/The Sparrow Knight/The Sparrow Knight Chapter 5.md",
-      "timestamp": 1776793759616
+      "timestamp": 1776890030317
     }
   ],
   "bookmarkedFileStore": [],
@@ -37,6 +33,6 @@
   "replaceNewTabs": true,
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
-  "omnisearch": true,
+  "omnisearch": false,
   "showOmnisearchExcerpt": true
 }
