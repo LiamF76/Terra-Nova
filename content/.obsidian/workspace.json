@@ -28,20 +28,15 @@
             "id": "b5d3f1666b09447b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Working Folder/Kanban Boards/Solo Projects.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Solo Projects"
+              "icon": "lucide-file",
+              "title": "The Sparrow Knight Chapter 6"
             }
           }
         ],
@@ -92,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -156,9 +152,9 @@
   },
   "active": "b5d3f1666b09447b",
   "lastOpenFiles": [
-    "Working Folder/Dashboard.md",
-    "Working Folder/Kanban Boards/Solo Projects.md",
+    "conflict-files-obsidian-git.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
-    "conflict-files-obsidian-git.md"
+    "Working Folder/Kanban Boards/Solo Projects.md",
+    "Working Folder/Dashboard.md"
   ]
 }
