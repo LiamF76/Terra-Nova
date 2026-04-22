@@ -54,6 +54,10 @@ The warmth spread over my whole arm, and I felt a new strength enter me. My hear
 
 Petlia murmurs a curse, or perhaps a blessing, I won't repeat. "Inayet! Your ring! It's glowing!"
 
-He is shouting, but not in fear, because he is fighting to be heard over the sudden gale of wind, and the light comes after. It is nearly blinding, like looking into the center of a star. My hand is warm like the night I found the ring, it feels like soup made by mother, like a campfire with a friend, like being seated on the back of a loyal steed.
+He is shouting, but not in fear, because he is fighting to be heard over the sudden gale of wind, and the light comes after. It is nearly blinding, like looking into the center of a star. My hand is warm like the night I found the ring, it feels like soup made by mother, like a campfire with a friend, like being seated on the back of a loyal steed. I've been studying my Aelarian, quite a bit in the morning and evenings, and I know what the ring reads inside the band. 
+
+I had been afraid to speak the word, it could summon a monster, curse me further? Abyss be damned, I had no idea what it would do, but if there was a moment to do it, it was now. I muster the courage, feeling bolstered by the warmth of the ring, and by the need to save this woman, and I shout. "Pollux!"
 
 A powerful whinny, with force and royalty like that of a roaring chimera, hits my eardrums above the rising wind. I can barely understand what I see beside me. 
+
+It's a horse. 
