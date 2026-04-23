@@ -40,4 +40,26 @@ She gasps, barely able to breath beneath the trunk of the massive tree. She is s
 
 A whelp and cry from the horse is followed by a whispered blessing from Petlia, poor horse.
 
-I get my hands under the trunk, as much leverage as I can generate, try to lift it off her. I brace myself, and I lift with all my might. aa
+I get my hands under the trunk, as much leverage as I can generate, try to lift it off her. I brace myself, and I lift with all my might.
+
+It groans, the entire trunk is vibrating and fighting me as I try to lift it. Wood fibers protest under my grip, it's not enough. For a second I get worried, I glance back and forth from the woman to the tree, my back feels like it's about to break.
+
+"Inayet!" Petlia shouts as he runs to my side, casting his bloody axe away. He ducks down and gets his arms under the tree.
+
+I shake my head as I struggle to lift it, "No good, don't bother. You're going to make that wound worse than it already is. I can do this!" I shout, trying to convince myself of that as much as to convince him.
+
+As I struggle, my hand starts to feel, which is strange still. The feeling is different than before it was petrified, it's dull and cold, but this feeling overcomes warm. The ring. It had been quiet since we left Tarnkeep, didn't even react when I tried returning to the ruins I found it in, but suddenly it was awake.
+
+The warmth spread over my whole arm, and I felt a new strength enter me. My heart pounded like the thundering of a thousand hooves, I felt like a stallion racing through fields of grass. The tree creeks again, but I lift it just enough for her to breath a bit easier. I'm at my limit even with the renewed stamina, but the ring isn't finished with me.
+
+Petlia murmurs a curse, or perhaps a blessing, I won't repeat. "Inayet! Your ring! It's glowing!"
+
+He is shouting, but not in fear, because he is fighting to be heard over the sudden gale of wind, and the light comes after. It is nearly blinding, like looking into the center of a star. My hand is warm like the night I found the ring, it feels like soup made by mother, like a campfire with a friend, like being seated on the back of a loyal steed. I've been studying my Aelarian, quite a bit in the morning and evenings, and I know what the ring reads inside the band. 
+
+I had been afraid to speak the word, it could summon a monster, curse me further? Abyss be damned, I had no idea what it would do, but if there was a moment to do it, it was now. I muster the courage, feeling bolstered by the warmth of the ring, and by the need to save this woman, and I shout. "Pollux!"
+
+A powerful whinny, with force and royalty like that of a roaring chimera, hits my eardrums above the rising wind. I can barely understand what I see beside me. 
+
+It's a horse, a horse unlike any of this world, or any I have seen. it's body is pure starlight, like looking up at the night sky, I see planets, suns, and endless stars. Its hooves are a spectral mist of purple and red, and it hovers as if barely touching the ground. It's mane is the color of dusk itself, and its eyes lock onto mine for a moment of pure understanding.
+
+>>>>>>> origin/Main
