@@ -32,9 +32,9 @@ The worst kind of luck. Tree fell, crushed this woman and her horse just off the
 
 "Hey lady, you alive down there?" I ask, gently flicking her cheek, which awakens her.
 
-She gasps, barely able to breath beneath the trunk of the massive tree. She is short, but it's still a big tree, at least 7ft wide at the base. The horse is kicking and fighting, its entire front shoulder has been crushed, the neck is twisting and its back legs are thrashing wildly.
+She gasps, barely able to breathe beneath the trunk of the massive tree. She is short, but it's still a big tree, at least 7ft wide at the base. The horse is kicking and fighting, its entire front shoulder has been crushed, the neck is twisting, and its back legs are thrashing wildly.
 
-"Inayet we nee to get that horse under control before- AH!" He shouts as the horse nearly takes both my and the woman's heads off with its hooves.
+"Inayet we need to get that horse under control before-AH!" He shouts as the horse nearly takes both my and the woman's heads off with its hooves.
 
 "Do what you have to do." I say, nodding towards, his axe, he nods in agreement and draws it. I focus my attention on the woman as Lukas does the dirty work. "Miss, you need to try and stay still. A tree fell on you, a big one, I'm going to try to move it, you need to stay still if you want to live." Her eyes dart around wildly, but she manages to look at me long enough to nod a vague affirmative.
 
@@ -48,9 +48,9 @@ It groans, the entire trunk is vibrating and fighting me as I try to lift it. Wo
 
 I shake my head as I struggle to lift it, "No good, don't bother. You're going to make that wound worse than it already is. I can do this!" I shout, trying to convince myself of that as much as to convince him.
 
-As I struggle, my hand starts to feel, which is strange still. The feeling is different than before it was petrified, it's dull and cold, but this feeling overcomes warm. The ring. It had been quiet since we left Tarnkeep, didn't even react when I tried returning to the ruins I found it in, but suddenly it was awake.
+As I struggle, my hand starts to feel, which is strange still. The feeling is different from before it was petrified, it's dull and cold, but this feeling overcomes warm. The ring. It had been quiet since we left Tarnkeep, didn't even react when I tried returning to the ruins I found it in, but suddenly it was awake.
 
-The warmth spread over my whole arm, and I felt a new strength enter me. My heart pounded like the thundering of a thousand hooves, I felt like a stallion racing through fields of grass. The tree creeks again, but I lift it just enough for her to breath a bit easier. I'm at my limit even with the renewed stamina, but the ring isn't finished with me.
+The warmth spread over my whole arm, and I felt a new strength enter me. My heart pounded like the thundering of a thousand hooves, I felt like a stallion racing through fields of grass. The tree creeks again, but I lift it just enough for her to breathe a bit easier. I'm at my limit even with the renewed stamina, but the ring isn't finished with me.
 
 Petlia murmurs a curse, or perhaps a blessing, I won't repeat. "Inayet! Your ring! It's glowing!"
 
@@ -60,7 +60,7 @@ I had been afraid to speak the word, it could summon a monster, curse me further
 
 A powerful whinny, with force and royalty like that of a roaring chimera, hits my eardrums above the rising wind. I can barely understand what I see beside me. 
 
-It's a horse, a horse unlike any of this world, or any I have seen. it's body is pure starlight, like looking up at the night sky, I see planets, suns, and endless stars. Its hooves are a spectral mist of purple and red, and it hovers as if barely touching the ground. It's mane is the color of dusk itself, and its eyes lock onto mine for a moment of pure understanding.
+It's a horse, a horse unlike any of this world, or any I have seen. it's body is pure starlight, like looking up at the night sky, I see planets, suns, and endless stars. Its hooves are a spectral mist of purple and red, and it hovers as if barely touching the ground. Its mane is the color of dusk itself, and its eyes lock onto mine for a moment of pure understanding.
 
 Without words, it bends its neck, and begins to put pressure on the log beside me. The ring vibrates and I can feel the horses intent, it wants to help. Together we push, and the trunk gives way, going high enough off the woman's chest for Lukas to pull her out gently before I drop it back onto the ground.
 
