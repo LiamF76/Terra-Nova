@@ -82,7 +82,7 @@ Lukas sites beside me, pulling a bone from his animal materials pack. "Looks lik
 
 ![[The Sparrow Knight Chapter 6-1776952980941.webp|195]]
 
-"This is a protection talisman." He gets up and scoops a handful of earth from the end of the grave where her head lay, placing the talisman beneath the dirt. "It will help her along the road to the afterlife, and prevent those who would seek to necromance or summon her from beyond."
+"This is a protection talisman." He gets up and scoops a handful of earth from the end of the grave where her head lay, placing the talisman beneath the dirt. "It will help her along the road to the afterlife, and prevent those who would seek to cast necromancy or summon her from beyond."
 
 His gauntlets clink like a ring of keys as he gently clasps his hands in prayer. "Tena, great and green world-mother, guide this soul on their journey to your siblings realm, and let the heavens and Elysium be open to them. She is buried in your fertile earth, let her body nourish and sustain the Oakenheart, and the magic of the land. Forgive those who have lived while you are dead, and revere those who die for the ones who will live after. "
 
@@ -102,13 +102,13 @@ I hold up my stone and silvered hand, fiddling with my quite magical ring. I try
 
 "I'm not going to Tamora, the whole province of Ark is cursed, only madmen, pilgrims, and adventurers on suicide missions go there." I pick up a stone and start running it along my palm, its a weird vibration through my rock skin, but it's nice.
 
-"You're taking me to the Triumvirate Scales and you're worried about a civilized province being cursed?" Petlia chuckles at the absurdity of my comment.
+"You're taking me to the Triumvirate Scales, and you're worried about a civilized province being cursed?" Petlia chuckles at the absurdity of my comment.
 
 "The Scales are dangerous, Ark is cursed, there's a difference. One is a death sentence, the other is a death wish."
 
-Lukas pulls a length of leather cord from his pack and starts to feed it through the hole on his bone.  "Well it's good to know you still have principals. You never wanted to visit the monument to Arkonil's defeat? I know you loved stories about great Wizards and elven knights as a child."
+Lukas pulls a length of leather cord from his pack and starts to feed it through the hole on his bone.  "Well it's good to know you still have principals. You never wanted to visit the monument to Arkonil's defeat? I know you loved stories about great Wizards and Elven knights as a child."
 
-"Never meet your heroes Old Man. I met a pilgrim once in Highstride who said it's not even the Uncrowned holding the Reckoner Blade. Some random guy. Why bother the journey if the destination is fake anyways?"
+"Never meet your heroes Old Man. I met a pilgrim once in Highstride who said it's not even the Uncrowned holding the Reckoner Blade. Some random guy. Why bother the journey if the destination is fake anyway?"
 
 He cuts the cord at a decent length and begins to tie off the ends. "Well you may learn something on the way. I just want you to have things to do after I'm gone and such. Wouldn't want you ending up lost... or with a death wish."
 

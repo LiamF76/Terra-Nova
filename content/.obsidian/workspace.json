@@ -58,18 +58,6 @@
               "icon": "lucide-file",
               "title": "The Sparrow Knight Chapter 6"
             }
-          },
-          {
-            "id": "2f8e54c790f8edb7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Books/The Sparrow Knight/Petlia's Talisman of Protection.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Petlia's Talisman of Protection"
-            }
           }
         ],
         "currentTab": 2
@@ -195,11 +183,11 @@
   },
   "active": "f530b78d3739babe",
   "lastOpenFiles": [
+    "Books/The Sparrow Knight/Petlia's Talisman of Protection.md",
+    "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
     "z Images/The Sparrow Knight Chapter 6-1776952980941.webp",
     "z Images/The Sparrow Knight Chapter 6-1776952973868.webp",
-    "Books/The Sparrow Knight/Petlia's Talisman of Protection.md",
     "Working Folder/Dashboard.md",
-    "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 5.md",
@@ -240,7 +228,6 @@
     "z Images/Vesponous-1776300870324.webp",
     "z Images/Vesponous-1776300867952.webp",
     "z Images/Vesponous-1776300841675.webp",
-    "z Images/Gravebinder-1776300638628.webp",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
   ]
