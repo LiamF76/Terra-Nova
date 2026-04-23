@@ -23,4 +23,4 @@ She just stood there, looked at Lukas who had just lassoed her, and went back to
 
 I furrowed my brow and looked at Lukas. "I suppose we never checked if she was friendly."
 
-He approaches cautiously, gently petting the war horse's snout. "Oh she is very nice, probably could've walked right up to her and thrown a saddle on." He gripped the lasso, and gently pulled the horse along behind him to a clear we had made out camp, she followed without protest. "There's a good girl. Well done Inayet! Now it is time for  "
+He approaches cautiously, gently petting the war horse's snout. "Oh she is very nice, probably could've walked right up to her and thrown a saddle on." He gripped the lasso, and gently pulled the horse along behind him to a clear we had made out camp, she followed without protest. "There's a good girl. Well done Inayet! Now it is time to get you on your horse."
