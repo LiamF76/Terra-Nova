@@ -96,5 +96,30 @@ I pull a large parchment from her bag, folded many times over, ink bleeding thro
 
 Lukas shrugs, "Never liked cranes much. Sparrows been my bird of choice since I met you boy. Can't say I've heard of the Cranewatch either, there's hundreds of ruins in Kheagon alone, could be anything. We can worry about that later. You summoned a horse made of stars today, I would love to talk about that."
 
-I hold up my stone and silvered hand, fiddling with my quite magical ring. I try to hide a smile, but the smirk sneaks out of the corner of my mouth. "That was interesting hm? More than interesting, that was exciting. I was wary of saying the word on the ring, but I'd known it for weeks."
+I hold up my stone and silvered hand, fiddling with my quite magical ring. I try to hide a smile, but the smirk sneaks out of the corner of my mouth. "That was interesting hm? More than interesting, that was exciting. I was wary of saying the word on the ring, but I'd known it for weeks." I tap the ring lightly, thinking how thankful I was for the help. "I figure if I say it again the horse will show up. I think that's the magic of the ring, speak the word, summon a horse."
 
+"You should take it to Tamora, the Lady Spacetime lives in that magic castle, they could tell you more about it, perhaps learn where it came from." Lukas says as he uses his knife to carve a small hole through the top of his new talisman.
+
+"I'm not going to Tamora, the whole province of Ark is cursed, only madmen, pilgrims, and adventurers on suicide missions go there." I pick up a stone and start running it along my palm, its a weird vibration through my rock skin, but it's nice.
+
+"You're taking me to the Triumvirate Scales and you're worried about a civilized province being cursed?" Petlia chuckles at the absurdity of my comment.
+
+"The Scales are dangerous, Ark is cursed, there's a difference. One is a death sentence, the other is a death wish."
+
+Lukas pulls a length of leather cord from his pack and starts to feed it through the hole on his bone.  "Well it's good to know you still have principals. You never wanted to visit the monument to Arkonil's defeat? I know you loved stories about great Wizards and elven knights as a child."
+
+"Never meet your heroes Old Man. I met a pilgrim once in Highstride who said it's not even the Uncrowned holding the Reckoner Blade. Some random guy. Why bother the journey if the destination is fake anyways?"
+
+He cuts the cord at a decent length and begins to tie off the ends. "Well you may learn something on the way. I just want you to have things to do after I'm gone and such. Wouldn't want you ending up lost... or with a death wish."
+
+I shake my head. "Just you wait, we'll run into a great priest chosen by Illuman, he will kiss your ribs with lips of starlight and cure your ills friend."
+
+He leans over me holding the carved talisman, now a necklace with a tied cord. It drops around my neck. "Well now at least you won't go turning a skeleton on me."
+
+I tuck my new protection rune into my shirt. "Let's hope it works then." I hold my hand up to the fading light of the sunset, just barely creeping over the hills to the west. The silver veins along my skin glint in pink and orange light, and I think that my new hand is quite beautiful, even if it is stone. "Lord Tarn says that the color of the metal represents your soul. Something his family learned from an old kingdom of dwarves. They had bronze souls, and a demon came to steal their riches, tearing down their mountain and killing them all. Bronze was greed and wealth, Gold was strength and recklessness."
+
+He laughs again, a deep laugh from the stomach, "Like dwarves knew anything about men's souls. And what about your silver soul then?"
+
+"Silver was loyalty. But not good loyalty, not being sworn to a cause or people, being sworn ton something like a concept, an oath, and men destined to die for that loyalty." At Petlia's mention, the silver reminds me of many in history that are not remembered as heroes, like the Uncrowned rebel who fought a tyrant King that killed his heirs and feasted on corpses. Now the Uncrowned King is dead, his line was ended, and the Tyrant's descendants still rule. Not even far, they found their way to Sovrentia, ruling the Crest province, and one of them is the Sovereigness of the whole nation.
+
+Strange how wars go, the man who fought for the right cause was against all the world, and the people who saved the world fought for the tyrant. What kind of heroes would work with a King like that? Good ones I suppose, because they stopped Arkonil the Reckoner, the demon king of the Abyss.
