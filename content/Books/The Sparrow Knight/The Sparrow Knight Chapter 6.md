@@ -122,4 +122,14 @@ He laughs again, a deep laugh from the stomach, "Like dwarves knew anything abou
 
 "Silver was loyalty. But not good loyalty, not being sworn to a cause or people, being sworn ton something like a concept, an oath, and men destined to die for that loyalty." At Petlia's mention, the silver reminds me of many in history that are not remembered as heroes, like the Uncrowned rebel who fought a tyrant King that killed his heirs and feasted on corpses. Now the Uncrowned King is dead, his line was ended, and the Tyrant's descendants still rule. Not even far, they found their way to Sovrentia, ruling the Crest province, and one of them is the Sovereigness of the whole nation.
 
-Strange how wars go, the man who fought for the right cause was against all the world, and the people who saved the world fought for the tyrant. What kind of heroes would work with a King like that? Good ones I suppose, because they stopped Arkonil the Reckoner, the demon king of the Abyss.
+Strange how wars go, the man who fought for the right cause was against all the world, and the people who saved the world fought for the tyrant. What kind of heroes would work with a King like that? Good ones I suppose, because they stopped Arkonil the Reckoner, the demon king of the Abyss. But can they truly be good if they helped a tyrant? They did stop the tyrant too, but in the process innocents died, and he was cruel...
+
+"You still there boy? You're staring at your arm like it's a roast chicken, or a pretty girl." Lukas gently smacks the back of my head. "Hello?!"
+
+I shudder, snapping back to reality, "Sorry, I was thinking about heroes, and my hand is quite pretty I think."
+
+"That is disgusting, I don't even want to think about what that means." He says, covering his eyes.
+
+"You're the gross one, I didn't mean it in any way other than that I like it."
+
+He splits his fingers comically and looks at me through his hand. "You are quite a hero yourself boy. Didn't think for a second before you leapt to help that woman. I raised you right. There's greatness in you, that silver in your soul eh? Save some loyalty for the rest of us. You're already on your way, magic hand, magic horse, you're a myth already!"
