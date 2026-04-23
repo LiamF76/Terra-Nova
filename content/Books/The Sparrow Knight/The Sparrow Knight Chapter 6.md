@@ -62,3 +62,4 @@ A powerful whinny, with force and royalty like that of a roaring chimera, hits m
 
 It's a horse, a horse unlike any of this world, or any I have seen. it's body is pure starlight, like looking up at the night sky, I see planets, suns, and endless stars. Its hooves are a spectral mist of purple and red, and it hovers as if barely touching the ground. It's mane is the color of dusk itself, and its eyes lock onto mine for a moment of pure understanding.
 
+Without words, it bends its neck, and begins to put pressure on the log beside me. The ring vibrates and I can feel the horses intent, it wants to help. 
