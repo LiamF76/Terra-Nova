@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Books/The Sparrow Knight/Untitled.md",
+      "timestamp": 1776957621473
+    },
+    {
+      "filepath": "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
+      "timestamp": 1776957618612
+    },
+    {
       "filepath": "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
-      "timestamp": 1776956963636
+      "timestamp": 1776957616018
+    },
+    {
+      "filepath": "Working Folder/Kanban Boards/Solo Projects.md",
+      "timestamp": 1776957600283
     },
     {
       "filepath": "Books/The Sparrow Knight/Petlia's Talisman of Protection.md",
       "timestamp": 1776956962210
-    },
-    {
-      "filepath": "Working Folder/Dashboard.md",
-      "timestamp": 1776952792009
-    },
-    {
-      "filepath": "Working Folder/Kanban Boards/Solo Projects.md",
-      "timestamp": 1776946818325
     }
   ],
   "bookmarkedFileStore": [],
