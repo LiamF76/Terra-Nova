@@ -10,4 +10,6 @@ We crest the grassy hill at dawn, my favorite time of day. The morning dew on th
 
 It's chilly out, and I would rather be beside the fire, or walking to keep warm, but Lukas has us huddled behind trees on the ridge, waiting. The faint chuff of a steed sets him at attention, and he whistles at me, pointing beyond the tree line.
 
-There I see our target, the thing Lukas has had us chasing since he saw it. 
+There I see our target, the thing Lukas has had us chasing since he saw it. A beautiful chestnut colored horse, tall and strong, a beautiful steed. By Lukas' eye, a trained war horse. Her hooves carried old iron horseshoes, and her pelt looked disheveled, like a mount abandonned, not a wild horse. We had noticer her in the plains days ago, and had been chasing ever since, Lukas couldn't tolerate walking any longer.
+
+I had offered to let him ride Pollux, but my magical friend did not take kindly to being ridden by Lukas or I. 
