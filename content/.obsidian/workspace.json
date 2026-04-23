@@ -10,11 +10,18 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Working Folder/Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -140,9 +147,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Working Folder/Dashboard.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
-    "Working Folder/Dashboard.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 5.md",
     "conflict-files-obsidian-git.md",
