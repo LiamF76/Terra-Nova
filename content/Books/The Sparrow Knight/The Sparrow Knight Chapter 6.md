@@ -40,4 +40,4 @@ She gasps, barely able to breath beneath the trunk of the massive tree. She is s
 
 A whelp and cry from the horse is followed by a whispered blessing from Petlia, poor horse.
 
-I get my hands under the trunk, as much leverage as I can generate, try to lift it off her. I brace myself, and I lift with all my might. 
+I get my hands under the trunk, as much leverage as I can generate, try to lift it off her. I brace myself, and I lift with all my might. aa
