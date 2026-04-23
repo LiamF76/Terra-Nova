@@ -64,3 +64,37 @@ It's a horse, a horse unlike any of this world, or any I have seen. it's body is
 
 Without words, it bends its neck, and begins to put pressure on the log beside me. The ring vibrates and I can feel the horses intent, it wants to help. Together we push, and the trunk gives way, going high enough off the woman's chest for Lukas to pull her out gently before I drop it back onto the ground.
 
+I take a moment to breathe, my arms are on fire from the effort, but the strength I carry now is terrifying. The horse doesn't look tired, it just stares at me for a moment. We lock eyes, and there is a moment of understanding, and then it is gone.
+
+---
+
+My feet are still tired, but now my arms are too. Between the tree lifting and shoveling, I am beat. I wipe my brow and collapse against a stone a bit away from the grave, Lukas hands me a bowl.
+
+I look down at the contents, slightly brown water and chunks of meat, Petlia stew, how delicious...
+
+I tilt the bowl back and have a sip, it's bland, but the meat is tender, rabbit I think. Not the worst dinner, and getting anything in my stomach after burying that woman is good.
+
+"She wasn't going to live boy. Her ribs and guts were smashed to bits. She was suffering, you eased that. You'll feel better after some dinner, and time." He says kindly. I try to take his advice, but killing anything other than murderous monsters has never sat right with me, and people are entirely different.
+
+There's something haunting about that mound of dirt, clearly disturbed, knowing there's a body in there. Like the ground is haunted. "I'm half scared to death she will pop back up like in that crypt and tear my other arm off, then kill you." I remark as I take another sip of my stew.
+
+Lukas sites beside me, pulling a bone from his animal materials pack. "Looks like this will come in handy then." He holds it in front of me, taking his carving knife out and slicing it into a small oval, almost like a medallion. His gloved hand holds the blade so delicately, its more like painting than it is carving, but he etches clean straight lines across its surface, making a symbol.
+
+![[The Sparrow Knight Chapter 6-1776952980941.webp|195]]
+
+"This is a protection talisman." He gets up and scoops a handful of earth from the end of the grave where her head lay, placing the talisman beneath the dirt. "It will help her along the road to the afterlife, and prevent those who would seek to necromance or summon her from beyond."
+
+His gauntlets clink like a ring of keys as he gently clasps his hands in prayer. "Tena, great and green world-mother, guide this soul on their journey to your siblings realm, and let the heavens and Elysium be open to them. She is buried in your fertile earth, let her body nourish and sustain the Oakenheart, and the magic of the land. Forgive those who have lived while you are dead, and revere those who die for the ones who will live after. "
+
+"That's a nice prayer Lukas." Another sip of stew, the dregs are not nearly as tolerable as the initial taste. 
+
+I place my bowl beside the fire and take a seat beside my bags, inspecting the supplies left behind by our unfortunate woman. Her pack was well supplied, and we helped ourselves to her food. We aren't thieves, because she is gone, and we aren't grave robbers, because she wasn't buried yet. It still felt a bit wrong though.
+
+I pull a large parchment from her bag, folded many times over, ink bleeding through the pages, and  large red X marked somewhere between... right about here we are and the swamp. It's a tower, with a name, and it seems to have been her destination before the fallen tree took her life.
+
+"Do you know somewhere called Cranewatch? It's marked on her map here." I ask Lukas as he sits down again beside me, carving another bone. "Looks like a tower, perhaps a ruin."
+
+Lukas shrugs, "Never liked cranes much. Sparrows been my bird of choice since I met you boy. Can't say I've heard of the Cranewatch either, there's hundreds of ruins in Kheagon alone, could be anything. We can worry about that later. You summoned a horse made of stars today, I would love to talk about that."
+
+I hold up my stone and silvered hand, fiddling with my quite magical ring. I try to hide a smile, but the smirk sneaks out of the corner of my mouth. "That was interesting hm? More than interesting, that was exciting. I was wary of saying the word on the ring, but I'd known it for weeks."
+

@@ -58,6 +58,18 @@
               "icon": "lucide-file",
               "title": "The Sparrow Knight Chapter 6"
             }
+          },
+          {
+            "id": "2f8e54c790f8edb7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Books/The Sparrow Knight/Petlia's Talisman of Protection.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Petlia's Talisman of Protection"
+            }
           }
         ],
         "currentTab": 2
@@ -183,9 +195,12 @@
   },
   "active": "f530b78d3739babe",
   "lastOpenFiles": [
-    "Working Folder/Kanban Boards/Solo Projects.md",
+    "z Images/The Sparrow Knight Chapter 6-1776952980941.webp",
+    "z Images/The Sparrow Knight Chapter 6-1776952973868.webp",
+    "Books/The Sparrow Knight/Petlia's Talisman of Protection.md",
     "Working Folder/Dashboard.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
+    "Working Folder/Kanban Boards/Solo Projects.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 5.md",
     "conflict-files-obsidian-git.md",
@@ -209,8 +224,6 @@
     "Books/Fics/A Timekeeper's Tale/ATT Chapter 3.md",
     "Books/Fics/Tales from Terra-Nova/Chapter 1.md",
     "Books/Fics/A Timekeeper's Tale/ATT Chapter 2.md",
-    "Books/Fics/A Timekeeper's Tale/ATT Chapter 1.md",
-    "Books/Tales from Terra-Nova/Chosen One.md",
     "Books/The Reckoner's Rise/Old TRR Chapters",
     "Books/Fics/Tales from Terra-Nova",
     "Books/Fics/A Timekeeper's Tale",
@@ -228,7 +241,6 @@
     "z Images/Vesponous-1776300867952.webp",
     "z Images/Vesponous-1776300841675.webp",
     "z Images/Gravebinder-1776300638628.webp",
-    "z Images/Gravebinder-1776300482680.webp",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
   ]
