@@ -95,5 +95,5 @@ Another flickers, then another, I count at least 8 lights, but can't get my focu
 
 The only thing that prevents me from speaking further, from urging Lukas to get out of here before whatever is happening happens, is the cold steel knife that finds my throat. Lukas looks up at whoever is holding that knife to my neck, and nods slowly.
 
-He looks at me and mouths the words , 'stay quiet'. My eyes widen, but my head nods very slowly, and with very little motion.
+He looks at me and mouths the words , 'Stay quiet'. My eyes widen, but my head nods very slowly, and with very little motion.
 
