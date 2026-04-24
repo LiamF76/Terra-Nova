@@ -25,3 +25,12 @@ I furrowed my brow and looked at Lukas. "I suppose we never checked if she was f
 
 He approaches cautiously, gently petting the war horse's snout. "Oh she is very nice, probably could've walked right up to her and thrown a saddle on." He gripped the lasso, and gently pulled the horse along behind him to a clear we had made out camp, she followed without protest. "There's a good girl. Well done Inayet! Now it is time to get you on your horse."
 
+Lukas, sitting atop his new mount, has quite a judgmental look on his face. "I see nothing humorous about that." I say turning away from him as I flex my stone hand open and closed, admiring the ring, respectfully and cautiously.
+
+"You don't want to bother him? He's a magic horse in a ring."
+
+I swing my ring finger about, drawing a star in the air with my mind. "I am not sure if he's inside the ring or the ring summons him from somewhere else... I could ask? He understands Aelarian, haven't learned to ask 'where do you live' yet though. I'll add that to my list." I fidget with the ring a moment.
+
+Lukas gives me a confused look and a nod, indicating to me that it's time to stop stalling. I sigh, and hold out my hand, palm down. "Pollux!" I call out.
+
+He appears like a silent mist, rolling in on spectral hoof behind me.
