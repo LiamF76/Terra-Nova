@@ -133,3 +133,5 @@ I shudder, snapping back to reality, "Sorry, I was thinking about heroes, and my
 "You're the gross one, I didn't mean it in any way other than that I like it."
 
 He splits his fingers comically and looks at me through his hand. "You are quite a hero yourself boy. Didn't think for a second before you leapt to help that woman. I raised you right. There's greatness in you, that silver in your soul eh? Save some loyalty for the rest of us. You're already on your way, magic hand, magic horse, you're a myth already!"
+
+p
