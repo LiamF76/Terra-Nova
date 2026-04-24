@@ -48,5 +48,11 @@ This is a book / backstory of Inayet Uncrowned, beginning under the name Inayet 
 - [[The Sparrow Knight Chapter 4]]
 - [[The Sparrow Knight Chapter 5]]
 - [[The Sparrow Knight Chapter 6]]
-- The Sparrow Knight Chapter 7
+- [[The Sparrow Knight Chapter 7]]
+	- Inayet rides Pollux for the first time, Lukas gets his horse and names it coffee, they go to some ruins and find Petlia's family crest on the outside. They go in but get snuck up on, its a knight who serves Lord Tarn. He was scouring the ruins for an artifact, very interested in Pollux, gives Inayet a bad vibe.
 - The Sparrow Knight Chapter 8
+	- summary
+- The Sparrow Knight Chapter 9
+	- summary
+- The Sparrow Knight Chapter 10
+	- summary

@@ -33,4 +33,67 @@ I swing my ring finger about, drawing a star in the air with my mind. "I am not 
 
 Lukas gives me a confused look and a nod, indicating to me that it's time to stop stalling. I sigh, and hold out my hand, palm down. "Pollux!" I call out.
 
-He appears like a silent mist, rolling in on spectral hoof behind me.
+He appears like a silent mist, rolling in on spectral hoof behind me. His snout just above my left shoulder, letting out a cool breath he gives me chills. I hesitate, but brave the feat I hold and touch his nose, petting it gently as I turn to face the great steed.
+
+"Hello Pollux." He rears his head back and chuffs quietly, was that a greeting? "It's good to see you. Sorry for not calling on you for a few days, I wanted to give you time to rest." Pollux bowed his head and began chewing on some of the grass, unbothered by my attempt at conversation. "Alright then. Well you are a magical horse, and I carry a ring that summons you. I have been walking for days, I am very tired, and I would like to ride you. I uhm, well I would greatly appreciate that."
+
+Pollux looked up at me for a moment, he looked like Lukas, as if he raised an eyebrow at me, then went back to eating his grass. 
+
+I point at the horse. "Pollux." My stone hand enters a pouch on my belt, and pulls out a small cube of sugar. "Treat. Sugar cube."
+
+He sniffs at my hand, Gods he is a massive horse, a war horse, truly, something bred for battle and carrying you across ramparts and over defenses. Slowly, he takes the sugar cube, enjoying it.
+
+I take my chance while he is focused on the treat, and step to his side, slowly, getting my hands on his back, and leaping up onto him. He grunts slightly when i land, but doesn't seem too bothered by my suddenly being on him.
+
+Lukas is beaming. "Look at you go boy!"
+
+Pollux looks up, notices me on his back, and notices Petlia's celebration. As if in response to Lukas' joy, Pollux stands up and takes a few small steps, looking to me for direction.
+
+"Well how about that..." I remark, and look out over the plains. Across the way I see a small puff of smoke, it looks to be from a campfire. I point it out to Petlia and he nods in agreement.
+
+I pat Pollux on the neck, and as if responding to my will, a set of spectral reins appear, and fall into my hands. I cannot help but feel a smile creep up my mouth, and I spur Pollux towards the smoke. He launches forward without hesitation, carrying me like the moons fly across the sky.
+
+---
+
+The smoke is much clearer as we get close. A small ruin, something quite old, though still largely intact. Moss covered stones, broken windows, and no roof remaining to speak of. Could be a castle, cathedral, some kind of fort, not sure, but there must be someone inside.
+
+Lukas trots up behind me on his horse, Pollux was quite a bit faster, he had barely broken a sweat getting here, while Lukas' horse looked a bit winded by the sprint. "That Pollux is quick! He moves like a Priest of Aton!" 
+
+I nod, and take stock of the ruins. Dropping from Pollux I inspect the stonework. In my experience, you are less likely to end up in dangerous ruins and delving unexpected dungeons if you check carefully at the door. That way you can find out if you're walking into danger. This ruin appears to be old, the stone is gray and finely cut, but not ornate and enchanted like Aelarian or Elvish ruins, this was made my men, which means it is likely a ruin from the Estorian empire.
+
+I pull forward what remains of the wooden door at the front, lifting a few strings of vines. There I find a symbol, a falling leaf and axe. I beckon to Lukas with my stone hand, mimicking the motion I summoned Pollux with, "Historical symbols expert! I summon you!"
+
+"That was stupid." He says as he dismounts, dropping to the ground beside his horse. "Stay here Coffee, that's a good girl."
+
+I hold the vines up for Lukas to inspect, "You named her Coffee?"
+
+"Yes." He says, tracing the symbol on the bricks with his finger. "She loves it. But I believe our mounts are not going to be the greatest treasure we find here my boy." He reaches into his pocket, pulling out a piece of paper, unfurling it and holding it up to me.
+
+It is covered in symbols and meanings, all nature related. "This is a Petlia family seal. I believe this ruin... is an ancient stronghold! A vault where some powerful artifact was stored. We may have just stumbled upon a relic of my history!"
+
+He looks like a child on the evening of Yule. His teeth showing in a full facial grin that I can't help but adore.
+
+He throws open the door and walks inside without a care. "Wait Lukas! It could be dangerous, there's a fire inside someone is already here!"
+
+He seems not to care, and I have no choice to follow after him. I step inside, then remember Pollux, and decide to bring him along. I beckon the horse inside, not warning to leave a giant star horse outside for just anyone to find. I shut the door, and follow Lukas.
+
+There are broken pillars, the remains of what I guess were once stained glass windows, and along the back wall I see Lukas. He is kneeling beside a campfire, and beneath a tree that has grown into the back wall of the ruins. Beside him I see a spattering of traveling supplies, pots, weapons, and a backpack. Someone was camping her very recently.
+
+"Lukas, come on, someone has been searching here, if there were any artifacts they are gone. Let's get back on the road before they come back. Could be dangerous people." Placing my hand on his shoulder, I see what has grabbed his attention.
+
+Fused into the trunk of the strange tree is a weapon. Like a stick dropped in mud, the center of the trunk contains an axe. It has colored to the wood of the tree, and a few small branches have grown from it, but it looks exactly like a greataxe. A long handle for using both hands, and a unique blade that covers two directions.
+
+"Weird looking tree, they cut it to look like an axe. Now seriously Lukas let's get out of here."
+
+My body is turning to leave, and I see Pollux facing away, eyeing the door. Lukas snaps me back around, grabbing my shoulder. "That's not carved to look like an axe boy, that is an axe. Sealed within the wood. It's an ancient technique used by our peoples, often Druids as well, to seal away powerful items." 
+
+He begins rummaging through his pockets and belt. "We have found something remarkable, truly remarkable Inayet. Now we need to figure out how to unlock it."
+
+My eyes dart around, the fear is mounting in my gut. Whoever was here, knows that's not a carving or they wouldn't bother staying for an empty ruin. That means they'll be back. Out of the corner of my eye I see a faint light. My head whips in its direction, but it's gone.
+
+Another flickers, then another, I count at least 8 lights, but can't get my focus on them. Pollux stomps on the ground, something is very wrong. I kneel down beside Lukas and grab him by the shoulder. "Lukas, I am not messing around, something is wrong here and we need to *leave*."
+
+The only thing that prevents me from speaking further, from urging Lukas to get out of here before whatever is happening happens, is the cold steel knife that finds my throat. Lukas looks up at whoever is holding that knife to my neck, and nods slowly.
+
+He looks at me and mouths the words , 'stay quiet'. My eyes widen, but my head nods very slowly, and with very little motion.
+
