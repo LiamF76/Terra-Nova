@@ -55,3 +55,5 @@ I pat Pollux on the neck, and as if responding to my will, a set of spectral rei
 
 ---
 
+The smoke is much clearer as we get close. A small ruin, something quite old, though still largely intact. Moss covered stones, broken windows, and no roof remaining to speak of. Could be a castle, cathedral, some kind of fort, not sure, but there is someone inside.
+
