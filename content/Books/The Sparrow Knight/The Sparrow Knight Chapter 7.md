@@ -25,8 +25,6 @@ I furrowed my brow and looked at Lukas. "I suppose we never checked if she was f
 
 He approaches cautiously, gently petting the war horse's snout. "Oh she is very nice, probably could've walked right up to her and thrown a saddle on." He gripped the lasso, and gently pulled the horse along behind him to a clear we had made out camp, she followed without protest. "There's a good girl. Well done Inayet! Now it is time to get you on your horse."
 
----
-
 Lukas, sitting atop his new mount, has quite a judgmental look on his face. "I see nothing humorous about that." I say turning away from him as I flex my stone hand open and closed, admiring the ring, respectfully and cautiously.
 
 "You don't want to bother him? He's a magic horse in a ring."
