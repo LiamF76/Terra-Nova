@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,48 +18,11 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "6b2fabfa3cccbbae",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/Solo Projects.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Solo Projects"
-            }
-          },
-          {
-            "id": "9d2e30545a9b8002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Sparrow Knight Chapter 7"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +143,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9d2e30545a9b8002",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
+    "conflict-files-obsidian-git.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
     "Working Folder/Dashboard.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
