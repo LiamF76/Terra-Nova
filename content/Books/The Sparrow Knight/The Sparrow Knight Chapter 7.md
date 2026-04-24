@@ -33,4 +33,25 @@ I swing my ring finger about, drawing a star in the air with my mind. "I am not 
 
 Lukas gives me a confused look and a nod, indicating to me that it's time to stop stalling. I sigh, and hold out my hand, palm down. "Pollux!" I call out.
 
-He appears like a silent mist, rolling in on spectral hoof behind me.
+He appears like a silent mist, rolling in on spectral hoof behind me. His snout just above my left shoulder, letting out a cool breath he gives me chills. I hesitate, but brave the feat I hold and touch his nose, petting it gently as I turn to face the great steed.
+
+"Hello Pollux." He rears his head back and chuffs quietly, was that a greeting? "It's good to see you. Sorry for not calling on you for a few days, I wanted to give you time to rest." Pollux bowed his head and began chewing on some of the grass, unbothered by my attempt at conversation. "Alright then. Well you are a magical horse, and I carry a ring that summons you. I have been walking for days, I am very tired, and I would like to ride you. I uhm, well I would greatly appreciate that."
+
+Pollux looked up at me for a moment, he looked like Lukas, as if he raised an eyebrow at me, then went back to eating his grass. 
+
+I point at the horse. "Pollux." My stone hand enters a pouch on my belt, and pulls out a small cube of sugar. "Treat. Sugar cube."
+
+He sniffs at my hand, Gods he is a massive horse, a war horse, truly, something bred for battle and carrying you across ramparts and over defenses. Slowly, he takes the sugar cube, enjoying it.
+
+I take my chance while he is focused on the treat, and step to his side, slowly, getting my hands on his back, and leaping up onto him. He grunts slightly when i land, but doesn't seem too bothered by my suddenly being on him.
+
+Lukas is beaming. "Look at you go boy!"
+
+Pollux looks up, notices me on his back, and notices Petlia's celebration. As if in response to Lukas' joy, Pollux stands up and takes a few small steps, looking to me for direction.
+
+"Well how about that..." I remark, and look out over the plains. Across they way I see a small puff of smoke, it looks to be from a campfire. I point it out to Petlia and he nods in agreement.
+
+I pat Pollux on the neck, and as if responding to my will, a set of spectral reins appear, and fall into my hands. I cannot help but feel a smile creep up my mouth, and I spur Pollux towards the smoke. He launches forward without hesitation, carrying me like the moons fly across the sky.
+
+---
+
