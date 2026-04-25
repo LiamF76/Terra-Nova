@@ -45,22 +45,37 @@
             }
           },
           {
-            "id": "d9b4018e88bfeb3a",
+            "id": "8b9def7106ab801c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
+                "file": "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Sparrow Knight Chapter 8"
+              "title": "The Sparrow Knight Brainstorm"
+            }
+          },
+          {
+            "id": "cbb31f201eec9f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Sparrow Knight Chapter 7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,15 +196,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d9b4018e88bfeb3a",
+  "active": "cbb31f201eec9f9a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
-    "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
-    "Working Folder/Kanban Boards/Solo Projects.md",
-    "Working Folder/Dashboard.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
+    "Working Folder/Kanban Boards/Solo Projects.md",
+    "Books/The Sparrow Knight/The Sparrow Knight Chapter 10.md",
+    "Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
+    "Working Folder/WIP/Campaign & Quest Ideas.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/General To-Do.md",
+    "conflict-files-obsidian-git.md",
+    "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
     "Books/The Sparrow Knight/Petlia's Talisman of Protection.md",
     "z Images/The Sparrow Knight Chapter 6-1776952980941.webp",
     "z Images/The Sparrow Knight Chapter 6-1776952973868.webp",
@@ -208,11 +228,6 @@
     "Books/The Reckoner's Rise/Old TRR Chapters/Rovan & Arkonil Chapters",
     "Books/The Reckoner's Rise/Old TRR Chapters/Book 1",
     "Books/Fics/Tales from Terra-Nova/Chapter 5.md",
-    "Books/Fics/Tales from Terra-Nova/Chapter 2.md",
-    "Books/Fics/Tales from Terra-Nova/Chapter 4.md",
-    "Books/Fics/Tales from Terra-Nova/Chapter 3.md",
-    "Books/Fics/A Timekeeper's Tale/ATT Chapter 3.md",
-    "Books/Fics/Tales from Terra-Nova/Chapter 1.md",
     "Books/The Reckoner's Rise/Old TRR Chapters",
     "Books/Fics/Tales from Terra-Nova",
     "Books/Fics/A Timekeeper's Tale",

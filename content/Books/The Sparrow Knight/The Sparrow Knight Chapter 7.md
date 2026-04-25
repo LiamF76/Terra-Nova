@@ -140,3 +140,11 @@ He walks to his supplies, a satchel left outside the ruins, pulling a brown bag 
 My hand stays on my blade until Lukas accepts for the both of us. I resonate with my ring, and Pollux, after spending a few moments checking on me with his snout, disappears. Ulric gathers his things from inside and meets us at the rubble seats again, starting a small fire. We have a few cups of coffee, a much more tolerable conversation, and Ulric takes his leave.
 
 By the time Ulric finally departs it is the afternoon, and Lukas is practically foaming at the mouth to get inside the ruins again. We wait 10 minutes after Ulric leaves, and Petlia darts inside, dragging me behind him. "Come boy! Time to unlock the treasure of my fathers!"
+
+---
+
+In a bowl Lukas mixes healthy soil, seeds, water, and his own blood. Normally he would frown upon the mixing of blood into rituals, he always says its demonic. Apparently when it's for nature magic there are exceptions.
+
+"Nothing to do with the blood, it needs the essence of my family, it's bound to our ancestry. The very roots themselves swore an oath to guard our artifacts!" He said with glee.
+
+Back within the ruins, in silence, 

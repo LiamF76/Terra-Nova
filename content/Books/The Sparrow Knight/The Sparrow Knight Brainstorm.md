@@ -51,8 +51,8 @@ This is a book / backstory of Inayet Uncrowned, beginning under the name Inayet 
 - [[The Sparrow Knight Chapter 6]]
 - [[The Sparrow Knight Chapter 7]]
 	- Inayet rides Pollux for the first time, Lukas gets his horse and names it coffee, they go to some ruins and find Petlia's family crest on the outside. They go in but get snuck up on, its a knight who serves Lord Tarn. He was scouring the ruins for an artifact, very interested in Pollux, gives Inayet a bad vibe.
-- The Sparrow Knight Chapter 8
-	- summary
+- [[The Sparrow Knight Chapter 8]]
+	- Unlock the axe within the tree, strange ritual, discover its name "Fernfang". Once belonged to a Knight of the Green who defeated a forest demon in a Scar. It grants its wielder magical strength and vitality. Lukas' disease is partially healed by the axe, making him life longer. The two set out traveling again.
 - The Sparrow Knight Chapter 9
 	- summary
 - The Sparrow Knight Chapter 10
