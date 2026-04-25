@@ -131,5 +131,6 @@ Ulric looks at me, then at Pollux, then back at me. "From the good Sir Petlia? N
 
 I launch up from my seat. "Fine armor you wear, gilded with the symbols of your Lord. Shame the only beauty you carry is on the outside. Take my advice," My hand lands on the hilt of my sword. "Sell a piece and buy a horse. If you're a Tarn, then you know what this hand can do, I don't, still figuring out my limits. I would hate to overdo it, and hurt you."
 
-I am holding my sword, Lukas moves his hand to his hip, jut above his concealed blade. Ulric... has not moved.
+I am holding my sword, Lukas moves his hand to his hip, jut above his concealed blade. Ulric... has not moved. I do not know him, Lukas did not know the name, but he is either highly dangerous, or overwhelmingly confident. Because he is completely unafraid of two trained warriors taking up arms so close to him.
 
+He sighs, putting his hands to his knees and standing, slowly and deliberately. "This doesn't seem like it's going anywhere. I concede. I cannot open the ruins, the treasure is yours, no trades. Let's not fight, I don't want to hurt either of you, and you," He says pointing at my hand, "Clearly gained my cousin"
