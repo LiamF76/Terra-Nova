@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,10 +184,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b4f09bb206bd71ac",
+  "active": "0ea59fc8a6ca21df",
   "lastOpenFiles": [
-    "Working Folder/Kanban Boards/Solo Projects.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
+    "Working Folder/Kanban Boards/Solo Projects.md",
     "Working Folder/Dashboard.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
     "conflict-files-obsidian-git.md",
