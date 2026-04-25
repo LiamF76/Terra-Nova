@@ -7,7 +7,8 @@ kanban-plugin: board
 ## The Sparrow Knight
 
 - [ ] [[The Sparrow Knight Brainstorm]]
-- [ ] [[The Sparrow Knight Chapter 7]]
+- [ ] [[The Sparrow Knight Chapter 8]]
+- [x] [[The Sparrow Knight Chapter 7]]
 - [x] [[The Sparrow Knight Chapter 6]]
 
 
