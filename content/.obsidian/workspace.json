@@ -141,14 +141,15 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
-    "Working Folder/Kanban Boards/Solo Projects.md",
     "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/Solo Projects.md",
+    "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
     "conflict-files-obsidian-git.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
