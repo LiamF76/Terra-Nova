@@ -133,4 +133,10 @@ I launch up from my seat. "Fine armor you wear, gilded with the symbols of your 
 
 I am holding my sword, Lukas moves his hand to his hip, jut above his concealed blade. Ulric... has not moved. I do not know him, Lukas did not know the name, but he is either highly dangerous, or overwhelmingly confident. Because he is completely unafraid of two trained warriors taking up arms so close to him.
 
-He sighs, putting his hands to his knees and standing, slowly and deliberately. "This doesn't seem like it's going anywhere. I concede. I cannot open the ruins, the treasure is yours, no trades. Let's not fight, I don't want to hurt either of you, and you," He says pointing at my hand, "Clearly gained my cousin"
+He sighs, putting his hands to his knees and standing, slowly and deliberately. "This doesn't seem like it's going anywhere. I concede. I cannot open the ruins, the treasure is yours, no trades. Let's not fight, I don't want to hurt either of you, and you," He says pointing at my hand, "Clearly gained my cousin's favor, so out of respect for the time and effor he put into doing that, I will not fight you."
+
+He walks to his supplies, a satchel left outside the ruins, pulling a brown bag from it. "This is Drok'Shari coffee, it was a gift from a merchant a few weeks back. Share a cup with me, I am sure we both have stories to tell, and can get off on a better foot."
+
+My hand stays on my blade until Lukas accepts for the both of us. I resonate with my ring, and Pollux, after spending a few moments checking on me with his snout, disappears. Ulric gathers his things from inside and meets us at the rubble seats again, starting a small fire. We have a few cups of coffee, a much more tolerable conversation, and Ulric takes his leave.
+
+By the time Ulric finally departs it is the afternoon, and Lukas is practically foaming at the mouth to get inside the ruins again. We wait 10 minutes after Ulric leaves, and Petlia darts inside, dragging me behind him. "Come boy! Time to unlock the treasure of my fathers!"
