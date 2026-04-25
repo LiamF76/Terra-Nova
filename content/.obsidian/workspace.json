@@ -23,6 +23,26 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "deb24a81f493643a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/Solo Projects.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Solo Projects"
+            }
           }
         ]
       }
@@ -147,10 +167,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
-    "conflict-files-obsidian-git.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
+    "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
     "Working Folder/Dashboard.md",
+    "conflict-files-obsidian-git.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
     "Books/The Sparrow Knight/Petlia's Talisman of Protection.md",
