@@ -107,7 +107,7 @@ Lukas places a hand on my back, stopping me from drawing my sword before I gut t
 
 The man smiles, removing his black steel helm, revealing his brownish rusty hair, heavyset face, and thick nose. He bears a small resemblance to Lord Tarn in my estimation.
 
-"No friends, I simply had to make sure your loud friend there did not summon the spirits that lie within." He says pointing to the ruin behind me. His voice is almost as stocky as he is, its a heavy voice that lies on your shoulders and weighs you down just by hearing it. It's tiring, as is he. 
+"No friends, I simply had to make sure your loud friend there did not summon the spirits that lie within." He says pointing to the ruin behind me. His voice is almost as stocky as he is, it's a heavy voice that lies on your shoulders and weighs you down just by hearing it. It's tiring, as is he. 
 
 I stare at him menacingly for a moment until Lukas taps my hand, telling me to put the dagger away. I don't. The clip and clop of Pollux's hooves follows me out of the ruins, and my arcane steed stands beside me, bolstering my confidence greatly. 
 
@@ -147,5 +147,20 @@ In a bowl Lukas mixes healthy soil, seeds, water, and his own blood. Normally he
 
 "Nothing to do with the blood, it needs the essence of my family, it's bound to our ancestry. The very roots themselves swore an oath to guard our artifacts!" He said with glee.
 
-Back within the ruins, in silence, he pours the mixture over the axe, and the roots darken as the liquid coats them. For a few minutes, nothing happens
+Back within the ruins, in silence, he pours the mixture over the axe, and the roots darken as the liquid coats them. For a few minutes, nothing happens, but slowly the trunk begins to twist, the bark itself pulling back inwards, leaving only a few strands thick enough to hold the axe within its grasp. As the colors change, I see the weapon in its true beauty. The handle is solid wood, pure white as snow, 'Ironwood from my home', Lukas whispered in wonder. The length of the grip is wrapped in green fabric, treated and pulled tight to give a better hold, it is deep and dark like the leaves of a tall pine. The true marvel of the axe, is the head, its dual blades are perfectly sharp despite having been encased for however long.
 
+It gleams in the sunlight pouring from the open ceiling above, pure gold. I have seen gold before, a fine sight, but this is different, it glimmers with an ethereal quality, and as Lukas puts his hand to it, I can see it shimmer with warmth. There magic of this weapon is literally radiating off it.
+
+I watch as Lukas runs his fingers along the handle, whispering Tena's blessings, thanking the spirit of the tree for protecting it all these years.
+
+He sinks his hand into the tree, grips the axe by the handle, his eyes widening as he does. The breath in he takes is deep, as if he is breathing clearly for the first time in weeks, he even looks like he stands an inch taller holding it. His muscles flex, and he rips the axe free in a single motion.
+
+It's a scene out of a fairy tale, like the moment Lazarus first lifted Vulcan's blade, Lukas looks a Divine Champion, his Petlia green armor and golden headed axe. He smiles at me, shifting the weapon between his hands, studying the writing on the head of the axe. 
+
+Outside he holds it up to me, letting me read the letters. "You see Inayet? Aelarian... this blade is *ancient*. From a time thousands of years ago, maybe tens of thousands. Before the Reckoner and the God Mother, before the Estorian empire. By the Abyss this must have been forged before the fall of Atlas... the things this blade has seen..."
+
+I study it, mouthing each letter slowly, "Aaaruuu vaaa luun vos... this blade is called, I believe it says Fernfang..."
+
+Lukas places it across his lap, not daring look away from his prize. "Fernfang! The blade of Kaldan! This blade fought against the demons of the Scar! It is said my family was gifted the blade by Melantha the God Mother herself! They called it the Mother's Gift, because the God Mother left it to us as apology for not being able to revive Tena alongside the other dead gods... before that I am unsure, but this writing is not of this age, nor the age before." He taps the blade and pauses. "We could sell this in Arthos, you would never have to work a day in your life. Buy a vineyard, own land, damn it all you could buy a castle with the gold this fetches!" He holds the axe out towards me.
+
+I look down at his helm hanging from my belt, the talisman he crafted me, and feel the sword he taught me to use on my shoulders. I could not take such a precious gift from him. "Thank you, Lukas, but no. I could never. My heart would be heavy with guilt at its loss. It should stay with you, and someday... some far away day, it should lie with you where you rest. To protect you in the afterlife, and all lives to come."

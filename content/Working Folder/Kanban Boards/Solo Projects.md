@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] [[The Sparrow Knight Brainstorm]]
 - [ ] [[The Sparrow Knight Chapter 8]]
 - [x] [[The Sparrow Knight Chapter 7]]
-- [x] [[The Sparrow Knight Chapter 6]]
 
 
 ## Tales from Terra-Nova
@@ -29,6 +28,7 @@ kanban-plugin: board
 
 - [x] [[The Sparrow Knight Chapter 4]]
 - [x] [[The Sparrow Knight Chapter 5]]
+- [x] [[The Sparrow Knight Chapter 6]]
 
 %% kanban:settings
 ```
