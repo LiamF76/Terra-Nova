@@ -131,3 +131,5 @@ Ulric looks at me, then at Pollux, then back at me. "From the good Sir Petlia? N
 
 I launch up from my seat. "Fine armor you wear, gilded with the symbols of your Lord. Shame the only beauty you carry is on the outside. Take my advice," My hand lands on the hilt of my sword. "Sell a piece and buy a horse. If you're a Tarn, then you know what this hand can do, I don't, still figuring out my limits. I would hate to overdo it, and hurt you."
 
+I am holding my sword, Lukas moves his hand to his hip, jut above his concealed blade. Ulric... has not moved.
+
