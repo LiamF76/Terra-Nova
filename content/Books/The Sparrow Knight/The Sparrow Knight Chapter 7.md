@@ -127,4 +127,7 @@ Lukas shrugs, "Shame you did. You'll never get the axe out of that tree, it's a 
 
 I interject, bored of their back and forth. "And what would you want from him?"
 
-Ulric looks at me, then at Pollux, then back at me. "From the good Sir Petlia? Nothing at all. From you"
+Ulric looks at me, then at Pollux, then back at me. "From the good Sir Petlia? Nothing at all. From you, Little Sparrow." He studies me up and down a moment, tapping his right hand while looking at my enchanted one. "That horse is something special. I could make quite a name for myself with that beast."
+
+I launch up from my seat. "Fine armor you wear, gilded with the symbols of your Lord. Shame the only beauty you carry is on the outside. Take my advice," My hand lands on the hilt of my sword. "Sell a piece and buy a horse. If you're a Tarn, then you know what this hand can do, I don't, still figuring out my limits. I would hate to overdo it, and hurt you."
+
