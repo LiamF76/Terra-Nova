@@ -113,3 +113,18 @@ I stare at him menacingly for a moment until Lukas taps my hand, telling me to p
 
 "That is a magic horse." The knight remarks in a bit of wonder, but with a strange venom on his tongue. "Let us share names then, and we can end the hostility hm? I am Sir Ulric, I serve Kheagon and the Lord Tarn." He nods deeply, almost a bow, almost respectful.
 
+"I am Lukas Petlia, son of Eric Petlia, of the ancient House Petlia. This is Inayet Sparrow, of the Westwood Valley." Lukas cautiously points to a few fallen stones that would make suitable chairs, Ulric obliges, and the 3 of us sit.
+
+Nobody speaks for a moment, and my mind wonders if a fight will break out, but Ulric shatters that with another venom-tipped comment. "So a Petlia, then you'll know what lies within these ruins. Quite the find here, but I got to it first."
+
+Lukas shrugs, "Shame you did. You'll never get the axe out of that tree, it's a secret passed down for generations, since the Ironwood."
+
+"Perhaps I just chop the tree down and see if the axe falls out?"
+
+"Do it. You'll be left with nothing but firewood."
+
+"A trade then." Ulric says, grinning wickedly.
+
+I interject, bored of their back and forth. "And what would you want from him?"
+
+Ulric looks at me, then at Pollux, then back at me. "From the good Sir Petlia? Nothing at all. From you"
