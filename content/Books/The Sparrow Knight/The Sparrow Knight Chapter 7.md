@@ -97,3 +97,19 @@ The only thing that prevents me from speaking further, from urging Lukas to get 
 
 He looks at me and mouths the words , 'Stay quiet'. My eyes widen, but my head nods very slowly, and with very little motion.
 
+Another voice from above me, the one holding the knife, speaks in barely a whisper. "There are specters here, talking wakes them up. Let's go outside and speak. Up." I feel myself yanked upwards, and pulled out of the ruins, facing Lukas. He follows us until we are outside, and the knife leaves my neck.
+
+I roll away from my captor, bumping into Lukas. As we collide I reach onto my belt and unholster my dagger, taking a defensive stance and facing the man who put his blade to my neck.
+
+I freeze for a moment when I see him. I expected a bandit, a murderer who has been cast out of society, willing to kill a man for his boots. Instead I see someone I might respect had we met under better circumstances. He wears adventurer's garb, armor mixed with leathers and clothes, ready for battle and the road. He wears plate armor on his shoulders and arms, bearing symbols of stone serpents... the basilisk.
+
+Lukas places a hand on my back, stopping me from drawing my sword before I gut this brigand. "You are a Knight Sir? Of Tarnkeep? Not very noble to go sticking knives to people's throats."
+
+The man smiles, removing his black steel helm, revealing his brownish rusty hair, heavyset face, and thick nose. He bears a small resemblance to Lord Tarn in my estimation.
+
+"No my friends, I simply had to make sure your loud friend there did not summon the spirits that lie within." He says pointing to the ruin behind me. His voice is almost as stocky as he is, its a heavy voice that lies on your shoulders and weighs you down just by hearing it. It's tiring, as is he. 
+
+I stare at him menacingly for a moment until Lukas taps my hand, telling me to put the dagger away. I don't. The clip and clop of Pollux's hooves follows me out of the ruins, and my arcane steed stands beside me, bolstering my confidence greatly. 
+
+"That is a magic horse." The knight remarks in a bit of wonder, but with a strange venom on his tongue. "Let us share names then, and we can end the hostility hm? I am Sir Ulric, I serve Kheagon and the Lord Tarn." He nods deeply, almost a bow, almost respectful.
+
