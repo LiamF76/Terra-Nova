@@ -58,9 +58,24 @@
               "icon": "lucide-file",
               "title": "The Sparrow Knight Chapter 7"
             }
+          },
+          {
+            "id": "f710cd16073f030d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Sparrow Knight Chapter 8"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,9 +184,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "60c8e4288501572b",
+  "active": "f710cd16073f030d",
   "lastOpenFiles": [
     "Working Folder/Kanban Boards/Solo Projects.md",
+    "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
     "conflict-files-obsidian-git.md",
     "Working Folder/Dashboard.md",
