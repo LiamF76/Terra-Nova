@@ -148,3 +148,4 @@ In a bowl Lukas mixes healthy soil, seeds, water, and his own blood. Normally he
 "Nothing to do with the blood, it needs the essence of my family, it's bound to our ancestry. The very roots themselves swore an oath to guard our artifacts!" He said with glee.
 
 Back within the ruins, in silence, he pours the mixture over the axe, and the roots darken as the liquid coats them. For a few minutes, nothing happens
+
