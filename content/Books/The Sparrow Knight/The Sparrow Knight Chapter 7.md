@@ -97,3 +97,5 @@ The only thing that prevents me from speaking further, from urging Lukas to get 
 
 He looks at me and mouths the words , 'Stay quiet'. My eyes widen, but my head nods very slowly, and with very little motion.
 
+Another voice from above me, the one holding the knife, speaks in barely a whisper. "There are specters here, talking wakes them up. Let's go outside and speak. Up." I feel myself yanked upwards, and pulled out of the ruins, facing Lukas. He follows us until we are outside, and the knife leaves my neck.
+
