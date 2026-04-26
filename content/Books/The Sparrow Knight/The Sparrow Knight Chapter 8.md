@@ -72,5 +72,7 @@ The Paragon of Rebirth... I wave back, and make no moves towards my weapons. Pri
 
 As they approach, the one at the front stops, pulling back his hood and greeting us. He is a Tiefling, a child of the Abyss, with skin as red as blood, a pair of darker horns curling over his black hair. There is a strange orange diamond tattooed on his forehead, with faint lines that make some kind of geometric set of interlocked circles.
 
-"Hail travelers!" He calls out, his voice is soft but deep, its friendly, and he seems honest, but still foolish. "Warriors! We are followers of the Paragon! Might we speak a moment? Give respect and keep the Road's Honor?"
+"Hail travelers!" He calls out, his voice is soft but deep, its friendly, and he seems honest, but still foolish. "Warriors! We are followers of the Paragon! Might we speak a moment? Simply to give respect and keep the Road's Honor of course!" His expression seems genuine, and the other monks whose faces I can see, are unsuspecting. Pollux whinnies warmly as we approach.
+
+"Agreed. Well met priests." Lukas calls out, as we pull our mounts to a stop beside the holy men.
 
