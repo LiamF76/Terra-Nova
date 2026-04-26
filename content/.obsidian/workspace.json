@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
@@ -145,12 +147,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Working Folder/Kanban Boards/Solo Projects.md",
+    "Working Folder/Dashboard.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
     "Books/The Reckoner's Rise/Old TRR Chapters/Rovan & Arkonil Chapters/Rovan 1.md",
-    "Working Folder/Kanban Boards/Solo Projects.md",
-    "Working Folder/Dashboard.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
     "conflict-files-obsidian-git.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 10.md",
