@@ -47,5 +47,12 @@
   "primary-theme@@font-ui-smaller": 16,
   "primary-theme@@font-ui-small": 18,
   "primary-theme@@font-ui-medium": 20,
-  "primary-theme@@font-ui-large": 22
+  "primary-theme@@font-ui-large": 22,
+  "primary-theme@@colorful-folders_background": false,
+  "primary-theme@@colorful-folders_text": false,
+  "primary-theme@@colorful-folders_collapse-indicator": false,
+  "primary-theme@@alt-folder-icons": false,
+  "primary-theme@@h1-font": "Inter",
+  "primary-theme@@colorful-folders_indentation-guide": true,
+  "primary-theme@@interface_editor-bg": "editor-bg-default"
 }
