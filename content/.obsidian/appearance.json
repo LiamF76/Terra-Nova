@@ -4,5 +4,7 @@
   "theme": "moonstone",
   "showRibbon": true,
   "nativeMenus": false,
-  "interfaceFontFamily": "Cormorant Upright"
+  "interfaceFontFamily": "Cormorant Upright",
+  "baseFontSize": 18,
+  "textFontFamily": "Cormorant Upright"
 }
