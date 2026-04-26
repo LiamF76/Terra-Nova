@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,10 +196,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b22a0dc62acd08ec",
+  "active": "0e5686f57b1232ef",
   "lastOpenFiles": [
-    "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
+    "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
     "Working Folder/Dashboard.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
