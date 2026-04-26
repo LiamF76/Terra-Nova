@@ -6,5 +6,6 @@
   "nativeMenus": false,
   "interfaceFontFamily": "Cormorant Upright",
   "baseFontSize": 20,
-  "textFontFamily": "Cormorant Upright"
+  "textFontFamily": "Cormorant Upright",
+  "monospaceFontFamily": "Cormorant Upright"
 }
