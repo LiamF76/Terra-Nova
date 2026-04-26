@@ -4,22 +4,37 @@ kanban-plugin: board
 
 ---
 
-## The Sparrow Knight
+## The Sparrow Knight (PART ONE)
 
 - [ ] [[The Sparrow Knight Brainstorm]]
-- [ ] [[The Sparrow Knight Chapter 8]]
 - [x] [[The Sparrow Knight Chapter 7]]
-
-
-## Tales from Terra-Nova
-
-- [ ] [[Tales from Terra-Nova]]
+	
+	- [x] 3500 words
+	- [ ] Published
+- [ ] [[The Sparrow Knight Chapter 8]]
+	
+	- [ ] 3500 words
+	- [ ] Published
+- [ ] [[The Sparrow Knight Chapter 9]]
+	
+	- [ ] 3500 words
+	- [ ] Published
+- [ ] [[The Sparrow Knight Chapter 10]]
+	
+	- [ ] 3500 words
+	- [ ] Published
 
 
 ## Solo Projects
 
 - [ ] [[Books]]
 - [ ] [[Character Building Challenge]]
+- [ ] [[Aelarian language]]
+
+
+## Tales from Terra-Nova
+
+- [ ] [[Tales from Terra-Nova]]
 
 
 ***

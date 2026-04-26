@@ -18,7 +18,7 @@ Perhaps I didn't need to worry about losing Lukas so soon. If he could keep on l
 
 I can't help but study the axe on Lukas' back as we ride along, the way the sunlight glints off it is strange, like it wants to be held and swung every moment of the day. Shame a busy lumberjack didn't find it before we got there. An itch on my nose makes me sniff, and Lukas looks back from the front. "You sick?"
 
-"No just an itch, but I was wondering... it's a long day, open road today. No forests, hopefully no trouble. Would love to hear the story of that axe. With a name like Fernfang, that Kaladan ancestor of yours must have been quite the warrior." I lead Pollux along quickly, moving up to ride beside Lukas and Coffee.
+"No just an itch, but I was wondering... it's a long day, open road today. No forests, hopefully no trouble. Would love to hear the story of that axe. With a name like Fernfang, that Kaldan ancestor of yours must have been quite the warrior." I lead Pollux along quickly, moving up to ride beside Lukas and Coffee.
 
 His nod is slow, as if he is turning through the pages of his family's history to find the story. "Now that is a tale indeed. Well where to begin... I suppose first, the axe head. Forged from Celestial Gold, it is a holy material. Once it was given to the Aelarians by the Gods, but now no more grows or can be forged on this world. A specific amount exists, so it is very rare. I don't know exactly where this blade came from, but the handle was forged in my homeland."
 
@@ -40,4 +40,51 @@ Pollux snorts at me, almost a laugh. "Your horse knows better than you do Inayet
 
 Pollux's soft chuffs continue, he's talking? "Your horse is talking Ina."
 
-"Well I'm learning Aelarian"
+"Well I'm learning Aelarian, not horse so..." I stare at Pollux as we continue down the road.
+
+"Well then ask him what he's saying in Aelarian, he has to understand some of it, he appears when you say his name."
+
+My brow scrunches, "What? It's a magical ring, that's the incantation word. He doesn't have to understand Aelarian for magic to work."
+
+Lukas points at Pollux and chuckles, "I just watched your horse roll his eyes, he understands."
+
+I lean over in my saddle trying to get a look at Pollux. "He did not roll his eyes at me. He likes me." I say, almost hoping Pollux will make some sign of agreement.
+
+"He did I saw it. He thinks you're stupid."
+
+"Pollux. Vos." Pollux freezes.
+
+His head turns back to me, tilted slightly. I have learned that means, 'Inayet it is time to scratch me.' I oblige, and he seems happy.
+
+Lukas continues onward slowly, growing further and further away. "Very nice Inayet! Now what's the word to make him go?" He calls as he slowly crests a hill.
+
+I fumble with Aelarian words for a few minutes before Pollux seems to pit me enough to continue forward, and the sound that greets me as I crest the hill is Lukas' laughter.
+
+---
+
+I can see the swamp from the road, it's still a ways off, but we should reach it tomorrow, as long as we set out early enough. The setting sun paints my left side in orange light, and highlights the small group of travelers headed towards us. They are hooded figures, simple tan robes liked with red, perhaps they are monks.
+
+"Lukas, be on guard?" I call out as they get closer, appearing to have noticed us and one at the front waves.
+
+He shakes his head no. "Priests, look at the colors. They're probably from the Paragon, New Estorias."
+
+The Paragon of Rebirth... I wave back, and make no moves towards my weapons. Priests of the Phoenix Emperor are harmless, their church sends them into Sovrentia hoping to get converts back to their lands. They preach the word of their leader and Emperor, Horus Hixs. They say he is a living God, a phoenix of divine flame given mortal form to rule and save the world... 
+
+As they approach, the one at the front stops, pulling back his hood and greeting us. He is a Tiefling, a child of the Abyss, with skin as red as blood, a pair of darker horns curling over his black hair. There is a strange orange diamond tattooed on his forehead, with faint lines that make some kind of geometric set of interlocked circles.
+
+"Hail travelers!" He calls out, his voice is soft but deep, its friendly, and he seems honest, but still foolish. "Warriors! We are followers of the Paragon! Might we speak a moment? Simply to give respect and keep the Road's Honor of course!" His expression seems genuine, and the other monks whose faces I can see, are unsuspecting. Pollux whinnies warmly as we approach.
+
+"Agreed. Well met priests." Lukas calls out, as we pull our mounts to a stop beside the holy men.
+
+They all drop to their knees in a triangular formation behind the one who called out to us, bowing. I look at Lukas, who looks over at me with a raised eyebrow. I then realize they are bowing to me, or rather, to Pollux. They're bowing to my magic horse.
+
+"Oh great spirit, steed of starlight, bless our path as we return home, and safeguard these warriors souls as they traverse the dangerous and cursed lands north." The leader bellows, his voice laced with reverence and pomp.
+
+I look at Lukas and mouth the words, 'watch this', and I will Pollux away. he disappears beneath me, and I drop to the ground. I land with a solid thud, crossing my arms before the congregation. A few of them gasp and throw their hands up in prayer.
+
+"Sorry friends, seems the horse was tired. We can make our exchange and be on our separate ways." I say, this is the Road's Honor. When two travelers or groups cross paths, its required that an exchange be made. Each group must give something in good faith to the other, then part ways. This can be anything, from goods to information, or anything else the parties agree upon.
+
+"Well that is impressive Sir. Well met mage, truly a wonder to meet one of such arcane power out here. I am Brother Urithus of the Paragon of Rebirth. We gladly give to you a prayer for safety and strength, but I also have information I can offer."
+
+Lukas pops down from Coffee, shaking hands with a few of the priests. "We gladly accept information, forgive me Brother Urithus, I don't put much stock in prayers to your Emperor." From his saddlebags he pulls a piece of parchment, and draws a crude representation of the road south and east to the boarder of New Estorias. He then marks with Xs all the known monster activity areas, and bandit hideouts. He hands it to Urithus. "There you are, should help keep you monks safe on the road eh?"
+
