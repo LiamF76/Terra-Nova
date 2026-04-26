@@ -10,6 +10,7 @@
 - *Children of the Village*: The party are all childhood friends (perhaps an elder mentor as well) who grew up in the quiet town. Their town is attacked and destoryed by a violent expansionist warlord, they lose their homes and their families. They are recruited on a quest of revenge and destiny to stop this warlord and their dark power from killing more people and saving the land.
 	- Alternate: The party lives in a quiet village inside the boarders of the warlord's domain. Knights come to conscript all able bodied fighters, and the party escapes, vowing revenge on the evil ruler.
 - *Fading Magic*: The magic of Terra-Nova is fading, not just the magic of mortals, but all mana. Gods are growing more distant and weaker, magical beasts run wild and become savage, and mystic locations begin to collapse and die. This must be stopped. They must locate the Prime Creations and restore their power, unlocking the 3 Seals of Daraan, and rekindle the magic of Terra-Nova.
+- *Commanders and Kings*: Wargame campaign where the players are all individual leaders of groups like mages, armies, or spy networks. All RP and gameplay is just their character playing like normal, but combat takes place on the field of battle in massive wargame battles.
 
 ---
 

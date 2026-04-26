@@ -73,9 +73,24 @@
               "icon": "lucide-file",
               "title": "The Sparrow Knight Chapter 8"
             }
+          },
+          {
+            "id": "3a3af85ec446e2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working Folder/WIP/Campaign & Quest Ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaign & Quest Ideas"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,13 +199,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9a45f84086d0cc43",
+  "active": "3a3af85ec446e2b9",
   "lastOpenFiles": [
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
+    "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Working Folder/Kanban Boards/General To-Do.md",
-    "Working Folder/Dashboard.md",
-    "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
     "Aelarian language.md",
     "Excalidraw/Aelarian Alphabet.md",
