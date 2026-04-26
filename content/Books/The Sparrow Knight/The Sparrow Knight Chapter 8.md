@@ -62,3 +62,13 @@ I fumble with Aelarian words for a few minutes before Pollux seems to pit me eno
 
 ---
 
+I can see the swamp from the road, it's still a ways off, but we should reach it tomorrow, as long as we set out early enough. The setting sun paints my left side in orange light, and highlights the small group of travelers headed towards us. They are hooded figures, simple tan robes liked with red, perhaps they are monks.
+
+"Lukas, be on guard?" I call out as they get closer, appearing to have noticed us and one at the front waves.
+
+He shakes his head no. "Priests, look at the colors. They're probably from the Paragon, New Estorias."
+
+The Paragon of Rebirth... I wave back, and make no moves towards my weapons. Priests of the Phoenix Emperor are harmless, their church sends them into Sovrentia hoping to get converts back to their lands. They preach the word of their leader and Emperor, Horus Hixs. They say he is a living God, a phoenix of divine flame given mortal form to rule and save the world... 
+
+As they approach, the one at the front stops, pulling back his hood and greeting us. He is a Tiefling, a child of the Abyss, with skin as red as blood, a pair of darker horns curling over his black hair. There is a strange orange diamond tattooed on his forehead, with faint lines that make some kind of geometric set of interlocked circles.
+
