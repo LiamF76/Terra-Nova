@@ -20,3 +20,24 @@ I can't help but study the axe on Lukas' back as we ride along, the way the sunl
 
 "No just an itch, but I was wondering... it's a long day, open road today. No forests, hopefully no trouble. Would love to hear the story of that axe. With a name like Fernfang, that Kaladan ancestor of yours must have been quite the warrior." I lead Pollux along quickly, moving up to ride beside Lukas and Coffee.
 
+His nod is slow, as if he is turning through the pages of his family's history to find the story. "Now that is a tale indeed. Well where to begin... I suppose first, the axe head. Forged from Celestial Gold, it is a holy material. Once it was given to the Aelarians by the Gods, but now no more grows or can be forged on this world. A specific amount exists, so it is very rare. I don't know exactly where this blade came from, but the handle was forged in my homeland."
+
+"Quite a rare thing to give to a small family whose greatest hero was already dead."
+
+"It was a gift, in memory and respect, for my ancestor Evan. A gift from the God-Mother herself boy. He fought with her in the war against the Reckoner. He died, and Melantha gave his cousin the axe head, which he affixed to wood from the Ironwood, thus the axe was born."
+
+He slips an apple from his sack down to Coffee to snack on. "Now I don't know the name of everyone who wielded it, but the one of most note was Kaldan. Kaldan fought in the Scar-Wars. You remember your history boy? The Scar Wars?"
+
+My head shakes in annoyance. "The Scar Wars. After Arkonil's defeat, the great demon scar on the land needed to be cleansed. Many mages and warriors fought and broke the scar into pieces. These are called Scars."
+
+"Exactly, well said. The important part of that for our story, is that Kaldan entered an area of the scar over the Ironwood, where the Abyss itself had become a hellish forest." He unbuckles his axe and holds it across his body. "He took this blessed weapon with him, and faced the corrupted guardians of the forest. The greatest of them was Vothkel, a demon of the forest that took the form of a monstrous tree-spirit. Many fought with Kaldan, but only two were standing after the initial battle between the mortal and demon armies. Kaldan Petlia, and Sterling Ironhawk, Sterling was from another legendary family."
+
+He holds the blade up, spinning it slowly. I watch the rectangle of sunlight it reflects slowly move across the road in front of me. "Sterling fought bravely, but took a root through his leg and was captured. The demon demanded Kaldan surrender or Sterling would die. Sterling told Kaldan that if he surrendered, Sterling would haunt him forever, so Kaldan didn't. He charged the tree and the Ironhawk knight, and cleaved Sterling's head off, because right behind was the core of the demon. Killed them both, left the Scar, and returned to Druidica a hero."
+
+"I'm sorry." I say, holding my hands up to soften the blow I am about to deal to Lukas. "Why didn't he swing somewhere else? He could have tried to not kill Sterling along with the demon. Seems like he wasn't much of a thinker."
+
+Pollux snorts at me, almost a laugh. "Your horse knows better than you do Inayet." Lukas says. "Things happen for a reason, perhaps there was no other way to defeat Vothkel, honestly I don't know."
+
+Pollux's soft chuffs continue, he's talking? "Your horse is talking Ina."
+
+"Well I'm learning Aelarian"
