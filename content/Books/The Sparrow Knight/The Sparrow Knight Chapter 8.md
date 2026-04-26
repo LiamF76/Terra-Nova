@@ -16,4 +16,7 @@ Perhaps I didn't need to worry about losing Lukas so soon. If he could keep on l
 
 ---
 
-I can't help but study the axe on Lukas' back as we ride along, the way the sunlight glints off it is strange, like it wants to be held and swung every moment of the day. Shame a busy lumberjack didn't find it before we got there.
+I can't help but study the axe on Lukas' back as we ride along, the way the sunlight glints off it is strange, like it wants to be held and swung every moment of the day. Shame a busy lumberjack didn't find it before we got there. An itch on my nose makes me sniff, and Lukas looks back from the front. "You sick?"
+
+"No just an itch, but I was wondering... it's a long day, open road today. No forests, hopefully no trouble. Would love to hear the story of that axe. With a name like Fernfang, that Kaladan ancestor of yours must have been quite the warrior." I lead Pollux along quickly, moving up to ride beside Lukas and Coffee.
+
