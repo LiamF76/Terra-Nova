@@ -76,4 +76,15 @@ As they approach, the one at the front stops, pulling back his hood and greeting
 
 "Agreed. Well met priests." Lukas calls out, as we pull our mounts to a stop beside the holy men.
 
-They all drop to their knees in a traingular formation behind the one who called out to us, bowing. I look at Lukas, who looks over at me witha. raised eyebrow. I then realize 
+They all drop to their knees in a triangular formation behind the one who called out to us, bowing. I look at Lukas, who looks over at me with a raised eyebrow. I then realize they are bowing to me, or rather, to Pollux. They're bowing to my magic horse.
+
+"Oh great spirit, steed of starlight, bless our path as we return home, and safeguard these warriors souls as they traverse the dangerous and cursed lands north." The leader bellows, his voice laced with reverence and pomp.
+
+I look at Lukas and mouth the words, 'watch this', and I will Pollux away. he disappears beneath me, and I drop to the ground. I land with a solid thud, crossing my arms before the congregation. A few of them gasp and throw their hands up in prayer.
+
+"Sorry friends, seems the horse was tired. We can make our exchange and be on our separate ways." I say, this is the Road's Honor. When two travelers or groups cross paths, its required that an exchange be made. Each group must give something in good faith to the other, then part ways. This can be anything, from goods to information, or anything else the parties agree upon.
+
+"Well that is impressive Sir. Well met mage, truly a wonder to meet one of such arcane power out here. I am Brother Urithus of the Paragon of Rebirth. We gladly give to you a prayer for safety and strength, but I also have information I can offer."
+
+Lukas pops down from Coffee, shaking hands with a few of the priests. "We gladly accept information, forgive me Brother Urithus, I don't put much stock in prayers to your Emperor." From his saddlebags he pulls a piece of parchment, and draws a crude representation of the road south and east to the boarder of New Estorias. He then marks with Xs all the known monster activity areas, and bandit hideouts. He hands it to Urithus. "There you are, should help keep you monks safe on the road eh?"
+
