@@ -3,5 +3,8 @@
   "cssTheme": "Primary",
   "theme": "moonstone",
   "showRibbon": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "interfaceFontFamily": "Cormorant Upright",
+  "baseFontSize": 18,
+  "textFontFamily": "Cormorant Upright"
 }

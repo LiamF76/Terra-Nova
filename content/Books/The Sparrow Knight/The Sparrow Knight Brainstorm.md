@@ -12,6 +12,8 @@ This is a book / backstory of Inayet Uncrowned, beginning under the name Inayet 
 
 ## Story Brainstorm
 
+These are tentative ideas, see the chapters and summaries for what actually gets written.
+
 - The Wandering Knight: Inayet is a caravan guard / wandering knight. He works for a merchant caravan. The book just makes up his adventures as a wandering warrior. 
 	- **Finding Pollux Ring** - They are traveling through Sovrentia, they ride through a forest and pass by ruins of an ancient temple, the merchant finds an old brass ring he thinks is worthless, and gives it to Inayet. The ring summons a celestial horse called Pollux (he doesn't know that at the start, written in elvish which he has to study to get the horse's name). He keeps the magic ring and bonds with the horse. 
 	- **Tarnkeep Wizard** - The caravan arrives at Tarnkeep and Inayet visits a wizard who he buys a book on Elvish to learn from.
@@ -52,7 +54,7 @@ This is a book / backstory of Inayet Uncrowned, beginning under the name Inayet 
 - [[The Sparrow Knight Chapter 7]]
 	- Inayet rides Pollux for the first time, Lukas gets his horse and names it coffee, they go to some ruins and find Petlia's family crest on the outside. They go in but get snuck up on, its a knight who serves Lord Tarn. He was scouring the ruins for an artifact, very interested in Pollux, gives Inayet a bad vibe.
 - [[The Sparrow Knight Chapter 8]]
-	- Unlock the axe within the tree, strange ritual, discover its name "Fernfang". Once belonged to a Knight of the Green who defeated a forest demon in a Scar. It grants its wielder magical strength and vitality. Lukas' disease is partially healed by the axe, making him life longer. The two set out traveling again.
+	- Traveling to Redwater, Petlia tells the story of the axe. Once belonged to a Knight of the Green who defeated a forest demon in a Scar. It grants its wielder magical strength and vitality. Lukas' disease is partially healed by the axe, making him life longer. The two set out traveling again, they encounter a spirit, strange and end up in a standoff, it studies them but runs off. Lukas warns Inayet to treat spirits with respect and keep his distance, they can be dangerous if provoked.
 - The Sparrow Knight Chapter 9
 	- summary
 - The Sparrow Knight Chapter 10
