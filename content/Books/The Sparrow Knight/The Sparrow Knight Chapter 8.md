@@ -76,3 +76,4 @@ As they approach, the one at the front stops, pulling back his hood and greeting
 
 "Agreed. Well met priests." Lukas calls out, as we pull our mounts to a stop beside the holy men.
 
+They all drop to their knees in a traingular formation behind the one who called out to us, bowing. I look at Lukas, who looks over at me witha. raised eyebrow. I then realize 
