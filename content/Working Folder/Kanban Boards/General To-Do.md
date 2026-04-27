@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## History Videos
 
-- [ ] [[The Story of the Uncrowned and Realmcrest]]
-	- Ivar's story narrated by Marvos, Ferran descendant
 - [ ] [[Scales and Swords]]
 	- Narrated by TBD
 	- History of the Triumvirate Scales Wars
@@ -23,6 +21,8 @@ kanban-plugin: board
 	- Narrated by Finnick, highly skeptical of the religion / net good, but clearly assesses the strength
 	- Talks about Horus Hixs and his holy empire
 	- comments on the constant diplomacy and military push for control of the Ark province
+- [ ] [[The Story of the Uncrowned and Realmcrest]]
+	- Ivar's story narrated by Marvos, Ferran descendant
 
 
 ## Triumvirate Scales
