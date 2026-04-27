@@ -11,9 +11,6 @@ Welcome to Terra-Nova! This is my Cloud stored Obsidian vault for all things Ter
 > [!note] Current Campaigns
 > ## [[The Valley of Broken Oaths]] | [[Penance Lost PBP]] 
 
-
-
-
 ---
 
 [[Break Glass.]]
