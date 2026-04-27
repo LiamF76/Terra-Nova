@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: Break Glass
 aliases:
 ---
 
