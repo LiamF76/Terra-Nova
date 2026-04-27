@@ -25,6 +25,6 @@ In that pride lies ego, but also desire. Nobody will ever be me, just as I am no
 
 Nothing matters but that everyone has fun, because that's all this was ever about. From the first moment of Terra-Nova, in my dark dorm room after a painful breakup, where I drew the first map of Escarth. I remember holding it in my hands and calling over to Dawson, "Dude, come look at this. It's kinda janky but yeah its cool I think."
 
-I love you all, and this world, our stories, our fantasy and wonder, its cool I think. Do what you want, try not to forget me! More importantly than me though, don't forget friendship, don't forget heroes, and don't stop being inspired by the greatness of our characters.
+I love you all, and this world, our stories, our fantasy and wonder, its cool I think. Do what you want, try not to forget me! More importantly than me though, don't forget friendship, don't forget heroes, and don't stop being inspired by the greatness of our characters. That's all for the real message, below are going to be some tips for continuing the work.
 
 	- Daraan
