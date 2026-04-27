@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "index.md",
+      "timestamp": 1777326323655
+    },
+    {
       "filepath": "Working Folder/Dashboard.md",
-      "timestamp": 1777320623551
+      "timestamp": 1777326321605
+    },
+    {
+      "filepath": "Working Folder/Kanban Boards/General To-Do.md",
+      "timestamp": 1777326319454
     }
   ],
   "bookmarkedFileStore": [],
