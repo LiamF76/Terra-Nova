@@ -102,5 +102,6 @@ As if summoned by the Gods though, after Lukas has made his way into his tent, U
 
 "Well this certainly looks fancy." I say as I take it.
 
-He laughs and pours a deep brown liquid from a kettle into mine. "It's coffee, "
+He laughs and pours a deep brown liquid from a kettle into mine. "It's coffee, the least I can do for the vigilant night watchman. I suppose the cups are fancy, they're sacred relics meant only for the burning baptism of converts. Don't tell the others we used them for this."
 
+It's a good joke, and I laugh as I take a swig of the bitter drink. I wipe my upper lip on my sleeve and see that he is straight faced, it wasn't a joke.
