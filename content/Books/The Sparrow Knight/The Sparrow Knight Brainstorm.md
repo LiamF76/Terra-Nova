@@ -40,7 +40,6 @@ These are tentative ideas, see the chapters and summaries for what actually gets
 - Sir Ulric: knight who serves Lord Tarn, decent warrior, dishonorable cheat and thief, steals Pollux by defeating Inayet in a rigged duel.
 - 
 
-
 ---
 
 ## Chapters
@@ -59,3 +58,14 @@ These are tentative ideas, see the chapters and summaries for what actually gets
 	- summary
 - [[The Sparrow Knight Chapter 10]]
 	- summary
+
+---
+
+## Parts
+
+- ### Part 1:
+	- Summary: 
+- ### Part 2: 
+	- Summary: 
+- ### Part 3:
+	- Summary: 
