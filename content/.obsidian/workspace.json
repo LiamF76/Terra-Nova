@@ -25,22 +25,58 @@
             }
           },
           {
-            "id": "f6b3d99ab425f21f",
+            "id": "d3f6a487df4a9f7e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/General To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "General To-Do"
+            }
+          },
+          {
+            "id": "2b25222ece20bdc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "The Triumvirate Scales"
+            }
+          },
+          {
+            "id": "171fed185ef0351b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/History Videos/Scales and Swords.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Scales and Swords"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,17 +185,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f6b3d99ab425f21f",
+  "active": "171fed185ef0351b",
   "lastOpenFiles": [
+    "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
+    "History/History Videos/Scales and Swords.md",
+    "Working Folder/Kanban Boards/General To-Do.md",
+    "Characters/People/Maro.md",
     "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/Solo Projects.md",
     "conflict-files-obsidian-git.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
-    "Working Folder/Kanban Boards/Solo Projects.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
     "Working Folder/WIP/Campaign & Quest Ideas.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
-    "Working Folder/Kanban Boards/General To-Do.md",
     "Aelarian language.md",
     "Excalidraw/Aelarian Alphabet.md",
     "Aelarian.md",
