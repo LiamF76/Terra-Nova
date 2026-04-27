@@ -64,8 +64,8 @@ These are tentative ideas, see the chapters and summaries for what actually gets
 ## Parts
 
 - ### Part 1:
-	- Summary: 
+	- Summary: Inayet traveling and learning, gets magic hand and horse
 - ### Part 2: 
-	- Summary: 
+	- Summary: Drowning Dream Swamp arc, they hunt a hydra, Lukas gets kidnapped by cultists who want his celestial gold axe. The henchmen are stupid so they kidnap Lukas and Inayet keeps the axe, he goes into Ark to get Lukas back. Traveling through Ark, final boss is Minotaur who follows Arkonil (cult was searching for divine relics)
 - ### Part 3:
 	- Summary: 

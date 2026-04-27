@@ -5,9 +5,12 @@ Welcome to Terra-Nova! This is my Cloud stored Obsidian vault for all things Ter
 
 ---
 
-# :LiBookAlert: My Boards
-
 > [!note] Quick Navigation
-> ## [[General To-Do]] | [[The Valley of Broken Oaths]] | [[Penance Lost PBP]] | [[Solo Projects]]
+> ## [[General To-Do]] | [[Solo Projects]]
 
+> [!note] Current Campaigns
+> ## [[The Valley of Broken Oaths]] | [[Penance Lost PBP]] 
 
+---
+
+[[Break Glass.]]

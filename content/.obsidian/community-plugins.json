@@ -10,7 +10,6 @@
   "obsidian-icon-folder",
   "obsidian-mind-map",
   "homepage",
-  "editing-toolbar",
   "home-tab",
   "fantasy-content-generator",
   "obsidian-5e-statblocks",
@@ -20,5 +19,6 @@
   "dataview",
   "buttons",
   "obsidian-git",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "editing-toolbar"
 ]
