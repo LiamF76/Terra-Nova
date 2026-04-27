@@ -98,4 +98,9 @@ Lukas and I both raise eyebrows at that. No doubt Lukas wants to test his new me
 
 Lukas and I stay warm the same as always, sharing a large fur cloak and a log to sit on, though we are all out of coffee. We played rollies for the first watch, I lost. So I'll be awake for the next 7 hours or so after a full day's travel with nothing to keep me up.
 
-As if summoned by the Gods though, after Lukas has made his way into his tent, Urithus walks over and sits across from me on the ground. 
+As if summoned by the Gods though, after Lukas has made his way into his tent, Urithus walks over and sits across from me on the ground. He holds out a small cup, its wider than tall, almost like a bowl, and carved of pure white stone.
+
+"Well this certainly looks fancy." I say as I take it.
+
+He laughs and pours a deep brown liquid from a kettle into mine. "It's coffee, "
+
