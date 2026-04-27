@@ -90,3 +90,12 @@ I shrug and shake his hand, "Not a mage Priest. Just lucky. Well met." I want to
 
 Lukas pops down from Coffee, shaking hands with a few of the priests. "We gladly accept information, forgive me Brother Urithus, I don't put much stock in prayers to your Emperor." From his saddlebags he pulls a piece of parchment, and draws a crude representation of the road south and east to the boarder of New Estorias. He then marks with Xs all the known monster activity areas, and bandit hideouts. He hands it to Urithus. "There you are, should help keep you monks safe on the road eh?"
 
+He nods and they each thank Lukas and myself. We accept and thank them in kind for the information the leader provides.  "If you are looking for work, coin, or renown, the town north has plenty of opportunity. There are many monsters in the swamp, but something large has come down from Tamora, and built a nest within the Drowning Dream. I don't know what, but there are groups assembling to hunt it. You may do well to join in."
+
+Lukas and I both raise eyebrows at that. No doubt Lukas wants to test his new mettle, and I am intrigued about coin enough to sleep in real beds. As the hour grows late, the Priests ask another favor, camp together for the night, safety in numbers. We oblige, though we set our tents across the road from theirs, for some peace and distance.
+
+---
+
+Lukas and I stay warm the same as always, sharing a large fur cloak and a log to sit on, though we are all out of coffee. We played rollies for the first watch, I lost. So I'll be awake for the next 7 hours or so after a full day's travel with nothing to keep me up.
+
+As if summoned by the Gods though, after Lukas has made his way into his tent, Urithus walks over and sits across from me on the ground. 
