@@ -4,6 +4,6 @@ Voice:
 
 Description: 
 
-Important Info: Minotaur King who lives in the maze beneath Runestone. 
+Important Info: 
 
 Statblock: 
