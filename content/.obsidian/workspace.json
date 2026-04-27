@@ -122,7 +122,6 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
@@ -130,11 +129,13 @@
       "homepage:Open homepage": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Working Folder/Dashboard.md",
     "History/History Videos/Scales and Swords.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
     "Working Folder/Kanban Boards/General To-Do.md",
@@ -145,7 +146,6 @@
     "Organizations/Mercenary Guilds/Blades of the Raven.md",
     "Organizations/Mercenary Guilds/The Sons of Urzoth.md",
     "Characters/People/Maro.md",
-    "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
     "conflict-files-obsidian-git.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
