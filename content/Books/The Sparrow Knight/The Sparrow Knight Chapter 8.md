@@ -104,4 +104,36 @@ As if summoned by the Gods though, after Lukas has made his way into his tent, U
 
 He laughs and pours a deep brown liquid from a kettle into mine. "It's coffee, the least I can do for the vigilant night watchman. I suppose the cups are fancy, they're sacred relics meant only for the burning baptism of converts. Don't tell the others we used them for this."
 
-It's a good joke, and I laugh as I take a swig of the bitter drink. I wipe my upper lip on my sleeve and see that he is straight faced, it wasn't a joke.
+It's a good joke, and I laugh as I take a swig of the bitter drink. I wipe my upper lip on my sleeve and see that he is straight faced, it wasn't a joke. I hold it further away from me.
+
+"Don't worry Sir, you aren't a devotee of the Phoenix Emperor simply because you drank from a cup." He says taking a drink.
+
+"Forgive me for being careful, I know you priests are quite tied to ritual and tradition. I worried I might've just pledged my soul to the fire lord forever."
+
+"Ah, promises and oaths can be made, but no. Following the Paragon is faith, and faith cannot be faked, cannot be stolen. The power of belief, it's true, its the only honesty in all the world."
+
+The look on my face must have made it obvious how I felt about religion. "You don't partake in faith Sir? It is a powerful and rewarding thing, to any God."
+
+"I do not have faith in Gods. And you can stop calling me Sir, I am not a knight." Another sip of coffee has me feeling quite awake.
+
+Urithus looks very surprised at that, and responds with a strange disappointment in his voice. "Forgive my surprise then, Inayet Sparrow. I had assumed with your visage, statue, and magical equipments, you were a Knight. Perhaps even... a Divine Champion."
+
+Oh I wish I could have seen Lukas react to that. "No, afraid not. I'm an adventurer, worked as a caravan guard for a while. No Gods or magic to speak of save that which I have stumbled into. In fact I have always made some effort to avoid such things."
+
+"Destiny cannot be avoided. This is the Paragon's Fourth Truth. That which is determined, will occur, and all things are determined by that which has occurred."
+
+"That doesn't make any sense."
+
+"You lack faith."
+
+"You lack critical thinking Priest."
+
+"Someday, a great deed will come from you. One that requires that hand, and that horse, that is why you have them. That hardest part about miracles is that it takes seeing one to believe in them." His eyes wistfully scan the horizon, looking in the direction of New Estorias as he speaks. "Oh by the Paragon if you had seen what I have seen... the wings of holy flame, the cleansing light of the Emperor's fire, heard the cry of the last Phoenix... you would believe and then some."
+
+He takes his leave, letting me finish my coffee, but it leaves me with a lingering doubt.
+
+What do I believe in? is my faith limited to my own two hands, my sword, my boots? How can I trust leather on my feet to be more study than the Gods themselves? Does it stretch further, perhaps to Lukas? My truest friend, perhaps I do not even have faith in him.
+
+Returning to the self, is there really faith i hold in me? I am a talented swordsman but I would never take challenge in single combat if it can be avoided, even when I know I can win... perhaps I am lacking in faith.
+
+I sit toiling in thought for a while, long enough that Lukas awakens, all on his own, for his half of the watch. 
