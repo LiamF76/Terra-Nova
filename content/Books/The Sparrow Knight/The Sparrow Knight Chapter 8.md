@@ -86,5 +86,7 @@ I look at Lukas and mouth the words, 'watch this', and I will Pollux away. he di
 
 "Well that is impressive Sir. Well met mage, truly a wonder to meet one of such arcane power out here. I am Brother Urithus of the Paragon of Rebirth. We gladly give to you a prayer for safety and strength, but I also have information I can offer."
 
+I shrug and shake his hand, "Not a mage Priest. Just lucky. Well met." I want to be friendly, but I don't want to be too friendly, they're priests of a foreign nations state religion. They aren't to be trusted, but are to be respected. 
+
 Lukas pops down from Coffee, shaking hands with a few of the priests. "We gladly accept information, forgive me Brother Urithus, I don't put much stock in prayers to your Emperor." From his saddlebags he pulls a piece of parchment, and draws a crude representation of the road south and east to the boarder of New Estorias. He then marks with Xs all the known monster activity areas, and bandit hideouts. He hands it to Urithus. "There you are, should help keep you monks safe on the road eh?"
 
