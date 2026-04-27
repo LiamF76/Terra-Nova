@@ -40,7 +40,6 @@ These are tentative ideas, see the chapters and summaries for what actually gets
 - Sir Ulric: knight who serves Lord Tarn, decent warrior, dishonorable cheat and thief, steals Pollux by defeating Inayet in a rigged duel.
 - 
 
-
 ---
 
 ## Chapters
@@ -54,8 +53,19 @@ These are tentative ideas, see the chapters and summaries for what actually gets
 - [[The Sparrow Knight Chapter 7]]
 	- Inayet rides Pollux for the first time, Lukas gets his horse and names it coffee, they go to some ruins and find Petlia's family crest on the outside. They go in but get snuck up on, its a knight who serves Lord Tarn. He was scouring the ruins for an artifact, very interested in Pollux, gives Inayet a bad vibe.
 - [[The Sparrow Knight Chapter 8]]
-	- Traveling to Redwater, Petlia tells the story of the axe. Once belonged to a Knight of the Green who defeated a forest demon in a Scar. It grants its wielder magical strength and vitality. Lukas' disease is partially healed by the axe, making him life longer. The two set out traveling again, they encounter a spirit, strange and end up in a standoff, it studies them but runs off. Lukas warns Inayet to treat spirits with respect and keep his distance, they can be dangerous if provoked.
-- The Sparrow Knight Chapter 9
+	- Traveling to Redwater, Petlia tells the story of the axe. Once belonged to a Knight of the Green who defeated a forest demon in a Scar. It grants its wielder magical strength and vitality. Lukas' disease is partially healed by the axe, making him life longer. They travel and run into priests from New Estorias, talk with them and hear about world events, Sovereigness is dead, dragons seen moving in the Triumvirate.
+- [[The Sparrow Knight Chapter 9]]
 	- summary
-- The Sparrow Knight Chapter 10
+- [[The Sparrow Knight Chapter 10]]
 	- summary
+
+---
+
+## Parts
+
+- ### Part 1:
+	- Summary: 
+- ### Part 2: 
+	- Summary: 
+- ### Part 3:
+	- Summary: 

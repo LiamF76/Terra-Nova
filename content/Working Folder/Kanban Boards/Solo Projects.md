@@ -4,13 +4,13 @@ kanban-plugin: board
 
 ---
 
-## The Sparrow Knight
+## The Sparrow Knight (PART ONE)
 
 - [ ] [[The Sparrow Knight Brainstorm]]
 - [x] [[The Sparrow Knight Chapter 7]]
 	
 	- [x] 3500 words
-	- [ ] Published
+	- [x] Published
 - [ ] [[The Sparrow Knight Chapter 8]]
 	
 	- [ ] 3500 words
