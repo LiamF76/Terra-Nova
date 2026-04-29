@@ -86,4 +86,11 @@ Ambushes, the best action films start with a fight.
 - TVBO Session 1 Prep
 - Travel ambush? Meeting at a tavern when it gets attacked by monsters?
 - Go take some contracts for work, do a couple, cliffhanger where they see evidence of the magical protection fading around the valley
-- 
+
+---
+
+## Point Crawl Brainstorm
+
+- Party goes to the village gets ambushed, as many monsters as attack the town mean something is VERY wrong with the artifact that is supposed to protect the valley
+- Festival session, engage with players in town, heavy RP and exploration, perhaps 
+- Launch Point crawl
