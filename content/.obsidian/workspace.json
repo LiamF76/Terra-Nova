@@ -23,30 +23,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "9b199f6e1211af90",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,11 +133,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9b199f6e1211af90",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Dashboard.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Break Glass..md",
     "index.md",
     "conflict-files-obsidian-git.md",
