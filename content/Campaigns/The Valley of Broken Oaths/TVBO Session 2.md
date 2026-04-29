@@ -13,5 +13,12 @@ Brainstorm:
 To do:
 - [ ] Find a village gate / entrance battlemap i like for the first encounter: [Battlemap](https://www.patreon.com/posts/forest-pass-131748855)
 - [ ] decide monsters for the fight:
+	- Troll
 	- 
-- [ ] 
+
+
+
+
+```statblock
+creature: Troll
+```
