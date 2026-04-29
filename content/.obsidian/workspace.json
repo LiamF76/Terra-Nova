@@ -23,42 +23,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "b974a53a8dcfbf95",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
-          },
-          {
-            "id": "f6edc6f866c9ed07",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "TVBO Pointcrawl Map"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,11 +133,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f6edc6f866c9ed07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Organizations/Nobility/Sovrentian Government.md",
+    "Working Folder/Kanban Boards/General To-Do.md",
     "Working Folder/Dashboard.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
     "Working Folder/Break Glass..md",
@@ -180,7 +148,6 @@
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
     "Working Folder/Kanban Boards/Solo Projects.md",
     "Books/The Sparrow Knight/The Sparrow Knight Brainstorm.md",
-    "Working Folder/Kanban Boards/General To-Do.md",
     "History/History Videos/Scales and Swords.md",
     "Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
     "Characters/Extraplanar/Abyssal Creatures/Azark.md",
@@ -194,7 +161,6 @@
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Aelarian language.md",
     "Excalidraw/Aelarian Alphabet.md",
-    "Aelarian.md",
     "z Images/The Sparrow Knight Chapter 6-1776952980941.webp",
     "z Images/The Sparrow Knight Chapter 6-1776952973868.webp"
   ]
