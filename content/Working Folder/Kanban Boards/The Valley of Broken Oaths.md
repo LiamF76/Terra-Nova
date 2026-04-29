@@ -14,9 +14,9 @@ kanban-plugin: board
 ## Worldbuilding
 
 - [ ] [[TVBO Workshop]]
+- [ ] [[TVBO Pointcrawl Map]]
 - [ ] [[Campaign & Quest Ideas]]
 - [ ] [[Promise Stones]]
-- [ ] [[TVBO Pointcrawl Map]]
 
 
 ## Characters
