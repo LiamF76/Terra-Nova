@@ -92,5 +92,11 @@ Ambushes, the best action films start with a fight.
 ## Point Crawl Brainstorm
 
 - Party goes to the village gets ambushed, as many monsters as attack the town mean something is VERY wrong with the artifact that is supposed to protect the valley
-- Festival session, engage with players in town, heavy RP and exploration, perhaps 
-- Launch Point crawl
+- Festival session, engage with players in town, heavy RP and exploration, they are summoned by the Judge to take up a quest, investigate why the artifact is not working, and fix it.
+- Launch Point crawl. The party is in Westwood Village, and needs to reach [[The Spire of Virtue]], where the artifact rests. Judge Finnick will inform them that monsters have control of the forest, the mines are long abandoned, and the mountains are freezing cold. They will have to pick a path to travel through.
+	- Dungeon: The Mines. 
+		- Dagnitt's Mine: 
+	- Enemy Territory: The Forest. 
+		- The Westwoods: 
+	- Dangerous Conditions: The Mountains. 
+		- The Gilded Range: 
