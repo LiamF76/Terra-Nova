@@ -60,7 +60,7 @@ TBD
 
 `DM NOTE: Describe the encounter / overview of the room`
 
-*Set the Scene*: Sobek. You charge up the 
+*Set the Scene*: 
 
 TBD
 
