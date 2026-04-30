@@ -10,7 +10,7 @@ TBD
 
 ## Room 1: Entrance Guardian
 
-#### **The road runs red!**
+#### **The Road Runs Red!**
 
 `DM NOTE: Party travels to Westwood, Big fight, Sobek starts combat in the action, attempted ambush on the other 3 thwarted.`
 
