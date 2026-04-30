@@ -34,6 +34,7 @@
 - Elemental Plane break caused by amateur wizard. Rooms are in different elemental planes.
 - Giant treehouse built by ancient Aelarian tribe. Now inhabited by monsters.
 - Ancient castle haunted by animated armors, once enchanted by the court mage to guard it for eternity. Boss is an Iron Queen Armor (in tmp discord channel)
+- 
 
 ---
 
@@ -42,4 +43,5 @@
 - Suit of armor filled with moss and plants that rises when you try to cross the bridge it is protecting. It is not aggressive, but is hostile to those who try to cross the bridge it protects.
 - Party enters a thick fog, when they see each other they appear to be monsters, and they speak the monsters language. It's an illusory fog they need to realize is disguising their allies as enemies.
 - A freshly killed body on the road. Professional, clean, clearly not a robbery. A small silver scale has been placed on the body's chest, the calling card of the Agents of Equilibrium. The victim was someone powerful. Nobody saw anything.
+- A stone tablet, necklace, any kind of unique item or artifact carved with pieces of the Ozymandias poem. The first time you hold it, you hear it read in your mind. [Youtube Reading](https://www.youtube.com/watch?v=T3dpghfRBHE)
 - 
