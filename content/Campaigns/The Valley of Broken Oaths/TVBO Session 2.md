@@ -6,15 +6,7 @@ aliases:
 
 Second session of TVBO.
 
-Brainstorm:
-- IMMEDIATE ACTION, throw them in combat outside the village right after last session, the town is under attack by monsters, battlemap, roll initiative!!!
-
-
-To do:
-- [ ] Find a village gate / entrance battlemap i like for the first encounter: [Battlemap](https://www.patreon.com/posts/forest-pass-131748855)
-- [ ] decide monsters for the fight:
-	- Dragonborn Knight
-	- Dire Wolves
+TBD
 
 ## Room 1: Entrance Guardian
 
@@ -35,6 +27,18 @@ TBD
 #### **The Broken Wagon**
 
 `DM NOTE: A supply wagon has gone into a small ditch and the wagon is stuck. There are food and weapon supplies that have fallen out. There is a statue in the back of Judge Finnick (it was a gift from the Tarn family, but the party won't know that, they may think he bought it instead of helping the town) The merchant needs help from the party lifting it out of the ditch.`
+
+*Set the Scene*: TBD
+
+TBD
+
+---
+
+## Exploration Encounter
+
+#### **The Hisrotical Carving**
+
+`DM NOTE: A stone carving that depicts a battle. It shows an elven woman weilding a sword of stars battling 3 dragons. She is holding the dragons back with nothing but her hand. Behid her is a valley bathed in sunlight.`
 
 *Set the Scene*: TBD
 
