@@ -138,6 +138,57 @@
         "hasFluff": true,
         "hasFluffImages": true
       }
+    ],
+    [
+      "Fire Drake",
+      {
+        "image": null,
+        "name": "Fire Drake",
+        "source": "TetraCube",
+        "type": "Beast",
+        "subtype": "",
+        "size": "large",
+        "alignment": "unaligned",
+        "ac": "",
+        "speed": "40 ft., climb 30 ft.",
+        "stats": [
+          "17",
+          "15",
+          "15",
+          "3",
+          "12",
+          "7"
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "passive Perception 11",
+        "languages": "&mdash;",
+        "cr": "2",
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage."
+          },
+          {
+            "name": "Breath Weapon (Recharge 5/6)",
+            "desc": "The Fire Drake exhales ??? in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 3 (1d6) fire damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "legendary_description": null,
+        "legendary_actions": null,
+        "mythic_description": null,
+        "mythic_actions": null,
+        "lair_description": null,
+        "lair_actions": null,
+        "lair_description_end": null,
+        "regional_description": null,
+        "regional_actions": null,
+        "regional_description_end": null
+      }
     ]
   ],
   "defaultLayouts": {},
