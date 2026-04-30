@@ -68,6 +68,12 @@ TBD
 
 TBD
 
+Investigate:
+- Business Ledger: 
+- Locked Drawer: 
+- Bookshelf: 
+- 
+
 ---
 
 ## Room 4: Climax, Big Battle
