@@ -23,60 +23,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "b32ade39234ff4d0",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
-          },
-          {
-            "id": "0a6f2e7fe6269d57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Session 2"
-            }
-          },
-          {
-            "id": "71ddf6102904d054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TVBO Session 2 Village Combat.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Session 2 Village Combat"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +145,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "71ddf6102904d054",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "TVBO Session 2 Village Combat.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
