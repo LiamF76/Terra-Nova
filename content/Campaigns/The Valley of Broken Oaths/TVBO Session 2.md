@@ -22,11 +22,14 @@ To do:
 
 `DM NOTE: Describe the encounter / overview of the room`
 
-*Set the Scene*: TBD
+*Set the Scene*: Sobek. As the guardian of your village, and protector of many people, today has been a long day. How does Sobek usually spend his mornings at the orphanage and in Westwood.
 
 TBD
 
-**Enemies**: 1x Knight, 
+**Enemies**: 2x Knight, 2x dire wolf, 6x kobold
+
+[[TVBO Session 2 Village Combat]]
+
 
 ---
 
