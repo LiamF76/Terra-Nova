@@ -34,7 +34,7 @@ TBD
 
 #### **The Broken Wagon**
 
-`DM NOTE: A supply wagon has gone into a small ditch and the wagon is stuck. There are food and weapon supplies that have fallen out. There is a statue in the back of the God Aldred that Finnick ordered hoping it would protect the town. Need help from the party lifting it out of the ditch.`
+`DM NOTE: A supply wagon has gone into a small ditch and the wagon is stuck. There are food and weapon supplies that have fallen out. There is a statue in the back of Judge Finnick (it was a gift from the Tarn family, but the party won't know that, they may think he bought it instead of helping the town) The merchant needs help from the party lifting it out of the ditch.`
 
 *Set the Scene*: TBD
 
