@@ -25,15 +25,18 @@
             }
           },
           {
-            "id": "660c280bb43aac19",
+            "id": "73688a711277a6b6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md"
+                "file": "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "TVBO Pointcrawl Map"
+              "icon": "lucide-file",
+              "title": "TVBO Session 2"
             }
           }
         ],
@@ -146,15 +149,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "660c280bb43aac19",
+  "active": "73688a711277a6b6",
   "lastOpenFiles": [
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Dashboard.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2 Enemies.md",
     "conflict-files-obsidian-git.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
-    "Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
     "Organizations/Nobility/Sovrentian Government.md",
     "Working Folder/Kanban Boards/General To-Do.md",
     "Working Folder/Break Glass..md",
