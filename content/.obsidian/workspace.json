@@ -23,8 +23,30 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "37335eaa0fc56e6b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +167,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "37335eaa0fc56e6b",
   "lastOpenFiles": [
     "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
