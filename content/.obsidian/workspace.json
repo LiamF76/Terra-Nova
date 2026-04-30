@@ -25,7 +25,28 @@
             }
           },
           {
-            "id": "1edba76c0bf2b39a",
+            "id": "a7370c6c202ca1b5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
+          },
+          {
+            "id": "c5878a352fe7bb20",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -150,13 +170,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1edba76c0bf2b39a",
+  "active": "c5878a352fe7bb20",
   "lastOpenFiles": [
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Dashboard.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
-    "Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2 Enemies.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
     "conflict-files-obsidian-git.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Organizations/Nobility/Sovrentian Government.md",
