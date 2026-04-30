@@ -58,6 +58,18 @@ TBD
 
 ---
 
+## Exploration Encounter
+
+#### **Alone in Finnick's Study**
+
+`DM NOTE: Finnick is called away from his study and tells the party they are welcome to wait there before he returns. They are alone in his office and there are multiple things to investigate. His business ledger tha shows Westwood is in debt to another province. His bookshelf that shows he has collected a large number of tomes on war and magical military strategy from ancient times. And his desk with a locked drawer, inside is a key that is old and made of marble. It looks very old and like it doesn't go to anything in Westwood.`
+
+*Set the Scene*: TBD
+
+TBD
+
+---
+
 ## Room 4: Climax, Big Battle
 
 #### **The Village is under attack!**
