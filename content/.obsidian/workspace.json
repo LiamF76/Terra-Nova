@@ -45,8 +45,7 @@
               "title": "The Valley of Broken Oaths"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,13 +166,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "37335eaa0fc56e6b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Working Folder/Dashboard.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "conflict-files-obsidian-git.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
+    "Working Folder/Dashboard.md",
     "index.md",
     "Working Folder/Kanban Boards/General To-Do.md",
-    "conflict-files-obsidian-git.md",
     "Working Folder/Break Glass..md",
     "Working Folder/Kanban Boards/Solo Projects.md",
     "History/History Videos/Scales and Swords.md",
@@ -196,7 +196,6 @@
     "Working Folder/Solo Projects/Character Building Challenge.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 3.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 2.md",
-    "Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
     "Books/The Reckoner's Rise/Old TRR Chapters/Rovan & Arkonil Chapters",
     "Books/The Reckoner's Rise/Old TRR Chapters/Book 1",
     "Books/The Reckoner's Rise/Old TRR Chapters",

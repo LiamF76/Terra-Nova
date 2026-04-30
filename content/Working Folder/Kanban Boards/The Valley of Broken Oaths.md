@@ -8,14 +8,15 @@ kanban-plugin: board
 
 - [ ] [[The Spire of Virtue]]
 - [ ] [[TVBO Player Characters]]
+- [ ] [[TVBO Session 2]]
 
 
 ## Worldbuilding
 
 - [ ] [[TVBO Workshop]]
+- [ ] [[TVBO Pointcrawl Map]]
 - [ ] [[Campaign & Quest Ideas]]
 - [ ] [[Promise Stones]]
-- [ ] sd
 
 
 ## Characters

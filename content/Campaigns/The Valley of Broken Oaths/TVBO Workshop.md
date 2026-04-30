@@ -86,4 +86,17 @@ Ambushes, the best action films start with a fight.
 - TVBO Session 1 Prep
 - Travel ambush? Meeting at a tavern when it gets attacked by monsters?
 - Go take some contracts for work, do a couple, cliffhanger where they see evidence of the magical protection fading around the valley
-- 
+
+---
+
+## Point Crawl Brainstorm
+
+- Party goes to the village gets ambushed, as many monsters as attack the town mean something is VERY wrong with the artifact that is supposed to protect the valley
+- Festival session, engage with players in town, heavy RP and exploration, they are summoned by the Judge to take up a quest, investigate why the artifact is not working, and fix it.
+- Launch Point crawl. The party is in Westwood Village, and needs to reach [[The Spire of Virtue]], where the artifact rests. Judge Finnick will inform them that monsters have control of the forest, and the mines are long abandoned. They will have to pick a path to travel through.
+	- Dungeon: The Mines. 
+		- Dagnitt's Mine: Ancient Dwarven gold mine, infested with monsters, dangerous dungeon. Those proficient in history will know it was abandoned after miners turned up dead repeatedly. It is infested with Kobolds and a young dragon child of [[Vesponous]]. 
+	- Enemy Territory: The Forest. 
+		- The Westwoods: Stealth and survival checks to sneak through enemy territory undetected. Failure will result in a DEADLY wave combat. Anyone proficient in survival will know that there are lots of monsters int he forest, and alerting one will alert others. The woods are controlled by a Goblin king and his tribe.
+
+
