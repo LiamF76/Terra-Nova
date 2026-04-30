@@ -36,9 +36,9 @@ TBD
 
 ## Exploration Encounter
 
-#### **The Hisrotical Carving**
+#### **Stone Carving of History**
 
-`DM NOTE: A stone carving that depicts a battle. It shows a demon and a bolt of lightning battling above a tower. The demon holds a sword larger than his body, while the lightning bolt flies around him. The demon wins, shattering the lightning bolt and casting the pieces into the wind. Finnick obtained it from a ruin called 'The Shattered Crown'. Adventurers gifted it to him for allowing them to go north and plunder the dungeons.`
+`DM NOTE: Party is led through Judge Finnick's Castle. They see a piece of hisotry. A stone carving that depicts a battle. It shows a demon and a bolt of lightning battling above a tower. The demon holds a sword larger than his body, while the lightning bolt flies around him. The demon wins, shattering the lightning bolt and casting the pieces into the wind. Finnick obtained it from a ruin called 'The Shattered Crown'. Adventurers gifted it to him for allowing them to go north and plunder the dungeons.`
 
 *Set the Scene*: TBD
 
