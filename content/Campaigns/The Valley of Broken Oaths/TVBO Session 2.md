@@ -37,7 +37,7 @@ creature: Dire Wolf
 
 *Set the Scene*: As you continue down the forested road the tree line breaks and you see the town of Westwood. It's a small town, the wooden roofs and stone houses dot the hills beneath the mountains that make up the valley. At the top of the hills, just over a small bridge is a castle, it is small and has a few collapsed walls and towers.
 
-Ahead of you someone whistles, and waves his hands above his head.
+Ahead of you someone whistles, and waves his hands above his head. It's a Gold Dragonborn, his wagon appears to have rolled its front wheel 
 
 ---
 
