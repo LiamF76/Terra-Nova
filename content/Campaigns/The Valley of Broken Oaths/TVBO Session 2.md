@@ -15,7 +15,7 @@ TBD
 `DM NOTE: Party travels to Westwood, Big fight, Sobek starts combat in the action, attempted ambush on the other 3 thwarted.`
 
 *Set the Scene*: Sobek, describe the feeling in your stomach... as you tear a kobold apart at the waist.
-Bindi, Thalia, and Jerran, you come up the road and hear a brutal roar and scream as half a kobold falls from a cliff above the road just outside Westwood Village. Creeping up the road in front of you are more monsters, it looks like a failed attempt at an ambush, thwarted by a MASSIVE blue Dragonborn on the ridge above you. Everyone roll initiative!
+Bindi, Thalia, and Jerran, you come up the road and hear a brutal roar and scream as half a kobold falls from the bridge ahead, vjust outside Westwood Village. Creeping up the road in front of you are more monsters, it looks like a failed attempt at an ambush, thwarted by a MASSIVE blue Dragonborn on the ridge above you. Everyone roll initiative!
 
 **Enemies**: 6x kobold, 3x dire wolf
 
