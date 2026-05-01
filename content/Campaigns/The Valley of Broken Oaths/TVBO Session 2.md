@@ -35,15 +35,16 @@ creature: Dire Wolf
 
 `DM NOTE: The party encounters guards at the gate and need to be let in. Also sets up the inside of Westwood Village. Give them a tone and such.`
 
-*Set the Scene*: As you continue down the forested road the tree line breaks and you see the town of Westwood. It's a small town, the wooden roofs and stone houses dot the hills beneath the mountains that make up the valley. At the top of the hills, just over a small bridge is a castle, it is small and has a few collapsed walls and towers. The gates before you are stone towers, but the walls connected to them run short, and end in ruin, this town is not protected by walls.
+*Set the Scene*: As you continue down the forested road the tree line breaks and you see the town of Westwood. It's a small town, the wooden roofs and stone houses dot the hills beneath the mountains that make up the valley. At the top of the hills, just over a small bridge is a castle, it is small and has a few collapsed walls and towers. The gates before you are stone towers, but the walls connected to them run short, and end in ruin, this town is not protected by walls. As you approach, a massive head of dark stormclouds can be seen over the edge of the valley, coming in from the ocean.
 
 Beside the heavy wooden gates stands a single guard, poorly armored and wielding nothing but a crude spear. His helmet looks a size too large, held on with a shoddy buckle.
 Name: Griffin of Westwood
 - Who are you?
 - Why come to Westwood?
 - Where are you headed?
+- Don't worry about the storm clouds, the Artifact protects the valley from dangerous weathers, it will only drizzle a bit.
 Griffin has lived in Westwood all his life, is supposed to scan travelers for danger. He is very nervous due to the monsters around town. He knows Sobek and is happy to let him in, but is wary of the newcomers.
-He can tell the party about packs of Kobolds and strange shapes in the lakes and rivers, and that all travel through the forest, and anywhere North, has been banned by the Judge.
+He can tell the party about packs of Kobolds and strange shapes in the lakes and rivers, and that all travel through the forest, and anywhere North, has been banned by the Judge. (for public safety)
 
 ---
 
@@ -69,10 +70,15 @@ Name: [[Alcor]]
 
 `DM NOTE: Party is led through Judge Finnick's Castle. They see a piece of hisotry. A stone carving that depicts a battle. It shows a demon and a bolt of lightning battling above a tower. The demon holds a sword larger than his body, while the lightning bolt flies around him. The demon wins, shattering the lightning bolt and casting the pieces into the wind. Beneath the demon is a hooded figure, faceless, nameless, and ever present. Finnick obtained it from a ruin called 'The Shattered Crown'. Adventurers gifted it to him for allowing them to go north and plunder the dungeons.`
 
+After leaving Alcor:
+Marching down the road you see once again, the Knight Abraham, alone. He bows slightly and speaks. "Welcome to Westwood friends. Sorry to say it but you need to come with me, the Judge would like to see you"
+
 *Set the Scene*: The whole building gives a sense of age, like you can feel the time passed before in the halls as you walk them. As you continue on, a small study reveals a large stone carving on the wall. The room is lined with empty bookshelves, nothing in the room but tbhis strange historic artifact. 
 
 The Carving: 
 	A stone carving that depicts a battle. It shows a demon and a bolt of lightning battling above a tower. The demon holds a sword larger than his body, while the lightning bolt flies around him. The demon wins, shattering the lightning bolt and casting the pieces into the wind. Beneath the demon is a hooded figure, faceless, nameless, and ever present.
+
+Abraham strongly dislikes the carving, says none of it matters, ancient history is irrelevant. He is a jaded SOB!
 
 ---
 
@@ -82,10 +88,19 @@ The Carving:
 
 `DM NOTE: The party is summoned by Judge Finnick and brought to his castle. The castle is crappy and there are a few ruined walls that still need repaired. He interviews them, and demands they investigate the artifact. He wants to do this as cheaply as possible.`
 
-*Set the Scene*: TBD
+*Set the Scene*: Finally you reach the office of Judge Finnick. A large dark wooden desk help up by thick cuts of marble, the office is littered with shiny trinkets and books. It's a stark, almost jarring, change of pace from the rest of the collapsing castle. There is a candle lit on the desk that smells of tobacco and cinnamon.
 
-TBD
-
+Sitting behind his desk is Judge Finnick, his robes are ornate and cleanly laundered. He has a regal look, despite being such a minor member of government. He does not look up when you enter, but acknowledges you by motioning to sit in the chais set before his desk.
+Name: Judge [[Finnick]]
+RP Notes:
+- Judge Finnick does not want to admit something is wrong with the artifact
+- Something is ABSOLUTELY wrong with the artifact
+- He needs help to solve this, someone needs to go to the artifact and investigate (he wants the party to do it)
+- He claims the horse theft was a test of their honesty (it wasn't he wanted the horses)
+- He cannot hire other adventurers to do it because he would have to request funds from the Governor, which would alert them to the issue
+- He can only pay the party with spoils of their adventure, and permission to venture north and plunder the Scales
+- He is a stuck up asshole who cares more about his perception and reputation than actually keeping the town safe
+ 
 ---
 
 ## Exploration Encounter

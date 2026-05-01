@@ -11,6 +11,8 @@
 	- Alternate: The party lives in a quiet village inside the boarders of the warlord's domain. Knights come to conscript all able bodied fighters, and the party escapes, vowing revenge on the evil ruler.
 - *Fading Magic*: The magic of Terra-Nova is fading, not just the magic of mortals, but all mana. Gods are growing more distant and weaker, magical beasts run wild and become savage, and mystic locations begin to collapse and die. This must be stopped. They must locate the Prime Creations and restore their power, unlocking the 3 Seals of Daraan, and rekindle the magic of Terra-Nova.
 - *Commanders and Kings*: Wargame campaign where the players are all individual leaders of groups like mages, armies, or spy networks. All RP and gameplay is just their character playing like normal, but combat takes place on the field of battle in massive wargame battles. Perhaps tied to Kingmaker, or something where the party rules a nation?
+- *The Frontier of Wahellia*: Westmarches point-crawl. Explore and clear the wilds of Wahellia for settlement / safety of Lazarus and the continent.
+	- The Twisting Stars: Wahellia exists in a spacial / temporal rift where magic is very strong. Spirits walk the earth like Gods, and the dead rise and live again. Inside of this rift, the stars in the sky begin to twist and it looks almost like a spinning sky at night. This is unique to the Wahellian region. During the Twisting Stars, powerful astral forces invade and must be defeated before the ravage the land.
 - 
 
 ---
