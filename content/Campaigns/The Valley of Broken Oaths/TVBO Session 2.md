@@ -39,6 +39,11 @@ creature: Dire Wolf
 
 Beside the heavy wooden gates stands a single guard, poorly armored and wielding nothing but a crude spear. His helmet looks a size too large, held on with a shoddy buckle.
 Name: Griffin of Westwood
+- Who are you?
+- Why come to Westwood?
+- Where are you headed?
+Griffin has lived in Westwood all his life, is supposed to scan travelers for danger. He is very nervous due to the monsters around town. He knows Sobek and is happy to let him in, but is wary of the newcomers.
+He can tell the party about packs of Kobolds and strange shapes in the lakes and rivers, and that all travel through the forest, and anywhere North, has been banned by the Judge.
 
 ---
 
@@ -48,9 +53,13 @@ Name: Griffin of Westwood
 
 `DM NOTE: A supply wagon has gone into a small ditch and the wagon is stuck. There are food and weapon supplies that have fallen out. There is a statue in the back of Judge Finnick (it was a gift from the Tarn family, but the party won't know that, they may think he bought it instead of helping the town) The merchant needs help from the party lifting it out of the ditch.`
 
-*Set the Scene*: 
+*Set the Scene*: As you enter town you see the patched walls, some boarded windows, and tired roads. This place is quaint and beautiful, set within the peace of the valley that has been disturbed. The courtyard is little more than a large dirt and stone clearing, but it makes the town feel well used, and old.
 
-Ahead of you someone whistles, and waves his hands above his head. It's a Gold Dragonborn, his wagon appears to have rolled its front wheel 
+Ahead of you someone whistles, and waves his hands above his head. It's a Gold Dragonborn, his wagon appears to have rolled its front wheel into a small ditch and the old horse cannot pull it out.There are crates of food and weapons that have tumbled out, and there is something very tall covered in a canvas still in the back.
+Name: Alcor
+- Alcor's wagon is stuck in the ditch and he needs help getting it out.
+- He is delivering supplies and a statue of Judge Finnick (Alcor doesn't know the Tarn family paid for it, just that he is delivering it from Tarnkeep to Westwood.)
+- 
 
 ---
 
