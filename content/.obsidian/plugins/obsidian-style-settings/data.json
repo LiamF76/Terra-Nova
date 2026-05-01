@@ -54,8 +54,5 @@
   "primary-theme@@alt-folder-icons": false,
   "primary-theme@@colorful-folders_indentation-guide": true,
   "primary-theme@@interface_editor-bg": "editor-bg-default",
-  "shimmering-focus@@alt-colorschemes": "colorscheme-coffee",
-  "shimmering-focus@@code-size": 1,
-  "shimmering-focus@@heading-scaling": 1.2,
-  "shimmering-focus@@normal-tab-bar": true
+  "shimmering-focus@@alt-colorschemes": "colorscheme-coffee"
 }

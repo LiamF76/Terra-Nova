@@ -15,7 +15,7 @@ TBD
 `DM NOTE: Party travels to Westwood, Big fight, Sobek starts combat in the action, attempted ambush on the other 3 thwarted.`
 
 *Set the Scene*: Sobek, describe the feeling in your stomach... as you tear a kobold apart at the waist.
-Bindi, Thalia, and Jerran, you come up the road and hear a brutal roar and scream as half a kobold falls from a cliff above the road just outside Westwood Village. Creeping up the road in front of you are more monsters, it looks like a failed attempt at an ambush, thwarted by a MASSIVE blue Dragonborn on the ridge above you. Everyone roll initiative!
+Bindi, Thalia, and Jerran, you come up the road and hear a brutal roar and scream as half a kobold falls from the bridge ahead, vjust outside Westwood Village. Creeping up the road in front of you are more monsters, it looks like a failed attempt at an ambush, thwarted by a MASSIVE blue Dragonborn on the ridge above you. Everyone roll initiative!
 
 **Enemies**: 6x kobold, 3x dire wolf
 
@@ -29,13 +29,25 @@ creature: Dire Wolf
 
 ---
 
+## Social Encounter
+
+#### **Entering Town**
+
+`DM NOTE: The party encounters guards at the gate and need to be let in. Also sets up the inside of Westwood Village. Give them a tone and such.`
+
+*Set the Scene*: As you continue down the forested road the tree line breaks and you see the town of Westwood. It's a small town, the wooden roofs and stone houses dot the hills beneath the mountains that make up the valley. At the top of the hills, just over a small bridge is a castle, it is small and has a few collapsed walls and towers. The gates before you are stone towers, but the walls connected to them run short, and end in ruin, this town is not protected by walls.
+
+Beside the heavy wooden gates 
+
+---
+
 ## Exploration Encounter
 
 #### **The Broken Wagon**
 
 `DM NOTE: A supply wagon has gone into a small ditch and the wagon is stuck. There are food and weapon supplies that have fallen out. There is a statue in the back of Judge Finnick (it was a gift from the Tarn family, but the party won't know that, they may think he bought it instead of helping the town) The merchant needs help from the party lifting it out of the ditch.`
 
-*Set the Scene*: As you continue down the forested road the tree line breaks and you see the town of Westwood. It's a small town, the wooden roofs and stone houses dot the hills beneath the mountains that make up the valley. At the top of the hills, just over a small bridge is a castle, it is small and has a few collapsed walls and towers.
+*Set the Scene*: 
 
 Ahead of you someone whistles, and waves his hands above his head. It's a Gold Dragonborn, his wagon appears to have rolled its front wheel 
 
