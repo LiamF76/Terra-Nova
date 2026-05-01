@@ -56,7 +56,7 @@ He can tell the party about packs of Kobolds and strange shapes in the lakes and
 *Set the Scene*: As you enter town you see the patched walls, some boarded windows, and tired roads. This place is quaint and beautiful, set within the peace of the valley that has been disturbed. The courtyard is little more than a large dirt and stone clearing, but it makes the town feel well used, and old.
 
 Ahead of you someone whistles, and waves his hands above his head. It's a Gold Dragonborn, his wagon appears to have rolled its front wheel into a small ditch and the old horse cannot pull it out.There are crates of food and weapons that have tumbled out, and there is something very tall covered in a canvas still in the back.
-Name: Alcor
+Name: [[Alcor]]
 - Alcor's wagon is stuck in the ditch and he needs help getting it out.
 - He is delivering supplies and a statue of Judge Finnick (Alcor doesn't know the Tarn family paid for it, just that he is delivering it from Tarnkeep to Westwood.)
 - He will pay anyone who helps 1GP
@@ -69,9 +69,10 @@ Name: Alcor
 
 `DM NOTE: Party is led through Judge Finnick's Castle. They see a piece of hisotry. A stone carving that depicts a battle. It shows a demon and a bolt of lightning battling above a tower. The demon holds a sword larger than his body, while the lightning bolt flies around him. The demon wins, shattering the lightning bolt and casting the pieces into the wind. Beneath the demon is a hooded figure, faceless, nameless, and ever present. Finnick obtained it from a ruin called 'The Shattered Crown'. Adventurers gifted it to him for allowing them to go north and plunder the dungeons.`
 
-*Set the Scene*: TBD
+*Set the Scene*: The whole building gives a sense of age, like you can feel the time passed before in the halls as you walk them. As you continue on, a small study reveals a large stone carving on the wall. The room is lined with empty bookshelves, nothing in the room but tbhis strange historic artifact. 
 
-TBD
+The Carving: 
+	A stone carving that depicts a battle. It shows a demon and a bolt of lightning battling above a tower. The demon holds a sword larger than his body, while the lightning bolt flies around him. The demon wins, shattering the lightning bolt and casting the pieces into the wind. Beneath the demon is a hooded figure, faceless, nameless, and ever present.
 
 ---
 
