@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
+                "file": "Characters/People/Alcor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TVBO Session 2"
+              "title": "Alcor"
             }
           }
         ],
@@ -151,12 +151,13 @@
   },
   "active": "8b283c8e8cdcb0fc",
   "lastOpenFiles": [
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
+    "Characters/People/Alcor.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Dashboard.md",
     "conflict-files-obsidian-git.md",
     "index.md",
     "Working Folder/Kanban Boards/General To-Do.md",
-    "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Working Folder/WIP/Campaign & Quest Ideas.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2 Enemies.md",
@@ -176,7 +177,6 @@
     "Organizations/Mercenary Guilds/The Sons of Urzoth.md",
     "Characters/People/Maro.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
-    "Aelarian language.md",
     "z Images/The Sparrow Knight Chapter 6-1776952980941.webp",
     "z Images/The Sparrow Knight Chapter 6-1776952973868.webp"
   ]

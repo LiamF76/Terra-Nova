@@ -59,7 +59,7 @@ Ahead of you someone whistles, and waves his hands above his head. It's a Gold D
 Name: Alcor
 - Alcor's wagon is stuck in the ditch and he needs help getting it out.
 - He is delivering supplies and a statue of Judge Finnick (Alcor doesn't know the Tarn family paid for it, just that he is delivering it from Tarnkeep to Westwood.)
-- 
+- He will pay anyone who helps 1GP
 
 ---
 
