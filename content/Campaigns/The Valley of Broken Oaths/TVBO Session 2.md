@@ -29,6 +29,18 @@ creature: Dire Wolf
 
 ---
 
+## Social Encounter
+
+#### **Entering Town**
+
+`DM NOTE: The party encounters guards at the gate and need to be let in. Also sets up the inside of Westwood Village. Give them a tone and such.`
+
+*Set the Scene*: TBD
+
+TBD
+
+---
+
 ## Exploration Encounter
 
 #### **The Broken Wagon**
