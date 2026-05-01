@@ -35,9 +35,9 @@ creature: Dire Wolf
 
 `DM NOTE: A supply wagon has gone into a small ditch and the wagon is stuck. There are food and weapon supplies that have fallen out. There is a statue in the back of Judge Finnick (it was a gift from the Tarn family, but the party won't know that, they may think he bought it instead of helping the town) The merchant needs help from the party lifting it out of the ditch.`
 
-*Set the Scene*: TBD
+*Set the Scene*: As you continue down the forested road the tree line breaks and you see the town of Westwood. It's a small town, the wooden roofs and stone houses dot the hills beneath the mountains that make up the valley. At the top of the hills, just over a small bridge is a castle, it is small and has a few collapsed walls and towers.
 
-TBD
+Ahead of you someone whistles, and waves his hands above his head.
 
 ---
 
