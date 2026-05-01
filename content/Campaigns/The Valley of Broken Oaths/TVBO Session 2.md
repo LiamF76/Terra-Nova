@@ -109,9 +109,9 @@ RP Notes:
 
 `DM NOTE: Finnick is called away from his study and tells the party they are welcome to wait there before he returns. They are alone in his office and there are multiple things to investigate. His business ledger tha shows Westwood is in debt to another province. His bookshelf that shows he has collected a large number of tomes on war and magical military strategy from ancient times. And his desk with a locked drawer, inside is a key that is old and made of marble. It looks very old and like it doesn't go to anything in Westwood.`
 
-*Set the Scene*: TBD
+At some point during the conversation Finnick is called away by a servant.
 
-TBD
+*Set the Scene*: Finnick's boots echo down the hall away, until you can no longer hear him. The room is quiet while he is gone, save the sound of some birds outside the open windows.
 
 Investigate:
 - **Business Ledger**: The ledger shows many loans taken for repairs, and the town is in debt thousands of GP (Those with INT above 16 will know it is at least 5000 GP, or they can roll a DC 18 check.)
