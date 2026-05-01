@@ -1,11 +1,12 @@
 {
   "accentColor": "#236533",
-  "cssTheme": "Primary",
-  "theme": "obsidian",
+  "cssTheme": "Shimmering Focus",
+  "theme": "moonstone",
   "showRibbon": true,
   "nativeMenus": false,
-  "interfaceFontFamily": "Cormorant Upright",
+  "interfaceFontFamily": "Cormorant",
   "baseFontSize": 20,
   "textFontFamily": "Cormorant Upright",
-  "monospaceFontFamily": "Metamorphous"
+  "monospaceFontFamily": "Metamorphous",
+  "baseFontSizeAction": false
 }

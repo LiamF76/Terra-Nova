@@ -39,7 +39,8 @@
               "title": "TVBO Session 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +161,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0dfb5e1a02206da7",
   "lastOpenFiles": [
-    "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Working Folder/Dashboard.md",
-    "Campaigns/The Valley of Broken Oaths/TVBO Session 2 Enemies.md",
     "conflict-files-obsidian-git.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
+    "Working Folder/Dashboard.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Campaigns/The Valley of Broken Oaths/TVBO Session 2 Enemies.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
     "index.md",
     "Working Folder/Kanban Boards/General To-Do.md",
