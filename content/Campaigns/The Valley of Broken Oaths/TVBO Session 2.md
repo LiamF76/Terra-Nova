@@ -37,7 +37,8 @@ creature: Dire Wolf
 
 *Set the Scene*: As you continue down the forested road the tree line breaks and you see the town of Westwood. It's a small town, the wooden roofs and stone houses dot the hills beneath the mountains that make up the valley. At the top of the hills, just over a small bridge is a castle, it is small and has a few collapsed walls and towers. The gates before you are stone towers, but the walls connected to them run short, and end in ruin, this town is not protected by walls.
 
-Beside the heavy wooden gates 
+Beside the heavy wooden gates stands a single guard, poorly armored and wielding nothing but a crude spear. His helmet looks a size too large, held on with a shoddy buckle.
+Name: Griffin of Westwood
 
 ---
 
