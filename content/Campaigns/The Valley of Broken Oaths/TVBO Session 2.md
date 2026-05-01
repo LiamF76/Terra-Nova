@@ -114,10 +114,10 @@ RP Notes:
 TBD
 
 Investigate:
-- Business Ledger: 
-- Locked Drawer: 
-- Bookshelf: 
-- 
+- **Business Ledger**: The ledger shows many loans taken for repairs, and the town is in debt thousands of GP (Those with INT above 16 will know it is at least 5000 GP, or they can roll a DC 18 check.)
+- **Locked Drawer**: The locked drawer is empty except for a thin lining along the bottom of purple velvet. Resting on the purple velvet is a key. A pure white key made of what appears to be marble. it does not match anything in town or the castle. 
+![[TVBO Session 2-1777676333654.webp|500]]
+- **Bookshelf**: The bookshelf holds many tomes. There are historical tomes on the Empire of Estor and the ancient warrior kings of the Winterlands. There are studies on Elven society and Agamarth, but the most populous tomes are studies on military strategy. The meditations of Lazarus and chronicles of the great commander Elena Syrell. There are at least 40 books on war and tactics. Inside the pages of one of the books are crude hand drawn plans to fortify and ideas on defense of Westwood.
 
 ---
 
@@ -140,7 +140,7 @@ TBD
 Triumvirate Knight Combat Dialogue: IN CHROMATIC DRACONIC!
 - Hin land fen ag Naal dii goddo own su'um (your land will burn by my god's own breath)
 - Niid godde Nuz dii Monah ahrk bormah (no gods but my mother and father, could be read as my mother and father literally or my mothers and fathers gods that they worshipped)
-- ALDROS ALDROS ALDROS! (Chanting a name, Aldros, the chromatic word for Aldred, but in chromatic is means PUNISHED not PUNISHER)
+- ALDROS ALDROS ALDROS! (Chanting a name, Aldros, the Draconic word for Aldred, but in Chromatic is means PUNISHED not PUNISHER)
 - 
 
 
