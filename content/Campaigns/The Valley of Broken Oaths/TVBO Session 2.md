@@ -87,7 +87,7 @@ Investigate:
 
 #### **The Village is under attack!**
 
-`DM NOTE: Describe the encounter / overview of the room`
+`DM NOTE: The party exits the castle and are attacked `
 
 *Set the Scene*: 
 
