@@ -120,19 +120,21 @@ Investigate:
 ![[TVBO Session 2-1777676333654.webp|500]]
 - **Bookshelf**: The bookshelf holds many tomes. There are historical tomes on the Empire of Estor and the ancient warrior kings of the Winterlands. There are studies on Elven society and Agamarth, but the most populous tomes are studies on military strategy. The meditations of Lazarus and chronicles of the great commander Elena Syrell. There are at least 40 books on war and tactics. Inside the pages of one of the books are crude hand drawn plans to fortify and ideas on defense of Westwood.
 
+Finnick returns, bursting into the room alongside two of his knights. "There are monsters in the town! Knights of the Scales have breached the walls! Come please, help us and you will be rewarded!"
+
 ---
 
 ## Room 4: Climax, Big Battle
 
 #### **The Village is under attack!**
 
-`DM NOTE: The party exits the castle and are attacked `
+`DM NOTE: The party exits the castle and are attacked . They are led to the village center where the enemies are, Finnick orders his knights to retreat and he hides in his castle.`
 
-*Set the Scene*: 
+*Set the Scene*: You charge down the streets, the screeches of Kobolds and chanting in draconic echoes in your ears.As you reach the town square you see a small pile of 4 bodies, people of the village, surrounded by monsters. 
 
-TBD
+Led by two fully armored knights (dragonborn) bearing symbols of the Triumvirate, are wolves and kobolds. One of the knights sits on the back of a gigantic lizard, dripping hot fire from its teeth... the other carries a torch, large, looking ready to set fire to the entire town. Everyone roll initiative!
 
-**Enemies**: 2x Knight, 2x dire wolf, 6x kobold
+**Enemies**: 2x Knight, 2x dire wolf, 6x kobold, 1x fire drake
 
 [[TVBO Session 2 Enemies]]
 
