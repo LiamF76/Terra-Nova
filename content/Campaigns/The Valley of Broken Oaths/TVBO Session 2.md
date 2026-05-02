@@ -151,9 +151,9 @@ Triumvirate Knight Combat Dialogue: IN CHROMATIC DRACONIC!
 
 ## Room 5: Reward, Revelation, Plot Twist
 
-#### **TBD**
+#### **Heros of Westwood**
 
-`DM NOTE: Describe the encounter / overview of the room`
+`DM NOTE: The party are rewarded with mounts by the townsfolk as thanks for saving them, but theybeg the party to leave quickly. If the artifact is losing it's magic the entire nation will be in danger.`
 
 *Set the Scene*: TBD
 
