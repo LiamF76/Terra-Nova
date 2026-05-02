@@ -158,6 +158,6 @@ Triumvirate Knight Combat Dialogue: IN CHROMATIC DRACONIC!
 
 `DM NOTE: The party are rewarded with mounts by the townsfolk as thanks for saving them, but they beg the party to leave quickly. If the artifact is losing it's magic the entire nation will be in danger.`
 
-*Set the Scene*: TBD
+*Set the Scene*: 
 
-TBD
+Carefully entering town, is the farmer and his wife Maple! They have 3 fine horses with them. They offer you the horses as thanks for saving their town and them again. They beg you to leave for the artifact today, and to save their valley, and Sovrentia, before it's too late.
