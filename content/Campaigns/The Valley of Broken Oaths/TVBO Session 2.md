@@ -100,9 +100,11 @@ RP Notes:
 - He cannot hire other adventurers to do it because he would have to request funds from the Governor, which would alert them to the issue
 - He can only pay the party with spoils of their adventure, and permission to venture north and plunder the Scales
 - He is a stuck up asshole who cares more about his perception and reputation than actually keeping the town safe
-- There are two paths the party can take to reach the artifact. Through the forest or through the ancient gold mines. Both paths lead to the Bloodstone Pass, which takes you to the fortress that holds the artifact in the northern hills of the valley.
-	- *The Forest* (**Enemy Territory**): The forests are full of monsters, and you wil need to travel stealthily if you wish to reach the Pass alive. Be aware of a Goblin Warlord sent by [[Vesponous]], who claims to rule the forest.
+- There are two paths the party can take to reach the artifact. Through the forest or through the ancient gold mines. Both paths lead to the Bloodstone Pass, which takes you to the fortress that holds the artifact in the northern hills of the valley. 
+  Both have drawbacks, explain them clearly to the players so they can make an informed choice.
+	- *The Forest* (**Enemy Territory**): The forests are full of monsters, and you will need to travel stealthily if you wish to reach the Pass alive. Be aware of a Goblin Warlord sent by [[Vesponous]], who claims to rule the forest.
 	- *The Mines* (**Dungeon Crawl**): Ancient Dwarven gold mines, built after the destruction of Dorhul (Dwarven Kingdom destroyed by a demon), under the valley and lead into the mountains. They will get you through the hills faster, but the dwarves in those mines disappeared long ago, and nobody knows what lies within now.
+		- *History proficiency*: The mines are abandoned, nearly 200 years old, whatever killed the Dwarves that lived there could still be there. Dwarves and their plunder for gold and gems often summons monsters with greed and desire for treasure.
  
 ---
 
