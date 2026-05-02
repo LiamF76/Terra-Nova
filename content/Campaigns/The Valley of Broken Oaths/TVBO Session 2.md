@@ -100,6 +100,9 @@ RP Notes:
 - He cannot hire other adventurers to do it because he would have to request funds from the Governor, which would alert them to the issue
 - He can only pay the party with spoils of their adventure, and permission to venture north and plunder the Scales
 - He is a stuck up asshole who cares more about his perception and reputation than actually keeping the town safe
+- There are two paths the party can take to reach the artifact. Through the forest or through the ancient gold mines. Both paths lead to the Bloodstone Pass, which takes you to the fortress that holds the artifact in the northern hills of the valley.
+	- *The Forest* (**Enemy Territory**): The forests are full of monsters, and you wil need to travel stealthily if you wish to reach the Pass alive. Be aware of a Goblin Warlord sent by [[Vesponous]], who claims to rule the forest.
+	- *The Mines* (**Dungeon Crawl**): Ancient Dwarven gold mines, built after the destruction of Dorhul (Dwarven Kingdom destroyed by a demon), under the valley and lead into the mountains. They will get you through the hills faster, but the dwarves in those mines disappeared long ago, and nobody knows what lies within now.
  
 ---
 
@@ -109,7 +112,7 @@ RP Notes:
 
 `DM NOTE: Finnick is called away from his study and tells the party they are welcome to wait there before he returns. They are alone in his office and there are multiple things to investigate. His business ledger tha shows Westwood is in debt to another province. His bookshelf that shows he has collected a large number of tomes on war and magical military strategy from ancient times. And his desk with a locked drawer, inside is a key that is old and made of marble. It looks very old and like it doesn't go to anything in Westwood.`
 
-At some point during the conversation Finnick is called away by a servant.
+At some point during the conversation Finnick is called away by a servant. 
 
 *Set the Scene*: Finnick's boots echo down the hall away, until you can no longer hear him. The room is quiet while he is gone, save the sound of some birds outside the open windows. 
 His desk and its many drawers, hastily shut business ledger, and stuffed full bookshelf are almost begging to be investigated.
