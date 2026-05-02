@@ -149,16 +149,14 @@ Triumvirate Knight Combat Dialogue: IN CHROMATIC DRACONIC!
 - Hin land fen ag Naal dii goddo own su'um (your land will burn by my god's own breath)
 - Niid godde Nuz dii Monah ahrk bormah (no gods but my mother and father, could be read as my mother and father literally or my mothers and fathers gods that they worshipped)
 - ALDROS ALDROS ALDROS! (Chanting a name, Aldros, the Draconic word for Aldred, but in Chromatic is means PUNISHED not PUNISHER)
-- 
-
 
 ---
 
 ## Room 5: Reward, Revelation, Plot Twist
 
-#### **Heros of Westwood**
+#### **Heroes of Westwood**
 
-`DM NOTE: The party are rewarded with mounts by the townsfolk as thanks for saving them, but theybeg the party to leave quickly. If the artifact is losing it's magic the entire nation will be in danger.`
+`DM NOTE: The party are rewarded with mounts by the townsfolk as thanks for saving them, but they beg the party to leave quickly. If the artifact is losing it's magic the entire nation will be in danger.`
 
 *Set the Scene*: TBD
 
