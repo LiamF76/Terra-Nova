@@ -8,7 +8,7 @@ tags:
 
 ![[image.png|300]]
 
-Name: **Nvidius**, First Knight of Rendering
+Name: **Nvidius**, First Knight of Rendering, 
 
 Voice: Voice Description
 - Example Dialogue
