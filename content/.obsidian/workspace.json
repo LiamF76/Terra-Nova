@@ -43,8 +43,7 @@
               "title": "TVBO Session 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +164,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "476de07ec2617e89",
+  "active": "6b19d40fa26780bb",
   "lastOpenFiles": [
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
