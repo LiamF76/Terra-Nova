@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Resources/Gameplay Resources/Untitled.md",
+      "timestamp": 1777773105716
+    },
+    {
+      "filepath": "Resources/Learning/How to Run a D&D Campaign.md",
+      "timestamp": 1777773093508
+    },
+    {
       "filepath": "Working Folder/WIP/Campaign & Quest Ideas.md",
       "timestamp": 1777769633818
     },
@@ -34,10 +42,6 @@
     {
       "filepath": "Working Folder/Dashboard.md",
       "timestamp": 1777769629795
-    },
-    {
-      "filepath": "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
-      "timestamp": 1777769629174
     }
   ],
   "bookmarkedFileStore": [],

@@ -51,13 +51,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working Folder/WIP/Campaign & Quest Ideas.md",
+                "file": "Resources/Gameplay Resources/Sayings & Phrases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Campaign & Quest Ideas"
+              "title": "Sayings & Phrases"
             }
           }
         ],
@@ -172,11 +172,13 @@
   },
   "active": "8c1a184f45b1b1ee",
   "lastOpenFiles": [
+    "Resources/Learning/How to Run a D&D Campaign.md",
+    "Resources/Gameplay Resources/Sayings & Phrases.md",
+    "Working Folder/WIP/Campaign & Quest Ideas.md",
     "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Working Folder/Dashboard.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
     "z Images/TVBO Session 2-1777676333654.webp",
-    "Working Folder/WIP/Campaign & Quest Ideas.md",
     "Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Working Folder/Kanban Boards/General To-Do.md",
     "Characters/People/Alcor.md",
@@ -197,7 +199,6 @@
     "Characters/Figures of Today.md",
     "Organizations/Mercenary Guilds/Windwalker Mercenaries.md",
     "Organizations/Mercenary Guilds/Blades of the Raven.md",
-    "Organizations/Mercenary Guilds/The Sons of Urzoth.md",
     "z Images/The Sparrow Knight Chapter 6-1776952980941.webp",
     "z Images/The Sparrow Knight Chapter 6-1776952973868.webp"
   ]
