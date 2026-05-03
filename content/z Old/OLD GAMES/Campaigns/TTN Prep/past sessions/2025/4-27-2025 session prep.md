@@ -34,18 +34,18 @@ This is [[Solace]].
 
 As they speak you hear a loud clang from behind some of the makeshift shelter in the ruins, a child tumbles out from behind the curtain, a large pot rolling away from her and bumping directly into **Emrys'** leg. She meekly walks forward to grab it but ducks behind [[Solace]] before she can reach it, looking fearful of you all. The ring begins to vibrate and hum a tiny bit more, growing more so as the girl approaches.
 Perception check DC 16: You notice a tattoo of a tiny burning sun on the palm of her right hand (Symbol of a martyr, anointed or more honestly, owned, by the Hyperion church as a slave/priest prospect)
-"Apologies for her, come [[Characters/People/Thalia]], they are friends. They carry light with them, the same as you do."
+"Apologies for her, come [[Terra-Nova/Characters/People/Thalia]], they are friends. They carry light with them, the same as you do."
 The little girl has short dark brown hair, and yet it sits about her head like it is weightless, almost ethereal and floating. She wears simple robes and a single golden plate armor pauldron on her right shoulder. (Emrys, you would recognize this as a piece of [[Mervin]]'s armor) If asked about it Thalia gets very afraid and doesn't answer.
-This is [[Characters/People/Thalia]].
+This is [[Terra-Nova/Characters/People/Thalia]].
 
-[[Solace]] is kind, Thalia doesn't talk through the entire interaction but will bow slightly and nod yes or no. [[Solace]] eventually will ask the party where they are headed, asking if he and [[Characters/People/Thalia]] can accompany them to [[Traxgate]]. 
+[[Solace]] is kind, Thalia doesn't talk through the entire interaction but will bow slightly and nod yes or no. [[Solace]] eventually will ask the party where they are headed, asking if he and [[Terra-Nova/Characters/People/Thalia]] can accompany them to [[Traxgate]]. 
 If Thalia is pressed too hard or forced to speak she will scream in anguish, "I am a sinner you mustn't speak to me!"
 [[Solace]] will hug her tightly and mention, "The residual effects of the holy father. Praise be to the Hyperion Church." with a heavy does of angry sarcasm. The church had branded her as property before she had turned 7, and raised her to believe in some sin she committed that even [[Solace]] cannot get out of her. (He says that but as he does he breaks eye contact, looking up at the sky. DC 18 insight, he knows what she did but won't say.)
 
 [[Solace]] can go into greater detail but here are his bullet points:
-- He saw [[Characters/People/Thalia]] be blessed by [[Illuman]], and believes she is the Lightbearer. He wants to get her to the Freehold and enlist the help of the Pact of Shattered Fate to help her ascend to the throne of Arkonia (as was destined in his vision from Illuman).
-- He hopes the party would escort himself and [[Characters/People/Thalia]] with them to [[Traxgate]]. [[Solace]] has a friend there that has promised to get them on a ship through the Sea of Smoke and around the southern edge of the continent, eventually to [[Auranthor's Landing]] where they hope to petition [[Augustus]] for help.
-- There are people searching for [[Characters/People/Thalia]], she is wanted by the **Hyperion Church**, whom he technically stole her from. They were meant to make a petition top [[Augustus]] on behalf of the church at the Champions Convergence, but they were strangely imprisoned after **Melantha** and the Hyperion Magnus' deaths, fearing they might lose [[Characters/People/Thalia]]. [[Solace]] helped her escape and they were caught in Arkonia when the scar formed. 
+- He saw [[Terra-Nova/Characters/People/Thalia]] be blessed by [[Illuman]], and believes she is the Lightbearer. He wants to get her to the Freehold and enlist the help of the Pact of Shattered Fate to help her ascend to the throne of Arkonia (as was destined in his vision from Illuman).
+- He hopes the party would escort himself and [[Terra-Nova/Characters/People/Thalia]] with them to [[Traxgate]]. [[Solace]] has a friend there that has promised to get them on a ship through the Sea of Smoke and around the southern edge of the continent, eventually to [[Auranthor's Landing]] where they hope to petition [[Augustus]] for help.
+- There are people searching for [[Terra-Nova/Characters/People/Thalia]], she is wanted by the **Hyperion Church**, whom he technically stole her from. They were meant to make a petition top [[Augustus]] on behalf of the church at the Champions Convergence, but they were strangely imprisoned after **Melantha** and the Hyperion Magnus' deaths, fearing they might lose [[Terra-Nova/Characters/People/Thalia]]. [[Solace]] helped her escape and they were caught in Arkonia when the scar formed. 
 - He is unhappy that **Ivys** chooses to be reborn as a demon, but is willing to allow them to do so in his ruins, as it is probably the safest place being a blessed and holy location.
 
 

@@ -21,7 +21,7 @@ Here I want to outline allies or friendly actors that the party can build relati
 
 **Individuals**: Multiple unaligned people who are involved against Arkonil.
 - [[Tyran]], The Obliterator: 
-- [[Characters/People/Thalia]], The Daughter of Radiance: 
+- [[Terra-Nova/Characters/People/Thalia]], The Daughter of Radiance: 
 - [[Lorne]], The Inkeep: 
 - [[Juno]], The Little Fireball: 
 - [[Ovosath]], Quicksilver: 

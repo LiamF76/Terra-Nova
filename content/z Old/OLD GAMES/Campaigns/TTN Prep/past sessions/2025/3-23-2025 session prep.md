@@ -20,7 +20,7 @@ As the flaming sword of the Abyssal Dragon lashes towards you Ivys, its bloody a
 	- *Mateo*: When he gets towards the end, "Heads up friends, this whole room will start collapsing as soon as I drop this thing, so, uh, we should probably leave quickly! Please!"
 
 **Allies**: [[ar'gimud.png]] (if Mateo Summons him)
-**Enemies**: 1x [[agamemnon (1).png]], 3x [[redDrake.png]], 2x [[abyssal_hunter.png]], 1x [[Resources/Statblocks/Old Statblocks/Balor.png]]
+**Enemies**: 1x [[agamemnon (1).png]], 3x [[redDrake.png]], 2x [[abyssal_hunter.png]], 1x [[Terra-Nova/Resources/Statblocks/Old Statblocks/Balor.png]]
 *Agamemnon Dialogue*.
 - "You killed the ampire, and Mistress learned the god magic from her dead brain, you helped her learn to replace me!"
 - "I hate you cuz Mistress says, and because Vero hate you, he shoot at you all the time."

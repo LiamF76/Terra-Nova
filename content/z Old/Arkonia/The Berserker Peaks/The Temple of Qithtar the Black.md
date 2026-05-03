@@ -26,7 +26,7 @@ In the giant square room with rounded corners are stone pillars holding the high
 
 You see a hulking tower of shadow and flame turn to face you, its abyssal wings and whip lashing out in fury as it slashes across the stone floors. There are winged devils, small pig like creatures, and bouncing little Quasits. A small horde of Manes, rotting zombie-like creatures shamble towards you, roll initiative!
 
-**Enemies**: 1x [[Resources/Statblocks/Old Statblocks/Balor.png]], 1x [[Vrock.png]], 8x [[Manes.png]], 2x [[Dretch.png]], 3x [[Quasit.png]]
+**Enemies**: 1x [[Terra-Nova/Resources/Statblocks/Old Statblocks/Balor.png]], 1x [[Vrock.png]], 8x [[Manes.png]], 2x [[Dretch.png]], 3x [[Quasit.png]]
 
 *The Headstone*. In the center of the keystone rests a keyhole (Inserting the key from the dragons horde opens the portcullis to Room 3). The rest of the headstone is covered in abyssal writing, describing something called, "The Path of Blood". It says the path is a way to seal a being in stone by destroying its essence through blood. The details are in [[Qithtar's Ritual of Binding]]
 

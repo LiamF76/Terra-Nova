@@ -7,7 +7,7 @@ aliases:
 Audrey: [[Sobek]]
 Chance: [[Lazlo]]
 Donna: [[Donna]]
-Grey: [[Characters/People/Thalia|Thalia]]
+Grey: [[Terra-Nova/Characters/People/Thalia|Thalia]]
 Hannah: [[Bindi]]
 Hunter: [[Jerran]]
 
