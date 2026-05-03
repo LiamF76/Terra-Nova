@@ -23,8 +23,30 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "08507fccff8cccf7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,12 +167,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "08507fccff8cccf7",
   "lastOpenFiles": [
+    "Working Folder/WIP/Campaign & Quest Ideas.md",
+    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Working Folder/Dashboard.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
     "conflict-files-obsidian-git.md",
-    "Working Folder/Dashboard.md",
-    "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Session 2 Enemies.md",
     "Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
     "index.md",
@@ -168,7 +191,6 @@
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 10.md",
     "Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
-    "Working Folder/WIP/Campaign & Quest Ideas.md",
     "Books/The Sparrow Knight/Petlia's Talisman of Protection.md",
     "z Images/The Sparrow Knight Chapter 6-1776952980941.webp",
     "z Images/The Sparrow Knight Chapter 6-1776952973868.webp",
