@@ -1,4 +1,5 @@
 
+
 # :LiCalendar: `$= dv.date("today").toFormat("EEEE, MMMM d, yyyy")`
 
 Welcome to Terra-Nova! This is my Cloud stored Obsidian vault for all things Terra-Nova, my homebrew Dungeons & Dragons setting and campaign world. 
@@ -13,4 +14,10 @@ Welcome to Terra-Nova! This is my Cloud stored Obsidian vault for all things Ter
 
 ---
 
+
+
+---
+
+In case of emergency:
 [[Break Glass.]]
+
