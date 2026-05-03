@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "index.md",
+      "timestamp": 1777824951041
+    },
+    {
+      "filepath": "Working Folder/Kanban Boards/General To-Do.md",
+      "timestamp": 1777824949204
+    },
+    {
+      "filepath": "Working Folder/Dashboard.md",
+      "timestamp": 1777824948401
+    },
+    {
       "filepath": "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
       "timestamp": 1777822090469
     },
     {
       "filepath": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
       "timestamp": 1777822019730
-    },
-    {
-      "filepath": "Working Folder/WIP/Campaign & Quest Ideas.md",
-      "timestamp": 1777822016509
-    },
-    {
-      "filepath": "Working Folder/Dashboard.md",
-      "timestamp": 1777821928049
     }
   ],
   "bookmarkedFileStore": [],
