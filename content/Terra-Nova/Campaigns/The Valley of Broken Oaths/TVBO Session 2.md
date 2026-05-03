@@ -95,9 +95,9 @@ Abraham strongly dislikes the carving, says none of it matters, ancient history 
 
 `DM NOTE: The party is summoned by Judge Finnick and brought to his castle. The castle is crappy and there are a few ruined walls that still need repaired. He interviews them, and demands they investigate the artifact. He wants to do this as cheaply as possible.`
 
-*Set the Scene*: Finally you reach the office of Judge Finnick. A large dark wooden desk help up by thick cuts of marble, the office is littered with shiny trinkets and books. It's a stark, almost jarring, change of pace from the rest of the collapsing castle. There is a candle lit on the desk that smells of tobacco and cinnamon.
+*Set the Scene*: Finally you reach the office of Judge Finnick. A large dark wooden desk held up by thick cuts of marble, the office is littered with shiny trinkets and books. It's a stark, almost jarring, change of pace from the rest of the collapsing castle. There is a candle lit on the desk that smells of tobacco and cinnamon.
 
-Sitting behind his desk is Judge Finnick, his robes are ornate and cleanly laundered. He has a regal look, despite being such a minor member of government. He does not look up when you enter, but acknowledges you by motioning to sit in the chais set before his desk. As you sit he carefully turns his business ledger out of your gaze and shuts it.
+Sitting behind his desk is Judge Finnick, his robes are ornate and cleanly laundered. He has a regal look, despite being such a minor member of government. He does not look up when you enter, but acknowledges you by motioning to sit in the chairs set before his desk. As you sit he carefully turns his business ledger out of your gaze and shuts it.
 Name: Judge [[Finnick]]
 RP Notes:
 - Judge Finnick does not want to admit something is wrong with the artifact

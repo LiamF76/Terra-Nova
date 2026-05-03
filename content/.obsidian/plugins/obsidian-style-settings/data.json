@@ -34,7 +34,7 @@
   "Olivier-s-Theme@@OT-accentColor-lightMode": "accentColor-lightMode-shade",
   "Olivier-s-Theme@@OT-inkColor-lightMode": "inkColor-lightMode-default",
   "encore-settings@@theme-dark": "encore-theme-dark-iron",
-  "encore-settings@@theme-light": "encore-theme-light",
+  "encore-settings@@theme-light": "encore-theme-light-sterling",
   "encore-settings@@colors": "encore-colors-colorful",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings@@bold-weight": "800",
@@ -55,5 +55,6 @@
   "primary-theme@@colorful-folders_indentation-guide": true,
   "primary-theme@@interface_editor-bg": "editor-bg-default",
   "shimmering-focus@@alt-colorschemes": "colorscheme-coffee",
-  "shimmering-focus@@code-size": 1
+  "shimmering-focus@@code-size": 1,
+  "encore-settings@@encore-disable-grain": true
 }
