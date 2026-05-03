@@ -27,6 +27,13 @@ creature: Kobold
 creature: Dire Wolf
 ```
 
+| Dire Wolf A | Dire Wolf B | Dire Wolf C |
+| ----------- | ----------- | ----------- |
+| x           | x           | x           |
+| x           | x           | x           |
+|             | x           | x           |
+|             | x           | x           |
+
 ---
 
 ## Social Encounter
