@@ -4,13 +4,13 @@ title: Welcome to Pentium Realm
 aliases:
 ---
 
-### What is Pentium Realm?
+## What is Pentium Realm?
 
 ==Pentium Realm is a fractured digital world born from video games, where college players are periodically pulled into games made real. Each of you enters as yourself, but wielding the powers, abilities, and personas of your in‑game characters. The realm is overseen by HELIX, an AI obsessed with optimizing performance at any cost.==
 
 ---
 
-### Who are you?
+## Who are you?
 
 This part is easy. You are yourself! You play as you in real life, a college student at Concord University, attending classes, going to esports practice, and making late night sheetz runs.
 
@@ -23,7 +23,7 @@ Outside of game choices such as social interactions, classes, and personal hobbi
 
 ---
 
-### What do we actually do?
+## What do we actually do?
 
 - Compete inside corrupted game-realities
 - Explore the digital world, discovering interesting characters and mind-bending locations
