@@ -12,13 +12,16 @@ Welcome to Terra-Nova! This is my Cloud stored Obsidian vault for all things Ter
 ---
 
 > [!note] Terra-Nova
+> ## [[Vault To-Do]]
+
+> [!note] Terra-Nova
 > ## [[Terra-Nova To-Do]] | [[Solo Projects]]
 
 > [!note] Current Campaigns
 > ## [[The Valley of Broken Oaths]] | [[Penance Lost PBP]] 
 
 > [!note] Pentium Realm
-> ## [[Pentium]]
+> ## [[Pentium Kanban]]
 
 ---
 

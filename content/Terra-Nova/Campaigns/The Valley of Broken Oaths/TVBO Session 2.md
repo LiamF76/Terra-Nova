@@ -128,9 +128,9 @@ His desk and its many drawers, hastily shut business ledger, and stuffed full bo
 
 Investigate:
 - **Business Ledger**: The ledger shows many loans taken for repairs, and the town is in debt thousands of GP (Those with INT above 16 will know it is at least 5000 GP, or they can roll a DC 18 check.)
-- **Locked Drawer**: The locked drawer is empty except for a thin lining along the bottom of purple velvet. Resting on the purple velvet is a key. A pure white key made of what appears to be marble. it does not match anything in town or the castle. 
+- **Locked Drawer**: The bottom of the drawer is lined with purple velvet. Resting on the purple velvet is a key. A pure white key made of what appears to be marble. it does not match anything in town or the castle. 
 ![[TVBO Session 2-1777676333654.webp|500]]
-- **Bookshelf**: The bookshelf holds many tomes. There are historical tomes on the Empire of Estor and the ancient warrior kings of the Winterlands. There are studies on Elven society and Agamarth, but the most populous tomes are studies on military strategy. The meditations of Lazarus and chronicles of the great commander Elena Syrell. There are at least 40 books on war and tactics. Inside the pages of one of the books are crude hand drawn plans to fortify and ideas on defense of Westwood.
+- **Bookshelf**: The bookshelf holds many tomes. There are historical tomes on the Empire of Estor and the ancient warrior kings of the Winterlands. There are studies on Elven society and Agamarth, but the most populous tomes are studies on military strategy. The Meditations of Lazarus and chronicles of the great commander Elena Syrell. There are at least 40 books on war and tactics. Inside the pages of one of the books are crude hand drawn plans to fortify and ideas on defense of Westwood.
 
 Finnick returns, bursting into the room alongside two of his knights. "There are monsters in the town! Knights of the Scales have breached the walls! Come please, help us and you will be rewarded!"
 
