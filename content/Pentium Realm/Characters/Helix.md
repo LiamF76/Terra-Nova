@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - PentiumRealm
 ---
 
 Helix. An AI Agent created for the Concord Esports program to act as a highly advanced coach. 

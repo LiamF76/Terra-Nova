@@ -23,30 +23,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "ce574558bee41f84",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,21 +145,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ce574558bee41f84",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Pentium Realm/Characters/Helix.md",
+    "Pentium Realm/Working Folder/Helix Nodes.md",
+    "Pentium Realm/Working Folder/Welcome to Pentium Realm.md",
+    "Pentium Realm/Working Folder/Pentium Kanban.md",
+    "Pentium Realm/Working Folder/Central Brainstorm.md",
+    "Vault To-Do.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
-    "Vault To-Do.md",
-    "Pentium Realm/Working Folder/Pentium Kanban.md",
     "Pentium.md",
     "Terra-Nova/Characters/People/Finnick.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
-    "Pentium Realm/Working Folder/Welcome to Pentium Realm.md",
     "Aelarian language.md",
-    "Pentium Realm/Characters/Helix.md",
-    "Pentium Realm/Working Folder/Central Brainstorm.md",
-    "Pentium Realm/Working Folder/Helix Nodes.md",
     "Pentium Realm/Working Folder/Welcome to Pentium Realm v1.pdf",
     "Pentium Realm/Working Folder",
     "Pentium Realm/Theme test note.md",

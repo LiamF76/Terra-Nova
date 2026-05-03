@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - PentiumRealm
 ---
 
 ## The General Idea...

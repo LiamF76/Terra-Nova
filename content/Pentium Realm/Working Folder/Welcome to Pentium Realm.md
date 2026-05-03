@@ -2,6 +2,8 @@
 publish: false
 title: Welcome to Pentium Realm
 aliases:
+tags:
+  - PentiumRealm
 ---
 
 ## What is Pentium Realm?
