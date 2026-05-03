@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Restructure
 
-- [ ] Research
+- [x] Research
 	- tag all notes in a folder, such as Pentium Realm vs. Terra-Nova
 
 
