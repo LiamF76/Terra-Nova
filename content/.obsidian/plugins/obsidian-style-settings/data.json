@@ -33,8 +33,8 @@
   "Olivier-s-Theme@@OT-lightPalette": "lightPalette-Beige",
   "Olivier-s-Theme@@OT-accentColor-lightMode": "accentColor-lightMode-shade",
   "Olivier-s-Theme@@OT-inkColor-lightMode": "inkColor-lightMode-default",
-  "encore-settings@@theme-dark": "encore-theme-dark-flexoki",
-  "encore-settings@@theme-light": "encore-theme-light",
+  "encore-settings@@theme-dark": "encore-theme-dark-iron",
+  "encore-settings@@theme-light": "encore-theme-light-atom",
   "encore-settings@@colors": "encore-colors-colorful",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings@@bold-weight": "800",
@@ -56,10 +56,5 @@
   "primary-theme@@interface_editor-bg": "editor-bg-default",
   "shimmering-focus@@alt-colorschemes": "colorscheme-coffee",
   "shimmering-focus@@code-size": 1,
-  "shimmering-focus@@heading-scaling": 1.2,
-  "shimmering-focus@@normal-tab-bar": true,
-  "shimmering-focus@@longform-font-text-theme": "\"Garamond\", \"Times New Roman\", serif",
-  "shimmering-focus@@uncolored-bold": false,
-  "shimmering-focus@@highlight-hue-1": 265,
-  "shimmering-focus@@angular-shapes": false
+  "encore-settings@@encore-disable-grain": true
 }

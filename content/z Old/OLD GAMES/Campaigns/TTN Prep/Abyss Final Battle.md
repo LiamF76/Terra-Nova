@@ -5,7 +5,7 @@ TBD
 
 TBD
 
-**Enemies:** 4x [[abyssal fire elemental.png]], [[Resources/Statblocks/Old Statblocks/Balor.png]]
+**Enemies:** 4x [[abyssal fire elemental.png]], [[Terra-Nova/Resources/Statblocks/Old Statblocks/Balor.png]]
 
 ---
 

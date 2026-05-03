@@ -25,7 +25,7 @@ You make your way to the spike pit, where you are entered into the gladiator tun
 
 TBD
 
-**Enemies**: 2x [[Resources/Statblocks/Old Statblocks/Tyrannosaurus Rex.png]], 1x [[Triceratops.png]]
+**Enemies**: 2x [[Terra-Nova/Resources/Statblocks/Old Statblocks/Tyrannosaurus Rex.png]], 1x [[Triceratops.png]]
 
 *The Carpets*. At the back of the arena are 3 rolled red carpets, woven with ornate Drok Shari designs of deserts and kings. Inside each is a note reading, reach the Blood Circle first, and fight the Pit Lord, claim your boon! The carpets are flying carpets with 60ft of flying speed. You have to kneel on the carpet to ride it. One person per carpet.
 

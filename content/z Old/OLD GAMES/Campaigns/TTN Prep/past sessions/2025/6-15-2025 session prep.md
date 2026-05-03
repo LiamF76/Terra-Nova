@@ -1,7 +1,7 @@
 
 Hello and welcome to another exciting installment of Tales of Terra-Nova I am your humble dungeon master and you are my rowdy role-players, say hi rowdy role-players! In our previous session we left the site of your great victory against Zyrathia, made our way through the town of Gromm, the Moonset Path, and had some encounters with Trillik the Troll, a forest shrine, and some water spirits!
 
-A few updates on our travel, [[Solace]] is a pleasure to be around, he's helpful with camping, takes good care of the horses, and provides his and [[Characters/People/Thalia]]'s own rations. They're happy to be traveling alongside you. [[Characters/People/Thalia]] is a different story, she shy's away from almost everyone except [[Solace]]. You can count the number of words she's said over the two weeks you've been travelling on one hand. Despite her silence Solace promises she is enjoying the journey, she was coming around to the group until the battle with the water spirits, which seems to have scared her like all fights do. Now we return to our travel.
+A few updates on our travel, [[Solace]] is a pleasure to be around, he's helpful with camping, takes good care of the horses, and provides his and [[Terra-Nova/Characters/People/Thalia]]'s own rations. They're happy to be traveling alongside you. [[Terra-Nova/Characters/People/Thalia]] is a different story, she shy's away from almost everyone except [[Solace]]. You can count the number of words she's said over the two weeks you've been travelling on one hand. Despite her silence Solace promises she is enjoying the journey, she was coming around to the group until the battle with the water spirits, which seems to have scared her like all fights do. Now we return to our travel.
 
 
 ---

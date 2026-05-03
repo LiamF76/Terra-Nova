@@ -2,7 +2,7 @@ The First event at [[Castle Ikaris]]. The actual event of the dance/ gala will b
 The celebration in Archemos cannot be understated as anything but extravagant. There are lanterns lit through the night, there are lots of merchants selling goods in the streets and exotic sweets and dishes as people gather for the festivities and tournament. 
 
 EVENT:
-- The arrivals: The event begins at 2pm, under the black sky of the total eclipse. Some people have arrived early to help set up/ because they are special: King [[Adrithyr]], Queen [[Characters/People/Annabelle|Annabelle]], Prince [[Lukas]], Lord Damion Syrell, Lady Elena Syrell, Lord Tlaloc of Redsong, Lord Clover. 
+- The arrivals: The event begins at 2pm, under the black sky of the total eclipse. Some people have arrived early to help set up/ because they are special: King [[Adrithyr]], Queen [[Annabelle|Annabelle]], Prince [[Lukas]], Lord Damion Syrell, Lady Elena Syrell, Lord Tlaloc of Redsong, Lord Clover. 
 - The [[Castle Ikaris]] is beautiful, see that note for more info. 
 - When arriving, one of the servants greets them and leads them to their suite, there are 10 rooms off of  common area with a fireplace and lounge area. There are private baths in the castle. The rooms are open to the players for the duration of the events. With the players in their suite is [[Maple]], [[Alabaster]], and [[Evan]]. Brakk has a servants room nearby, and he along with 3 other knights of the Warrior's Way have been volunteered as guards to the group. 2 will stay stationed outside the rooms at all times during the night.
 

@@ -14,11 +14,11 @@ At the far end of the ruined courtyard stands the **grand gate to the inner sanc
 This is no battlefield. It is a **massacre**—and a **warning**. 
 
 [[Solace]]. *"In the name of all the heavens... what could have done this? And why? Such senseless and vile acts..."*
-[[Characters/People/Thalia]] clutches at his arm, her eyes darting from place to place as she looks terrified at the destruction.
+[[Terra-Nova/Characters/People/Thalia]] clutches at his arm, her eyes darting from place to place as she looks terrified at the destruction.
 
 As you all take in the destruction, Lumina, how to you feel seeing the deaths and decay of a people you once called friends and allies?
 
-[[Characters/People/Thalia]] is muttering, whispering to herself, "They were afraid, the breath, not air, they cannot rest, their spirits have been twisted..."
+[[Terra-Nova/Characters/People/Thalia]] is muttering, whispering to herself, "They were afraid, the breath, not air, they cannot rest, their spirits have been twisted..."
 
 Lumina, as you look over the site, you remember that Princess Sigrid always played with you in the Royal Gardens, which are atop the mountain beyond the clouds through a secret entrance in the fountain... 
 You have to put your hand in the water and speak the words:
