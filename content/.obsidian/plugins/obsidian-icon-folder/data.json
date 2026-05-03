@@ -46,7 +46,6 @@
   "SoloTTRPG": "LiBrainCircuit",
   "Working Folder": "LiNotebookPen",
   "Working Folder/Dashboard.md": "LiHome",
-  "Books": "LiBookKey",
   "Terra-Nova/videos": "LiTv",
   "Terra-Nova/SHOP & LOOT TABLES": "LiBadgeDollarSign",
   "Terra-Nova/Resources": "LiFolderCode",
@@ -59,5 +58,6 @@
   "Terra-Nova/Characters": "LiPersonStanding",
   "Terra-Nova/Campaigns": "LiBookOpenText",
   "Terra-Nova/Battlemaps": "LiMap",
-  "Terra-Nova": "LiSword"
+  "Terra-Nova": "LiSword",
+  "Terra-Nova/Books": "LiBookKey"
 }
