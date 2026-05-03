@@ -8,7 +8,8 @@ kanban-plugin: board
 
 - [ ] [[The Spire of Virtue]]
 - [ ] [[TVBO Player Characters]]
-- [ ] [[TVBO Session 2]]
+- [ ] [[TVBO Session 3]]
+- [ ] Dagnitt's Mine
 
 
 ## Worldbuilding
