@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Welcome to Pentium Realm
 aliases:
 ---
