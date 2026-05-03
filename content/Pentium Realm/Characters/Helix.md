@@ -1,3 +1,8 @@
+---
+publish: false
+title:
+aliases:
+---
 
 Helix. An AI Agent created for the Concord Esports program to act as a highly advanced coach. 
 

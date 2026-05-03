@@ -1,3 +1,8 @@
+---
+publish: false
+title: Welcome to Pentium Realm
+aliases:
+---
 
 ### What is Pentium Realm?
 

@@ -1,3 +1,8 @@
+---
+publish: false
+title:
+aliases:
+---
 
 ## The General Idea...
 
