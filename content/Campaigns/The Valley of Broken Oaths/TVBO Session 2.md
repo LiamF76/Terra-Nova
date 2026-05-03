@@ -42,7 +42,7 @@ creature: Dire Wolf
 
 `DM NOTE: The party encounters guards at the gate and need to be let in. Also sets up the inside of Westwood Village. Give them a tone and such.`
 
-*Set the Scene*: As you continue down the forested road the tree line breaks and you see the town of Westwood. It's a small town, the wooden roofs and stone houses dot the hills beneath the mountains that make up the valley. At the top of the hills, just over a small bridge is a castle, it is small and has a few collapsed walls and towers. The gates before you are stone towers, but the walls connected to them run short, and end in ruin, this town is not protected by walls. As you approach, a massive head of dark stormclouds can be seen over the edge of the valley, coming in from the ocean.
+*Set the Scene*: As you continue down the forested road the tree line breaks and you see the town of Westwood. It's a small town, the wooden roofs and stone houses dot the hills beneath the mountains that make up the valley. At the top of the hills, just over a small bridge is a castle, it is small and has a few collapsed walls and towers. The gates before you are stone towers, but the walls connected to them run short, and end in ruin, this town is not protected by walls. As you approach, a massive head of dark storm clouds can be seen over the edge of the valley, coming in from the ocean.
 
 Beside the heavy wooden gates stands a single guard, poorly armored and wielding nothing but a crude spear. His helmet looks a size too large, held on with a shoddy buckle.
 Name: Griffin of Westwood
