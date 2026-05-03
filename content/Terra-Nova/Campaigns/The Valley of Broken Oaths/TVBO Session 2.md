@@ -80,7 +80,7 @@ Name: [[Alcor]]
 After leaving Alcor:
 Marching down the road you see once again, the Knight Abraham, alone. He bows slightly and speaks. "Welcome to Westwood friends. Sorry to say it but you need to come with me, the Judge would like to see you"
 
-*Set the Scene*: The whole building gives a sense of age, like you can feel the time passed before in the halls as you walk them. As you continue on, a small study reveals a large stone carving on the wall. The room is lined with empty bookshelves, nothing in the room but tbhis strange historic artifact. 
+*Set the Scene*: The whole building gives a sense of age, like you can feel the time passed before in the halls as you walk them. As you continue on, a small study reveals a large stone carving on the wall. The room is lined with empty bookshelves, nothing in the room but this strange historic artifact. 
 
 The Carving: 
 	A stone carving that depicts a battle. It shows a demon and a bolt of lightning battling above a tower. The demon holds a sword larger than his body, while the lightning bolt flies around him. The demon wins, shattering the lightning bolt and casting the pieces into the wind. Beneath the demon is a hooded figure, faceless, nameless, and ever present.

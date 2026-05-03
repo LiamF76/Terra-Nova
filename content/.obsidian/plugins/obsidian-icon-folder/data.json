@@ -34,7 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Spells": "LiBook",
   "MTG Cards": "LiIdCard",
   "Excalidraw": "LiPen",
   "z Old": "LiTrash",
@@ -44,8 +43,6 @@
   "z Images": "LiCamera",
   "z Needs Sorted": "LiBinary",
   "SoloTTRPG": "LiBrainCircuit",
-  "Working Folder": "LiNotebookPen",
-  "Working Folder/Dashboard.md": "LiHome",
   "Terra-Nova/videos": "LiTv",
   "Terra-Nova/SHOP & LOOT TABLES": "LiBadgeDollarSign",
   "Terra-Nova/Resources": "LiFolderCode",
@@ -60,5 +57,8 @@
   "Terra-Nova/Battlemaps": "LiMap",
   "Terra-Nova": "LiSword",
   "Terra-Nova/Books": "LiBookKey",
-  "Pentium Realm": "LiBrainCircuit"
+  "Pentium Realm": "LiBrainCircuit",
+  "Terra-Nova/Spells": "LiBook",
+  "Dashboard.md": "LiHome",
+  "Terra-Nova/Working Folder": "LiNotebookPen"
 }

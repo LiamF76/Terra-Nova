@@ -1,3 +1,8 @@
+---
+publish: false
+title:
+aliases:
+---
 
 
 # :LiCalendar: `$= dv.date("today").toFormat("EEEE, MMMM d, yyyy")`
@@ -6,11 +11,14 @@ Welcome to Terra-Nova! This is my Cloud stored Obsidian vault for all things Ter
 
 ---
 
-> [!note] Quick Navigation
-> ## [[General To-Do]] | [[Solo Projects]]
+> [!note] Terra-Nova
+> ## [[Terra-Nova To-Do]] | [[Solo Projects]]
 
 > [!note] Current Campaigns
 > ## [[The Valley of Broken Oaths]] | [[Penance Lost PBP]] 
+
+> [!note] Pentium Realm
+> ## [[Pentium]]
 
 ---
 
