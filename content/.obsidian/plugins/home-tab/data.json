@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "Campaigns/The Valley of Broken Oaths/TVBO Session 2.md",
-      "timestamp": 1777824961637
+      "timestamp": 1777827214444
+    },
+    {
+      "filepath": "Templates/5 Room Dungeon Template.md",
+      "timestamp": 1777827211667
     },
     {
       "filepath": "Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Working Folder/Kanban Boards/General To-Do.md",
       "timestamp": 1777824949204
-    },
-    {
-      "filepath": "Working Folder/Dashboard.md",
-      "timestamp": 1777824948401
     }
   ],
   "bookmarkedFileStore": [],
