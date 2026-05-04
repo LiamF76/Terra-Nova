@@ -6,7 +6,7 @@ aliases:
 
 ![[Lanxaad-1776439198898.webp|500]]
 
-Name: **Lanxaad**, Son of the Storm Queen
+Name: **Lanxaad**, Son of the Storm Queen, The Blue Prince
 
 Voice: Voice Description
 - Example Dialogue
@@ -14,4 +14,4 @@ Voice: Voice Description
 Description: Appearance & vibe description
 
 Important Info: 
-- Connections, Abilities, Secrets
+- [[Lanxaad Backstory]]
