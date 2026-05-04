@@ -4,10 +4,11 @@ kanban-plugin: board
 
 ---
 
-## History Videos
+## History and Lore
 
 - [x] [[The Night of Twisting Stars]]
 - [ ] [[Fading Wonder]]
+- [ ] [[The Dissonant Creations]]
 - [ ] [[Story of the Tirumivrate]]
 - [ ] [[The Paragon]]
 - [ ] [[The Story of the Uncrowned and Realmcrest]]
@@ -57,6 +58,7 @@ kanban-plugin: board
 	- War between New Estorias and [[Sovrentia]]
 - [ ] [[Gods of Terra-Nova]]
 	- Finish dividing Gods into pantheons
+- [ ] Primodrials
 - [ ] Factions & Organizations
 	- players love joining things, list some major factions and groups
 - [ ] Races: [[Races of Terra-Nova]]
