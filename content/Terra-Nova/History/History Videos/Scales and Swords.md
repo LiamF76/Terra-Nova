@@ -10,7 +10,7 @@ Scales and Swords, Narrated by [[Maro]]
 
 I have lived many years, but not long enough to have witnessed any of the Scale Wars with Sovrentia save the third. 
 
-Though the first two conflicts had their heroes and their legends, they actually boiled down to one thing only. In the first, the Triumvirate dragons sent their amries to take the Maple Mountains, and consequentially the province of Ark. In the first war, they succeeded, and controlled the mountain range, though thanks to the Mages of [[Tamora]], the Scales were never able to push further south.
+Though the first two conflicts had their heroes and their legends, they actually boiled down to one thing only. In the first, the Triumvirate dragons sent their armies to take the Maple Mountains, and consequentially the province of Ark. In the first war, they succeeded, and controlled the mountain range, though thanks to the Mages of [[Tamora]], the Scales were never able to push further south.
 
 In the second war, Sovrentia took them back, and the Scales were routed past the Mountains, and they haven't been back since.
 
@@ -28,4 +28,8 @@ The real war was in Crest. Having taken the mountains and built a stronghold the
 
 [[Thalanil]] of Crest, a descendant of great kings, kings once believed to be dragons, challenged [[Vesponous]] to single combat after a particularly crushing defeat. Naturally the dragon accepted, always one for sport, but she did not fight. She sent a great champion, [[Azark]] the Pale Minotaur. He was champion of the Blood Circle, a warrior bred for blood and ruin who made his wealth in the arenas, and made his strength in the wilds of Wahellia. Terrible and powerful, but [[Thalanil]] was grace and perfection. Azark fought because he loved it, Thalanil fought because he was born for it. Hundreds of years of warrior history, legends and kings, it made him perfect.
 
-Azark was slain, and Vesponous fled north once again. 
+Azark was defeated, and he along with Vesponous fled north once again. 
+
+Sovrentia may have won that war, but if one day the Dragons decide they want the land, they will take it. Ask Thalanil what happened to Azark and he will say the beast died of his wounds, but I know the truth. He doesn't know if Azark is dead or not, but the dragons and their champions haunt his dreams as they do every veteran of the war, because a war against dragons doesn't end until they are dead for good.
+
+Keep the road's honor, and may the light shine on you.x
