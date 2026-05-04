@@ -1,7 +1,10 @@
 ---
 publish: false
-title:
+title: The Mantles
 aliases:
+  - The Disciples of Khal
+tags:
+  - Terra-Nova
 ---
 
 Khal Daraan created from his power 4 mantles

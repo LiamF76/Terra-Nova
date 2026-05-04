@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Terra-Nova/History/Lore Documents/The Mantles.md",
+      "timestamp": 1777935329005
+    },
+    {
       "filepath": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
-      "timestamp": 1777931434456
+      "timestamp": 1777935326800
+    },
+    {
+      "filepath": "Terra-Nova/History/Lore Documents/The Dissonant Creations.md",
+      "timestamp": 1777935325337
     },
     {
       "filepath": "Vault To-Do.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "Dashboard.md",
       "timestamp": 1777931417493
-    },
-    {
-      "filepath": "Terra-Nova/Campaigns/Campaigns Overview.md",
-      "timestamp": 1777931398767
-    },
-    {
-      "filepath": "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
-      "timestamp": 1777931390516
     }
   ],
   "bookmarkedFileStore": [],
