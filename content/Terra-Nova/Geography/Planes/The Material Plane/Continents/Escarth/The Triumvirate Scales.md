@@ -3,6 +3,8 @@ publish: true
 title: The Triumvirate Scales
 aliases:
   - The Dragonlands
+tags:
+  - Terra-Nova
 ---
 
 Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small but powerful due to dragon rulers, only mortal inhabitants are followers / servants of the dragons.

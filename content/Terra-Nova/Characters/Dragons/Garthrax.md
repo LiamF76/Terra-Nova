@@ -1,7 +1,10 @@
 ---
 publish: false
-title:
+title: Garthrax
 aliases:
+  - The Storm Queen
+tags:
+  - Terra-Nova
 ---
 
 | Dragon Form                               | Mortal Form                            |

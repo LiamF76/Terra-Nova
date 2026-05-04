@@ -1,7 +1,10 @@
 ---
 publish: false
-title:
+title: Vesponous
 aliases:
+  - The Serpent Queen
+tags:
+  - Terra-Nova
 ---
 
 | Dragon Form                                | Human Form                                 |

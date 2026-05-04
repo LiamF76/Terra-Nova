@@ -1,7 +1,11 @@
 ---
 publish: false
-title:
+title: Lanxaad
 aliases:
+  - The Blue Prince
+  - Son of the Storm Queen
+tags:
+  - Terra-Nova
 ---
 
 ![[Lanxaad-1776439198898.webp|500]]
