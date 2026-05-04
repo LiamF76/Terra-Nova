@@ -45,23 +45,9 @@
               "icon": "lucide-trello",
               "title": "Terra-Nova To-Do"
             }
-          },
-          {
-            "id": "a9c0e9c58966f422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Characters/People/Lanxaad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lanxaad"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terra-Nova/Characters/People/Lanxaad.md",
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lanxaad"
+              "title": "Outline of Terra-Nova To-Do"
             }
           },
           {
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/Characters/People/Lanxaad.md",
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lanxaad"
+              "title": "Backlinks for Terra-Nova To-Do"
             }
           }
         ],
@@ -190,9 +176,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a9c0e9c58966f422",
+  "active": "237f4701c7570868",
   "lastOpenFiles": [
+    "Terra-Nova/Resources/Gameplay Resources/Languages.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+    "Terra-Nova/Characters/Figures of Today.md",
+    "Terra-Nova/Resources/Gameplay Resources/Races of Terra-Nova.md",
+    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
+    "Terra-Nova/History/Timelines/Terra-Nova Master Timeline.md",
+    "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
+    "Terra-Nova/Organizations/Nobility/Sovrentian Government.md",
+    "Terra-Nova/Characters/People/Maro.md",
+    "Terra-Nova/Characters/People/Makhel.md",
     "Terra-Nova/Characters/People/Lanxaad.md",
     "Terra-Nova/Characters/Dragons/Garthrax.md",
     "Terra-Nova/Characters/Dragons/Vesponous.md",
@@ -207,7 +202,6 @@
     "Terra-Nova/Working Folder/WIP/Tamora.md",
     "Terra-Nova/Characters/People/Rakesh.md",
     "Terra-Nova/Characters/People/Zaltana.md",
-    "Terra-Nova/Organizations/Nobility/Sovrentian Government.md",
     "z Images/Rakesh-1777922218315.webp",
     "z Images/Fading Wonder-1777920885789.webp",
     "z Images/Fading Wonder-1777920806661.webp",
@@ -216,16 +210,8 @@
     "Terra-Nova/Organizations/Mortal Alliances/The Ivory Scholars.md",
     "z Images/The Night of Twisting Stars-1777916079434.webp",
     "Dashboard.md",
-    "conflict-files-obsidian-git.md",
-    "Terra-Nova/dungeons/Dagnitt's Mine.md",
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
     "Terra-Nova/Creatures/Leaf Dragon",
     "Terra-Nova/Creatures",
-    "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Player Characters.md",
-    "Terra-Nova/Characters/People/Thalia.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Bindi.md",
     "z Images/Austin-1777846248601.webp",
     "Terra-Nova/videos",
     "Terra-Nova/dungeons",

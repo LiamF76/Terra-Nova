@@ -5,6 +5,8 @@ aliases:
   - Gods
   - Divines
   - Pantheon
+tags:
+  - Terra-Nova
 ---
 
 # Gods of Terra-Nova 

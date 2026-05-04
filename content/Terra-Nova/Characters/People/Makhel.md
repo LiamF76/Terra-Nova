@@ -1,7 +1,10 @@
 ---
 publish: false
-title:
+title: Makhel
 aliases:
+  - First Drawn of Tamora
+tags:
+  - Terra-Nova
 ---
 
 ![[Makhel-1776406577727.webp|500x781]]
