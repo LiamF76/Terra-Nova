@@ -8,10 +8,8 @@
   "obsidian-kanban",
   "obsidian-annotator",
   "obsidian-icon-folder",
-  "obsidian-mind-map",
   "homepage",
   "home-tab",
-  "fantasy-content-generator",
   "obsidian-5e-statblocks",
   "obsidian-dice-roller",
   "image-converter",
@@ -19,7 +17,5 @@
   "dataview",
   "buttons",
   "obsidian-git",
-  "obsidian-languagetool-plugin",
-  "editing-toolbar",
-  "obsidian42-strange-new-worlds"
+  "obsidian-languagetool-plugin"
 ]

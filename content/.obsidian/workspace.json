@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
@@ -118,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme Test Note.md",
+                "file": "Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Theme Test Note"
+              "title": "Outline of Dashboard"
             }
           },
           {
@@ -136,19 +138,9 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "370eeb5e5828c462",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,10 +164,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Theme Test Note.md",
-    "Dashboard.md",
-    "Untitled.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+    "Dashboard.md",
+    "Theme Test Note.md",
+    "Untitled.md",
     "z Old/OLD GAMES/Campaigns/TTN Prep/past sessions/2025/4-27-2025 session prep.md",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
