@@ -45,9 +45,23 @@
               "icon": "lucide-trello",
               "title": "Terra-Nova To-Do"
             }
+          },
+          {
+            "id": "61f9cc03fdd7f638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/History/History Docs/The Night of Twisting Stars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Night of Twisting Stars"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,10 +188,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "237f4701c7570868",
+  "active": "61f9cc03fdd7f638",
   "lastOpenFiles": [
-    "Terra-Nova/History/History Docs/The Story of the Uncrowned and Realmcrest.md",
+    "z Images/The Night of Twisting Stars-1777916079434.webp",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+    "Terra-Nova/History/History Docs/The Story of the Uncrowned and Realmcrest.md",
     "Terra-Nova/History/History Docs/The Paragon.md",
     "Dashboard.md",
     "Terra-Nova/History/History Docs/Fading Wonder.md",
@@ -203,7 +218,6 @@
     "Terra-Nova/Characters/People/Lanxaad.md",
     "Terra-Nova/Characters/Character Backstories/Horus Hixs Backstory.md",
     "Terra-Nova/History/History Docs/The Triumvirate Scales Wars.md",
-    "Terra-Nova/History/History Docs/Scales and Swords.md",
     "z Images/Austin-1777846248601.webp",
     "Terra-Nova/videos",
     "Terra-Nova/dungeons",
