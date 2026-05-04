@@ -58,7 +58,7 @@ kanban-plugin: board
 	- War between New Estorias and [[Sovrentia]]
 - [ ] [[Gods of Terra-Nova]]
 	- Finish dividing Gods into pantheons
-- [ ] Primodrials
+- [ ] [[Primordials]]
 - [ ] Factions & Organizations
 	- players love joining things, list some major factions and groups
 - [ ] Races: [[Races of Terra-Nova]]
