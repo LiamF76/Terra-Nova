@@ -45,23 +45,9 @@
               "icon": "lucide-trello",
               "title": "Terra-Nova To-Do"
             }
-          },
-          {
-            "id": "72756b47baa6274f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/History/Holidays/Terra-Nova Holidays.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terra-Nova Holidays"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terra-Nova/History/Holidays/Terra-Nova Holidays.md",
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terra-Nova Holidays"
+              "title": "Outline of Terra-Nova To-Do"
             }
           },
           {
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/History/Holidays/Terra-Nova Holidays.md",
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terra-Nova Holidays"
+              "title": "Backlinks for Terra-Nova To-Do"
             }
           }
         ],
@@ -190,8 +176,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "72756b47baa6274f",
+  "active": "237f4701c7570868",
   "lastOpenFiles": [
+    "Terra-Nova/History/Holidays/Terra-Nova Holidays.md",
     "Terra-Nova/History/History Docs/The Story of the Uncrowned and Realmcrest.md",
     "Terra-Nova/History/History Docs/The White Wolf.md",
     "Terra-Nova/History/History Docs/The Triumvirate Scales Wars.md",
@@ -217,7 +204,6 @@
     "Terra-Nova/Characters/People/Maro.md",
     "Terra-Nova/Characters/People/Makhel.md",
     "Terra-Nova/Characters/People/Lanxaad.md",
-    "Terra-Nova/Characters/Dragons/Garthrax.md",
     "z Images/Rakesh-1777922218315.webp",
     "z Images/Fading Wonder-1777920885789.webp",
     "z Images/Fading Wonder-1777920806661.webp",
