@@ -34,7 +34,7 @@ Alcor gives me a knowing look, but I shrug it off. Minutes before meeting a nobl
 
 I had not met a King nor a Prince in my life, but lords I had. They would invite you into their halls and castles, demand you not be late, then inevitably make you wait for them to arrive. After they did finally grace you with their presence, the meeting would immediately devolve into you kneeling before some petty throne and thanking them for listening to you, then begging them for some help they should already be offering.
 
-I remember when Alcor had to renew his trade seal for traveling outside the Nation of Sovrentia. He had to meet with a Knight of a small principality in the East, then meet with that Knight's Lord, and then that Lord's financial Tzar. It took months, and we ate stale bread for the entire last week when funds had run low for not working so long.
+I remember when Alcor had to renew his trade seal for traveling outside the Nation of [[Sovrentia]]. He had to meet with a Knight of a small principality in the East, then meet with that Knight's Lord, and then that Lord's financial Tzar. It took months, and we ate stale bread for the entire last week when funds had run low for not working so long.
 
 It seems Lord Tarn of Tarnkeep has a different approach, as we are led by his servants passed the throne room and down the deep stone carved hallways into the heart of the castle. We make our way down a few sets of stairs, going deep into the keep that was cut into the mountain. This is the site of our audience, with Lord Tarn who for some reason has a job for Alcor, his private office.
 

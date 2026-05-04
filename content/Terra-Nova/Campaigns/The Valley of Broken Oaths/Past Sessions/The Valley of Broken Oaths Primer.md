@@ -10,7 +10,7 @@ Hello and welcome to Terra-Nova! I am very excited to play D&D with you! This is
 ![[image.webp|995]]
 ### The Setting
 
-This campaign is set within the **Westwood Valley**, a small land of relative peace despite its location on the boarder between the nations of **Sovrentia** and the **Triumvirate Scales**. The two nations are not openly at war, but the three Dragons that rule in the Scales often send raiding parties or release dangerous monsters on the boarder near the valley. **Sovrentia** is divided into multiple provinces each with their own form of government. 
+This campaign is set within the **Westwood Valley**, a small land of relative peace despite its location on the boarder between the nations of **[[Sovrentia]]** and the **Triumvirate Scales**. The two nations are not openly at war, but the three Dragons that rule in the Scales often send raiding parties or release dangerous monsters on the boarder near the valley. **[[Sovrentia]]** is divided into multiple provinces each with their own form of government. 
 
 The town and valley of **Westwood** is in the northernmost province, **Lightbear**. It is known for its **Lightbearing Peaks** mountain range, where it is said *Illuman* taught the first Aelarian mages how to turn undead with his holy light.
 
@@ -75,7 +75,7 @@ Here are some easy motivations that fit naturally into the story:
 I write campaigns as situations, not stories. You write the stories with your actions. Anything is possible, that is, if you are willing to roll for it.
 - Helping the priest who believes in you
 - Uncovering the truth behind the magic barrier
-- Defending Sovrentia from the Triumvirate Scales
+- Defending [[Sovrentia]] from the Triumvirate Scales
 
 Pick one, or invent your own! You could be from the Valley, or anywhere far away or nearby.
 

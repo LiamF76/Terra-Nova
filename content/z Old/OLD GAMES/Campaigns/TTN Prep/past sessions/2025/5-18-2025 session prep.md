@@ -194,7 +194,7 @@ Inspecting the corpse, you find the symbol of the **Courier’s Guild of Dragons
 But the most important find is a **sealed letter**, wax bearing the mark of a silver skull impaled by a rose. The seal is cracked slightly from age and pressure, but the letter within is legible:
 
 > _"To the Cerwan of the Eldermourne, and to whomever this letter may reach in time—_  
-> _A necromancer of no small power has taken root south of the Divide. He is known as the Gravebinder.
+> _A necromancer of no small power has taken root south of the Divide. He is known as the [[Gravebinder]].
 > His servants lurk in the night. Whole villages have gone dark. Travelers vanish in the fog.  
 > We had hoped to send more, but this may be the last word sent before the path is closed.  
 > Be wary. His touch is spreading. Send for help at once, this threat is beyond you."_

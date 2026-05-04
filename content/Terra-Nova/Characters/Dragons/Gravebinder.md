@@ -1,7 +1,9 @@
 ---
 publish: false
-title:
+title: Gravebinder
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 | Dragon Form                                  | Human Form                                   |

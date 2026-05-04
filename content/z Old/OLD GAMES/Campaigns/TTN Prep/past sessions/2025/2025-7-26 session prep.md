@@ -4,7 +4,7 @@ Hello and welcome to another exciting installment of Tales of Terra-Nova I am yo
 
 ## The Road to the Fortress
 
-As you gather your things in the morning after your victory against the Death Knight and servants of Gravebinder, you mount up your horses, and begin away on the road. Before you can reach the edge of the village, you are chased down by a Goblinoid horse, which strangely morphs into Cerwan the Druid!
+As you gather your things in the morning after your victory against the Death Knight and servants of [[Gravebinder]], you mount up your horses, and begin away on the road. Before you can reach the edge of the village, you are chased down by a Goblinoid horse, which strangely morphs into Cerwan the Druid!
 
 As she jogs alongside you, she gives thanks for your help protecting your village, and tosses a small pouch holding a piece of amber and a parchment with a poem on it to Emrys. "Good luck finding Pyrahn's treasures!" She shouts as she begins to slow, allowing you all to gallop away. "You're just as brave as Ryfon said you'd be!" Is her final statement of goodbye.
 
@@ -41,8 +41,8 @@ There are multiple paths to enter the city:
 *The City Gates.* The city gates are wrought iron, a heavy metal portcullis lies shut in front of you, on the opposite side of a 60ft long heavy wooden drawbridge reinforced with iron straps. The dark stone walls rise 60ft high, flowing into two massive towers that protect the gatehouse, standing at 120ft each. Atop the gate is a walkway, where two figures stand watching from the wall. One Beastfolk man, with fur and horns like an elk, he is a Velorn from Akash. Beside him is a dwarf, standing on something to allow him to see over the wall. 
 "ALL WHO SEEK TO ENTER TRAXGATE DURING THIS TIME, AS ORDERED BY THE GRAND MARSHAL, MUST PASS A TRIAL OF STRENGTH, A DUEL AGAINST ELOVAR OF THE FAR WEST, THIRD CHAMPION OF THE GRAND MARSHAL!"
 
-*Gravebinder Cult.* There are 12 humanoids clad in black robes with the symbol of a white skull painted on their faces. They are ominously walking through the encampments of people outside the city, offering food or healing for their families in exchange for individual volunteers. They can guarantee entry into the city for those who volunteer, but they will not say what the people are volunteering for.
-They are very open about following "The **Gravebinder**". They follow him because they believe undeath is the next step forward after the sun went out, and that **Gravebinder**'s Prophet, **The Last Daughter of Aelaria**, has been sent to deliver them to eternal paradise under **Gravebinder**.
+*[[Gravebinder]] Cult.* There are 12 humanoids clad in black robes with the symbol of a white skull painted on their faces. They are ominously walking through the encampments of people outside the city, offering food or healing for their families in exchange for individual volunteers. They can guarantee entry into the city for those who volunteer, but they will not say what the people are volunteering for.
+They are very open about following "The **[[Gravebinder]]**". They follow him because they believe undeath is the next step forward after the sun went out, and that **[[Gravebinder]]**'s Prophet, **The Last Daughter of Aelaria**, has been sent to deliver them to eternal paradise under **[[Gravebinder]]**.
 
 **Enemies:** 1x Elovar: best of 3x contested attack rolls. Elovar has a +5.
 

@@ -16,6 +16,6 @@ Voice: Voice Description
 Description: Appearance & vibe description
 
 Important Info: 
-- Legendary warrior of Sovrentia
+- Legendary warrior of [[Sovrentia]]
 - Hero of the Dragon Wars against the Triumvirate Scales
 - 

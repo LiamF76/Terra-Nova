@@ -1,7 +1,7 @@
 
 ## General Overview
 
-The town of Westwood is set in a valley in the North of the Nation of Sovrentia. This valley is set along the boarder between Sovrentia and the Triumvirate Scales, a nation ruled by a trio of Dragons. Their people are dangerous and violent. They happily attack and destroy anywhere they wish.
+The town of Westwood is set in a valley in the North of the Nation of [[Sovrentia]]. This valley is set along the boarder between [[Sovrentia]] and the Triumvirate Scales, a nation ruled by a trio of Dragons. Their people are dangerous and violent. They happily attack and destroy anywhere they wish.
 
 A powerful holy artifact blessed by the legendary Emperor Auranthor has protected the valley from the Dragon Monarchs for many years, but it is stolen. The party is sent to retrieve it.
 

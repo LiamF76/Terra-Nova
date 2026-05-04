@@ -46,7 +46,7 @@ He doesn't look up. "Can you please be careful Towser? You're the reason Alcor a
 
 "I'm sorry Towser, forget I mentioned it." I sit beside him and twirl my knife in my hands, I put some flourish on the turns and spins. Perhaps to remind him I am a capable warrior.
 
-"Do you remember, many months ago now, "I ask, but this question will be rhetorical, "When Petlia gathered all those Oak branches to cover the grave of Jeko? He was a true Warrior of Sovrentia, did well as a caravan guard, but he died defending the wagon from those dire wolves."
+"Do you remember, many months ago now, "I ask, but this question will be rhetorical, "When Petlia gathered all those Oak branches to cover the grave of Jeko? He was a true Warrior of [[Sovrentia]], did well as a caravan guard, but he died defending the wagon from those dire wolves."
 
 I am looking at the fire, but I can feel his eyes on me. "Sparrow I don't want to-"
 
@@ -64,7 +64,7 @@ He scoffs and hurriedly gets up, throwing the rest of the salted beef, tied and 
 
 His boot rises and kicks dirt into the fire, killing the light for a moment, and he is gone. No doubt retreating to his bedroll is Alcor's tent.
 
-I am left alone with my thoughts, and one echoes through my mind over and over. Perhaps he is right. I knew Jeko had the Orc's back, but he didn't, and he felt abandoned. Could I blame him for that? No. But I can blame him for the branches. Those were sacred, it was wrong. I fiddle with my newfound trinket, the ring shining in the light of the fire. It really is pretty, and under the light of the fire I can see better, the inside of the ring is engraved with stars, a constellation. Could it be an enchantment? I have seen them in many forms. I read a story about Ryfon, Master of the Ryfiri Druids in the south of Sovrentia, who made enchantments from the stars. It was said that he could summon the souls of heavenly beasts through them.
+I am left alone with my thoughts, and one echoes through my mind over and over. Perhaps he is right. I knew Jeko had the Orc's back, but he didn't, and he felt abandoned. Could I blame him for that? No. But I can blame him for the branches. Those were sacred, it was wrong. I fiddle with my newfound trinket, the ring shining in the light of the fire. It really is pretty, and under the light of the fire I can see better, the inside of the ring is engraved with stars, a constellation. Could it be an enchantment? I have seen them in many forms. I read a story about Ryfon, Master of the Ryfiri Druids in the south of [[Sovrentia]], who made enchantments from the stars. It was said that he could summon the souls of heavenly beasts through them.
 
 There are of course runes, employed by wizards and shaman of all kinds, though these were different. These looked celestial, holy magics, like that of the Sunlight Road. Perhaps they came not from Illuman the Lord of the Sun, but his brother Mani, the King of the Moons, or his children? He has many, eldest among them Rovan, the North Star, God of Bravery, Courage, and leadership.
 

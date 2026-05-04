@@ -167,4 +167,4 @@ Triumvirate Knight Combat Dialogue: IN CHROMATIC DRACONIC!
 
 *Set the Scene*: 
 
-Carefully entering town, is the farmer and his wife Maple! They have 3 fine horses with them. They offer you the horses as thanks for saving their town and them again. They beg you to leave for the artifact today, and to save their valley, and Sovrentia, before it's too late.
+Carefully entering town, is the farmer and his wife Maple! They have 3 fine horses with them. They offer you the horses as thanks for saving their town and them again. They beg you to leave for the artifact today, and to save their valley, and [[Sovrentia]], before it's too late.

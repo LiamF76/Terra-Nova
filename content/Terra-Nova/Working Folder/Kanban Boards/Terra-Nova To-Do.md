@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## History Videos
 
-- [ ] [[Scales and Swords]]
+- [x] [[Scales and Swords]]
 	- Narrated by TBD
 	- History of the Triumvirate Scales Wars
 	- What the scales / land is like now that dragons have been ruling and destroying it for so long
@@ -14,7 +14,7 @@ kanban-plugin: board
 	- Narrated by Abraham the Sword Oracle, narrator is a rival who greatly respects his rival's skill
 	- Story about blue dragon's half-dragon son who is a great warrior and dangerous
 - [ ] [[Fading Wonder]]
-	- Narrated by Rakesh of the Rising Sun
+	- Narrated by [[Rakesh]] of the Rising Sun
 	- The scars and magic fading
 	- Where hope lies, power of divinity and a return to worship similar to the Aelarians
 - [ ] [[The Paragon]]
@@ -50,9 +50,9 @@ kanban-plugin: board
 ## People
 
 - [ ] [[Makhel]]
-	- Spellblade of Tamora
+	- Spellblade of [[Tamora]]
 	- Powerful warrior
-- [ ] Rakesh
+- [ ] [[Rakesh]]
 - [ ] [[Maro]]
 	- Champion of Illuman
 
@@ -65,8 +65,8 @@ kanban-plugin: board
 - [ ] Update Homepage: [[index]]
 	- add more basic information, navigation, common links
 - [ ] Keep [[Terra-Nova Master Timeline]] updated
-	- 3 wars between Sovrentia and Triumvirate Scales
-	- War between New Estorias and Sovrentia
+	- 3 wars between [[Sovrentia]] and Triumvirate Scales
+	- War between New Estorias and [[Sovrentia]]
 - [ ] [[Gods of Terra-Nova]]
 	- Finish dividing Gods into pantheons
 - [ ] Factions & Organizations
@@ -81,7 +81,7 @@ kanban-plugin: board
 	- checklist [[Races Checklist]]
 - [ ] [[Figures of Today]]
 	- Wizard Council Members
-	- Ruler of Sovrentia
+	- Ruler of [[Sovrentia]]
 	- Some villain / anti-hero adjacent character
 	- honorable knight / wanderer
 	- divine champions

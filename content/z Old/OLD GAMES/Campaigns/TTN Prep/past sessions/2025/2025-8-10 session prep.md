@@ -101,7 +101,7 @@ Roll initiative!
 
 As the battle subsides, Thalia's eyes begin to glow golden. Her eyebrows raise as if she is listening to a voice from beyond this plane. She looks up at you in terror and whispers.
 
-"The Gravebinder, he is stealing light, life, if he continues, there won't be enough light left to defeat Arkonil! YOU HAVE TO SAVE US!" She screams in horror as if seeing visions of the ruined world that could be. She collapses unconscious from the experience, and the gold fades from her eyes. She clutches onto Emrys's shirt through her fainting, unable to let go.
+"The [[Gravebinder]], he is stealing light, life, if he continues, there won't be enough light left to defeat Arkonil! YOU HAVE TO SAVE US!" She screams in horror as if seeing visions of the ruined world that could be. She collapses unconscious from the experience, and the gold fades from her eyes. She clutches onto Emrys's shirt through her fainting, unable to let go.
 
 Tarot comes running down the street and urges the party to return to his home so they can safely assess the situation.
 
@@ -143,7 +143,7 @@ As he screams and makes his way down the road past you, Thalia shudders and whis
 
 *CALM EMOTIONS!*
 
-After calming him he is completely normal, and very thankful. He introduces himself as Irulis the Wizard and is very glad to meet Ivys. Wanted to try out the most famous club in the South before leaving town for work but he got more than he bargained for at the Dancing Devil, whatever he took there sent him into a frenzy. Has been hired to investigate the Gravebinder necromancer.
+After calming him he is completely normal, and very thankful. He introduces himself as Irulis the Wizard and is very glad to meet Ivys. Wanted to try out the most famous club in the South before leaving town for work but he got more than he bargained for at the Dancing Devil, whatever he took there sent him into a frenzy. Has been hired to investigate the [[Gravebinder]] necromancer.
 
 Irulis takes his leave and you all head home for the evening. 
 

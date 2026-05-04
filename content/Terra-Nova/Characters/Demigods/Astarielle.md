@@ -14,7 +14,7 @@ Name: **Astarielle Veil**, Astar Arthur, Lady Spacetime
 
 Voice: Voice Description
 - "If there is magic left anywhere in this world it is here, where my father slew the Devil, and where Gods were born."
-- "I will fall before Tamora does, and the children of the Devilmoon do not fall."
+- "I will fall before [[Tamora]] does, and the children of the Devilmoon do not fall."
 - 
 
 Description: Appearance & vibe description

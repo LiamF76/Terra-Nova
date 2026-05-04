@@ -89,7 +89,7 @@ Backstory
 
 "My ancestor was abandoned to the world. Somehow he found me, I won't let him be abandoned again."
 
-Also known as Ina or 'The Sparrow'. Inayet means to forgive in the language of an ancient people. He is the descendant, many generations past, of Young Ivar, the secret child of Ivar Uncrowned. The family disappeared under the surname Sparrow, the snow-covered mountain. Inayet was born in obscurity, working as a caravan guard for merchants across Sovrentia, but when he had a powerful prophetic dream of Ivar's tortured soul, and that of Arkonil, his path was altered.
+Also known as Ina or 'The Sparrow'. Inayet means to forgive in the language of an ancient people. He is the descendant, many generations past, of Young Ivar, the secret child of Ivar Uncrowned. The family disappeared under the surname Sparrow, the snow-covered mountain. Inayet was born in obscurity, working as a caravan guard for merchants across [[Sovrentia]], but when he had a powerful prophetic dream of Ivar's tortured soul, and that of Arkonil, his path was altered.
 
 His dreams showed him the truth of Ivar's life, and the wrongs that were done to him by the people and king of the lost kingdom Estor. Inayet vowed himself to Ivar's cause, and now seeks to free a piece of Ivar's soul trapped by a vampire Queen long ago. He refers to Ivar as his 'grandfather', and feels a deep kinship to him.
 

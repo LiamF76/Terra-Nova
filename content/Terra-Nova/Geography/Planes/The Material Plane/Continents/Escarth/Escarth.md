@@ -20,7 +20,7 @@ Nation ruled by 3 dragons. Ghost dragon ruling with undead and death knights, sk
 
 ### [[Sovrentia]]
 
-Born from the Freehold, Sovrentia is a nation of independent states. Each state of Sovrentia has its own government system. Some are managed by companies, others have monarchs such as lords or nobles, and some have democratically elected governors. Sovrentia is the longest standing nation in Escarth, having been around for almost 250 years. The population is highly diverse and so is the government.
+Born from the Freehold, [[Sovrentia]] is a nation of independent states. Each state of [[Sovrentia]] has its own government system. Some are managed by companies, others have monarchs such as lords or nobles, and some have democratically elected governors. [[Sovrentia]] is the longest standing nation in Escarth, having been around for almost 250 years. The population is highly diverse and so is the government.
 
 ---
 

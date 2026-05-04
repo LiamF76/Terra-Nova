@@ -15,7 +15,7 @@ This is a book / backstory of Inayet Uncrowned, beginning under the name Inayet 
 These are tentative ideas, see the chapters and summaries for what actually gets written.
 
 - The Wandering Knight: Inayet is a caravan guard / wandering knight. He works for a merchant caravan. The book just makes up his adventures as a wandering warrior. 
-	- **Finding Pollux Ring** - They are traveling through Sovrentia, they ride through a forest and pass by ruins of an ancient temple, the merchant finds an old brass ring he thinks is worthless, and gives it to Inayet. The ring summons a celestial horse called Pollux (he doesn't know that at the start, written in elvish which he has to study to get the horse's name). He keeps the magic ring and bonds with the horse. 
+	- **Finding Pollux Ring** - They are traveling through [[Sovrentia]], they ride through a forest and pass by ruins of an ancient temple, the merchant finds an old brass ring he thinks is worthless, and gives it to Inayet. The ring summons a celestial horse called Pollux (he doesn't know that at the start, written in elvish which he has to study to get the horse's name). He keeps the magic ring and bonds with the horse. 
 	- **Tarnkeep Wizard** - The caravan arrives at Tarnkeep and Inayet visits a wizard who he buys a book on Elvish to learn from.
 	- **Chimera Attack** - Alcor is captured by a wild Chimera, who believes Alcor is gold (because of his scales), and wants to keep him as a treasure. Ina has to infiltrate the Chimera's home and save Alcor.
 	- **Artifact Transport** - The caravan is hired to transport a valuable artifact, but it's revealed that the artifact is actually a powerful magical object that could be used for evil purposes.
