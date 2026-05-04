@@ -13,9 +13,10 @@ tags:
 Name: **Rakesh**, Grand Sun Hierophant, Maro's Chosen
 
 Voice: Rakesh has a deep and slow voice, he speaks like a calm stream of water, running through a quiet forest
-- Example Dialogue
+- "There is something powerful about forgiving an enemy. There is something more powerful about making difficult choices, when it comes to taking a life."
+- "I have no enemy but darkness, and no ally but light."
 
-Description: Appearance & vibe description
+Description: 6'2 Half-Elf, dark skinned and heavily armored. Rakesh always wears robes and armor of [[Illuman]], even in the churches he wears his plate pauldrons and gauntlets bearing the golden sun symbols of [[Illuman]]. His hair is neatly tied into rows and he stands with almost inhumanly perfect posture.
 
 Important Info: 
 - Grand Sun Hierophant of Goldridge
