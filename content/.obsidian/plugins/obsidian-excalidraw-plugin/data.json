@@ -126,7 +126,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "previousRelease": "2.22.1",
+  "previousRelease": "2.22.3",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
@@ -819,6 +819,7 @@
     "margin": "normal"
   },
   "disableContextMenu": false,
+  "excalidrawMasteryPromoCollapsed": false,
   "autosaveInterval": 15000,
   "defaultTrayMode": true
 }

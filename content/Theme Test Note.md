@@ -5,8 +5,14 @@ This note tests different themes
 
 *ITALIC*
 
+`code.`
+
+$Math block$
+
+==highlighted!==
+
 ---
 
 ### HEADER
 
-dsadsadsa
+regular text.

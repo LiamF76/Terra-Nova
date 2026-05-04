@@ -4,7 +4,7 @@ title:
 aliases:
 ---
 
-Dwarven Gold mine dungeon. Abandoned 200 years ago, all the Dwarves were killed 
+Dwarven Gold mine dungeon. Abandoned 200 years ago, all the Dwarves were killed and now monsters control it. Dungeon crawl!!!
 
 ## Room 1: Entrance Guardian
 

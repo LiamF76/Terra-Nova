@@ -7,13 +7,13 @@ kanban-plugin: board
 ## Session Prepping
 
 - [ ] [[The Spire of Virtue]]
-- [ ] [[TVBO Player Characters]]
 - [ ] [[TVBO Session 3]]
-- [ ] Dagnitt's Mine
+- [ ] [[Dagnitt's Mine]]
 
 
 ## Worldbuilding
 
+- [ ] [[TVBO Player Characters]]
 - [ ] [[TVBO Workshop]]
 - [ ] [[TVBO Pointcrawl Map]]
 - [ ] [[Campaign & Quest Ideas]]
