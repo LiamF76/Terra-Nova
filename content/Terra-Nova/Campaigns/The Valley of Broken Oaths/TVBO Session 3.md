@@ -10,11 +10,11 @@ Brainstorm:
 
 ---
 
-## Room 1: Entrance Guardian
+## Exploration Encounter
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: A great tree has fallen across the road. The upper parts of the tree are healthy and strong, but the base of the trunk is infested with winding lines of black necrosis beneath the bark. At the base of the tree a human hand has been infused with the roots above the earth. The hand is blackened with death and necromancy. (Some kind of magic check reveals necromancy and disease poisoned the tree through the hand.)
 
 *Set the Scene*: TBD
 
@@ -24,50 +24,14 @@ TBD
 
 ---
 
-## Room 2: Puzzle or Roleplaying Challenge
+## Exploration Encounter
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
-
-*Set the Scene*: TBD
-
-TBD
-
----
-
-## Room 3: Trick or Setback
-
-#### **TBD**
-
-`DM NOTE: Describe the encounter / overview of the room`
-
-*Set the Scene*: TBD
-
-TBD
-
----
-
-## Room 4: Climax, Big Battle
-
-#### **TBD**
-
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: leaf falls on someone's shoulder, it's actually a small leaf dragon. Looks like a leaf, completely harmless, eats bugs. Local to the Triumvirate Scales / the Westwood Valley. 
 
 *Set the Scene*: TBD
 
 TBD
 
 **Enemies**: 
-
----
-
-## Room 5: Reward, Revelation, Plot Twist
-
-#### **TBD**
-
-`DM NOTE: Describe the encounter / overview of the room`
-
-*Set the Scene*: TBD
-
-TBD

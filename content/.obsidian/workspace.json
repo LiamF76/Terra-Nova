@@ -25,58 +25,22 @@
             }
           },
           {
-            "id": "f65f2f52daee9582",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
-          },
-          {
-            "id": "96cbb8f51d7018d2",
+            "id": "1297cea09373ffb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
+                "file": "Terra-Nova/dungeons/Dagnitt's Mine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Campaign & Quest Ideas"
-            }
-          },
-          {
-            "id": "90c89e8abe55d397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Session 3"
+              "title": "Dagnitt's Mine"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,14 +149,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "90c89e8abe55d397",
+  "active": "1297cea09373ffb4",
   "lastOpenFiles": [
-    "Templates/Encounter Templates/Exploration Encounter Template.md",
-    "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Templates/5 Room Dungeon Template.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
     "Dashboard.md",
+    "Terra-Nova/Creatures/Leaf Dragon",
+    "Terra-Nova/Creatures",
+    "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Player Characters.md",
+    "Terra-Nova/Characters/People/Thalia.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Bindi.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Jerran.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Sobek.md",
+    "Templates/Encounter Templates/Exploration Encounter Template.md",
+    "Templates/5 Room Dungeon Template.md",
     "Terra-Nova/dungeons/Dagnitt's Mine.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
     "Terra-Nova/History/History Docs/Story of the Tirumivrate.md",
@@ -207,12 +178,6 @@
     "Terra-Nova/History/History Docs/The Story of the Uncrowned and Realmcrest.md",
     "Terra-Nova/History/History Docs/The Paragon.md",
     "Terra-Nova/History/History Docs/Scales and Swords.md",
-    "Terra-Nova/Characters/People/Rakesh.md",
-    "Terra-Nova/History/History Videos/Scales and Swords.md",
-    "Terra-Nova/Organizations/Religions & Cults/The Paragon of Rebirth.md",
-    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
-    "Terra-Nova/Characters/Extraplanar/Gods/Illuman.md",
-    "Terra-Nova/Organizations/Religions & Cults/The Rising Sun.md",
     "z Images/Austin-1777846248601.webp",
     "Terra-Nova/videos",
     "Terra-Nova/dungeons",
@@ -230,8 +195,6 @@
     "Terra-Nova/Spells/splitSecond.jpg",
     "Terra-Nova/Spells/spell-vengeance-v0-w0c3mzuemyle1.webp",
     "Terra-Nova/Spells",
-    "Terra-Nova/SHOP & LOOT TABLES",
-    "Terra-Nova/Resources/Statblocks/Old Statblocks",
-    "Terra-Nova/Resources/Gameplay Resources/Races"
+    "Terra-Nova/SHOP & LOOT TABLES"
   ]
 }

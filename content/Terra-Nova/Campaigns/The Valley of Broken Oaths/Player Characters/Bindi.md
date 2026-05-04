@@ -16,4 +16,3 @@ Bindi Knives/Backstory:
 - Obligation to keep ownership of the bakery where she grew up 
 - Dependency on “fairy dust” to cope with emotions
 
-
