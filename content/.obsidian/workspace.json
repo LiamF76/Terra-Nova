@@ -52,12 +52,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/History/History Docs/The Blinding Light.md",
+                "file": "Terra-Nova/History/Holidays/Terra-Nova Holidays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Blinding Light"
+              "title": "Terra-Nova Holidays"
             }
           }
         ],
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terra-Nova/History/History Docs/The Blinding Light.md",
+                "file": "Terra-Nova/History/Holidays/Terra-Nova Holidays.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Blinding Light"
+              "title": "Outline of Terra-Nova Holidays"
             }
           },
           {
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/History/History Docs/The Blinding Light.md",
+                "file": "Terra-Nova/History/Holidays/Terra-Nova Holidays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Blinding Light"
+              "title": "Backlinks for Terra-Nova Holidays"
             }
           }
         ],
@@ -192,6 +192,15 @@
   },
   "active": "72756b47baa6274f",
   "lastOpenFiles": [
+    "Terra-Nova/History/History Docs/The Story of the Uncrowned and Realmcrest.md",
+    "Terra-Nova/History/History Docs/The White Wolf.md",
+    "Terra-Nova/History/History Docs/The Triumvirate Scales Wars.md",
+    "Terra-Nova/History/History Docs/The Red King's Rise.md",
+    "Terra-Nova/History/History Docs/The Red King's Ascension.md",
+    "Terra-Nova/History/History Docs/The Paragon.md",
+    "Terra-Nova/History/History Docs/The Night of Twisting Stars.md",
+    "Terra-Nova/History/History Docs/The Creation of Terra-Nova.md",
+    "Terra-Nova/History/History Docs/The Blinding Light.md",
     "Terra-Nova/History/History Docs/Story of the Tirumivrate.md",
     "Terra-Nova/History/History Docs/Story of Maple Celestia.md",
     "Terra-Nova/History/History Docs/Son of the Storm Queen.md",
@@ -209,15 +218,6 @@
     "Terra-Nova/Characters/People/Makhel.md",
     "Terra-Nova/Characters/People/Lanxaad.md",
     "Terra-Nova/Characters/Dragons/Garthrax.md",
-    "Terra-Nova/Characters/Dragons/Vesponous.md",
-    "Terra-Nova/Characters/Dragons/Gravebinder.md",
-    "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/The Triumvirate Scales.md",
-    "Terra-Nova/History/History Docs/The Story of the Uncrowned and Realmcrest.md",
-    "Terra-Nova/History/History Docs/The Paragon.md",
-    "Terra-Nova/History/History Docs/The Night of Twisting Stars.md",
-    "Terra-Nova/Working Folder/WIP/The Reckoner's Grave.md",
-    "Terra-Nova/Working Folder/WIP/Tamora.md",
-    "Terra-Nova/Characters/People/Rakesh.md",
     "z Images/Rakesh-1777922218315.webp",
     "z Images/Fading Wonder-1777920885789.webp",
     "z Images/Fading Wonder-1777920806661.webp",

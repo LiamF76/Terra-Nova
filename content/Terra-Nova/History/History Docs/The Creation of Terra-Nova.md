@@ -4,6 +4,8 @@ title: The Creation of Terra-Nova
 aliases:
   - Creation
   - Creation Myth
+tags:
+  - Terra-Nova
 ---
 
 In the beginning, there was nothing. No light or dark, no world, and no Gods.

@@ -1,3 +1,11 @@
+---
+publish: false
+title: The Red King's Rise
+aliases:
+tags:
+  - Terra-Nova
+---
+
 Many people know the Red King Adrithyr, not many know how he got the title, or the crown. Adrithyr is the second born son of Calix the First, or Calix the Elder. Second sons so rarely rise as high as Adrithyr, but in his younger days he was quite the overachiever. In his youth he was heralded as a great swordsman, a legendary warrior that fought the with fury of fire, quite literally.
 
 While quelling a small rebellion by the old Lords of Oligoth, house Rex, Adrithyr was said to have a blade clad in fire, rare and powerful, but not completely unbelievable. The thing that cemented him as a great warrior was the crown, it was as if the licking tongues of flame formed a crown over his head as he slashed through men, a crown of fire, a red crown for a red king. Of course then he was the Red Prince, and not the price meant to inherit the crown. So how did this great warrior Prince clad in fire obtain his father's throne? Blood.
