@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "a50ba09766dba20b",
+            "id": "20b75f915c5754e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -139,12 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Terra-Nova/History/History Docs/Fading Wonder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Fading Wonder"
             }
           },
           {
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/dungeons/Dagnitt's Mine.md",
+                "file": "Terra-Nova/History/History Docs/Fading Wonder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +164,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dagnitt's Mine"
+              "title": "Backlinks for Fading Wonder"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -188,11 +190,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a50ba09766dba20b",
+  "active": "20b75f915c5754e4",
   "lastOpenFiles": [
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
-    "Terra-Nova/History/History Docs/Fading Wonder.md",
     "Terra-Nova/History/History Docs/The Night of Twisting Stars.md",
+    "Terra-Nova/History/History Docs/Fading Wonder.md",
+    "Terra-Nova/Characters/People/Rakesh.md",
     "Terra-Nova/Organizations/Mortal Alliances/The Ivory Scholars.md",
     "Terra-Nova/History/History Docs/Story of the Tirumivrate.md",
     "z Images/The Night of Twisting Stars-1777916079434.webp",
@@ -218,7 +221,6 @@
     "Terra-Nova/Characters/Character Backstories/Lanxaad Backstory.md",
     "Terra-Nova/Characters/People/Lanxaad.md",
     "Terra-Nova/Characters/Character Backstories/Horus Hixs Backstory.md",
-    "Terra-Nova/History/History Docs/The Triumvirate Scales Wars.md",
     "z Images/Austin-1777846248601.webp",
     "Terra-Nova/videos",
     "Terra-Nova/dungeons",
