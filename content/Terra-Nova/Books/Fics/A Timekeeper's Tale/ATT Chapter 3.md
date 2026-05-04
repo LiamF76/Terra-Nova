@@ -1,3 +1,10 @@
+---
+publish: false
+title:
+aliases:
+tags:
+  - Terra-Nova
+---
 
 In the First Age there were few definite truths. Kairos had born witness to the very laws of nature and physics being learned by the Aelarians. Such is the benefit of being the first mortal born into a new world. 'Many thanks to Shao Daraan for that'. He couldn't explain it, but he felt it. The feeling of a condescending 'You're welcome', from the God of Creation echoed in his head.
 

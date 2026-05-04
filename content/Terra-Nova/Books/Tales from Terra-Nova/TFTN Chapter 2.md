@@ -1,3 +1,10 @@
+---
+publish: true
+title: TFTN Chapter 2
+aliases:
+tags:
+  - Terra-Nova
+---
 
 ## Time Demands A New Approach
 

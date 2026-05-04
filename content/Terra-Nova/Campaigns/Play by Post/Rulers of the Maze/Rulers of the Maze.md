@@ -1,3 +1,10 @@
+---
+publish: false
+title:
+aliases:
+tags:
+  - Terra-Nova
+---
 
 This game is for Audrey! Exploring the maze of Iramo and uncovering its vast dark secrets, interacting with its people, and fun!
 

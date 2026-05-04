@@ -1,3 +1,10 @@
+---
+publish: false
+title:
+aliases:
+tags:
+  - Terra-Nova
+---
 
 Iramo. The Land of Mazes. Once it was a different land, but those days ended many tens of thousands of years ago. Now there is only the maze.
 

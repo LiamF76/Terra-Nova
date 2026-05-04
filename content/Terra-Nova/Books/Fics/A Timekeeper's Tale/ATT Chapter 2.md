@@ -1,3 +1,10 @@
+---
+publish: false
+title:
+aliases:
+tags:
+  - Terra-Nova
+---
 
 The Third Age was easily his least favorite to travel to. Full of conflict and complication, none of which Kairos had orchestrated, which meant in the end it was pointless. 
 

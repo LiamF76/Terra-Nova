@@ -1,3 +1,10 @@
+---
+publish: true
+title: TFTN Chapter 4
+aliases:
+tags:
+  - Terra-Nova
+---
 
 "To love her would be easy. To love her rightly would mean never letting her know."
 
