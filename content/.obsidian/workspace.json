@@ -45,23 +45,9 @@
               "icon": "lucide-trello",
               "title": "Terra-Nova To-Do"
             }
-          },
-          {
-            "id": "65d3280d40235f7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/History/Lore Documents/Fading Wonder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fading Wonder"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +176,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "65d3280d40235f7d",
+  "active": "ace653a6f9f0b02e",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
     "Terra-Nova/History/Lore Documents/Fading Wonder.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
     "Terra-Nova/History/Lore Documents/The Mantles.md",
     "Terra-Nova/Organizations/Divine Groups/Primordials.md",
     "Dashboard.md",
