@@ -16,3 +16,8 @@ Garthrax, whose thirst for war was deep, carved a castle within the tallest moun
 
 Gravebinder, whose hunger for knowledge could never be sated, slunk through the swamps to the ruins of New Oligoth. She raised a hundred mortals, corpses made slave to her will, and they built her a temple of ritual and evil. In the ruins of a mortal castle, once home to an order of honorable knights who hunted monsters, became the unholy home of the dragon necromancer.
 
+Vesponous is a spy, doesn't build a fort but works to make mortals worship her as their god. lives amongst them in disguise.
+
+---
+
+more stuff here
