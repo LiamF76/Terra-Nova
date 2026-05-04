@@ -7,8 +7,8 @@ kanban-plugin: board
 ## History Videos
 
 - [ ] [[The Night of Twisting Stars]]
-- [ ] [[Story of the Tirumivrate]]
 - [ ] [[Fading Wonder]]
+- [ ] [[Story of the Tirumivrate]]
 - [ ] [[The Paragon]]
 - [ ] [[The Story of the Uncrowned and Realmcrest]]
 
