@@ -1,17 +1,25 @@
 ---
-publish: false
+publish: true
 title: Rakesh
 aliases:
+  - Grand Sun Hierophant
+  - Maro's Chosen
+tags:
+  - Terra-Nova
 ---
 
-![[image.png|300]]
+![[Rakesh-1777922218315.webp|502]]
 
-Name: **Rakesh**, Aliases
+Name: **Rakesh**, Grand Sun Hierophant, Maro's Chosen
 
-Voice: Voice Description
+Voice: Rakesh has a deep and slow voice, he speaks like a calm stream of water, running through a quiet forest
 - Example Dialogue
 
 Description: Appearance & vibe description
 
 Important Info: 
-- Connections, Abilities, Secrets
+- Grand Sun Hierophant of Goldridge
+- Member of the Parliament in [[Sovrentia]] / [[Sovrentian Government]]
+- Devoted priest and paladin of [[Illuman]]
+- Chosen by and cousin of [[Maro]]
+- 
