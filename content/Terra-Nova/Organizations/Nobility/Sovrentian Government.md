@@ -15,7 +15,7 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 	- Gawen of Crest
 	- Ryfon of Jasage
 	- Kensa of Kheagon
-	- Zaltana of Lightbear
+	- [[Zaltana]] of Lightbear
 
 ---
 

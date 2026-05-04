@@ -11,14 +11,14 @@ kanban-plugin: board
 	- History of the Triumvirate Scales Wars
 	- What the scales / land is like now that dragons have been ruling and destroying it for so long
 - [ ] [[Son of the Storm Queen]]
-	- Narrated by Abraham the Sword Oracle, narrator is a rival who greatly respects his rival's skill
+	- Narrated by [[Abraham]] the Sword Oracle, narrator is a rival who greatly respects his rival's skill
 	- Story about blue dragon's half-dragon son who is a great warrior and dangerous
 - [ ] [[Fading Wonder]]
 	- Narrated by [[Rakesh]] of the Rising Sun
 	- The scars and magic fading
 	- Where hope lies, power of divinity and a return to worship similar to the Aelarians
 - [ ] [[The Paragon]]
-	- Narrated by Finnick, highly skeptical of the religion / net good, but clearly assesses the strength
+	- Narrated by [[Finnick]], highly skeptical of the religion / net good, but clearly assesses the strength
 	- Talks about Horus Hixs and his holy empire
 	- comments on the constant diplomacy and military push for control of the Ark province
 - [ ] [[The Story of the Uncrowned and Realmcrest]]

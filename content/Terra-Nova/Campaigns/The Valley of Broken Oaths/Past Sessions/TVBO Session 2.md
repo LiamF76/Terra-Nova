@@ -59,14 +59,14 @@ He can tell the party about packs of Kobolds and strange shapes in the lakes and
 
 #### **The Broken Wagon**
 
-`DM NOTE: A supply wagon has gone into a small ditch and the wagon is stuck. There are food and weapon supplies that have fallen out. There is a statue in the back of Judge Finnick (it was a gift from the Tarn family, but the party won't know that, they may think he bought it instead of helping the town) The merchant needs help from the party lifting it out of the ditch.`
+`DM NOTE: A supply wagon has gone into a small ditch and the wagon is stuck. There are food and weapon supplies that have fallen out. There is a statue in the back of Judge [[[[[[Finnick]]]]]] (it was a gift from the Tarn family, but the party won't know that, they may think he bought it instead of helping the town) The merchant needs help from the party lifting it out of the ditch.`
 
 *Set the Scene*: As you enter town you see the patched walls, some boarded windows, and tired roads. This place is quaint and beautiful, set within the peace of the valley that has been disturbed. The courtyard is little more than a large dirt and stone clearing, but it makes the town feel well used, and old.
 
 Ahead of you someone whistles, and waves his hands above his head. It's a Gold Dragonborn, his wagon appears to have rolled its front wheel into a small ditch and the old horse cannot pull it out. There are crates of food and weapons that have tumbled out, and there is something very tall covered in a canvas still in the back.
 Name: [[Alcor]]
 - Alcor's wagon is stuck in the ditch and he needs help getting it out.
-- He is delivering supplies and a statue of Judge Finnick (Alcor doesn't know the Tarn family paid for it, just that he is delivering it from Tarnkeep to Westwood.)
+- He is delivering supplies and a statue of Judge [[Finnick]] (Alcor doesn't know the Tarn family paid for it, just that he is delivering it from Tarnkeep to Westwood.)
 - He will pay anyone who helps 1GP
 
 ---
@@ -75,17 +75,17 @@ Name: [[Alcor]]
 
 #### **Stone Carving of History**
 
-`DM NOTE: Party is led through Judge Finnick's Castle. They see a piece of hisotry. A stone carving that depicts a battle. It shows a demon and a bolt of lightning battling above a tower. The demon holds a sword larger than his body, while the lightning bolt flies around him. The demon wins, shattering the lightning bolt and casting the pieces into the wind. Beneath the demon is a hooded figure, faceless, nameless, and ever present. Finnick obtained it from a ruin called 'The Shattered Crown'. Adventurers gifted it to him for allowing them to go north and plunder the dungeons.`
+`DM NOTE: Party is led through Judge [[Finnick]]'s Castle. They see a piece of hisotry. A stone carving that depicts a battle. It shows a demon and a bolt of lightning battling above a tower. The demon holds a sword larger than his body, while the lightning bolt flies around him. The demon wins, shattering the lightning bolt and casting the pieces into the wind. Beneath the demon is a hooded figure, faceless, nameless, and ever present. [[Finnick]] obtained it from a ruin called 'The Shattered Crown'. Adventurers gifted it to him for allowing them to go north and plunder the dungeons.`
 
 After leaving Alcor:
-Marching down the road you see once again, the Knight Abraham, alone. He bows slightly and speaks. "Welcome to Westwood friends. Sorry to say it but you need to come with me, the Judge would like to see you"
+Marching down the road you see once again, the Knight [[Abraham]], alone. He bows slightly and speaks. "Welcome to Westwood friends. Sorry to say it but you need to come with me, the Judge would like to see you"
 
 *Set the Scene*: The whole building gives a sense of age, like you can feel the time passed before in the halls as you walk them. As you continue on, a small study reveals a large stone carving on the wall. The room is lined with empty bookshelves, nothing in the room but this strange historic artifact. 
 
 The Carving: 
 	A stone carving that depicts a battle. It shows a demon and a bolt of lightning battling above a tower. The demon holds a sword larger than his body, while the lightning bolt flies around him. The demon wins, shattering the lightning bolt and casting the pieces into the wind. Beneath the demon is a hooded figure, faceless, nameless, and ever present.
 
-Abraham strongly dislikes the carving, says none of it matters, ancient history is irrelevant. He is a jaded SOB!
+[[Abraham]] strongly dislikes the carving, says none of it matters, ancient history is irrelevant. He is a jaded SOB!
 
 ---
 
@@ -93,14 +93,14 @@ Abraham strongly dislikes the carving, says none of it matters, ancient history 
 
 #### **Audience with the Judge**
 
-`DM NOTE: The party is summoned by Judge Finnick and brought to his castle. The castle is crappy and there are a few ruined walls that still need repaired. He interviews them, and demands they investigate the artifact. He wants to do this as cheaply as possible.`
+`DM NOTE: The party is summoned by Judge [[Finnick]] and brought to his castle. The castle is crappy and there are a few ruined walls that still need repaired. He interviews them, and demands they investigate the artifact. He wants to do this as cheaply as possible.`
 
-*Set the Scene*: Finally you reach the office of Judge Finnick. A large dark wooden desk held up by thick cuts of marble, the office is littered with shiny trinkets and books. It's a stark, almost jarring, change of pace from the rest of the collapsing castle. There is a candle lit on the desk that smells of tobacco and cinnamon.
+*Set the Scene*: Finally you reach the office of Judge [[Finnick]]. A large dark wooden desk held up by thick cuts of marble, the office is littered with shiny trinkets and books. It's a stark, almost jarring, change of pace from the rest of the collapsing castle. There is a candle lit on the desk that smells of tobacco and cinnamon.
 
-Sitting behind his desk is Judge Finnick, his robes are ornate and cleanly laundered. He has a regal look, despite being such a minor member of government. He does not look up when you enter, but acknowledges you by motioning to sit in the chairs set before his desk. As you sit he carefully turns his business ledger out of your gaze and shuts it.
+Sitting behind his desk is Judge [[Finnick]], his robes are ornate and cleanly laundered. He has a regal look, despite being such a minor member of government. He does not look up when you enter, but acknowledges you by motioning to sit in the chairs set before his desk. As you sit he carefully turns his business ledger out of your gaze and shuts it.
 Name: Judge [[Finnick]]
 RP Notes:
-- Judge Finnick does not want to admit something is wrong with the artifact
+- Judge [[Finnick]] does not want to admit something is wrong with the artifact
 - Something is ABSOLUTELY wrong with the artifact
 - He needs help to solve this, someone needs to go to the artifact and investigate (he wants the party to do it)
 - He claims the horse theft was a test of their honesty (it wasn't he wanted the horses)
@@ -117,13 +117,13 @@ RP Notes:
 
 ## Exploration Encounter
 
-#### **Alone in Finnick's Study**
+#### **Alone in [[Finnick]]'s Study**
 
 `DM NOTE: Finnick is called away from his study and tells the party they are welcome to wait there before he returns. They are alone in his office and there are multiple things to investigate. His business ledger tha shows Westwood is in debt to another province. His bookshelf that shows he has collected a large number of tomes on war and magical military strategy from ancient times. And his desk with a locked drawer, inside is a key that is old and made of marble. It looks very old and like it doesn't go to anything in Westwood.`
 
-At some point during the conversation Finnick is called away by a servant. 
+At some point during the conversation [[Finnick]] is called away by a servant. 
 
-*Set the Scene*: Finnick's boots echo down the hall away, until you can no longer hear him. The room is quiet while he is gone, save the sound of some birds outside the open windows. 
+*Set the Scene*: [[Finnick]]'s boots echo down the hall away, until you can no longer hear him. The room is quiet while he is gone, save the sound of some birds outside the open windows. 
 His desk and its many drawers, hastily shut business ledger, and stuffed full bookshelf are almost begging to be investigated.
 
 Investigate:
@@ -132,7 +132,7 @@ Investigate:
 ![[TVBO Session 2-1777676333654.webp|500]]
 - **Bookshelf**: The bookshelf holds many tomes. There are historical tomes on the Empire of Estor and the ancient warrior kings of the Winterlands. There are studies on Elven society and Agamarth, but the most populous tomes are studies on military strategy. The Meditations of Lazarus and chronicles of the great commander Elena Syrell. There are at least 40 books on war and tactics. Inside the pages of one of the books are crude hand drawn plans to fortify and ideas on defense of Westwood.
 
-Finnick returns, bursting into the room alongside two of his knights. "There are monsters in the town! Knights of the Scales have breached the walls! Come please, help us and you will be rewarded!"
+[[Finnick]] returns, bursting into the room alongside two of his knights. "There are monsters in the town! Knights of the Scales have breached the walls! Come please, help us and you will be rewarded!"
 
 ---
 
@@ -140,7 +140,7 @@ Finnick returns, bursting into the room alongside two of his knights. "There are
 
 #### **The Village is under attack!**
 
-`DM NOTE: The party exits the castle and are attacked . They are led to the village center where the enemies are, Finnick orders his knights to retreat and he hides in his castle.`
+`DM NOTE: The party exits the castle and are attacked . They are led to the village center where the enemies are, [[[[Finnick]]]] orders his knights to retreat and he hides in his castle.`
 
 *Set the Scene*: You charge down the streets, the screeches of Kobolds and chanting in draconic echoes in your ears.As you reach the town square you see a small pile of 4 bodies, people of the village, surrounded by monsters. 
 
@@ -155,7 +155,7 @@ Led by two fully armored knights (dragonborn) bearing symbols of the Triumvirate
 Triumvirate Knight Combat Dialogue: IN CHROMATIC DRACONIC!
 - Hin land fen ag Naal dii goddo own su'um (your land will burn by my god's own breath)
 - Niid godde Nuz dii Monah ahrk bormah (no gods but my mother and father, could be read as my mother and father literally or my mothers and fathers gods that they worshipped)
-- ALDROS ALDROS ALDROS! (Chanting a name, Aldros, the Draconic word for Aldred, but in Chromatic is means PUNISHED not PUNISHER)
+- [[ALDROS]] [[ALDROS]] [[ALDROS]]! (Chanting a name, [[Aldros]], the Draconic word for Aldred, but in Chromatic is means PUNISHED not PUNISHER)
 
 ---
 

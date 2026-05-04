@@ -6,7 +6,7 @@ tags:
   - Terra-Nova
 ---
 
-The Son of the Storm Queen, Narrated by Abraham
+The Son of the Storm Queen, Narrated by [[Abraham]]
 
 ---
 

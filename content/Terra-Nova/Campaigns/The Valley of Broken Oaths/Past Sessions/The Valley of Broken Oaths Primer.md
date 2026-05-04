@@ -16,7 +16,7 @@ The town and valley of **Westwood** is in the northernmost province, **Lightbear
 
 The valley should be a site of war and constant skirmish, but it is not. This is due to an ancient many hundreds years old enchantment left by a hero. For generations the valley has been protected by a holy artifact, a relic blessed by the Angel *Marcell* and his heavenly master *Aldred the God of Penance*. This magic has formed an invisible but powerful protective barrier that has kept the armies of the Dragon Rulers at bay. Everyone in the valley knows this truth: `The artifact keeps us safe.`
 
-**Westwood** is a frontier town in the **Westwood Valley**, as part of the democracy of **Lightbear** it has a *Judge* who presides over the town. That is *Finnick Ascian*, appointed by the *Governor of Lightbear*. He is a fickle Judge, known for his love towards money and looking rich, like that of a great hero, despite being a documented coward. Though he is cowardly and terrible with a sword, his statecraft and trade organization is above average, and earned him the comfortable seat of *Judge*.
+**Westwood** is a frontier town in the **Westwood Valley**, as part of the democracy of **Lightbear** it has a *Judge* who presides over the town. That is *[[Finnick]] Ascian*, appointed by the *Governor of Lightbear*. He is a fickle Judge, known for his love towards money and looking rich, like that of a great hero, despite being a documented coward. Though he is cowardly and terrible with a sword, his statecraft and trade organization is above average, and earned him the comfortable seat of *Judge*.
 
 He can dispense punishment for lawbreakers and hire warriors to help with problems across the land, which he has been doing often as of late.
 

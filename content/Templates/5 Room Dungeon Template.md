@@ -3,7 +3,7 @@
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
@@ -17,7 +17,7 @@ TBD
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
@@ -29,7 +29,7 @@ TBD
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
@@ -41,7 +41,7 @@ TBD
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
@@ -55,7 +55,7 @@ TBD
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
