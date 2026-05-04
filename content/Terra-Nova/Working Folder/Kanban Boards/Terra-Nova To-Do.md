@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## History Videos
 
-- [ ] [[The Night of Twisting Stars]]
+- [x] [[The Night of Twisting Stars]]
 - [ ] [[Story of the Tirumivrate]]
 - [ ] [[Fading Wonder]]
 - [ ] [[The Paragon]]
