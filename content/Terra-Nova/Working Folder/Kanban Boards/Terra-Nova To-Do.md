@@ -7,12 +7,12 @@ kanban-plugin: board
 ## History and Lore
 
 - [x] [[The Night of Twisting Stars]]
-- [ ] [[Fading Wonder]]
+- [x] [[Fading Wonder]]
 - [ ] [[The Dissonant Creations]]
+- [ ] [[The Mantles]]
 - [ ] [[Story of the Tirumivrate]]
 - [ ] [[The Paragon]]
 - [ ] [[The Story of the Uncrowned and Realmcrest]]
-- [ ] [[The Mantles]]
 
 
 ## Triumvirate Scales
