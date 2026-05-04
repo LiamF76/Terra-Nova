@@ -18,5 +18,6 @@ Voice: Deep and rumbling, his voice sounds like the great waves of the ocean tha
 Description: Khal has no known appearance. There is only one depiction of Khal Daraan, protected by the Ryfiri Druids. It was carved into the first root of the Oakenheart, and taken from that place. It lies sealed in Druidica, but legends say it shows a great eye, surrounded by a thousand black feathered wings. It is ever bleeding and red, and never closes.
 
 Important Info: 
+- God of Destruction
 - Khal Daraan is the destroyer, its cosmic purpose and reason for being to to destroy all creation
 - 

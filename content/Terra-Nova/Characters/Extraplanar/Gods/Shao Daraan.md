@@ -18,5 +18,7 @@ Voice: does not speak with his own voice, uses the voices of those you know in y
 Description: Shao Daraan takes many forms. As a God he manifests in black skin, a tail longer than the world. 4 clawed and vile arms adorn his body, and his hair is shadowed tentacles. He looks more beast than God. As a mortal Shao often takes the form of an old Man, often refered to as 'The Old Man', by those who worship the old gods.
 
 Important Info: 
+- God of Creation
 - Creator of the universe, somewhat a manifestation of the Dungeon Master/The Ruler
 - Shao Daraan is the Creator, he created Terra-Nova and its planes 
+- 
