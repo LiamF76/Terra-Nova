@@ -1,3 +1,10 @@
+---
+publish: false
+title: The Blinding Light
+aliases:
+tags:
+  - Terra-Nova
+---
 
 Long ago in the early days of Agamarth, and the Elven Kings first sat in their thrones of the enchanted city Thylor Aethil, there was a king who believed himself to be so great that he was divine. King Erevan, a well studied king and mage, believed himself so powerful and so gracious to his people, that they should worship him, and they did. He looked upon himself in the mirror each day believing he shined so brightly that he outdid the sun, and Illuman. He did not.
 
