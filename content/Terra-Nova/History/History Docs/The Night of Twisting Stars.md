@@ -23,3 +23,7 @@ Observers describe the sensation not as fear, but as disorientation. With no fix
 It was said in legend that the Twisting Stars was created once, by the ancient and powerful Timekeepers. An event of astral anomaly meant to reassert and define the linear flow of time. Some who watch it say they can still see the tip of the mystical tower between worlds, rising at the epicenter of all the stars. And atop it there is a figure, a mage who created this event to protect the world evermore after his death, and beyond.
 
 People travel across the land to reach holy sites and watchpoints, hoping to see the Twisting Stars in all their beauty, for it is a once in a lifetime opportunity. Cherish the moment, and remember the sacrifices of your ancestors during the twisting stars, for Elysium is never closer than during this phenomenon.
+
+---
+
+The Twisting Stars are always led up to by precursor events. Most notable of them is, 'The Drift', wherein the north star, Rovan, symbol of the God of Courage himself, begins to slowly migrate south until he is placed directly above the Oakenheart. Rovan remains there perfectly still, following Tena's heart until the Stars begin to twist and spin with him. Those faithful to Rovan believe it is a beautiful and joyous event, a dance of revelry amongst Rovan and his astral siblings, the other Gods of the stars.
