@@ -6,13 +6,12 @@ kanban-plugin: board
 
 ## History Videos
 
-- [x] [[Scales and Swords]]
-	- Narrated by TBD
-	- History of the Triumvirate Scales Wars
-	- What the scales / land is like now that dragons have been ruling and destroying it for so long
-- [ ] [[Son of the Storm Queen]]
-	- Narrated by [[Abraham]] the Sword Oracle, narrator is a rival who greatly respects his rival's skill
-	- Story about blue dragon's half-dragon son who is a great warrior and dangerous
+- [ ] [[Story of the Tirumivrate]]
+	- history of the scales
+	- where did each dragon make their home
+	- [[Garthrax]] kids
+	- [[Vesponous]] spying
+	- [[Gravebinder]] knowledge seeking
 - [ ] [[Fading Wonder]]
 	- Narrated by [[Rakesh]] of the Rising Sun
 	- The scars and magic fading
