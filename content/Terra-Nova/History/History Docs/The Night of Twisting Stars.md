@@ -19,6 +19,7 @@ Below, the world reflects this distortion. Light spills unevenly across stone an
 Observers describe the sensation not as fear, but as disorientation. With no fixed stars left to anchor the eye, direction becomes meaningless. North and south lose their authority. Time feels suspended, measured only by the steady, inexorable turning of the twisted heavens until, slowly, imperceptibly, the lines shorten... and the stars relearn how to be points again.
 
 ---
+![[The Night of Twisting Stars-1777920628224.webp|500x889]]
 
 It was said in legend that the Twisting Stars was created once, by the ancient and powerful Timekeepers. An event of astral anomaly meant to reassert and define the linear flow of time. Some who watch it say they can still see the tip of the mystical tower between worlds, rising at the epicenter of all the stars. And atop it there is a figure, a mage who created this event to protect the world evermore after his death, and beyond.
 
