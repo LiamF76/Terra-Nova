@@ -45,27 +45,9 @@
               "icon": "lucide-trello",
               "title": "Terra-Nova To-Do"
             }
-          },
-          {
-            "id": "3f2a46287fb900e4",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Vault To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Vault To-Do"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +176,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3f2a46287fb900e4",
+  "active": "ace653a6f9f0b02e",
   "lastOpenFiles": [
+    "Vault To-Do.md",
     "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
     "Terra-Nova/Campaigns/Campaigns Overview.md",
@@ -221,7 +204,6 @@
     "Terra-Nova/Campaigns/Play by Post/Play by Post Brainstorm.md",
     "Terra-Nova/Campaigns/Play by Post/TBD Grey Game.md",
     "Terra-Nova/Campaigns/Play by Post/Rulers of the Maze/Rulers of the Maze.md",
-    "Terra-Nova/Campaigns/Play by Post/Penance Lost/Penance Lost.md",
     "z Images/Rakesh-1777922218315.webp",
     "z Images/Fading Wonder-1777920885789.webp",
     "z Images/Fading Wonder-1777920806661.webp",
