@@ -10,13 +10,13 @@ Hello and welcome to Terra-Nova! I am very excited to play D&D with you! This is
 ![[image.webp|995]]
 ### The Setting
 
-This campaign is set within the **Westwood Valley**, a small land of relative peace despite its location on the boarder between the nations of **Sovrentia** and the **Triumvirate Scales**. The two nations are not openly at war, but the three Dragons that rule in the Scales often send raiding parties or release dangerous monsters on the boarder near the valley. **Sovrentia** is divided into multiple provinces each with their own form of government. 
+This campaign is set within the **Westwood Valley**, a small land of relative peace despite its location on the boarder between the nations of **[[Sovrentia]]** and the **Triumvirate Scales**. The two nations are not openly at war, but the three Dragons that rule in the Scales often send raiding parties or release dangerous monsters on the boarder near the valley. **[[Sovrentia]]** is divided into multiple provinces each with their own form of government. 
 
 The town and valley of **Westwood** is in the northernmost province, **Lightbear**. It is known for its **Lightbearing Peaks** mountain range, where it is said *Illuman* taught the first Aelarian mages how to turn undead with his holy light.
 
 The valley should be a site of war and constant skirmish, but it is not. This is due to an ancient many hundreds years old enchantment left by a hero. For generations the valley has been protected by a holy artifact, a relic blessed by the Angel *Marcell* and his heavenly master *Aldred the God of Penance*. This magic has formed an invisible but powerful protective barrier that has kept the armies of the Dragon Rulers at bay. Everyone in the valley knows this truth: `The artifact keeps us safe.`
 
-**Westwood** is a frontier town in the **Westwood Valley**, as part of the democracy of **Lightbear** it has a *Judge* who presides over the town. That is *Finnick Ascian*, appointed by the *Governor of Lightbear*. He is a fickle Judge, known for his love towards money and looking rich, like that of a great hero, despite being a documented coward. Though he is cowardly and terrible with a sword, his statecraft and trade organization is above average, and earned him the comfortable seat of *Judge*.
+**Westwood** is a frontier town in the **Westwood Valley**, as part of the democracy of **Lightbear** it has a *Judge* who presides over the town. That is *[[Finnick]] Ascian*, appointed by the *Governor of Lightbear*. He is a fickle Judge, known for his love towards money and looking rich, like that of a great hero, despite being a documented coward. Though he is cowardly and terrible with a sword, his statecraft and trade organization is above average, and earned him the comfortable seat of *Judge*.
 
 He can dispense punishment for lawbreakers and hire warriors to help with problems across the land, which he has been doing often as of late.
 
@@ -75,7 +75,7 @@ Here are some easy motivations that fit naturally into the story:
 I write campaigns as situations, not stories. You write the stories with your actions. Anything is possible, that is, if you are willing to roll for it.
 - Helping the priest who believes in you
 - Uncovering the truth behind the magic barrier
-- Defending Sovrentia from the Triumvirate Scales
+- Defending [[Sovrentia]] from the Triumvirate Scales
 
 Pick one, or invent your own! You could be from the Valley, or anywhere far away or nearby.
 

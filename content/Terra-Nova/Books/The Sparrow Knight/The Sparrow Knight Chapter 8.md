@@ -68,7 +68,7 @@ I can see the swamp from the road, it's still a ways off, but we should reach it
 
 He shakes his head no. "Priests, look at the colors. They're probably from the Paragon, New Estorias."
 
-The Paragon of Rebirth... I wave back, and make no moves towards my weapons. Priests of the Phoenix Emperor are harmless, their church sends them into Sovrentia hoping to get converts back to their lands. They preach the word of their leader and Emperor, Horus Hixs. They say he is a living God, a phoenix of divine flame given mortal form to rule and save the world... 
+The Paragon of Rebirth... I wave back, and make no moves towards my weapons. Priests of the Phoenix Emperor are harmless, their church sends them into [[Sovrentia]] hoping to get converts back to their lands. They preach the word of their leader and Emperor, Horus Hixs. They say he is a living God, a phoenix of divine flame given mortal form to rule and save the world... 
 
 As they approach, the one at the front stops, pulling back his hood and greeting us. He is a Tiefling, a child of the Abyss, with skin as red as blood, a pair of darker horns curling over his black hair. There is a strange orange diamond tattooed on his forehead, with faint lines that make some kind of geometric set of interlocked circles.
 
@@ -90,7 +90,7 @@ I shrug and shake his hand, "Not a mage Priest. Just lucky. Well met." I want to
 
 Lukas pops down from Coffee, shaking hands with a few of the priests. "We gladly accept information, forgive me Brother Urithus, I don't put much stock in prayers to your Emperor." From his saddlebags he pulls a piece of parchment, and draws a crude representation of the road south and east to the boarder of New Estorias. He then marks with Xs all the known monster activity areas, and bandit hideouts. He hands it to Urithus. "There you are, should help keep you monks safe on the road eh?"
 
-He nods and they each thank Lukas and myself. We accept and thank them in kind for the information the leader provides.  "If you are looking for work, coin, or renown, the town north has plenty of opportunity. There are many monsters in the swamp, but something large has come down from Tamora, and built a nest within the Drowning Dream. I don't know what, but there are groups assembling to hunt it. You may do well to join in."
+He nods and they each thank Lukas and myself. We accept and thank them in kind for the information the leader provides.  "If you are looking for work, coin, or renown, the town north has plenty of opportunity. There are many monsters in the swamp, but something large has come down from [[Tamora]], and built a nest within the Drowning Dream. I don't know what, but there are groups assembling to hunt it. You may do well to join in."
 
 Lukas and I both raise eyebrows at that. No doubt Lukas wants to test his new mettle, and I am intrigued about coin enough to sleep in real beds. As the hour grows late, the Priests ask another favor, camp together for the night, safety in numbers. We oblige, though we set our tents across the road from theirs, for some peace and distance.
 

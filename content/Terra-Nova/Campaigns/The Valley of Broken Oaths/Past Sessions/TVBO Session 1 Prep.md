@@ -44,8 +44,8 @@ TBD
 **Enemies**: 6x Kobold, 1x Ogre
 
 COMBAT DIALOGUE:
-- Ogre: "Grab em up! Aldros said grab all da 'orses!"
-- Kobold: "Grab horse! Grab! Aldros kill if no grab ponies grab grab!"
+- Ogre: "Grab em up! [[Aldros]] said grab all da 'orses!"
+- Kobold: "Grab horse! Grab! [[Aldros]] kill if no grab ponies grab grab!"
 
 ```statblock
 creature: Kobold
@@ -110,7 +110,7 @@ Statues of Auranthor are rare in these times, as most have been destoryed by tim
 
 #### **TBD**
 
-`DM NOTE: The party is met by one of Judge Finnick's Knights. The Knight, Abraham, stops the party saying the Judge has been made aware of the situation, and is willing to give special to the favor to the party in exchange for bringing the horses directly to him instead of back to the farmer.`
+DM NOTE: The party is met by one of Judge Finnick's Knights. The Knight, [[Abraham]], stops the party saying the Judge has been made aware of the situation, and is willing to give special to the favor to the party in exchange for bringing the horses directly to him instead of back to the farmer.
 
 *Set the Scene*: As you follow the tracks ahead, you see a figure seated upon a large boulder beside a small creek. The water babbles quietly as he sits, his head perking up at your approach, he waves in a friendly manner. The tracks continue past him towards some hills.
 
@@ -158,7 +158,7 @@ Troll HP: (8 boxes)
 
 #### **Return the Horses**
 
-`DM NOTE: The party returns the horses to the farmer, brings them to Judge Finnick, or perhaps keeps them for themselves? Upon doing so they discover that ponies were taken too, and one of the villagers saw Kobolds riding them deeper into the valley this morning.`
+`DM NOTE: The party returns the horses to the farmer, brings them to Judge [[Finnick]], or perhaps keeps them for themselves? Upon doing so they discover that ponies were taken too, and one of the villagers saw Kobolds riding them deeper into the valley this morning.`
 
 *Set the Scene*: TBD
 

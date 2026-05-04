@@ -1,9 +1,9 @@
 characters:
 - Ivys Arthur (Young, 18): [[ivys.png]]
-- Egreth (Early Purple Wizard): [[egreth (1).png]]
+- Egreth (Early [[Zveksa|Purple Wizard]]): [[egreth (1).png]]
 - Alabaster Ironhawk (Young Adult): [[knight 2.png]]
 
-We find ourselves on the deck of the Violet Pirate, Egreth's personal ship, manned by the loyal men of the Winterlands that have long allied with their guardian, the Purple Wizard. 
+We find ourselves on the deck of the Violet Pirate, Egreth's personal ship, manned by the loyal men of the Winterlands that have long allied with their guardian, the [[Zveksa|Purple Wizard]]. 
 We see Ivys, a young man on his first mission, awkwardly adjusting his slightly oversized purple robes. Beside him is Egreth, in her iconic purple garb and purple lipstick, standing at the prow of the ship surveying the horizon.
 You are headed to the Jawripper Chain, a series of small islands off the west coast of Estor, south of the purple tower and near the south end of the Caspian Bay. Known for its underwater geysers that produce boiling water at the bottom of the ocean, and warm waters around the island. Apparently a portal has opened, and some creatures have made an incursion into the material plane.
 As you stare across the water Egreth, the islands come into view, a tall jagged stone coasted, crude land structures, you turn to your distracted new apprentice and tell him the good news, you've found good water and reached the islands sooner than expected.

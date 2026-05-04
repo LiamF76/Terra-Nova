@@ -1,7 +1,7 @@
 
 ## General Overview
 
-The town of Westwood is set in a valley in the North of the Nation of Sovrentia. This valley is set along the boarder between Sovrentia and the Triumvirate Scales, a nation ruled by a trio of Dragons. Their people are dangerous and violent. They happily attack and destroy anywhere they wish.
+The town of Westwood is set in a valley in the North of the Nation of [[Sovrentia]]. This valley is set along the boarder between [[Sovrentia]] and the Triumvirate Scales, a nation ruled by a trio of Dragons. Their people are dangerous and violent. They happily attack and destroy anywhere they wish.
 
 A powerful holy artifact blessed by the legendary Emperor Auranthor has protected the valley from the Dragon Monarchs for many years, but it is stolen. The party is sent to retrieve it.
 
@@ -15,11 +15,11 @@ The artifact was stolen by the Cursed Paladin TBD NAME. The protection of the ar
 ## BBEG
 
 Who is our BBEG?
-Aldros Wyrm-Chosen.
+[[Aldros]] Wyrm-Chosen.
 
-Named by his mother after the God of Penance, she offered Aldros as an apology to her Dragon overlord in the Triumvirate Scales. As a priestess of the Dragon Rulers, she failed to glorify them properly in a sermon, and apologized by binding Aldros to their power. 
+Named by his mother after the God of Penance, she offered [[Aldros]] as an apology to her Dragon overlord in the Triumvirate Scales. As a priestess of the Dragon Rulers, she failed to glorify them properly in a sermon, and apologized by binding [[Aldros]] to their power. 
 
-Now Aldros is infected with the greed and horde mindset of a dragon. He posses draconic powers, and uses them to fight for his overlords. He is not permanently bound to their will, but does possess a deep greed. He holds a deep hatred for the God of Punishment, though some twisted internal logic he believes Aldred is responsible for his fate due to being his namesake.
+Now [[Aldros]] is infected with the greed and horde mindset of a dragon. He posses draconic powers, and uses them to fight for his overlords. He is not permanently bound to their will, but does possess a deep greed. He holds a deep hatred for the God of Punishment, though some twisted internal logic he believes Aldred is responsible for his fate due to being his namesake.
 
 
 ---
@@ -28,7 +28,7 @@ Now Aldros is infected with the greed and horde mindset of a dragon. He posses d
 
 The artifact that protects Westwood and the Valley is holy. It was once the Blade of an Honored Knight, who failed to protect the valley from monsters. In penance he sacrificed his soul in exchange for a promise from Aldred that his blade would protect the valley of Westwood from then on.
 
-Aldros steals it because he hates Aldred, and wants to corrupt the blade and break its protection to bring glory to the Dragons.
+[[Aldros]] steals it because he hates Aldred, and wants to corrupt the blade and break its protection to bring glory to the Dragons.
 
 
 ---
@@ -39,7 +39,7 @@ The party arrives in Westwood and the valley. There has been an influx of monste
 
 Once they discover the artifact that protects the Valley is missing, they need to figure out what to do.
 
-Aldros and the Artifact are stuck in the Valley. The party travels through the land to find him and the blade, before its enchantment is destroyed and the Valley becomes vulnerable to attack.
+[[Aldros]] and the Artifact are stuck in the Valley. The party travels through the land to find him and the blade, before its enchantment is destroyed and the Valley becomes vulnerable to attack.
 
 ### Don't prep campaigns, prep situations.
 
@@ -59,7 +59,7 @@ Aldros and the Artifact are stuck in the Valley. The party travels through the l
 
 ### Bosses / Acts
 
-- Act 1: Aldros and the stolen artifact
+- Act 1: [[Aldros]] and the stolen artifact
 	- Session 1, start in town, horses and troll quest
 	- Session 2, attend the festival, meet spirits and townsfolk, another monster attack, get asked to check on the artifact
 	- Session 3, travel to the site of the artifact's rest, lots of exploration encounters, reach the site of a triumvirate scales battlefield, find the artifact missing and a boss monster awaiting them
@@ -73,7 +73,7 @@ Aldros and the Artifact are stuck in the Valley. The party travels through the l
 
 ## Dungeon Ideas
 
-- Path Dungeon: Dungeon set in some area they have to pass through to reach Aldros
+- Path Dungeon: Dungeon set in some area they have to pass through to reach [[Aldros]]
 - 
 
 
@@ -94,15 +94,15 @@ Ambushes, the best action films start with a fight.
 - Party goes to the village gets ambushed, as many monsters as attack the town mean something is VERY wrong with the artifact that is supposed to protect the valley
 - Festival session, engage with players in town, heavy RP and exploration, they are summoned by the Judge to take up a quest, investigate why the artifact is not working, and fix it.
 ##### POINT CRAWL PART 1:
-- Launch [[TVBO Pointcrawl Map]]. The party is in Westwood Village, and needs to reach [[The Spire of Virtue]], where the artifact rests. Judge Finnick will inform them that monsters have control of the forest, and the mines are long abandoned. They will have to pick a path to travel through.
+- Launch [[TVBO Pointcrawl Map]]. The party is in Westwood Village, and needs to reach [[The Spire of Virtue]], where the artifact rests. Judge [[Finnick]] will inform them that monsters have control of the forest, and the mines are long abandoned. They will have to pick a path to travel through.
 	- **Dungeon: The Mines.** 
 		- *Dagnitt's Mine*: Ancient Dwarven gold mine, infested with monsters, dangerous dungeon. Those proficient in history will know it was abandoned after miners turned up dead repeatedly. It is infested with Kobolds and a young dragon child of [[Vesponous]]. 
 	- **Enemy Territory: The Forest.** 
 		- *The Westwoods*: Stealth and survival checks to sneak through enemy territory undetected. Failure will result in a DEADLY wave combat. Anyone proficient in survival will know that there are lots of monsters int he forest, and alerting one will alert others. The woods are controlled by a Goblin king and his tribe
 ##### POINT CRAWL PART 2:
-- After learning the artifact is missing and seeing an army the party can either chase after Aldros and his cult who have the artifact, or could go warn the town about the impending invasion. The only way back to town is the forest, as the mines collapse behind the party.
+- After learning the artifact is missing and seeing an army the party can either chase after [[Aldros]] and his cult who have the artifact, or could go warn the town about the impending invasion. The only way back to town is the forest, as the mines collapse behind the party.
 	- **Dungeon: The Forgotten Road.**
-		- *The Dragon's Pass*: Follow Aldros through the secret mountain pass
+		- *The Dragon's Pass*: Follow [[Aldros]] through the secret mountain pass
 	- **Enemy Territory: The Forest.**
 		- *The Westwoods*: Stealth and survival checks to sneak through enemy territory undetected. Failure will result in a DEADLY wave combat. Anyone proficient in survival will know that there are lots of monsters int he forest, and alerting one will alert others. The woods are controlled by a Goblin king and his tribe
 

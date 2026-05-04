@@ -25,7 +25,7 @@ Traxgate is known for its ancient protector, the spirit of a Silver Dragon, who 
 - ##### The Sword District:
 	- **The Covenant Hall**: The palace in the center of the city, where the Grand General guides the council of leaders. The walls are adorned with nameless blades, pieces of armor, and depictions of battle. This hall is dedicated to the thousands of warriors that have lived and died in the way of Traxgate.
 	- **The House of Duty** and **The Forgotten Armory**: 
-	- **Faceripper Manor**: Owned by Brother Tarot, and currently overrun with undead due to the feud between Tarot and Gravebinder. They invaded to steal something Tarot has been hiding, but apparently have not been able to find it over the last weeks. The army refuses to help Tarot, and he won't risk his soldier's lives over his own conflict.
+	- **Faceripper Manor**: Owned by Brother Tarot, and currently overrun with undead due to the feud between Tarot and [[Gravebinder]]. They invaded to steal something Tarot has been hiding, but apparently have not been able to find it over the last weeks. The army refuses to help Tarot, and he won't risk his soldier's lives over his own conflict.
 	- **The Crucible**: Legendary fighting arena in Traxgate. People enter as punishments for crimes, seeking glory, or as a away to train. [[Hannibal]] attends the premier match every evening after dinner.
  - ##### The Undercity:
 	 - **The Dancing Devil**: An Abyssal nightclub in the undercity, popular hub for creatives and drug addicts. Frequented by Hannibal's lieutenant 

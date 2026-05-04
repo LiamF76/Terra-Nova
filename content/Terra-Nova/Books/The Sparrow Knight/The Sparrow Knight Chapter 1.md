@@ -28,9 +28,9 @@ As we walk onwards I take a deep breath, enjoying the smell once again. It's imp
 
 Lucky I am still wearing my gloves, because the little flower has thorns. It's beautiful, a stunning shade of blue, fully bloomed despite the long autumn we are having. I pause, losing track of the caravan for a moment as I take in the flower, before I regain myself and jog back up to its side.
 
-"You took off your helmet, sword, and shield. Tell me, does our contract state you are paid to guard my caravan from monsters and bandits, or that you are to frolic and pick daises while I carry you across Sovrentia?"
+"You took off your helmet, sword, and shield. Tell me, does our contract state you are paid to guard my caravan from monsters and bandits, or that you are to frolic and pick daises while I carry you across [[Sovrentia]]?"
 
-I scoff, holding the flower up to Alcor so he too can enjoy it. "This is a Sovereign Rose! They only grow here in Sovrentia, and they're rare as anything. It's like finding a diamond hidden under your floorboards."
+I scoff, holding the flower up to Alcor so he too can enjoy it. "This is a Sovereign Rose! They only grow here in [[Sovrentia]], and they're rare as anything. It's like finding a diamond hidden under your floorboards."
 
 Alcor holds the flower, smelling it, eyeing it like he was inspecting an actual gemstone for sale, "I'd rather have the floor diamond." He jests as he gently hands the rose back to me.
 

@@ -80,10 +80,10 @@ Unsorted:
 
 ---
 
-## Traxgate to Gravebinder
+## Traxgate to [[Gravebinder]]
 
 TBD
-- Breach the Warforged blacksmith who makes a shield for Emrys is leading a caravan to the Freehold, and wants to hire the party on as guards for at least part of the way. (same path as they would take to Gravebinder)
+- Breach the Warforged blacksmith who makes a shield for Emrys is leading a caravan to the Freehold, and wants to hire the party on as guards for at least part of the way. (same path as they would take to [[Gravebinder]])
 - Ivys is trying to read at night on the road but winds keep putting his candles out and Sozin won't sit still. A piercing ray of yellow moonlight shines down exactly where he needs it, if he investigates its coming from Nysria the Veiled One, the Fey magic moon.
 - Hear huge wingbeats and feel powerful wind, see a huge demon flying through the sky and attack a gold dragon. Watching the battle from miles away, gold dragon gets killed and the demon absorbs something from it.
 - Vulture Griffons, abyssal creatures, highly invasive, feed off corpses and undead. Scar is causing ecological havoc and nightmares for the area.
@@ -112,7 +112,7 @@ Unsorted:
 
 ---
 
-## Post Gravebinder to Arkenstone/Abyss
+## Post [[Gravebinder]] to Arkenstone/Abyss
 
 TBD
 

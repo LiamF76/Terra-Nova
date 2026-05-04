@@ -35,7 +35,7 @@ kanban-plugin: board
 - [ ] [[Zveksa]]
 	- Ethical Lich
 	- Lives in the purple tower
-	- After Egreth, Purple Wizard nearly 400 years
+	- After Egreth, [[Zveksa|Purple Wizard]] nearly 400 years
 - [ ] [[Bark]]
 	- Spirit of the Valley
 	- Herald of the Wood

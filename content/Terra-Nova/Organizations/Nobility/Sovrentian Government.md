@@ -9,21 +9,21 @@ This is a breakdown of the full Sovrentian Government, organized by Province/par
 # Parliament & Sovereign
 
 - ##### Sovereign:
-	- Nuri of Crest, Sovereigness of Sovrentia
+	- Nuri of Crest, Sovereigness of [[Sovrentia]]
 - ##### Parliament: 
-	- Rakesh of Ark
+	- [[Rakesh]] of Ark
 	- Gawen of Crest
 	- Ryfon of Jasage
 	- Kensa of Kheagon
-	- Zaltana of Lightbear
+	- [[Zaltana]] of Lightbear
 
 ---
 
 # Provinces
  
 #### Ark
-- **Ark Magus of Tamora**: [[Astarielle]]
-	- *First Drawn of Tamora*: [[Makhel]]
+- **Ark Magus of [[Tamora]]**: [[Astarielle]]
+	- *First Drawn of [[Tamora]]*: [[Makhel]]
 	- 
 
 TBD
@@ -40,11 +40,11 @@ TBD
 ---
 
 #### Goldridge
-- **Grand Sun Hierophant**: Rakesh Solivath
+- **Grand Sun Hierophant**: [[Rakesh]] Solivath
 	- *Dawnkeeper, First Blade of the Hierophant*: 
 	- Dusk
 
-Goldridge is the capital province of Sovrentia. It's government is a Theocracy, where the leader is chosen by the current Champion of Illuman. The Grand Sun Hierophant is considered to have divine authority granted by Illuman, and is an anointed prophet who both governs Goldridge and the Rising Sun Church.
+Goldridge is the capital province of [[Sovrentia]]. It's government is a Theocracy, where the leader is chosen by the current Champion of Illuman. The Grand Sun Hierophant is considered to have divine authority granted by Illuman, and is an anointed prophet who both governs Goldridge and the Rising Sun Church.
 
 ---
 

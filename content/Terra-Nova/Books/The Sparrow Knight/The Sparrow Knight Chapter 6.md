@@ -98,9 +98,9 @@ Lukas shrugs, "Never liked cranes much. Sparrows been my bird of choice since I 
 
 I hold up my stone and silvered hand, fiddling with my quite magical ring. I try to hide a smile, but the smirk sneaks out of the corner of my mouth. "That was interesting hm? More than interesting, that was exciting. I was wary of saying the word on the ring, but I'd known it for weeks." I tap the ring lightly, thinking how thankful I was for the help. "I figure if I say it again the horse will show up. I think that's the magic of the ring, speak the word, summon a horse."
 
-"You should take it to Tamora, the Lady Spacetime lives in that magic castle, they could tell you more about it, perhaps learn where it came from." Lukas says as he uses his knife to carve a small hole through the top of his new talisman.
+"You should take it to [[Tamora]], the Lady Spacetime lives in that magic castle, they could tell you more about it, perhaps learn where it came from." Lukas says as he uses his knife to carve a small hole through the top of his new talisman.
 
-"I'm not going to Tamora, the whole province of Ark is cursed, only madmen, pilgrims, and adventurers on suicide missions go there." I pick up a stone and start running it along my palm, its a weird vibration through my rock skin, but it's nice.
+"I'm not going to [[Tamora]], the whole province of Ark is cursed, only madmen, pilgrims, and adventurers on suicide missions go there." I pick up a stone and start running it along my palm, its a weird vibration through my rock skin, but it's nice.
 
 "You're taking me to the Triumvirate Scales, and you're worried about a civilized province being cursed?" Petlia chuckles at the absurdity of my comment.
 
@@ -120,7 +120,7 @@ I tuck my new protection rune into my shirt. "Let's hope it works then." I hold 
 
 He laughs again, a deep laugh from the stomach, "Like dwarves knew anything about men's souls. And what about your silver soul then?"
 
-"Silver was loyalty. But not good loyalty, not being sworn to a cause or people, being sworn ton something like a concept, an oath, and men destined to die for that loyalty." At Petlia's mention, the silver reminds me of many in history that are not remembered as heroes, like the Uncrowned rebel who fought a tyrant King that killed his heirs and feasted on corpses. Now the Uncrowned King is dead, his line was ended, and the Tyrant's descendants still rule. Not even far, they found their way to Sovrentia, ruling the Crest province, and one of them is the Sovereigness of the whole nation.
+"Silver was loyalty. But not good loyalty, not being sworn to a cause or people, being sworn ton something like a concept, an oath, and men destined to die for that loyalty." At Petlia's mention, the silver reminds me of many in history that are not remembered as heroes, like the Uncrowned rebel who fought a tyrant King that killed his heirs and feasted on corpses. Now the Uncrowned King is dead, his line was ended, and the Tyrant's descendants still rule. Not even far, they found their way to [[Sovrentia]], ruling the Crest province, and one of them is the Sovereigness of the whole nation.
 
 Strange how wars go, the man who fought for the right cause was against all the world, and the people who saved the world fought for the tyrant. What kind of heroes would work with a King like that? Good ones I suppose, because they stopped Arkonil the Reckoner, the demon king of the Abyss. But can they truly be good if they helped a tyrant? They did stop the tyrant too, but in the process innocents died, and he was cruel...
 

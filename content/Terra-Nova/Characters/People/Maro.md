@@ -1,12 +1,14 @@
 ---
-publish: false
-title:
+publish: true
+title: Maro
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ![[Maor-1776524593929.webp|500x550]]
 
-Name: **Maro**, Aliases
+Name: **Maro**, The Sun Elf
 
 Voice: Voice Description
 - Example Dialogue

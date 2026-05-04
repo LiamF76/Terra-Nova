@@ -6,7 +6,9 @@ aliases:
 Brainstorm:
 - Session covers traveling from Westwood to the entrance of the Dwarves Mines
 - RP / Exploration encounters, no combats 
-- l
+- 
+
+---
 
 ## Room 1: Entrance Guardian
 

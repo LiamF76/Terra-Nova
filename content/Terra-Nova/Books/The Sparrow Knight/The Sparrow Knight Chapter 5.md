@@ -86,7 +86,7 @@ He wipes his eyes, "I know you are." A deep breath in, and the request follows. 
 
 I shake my head in disagreement. "You'll be happily surprised, when you make it to the forest yourself. Then you can tell me about every individual tree and no doubt all the wonderful legends and stories, how each leaf is a greater hero than anyone born today."
 
-He relents to my affection, allowing me to place an arm around him. "You don't even remember where the forest is. It's a long journey my boy, North through half of Sovrentia, into the Triumvirate Scales. You'll have a hell of a time getting through there... I wouldn't ask if I didn't have to... our afterlife, it's tied to the trees, you live forever within the roots and earth you are left upon. I want to see my family again, I don't want to be alone in some apple tree down here in the South."
+He relents to my affection, allowing me to place an arm around him. "You don't even remember where the forest is. It's a long journey my boy, North through half of [[Sovrentia]], into the Triumvirate Scales. You'll have a hell of a time getting through there... I wouldn't ask if I didn't have to... our afterlife, it's tied to the trees, you live forever within the roots and earth you are left upon. I want to see my family again, I don't want to be alone in some apple tree down here in the South."
 
 Souls living in trees forever, that's a strange belief. "What happens if someone cuts down your afterlife tree?"
 

@@ -7,6 +7,6 @@ Voice:
 Description: 
 
 Important Info: 
-- Wandering Warrior of Sovrentia
+- Wandering Warrior of [[Sovrentia]]
 - Descendant of Drew Ferran from Tales of Terra-Nova
 - 

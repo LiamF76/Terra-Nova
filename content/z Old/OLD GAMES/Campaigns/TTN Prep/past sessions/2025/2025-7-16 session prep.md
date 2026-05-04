@@ -59,7 +59,7 @@ The door to the Rusty Lantern creaks loudly as you push it open, letting in a gu
 The tavern is dim but cozy, lit by wagon-wheel chandeliers strung with fat, dripping candles. Their wax has pooled onto the wooden tables below, where tired farmers and fur-clad trappers huddle over mugs, their conversations low and tense.
 At the far corner, a cluster of townsfolk argue in heated whispers, their voices rising above the lute music drifting from a lone bard by the hearth.
 "It’s the ruined temple, I tell you. That’s where it started," hisses an older man, his knuckles white around his mug. And the Traxgate guards? Bah—they’ll sit on their hands till we’re all worm-food.
-A pair of city guards in tarnished armor sit at the bar, looking uncomfortable as they sip from chipped cups and try to ignore the glares sent their way. One of them mutters something under his breath about "Gravebinder’s hand" and spits on the floor.
+A pair of city guards in tarnished armor sit at the bar, looking uncomfortable as they sip from chipped cups and try to ignore the glares sent their way. One of them mutters something under his breath about "[[Gravebinder]]’s hand" and spits on the floor.
 Behind the bar, a stocky man with a greying beard and a lantern tattooed on his forearm gives you a wary once-over. He wipes his hands on a rag and leans forward.
 "You look like folk who can handle trouble. If you’re staying, take a seat and keep your ears open. This lot’s ready to boil over."
 
@@ -74,7 +74,7 @@ They do not answer, but they appear unfeeling towards her plight, content to sta
 
 **The Guards:** Traxian soldiers, not knights, and very happy to stay in town and not deal with the undead issue at the temple. They are holding fast to the fact that they do not act without orders.
 
-**Cerwan and the mob:** Cerwan is a young druid and was trained by Ryfon at the Oakenheart. She has stopped the undead from entering town, but a new undead mage has arrived, she believes it is Gravebinder, and she can't keep him at bay herself. Wants the adventurers help, in exchange she will give them information on the [[Wings of Pyrahn]] (Artifact of Illuman).
+**Cerwan and the mob:** Cerwan is a young druid and was trained by Ryfon at the Oakenheart. She has stopped the undead from entering town, but a new undead mage has arrived, she believes it is [[Gravebinder]], and she can't keep him at bay herself. Wants the adventurers help, in exchange she will give them information on the [[Wings of Pyrahn]] (Artifact of Illuman).
 
 ---
 
@@ -126,7 +126,7 @@ As you step into the courtyard, both figures turn to face you in perfect unison.
 
 *Well of Undeath.* First Lair Action, Death Knight summons a well of sickly black water, the water spills over the well and creates a pool of black oil. Difficult terrain radius 10ft, DC 20 CON save halves the damage, deals 3d6 necrotic damage to anyone who enters it or starts their turn there. The well can be destoryed: **50HP, 18 AC**.
 
-*Gravebinder's Breath.* Second Lair Action, Death Knight emits a long breath of necrotic green air, covering a 25ft wide square with gas, difficulty terrain, and low visibility. Can't see past the tiles immediately around you. DC 22 CON save halves the damage, 4d6 necrotic. Lasts until combat ends.
+*[[Gravebinder]]'s Breath.* Second Lair Action, Death Knight emits a long breath of necrotic green air, covering a 25ft wide square with gas, difficulty terrain, and low visibility. Can't see past the tiles immediately around you. DC 22 CON save halves the damage, 4d6 necrotic. Lasts until combat ends.
 
 As the last of the skeletons falls, a whisper escapes the mouth of the deathlock's corpse: "Well done... heroes... very interesting indeed... a special undeath you have found wizard... I will discover its secrets for myself soon... you are powerful indeed, you all will make good servants in death... hahaha..."
 
