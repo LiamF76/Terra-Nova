@@ -1,3 +1,10 @@
+---
+publish: false
+title:
+aliases:
+tags:
+  - Terra-Nova
+---
 
 Emrys Blacksun, Angel of the Willing Repentant, and Aldred Blacksun, God of Penance and Punishment, have lived in harmony for nearly 200 years since Emrys died, and was reborn as Aldred's Chief Angel.
 

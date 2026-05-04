@@ -4,6 +4,8 @@ title: Languages
 aliases:
   - Speech
   - Dialects
+tags:
+  - Terra-Nova
 ---
 
 This is a list of all languages in Terra-Nova. Listed are the languages and below them their dialects. Those who speak the same language can understand other dialects, similar to speaking English but one person speaking with a British dialect versus a southern American one.

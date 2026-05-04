@@ -6,6 +6,8 @@ aliases:
   - Species
   - Bloodlines
   - Ancestry
+tags:
+  - Terra-Nova
 ---
 
 This is a compiled list of all player available races in Terra-Nova. Please feel free to read up on them, and to make any suggestions on things that could be added or changes.

@@ -1,3 +1,10 @@
+---
+publish: false
+title: Story of Maple Celestia
+aliases:
+tags:
+  - Terra-Nova
+---
 
 During the last years of the Young Wolves adventures, Maple was reunited with her father Tyran Obliteras. After having trained with Melantha, she had become quite a capable warrior, and this continued with her father's training.
 

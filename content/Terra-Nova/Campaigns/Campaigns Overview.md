@@ -1,3 +1,10 @@
+---
+publish: false
+title:
+aliases:
+tags:
+  - Terra-Nova
+---
 
 This document outlines what the folder Campaigns contains. This folder is mainly for my own horrible memory and to keep myself organized. I intend to create a game of each length and play through them to test my skill, find what I enjoy most, and see what my players enjoy. See below for more info.
 

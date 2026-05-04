@@ -1,3 +1,10 @@
+---
+publish: true
+title: TFTN Chapter 1
+aliases:
+tags:
+  - Terra-Nova
+---
 
 ## Chapter 1: Ivory and Stone
 

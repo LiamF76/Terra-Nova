@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - Terra-Nova
 ---
 Brainstorm:
 - Session covers traveling from Westwood to the entrance of the Dwarves Mines

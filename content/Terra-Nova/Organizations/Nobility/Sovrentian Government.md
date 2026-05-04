@@ -2,6 +2,8 @@
 publish: true
 title: Sovrentian Government
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 This is a breakdown of the full Sovrentian Government, organized by Province/parliament members. Leaders of each province are also the leaders of the capital cities of that region. Notably, the Sovrentian Government does not grant a seat to the leader of the Ark province, as it is considered to be a failed / separate province due to its cursed nature. Laws are made by the Parliament, and enforced by the leaders of each Province separately. Judges are appointed by the Sovereign and capital province of Goldridge, these Judges travel through the provinces and make legal rulings, which are then enforced by the provincial leaders.

@@ -1,3 +1,10 @@
+---
+publish: true
+title: TFTN Chapter 3
+aliases:
+tags:
+  - Terra-Nova
+---
 
 "Some doors stay closed, not because they are locked, but because opening them unlocks something in you."
 

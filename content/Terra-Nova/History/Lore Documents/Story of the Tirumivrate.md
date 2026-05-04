@@ -2,6 +2,8 @@
 publish: false
 title: Story of the Triumvirate
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 Dragons are beings of power, born directly from the hands of the Elder Gods. All are the children of Daraan, and of his Prime Creation Fyrnanth. Fyrnanth the firstborn spawned all chromatic, metallic, and crystal dragons. Their nature is dominance, and a need to assert that power upon the world, a need so ancient it cannot be denied or squandered.

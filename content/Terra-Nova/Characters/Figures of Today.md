@@ -2,6 +2,8 @@
 publish: true
 title: Figures of Today
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ## Figures of Today

@@ -2,10 +2,12 @@
 publish: false
 title:
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 Audrey: [[Sobek]]
-Grey: [[Terra-Nova/Characters/People/Thalia|Thalia]]
+Grey: [[Thalia]]
 Hannah: [[Bindi]]
 Hunter: [[Jerran]]
 Dawson: 

@@ -1,3 +1,10 @@
+---
+publish: false
+title:
+aliases:
+tags:
+  - Terra-Nova
+---
 
 This is a list of things we can go over during session 0.
 

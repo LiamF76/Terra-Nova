@@ -2,6 +2,8 @@
 publish: true
 title: Sovrentia
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 Sovrentia was once known as The Freehold, form it stood as a bastion of justice and fairness in a time of strife. Now it attempts to uphold that spirit, despite many attempts from both within and without to change that. Sovrentia is a Republic, where the nation is divided into states which elect a Sovereign from the leaders of the nation. Each state has its own system of government, but all answer to the Sovereign.

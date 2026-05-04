@@ -1,7 +1,9 @@
 ---
 publish: false
-title: The Paragon
+title: The Dissonant Creations
 aliases:
+  - Primordials
+  - 
 tags:
   - Terra-Nova
 ---

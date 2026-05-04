@@ -4,24 +4,15 @@ kanban-plugin: board
 
 ---
 
-## History Videos
+## History and Lore
 
+- [x] [[The Night of Twisting Stars]]
+- [x] [[Fading Wonder]]
+- [ ] [[The Dissonant Creations]]
+- [ ] [[The Mantles]]
 - [ ] [[Story of the Tirumivrate]]
-	- history of the scales
-	- where did each dragon make their home
-	- [[Garthrax]] kids
-	- [[Vesponous]] spying
-	- [[Gravebinder]] knowledge seeking
-- [ ] [[Fading Wonder]]
-	- Narrated by [[Rakesh]] of the Rising Sun
-	- The scars and magic fading
-	- Where hope lies, power of divinity and a return to worship similar to the Aelarians
 - [ ] [[The Paragon]]
-	- Narrated by [[Finnick]], highly skeptical of the religion / net good, but clearly assesses the strength
-	- Talks about Horus Hixs and his holy empire
-	- comments on the constant diplomacy and military push for control of the Ark province
 - [ ] [[The Story of the Uncrowned and Realmcrest]]
-	- Ivar's story narrated by Marvos, Ferran descendant
 
 
 ## Triumvirate Scales
@@ -68,6 +59,7 @@ kanban-plugin: board
 	- War between New Estorias and [[Sovrentia]]
 - [ ] [[Gods of Terra-Nova]]
 	- Finish dividing Gods into pantheons
+- [ ] [[Primordials]]
 - [ ] Factions & Organizations
 	- players love joining things, list some major factions and groups
 - [ ] Races: [[Races of Terra-Nova]]
