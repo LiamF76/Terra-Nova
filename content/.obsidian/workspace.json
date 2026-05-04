@@ -47,17 +47,17 @@
             }
           },
           {
-            "id": "207485ace16b8b34",
+            "id": "57293c66995bf540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/History/Lore Documents/The Mantles.md",
+                "file": "Terra-Nova/Organizations/Divine Groups/Primordials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Mantles"
+              "title": "Primordials"
             }
           }
         ],
@@ -190,9 +190,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "207485ace16b8b34",
+  "active": "57293c66995bf540",
   "lastOpenFiles": [
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+    "Terra-Nova/History/Lore Documents/The Mantles.md",
     "Terra-Nova/History/Lore Documents/The Dissonant Creations.md",
     "Terra-Nova/Organizations/Extraplanar/The Disciples of Khal.md",
     "Vault To-Do.md",
@@ -217,7 +218,6 @@
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/The Valley of Broken Oaths Primer.md",
     "Terra-Nova/Campaigns/Play by Post/Rulers of the Maze/Iramo Maze TMP Map.md",
     "Terra-Nova/Campaigns/Play by Post/Rulers of the Maze/Rulers of the Maze Primer.md",
-    "Terra-Nova/Campaigns/Play by Post/Play by Post Brainstorm.md",
     "z Images/Rakesh-1777922218315.webp",
     "z Images/Fading Wonder-1777920885789.webp",
     "z Images/Fading Wonder-1777920806661.webp",

@@ -19,4 +19,4 @@ The Primordials of Terra-Nova are enigmatic, powerful, and ancient beings. Creat
 | Klaus       | Gifts      |
 | Gimira      | Dead Stars |
 | Herald      | Eclipse    |
-| Inten       | Mantles    |
+| Iridescen   | Mantles    |
