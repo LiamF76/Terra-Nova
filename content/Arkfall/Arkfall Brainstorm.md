@@ -26,6 +26,8 @@ All of these inspirations are important and have influenced my idea of the setti
 - pantheon: 
 	- Gods are hyper intelligent and power AIs, no gods in this setting
 - Space opera / epic sci-fi world, aliens and AIs, wild terraformed worlds
+- worlds of Arkfall
+	- mercury is a vast and wild desert, seeded with alien monsters, and venus is a garden world, now that humanity has fallen it is overrun, no longer a grove but a jungle untamed
 - empowered heroes and warriors based on guardians, but unique, where do they get power from?
 	- Vectors, people who can use the Quantum Lattice, also known as Thread-Touched (because of the threads in an AI, threads are given to those who control the quantum with the help of AI)
 - what time period is this, retake earth? warlords and desperate survival? battling aliens in space?
