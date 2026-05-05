@@ -32,6 +32,8 @@ All of these inspirations are important and have influenced my idea of the setti
 - Imagine a vast empire set up not on a planet but on a space station that is always moving, shifting, floating and travelling through the galaxy, Thousands and thousands of miles long, infinitely so. The goal being just to spread its tendrils. I think that might be cool. At some point it might be so powerful that it can pull smaller planets with it or ingrain it into its structure so it can travel with them or use them as fuel. I see this being a cool capital.
 - space station society
 	- silicon valley space station where they worship AI and use it for everything, they use processing power and quantum lattice like a morphine drip
+- dwarf planets coalition
+	- space dwarfs that life on dwarf planets, after terraforming the people got shorter progressively because they were mining in tight spaces. Bat-like adaptations, echolocation with deep humming and resonance can detect rare minerals / crystals
 - Alien species, who are they, what do they represent?
 	- Necromancy: 
 	- Military: The Legion
