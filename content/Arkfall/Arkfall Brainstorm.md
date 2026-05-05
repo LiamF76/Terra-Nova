@@ -27,5 +27,6 @@ All of these inspirations are important and have influenced my idea of the setti
 	- Gods are hyper intelligent and power AIs, no gods in this setting
 - Space opera / epic sci-fi world, aliens and AIs, wild terraformed worlds
 - empowered heroes and warriors based on guardians, but unique, where do they get power from?
-- what time period is this, retake earth? warlords and desperate survival? battling alines in space?
+	- Vectors, people who can use the Quantum Lattice, also known as Thread-Touched (because of the threads in an AI, threads are given to those who control the quantum with the help of AI)
+- what time period is this, retake earth? warlords and desperate survival? battling aliens in space?
 - 
