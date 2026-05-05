@@ -14,7 +14,6 @@ kanban-plugin: board
 - [ ] [[Story of the Tirumivrate]]
 - [ ] [[The Paragon]]
 - [ ] [[The Story of the Uncrowned and Realmcrest]]
-- [ ] Bad Guys Lore Rewrite
 
 
 ## Triumvirate Scales
