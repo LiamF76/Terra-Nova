@@ -8,11 +8,13 @@ kanban-plugin: board
 
 - [x] [[The Night of Twisting Stars]]
 - [x] [[Fading Wonder]]
+- [ ] [[The Khal Hierarchy]]
 - [ ] [[The Dissonant Creations]]
 - [ ] [[The Mantles]]
 - [ ] [[Story of the Tirumivrate]]
 - [ ] [[The Paragon]]
 - [ ] [[The Story of the Uncrowned and Realmcrest]]
+- [ ] Bad Guys Lore Rewrite
 
 
 ## Triumvirate Scales

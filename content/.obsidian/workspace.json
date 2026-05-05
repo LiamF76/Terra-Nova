@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,34 +17,26 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
           },
           {
-            "id": "03475607afc2bca8",
+            "id": "8b013ed8b1c68715",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Terra-Nova/Working Folder/WIP/Bad Guys Lore Rewrite.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Terra-Nova To-Do"
+              "icon": "lucide-file",
+              "title": "Bad Guys Lore Rewrite"
             }
           },
           {
-            "id": "637b0bae9aed34e5",
+            "id": "040c17c5ae03ffe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,9 +48,21 @@
               "icon": "lucide-file",
               "title": "The Mantles"
             }
+          },
+          {
+            "id": "56cdea3d09ea394c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Terra-Nova/Working Folder/WIP/The Khal Hierarchy.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "The Khal Hierarchy"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +201,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "637b0bae9aed34e5",
+  "active": "8b013ed8b1c68715",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
     "Terra-Nova/History/Lore Documents/The Mantles.md",
+    "Terra-Nova/Working Folder/WIP/Bad Guys Lore Rewrite.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+    "Terra-Nova/Working Folder/WIP/The Khal Hierarchy.md",
+    "Terra-Nova/Organizations/Extraplanar/The Disciples of Khal.md",
     "Dashboard.md",
     "conflict-files-obsidian-git.md",
     "z Images/The Night of Twisting Stars-1777920754725.webp",
@@ -230,8 +236,6 @@
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
     "Terra-Nova/Working Folder/Kanban Boards/Solo Projects.md",
-    "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Sovrentia/Sovrentia.md",
-    "Terra-Nova/Organizations/Nobility/Sovrentian Government.md",
     "z Images/Austin-1777846248601.webp",
     "Pentium Realm/Working Folder/Welcome to Pentium Realm v1.pdf",
     "Pentium Realm/Working Folder",
