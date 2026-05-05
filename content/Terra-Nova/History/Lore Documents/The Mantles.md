@@ -17,5 +17,5 @@ As Khal lay beneath all, and one with nothing, his most cherished son, Iridescen
 
 On stone tablets he carved the teachings of dark magic, the Irideon tablets. His verses and memories were made physical, and given form. His words were recorded, and alongside them he required armor, a cloak of concept and contract with his purpose.
 
-He called upon all his darkest teachings of Khal, and gave them form, cloaking himself in lies and hate and destruction. His cloak then was cut into 4 pieces, pieces created to distributer and cauterize his will and strength upon their wearers. These became the 4 mantles, the embodiments of the 4 pillars required to awaken destruction. Iridescen knew that when Weapon, Spell, Voice, and Book, united together, they could awaken Khal, ad bruin untold ruin, and restart creation.
+He called upon all his darkest teachings of Khal, and gave them form, cloaking himself in lies and hate and destruction. His cloak then was cut into 4 pieces, pieces created to distributer and cauterize his will and strength upon their wearers. These became the 4 mantles, the embodiments of the 4 pillars required to awaken destruction. Iridescen knew that when Weapon, Spell, Voice, and Book, united together, they could awaken Khal, bringing untold ruin, and restart creation.
 
