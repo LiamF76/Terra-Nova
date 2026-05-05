@@ -15,41 +15,17 @@ Arkfall is a homebrew setting I am worldbuilding, it may never become a tabletop
 
 All of these inspirations are important and have influenced my idea of the setting.
 
-Worlds of Arkfall:
-- Mercury
-- Venus
-- Earth
-	- Luna
-- Mars
-	- Phobos
-	- Deimos
-- Jupiter
-	- Io
-	- Europa
-	- Ganymede
-	- Callisto
-	- Amalthea
-	- Thebe
-	- Metis
-	- Adrastea
-- Saturn
-	- Titan
-	- Rhea
-	- Iapetus
-	- Dione
-	- Tethys
-	- Enceladus
-	- Mimas
-	- Hyperion
-- Uranus
-	- -Titania
-	- Oberon
-	- Umbriel
-	- Ariel
-	- Miranda
-- Neptune
-	- Triton
-	- Nereid
-	- Proteus
-	- Larissa
-	- Galatea
+**Arkfall Core Statement**: Arkfall is a galaxy built on solutions that worked too well, leaving humanity to live in the shadow of its own gods, and decide whether to inherit them or destroy them.
+
+### Ideas?
+
+- set in the far future at an undefined date, 
+	- current range: 5,000-20,000 years after the current day.
+- space magic somehow, technology, psionics, quantum
+	- Quantum Lattice, universal law manipulation, feels like magic, only specific individuals can do it. Can be granted by birth, by AIs, or by alien Gods
+- pantheon: 
+	- Gods are hyper intelligent and power AIs, no gods in this setting
+- Space opera / epic sci-fi world, aliens and AIs, wild terraformed worlds
+- empowered heroes and warriors based on guardians, but unique, where do they get power from?
+- what time period is this, retake earth? warlords and desperate survival? battling alines in space?
+- 
