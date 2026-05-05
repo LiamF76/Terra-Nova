@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [x] [[The Night of Twisting Stars]]
 - [x] [[Fading Wonder]]
-- [ ] [[The Khal Hierarchy]]
+- [x] [[The Khal Hierarchy]]
 - [ ] [[The Dissonant Creations]]
 - [ ] [[The Mantles]]
 - [ ] [[Story of the Tirumivrate]]
