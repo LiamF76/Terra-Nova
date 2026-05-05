@@ -9,7 +9,10 @@ tags:
 The alien races of Arkfall each embody a different pillar of evil.
 
 
-| Race       | Pillar |
-| ---------- | ------ |
-| Necromancy |        |
-|            |        |
+| Race       | Pillar     |
+| ---------- | ---------- |
+|            | Capitalism |
+|            | Time       |
+|            | Necromancy |
+| The Legion | Militarism |
+
