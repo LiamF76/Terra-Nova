@@ -22,22 +22,49 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+<<<<<<< HEAD
           }
         ]
+=======
+          },
+          {
+            "id": "8b013ed8b1c68715",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova To-Do"
+            }
+          }
+        ],
+        "currentTab": 1
+>>>>>>> origin/Main
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "40cd9bebaab35c97",
+    "id": "b7fd963d1fb72649",
     "type": "split",
     "children": [
       {
-        "id": "49a13abadf283971",
+        "id": "f67b9d3ed94c60db",
         "type": "tabs",
         "children": [
           {
-            "id": "e34a2393bb44142e",
+            "id": "a20b8c888495672e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +77,7 @@
             }
           },
           {
-            "id": "7b55cf23085505ad",
+            "id": "dbf3a6fd19f04ab1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,18 +97,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 272.0110321044922
   },
   "right": {
-    "id": "c25d59f363de0017",
+    "id": "edfa255f6987f8f9",
     "type": "split",
     "children": [
       {
-        "id": "05048378f5cdb68e",
+        "id": "9d2b1980da109ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "82e16e8204e136ee",
+            "id": "0d5e71c731e094b8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -96,51 +123,60 @@
             }
           },
           {
-            "id": "fd2368f395de2c2b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Terra-Nova To-Do"
-            }
-          },
-          {
-            "id": "61f1c54cff9f68f2",
+            "id": "73217a1df8b8d6fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terra-Nova To-Do"
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "1fb9bc83ab9ff58b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          },
+          {
+            "id": "69b9097c31aec81e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 251,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -149,56 +185,67 @@
       "homepage:Open homepage": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
+      "canvas:Create new canvas": false,
       "calendarium:Open Calendarium": false
     }
   },
+<<<<<<< HEAD
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Terra-Nova/History/Lore Documents/The Mantles.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
     "Terra-Nova/Organizations/Divine Groups/Primordials.md",
+=======
+  "active": "8b013ed8b1c68715",
+  "lastOpenFiles": [
+    "Terra-Nova/History/Lore Documents/The Mantles.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+>>>>>>> origin/Main
     "Terra-Nova/History/Lore Documents/The Dissonant Creations.md",
-    "Terra-Nova/Organizations/Extraplanar/The Disciples of Khal.md",
-    "Vault To-Do.md",
+    "Terra-Nova/History/Lore Documents/The Paragon.md",
+    "Terra-Nova/History/Lore Documents/Uncrowned and Realmcrest.md",
+    "Terra-Nova/Working Folder/WIP/The Khal Hierarchy.md",
     "Dashboard.md",
-    "Terra-Nova/Campaigns/Campaigns Overview.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Player Characters.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Sobek.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Lazlo.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Jerran.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Donna.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Bindi.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 2 Enemies.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 1 Prep.md",
-    "Terra-Nova/Characters/People/Thalia.md",
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 2.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 0 Prep.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/The Valley of Broken Oaths Primer.md",
-    "Terra-Nova/Campaigns/Play by Post/Rulers of the Maze/Iramo Maze TMP Map.md",
-    "z Images/Rakesh-1777922218315.webp",
-    "z Images/Fading Wonder-1777920885789.webp",
-    "z Images/Fading Wonder-1777920806661.webp",
+    "Terra-Nova/Working Folder/WIP/Bad Guys Lore Rewrite.md",
+    "Terra-Nova/Organizations/Divine Groups/The Dark Tribunal.md",
+    "Terra-Nova/Characters/Extraplanar/Gods/The Dark Tribunal/Ozymandias, The Scorpion King.md",
+    "Terra-Nova/Organizations/Extraplanar/The Disciples of Khal.md",
+    "conflict-files-obsidian-git.md",
     "z Images/The Night of Twisting Stars-1777920754725.webp",
     "z Images/The Night of Twisting Stars-1777920628224.webp",
     "z Images/The Night of Twisting Stars-1777916079434.webp",
-    "Terra-Nova/Creatures/Leaf Dragon",
-    "Terra-Nova/Creatures",
+    "z Images/Rakesh-1777922218315.webp",
+    "z Images/Fading Wonder-1777920885789.webp",
+    "z Images/Fading Wonder-1777920806661.webp",
+    "Terra-Nova/Organizations/Divine Groups/Primordials.md",
+    "Terra-Nova/History/Lore Documents/The Red King's Rise.md",
+    "Terra-Nova/History/Lore Documents/The Night of Twisting Stars.md",
+    "Terra-Nova/History/Lore Documents/The Blinding Light.md",
+    "Terra-Nova/History/Lore Documents/The Creation of Terra-Nova.md",
+    "Terra-Nova/History/Lore Documents/Son of the Storm Queen.md",
+    "Terra-Nova/History/Lore Documents/Story of the Tirumivrate.md",
+    "Terra-Nova/History/Lore Documents/Story of Maple Celestia.md",
+    "Terra-Nova/History/Lore Documents/Scales and Swords.md",
+    "Terra-Nova/History/Lore Documents/Fading Wonder.md",
+    "Terra-Nova/History/Lore Documents",
+    "Terra-Nova/History/History Docs/Story of the Tirumivrate.md",
+    "Terra-Nova/Characters/Character Backstories/Lanxaad Backstory.md",
+    "Templates/Encounter Templates/Exploration Encounter Template.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "z Images/Austin-1777846248601.webp",
-    "Terra-Nova/videos",
-    "Terra-Nova/dungeons",
-    "Terra-Nova/Working Folder/WIP",
-    "Terra-Nova/Working Folder/Solo Projects",
-    "Terra-Nova/Working Folder/Kanban Boards",
-    "Terra-Nova/Working Folder",
-    "Terra-Nova/Spells/winged barrage.jpg",
-    "Terra-Nova/Spells/voidBomb.jpg",
-    "Terra-Nova/Spells/void mass.jpg",
-    "Terra-Nova/Spells",
-    "Terra-Nova/SHOP & LOOT TABLES"
+    "Pentium Realm/Working Folder/Welcome to Pentium Realm v1.pdf",
+    "Pentium Realm/Working Folder",
+    "Pentium Realm/Characters",
+    "Pentium Realm",
+    "Terra-Nova",
+    "z Images/TVBO Session 2-1777676333654.webp",
+    "z Images/The Sparrow Knight Chapter 6-1776952980941.webp",
+    "z Images/The Sparrow Knight Chapter 6-1776952973868.webp",
+    "Terra-Nova/Books/The Reckoner's Rise/Old TRR Chapters/Rovan & Arkonil Chapters",
+    "Terra-Nova/Books/The Reckoner's Rise/Old TRR Chapters/Book 1",
+    "Terra-Nova/Books/The Reckoner's Rise/Old TRR Chapters",
+    "Terra-Nova/Books/Fics/Tales from Terra-Nova",
+    "Organizations/Nobility/Untitled.canvas",
+    "Geography/Planes/The Material Plane/Untitled.canvas"
   ]
 }

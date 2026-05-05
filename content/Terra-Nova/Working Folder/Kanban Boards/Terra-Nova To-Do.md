@@ -12,7 +12,7 @@ kanban-plugin: board
 - [ ] [[The Mantles]]
 - [ ] [[Story of the Tirumivrate]]
 - [ ] [[The Paragon]]
-- [ ] [[The Story of the Uncrowned and Realmcrest]]
+- [ ] [[Uncrowned and Realmcrest]]
 
 
 ## Triumvirate Scales
@@ -78,7 +78,11 @@ kanban-plugin: board
 - [ ] [[Languages]]
 
 
+***
 
+## Archive
+
+- [x] [[The Khal Hierarchy]]
 
 %% kanban:settings
 ```
