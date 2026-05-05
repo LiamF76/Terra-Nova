@@ -8,12 +8,11 @@ kanban-plugin: board
 
 - [x] [[The Night of Twisting Stars]]
 - [x] [[Fading Wonder]]
-- [x] [[The Khal Hierarchy]]
 - [ ] [[The Dissonant Creations]]
 - [ ] [[The Mantles]]
 - [ ] [[Story of the Tirumivrate]]
 - [ ] [[The Paragon]]
-- [ ] [[The Story of the Uncrowned and Realmcrest]]
+- [ ] [[Uncrowned and Realmcrest]]
 
 
 ## Triumvirate Scales
@@ -79,7 +78,11 @@ kanban-plugin: board
 - [ ] [[Languages]]
 
 
+***
 
+## Archive
+
+- [x] [[The Khal Hierarchy]]
 
 %% kanban:settings
 ```
