@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Arkfall/Untitled.md",
+      "filepath": "Dashboard.md",
+      "timestamp": 1778017993031
+    },
+    {
+      "filepath": "Arkfall/Vectors.md",
       "timestamp": 1778017326607
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "Arkfall/Cosmology.md",
       "timestamp": 1778016985898
-    },
-    {
-      "filepath": "Dashboard.md",
-      "timestamp": 1778015469302
     }
   ],
   "bookmarkedFileStore": [],
