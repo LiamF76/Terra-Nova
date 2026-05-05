@@ -30,6 +30,8 @@ All of these inspirations are important and have influenced my idea of the setti
 	- Vectors, people who can use the Quantum Lattice, also known as Thread-Touched (because of the threads in an AI, threads are given to those who control the quantum with the help of AI)
 - what time period is this, retake earth? warlords and desperate survival? battling aliens in space?
 - Imagine a vast empire set up not on a planet but on a space station that is always moving, shifting, floating and travelling through the galaxy, Thousands and thousands of miles long, infinitely so. The goal being just to spread its tendrils. I think that might be cool. At some point it might be so powerful that it can pull smaller planets with it or ingrain it into its structure so it can travel with them or use them as fuel. I see this being a cool capital.
+- space station society
+	- silicon valley space station where they worship AI and use it for everything, they use processing power and quantum lattice like a morphine drip
 - Alien species, who are they, what do they represent?
 	- Necromancy: 
 	- Military: The Legion
