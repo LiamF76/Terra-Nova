@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Arkfall Brainstorm"
             }
+          },
+          {
+            "id": "4ca69ab9160d77ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arkfall/Aliens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aliens"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,11 +181,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "85e99eb5f0ca04b1",
+  "active": "4ca69ab9160d77ff",
   "lastOpenFiles": [
-    "Dashboard.md",
-    "Arkfall/Vectors.md",
     "Arkfall/Arkfall Brainstorm.md",
+    "Dashboard.md",
+    "Arkfall/Aliens.md",
+    "Arkfall/Vectors.md",
     "Arkfall/AI.md",
     "Arkfall/Cosmology.md",
     "Arkfall",
@@ -195,7 +210,6 @@
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Lazlo.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Jerran.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Donna.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Bindi.md",
     "z Images/Rakesh-1777922218315.webp",
     "z Images/Fading Wonder-1777920885789.webp",
     "z Images/Fading Wonder-1777920806661.webp",
