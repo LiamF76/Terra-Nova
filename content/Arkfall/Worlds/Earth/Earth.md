@@ -13,7 +13,7 @@ tags:
 - Siberia: Brutalist winter techno-scape. Ships that mine alien artifacts in orbit, massive interplanetary artillery controlled by AI
 - 
 
-# Planet: Name
+# Planet: Earth
 ### Nicknames: Terra, Mother Earth, Homeworld
 
 ## Overview
