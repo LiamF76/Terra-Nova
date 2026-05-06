@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "e01d997927fe42c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arkfall/Worldbuilding Workshop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Worldbuilding Workshop"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,18 +167,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e01d997927fe42c3",
   "lastOpenFiles": [
     "Arkfall/Aliens.md",
-    "Arkfall/Cosmology.md",
+    "Arkfall/Worldbuilding Workshop.md",
     "Arkfall/Arkfall Brainstorm.md",
     "Dashboard.md",
+    "Arkfall/Worlds/Cosmology.md",
+    "Arkfall/Worlds/Earth.md",
+    "conflict-files-obsidian-git.md",
+    "Arkfall/Worlds",
+    "Arkfall/The Golden Age.md",
+    "Arkfall/The Disaster.md",
+    "Arkfall/Arkfall Timeline.md",
+    "Arkfall/Cosmology.md",
     "Arkfall/Vectors.md",
     "Arkfall/AI.md",
     "Arkfall",
     "Terra-Nova/History/Lore Documents/The Mantles.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
-    "conflict-files-obsidian-git.md",
     "Terra-Nova/Working Folder/WIP/The Khal Hierarchy.md",
     "Terra-Nova/History/Lore Documents/Uncrowned and Realmcrest.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Malos.md",
@@ -175,12 +197,6 @@
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Player Characters.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Sobek.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Lazlo.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Jerran.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Donna.md",
     "z Images/Rakesh-1777922218315.webp",
     "z Images/Fading Wonder-1777920885789.webp",
     "z Images/Fading Wonder-1777920806661.webp",
@@ -198,7 +214,6 @@
     "Terra-Nova/Working Folder",
     "Terra-Nova/Spells/winged barrage.jpg",
     "Terra-Nova/Spells/voidBomb.jpg",
-    "Terra-Nova/Spells/void mass.jpg",
-    "Terra-Nova/Spells"
+    "Terra-Nova/Spells/void mass.jpg"
   ]
 }
