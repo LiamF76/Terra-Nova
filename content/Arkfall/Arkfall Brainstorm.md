@@ -39,4 +39,5 @@ All of these inspirations are important and have influenced my idea of the setti
 	- space dwarfs that life on dwarf planets, after terraforming the people got shorter progressively because they were mining in tight spaces. Bat-like adaptations, echolocation with deep humming and resonance can detect rare minerals / crystals
 - Alien species, who are they, what do they represent?
 	- [[Aliens]]
-- 
+- collapse / apocalypse
+	- The Disaster
