@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "85e99eb5f0ca04b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arkfall/Cosmology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cosmology"
-            }
-          },
-          {
-            "id": "4ca69ab9160d77ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arkfall/Aliens.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aliens"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,11 +152,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4ca69ab9160d77ff",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Arkfall/Aliens.md",
     "Arkfall/Cosmology.md",
     "Arkfall/Arkfall Brainstorm.md",
-    "Arkfall/Aliens.md",
     "Dashboard.md",
     "Arkfall/Vectors.md",
     "Arkfall/AI.md",
