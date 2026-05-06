@@ -2,6 +2,9 @@
 publish: false
 title: Earth
 aliases:
+  - Terra
+  - Mother Earth
+  - Homeworld
 tags:
   - Arkfall
 ---
@@ -11,7 +14,7 @@ tags:
 - 
 
 # Planet: Name
-### Nicknames: 
+### Nicknames: Terra, Mother Earth, Homeworld
 
 ## Overview
 
@@ -40,7 +43,9 @@ tags:
 ## Control & Society
 
 - Dominant power (empire, faction, AI, independent survivors)
-	- 
+	- The Compact: 
+	- The Terminal: 
+	- The Warlords: multiple warlord's have taken hold of ancient human castles and fortresses as warlords, petty kingdoms centered around defensible positions.
 - How authority is enforced or maintained
 	- 
 - Civilian population status (thriving, oppressed, scattered, extinct)
@@ -78,9 +83,9 @@ tags:
 
 ## Notable Locations
 
-- **Location Name** 
-	-  short description
-- **Location Name** 
-	-  short description
-- **Location Name** 
-	-  short description
+- New Mumbai
+	-  Largest city, controlled by a council of Vectors known as The Compact. Considered Humanity's bastion
+- Omsk
+	-  Most advanced city, brutalist Siberian settlement, has the only remaining cruiser ship, ruled by an AI called The Terminal.
+- Location Name
+	-  

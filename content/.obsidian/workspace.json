@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arkfall/Worlds/Earth.md",
+                "file": "Arkfall/Worlds/Earth/Earth.md",
                 "mode": "source",
                 "source": false
               },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arkfall/Worlds/Earth.md",
+                "file": "Arkfall/Worlds/Earth/Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,10 +167,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e01d997927fe42c3",
+  "active": "e34a2393bb44142e",
   "lastOpenFiles": [
+    "Arkfall/Groups",
+    "Arkfall/Worlds/Cosmology.md",
+    "Arkfall/Worlds/Earth/Earth.md",
+    "Arkfall/Worlds/Earth",
     "Templates/Planet Template.md",
-    "Arkfall/Worlds/Earth.md",
     "Dashboard.md",
     "Arkfall/AI.md",
     "Arkfall/Arkfall Brainstorm.md",
@@ -180,7 +183,6 @@
     "Arkfall/The Golden Age.md",
     "Arkfall/Vectors.md",
     "Arkfall/Worldbuilding Workshop.md",
-    "Arkfall/Worlds/Cosmology.md",
     "conflict-files-obsidian-git.md",
     "Arkfall/Worlds",
     "Arkfall/Cosmology.md",
@@ -196,7 +198,6 @@
     "Vault To-Do.md",
     "Terra-Nova/Campaigns/Campaigns Overview.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
     "z Images/Rakesh-1777922218315.webp",
     "z Images/Fading Wonder-1777920885789.webp",
     "z Images/Fading Wonder-1777920806661.webp",
@@ -211,7 +212,6 @@
     "Terra-Nova/Working Folder/WIP",
     "Terra-Nova/Working Folder/Solo Projects",
     "Terra-Nova/Working Folder/Kanban Boards",
-    "Terra-Nova/Working Folder",
     "Terra-Nova/Spells/winged barrage.jpg",
     "Terra-Nova/Spells/voidBomb.jpg",
     "Terra-Nova/Spells/void mass.jpg"

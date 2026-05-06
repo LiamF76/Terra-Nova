@@ -72,9 +72,9 @@ tags:
 
 ## Notable Locations
 
-- **Location Name** 
+- Location Name
 	-  short description
-- **Location Name** 
+- Location Name
 	-  short description
-- **Location Name** 
+- Location Name
 	-  short description
