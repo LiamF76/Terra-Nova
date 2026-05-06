@@ -27,7 +27,7 @@ Here are some helpful links to get you started.
 ## Geography
 > [!info] [[World Map]]
 
-> [!info] [[Cosmology]]
+> [!info] [[Terra-Nova/Geography/Space/Cosmology]]
 
 ## Factions & Organizations
 > [!info] Factions
