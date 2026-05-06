@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,14 +181,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "85e99eb5f0ca04b1",
+  "active": "4ca69ab9160d77ff",
   "lastOpenFiles": [
+    "Arkfall/Cosmology.md",
     "Arkfall/Arkfall Brainstorm.md",
     "Arkfall/Aliens.md",
     "Dashboard.md",
     "Arkfall/Vectors.md",
     "Arkfall/AI.md",
-    "Arkfall/Cosmology.md",
     "Arkfall",
     "Terra-Nova/History/Lore Documents/The Mantles.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
