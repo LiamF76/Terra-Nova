@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "Arkfall/Arkfall Timeline.md",
-      "timestamp": 1778032680677
+      "timestamp": 1778033156181
+    },
+    {
+      "filepath": "Arkfall/The Disaster.md",
+      "timestamp": 1778033155639
+    },
+    {
+      "filepath": "Arkfall/The Golden Age.md",
+      "timestamp": 1778033146829
     },
     {
       "filepath": "Arkfall/Cosmology.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "Dashboard.md",
       "timestamp": 1778032559163
-    },
-    {
-      "filepath": "Arkfall/Vectors.md",
-      "timestamp": 1778032557516
-    },
-    {
-      "filepath": "Arkfall/The Golden Age.md",
-      "timestamp": 1778032549071
     }
   ],
   "bookmarkedFileStore": [],
