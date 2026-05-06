@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,34 +17,11 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "8b013ed8b1c68715",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Terra-Nova To-Do"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +160,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8b013ed8b1c68715",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova/History/Lore Documents/The Mantles.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+    "Terra-Nova/History/Lore Documents/The Mantles.md",
     "Terra-Nova/History/Lore Documents/The Dissonant Creations.md",
     "Terra-Nova/History/Lore Documents/The Paragon.md",
     "Terra-Nova/History/Lore Documents/Uncrowned and Realmcrest.md",
