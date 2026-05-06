@@ -28,7 +28,7 @@ tags:
 ## Environment & Reality
 
 - Primary terrain (desert, ocean, ruins, megastructures, etc.)
-	- ruins, destroyed cities and human infrastructure
+	- Ruined megacities, collapsed arcologies, overgrown infrastructure, scarred wilderness
 - Climate or atmospheric conditions
 	- temperate, planetary winter and summer
 	- Irradiated lightning storms
