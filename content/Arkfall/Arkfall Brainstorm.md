@@ -19,7 +19,7 @@ All of these inspirations are important and have influenced my idea of the setti
 
 ### Ideas?
 
-- [[Arkfall/Cosmology|Cosmology]]
+- [[Arkfall/Worlds/Cosmology|Cosmology]]
 - set in the far future at an undefined date, 
 	- current range: 5,000-20,000 years after the current day.
 - space magic somehow, technology, psionics, quantum

@@ -13,7 +13,7 @@ tags:
 
 - **Mercury**: desert planet seeded with alien life, space monsters, super hot and dangerous
 - **Venus**: garden world terraformed into a paradise by humanity, overgrown post collapse and is now an overgrown hell
-- **Earth**: Post nukes / dirty bombs, vast wastelands, smaller human settlements, Cities: 
+- [[Earth]]: Post nukes / dirty bombs, vast wastelands, smaller human settlements, Cities: 
 	- **Luna**: 
 - **Mars**: 
 	- **Phobos**: 
