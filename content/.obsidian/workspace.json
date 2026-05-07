@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
@@ -164,10 +162,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Arkfall/Worlds/Earth.md",
     "Arkfall/Worlds/Cosmology.md",
     "Arkfall/Worlds",
-    "Dashboard.md",
     "Arkfall/Arkfall Timeline.md",
     "Arkfall/The Disaster.md",
     "Arkfall/The Golden Age.md",
