@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] [[Story of the Tirumivrate]]
 - [ ] [[The Paragon]]
 - [ ] [[Uncrowned and Realmcrest]]
+- [ ] [[Bargain Magic]]
 
 
 ## Triumvirate Scales
