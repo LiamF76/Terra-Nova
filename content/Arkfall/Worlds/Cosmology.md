@@ -1,7 +1,9 @@
 ---
 publish: false
-title:
+title: Cosmology
 aliases:
+  - Planets
+  - Worlds
 tags:
   - Arkfall
 ---
