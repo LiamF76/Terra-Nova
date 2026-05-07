@@ -22,8 +22,30 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "f5050564163525c3",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova To-Do"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,11 +184,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f5050564163525c3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Dashboard.md",
+    "Terra-Nova/History/Lore Documents/Story of the Tirumivrate.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+    "Terra-Nova/History/Lore Documents/The Night of Twisting Stars.md",
+    "Terra-Nova/History/Lore Documents/Fading Wonder.md",
     "Terra-Nova/History/Lore Documents/Bargain Magic.md",
+    "Dashboard.md",
+    "conflict-files-obsidian-git.md",
     "Templates/Planet Template.md",
     "Arkfall/Worlds/Earth/Earth.md",
     "Arkfall/Worlds/Earth",
@@ -186,14 +212,10 @@
     "Arkfall/Aliens.md",
     "Arkfall/AI.md",
     "Arkfall",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
     "Terra-Nova/History/Lore Documents/The Mantles.md",
     "Terra-Nova/History/Lore Documents/The Dissonant Creations.md",
     "Terra-Nova/History/Lore Documents/The Paragon.md",
     "Terra-Nova/History/Lore Documents/Uncrowned and Realmcrest.md",
-    "Terra-Nova/Working Folder/WIP/The Khal Hierarchy.md",
-    "Terra-Nova/Working Folder/WIP/Bad Guys Lore Rewrite.md",
-    "Terra-Nova/Organizations/Divine Groups/The Dark Tribunal.md",
     "z Images/The Night of Twisting Stars-1777920754725.webp",
     "z Images/The Night of Twisting Stars-1777920628224.webp",
     "z Images/The Night of Twisting Stars-1777916079434.webp",
