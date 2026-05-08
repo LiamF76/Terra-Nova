@@ -10,8 +10,10 @@ tags:
 
 The AIs of Arkfall are machine gods who possess mental and computational power vastly superior to mortals.
 
-| AI Name      | Classification         |
-| ------------ | ---------------------- |
-| The Gardener | Terraformer            |
-| The Terminal | Planetary Defense      |
-| The Atlas    | Knowledge Preservation |
+## AIs of Earth
+
+| AI Name                 | Classification         |
+| ----------------------- | ---------------------- |
+| Alexandra, The Gardener | Terraformer            |
+| Nikita, The Terminal    | Planetary Defense      |
+| Cogito, the Atlas       | Knowledge Preservation |
