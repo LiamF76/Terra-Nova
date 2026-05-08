@@ -18,18 +18,9 @@ DM NOTE: Describe the encounter / overview of the room
 
 TBD
 
-**Enemies**: 6x undead dwarf (bandit), 2x undead dwarf mage (wizard apprentice), 1x undead dwarf captain (bandit captain)
-
-```statblock
-creature: Bandit
-```
-
-
-
+**Enemies**: 
 
 Mechanics:
-- pit is 30ft down (2d6 bludgeoning if you fall), 2 ladders to climb out with you can't walk under bridges
-- small stars = exploding barrels, they are large brown barrels marked with a red circle on the side, when exploded: DC 14 DESX  saving throw, 2d6 fire damage on fail, half on success
 - 
 
 ---
