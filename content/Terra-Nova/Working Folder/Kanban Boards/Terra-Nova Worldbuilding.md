@@ -11,6 +11,7 @@ kanban-plugin: board
 
 ## Lore Documents
 
+- [x] [[Mirror of Nothing]]
 - [ ] [[A World of New Gods]]
 	- Thalia
 - [ ] [[The Spell-Carvers]]
@@ -20,7 +21,6 @@ kanban-plugin: board
 	- Thalia
 - [ ] TBD Green Knights
 	- Jerran
-- [ ] [[Mirror of Nothing]]
 
 
 

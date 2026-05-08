@@ -2,6 +2,8 @@
 publish: true
 title: The Sparrow Knight Chapter 1
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 The crunch of dry leaves beneath the wagon's wheels plays beautifully over the sound of the river at my side. I flex my shoulders and pull my helmet off, fastening it to my back and tossing it into the back of the wagon as I step up beside it. My nose may be a bit crooked, broken in a tussle with dire wolves a few years back, it had no trouble catching the scents of crisp air, damp earth, and spellfire. Alcor's magical torch glowed with a mystical light, as if its flame was encased in a hue of pure mana that gleamed pink in the heat. As the wagon passes over a small divot in the dirt road, it dips, the wheel creaking angrily as the two horses muscle the wagon forward. Alcor jumps a little, turning in a panic to inspect for damages. They call him the Coin because of how successful his caravan has been, but there's nothing he hates to repair more than his precious wagon.
