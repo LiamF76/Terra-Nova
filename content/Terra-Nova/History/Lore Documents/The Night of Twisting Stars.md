@@ -6,6 +6,8 @@ tags:
   - Terra-Nova
 ---
 
+## The Night of Twisting Stars
+
 ![[The Night of Twisting Stars-1777916079434.webp|500x283]]
 
 The Night of Twisting Stars is a wondrous and powerful magical phenomena. After the rebirth of the Gods by the hand of Melantha the God Mother, the heavens came once again into power, and balance.
