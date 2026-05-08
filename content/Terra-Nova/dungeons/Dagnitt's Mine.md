@@ -20,6 +20,15 @@ TBD
 
 **Enemies**: 
 
+```statblock
+creature: 
+```
+
+
+Mechanics:
+- pit is 30ft down (2d6 bludgeoning if you fall), 2 ladders to climb out with you can't walk under bridges
+- 
+
 ---
 
 ## Room 2: Puzzle or Roleplaying Challenge
