@@ -5,9 +5,10 @@ aliases:
 tags:
   - Terra-Nova
 ---
-idk what this is yet honestly
 
 ## It Always Ends in Killing
+
+---
 
 "What did you want to be when you were little? I know you didn't want to be this..."
 
