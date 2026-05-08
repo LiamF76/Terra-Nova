@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## History and Lore
 
-- [x] [[The Night of Twisting Stars]]
-- [x] [[Fading Wonder]]
 - [ ] [[The Dissonant Creations]]
 - [ ] [[The Mantles]]
 - [ ] [[Story of the Tirumivrate]]
@@ -83,6 +81,8 @@ kanban-plugin: board
 ## Archive
 
 - [x] [[The Khal Hierarchy]]
+- [x] [[The Night of Twisting Stars]]
+- [x] [[Fading Wonder]]
 
 %% kanban:settings
 ```

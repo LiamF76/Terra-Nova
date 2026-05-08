@@ -14,7 +14,7 @@ The victors of this war were three, greatest among the hundred dragons that foug
 
 These rulers, these strongest amongst the masters of the sky became bound in pact, a covenant forged in ambition, greed, and violence. [[The Triumvirate Scales]]. The dragons agreed to rule together, to dominate the piece of Escarth they had conquered, and they began to make their kingdom known to the world.
 
-Garthrax, whose thirst for war was deep, carved a castle within the tallest mountain in their land. Naming it Fort Galewatch, she made her kingdom there in that high fortress. 
+[[Garthrax]], whose thirst for war was deep, carved a castle within the tallest mountain in their land. Naming it Fort Galewatch, she made her kingdom there in that high fortress. 
 
 Gravebinder, whose hunger for knowledge could never be sated, slunk through the swamps to the ruins of New Oligoth. She raised a thousand mortals, corpses made slave to her will, and they built her a temple of ritual and evil. In the ruins of a mortal castle, once home to an order of honorable knights who hunted monsters, became the unholy home of the dragon necromancer.
 
