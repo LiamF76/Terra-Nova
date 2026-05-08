@@ -15,7 +15,7 @@ Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terr
 > ## [[Vault To-Do]]
 
 > [!note] Terra-Nova
-> ## [[Terra-Nova To-Do]] | [[Solo Projects]]
+> ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]]
 
 > [!note] Current Campaigns
 > ## [[The Valley of Broken Oaths]] | [[Penance Lost PBP]] 

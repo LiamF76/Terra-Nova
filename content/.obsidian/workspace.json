@@ -24,6 +24,25 @@
             }
           },
           {
+            "id": "2291da32dc18f312",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
+          },
+          {
             "id": "e0c08789ae18fc62",
             "type": "leaf",
             "state": {
@@ -38,50 +57,21 @@
             }
           },
           {
-            "id": "18292e4a721b567b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "3c47e9204f6b9a1c",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Wouldbuilding.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Terra-Nova Wouldbuilding"
-            }
-          },
-          {
-            "id": "c1735553da2ec2ee",
+            "id": "ac5c32ada81d660e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A World of New Gods.md",
+                "file": "Terra-Nova/History/Lore Documents/The City of Prophecy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A World of New Gods"
+              "title": "The City of Prophecy"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A World of New Gods.md",
+                "file": "Terra-Nova/History/Lore Documents/The City of Prophecy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A World of New Gods"
+              "title": "Backlinks for The City of Prophecy"
             }
           },
           {
@@ -220,35 +210,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c1735553da2ec2ee",
+  "active": "ac5c32ada81d660e",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Wouldbuilding.md",
-    "Terra-Nova/Books/Tales from Terra-Nova/TFTN Chapter 4.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/History/Lore Documents/The City of Prophecy.md",
     "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
-    "The Spell-Carvers.md",
-    "A World of New Gods.md",
     "Dashboard.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
-    "Terra-Nova/History/Lore Documents/The Silent City.md",
+    "Terra-Nova/History/Lore Documents/Fading Wonder.md",
+    "Terra-Nova/History/Lore Documents/Scales and Swords.md",
+    "Terra-Nova/History/Lore Documents/Son of the Storm Queen.md",
+    "Terra-Nova/History/Lore Documents/Story of Maple Celestia.md",
+    "Terra-Nova/History/Lore Documents/Story of the Tirumivrate.md",
+    "Terra-Nova/History/Lore Documents/The Blinding Light.md",
+    "Terra-Nova/History/Lore Documents/The Creation of Terra-Nova.md",
     "Terra-Nova/History/Lore Documents/The Dissonant Creations.md",
+    "Terra-Nova/History/Lore Documents/The Mantles.md",
+    "Terra-Nova/History/Lore Documents/The Night of Twisting Stars.md",
     "Terra-Nova/History/Lore Documents/The Paragon.md",
+    "Terra-Nova/History/Lore Documents/The Red King's Rise.md",
+    "Terra-Nova/History/Lore Documents/The Silent City.md",
+    "Terra-Nova/History/Lore Documents/The Spell-Carvers.md",
+    "Terra-Nova/History/Lore Documents/Uncrowned and Realmcrest.md",
+    "Terra-Nova To-Do.md",
+    "A World of New Gods.md",
+    "Terra-Nova/Books/Tales from Terra-Nova/TFTN Chapter 4.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
     "Terra-Nova/Characters/Demigods/Horus Hixs.md",
     "Terra-Nova/Characters/Character Backstories/Horus Hixs Backstory.md",
     "Terra-Nova/Characters/People/Lanxaad.md",
-    "Terra-Nova/History/Lore Documents/Son of the Storm Queen.md",
-    "Terra-Nova/Characters/Dragons/Garthrax.md",
-    "Terra-Nova/Organizations/Divine Groups/The 12 Prime Creations.md",
-    "Terra-Nova/History/Lore Documents/The Night of Twisting Stars.md",
-    "Terra-Nova/History/Lore Documents/Fading Wonder.md",
-    "Terra-Nova/History/Lore Documents/Story of the Tirumivrate.md",
-    "Terra-Nova/History/Lore Documents/Bargain Magic.md",
-    "conflict-files-obsidian-git.md",
-    "Templates/Planet Template.md",
-    "Arkfall/Worlds/Earth/Earth.md",
     "Arkfall/Worlds/Earth",
-    "Arkfall/Worldbuilding Workshop.md",
-    "Arkfall/Groups/Aliens.md",
-    "Arkfall/Groups/Vectors.md",
     "Arkfall/Groups",
     "Arkfall/Worlds",
     "Arkfall",

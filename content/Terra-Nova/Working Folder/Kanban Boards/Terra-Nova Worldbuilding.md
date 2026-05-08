@@ -13,6 +13,7 @@ kanban-plugin: board
 
 - [ ] [[A World of New Gods]]
 - [ ] [[The Spell-Carvers]]
+- [ ] [[The City of Prophecy]]
 
 
 
