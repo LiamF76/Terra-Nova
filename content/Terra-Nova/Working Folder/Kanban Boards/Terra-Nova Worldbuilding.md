@@ -21,6 +21,7 @@ kanban-plugin: board
 	- Thalia
 - [ ] TBD Green Knights
 	- Jerran
+- [ ] [[Count your Pieces]]
 
 
 
