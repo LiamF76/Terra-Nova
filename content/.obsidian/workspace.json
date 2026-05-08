@@ -22,8 +22,28 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "5d09947e11fef06a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,12 +172,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5d09947e11fef06a",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "conflict-files-obsidian-git.md",
+    "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/History/Lore Documents/The Tamoran Truth.md",
+    "Terra-Nova/History/Lore Documents/The Spell-Carvers.md",
+    "Terra-Nova/History/Lore Documents/The Silent City.md",
+    "Terra-Nova/History/Lore Documents/The City of Prophecy.md",
+    "Terra-Nova/History/Lore Documents/Fragments of Below.md",
+    "A World of New Gods.md",
     "Terra-Nova/History/Lore Documents/The Paragon.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
     "Terra-Nova/History/Lore Documents/Bargain Magic.md",
-    "Dashboard.md",
     "Arkfall/Lore/Logs",
     "Arkfall/Lore",
     "Arkfall/Groups/Vectors.md",
@@ -174,18 +203,9 @@
     "Arkfall/Groups",
     "Arkfall/Worlds/Earth",
     "Templates/Planet Template.md",
-    "conflict-files-obsidian-git.md",
     "Arkfall/Worlds",
     "Arkfall/Cosmology.md",
     "Arkfall",
-    "Terra-Nova/History/Lore Documents/The Mantles.md",
-    "Terra-Nova/Working Folder/WIP/The Khal Hierarchy.md",
-    "Terra-Nova/History/Lore Documents/Uncrowned and Realmcrest.md",
-    "Terra-Nova/Characters/Extraplanar/Gods/Malos.md",
-    "Terra-Nova/Organizations/Divine Groups/Primordials.md",
-    "Terra-Nova/History/Lore Documents/The Dissonant Creations.md",
-    "Terra-Nova/Organizations/Extraplanar/The Disciples of Khal.md",
-    "Terra-Nova/Campaigns/Campaigns Overview.md",
     "z Images/Rakesh-1777922218315.webp",
     "z Images/Fading Wonder-1777920885789.webp",
     "z Images/Fading Wonder-1777920806661.webp",
