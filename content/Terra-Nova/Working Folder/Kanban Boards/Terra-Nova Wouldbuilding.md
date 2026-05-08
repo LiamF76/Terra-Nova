@@ -12,6 +12,7 @@ kanban-plugin: board
 ## Lore Documents
 
 - [ ] [[A World of New Gods]]
+- [ ] [[The Spell-Carvers]]
 
 
 

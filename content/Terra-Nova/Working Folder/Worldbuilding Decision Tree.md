@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ### What kind of lore to write:
@@ -14,6 +16,8 @@ aliases:
 - **INSTITUTION** – who controls, manages, or reacts to the world
 - **ARTIFACT / TEXT** – something left behind
 - **THRESHOLD** – something that almost happened
+
+---
 
 - **What is happening?** → Event
 - **How does this work (or fail)?** → System
