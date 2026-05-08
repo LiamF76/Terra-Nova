@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "It Always Ends in Killing.md",
+      "timestamp": 1778252145678
+    },
+    {
+      "filepath": "Terra-Nova/Organizations/Extraplanar/The Shardbound.md",
+      "timestamp": 1778252143312
+    },
+    {
       "filepath": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-      "timestamp": 1778250073874
+      "timestamp": 1778252137812
     },
     {
       "filepath": "Terra-Nova/History/Lore Documents/Count your Pieces.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "Terra-Nova/History/Lore Documents/Mirror of Nothing.md",
       "timestamp": 1778248659867
-    },
-    {
-      "filepath": "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 10.md",
-      "timestamp": 1778248633174
-    },
-    {
-      "filepath": "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
-      "timestamp": 1778248629379
     }
   ],
   "bookmarkedFileStore": [],
