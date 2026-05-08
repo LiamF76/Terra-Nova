@@ -15,8 +15,9 @@ kanban-plugin: board
 - [ ] [[The Spell-Carvers]]
 - [ ] [[The City of Prophecy]]
 - [ ] [[The Tamoran Truth]]
-- [ ] [[Fragments of Below]]
+- [ ] [[Fragments of the Past]]
 - [ ] TBD Green Knights
+	- Jerran
 
 
 
