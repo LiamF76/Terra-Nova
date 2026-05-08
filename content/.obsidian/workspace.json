@@ -24,24 +24,17 @@
             }
           },
           {
-            "id": "5d09947e11fef06a",
+            "id": "4e8adcdfb5e4aeb6",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Terra-Nova/dungeons/Dagnitt's Mine.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Terra-Nova Worldbuilding"
+              "icon": "lucide-file",
+              "title": "Dagnitt's Mine"
             }
           }
         ],
@@ -174,12 +167,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5d09947e11fef06a",
+  "active": "4e8adcdfb5e4aeb6",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Dashboard.md",
     "Terra-Nova/History/Lore Documents/Fragments of the Past.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/History/Lore Documents/It Always Ends in Killing.md",
     "Terra-Nova/Organizations/Extraplanar/The Shardbound.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Books/Books.md",
     "Terra-Nova/Resources/Gameplay Resources/Sayings & Phrases.md",
     "Terra-Nova/Resources/Gameplay Resources/Glossary.md",
@@ -198,10 +193,8 @@
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
     "Arkfall/Groups/AI.md",
-    "Dashboard.md",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
-    "Terra-Nova/History/Lore Documents/The Tamoran Truth.md",
     "Arkfall/Lore/Logs",
     "Arkfall/Lore",
     "Arkfall/Groups",
