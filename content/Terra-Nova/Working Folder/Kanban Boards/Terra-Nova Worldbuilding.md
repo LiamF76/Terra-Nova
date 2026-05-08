@@ -11,7 +11,6 @@ kanban-plugin: board
 
 ## Lore Documents
 
-- [x] [[Mirror of Nothing]]
 - [ ] [[A World of New Gods]]
 	- Thalia
 - [ ] [[The Spell-Carvers]]
@@ -22,10 +21,14 @@ kanban-plugin: board
 - [ ] TBD Green Knights
 	- Jerran
 - [ ] [[Count your Pieces]]
-- [ ] [[It Always Ends in Killing]]
 
 
+***
 
+## Archive
+
+- [x] [[Mirror of Nothing]]
+- [x] [[It Always Ends in Killing]]
 
 %% kanban:settings
 ```
