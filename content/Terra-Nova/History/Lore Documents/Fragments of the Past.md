@@ -16,6 +16,8 @@ Permanent Scars – Bearing a shard inflicts lasting damage on its wielder: blac
 Judgment Without Appeal – The Shardbound do not answer to mages, councils, or churches. Their judgment is considered final, and their methods are tolerated out of fear rather than trust.
 Myth of Origin – The true origin of the shards is unknown. Stories contradict one another, and no official account claims certainty. The Shardbound themselves offer no clarification.
 
+IMPORTANT: As agents of New Estorias, they have been tasked with hunting sorcerous bloodlines such as the Realmcrest, Tarn, Ferran, and Celestia-Shield.
+
 ## Fragments of Below
 
 ---
