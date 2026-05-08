@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: It Always Ends in Killing
 aliases:
 tags:
@@ -42,9 +42,9 @@ tags:
 
 "It always ends in killing."
 
-"Perhaps not this time. I thin she may be different."
+"Perhaps not this time. I think she may be different."
 
-"She poisons the world with self righteous nonsense, desperate to grow only for the sake of growth."
+"She poisons the world with self-righteous nonsense, desperate to grow only for the sake of growth."
 
 "Like a tumor."
 
