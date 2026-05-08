@@ -28,6 +28,6 @@ I turn my faceless head upwards, and I clasp my fingerless hands, I meditate and
 
 I am terrified for him, because something is moving. I feel it slither along my legless torso, twisting and tightening around me. Somebody woke up... this vile thing that holds me, what monster holds the mirror before me, forcing me to look upon the NOTHING I have been rended unto. Why would my spawn awaken such a thing? I shall scold them, because soon I will be free. When this thing can no longer hold and suckle from my soul, I shall be free, but so too shall it. 
 
-There are always times of worry, but someone pushes them further. I am terrified now, because she, my proginy, my successor, she is a good mother... has made the last push. It can be delayed no further, or there will be strife unending. to delay the inevitable any further will prevent the end entirely, and there will be no cycle, and no renewal. There must be winter for summer, the leaves must fall to grow again, and all must die, and live agai
+There are always times of worry, but someone pushes them further. I am terrified now, because she, my progeny, my successor, she is a good mother... has made the last push. It can be delayed no further, or there will be strife unending. to delay the inevitable any further will prevent the end entirely, and there will be no cycle, and no renewal. There must be winter for summer, the leaves must fall to grow again, and all must die, and live again.
 
-I only hope my favorite leaf will be there waiting for me, in the morning.
+I do not know what is coming. I only hope my favorite leaf will be there waiting for me, in the morning.
