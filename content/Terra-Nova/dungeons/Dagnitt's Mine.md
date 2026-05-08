@@ -18,9 +18,21 @@ DM NOTE: Describe the encounter / overview of the room
 
 TBD
 
-**Enemies**: 
+**Enemies**: 1x troll, 1x bandit captain, 10x bandit
 
-Mechanics:
+```statblock
+creature: Troll
+```
+
+```statblock
+creature: Bandit Captain
+```
+
+```statblock
+creature: Bandit
+```
+
+**Mechanics**:
 - **Dwarven Windlance**: Ballista, +6 top hit, range 120/480, 16 (3d10) piercing damage.
 	- 15 AC, 50HP
 - **Molten Iron Pits**: 3d6 fire damage upon entry and at start of turn
