@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "file": "Terra-Nova/dungeons/Dagnitt's Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terra-Nova Worldbuilding"
+              "title": "Backlinks for Dagnitt's Mine"
             }
           },
           {
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251,
+    "width": 561,
     "collapsed": true
   },
   "left-ribbon": {
