@@ -21,6 +21,8 @@ TBD
 **Enemies**: 
 
 Mechanics:
+- **Dwarven Windlance**: 
+- **Molten Iron Pits**: 3d6 fire damage upon entry and at start of turn
 - 
 
 ---
