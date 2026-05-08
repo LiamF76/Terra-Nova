@@ -10,7 +10,7 @@ The dwarves were killed by a disease called the Necrosurge. Created by Gravebind
 
 ## Room 1: Entrance Guardian
 
-#### **TBD**
+#### **They have a Cave Troll**
 
 DM NOTE: Big combat, lots of little dwarves, a dwarf, captain, and a troll. They will need to use the molten iron and windlance to win.
 
@@ -42,13 +42,29 @@ creature: Bandit
 
 ## Room 2: Puzzle or Roleplaying Challenge
 
-#### **TBD**
+#### **They put me in a room...**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: As soon as the party enters this room, all the doors shut and lock themselves. There are no keyholes or obvious ways to open them. The floor of the room is completely covered by a swarm of black rats, and one silver rat. Catching the silver rat requires a successful DC 14 Dexterity (sleight of hand) check, and when it is caught it transforms into a silver key. Merely touching this key to either door in this room opens it. If any black rat is killed, it is immediately replaced by another black rat. If the silver rat is killed, it disappears and a new silver rat appears ten minutes later.
+
+*Set the Scene*: The stone chamber before you is plain, nearly 60ft across and perfectly square, it has stale and still air, as if not opened in centuries. As you enter the door you entered through, and the open door on the opposite side of the room slam shut with magical force. There is a brief moment of silence, before you hear the chittering and squeaking of rats. The entire floor becomes covered in a swarm of black rats. 
+
+**When they try to look around / after a little time if they do nothing**: Amongst the swarm, you see a single shining item, a silver coated rat amongst the swarm, skittering and running like all the rest.
+
+**Catching the Silver Rat**: DC 14 Dexterity (slight of hand) check to catch the silver rat, on a success, the rat is caught and transforms into a silver key. This key will open the door when touched to it.
+You get your hands around the silver rat and suddenly the overwhelming noise of the swarm stops suddenly, and you are left holding nothing but a silver key.
+
+---
+
+## Trap
+
+#### **Ballista Hallway**
+
+DM NOTE: Long hallway, if you are taller than 4ft a ballista bolt is shot at you.
 
 *Set the Scene*: TBD
 
 TBD
+
 
 ---
 
