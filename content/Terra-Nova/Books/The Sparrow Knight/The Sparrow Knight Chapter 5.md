@@ -2,6 +2,8 @@
 publish: true
 title: The Sparrow Knight Chapter 5
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 The thunder outside is like someone banging on the outside of my skull.

@@ -6,6 +6,8 @@ aliases:
   - Sayings
   - Phrases
   - Terms
+tags:
+  - Terra-Nova
 ---
 
 This is a list of common sayings and phrases in Terra-Nova and their meanings/ origins. Those that are common across the world will be in the general list, and from there they will be organized by the areas they are common in.
