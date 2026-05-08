@@ -21,9 +21,9 @@ TBD
 **Enemies**: 
 
 Mechanics:
-- **Dwarven Windlance**: 
+- **Dwarven Windlance**: Ballista, +6 top hit, range 120/480, 16 (3d10) piercing damage.
+	- 15 AC, 50HP
 - **Molten Iron Pits**: 3d6 fire damage upon entry and at start of turn
-- 
 
 ---
 
