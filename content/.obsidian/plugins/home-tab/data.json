@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Terra-Nova/History/Lore Documents/The Paragon.md",
-      "timestamp": 1778198705681
+      "filepath": "Terra-Nova/History/Lore Documents/Fading Wonder.md",
+      "timestamp": 1778198979212
     },
     {
       "filepath": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
-      "timestamp": 1778198603230
+      "timestamp": 1778198966781
+    },
+    {
+      "filepath": "Terra-Nova/History/Lore Documents/The Paragon.md",
+      "timestamp": 1778198705681
     },
     {
       "filepath": "Terra-Nova/History/Lore Documents/Story of the Tirumivrate.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Terra-Nova/History/Lore Documents/The Night of Twisting Stars.md",
       "timestamp": 1778194579587
-    },
-    {
-      "filepath": "Terra-Nova/History/Lore Documents/Fading Wonder.md",
-      "timestamp": 1778194576906
     }
   ],
   "bookmarkedFileStore": [],
