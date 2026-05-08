@@ -43,23 +43,9 @@
               "icon": "lucide-trello",
               "title": "Terra-Nova Worldbuilding"
             }
-          },
-          {
-            "id": "7ba3eb84b670eac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/History/Lore Documents/Count your Pieces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Count your Pieces"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +174,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7ba3eb84b670eac0",
+  "active": "5d09947e11fef06a",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/History/Lore Documents/Count your Pieces.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/History/Lore Documents/Mirror of Nothing.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 10.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
