@@ -1,7 +1,9 @@
 ---
-publish: false
+publish: true
 title: Fragments of Below
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ## Fragments of Below
