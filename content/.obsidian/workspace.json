@@ -38,6 +38,16 @@
             }
           },
           {
+            "id": "18292e4a721b567b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "3c47e9204f6b9a1c",
             "type": "leaf",
             "state": {
@@ -55,9 +65,23 @@
               "icon": "lucide-trello",
               "title": "Terra-Nova Wouldbuilding"
             }
+          },
+          {
+            "id": "c1735553da2ec2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A World of New Gods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A World of New Gods"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
+                "file": "A World of New Gods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +169,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Worldbuilding Decision Tree"
+              "title": "Backlinks for A World of New Gods"
             }
           },
           {
@@ -196,12 +220,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e0c08789ae18fc62",
+  "active": "c1735553da2ec2ee",
   "lastOpenFiles": [
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Wouldbuilding.md",
+    "Terra-Nova/Books/Tales from Terra-Nova/TFTN Chapter 4.md",
+    "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
     "The Spell-Carvers.md",
     "A World of New Gods.md",
-    "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
     "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
     "Terra-Nova/History/Lore Documents/The Silent City.md",
@@ -224,7 +249,6 @@
     "Arkfall/Worldbuilding Workshop.md",
     "Arkfall/Groups/Aliens.md",
     "Arkfall/Groups/Vectors.md",
-    "Arkfall/Groups/AI.md",
     "Arkfall/Groups",
     "Arkfall/Worlds",
     "Arkfall",
