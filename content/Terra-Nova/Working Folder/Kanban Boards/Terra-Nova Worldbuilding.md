@@ -14,6 +14,9 @@ kanban-plugin: board
 - [ ] [[A World of New Gods]]
 - [ ] [[The Spell-Carvers]]
 - [ ] [[The City of Prophecy]]
+- [ ] [[The Tamoran Truth]]
+- [ ] [[Fragments of Below]]
+- [ ] TBD Green Knights
 
 
 
