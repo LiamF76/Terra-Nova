@@ -12,7 +12,7 @@ The dwarves were killed by a disease called the Necrosurge. Created by Gravebind
 
 #### **TBD**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Big combat, lots of little dwarves, a dwarf, captain, and a troll. They will need to use the molten iron and windlance to win.
 
 *Set the Scene*: TBD
 
