@@ -34,14 +34,12 @@ When Khal Daraan awakened, and did bargain with the God Mother at the end of the
 
 The Gods do not forsake their mortal worshippers, but they are afraid. They fear not the champions of evil, no Arkonil or dragon of the Triumvirate, they fear Destruction itself, Khal Daraan, resting, and imprisoned within the world, but awake all the same.
 
-To speak loudly is to be noticed.  
-To exert dominion is to invite focus.  
-To repeat the excesses of the old divine age is to hasten the Day of a Thousand Dawns.
+To speak loudly is to be noticed. To exert dominion is to invite focus. To repeat the excesses of the old divine age is to hasten the Day of a Thousand Dawns.
 
 So the Gods choose restraint.
 
-Khal Daraan waits.  
-The Gods endure.  
-And the champions walk forward, bearing a faith heavier than ever before.
+The world now exists in a strange balance, both richer in divinity and poorer in certainty. Worship is stronger, answers are fewer, and hope is carried not by miracles, but by people who must act without hearing the voice they serve.
+
+Khal Daraan waits. The Gods endure. And the champions walk forward, bearing a faith heavier than ever before.
 
 Was this bargain worth it? To buy a few years, be they hundreds or thousands, before the end of the world? Perhaps, perhaps not. Only time will tell, and the tower is always ticking...
