@@ -70,9 +70,9 @@ TBD
 
 ## Room 3: Trick or Setback
 
-#### **TBD**
+#### **The Fallen Adventurer**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: The ghost of an adventurer haunts this room, he will curse the party if they try to advance, unless they swear an oath to bring his remains (skull), back to his home in the Valley.
 
 *Set the Scene*: TBD
 
