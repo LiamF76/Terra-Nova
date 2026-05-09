@@ -45,31 +45,7 @@
             }
           },
           {
-            "id": "3c8e60b8d883debd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/dungeons/The Spire of Virtue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Spire of Virtue"
-            }
-          },
-          {
-            "id": "94510ec13e6e75ad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "0a20102eb17196b5",
+            "id": "87622c1be4219c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Terra-Nova/dungeons/The Bloodstone Pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dashboard"
+              "title": "Backlinks for The Bloodstone Pass"
             }
           },
           {
@@ -222,17 +198,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a20b8c888495672e",
+  "active": "87622c1be4219c53",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Dragon Priest Statblock.md",
+    "Terra-Nova/dungeons/The Bloodstone Pass.md",
+    "Terra-Nova/dungeons/The Spire of Virtue.md",
+    "Templates/Statblock Template.md",
     "DungeonScrawl/dagnittBossRoom.ds",
     "DungeonScrawl/bloodstone pass boss.ds",
     "DungeonScrawl",
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Terra-Nova/dungeons/The Bloodstone Pass.md",
     "Dashboard.md",
     "Terra-Nova/dungeons/Dagnitt's Mine.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
-    "Terra-Nova/dungeons/The Spire of Virtue.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
     "Terra-Nova/Geography/Space/Thalun/Nyxaleth.md",
@@ -251,7 +229,6 @@
     "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
     "Terra-Nova/History/Lore Documents/Fading Wonder.md",
     "Terra-Nova/History/Lore Documents/Scales and Swords.md",
-    "Terra-Nova/History/Lore Documents/Son of the Storm Queen.md",
     "Arkfall/Worlds/Earth",
     "Arkfall/Groups",
     "Arkfall/Worlds",
@@ -266,7 +243,6 @@
     "z Images/Austin-1777846248601.webp",
     "Pentium Realm/Working Folder/Welcome to Pentium Realm v1.pdf",
     "Pentium Realm/Working Folder",
-    "Pentium Realm/Characters",
     "z Images/TVBO Session 2-1777676333654.webp",
     "z Images/The Sparrow Knight Chapter 6-1776952980941.webp",
     "z Images/The Sparrow Knight Chapter 6-1776952973868.webp",

@@ -13,3 +13,4 @@ Brainstorm:
 	- Silence mask: creates silence spell (no magic)
 	- Vampire mask: drains life and heals boss, selects a target and any player within 20ft of that player get drained
 - 
+
