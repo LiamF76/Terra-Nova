@@ -10,7 +10,7 @@ Brainstorm
 - 3 bosses, 1 sent from each dragon of the scales
 	- Blue: storm elemental, fast and chain damage, does low damage but hits multiple targets
 		- lightning sweep, large moving line of lightning that forces players to take cover
-		- targets hit twice become 'overloaded', and explode at the end of their turn dealing damage to allies nearby
+		- 4 conductive pillars, elemental sweep attack deals an additional d4 damage per active pillar, pillars can be deactivated by attacking (grounding) them but deasl 1d6 lightning damage
 		- storm node adds, little lightning balls, 1 shot kill but fly and move fast, ranged attack
 		- conductive overload at half health, metal weapons deal an extra d6 damage, metal armor has disadvantage on DEX saves
 	- Green: mutant goblin, big and strong
