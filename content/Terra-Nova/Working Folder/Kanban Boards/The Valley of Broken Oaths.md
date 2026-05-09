@@ -10,7 +10,7 @@ kanban-plugin: board
 - [ ] [[TVBO Session 3]]
 - [ ] [[Dagnitt's Mine]]
 - [ ] [[TVBO Session 4]]
-- [ ] The Bloodstone Pass
+- [ ] [[The Bloodstone Pass]]
 
 
 ## Worldbuilding
