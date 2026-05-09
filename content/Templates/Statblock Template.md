@@ -4,51 +4,92 @@ title:
 aliases:
 ---
 
-name: 
-source: Homebrew
-size: 
-type: 
-subtype: ""
-alignment: c
-ac: 
-hp: 
-hit_dice: 6d8 + 6
-speed: 30 ft., fly 60 ft., swim 30 ft.
-stats:
-  - 15
-  - 14
-  - 13
-  - 10
-  - 11
-  - 13
-saves:
-  - dexterity: 4
-  - constitution: 3
-  - wisdom: 2
-  - charisma: 3
-skillsaves:
-  - perception: 4
-  - stealth: 4
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: acid
-condition_immunities: ""
-senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
-languages: Draconic
-cr: "2"
-bestiary: true
-traits:
-  - name: Amphibious
-    desc: The dragon can breathe air and water.
-    attack_bonus: 0
-actions:
-  - name: Bite
-    desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage."
-    attack_bonus: 4
-    damage_dice: 1d10
-    damage_bonus: 2
-  - name: Acid Breath (Recharge 5-6)
-    desc: The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (Sd8) acid damage on a failed save, or half as much damage on a successful one.
-    attack_bonus: 0
-    damage_dice: 5d8
-
+```statblock
+{
+  "name": "{{name}}",
+  "size": "{{size}}",
+  "type": "{{type}}",
+  "subtype": "{{subtype}}",
+  "alignment": "{{alignment}}",
+  "ac": "{{ac}}",
+  "hp": "{{hp}}",
+  "speed": "{{speed}}",
+  "stats": [{{str}}, {{dex}}, {{con}}, {{int}}, {{wis}}, {{cha}}],
+  "saves": {
+    "str": "{{save_str}}",
+    "dex": "{{save_dex}}",
+    "con": "{{save_con}}",
+    "int": "{{save_int}}",
+    "wis": "{{save_wis}}",
+    "cha": "{{save_cha}}"
+  },
+  "skills": {
+    "acrobatics": "{{acrobatics}}",
+    "arcana": "{{arcana}}",
+    "athletics": "{{athletics}}",
+    "deception": "{{deception}}",
+    "history": "{{history}}",
+    "insight": "{{insight}}",
+    "intimidation": "{{intimidation}}",
+    "investigation": "{{investigation}}",
+    "medicine": "{{medicine}}",
+    "nature": "{{nature}}",
+    "perception": "{{perception}}",
+    "performance": "{{performance}}",
+    "persuasion": "{{persuasion}}",
+    "religion": "{{religion}}",
+    "sleight_of_hand": "{{sleight_of_hand}}",
+    "stealth": "{{stealth}}",
+    "survival": "{{survival}}"
+  },
+  "damage_vulnerabilities": "{{vulnerabilities}}",
+  "damage_resistances": "{{resistances}}",
+  "damage_immunities": "{{immunities}}",
+  "condition_immunities": "{{condition_immunities}}",
+  "senses": "{{senses}}",
+  "languages": "{{languages}}",
+  "cr": "{{cr}}",
+  "traits": [
+    {
+      "name": "{{trait_1_name}}",
+      "desc": "{{trait_1_desc}}"
+    },
+    {
+      "name": "{{trait_2_name}}",
+      "desc": "{{trait_2_desc}}"
+    }
+  ],
+  "actions": [
+    {
+      "name": "{{action_1_name}}",
+      "desc": "{{action_1_desc}}"
+    },
+    {
+      "name": "{{action_2_name}}",
+      "desc": "{{action_2_desc}}"
+    }
+  ],
+  "bonus_actions": [
+    {
+      "name": "{{bonus_action_1_name}}",
+      "desc": "{{bonus_action_1_desc}}"
+    }
+  ],
+  "reactions": [
+    {
+      "name": "{{reaction_1_name}}",
+      "desc": "{{reaction_1_desc}}"
+    }
+  ],
+  "legendary_actions": [
+    {
+      "name": "{{legendary_1_name}}",
+      "desc": "{{legendary_1_desc}}"
+    },
+    {
+      "name": "{{legendary_2_name}}",
+      "desc": "{{legendary_2_desc}}"
+    }
+  ]
+}
+```

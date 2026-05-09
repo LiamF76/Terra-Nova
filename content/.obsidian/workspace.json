@@ -24,42 +24,21 @@
             }
           },
           {
-            "id": "47590e7d757bb4b7",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
-          },
-          {
-            "id": "87622c1be4219c53",
+            "id": "5059bc1847208914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/dungeons/The Bloodstone Pass.md",
+                "file": "Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Bloodstone Pass"
+              "title": "Dragon Priest Statblock"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/dungeons/The Bloodstone Pass.md",
+                "file": "Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Bloodstone Pass"
+              "title": "Backlinks for Dragon Priest Statblock"
             }
           },
           {
@@ -198,17 +177,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "87622c1be4219c53",
+  "active": "5059bc1847208914",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Dragon Priest Statblock.md",
-    "Terra-Nova/dungeons/The Bloodstone Pass.md",
-    "Terra-Nova/dungeons/The Spire of Virtue.md",
+    "Statblocks/Helmed Horror.md",
+    "Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
+    "Dashboard.md",
     "Templates/Statblock Template.md",
+    "Mage.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Wendigo.md",
+    "Vault To-Do.md",
+    "Terra-Nova/dungeons/The Bloodstone Pass.md",
+    "Dragon Priest Statblock.md",
+    "Terra-Nova/dungeons/The Spire of Virtue.md",
     "DungeonScrawl/dagnittBossRoom.ds",
     "DungeonScrawl/bloodstone pass boss.ds",
     "DungeonScrawl",
-    "Dashboard.md",
     "Terra-Nova/dungeons/Dagnitt's Mine.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
@@ -224,11 +208,6 @@
     "Terra-Nova/History/Lore Documents/A World of New Gods.md",
     "Fragments of Below.md",
     "A World of New Gods.md",
-    "Terra-Nova/History/Lore Documents/The Tamoran Truth.md",
-    "Terra-Nova/History/Lore Documents/The City of Prophecy.md",
-    "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
-    "Terra-Nova/History/Lore Documents/Fading Wonder.md",
-    "Terra-Nova/History/Lore Documents/Scales and Swords.md",
     "Arkfall/Worlds/Earth",
     "Arkfall/Groups",
     "Arkfall/Worlds",
