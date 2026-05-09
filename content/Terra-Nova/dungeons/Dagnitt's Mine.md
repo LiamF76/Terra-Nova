@@ -14,9 +14,9 @@ The dwarves were killed by a disease called the Necrosurge. Created by Gravebind
 
 DM NOTE: Big combat, lots of little dwarves, a dwarf, captain, and a troll. They will need to use the molten iron and windlance to win.
 
-*Set the Scene*: TBD
+*Set the Scene*: As you descend the dwarven halls, the walls are lined with histories, carvings that depict the dwarves who dug these tunnels and the labors they suffered to build this place. Slowly you descend the caves until you reach a massive dark cavern, a faint bubbling sound can be heard and light shines from massive pits of molten metal set into the floor. A raised platform in the middle of the room bears one large hanging lantern, and a Dwarven Windlance (ballista) sits on the center.
 
-TBD
+As you step into the room, you hear the clatter and clangs of metal, and strange blue dots appear, the eyes of the undead! A horde of raised Dwarved appear, one bearing a massive chain wrapped around the neck of a Cave Troll! Everyone roll initiative.
 
 **Enemies**: 1x troll, 1x bandit captain, 10x bandit
 - *ADD UNDEAD WEAKNESS TO RADIANT DAMAGE TO ALL BANDITS ->*
@@ -34,6 +34,7 @@ creature: Bandit
 ```
 
 **Mechanics**:
+- **Raised Platform**: The raised platform has small walls that give half cover (+2 AC and DEX saves).
 - **Dwarven Windlance**: Ballista, +6 top hit, range 120/480, 16 (3d10) piercing damage.
 	- 15 AC, 50HP
 - **Molten Iron Pits**: 3d6 fire damage upon entry and at start of turn
@@ -61,10 +62,9 @@ You get your hands around the silver rat and suddenly the overwhelming noise of 
 
 DM NOTE: Long hallway, if you are taller than 4ft a ballista bolt is shot at you.
 
-*Set the Scene*: TBD
+*Set the Scene*: A long tunnel stretches before you, just barely 5ft wide, and nearly 60ft tall, this long thin passage gives a sense of daunting claustrophobia. At the back wall is a carved stone dwarven face with its mouth open, the inside of the mouth is dark and cannot be seen into.
 
-TBD
-
+When walking down the hall anyone above 4ft gets shot at for 2d6 piercing damage. DC 12 DEX saving throw to duck below the bolts. Designed not to shoot Dwarves because they're short.
 
 ---
 
@@ -74,9 +74,14 @@ TBD
 
 DM NOTE: The ghost of an adventurer haunts this room, he will curse the party if they try to advance, unless they swear an oath to bring his remains (skull), back to his home in the Valley.
 
-*Set the Scene*: TBD
+*Set the Scene*: Before you is a circular room, it is dark, and has many pillars that reach high to the tall ceilings. Against one of the pillars is a skeleton, unmoving and rotting from many years ago. This person is long dead, and clearly not a dwarf. Along the back wall is a large stone door, not locked or shut, just barely open. As you step forward, the spectral blue form of a ghost rises from the skeleton before you!
 
-TBD
+The ghost waves his arms frantically, and begins shouting, "Stop stop! Go no further, lest you wish to suffer the same fate as I and the Dwarves here! There is a sickness from the Scales! Flee, Flee!!"
+
+- he died from a disease in the Dungeon, it's what killed and turned the Dwarves into undead
+- he doesn't want the party to continue
+- if they insist on continuing, he asks that they take his skull and bury it outside Westwood Village, where he lived nearly 100 years ago, so he can finally rest
+- he can't stop them, but threatens them with a curse if they don't do his wish
 
 ---
 
