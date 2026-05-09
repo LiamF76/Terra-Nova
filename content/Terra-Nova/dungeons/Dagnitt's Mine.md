@@ -112,10 +112,14 @@ TBD
 
 ## Room 5: Reward, Revelation, Plot Twist
 
-#### **TBD**
+#### **Treasure of the Mine**
 
 DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
-TBD
+A chest lies beside the throne in the forge, within it is:
+- 10x silver bars worth 25GP each
+- A fine porcelain gilded cup decorated with dragons (worth 100GP)
+- A silver ring bearing symbols of each moon phase, with a hollow circle in the center, MAGICAL! (unknown value)
+  ![[Dagnitt's Mine-1778368734541.webp|500x588]]

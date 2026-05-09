@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "5059bc1847208914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dragon Priest Statblock"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
+                "file": "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +111,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dragon Priest Statblock"
+              "title": "Backlinks for TVBO Session 3"
             }
           },
           {
@@ -177,14 +162,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5059bc1847208914",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Statblocks/Helmed Horror.md",
-    "Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
+    "Terra-Nova/dungeons/Dagnitt's Mine.md",
+    "z Images/Dagnitt's Mine-1778368734541.webp",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
+    "Statblocks/Helmed Horror.md",
     "Templates/Statblock Template.md",
     "Mage.md",
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Wendigo.md",
     "Vault To-Do.md",
     "Terra-Nova/dungeons/The Bloodstone Pass.md",
@@ -193,13 +182,10 @@
     "DungeonScrawl/dagnittBossRoom.ds",
     "DungeonScrawl/bloodstone pass boss.ds",
     "DungeonScrawl",
-    "Terra-Nova/dungeons/Dagnitt's Mine.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
     "Terra-Nova/Geography/Space/Thalun/Nyxaleth.md",
     "conflict-files-obsidian-git.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Organizations/Extraplanar/The Shardbound.md",
     "Terra-Nova/History/Lore Documents/Mirror of Nothing.md",
     "Terra-Nova/History/Lore Documents/It Always Ends in Killing.md",
@@ -207,7 +193,6 @@
     "Terra-Nova/History/Lore Documents/Count your Pieces.md",
     "Terra-Nova/History/Lore Documents/A World of New Gods.md",
     "Fragments of Below.md",
-    "A World of New Gods.md",
     "Arkfall/Worlds/Earth",
     "Arkfall/Groups",
     "Arkfall/Worlds",
@@ -224,7 +209,6 @@
     "Pentium Realm/Working Folder",
     "z Images/TVBO Session 2-1777676333654.webp",
     "z Images/The Sparrow Knight Chapter 6-1776952980941.webp",
-    "z Images/The Sparrow Knight Chapter 6-1776952973868.webp",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
   ]
