@@ -27,7 +27,7 @@ Brainstorm
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
@@ -35,17 +35,13 @@ TBD
 
 **Enemies**: 
 
-```statblock
-creature: 
-```
-
 ---
 
 ## Room 2: Puzzle or Roleplaying Challenge
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
@@ -57,7 +53,7 @@ TBD
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
@@ -69,7 +65,7 @@ TBD
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
@@ -87,7 +83,7 @@ creature:
 
 #### **TBD**
 
-`DM NOTE: Describe the encounter / overview of the room`
+DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
