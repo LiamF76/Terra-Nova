@@ -9,6 +9,8 @@ kanban-plugin: board
 - [ ] [[The Spire of Virtue]]
 - [ ] [[TVBO Session 3]]
 - [ ] [[Dagnitt's Mine]]
+- [ ] [[TVBO Session 4]]
+- [ ] The Bloodstone Pass
 
 
 ## Worldbuilding
