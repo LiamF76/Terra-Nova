@@ -44,7 +44,7 @@ He twists the ring on every possible angle, moving his glasses as close to it as
 
 My face twists in confusion, "You need better glasses friend. Look here, it's clear as day, blue lettering on the inside."
 
-He looks more confused than I do. "I cannot see it, but you can... fascinating." He changes at that moment, like this revelation has made my transaction worth caring about. He studies me more than he studies the ring now.
+He looks more confused than I do. "I cannot see it, but you can... fascinating." His face changes at that moment, like this revelation has made my transaction worth caring about. He studies me more than he studies the ring now.
 
 He hands me back my ring, and I return it to my finger. "You have tomes on language? If I can see it, I can learn the words."
 

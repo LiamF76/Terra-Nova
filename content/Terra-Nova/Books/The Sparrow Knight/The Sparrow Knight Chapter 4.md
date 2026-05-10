@@ -82,7 +82,7 @@ His metal gauntlet reaches my collar, yanking my face to his, "If you want a his
 
 I stare at him in disbelief for a moment before giving him a somewhat absent nod. He doesn't usually get so angry, in fact he had always encouraged my interest in history. He lets go of me, but before I can offer a verbal apology, another voice echoes through the halls from further into the crypt.
 
-"Lord Tarn sent you to kill me didn't he? Strange, it was he that offered me his family's corpses in the first place. I suppose he was hoping his father would be a bit more... intact, when I raised him hm?" It's a sinister and twisted voice, laced with the bile and venom of dark magics.
+"Lord Tarn sent you to kill me, didn't he? Strange, it was he that offered me his family's corpses in the first place. I suppose he was hoping his father would be a bit more... intact, when I raised him hm?" It's a sinister and twisted voice, laced with the bile and venom of dark magics.
 
 I shove Lukas to the side and both of us duck behind a pillar before this mage has the chance to destroy us.
 
@@ -92,7 +92,7 @@ The clatter of bones hits my ears as I dive out from my cover, and with two quic
 
 I hear Petlia shout, a flash of light nearly blinds me, and I see a full undead specter be smote by the Old Man's blessed strike. I know he told me not to gawk, but every time his Oath magic manifests, a true Knight of the Green Mother, it does instill a bit of wonder in my heart. There is still good magic in the hearts of men.
 
-A guttural undead screech reminds me I am in a fight, and another pair of skeletons make their move on me, both leaping from the darkness in opposite directions. They flanked me, and now I have to make a choice on who to fight first. My shield instinctively goes up, blocking the one on my right, and I shove it backwards hard. It slams into the wall and a few ribs fall from its chest, but its still alive. That's fine, I got the opening I needed.
+A guttural undead screech reminds me I am in a fight, and another pair of skeletons make their move on me, both leaping from the darkness in opposite directions. They flanked me, and now I have to make a choice on who to fight first. My shield instinctively goes up, blocking the one on my right, and I shove it backwards hard. It slams into the wall and a few ribs fall from its chest, but it's still alive. That's fine, I got the opening I needed.
 
 I roll, using my shield as a base, and drive my blade through the skull of the one on my left, killing it instantly. The second charges me, and from my crouched position I toss my shield, it shatters the spine and kills it in a single blow.
 

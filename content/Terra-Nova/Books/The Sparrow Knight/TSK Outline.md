@@ -51,8 +51,8 @@ tags:
 ## Parts
 
 - ### Part 1:
-	- Summary: Inayet traveling and learning, gets magic hand and horse
+	- Summary: Inayet traveling and learning, gets magic hand and horse, they reach the Drowning Dream Swamp.
 - ### Part 2: 
-	- Summary: Drowning Dream Swamp arc, they hunt a hydra, Lukas gets kidnapped by cultists who want his celestial gold axe. The henchmen are stupid so they kidnap Lukas and Inayet keeps the axe, he goes into Ark to get Lukas back. Traveling through Ark, final boss is Minotaur who follows Arkonil (cult was searching for divine relics)
+	- Summary: Drowning Dream Swamp arc, they hunt a hydra, make their way through the bogs and Inayet begins to experience painful nightmares of Ivar / Arkonil. Fight a witch / hag. Run into a mage of Tamora, who attacks and defeats them, bringing them back to Tamora (kidnapped). They are able to delay Lukas' death, but Inayet's visions grow more powerful and overwhelm him.
 - ### Part 3:
 	- Summary: 
