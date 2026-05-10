@@ -22,30 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "75398d2d80e64a06",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +162,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "75398d2d80e64a06",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Dashboard.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
     "Terra-Nova/dungeons/Dagnitt's Mine.md",
