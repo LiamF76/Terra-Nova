@@ -22,28 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "0c5ff621949ee728",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Terra-Nova Worldbuilding"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,13 +162,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0c5ff621949ee728",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Terra-Nova/Working Folder/Kanban Boards/Solo Projects.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
     "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
     "Dashboard.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
     "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
     "Terra-Nova/History/Lore Documents/A World of New Gods.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
@@ -210,7 +191,6 @@
     "Wendigo.md",
     "Vault To-Do.md",
     "Terra-Nova/dungeons/The Bloodstone Pass.md",
-    "Dragon Priest Statblock.md",
     "DungeonScrawl/dagnittBossRoom.ds",
     "DungeonScrawl/bloodstone pass boss.ds",
     "DungeonScrawl",

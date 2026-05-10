@@ -42,7 +42,7 @@ tags:
 - [[The Sparrow Knight Chapter 8]]
 	- Traveling to Redwater, Petlia tells the story of the axe. Once belonged to a Knight of the Green who defeated a forest demon in a Scar. It grants its wielder magical strength and vitality. Lukas' disease is partially healed by the axe, making him life longer. They travel and run into priests from New Estorias, talk with them. One of the monks sneaks away and asks to join Inayet and Lukas, introduces Rethus. He wants to travel and help Inayet, believes his magic hand is a sign he is destined for greatness
 - [[The Sparrow Knight Chapter 9]]
-	- summary
+	- Inayet and Lukas get to know Rethus on the road, reach town and get a room for the night. Inayet first dream of 
 - [[The Sparrow Knight Chapter 10]]
 	- summary
 
