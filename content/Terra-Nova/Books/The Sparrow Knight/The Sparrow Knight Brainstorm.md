@@ -40,6 +40,11 @@ These are tentative ideas, see the chapters and summaries for what actually gets
 - Sir Ulric: knight who serves Lord Tarn, decent warrior, dishonorable cheat and thief, steals Pollux by defeating Inayet in a rigged duel.
 - 
 
+The Party:
+- Inayet Sparrow
+- Lukas Petlia
+- 
+
 ---
 
 ## Chapters

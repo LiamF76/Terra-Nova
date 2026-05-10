@@ -148,4 +148,14 @@ My less than sunny mood carries into the next morning, and as I fold my bedroll 
 
 He tosses me his bedroll and I buckle both onto Coffee's back, giving her some thankful pets. "She doesn't do anything Ina. I draw my magic from my Oath. Albeit a sacred one, made to Tena, the Oath is the magic, not Tena." He removes his gloves and flexes his hands, slowly growing moss and a single yellow leafed flower in his palms. "Promises hold a great power, I heard it said once from a Wizard of Tamora that there was no more ancient magic than a sworn Oath. Many great Paladins of the Gods and Knights have made them, and hold their magic as well."
 
-Nodding along as I listen, his words give rise to another question in me, "Then why aren't there more "
+Nodding along as I listen, his words give rise to another question in me, "Then why aren't there more of you?"
+
+He ponders as we both mount up, bidding farewell to the priests.
+
+"I suppose there are, though you've not met any of them. Mostly in my circle were Knights of the Green, an order of Paladins dedicated to Tena and her creations. There are other magic wielding warriors, but it's the same as everywhere else in Escarth my boy, there used to be magic, now there is less."
+
+He sounds wholly unbothered by that, a fact of the world. Once there was something, and slowly it fades, like its inevitable. "And you're fine with that? You carry a great power, and it's fading, don't you want to stop that? Keep your traditions alive?"
+
+"My traditions..." He says wistfully, almost like he has heard someone ask that before. "My traditions are being a good man, working for your keep, and staying strong. My traditions live on in you Inayet."
+
+He doesn't look at me, but I feel the surge of pride in his heart. Before I can respond, the sound of boots on the road catches us before we have a chance to start riding. 
