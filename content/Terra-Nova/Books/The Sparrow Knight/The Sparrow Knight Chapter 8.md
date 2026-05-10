@@ -158,20 +158,4 @@ He sounds wholly unbothered by that, a fact of the world. Once there was somethi
 
 "My traditions..." He says wistfully, almost like he has heard someone ask that before. "My traditions are being a good man, working for your keep, and staying strong. My traditions live on in you Inayet."
 
-He doesn't look at me, but I feel the surge of pride in his heart. Before I can respond, the sound of boots on the road catches us before we have a chance to start riding. We both turn back to see, clad in simple brown robes and carrying a heavy pack, one of the clerics.
-
-"You alright there boy?" I call out, recognizing him as one of the younger members.
-
-He jogs up to us, pulling off his hood, revealing short curved orange horns protruding from his red skinned forehead. Tiefling, a common people to see in New Estorias. Stories go they were cursed when their God was cast into the Abyss, they were forced below as well and the hell changed them, until they were set free by the God Mother.
-
-"Fine set of horns on you there son." Lukas says, leaning forward in his saddle as the young man catches his breath. "You good followers of the Paragon need help?"
-
-He shakes his head no as he breathes heavily. 
-
-"You two... are... adventurers." He manages to blurt out.
-
-We both not expectantly.
-
-"Let me come with you."
-
-Lukas looks at me, raises an eyebrow with a devilish grin, and nods yes before even asking. He kicks Coffee into a trot and begins down the road, his new friend following happily behind. "You'll have to walk of course! Inayet can only summon one magic horse, for now."
+He doesn't look at me, but I feel the surge of pride in his heart. 
