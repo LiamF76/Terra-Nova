@@ -8,7 +8,7 @@ tags:
 
 The thunder outside is like someone banging on the outside of my skull.
 
-I wake up gasping, my body is wrapped in linens that smell faintly of lavender and the old stones of Tarnkeep. For a moment I don't know where I am, only that the room is near to a window, because I can smell thew rain and hear the thunder outside. As I manage to sit myself up in the bed, I can see a narrow window, the rain lashing against it with force like skittering fingers, a bolt of lightning flashes past outside.
+I wake up gasping, my body is wrapped in linens that smell faintly of lavender and the old stones of Tarnkeep. For a moment I don't know where I am, only that the room is near to a window, because I can smell the rain and hear the thunder outside. As I manage to sit myself up in the bed, I can see a narrow window, the rain lashing against it with force like skittering fingers, a bolt of lightning flashes past outside.
 
 A faint rumble goes through the bones of the castle, the faded tapestries and banners in my room flutter, and the small heart fire flickers. It is quaint, but warm enough to satisfy my recovering body.
 
