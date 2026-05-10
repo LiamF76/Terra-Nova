@@ -8,10 +8,6 @@ kanban-plugin: board
 
 - [ ] [[TSK Brainstorm]]
 - [ ] [[TSK Outline]]
-- [x] [[The Sparrow Knight Chapter 8]]
-	
-	- [x] 3500 words
-	- [x] Published
 - [ ] [[The Sparrow Knight Chapter 9]]
 	
 	- [ ] 3500 words
@@ -42,6 +38,10 @@ kanban-plugin: board
 - [x] [[The Sparrow Knight Chapter 5]]
 - [x] [[The Sparrow Knight Chapter 6]]
 - [x] [[The Sparrow Knight Chapter 7]]
+	
+	- [x] 3500 words
+	- [x] Published
+- [x] [[The Sparrow Knight Chapter 8]]
 	
 	- [x] 3500 words
 	- [x] Published

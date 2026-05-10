@@ -11,7 +11,7 @@ kanban-plugin: board
 
 ## Lore Documents
 
-- [ ] [[A World of New Gods]]
+- [x] [[A World of New Gods]]
 	- Thalia
 - [ ] [[The Spell-Carvers]]
 - [ ] [[The City of Prophecy]]
