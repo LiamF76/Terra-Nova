@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,61 +17,11 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "8e25d096a1a52877",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Solo Projects.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Solo Projects"
-            }
-          },
-          {
-            "id": "1740ad6a4be76c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TSK Outline"
-            }
-          },
-          {
-            "id": "e9cf0a1024f58c8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Sparrow Knight Chapter 5"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +160,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e9cf0a1024f58c8d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 5.md",
     "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 3.md",
@@ -242,7 +192,6 @@
     "DungeonScrawl/bloodstone pass boss.ds",
     "DungeonScrawl",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
-    "Terra-Nova/Geography/Space/Thalun/Nyxaleth.md",
     "Arkfall/Worlds/Earth",
     "Arkfall/Groups",
     "Arkfall/Worlds",
