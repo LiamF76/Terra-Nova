@@ -4,6 +4,7 @@ title: The Sparrow Knight Chapter 2
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
 
 The rain continued deep into the night. Petlia took an easy watch, a few travelers passed us by while I was asleep, and he did as the Sunlight Road bids. All travelers who pass must make an exchange, they gave us a fresh cloak, and Lukas imparted them the price of the toll North, they were headed to Silversong. 

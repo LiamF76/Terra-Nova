@@ -4,6 +4,7 @@ title: The Sparrow Knight Chapter 6
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
 
 My feet hurt.

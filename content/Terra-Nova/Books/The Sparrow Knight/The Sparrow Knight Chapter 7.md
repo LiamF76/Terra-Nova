@@ -4,6 +4,7 @@ title: The Sparrow Knight Chapter 7
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
 
 We crest the grassy hill at dawn, my favorite time of day. The morning dew on the blades of grass, the sun barely lighting the world into a perfect twilight. It is a peaceful time, between the horrors of night and labors of day. I always feel uniquely calm while the rest of the world is sleeping.

@@ -4,6 +4,7 @@ title: The Sparrow Knight Chapter 8
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
 
 As we draw closer to the swamp, our encounters with people grow fewer, while those with the wilds become more and more common. Thanks to Pollux and Coffee, we have managed to avoid fights with wolves, the dogs are scared off by a couple big horses and a pair of men. 

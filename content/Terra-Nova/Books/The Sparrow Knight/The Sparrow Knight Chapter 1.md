@@ -4,6 +4,7 @@ title: The Sparrow Knight Chapter 1
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
 
 ## PART 1:

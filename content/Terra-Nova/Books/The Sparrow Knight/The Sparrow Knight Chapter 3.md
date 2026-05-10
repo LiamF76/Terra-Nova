@@ -4,6 +4,7 @@ title: The Sparrow Knight Chapter 3
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
 
 The sun hangs low in the evening as we reach Tarnkeep. a few jabs from Towser came my way, but I don't mind. I would rather he pokes fun at me than at Lukas, the Old Man can barely stand his insults. It isn't hard for Towser, he knows how to rile up Petlia, don't even need to speak ill of him, just call him a liar, sets him in a sour mood for the rest of the day.

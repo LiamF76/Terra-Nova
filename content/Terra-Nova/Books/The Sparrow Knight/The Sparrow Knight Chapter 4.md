@@ -4,6 +4,7 @@ title: The Sparrow Knight Chapter 4
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
 
 I am lucky I did not drink last night, because the trudge up the stone road to the Castle in the rain may have killed me hungover. Petlia is not so lucky, I can see him rubbing his temples as we make our way up the steps.
