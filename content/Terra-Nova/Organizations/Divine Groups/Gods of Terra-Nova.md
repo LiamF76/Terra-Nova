@@ -33,7 +33,7 @@ The principal Gods, this pantheon represents light and darkness, good and evil, 
 | -------------- | --------- |
 | [[Illuman]]    | Light     |
 | [[Balthazaar]] | Darkness  |
-| Mani           | The Moons |
+| [[Mani]]       | The Moons |
 | Malos          | Balance   |
 
 **Religions**: 
