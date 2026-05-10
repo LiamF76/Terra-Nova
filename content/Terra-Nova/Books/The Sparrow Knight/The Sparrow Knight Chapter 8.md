@@ -134,8 +134,8 @@ Oh I wish I could have seen Lukas react to that. "No, afraid not. I'm an adventu
 
 He takes his leave, letting me finish my coffee, but it leaves me with a lingering doubt.
 
-What do I believe in? is my faith limited to my own two hands, my sword, my boots? How can I trust leather on my feet to be more study than the Gods themselves? Does it stretch further, perhaps to Lukas? My truest friend, perhaps I do not even have faith in him.
+What do I believe in? Is my faith limited to my own two hands, my sword, my boots? How can I trust leather on my feet to be more study than the Gods themselves? Does it stretch further, perhaps to Lukas? My truest friend, perhaps I do not even have faith in him.
 
-Returning to the self, is there really faith i hold in me? I am a talented swordsman but I would never take challenge in single combat if it can be avoided, even when I know I can win... perhaps I am lacking in faith.
+I believe in doing good, in protecting people, and stopping anything, monster or man, that wants to do harm to others. Though I do harm to others myself, I have killed, I carry a sword and though I do not seek violence, it finds me. I should make more use of my shield than I do, but somehow, emotionally, the shield is heavier, because its an effort to protect as opposed to attack, it represents something far more difficult than killing. 
 
-I sit toiling in thought for a while, long enough that Lukas awakens, all on his own, for his half of the watch. 
+I sit toiling in thought for a while, long enough that Lukas awakens, all on his own, for his half of the watch. He looks surprised I haven't either fallen asleep myself or shook him awake for his turn yet. He nods to me, but doesn't speak, my face must be giving quite the message, I am exhausted, and I am deep in thought. I lay down in my bedroll, looking out at the stars above me. I hold my ring up to them, watching their light glint off the metal, and I wonder who I might be tomorrow, and where that man is headed.
