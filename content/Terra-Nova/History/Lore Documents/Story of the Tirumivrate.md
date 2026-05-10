@@ -8,7 +8,7 @@ tags:
 
 Dragons are beings of power, born directly from the hands of the Elder Gods. All are the children of Daraan, and of his Prime Creation Fyrnanth. Fyrnanth the firstborn spawned all chromatic, metallic, and crystal dragons. Their nature is dominance, and a need to assert that power upon the world, a need so ancient it cannot be denied or squandered.
 
-The war that formed the Triumvirate Scales was outside the eye of most of the world. It's brutality was rivaled only by the chaos of sealing Balthazaar within the Abyss. Tens of adult dragons died, the land was sundered, burned, and poisoned, never to be green and good again.
+The war that formed the Triumvirate Scales was outside the eye of most of the world. It's brutality was rivaled only by the chaos of sealing [[Balthazaar]] within the Abyss. Tens of adult dragons died, the land was sundered, burned, and poisoned, never to be green and good again.
 
 The victors of this war were three, greatest among the hundred dragons that fought for the right to rule. [[Vesponous]] the cunning liar, whose mind and scheming was lethal. [[Garthrax]] the warrior queen, who brought on her wing storms and lightning as terrible as the storms of Atlas. And [[Gravebinder]], whose grasp of necromancy and thirst for dark knowledge left all who crossed his path in ruin.
 

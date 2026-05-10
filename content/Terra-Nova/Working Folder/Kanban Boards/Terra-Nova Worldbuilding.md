@@ -23,6 +23,11 @@ kanban-plugin: board
 - [ ] [[Count your Pieces]]
 
 
+## Backlog
+
+- [ ] [[Gods of Terra-Nova|Gods]]
+
+
 ***
 
 ## Archive
@@ -32,6 +37,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

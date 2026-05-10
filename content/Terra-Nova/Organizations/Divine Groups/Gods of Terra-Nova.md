@@ -29,12 +29,12 @@ The gods of Terra-Nova are divided into multiple pantheons. Worship can span acr
 
 The principal Gods, this pantheon represents light and darkness, good and evil, and the balance between them represented in the celestial bodies.
 
-| God         | Domain    |
-| ----------- | --------- |
-| [[Illuman]] | Light     |
-| Balthazaar  | Darkness  |
-| Mani        | The Moons |
-| Malos       | Balance   |
+| God            | Domain    |
+| -------------- | --------- |
+| [[Illuman]]    | Light     |
+| [[Balthazaar]] | Darkness  |
+| Mani           | The Moons |
+| Malos          | Balance   |
 
 **Religions**: 
 - [[The Paragon of Rebirth]]

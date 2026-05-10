@@ -24,7 +24,7 @@ Shao's Creations were the world, and Khal's were the Primordials.
 
 As they created, the echoes of their consciousness called out into nothing, and the first Divines followed this call. Shao showed them his world, of which he and his sibling were proud, and offered the divine energies the chance to govern, for the creators could not be players in this game of music.
 
-The first to accept became Illuman, and Shao gave his eldest child the Sun, to shine and show his father all the wonders of their world. Then came Balthazaar, who Shao gave the shadowed and dangerous places that the Sun could not see, so that no shrewd or hidden corner of the world could hide from him. Many more came, and many Gods were born.
+The first to accept became Illuman, and Shao gave his eldest child the Sun, to shine and show his father all the wonders of their world. Then came [[Balthazaar]], who Shao gave the shadowed and dangerous places that the Sun could not see, so that no shrewd or hidden corner of the world could hide from him. Many more came, and many Gods were born.
 
 For the Gods, Khal made the first people, the Aelarians, and they were grateful children. They revered and worshipped their Divine parents, and loved them.
 

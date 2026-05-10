@@ -8,7 +8,7 @@ During the war battle, Arkonil phase activates, Augustus arrives, Adrithyr arriv
 They leave and head for the fortress told by Augustus, "The last thing I saw with my gift, you need to get up there, and you need to do it alone. Quickly, you're almost out of time."
 
 They will reach the top, and during the battle Aldred will activate the Monolith, which will bridge the gap between the Monolith, the Abyss, and the Oakenheart. 
-Marrow will head to the Abyss to destroy it, hoping to free Balthazaar, while Aldred heads towards the Oakenheart. 
+Marrow will head to the Abyss to destroy it, hoping to free [[Balthazaar]], while Aldred heads towards the Oakenheart. 
 
 The party will be heavily weakened by the fight, and be forced to bargain with Kairos, who will offer the party enough time to long rest, in exchange for convincing Clovis to set him free from the Endless Void. They will agree, because Ivys will know there is no other possible way they can win.
 
@@ -19,7 +19,7 @@ As you stand triumphant, your party reuniting at the Monolith with your allies, 
 Kairos speaks behind them laughing quietly, "You all have no idea how much dedication and time it took to ingrain that Day of a Thousand Dawns facade into the timeline, but it appears it was well worth it. Come, turn and face your World Ender."
 
 ### Setup information/ Background
-NEEDED: The 4 Artifacts of Balthazaar
+NEEDED: The 4 Artifacts of [[Balthazaar]]
 - The Red Fang Sword (Marrow has, got from Vulcan)
 - The Black Scale Gauntlet (Marrow has, got from the Wyrmspire)
 - The Serpent's Eye (Aldred has, stole it from the ruins of Tor Vorah)
@@ -31,7 +31,7 @@ What is happening? The party is leading their army against Ivar, and they win th
 
 They do the dungeon, the battle against Ivar/ Arkonil, the battle against Aldred/ Marrow, and they finally win, but the Kairos makes his presence known, and chaos erupts.
 
-Kairos uses his power stored in the Timekeeper's tower to become nigh immortal, and begins to reshape the world around him, the battlefield will erupt, it will feature Balthazaar in chains, the Oakenheart, and the Monolith all in one crazy platform based chaos fest.
+Kairos uses his power stored in the Timekeeper's tower to become nigh immortal, and begins to reshape the world around him, the battlefield will erupt, it will feature [[Balthazaar]] in chains, the Oakenheart, and the Monolith all in one crazy platform based chaos fest.
 
 Kairos is using the sun as a conduit for the temporal energy of his tower, to prevent it from overloading and killing him. (This information will need to be gathered from insights of Kairos' combined with talking to Rovan/ Solstice (HOW IDK YET))
 

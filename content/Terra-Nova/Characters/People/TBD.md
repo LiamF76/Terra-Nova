@@ -14,5 +14,5 @@ Voice: Voice Description
 Description: Appearance & vibe description
 
 Important Info: 
-- Champion of Balthazaar
+- Champion of [[Balthazaar]]
 - 

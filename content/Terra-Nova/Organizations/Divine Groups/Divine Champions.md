@@ -23,7 +23,7 @@ TBD
 | God         | Champion |
 | ----------- | -------- |
 | [[Illuman]] | [[Maro]] |
-| Balthazaar  |          |
+| [[Balthazaar]]  |          |
 | Mani        |          |
 | Malos       |          |
 
