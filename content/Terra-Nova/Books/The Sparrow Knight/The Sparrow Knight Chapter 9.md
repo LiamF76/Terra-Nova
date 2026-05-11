@@ -144,3 +144,31 @@ I let him die.
 I am silent as Pollux carries his body beside me.
 
 I find a small grove, having followed the map I took off Rethus' body. This edge of the river, where Lukas and I were supposed to go north, is as good a place as any. 
+
+I build a small pyre amd lay him on it, removing his heavy metal plate and chainmail. He looks so weak now, but just days ago he was moving like he had been given 20 years back on his life. Now he is pale, cold, and laying on oiled logs, waiting for me to warm him up one last time.
+
+I strike a tinder, and toss it onto his chest. The pyre goes up, and I watch my friend burn beside the river that was supposed to take him home.
+
+Pollux, without my summoning, appears at my side and places his head on my shoulder. "Hey there. I'm alright. That's kind of you, guess you can tell I'm..." I didn't realize I was even crying, "I am a bit upset Pollux. I don't know what I'm supposed to do now..."
+
+The soft starry hair of Pollux's mane brushes across my neck as he turns, looking at the small boat on the riverbed, and then looks north.
+
+He looks back at me, and tilts his head. "I know, I made a promise. Didn't know horses cared about that sort of thing." I toss a few more kindlings on the pyre and walk over to Pollux, petting him gently. "North it is."
+
+"I am so sorry Lukas. I let this happen... suppose you would want a prayer then eh?" I say, fumbling with my hands as I try to remember any prayers Lukas taught me, or tried to.
+
+"I'll just make one up." A deep breath in, and the words flow from me as I watch my oldest friend's body burn. "Lukas Petlia. A Knight of House Petlia, the most honorable, well the only honorable Knight I ever met. You lived a good life. You did right by others, especially by me. You were like a father to me, in moments I knew and didn't know I needed one."
+
+I am still struggling through gasps and spats of crying, but I manage. Pollux listens quietly beside me. "You family was honorable as well, long and respected were the Petlia's, and all your fathers and mothers would be proud of the man you were."
+
+This is the important part. "I am sorry I let you die. I wasn't... strong enough. You sacrificed your family relic to me, to save me. So in kind with your sacrifice, I will make you a promise... an Oath."
+
+The wind stops for a moment, and the world holds its breath as I swear on my own soul. "I, Inayet Sparrow, swear on the Old God, Daraan, that I will return you to your home, and scatter your ashes along the roots of the Ironwood trees. I swear I will not allow another to die due to my weakness again, and I swear, just as you had always hoped, to find my destiny. Whatever it may be, I will find it. I love you Lukas, thank you."
+
+I wipe a tear from my cheek, and am taken back by its color, slightly tinted with flecks of gold.
+
+Magic.
+
+Perhaps my Oath... had been more than a promise to a friend.
+
+"Whoever is listening!" I declare to the empty sky above me. "I will bring him home! I will keep this Oath. Grant me the strength to see. this errand through. For Lukas Petlia."
