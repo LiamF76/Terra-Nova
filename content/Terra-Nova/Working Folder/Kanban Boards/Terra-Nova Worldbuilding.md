@@ -11,7 +11,7 @@ kanban-plugin: board
 
 ## Lore Documents
 
-- [ ] [[A World of New Gods]]
+- [x] [[A World of New Gods]]
 	- Thalia
 - [ ] [[The Spell-Carvers]]
 - [ ] [[The City of Prophecy]]
@@ -23,6 +23,11 @@ kanban-plugin: board
 - [ ] [[Count your Pieces]]
 
 
+## Backlog
+
+- [ ] [[Gods of Terra-Nova|Gods]]
+
+
 ***
 
 ## Archive
@@ -32,6 +37,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

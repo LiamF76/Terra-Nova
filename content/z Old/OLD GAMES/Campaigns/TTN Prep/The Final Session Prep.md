@@ -11,7 +11,7 @@ You met with Hannibal, facing him in combat and defeating him, showing your grow
 
 After defeating Hannibal he honored you all, and forfeited his life to you Ivys, did you kill him?
 
-Then we gathered our forces, Kairos, Promise, Egreth, Rosalind, Tarot, and Merekas. We were joined, through a subconscious temporal gateway, by the pair of Melantha and Alabaster, bearing the blessing of Balthazaar and Khal Daraan. Sent by the evil gods of destruction and chaos, your allies brought word, even the enders of the world do not with for this end to come, for when the world does end, they want to do it themselves.
+Then we gathered our forces, Kairos, Promise, Egreth, Rosalind, Tarot, and Merekas. We were joined, through a subconscious temporal gateway, by the pair of Melantha and Alabaster, bearing the blessing of [[Balthazaar]] and Khal Daraan. Sent by the evil gods of destruction and chaos, your allies brought word, even the enders of the world do not with for this end to come, for when the world does end, they want to do it themselves.
 
 Melantha brought them the promise of victory, alongside the promise of freeing the gods devoured by Khal Daraan, and to usher in a great holy era of Divines, and a hundred new champions alongside them. Champions and priests to shepherd mortals through the darkness and chaos that will follow the great battle ahead.
 

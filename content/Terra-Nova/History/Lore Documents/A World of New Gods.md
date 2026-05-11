@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: A World of New Gods
 aliases:
 tags:
@@ -26,7 +26,7 @@ The answer lies beneath the world.
 
 ---
 
-When Khal Daraan awakened, and did bargain with the God Mother at the end of the world, he agreed once again to rest, but not to sleep. 
+When Khal Daraan awakened, and did bargain with the God Mother at the edge of the world, he agreed once again to rest, but not to sleep. 
 
 The Gods do not forsake their mortal worshipers, but they are afraid. They fear not the champions of evil, no Arkonil or dragon of the Triumvirate, they fear Destruction itself, Khal Daraan, resting, and imprisoned within the world, but awake all the same.
 
@@ -38,4 +38,4 @@ The world now exists in a strange balance, both richer in divinity and poorer in
 
 Khal Daraan waits. The Gods endure. And the champions walk forward, bearing a faith heavier than ever before.
 
-Was this bargain worth it? To buy a few years, be they hundreds or thousands, before the end of the world? Perhaps, perhaps not. Only time will tell, and the tower is always ticking...
+Was this bargain worth it? To buy a few years, be they hundreds or thousands, before the end? Perhaps, perhaps not. Only time will tell, and the tower is always ticking...

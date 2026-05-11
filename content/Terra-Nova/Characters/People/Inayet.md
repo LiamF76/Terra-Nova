@@ -1,3 +1,13 @@
+---
+publish: false
+title: Inayet
+aliases:
+  - The Sparrow Knight
+tags:
+  - Terra-Nova
+  - The-Sparrow-Knight
+---
+
 ![[Pasted image 20260228152106.webp| 300]]
 
 Name: **Inayet** Sparrow, The Sparrow Knight

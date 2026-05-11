@@ -1,9 +1,10 @@
 ---
-publish: false
+publish: true
 title: The Sparrow Knight Chapter 8
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
 
 As we draw closer to the swamp, our encounters with people grow fewer, while those with the wilds become more and more common. Thanks to Pollux and Coffee, we have managed to avoid fights with wolves, the dogs are scared off by a couple big horses and a pair of men. 
@@ -118,7 +119,7 @@ The look on my face must have made it obvious how I felt about religion. "You do
 
 "I do not have faith in Gods. And you can stop calling me Sir, I am not a knight." Another sip of coffee has me feeling quite awake.
 
-Urithus looks very surprised at that, and responds with a strange disappointment in his voice. "Forgive my surprise then, Inayet Sparrow. I had assumed with your visage, statue, and magical equipments, you were a Knight. Perhaps even... a Divine Champion."
+Urithus looks very surprised at that, and responds with a strange disappointment in his voice. "Forgive my surprise then, Inayet Sparrow. I had assumed with your visage, statue, and magical equipment, you were a Knight. Perhaps even... a Divine Champion."
 
 Oh I wish I could have seen Lukas react to that. "No, afraid not. I'm an adventurer, worked as a caravan guard for a while. No Gods or magic to speak of save that which I have stumbled into. In fact I have always made some effort to avoid such things."
 
@@ -134,8 +135,28 @@ Oh I wish I could have seen Lukas react to that. "No, afraid not. I'm an adventu
 
 He takes his leave, letting me finish my coffee, but it leaves me with a lingering doubt.
 
-What do I believe in? is my faith limited to my own two hands, my sword, my boots? How can I trust leather on my feet to be more study than the Gods themselves? Does it stretch further, perhaps to Lukas? My truest friend, perhaps I do not even have faith in him.
+What do I believe in? Is my faith limited to my own two hands, my sword, my boots? How can I trust leather on my feet to be more study than the Gods themselves? Does it stretch further, perhaps to Lukas? My truest friend, perhaps I do not even have faith in him.
 
-Returning to the self, is there really faith i hold in me? I am a talented swordsman but I would never take challenge in single combat if it can be avoided, even when I know I can win... perhaps I am lacking in faith.
+I believe in doing good, in protecting people, and stopping anything, monster or man, that wants to do harm to others. Though I do harm to others myself, I have killed, I carry a sword and though I do not seek violence, it finds me. I should make more use of my shield than I do, but somehow, emotionally, the shield is heavier, because its an effort to protect as opposed to attack, it represents something far more difficult than killing. 
 
-I sit toiling in thought for a while, long enough that Lukas awakens, all on his own, for his half of the watch. 
+I sit toiling in thought for a while, long enough that Lukas awakens, all on his own, for his half of the watch. He looks surprised I haven't either fallen asleep myself or shook him awake for his turn yet. He nods to me, but doesn't speak, my face must be giving quite the message, I am exhausted, and I am deep in thought. I lay down in my bedroll, looking out at the stars above me. I hold my ring up to them, watching their light glint off the metal, and I wonder who I might be tomorrow, and where that man is headed.
+
+---
+
+My less than sunny mood carries into the next morning, and as I fold my bedroll and break down my tent, Lukas keeps glancing at me. He wants to ask what's wrong, but he knows I'll brush it off, so I decide it's time to break the tension.
+
+"Lukas, I've always wondered... your magic is amazing, the healing you can do, and the little growing plants trick, why does Tena bless you with such a power?"
+
+He tosses me his bedroll and I buckle both onto Coffee's back, giving her some thankful pets. "She doesn't do anything Ina. I draw my magic from my Oath. Albeit a sacred one, made to Tena, the Oath is the magic, not Tena." He removes his gloves and flexes his hands, slowly growing moss and a single yellow leafed flower in his palms. "Promises hold a great power, I heard it said once from a Wizard of Tamora that there was no more ancient magic than a sworn Oath. Many great Paladins of the Gods and Knights have made them, and hold their magic as well."
+
+Nodding along as I listen, his words give rise to another question in me, "Then why aren't there more of you?"
+
+He ponders as we both mount up, bidding farewell to the priests.
+
+"I suppose there are, though you've not met any of them. Mostly in my circle were Knights of the Green, an order of Paladins dedicated to Tena and her creations. There are other magic wielding warriors, but it's the same as everywhere else in Escarth my boy, there used to be magic, now there is less."
+
+He sounds wholly unbothered by that, a fact of the world. Once there was something, and slowly it fades, like its inevitable. "And you're fine with that? You carry a great power, and it's fading, don't you want to stop that? Keep your traditions alive?"
+
+"My traditions..." He says wistfully, almost like he has heard someone ask that before. "My traditions are being a good man, working for your keep, and staying strong. My traditions live on in you Inayet."
+
+He doesn't look at me, but I feel the surge of pride in his heart. 

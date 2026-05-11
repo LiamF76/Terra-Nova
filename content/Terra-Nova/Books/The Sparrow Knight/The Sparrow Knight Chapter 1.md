@@ -4,7 +4,10 @@ title: The Sparrow Knight Chapter 1
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
+
+## PART 1:
 
 The crunch of dry leaves beneath the wagon's wheels plays beautifully over the sound of the river at my side. I flex my shoulders and pull my helmet off, fastening it to my back and tossing it into the back of the wagon as I step up beside it. My nose may be a bit crooked, broken in a tussle with dire wolves a few years back, it had no trouble catching the scents of crisp air, damp earth, and spellfire. Alcor's magical torch glowed with a mystical light, as if its flame was encased in a hue of pure mana that gleamed pink in the heat. As the wagon passes over a small divot in the dirt road, it dips, the wheel creaking angrily as the two horses muscle the wagon forward. Alcor jumps a little, turning in a panic to inspect for damages. They call him the Coin because of how successful his caravan has been, but there's nothing he hates to repair more than his precious wagon.
 
@@ -64,9 +67,9 @@ His voice is low, this is always where his delusional grandeur fades, "The Recko
 
 I scrunch my lips together in an attempt not to laugh. I succeed, Alcor does not. "You want, haha, me to believe, oh gods that's good, hahaha, that the Reckoner ate your forest with a portal to the Abyss? Oh, lords have mercy on me, Petlia you are a lucky man that you wield your axe better than you do your memory."
 
-The sparrows come alive as I burst into laugher as well. Alcor has me going now, Lukas chuckles as he defends his position. "You two are young! Many things sound ridiculous to the close minded! Now I admit I have never visited, but my great great great grandfather once saw an Ironwood tree, said it was the last of the great forest! I'm not lying you whelps!"
+The sparrows come alive as I burst into laugher as well. Alcor has me going now, Lukas chuckles as he defends his position. "You two are young! Many things sound ridiculous to the close minded! Now I admit I have never visited, but my great great-great-grandfather once saw an Ironwood tree, said it was the last of the great forest! I'm not lying you whelps!"
 
-I feel my nose twitch as a spec of dust runs along my face, I catch a whiff of something, a bit of iron in the air, rain. I look up and through the breaks in the branches in the trees I can see dark clouds on the horizon, though they do look far off. 
+I feel my nose twitch as a spec of dust runs along my face and catch a whiff of something. It's a bit of iron in the air, rain. I look up and through the breaks in the branches in the trees I can see dark clouds on the horizon, though they do look far off. 
 
 "Storm clouds coming Alcor, we may want to hoof it to the Inn, roads won't be rideable with the wagon in the rain. Though they may pass over. If we ride too hard the horses will be tired tomorrow. Any advice old man?" I say, pulling the hood of my cloak up and tightening my belt. May have to run if it flashes rain on us, I don't like being wet.
 
@@ -106,7 +109,7 @@ I lift his helmet from the grass and place it in my lap, collapsing beside the o
 
 I fire a question at him, "Just what in the name of Daraan was so important you had to call me over here?" But before he can process it, I see his finger, pointing directly upwards. I follow it and peer up into the branches, a nest.
 
-Its small but I can see it, twigs and leaves piled into a small bird's nest. Lukas lets out a faint chirping, I recognize the call, I remember he learned it the week after we met the first time. Sounds just like a sparrow.
+It's small but I can see it, twigs and leaves piled into a small bird's nest. Lukas lets out a faint chirping, I recognize the call, I remember he learned it the week after we met the first time. Sounds just like a sparrow.
 
 Three little bird heads peak out, they have the same unique blue cresting that all Sovrentian sparrows share. It's my favorite part of the little birds. 
 
@@ -128,7 +131,7 @@ As I turn to look at him, I realize just how old he really looks. His skin is wi
 
 He holds out his hand, and I place the knife in it. I close my eyes for a moment, listening to the sound of the rain, and the sparrows above.
 
-"Its got good balance." He says, as I hear a faint creaking in the tree. "Sharp too."
+"It's got good balance." He says, as I hear a faint creaking in the tree. "Sharp too."
 
 My eyes shoot open as I realize the method by which he found out my knife is sharp. "Don't run it along the tree! You'll dull the blade that I spent hours cleaning yesterday!"
 

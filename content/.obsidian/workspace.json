@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "e0df47e71dbf485d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TSK Outline"
+            }
+          },
+          {
+            "id": "a9e7824b66ef34f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Sparrow Knight Chapter 9"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,11 +181,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a9e7824b66ef34f1",
   "lastOpenFiles": [
+    "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Solo Projects.md",
+    "Dashboard.md",
+    "conflict-files-obsidian-git.md",
+    "z Images/Dagnitt's Mine-1778368734541.webp",
+    "z Images/Balthazaar-1778455333557.webp",
+    "Terra-Nova/dungeons/The Bloodstone Pass.md",
+    "Terra-Nova/Characters/Extraplanar/Gods/Mani.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
+    "Terra-Nova/Books/The Sparrow Knight/TSK Brainstorm.md",
+    "Templates/Statblock Template.md",
+    "Statblocks/Old Statblocks/zyrathia voidcaller.png",
+    "Statblocks/Old Statblocks/zombie.png",
+    "Statblocks/Old Statblocks/young white dragon.png",
+    "Statblocks/Old Statblocks/young silver dragon.png",
+    "Statblocks/Old Statblocks/young cave dragon.png",
+    "Statblocks/Old Statblocks/young blue dragon zombie.png",
+    "Statblocks/Old Statblocks/wyrmwood root.png",
+    "Statblocks/Old Statblocks/wyrmwood queen.png",
+    "Statblocks/Old Statblocks/Friend Fiend.md",
+    "Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
+    "Statblocks/Old Statblocks",
+    "Statblocks/Homebrew Blocks",
+    "Statblocks",
+    "DungeonScrawl/dagnittBossRoom.ds",
+    "DungeonScrawl/bloodstone pass boss.ds",
+    "DungeonScrawl",
     "Terra-Nova/dungeons/Dagnitt's Mine.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Dashboard.md",
     "Terra-Nova/History/Lore Documents/Fragments of the Past.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/History/Lore Documents/It Always Ends in Killing.md",
@@ -168,37 +224,10 @@
     "Terra-Nova/History/Lore Documents/Count your Pieces.md",
     "Terra-Nova/History/Lore Documents/Mirror of Nothing.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 10.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 5.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 3.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 2.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
-    "Arkfall/Groups/AI.md",
-    "conflict-files-obsidian-git.md",
     "Arkfall/Lore/Logs",
     "Arkfall/Lore",
     "Arkfall/Groups",
-    "Arkfall/Worlds/Earth",
-    "Arkfall/Worlds",
-    "Arkfall",
-    "z Images/Rakesh-1777922218315.webp",
-    "z Images/Fading Wonder-1777920885789.webp",
-    "z Images/Fading Wonder-1777920806661.webp",
-    "z Images/The Night of Twisting Stars-1777920754725.webp",
-    "z Images/The Night of Twisting Stars-1777920628224.webp",
-    "z Images/The Night of Twisting Stars-1777916079434.webp",
-    "Terra-Nova/Creatures/Leaf Dragon",
-    "Terra-Nova/Creatures",
-    "z Images/Austin-1777846248601.webp",
-    "Terra-Nova/videos",
-    "Terra-Nova/dungeons",
-    "Terra-Nova/Spells/winged barrage.jpg",
-    "Terra-Nova/Spells/voidBomb.jpg",
-    "Terra-Nova/Spells/void mass.jpg"
+    "Arkfall/Worlds/Earth"
   ]
 }

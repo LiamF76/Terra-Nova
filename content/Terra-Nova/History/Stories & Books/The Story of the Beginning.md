@@ -4,7 +4,7 @@ We start at the very beginning, eons before recorded history, when there was no 
 
 This creation and world acted as a beacon to the divine souls of the cosmos, formless celestial entities that Shao Daraan offered a place in his Pantheon. In exchange for form, power, and presence, Shao Daraan only asked that the gods allow their followers to be protected by them and they would be bound by worship.
 
-Daraan made a divine rule, that any who lost all of their believers, would be unmade, forgotten, unwritten from existence. Those that agreed were given names, forms, and chose domains. Illuman was first, the eldest, and he chose the Sun, Nova-Magnus, as his power. Then came Balthazaar, who chose the dark, the antithesis to his now brother Illuman. After that came many many more, too many to name.
+Daraan made a divine rule, that any who lost all of their believers, would be unmade, forgotten, unwritten from existence. Those that agreed were given names, forms, and chose domains. Illuman was first, the eldest, and he chose the Sun, Nova-Magnus, as his power. Then came [[Balthazaar]], who chose the dark, the antithesis to his now brother Illuman. After that came many many more, too many to name.
 
 When the gods had become, Daraan birthed the children they must protect and be worshipped by, the firstborn mortals, the Aelarian elves. Then came dwarves, the children of the earth.
 
@@ -12,9 +12,9 @@ Then came other races, born from the ancient primordial and eldritch beings that
 
 In addition Shao Daraan created 12 beings of immense power, some aligned with good, others not. They became known as the 12 prime creations, pledges to defend the mortals. The gods sought to protect their children, and gave them the power to use magic, to defend themselves from the chaos of their short violent lives.
 
-The gods were at peace, for many years the world lives in radiant prosperity, until Balthazaar rose against his brother. The Night Serpent south to show his dominance over the Sun, and attempted to devour it, to plunge creation into darkness. The gods united, and together were able to defeat Balthazaar, chaining him to the lowest point of creation, the Abyss. 
+The gods were at peace, for many years the world lives in radiant prosperity, until [[Balthazaar]] rose against his brother. The Night Serpent south to show his dominance over the Sun, and attempted to devour it, to plunge creation into darkness. The gods united, and together were able to defeat [[Balthazaar]], chaining him to the lowest point of creation, the Abyss. 
 
-This battle devasted the mortal populations, and caused a great change in the landscape of the world. Many gods fell, their names forgotten, but the one remembered is Tena, who gave her life to keep Balthazaar imprisoned.
+This battle devasted the mortal populations, and caused a great change in the landscape of the world. Many gods fell, their names forgotten, but the one remembered is Tena, who gave her life to keep [[Balthazaar]] imprisoned.
 
 This devastation was overcome, the mortals thrived, and with their magic they rose to heights unprecedented to the gods. The Aelarians built a great floating city on the sea, known as Atlas, and they created their own elementals, giants of untold arcane power known as Titans. They built divine gates, allowing them to explore through all the planes of existence. 
 

@@ -12,7 +12,7 @@ Hello and welcome to another exciting installment of Tales of Terra-Nova I am yo
 
 [[Agamemnon]]
 [[Red Guard Drake.png]]
-[[Terra-Nova/Resources/Statblocks/Old Statblocks/Balor.png]]
+[[Statblocks/Old Statblocks/Balor.png]]
 [[abyssal_hunter.png]]
 
 

@@ -9,7 +9,7 @@ Reister. You stand face to face with the ever shifting sandy liquid metal visage
 
 "You must find the resting place of the weapons of the first true hero of men, the Golden Demigod, the son of Light and mortals, King of Kings, Lazarus. Find his weapon, his treasure, and you will have a chance to stop Arkonil, and the greater foe that comes after."
 
-"This Aldred... priest of Balthazaar, has been appointed to a new lord now. He is working with Vaior, and with someone else... something else... a dark foe, a threat akin to Arkonil from days long past in the memory of a forgotten god like me. You cannot stop the ascension, but you can stop the disease of primordial hatred and darkness."
+"This Aldred... priest of [[Balthazaar]], has been appointed to a new lord now. He is working with Vaior, and with someone else... something else... a dark foe, a threat akin to Arkonil from days long past in the memory of a forgotten god like me. You cannot stop the ascension, but you can stop the disease of primordial hatred and darkness."
 
 "Do you accept this mission my Champion?"
 

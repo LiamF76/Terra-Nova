@@ -4,11 +4,12 @@ title: The Sparrow Knight Chapter 5
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
 
 The thunder outside is like someone banging on the outside of my skull.
 
-I wake up gasping, my body is wrapped in linens that smell faintly of lavender and the old stones of Tarnkeep. For a moment I don't know where I am, only that the room is near to a window, because I can smell thew rain and hear the thunder outside. As I manage to sit myself up in the bed, I can see a narrow window, the rain lashing against it with force like skittering fingers, a bolt of lightning flashes past outside.
+I wake up gasping, my body is wrapped in linens that smell faintly of lavender and the old stones of Tarnkeep. For a moment I don't know where I am, only that the room is near to a window, because I can smell the rain and hear the thunder outside. As I manage to sit myself up in the bed, I can see a narrow window, the rain lashing against it with force like skittering fingers, a bolt of lightning flashes past outside.
 
 A faint rumble goes through the bones of the castle, the faded tapestries and banners in my room flutter, and the small heart fire flickers. It is quaint, but warm enough to satisfy my recovering body.
 
@@ -46,7 +47,7 @@ He chuckles in a highborn accent, how does a laugh even have an accent? Its damn
 
 "It saved you from losing your arm, but the infection will still spread through the blood. We must stop the flow, and you are lucky a Tarn is here to do it."
 
-His eyes meet mine, and a spectral glint falls over them, like light passing through a crystal. "My family is a sorcerous bloodline, our ancestry is magic, there are few left with this power. We are born of the great basilisk, Thauxxos. I can turn, " he says, running his finger gently along the upper limit of my curse, just below the elbow joint. "all of this, to stone. Enchanted stone. You will be able to move it, it will be just as it was, perhaps stronger."
+His eyes meet mine, and a spectral glint falls over them, like light passing through a crystal. "My family is a sorcerous bloodline, our ancestry is magic, there are few left with this power. We are born of the great basilisk, Thauxxos. I can turn," he says, running his finger gently along the upper limit of my curse, just below the elbow joint. "all of this, to stone. Enchanted stone. You will be able to move it, it will be just as it was, perhaps stronger."
 
 I raise an eyebrow at the offer, "What's the catch then?" Knowing this is too good to be true.
 
@@ -66,7 +67,7 @@ The infection is trapped in my hand, but my whole body feels numb. Damn it all.
 
 I don't remember much of the strange ritual they performed, only that it was important I stayed conscious. I didn't. Once they opened up my arm, had Lord Tarn stare at me a bit too deeply for me to keep eye contact, and start literally pouring his (somehow green) saliva into the wound, I passed out from the shock and pain.
 
-When I awoke however, the pressure, the weight, and that necromantic cold, were gone. They were replaced with something else, a strength, like my two feet had been molded so firmly with the earth not even Balthazaar could knock me down.
+When I awoke however, the pressure, the weight, and that necromantic cold, were gone. They were replaced with something else, a strength, like my two feet had been molded so firmly with the earth not even [[Balthazaar]] could knock me down.
 
 My entire forearm had been reforged like a mountain. The skin was darker, but still skin, though all those blackened and cursed veins shone silver, like ore in the earth. It felt like I could lift anything, and Tarn had me test it, he brought me a chair, I shattered it. A stone altar in his castle? I broke it in half with one downward swing of the new limb. It was unnatural, and amazing.
 
@@ -96,7 +97,7 @@ Souls living in trees forever, that's a strange belief. "What happens if someone
 
 "Sounds like revenge, and you wouldn't let me have any of that."
 
-"You're better for it. Revenge is not for men, revenge is for the trees and the rivers, the mountains and the seas. When a man cuts down a tree, another grows behind his house, and the roots grow into his cellar. in fifty years his house collapses and kills him. It is slow, and it is fair, but it is not ours to decide. I better not need to remind you not to get tied up with that Aton worshipping lot now boy."
+"You're better for it. Revenge is not for men, revenge is for the trees and the rivers, the mountains and the seas. When a man cuts down a tree, another grows behind his house, and the roots grow into his cellar. In fifty years his house collapses and kills him. It is slow, and it is fair, but it is not ours to decide. I better not need to remind you not to get tied up with that Aton worshiping lot now boy."
 
 I laugh, and go to clap him on the back, but I stop before I let my new hand send him flying off the bench.
 
@@ -106,11 +107,11 @@ I laugh, and go to clap him on the back, but I stop before I let my new hand sen
 
 He grumbles, "Nobody is taking me anywhere, except you. I want to go home Inayet, and hopefully we find that destiny of yours on the road."
 
-I take a breath in and ask a painfully honest question. "Do you think I might be someone who doesn't have a destiny Lukas? I think, perhaps, I am beset to the background of this world. I am quite happy to help people, and you, along on grand journeys. I don't think there is one out there for me, not one I would want anyway."
+I take a breath in and ask a painfully honest question. "Do you think I might be someone who doesn't have a destiny Lukas? I think, perhaps, I am beset to the background of this world. I am quite happy to help people, and you, along on grand journeys. Honestly, I don't think there is one out there for me, not one I would want anyway."
 
 "Keep talking like that and there'll be trouble for you. Speak of having no destiny longingly while overlooking the land like this, straight from one of those plays they do in Agamarth. You know the ones, the Elven tragedies, like the divine champions of the ancient times who watched the first city fall into the sea. They thought they were bigger than destiny."
 
-I shrug and stand up, walking forward to lean on the railing, absent mindedly pointing North, beyond the Small Divide mountains, beyond the Dreadlands and the Gilded Range, even beyond the dragon wilds of the Triumvirate Scales. It is so far I can barely comprehend it. "Lucky me then. I don't particularly like the ocean anyway. But it may be interesting at least, I do have a disdain for Knights and Lords."
+I shrug and stand up, walking forward to lean on the railing, absent-mindedly pointing North, beyond the Small Divide mountains, beyond the Dreadlands and the Gilded Range, even beyond the dragon wilds of the Triumvirate Scales. It is so far I can barely comprehend it. "Lucky me then. I don't particularly like the ocean anyway. But it may be interesting at least, I do have a disdain for Knights and Lords."
 
 "What might be interesting?" I can hear the tone of his voice, is it intrigue, concern, or both?
 

@@ -7,7 +7,7 @@ TIMELINE:
 - The battle begins in full, Crownbreaker army is trapped between the mountain and the Young Wolves army.
 - The battle goes well, and the party cuts the Crownbreaker army in half (Fiona captures Verrow in a wall of force prison.)
 - As the Young wolves gain sight of Thargoth, his giant hammer beating on the gates of Bourn Dorhul, the battle shifts as enemies appear to be coming from behind them. 
-- Chaos erupts as the sundering beings, the pillars come alive by some spell being cast by Damion Syrell. (He self deletes using a Balthazaar dagger) A giant rift to the Abyss opens across the world.
+- Chaos erupts as the sundering beings, the pillars come alive by some spell being cast by Damion Syrell. (He self deletes using a [[Balthazaar]] dagger) A giant rift to the Abyss opens across the world.
 - The Young Wolves begin to lose, Mervin grabs Melantha on the shoulder and tells her they need to retreat, they've lost half their army.
 - The party retreats into Bourn Dorhul, trapped there for days during the siege.
 - Argentus sends the party to awaken the titan beneath the mountain (they go get Aurelionite/ do the Lost Halls of Durik).

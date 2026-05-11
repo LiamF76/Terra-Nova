@@ -4,6 +4,7 @@ title: The Sparrow Knight Chapter 3
 aliases:
 tags:
   - Terra-Nova
+  - The-Sparrow-Knight
 ---
 
 The sun hangs low in the evening as we reach Tarnkeep. a few jabs from Towser came my way, but I don't mind. I would rather he pokes fun at me than at Lukas, the Old Man can barely stand his insults. It isn't hard for Towser, he knows how to rile up Petlia, don't even need to speak ill of him, just call him a liar, sets him in a sour mood for the rest of the day.
@@ -44,7 +45,7 @@ He twists the ring on every possible angle, moving his glasses as close to it as
 
 My face twists in confusion, "You need better glasses friend. Look here, it's clear as day, blue lettering on the inside."
 
-He looks more confused than I do. "I cannot see it, but you can... fascinating." He changes at that moment, like this revelation has made my transaction worth caring about. He studies me more than he studies the ring now.
+He looks more confused than I do. "I cannot see it, but you can... fascinating." His face changes at that moment, like this revelation has made my transaction worth caring about. He studies me more than he studies the ring now.
 
 He hands me back my ring, and I return it to my finger. "You have tomes on language? If I can see it, I can learn the words."
 
