@@ -83,4 +83,64 @@ My feet are awake, but my mind is not. I slept deeply this afternoon, a nap befo
 
 There is a strange thickness to the fog in this swamp, it feels like a sickening, just barely noticeable magic. No surprise in a place called 'The Drowning Dream', I had a nightmare. That is what has addled my mind this evening, a terrible dream that made my eyes flutter in need of rest, but I have no chance to sleep now.
 
-I gave Lukas back his helmet, I wasn't going to wear it, so he may as well. Going to need all the protection we can get against this beast. Hydras are quite dangerous, and normally I wouldn't fight one at all, much less with only two of us, but we had no choice if we wanted to get North as quickly as possible. 
+I gave Lukas back his helmet, I wasn't going to wear it, so he may as well. Going to need all the protection we can get against this beast. Hydras are quite dangerous, and normally I wouldn't fight one at all, much less with only two of us, but we had no choice if we wanted to get north as quickly as possible. They are vicious, cruel, and cunning hunters, not to mention the whole head regrowth problem. Hopefully with Lukas' and my new strength combined, we would be able to hold the thing long enough for Rethus to pierce its heart with his magic.
+
+I hadn't taken him for a mage, but he knew some rudimentary fire cantrips, enough to cauterize a Hydra neck before it regrows, or if we could get it belly up, to kill the thing. What's more worrying was if we did have to fight it, my sword is well-made, but it's not magic. Simple steel, good against most things, but a monster like a Hydra will barely feel a slash against its scales from me. It'll be up to Lukas and Rethus, only one of which I feel comfortable putting my faith in.
+
+It's doable, and Lukas is confident, I can see it in his stride as he carries his weapon, that thing makes him feel invincible, he may well be. All we have to do, is pray this goes to plan.
+
+---
+
+The plan falls to pieces as soon as the first head shoots out of the water. 
+
+"Left!" I shout, already moving.
+
+Lukas dives clear. Rethus doesn’t.
+
+The jaws snap shut around his leg with a wet crack, dragging him under before I can reach him. No scream. Just a churn of filthy water, then nothing.
+
+Dead, just like that. The other two heads rise slowly, the water slides off the slick grey skin of the monster in a sickening wave. 
+
+"Out of its reach!" I yell. "I'll flip it—then you cleave it!"
+
+He nods and charges.
+
+Lukas is fast, waving his shiny gold weapon, drawing the attention of one of the heads. A smattering of bubbles rise and pop from the center, the middle one is busy eating, which leave me engaged with the last one.
+
+I dodge past two bursts of venom, it sizzles and melts a tree behind me, if that hits anything but my hand I'm dead. I charge forwards, pounding my boots into the dirt as hard as I can.
+
+The ground vanishes beneath my feet and I launch myself forward, arms locking around the creature’s neck. It thrashes, slimy muscles bucking, but I clamp down harder, twisting as we crash together into the swamp.
+
+The world spins. Mud. Water. Pain.
+
+I heave and feel the balance shift.
+
+The hydra slams onto its back.
+
+A scream from Lukas draws my attention, and as I land with the Hydra flipped over, I look over smiling triumphantly. "How's that! Now kill it Lukas!" I shout, but I realize it was not a scream of celebration. 
+
+Blood pours down his arm. One head has torn deep into the muscle, leaving his weapon arm hanging useless. He hacks wildly with the other, but where one head falls, two writhe up in its place—four now, all snapping, all screaming.
+
+He glances at me, realizing the once feasting head is now above the water, and both of them are making their way towards me. I can barely keep hold on the one I have in my grasp, and without my hands free the other will have me for dinner.
+
+"Inayet!" Lukas shouts. The axe sails through the air. It lands in the mud at my feet with a dull, wet thud.
+
+I pause, realizing he is now defenseless, but I have no choice. He's dead without the axe.
+
+I snatch it with my stone hand, and I am blessed with a wave of strength. It's as if I could lift the world itself on my shoulders. I swing it forwards on pure instinct, and cleave one head off like cutting a block of cheese, effortless.
+
+I leap up onto its stomach, and with a resounding overhead strike, I slash open its chest, and burst it's heart. I am like a great tree of oak, my roots unbreakable, my branches and boughs strong, and the beast is dead by my hand.
+
+I collapse to my knees for a moment before feeling the beast go still, dead for good. My mind races, the stress, the fear, all of it overwhelming, but I come to my senses and desperately run towards Lukas, his body is still, held in the jaws of a Hydra head.
+
+I shake him free and slap him, trying to wake him, he is still warm, but unmoving. Dead. Lukas is dead. 
+
+He gave me his weapon, his family's weapon, and he died defenseless.
+
+I let him die.
+
+---
+
+I am silent as Pollux carries his body beside me.
+
+I find a small grove, having followed the map I took off Rethus' body. This edge of the river, where Lukas and I were supposed to go north, is as good a place as any. 
