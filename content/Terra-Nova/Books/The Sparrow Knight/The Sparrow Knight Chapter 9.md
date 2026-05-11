@@ -49,7 +49,7 @@ Lukas cuts him off before whatever that was going to be happens. "His name is In
 
 ---
 
-Lukas and I convene in the stable with Coffee. He looks stressed, and embarassed.
+Lukas and I convene in the stable with Coffee. He looks stressed, and embarrassed.
 
 "Lukas I don't know what you owe him for, and I am not one to judge you, but I do not trust him." I grab the map from my bag and lay it on Coffee's side. "Thank you girl. Look here, if we backtrack barely half a day, we can go through Highstride. That will keep us out of this swamp, out of that cursed province Ark, and we will barely lose a month of time."
 
@@ -77,3 +77,10 @@ It is not Lukas that is driven to do this mission. There is something else on th
 
 ---
 
+Every inch of the ground in this swamp was treacherous, one wrong move while carrying a heavy sword and you'd have stuck yourself right through the chest. I trudge along the path Rethus leads us down, eyeing a skeleton of an unfortunate adventurer, one with a sword through his chest facing the dirt.
+
+My feet are awake, but my mind is not. I slept deeply this afternoon, a nap before an evening hunt. Hydras hunt at night, and if it slithered away into the swamp's deeper waters during the day we would never find it, we need it awake, but this also means it will be ready for us.
+
+There is a strange thickness to the fog in this swamp, it feels like a sickening, just barely noticeable magic. No surprise in a place called 'The Drowning Dream', I had a nightmare. That is what has addled my mind this evening, a terrible dream that made my eyes flutter in need of rest, but I have no chance to sleep now.
+
+I gave Lukas back his helmet, I wasn't going to wear it, so he may as well. Going to need all the protection we can get against this beast. Hydras are quite dangerous, and normally I wouldn't fight one at all, much less with only two of us, but we had no choice if we wanted to get North as quickly as possible. 
