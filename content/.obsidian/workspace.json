@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "4e8adcdfb5e4aeb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/dungeons/Dagnitt's Mine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dagnitt's Mine"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +152,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4e8adcdfb5e4aeb6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/dungeons/Dagnitt's Mine.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
     "Terra-Nova/History/Lore Documents/Fragments of the Past.md",
@@ -194,7 +180,6 @@
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
     "Arkfall/Groups/AI.md",
     "conflict-files-obsidian-git.md",
-    "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
     "Arkfall/Lore/Logs",
     "Arkfall/Lore",
     "Arkfall/Groups",
