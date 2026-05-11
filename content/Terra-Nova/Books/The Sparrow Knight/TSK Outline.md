@@ -15,7 +15,7 @@ tags:
 - Towser: Orc caravan worker, drives the extra wagon, doesn't like Inayet and the feeling is mutual, enjoys intimidating people into paying extra, would do most things for money, not evil just self serving
 - Bernia Ikara: Tentative love interest. Ina is pitted against her when she is on the wrong side of a conflict, pay is pay
 - Sir Ulric: knight who serves Lord Tarn, decent warrior, dishonorable cheat and thief, steals Pollux by defeating Inayet in a rigged duel.
-- Rethus Wrath: Tiefling knight of the green, alcoholic, gets Lukas and Inayet in trouble with a hydra hunt
+- Rethus Wrath: Tiefling smuggler, Lukas owes him money from. helping with something in the past, makes Inayet and Lukas slay a Hydra for passage up the river towards the Scales.
 - 
 
 **The Party**:
