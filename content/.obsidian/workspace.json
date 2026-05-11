@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "e72beefd68db32d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TSK Outline"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,12 +152,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e72beefd68db32d6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
     "Terra-Nova/Working Folder/Kanban Boards/Solo Projects.md",
     "Dashboard.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
-    "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
     "conflict-files-obsidian-git.md",
     "z Images/Dagnitt's Mine-1778368734541.webp",
     "z Images/Balthazaar-1778455333557.webp",
