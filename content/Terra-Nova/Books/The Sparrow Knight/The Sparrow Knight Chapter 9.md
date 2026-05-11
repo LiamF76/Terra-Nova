@@ -15,7 +15,7 @@ We tie off Coffee and make our way into a tavern. Buckets. First place we could 
 
 Covering it almost makes me sad, I have grown quite proud of the look, but better to be safe than pretty.
 
-As I finish wiping off my well worn boots, loud thunk draws my attention. A knife has been stabbed into a table. Lukas and someone quite tall, and quite green, are facing off on either side of the skewered table just a few feet away. Their eyes are aflame, and somehow this has escalated to the very brink of a scuffle.
+As I finish wiping off my well-worn boots, loud thunk draws my attention. A knife has been stabbed into a table. Lukas and someone quite tall, and quite green, are facing off on either side of the skewered table just a few feet away. Their eyes are aflame, and somehow this has escalated to the very brink of a scuffle.
 
 I drop my bag and rush over, getting myself just enough between Lukas and the burly Orc. "Woah now we're all friends here!" I place a hand on Lukas' shoulder and lean in. "What in the Road's name happened? I was wiping my boots for ten seconds."
 
@@ -31,9 +31,9 @@ His eyes scan the room with a focus I don't recognize. "You won't believe me, bu
 
 I sit beside him, and a pair of heavy wooden cups are placed beside us by a metal hand. The barkeep is a Warforged, a sentient construct. Lukas thanks him and takes a deep swig of the drink before continuing. "But you trained, caravanned, and worked in Kheagon. This is the frontier, the Drowning Dream Swamp... it's a hell all of its own, and you will need your strength to survive it. Be aware, if you let the town before the swamp disrespect you, the swamp will take your soul before you can say, 'Petlia save me!'"
 
-He laughs heartily at his own joke, and finishes his drink before I have even touched mine, which is promptly refilled by our metal friend the barkeep. Lukas hands him a gold coin with a nonchalance that hides the fact its our last one.
+He laughs heartily at his own joke, and finishes his drink before I have even touched mine, which is promptly refilled by our metal friend the barkeep. Lukas hands him a gold coin with a nonchalance that hides the fact it's our last one.
 
-"My friend, it's been quite a long time since I crossed the Dream." He downs the class in one motion, "Does Rethus still run the crossing? Me and my companion here are hoping to get across quickly. We are hoping to be on our way up the river before the week is out."
+"My friend, it's been quite a long time since I crossed the Dream." He downs the class in one motion, "Does Rethus still run the crossing? My companion and I here are hoping to get across quickly. We are hoping to be on our way up the river before the week is out."
 
 As if summoned by the prospect of work, a man appears. He has a sharp smile, because his teeth are literally carved into points. His skin is a deep hue of red, like blood, and his head is adorned with a pair of thick and heavy horns. A Tiefling, and with a deep scratchy voice like a whetstone against my blade, he speaks. "That couldn't be Lukas Petlia... not Petlia! Come back from the dead to repay the debt he holds so dearly, as a man of honor of course."
 
@@ -43,7 +43,7 @@ Rethus does not wait for Lukas to answer. "I overheard!" He say jubilantly, "Tha
 
 His pinkish palm flashes before me, snatching my cup from the table. I hadn't even gotten a chance to drink from it.
 
-"But you simply must introduce me to this fine young man here!" He sips my drink, his amber eyes locked onto mine over the rim of the cup. They're like little Scars, burning and red, so alive it looks like a tiny devil may pop right out and bit me. "He looks strong. Fast too. That'll be helpful. Oh and those little streaks of grey in his hair? I could've made a fortune off-"
+"But you simply must introduce me to this fine young man here!" He sips my drink, his amber eyes locked onto mine over the rim of the cup. They're like little Scars, burning and red, so alive it looks like a tiny devil may pop right out and bit me. "He looks strong. Fast too. That'll be helpful. Oh and those little streaks of gray in his hair? I could've made a fortune off-"
 
 Lukas cuts him off before whatever that was going to be happens. "His name is Inayet. He's my companion, and of course Rethus I will gladly... repay you. It would be quite wrong not to. So long as you can help us get through the mist, and safely on our way up the river."
 
@@ -55,9 +55,9 @@ Lukas and I convene in the stable with Coffee. He looks stressed, and embarrasse
 
 He shakes his head no the entire time I am speaking. "No. Too long, we don't have that kind of time."
 
-"Then let me bring you South, to Druidica! They can certainly delay it, probably even heal it. By the Abyss I would swear myself to the Green Knights for another month with you. Come one, let's just not go through here. This place is bad new. I can't explain it..."
+"Then let me bring you South, to Druidica! They can certainly delay it, probably even heal it. By the Abyss I would swear myself to the Green Knights for another month with you. Come one, let's just not go through here. This place is bad news. I can't explain it..."
 
-I want to tell him about the pit in my stomach that this swamp is giving me. There's somethign dark and enchanting about it, gnawing at me while I sleep, making my hair stand up, even Pollux agreed. He would barely lay a hoof in the mud. I want to say that I keep seeing mud and dirty water in my dreams, but that won't convince him.
+I want to tell him about the pit in my stomach that this swamp is giving me. There's something dark and enchanting about it, gnawing at me while I sleep, making my hair stand up, even Pollux agreed. He would barely lay a hoof in the mud. I want to say that I keep seeing mud and dirty water in my dreams, but that won't convince him.
 
 "It's the only way forward." He says, gaze fixed on the floor.
 
@@ -145,7 +145,7 @@ I am silent as Pollux carries his body beside me.
 
 I find a small grove, having followed the map I took off Rethus' body. This edge of the river, where Lukas and I were supposed to go north, is as good a place as any. 
 
-I build a small pyre amd lay him on it, removing his heavy metal plate and chainmail. He looks so weak now, but just days ago he was moving like he had been given 20 years back on his life. Now he is pale, cold, and laying on oiled logs, waiting for me to warm him up one last time.
+I build a small pyre and lay him on it, removing his heavy metal plate and chain mail. He looks so weak now, but just days ago he was moving like he had been given 20 years back on his life. Now he is pale, cold, and laying on oiled logs, waiting for me to warm him up one last time.
 
 I strike a tinder, and toss it onto his chest. The pyre goes up, and I watch my friend burn beside the river that was supposed to take him home.
 
