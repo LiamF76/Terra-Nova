@@ -46,17 +46,31 @@
             }
           },
           {
-            "id": "d16b833ecb85c27f",
+            "id": "a4215d0baba4a409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
+                "file": "Terra-Nova/Books/The Sparrow Knight Part 1/The Sparrow Knight Chapter 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Sparrow Knight Chapter 9"
+              "title": "The Sparrow Knight Chapter 1"
+            }
+          },
+          {
+            "id": "a7ec519fe4b23d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Books/The Sparrow's Oath/TSO P2 Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TSO P2 Outline"
             }
           }
         ],
@@ -107,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301,
-    "collapsed": true
+    "width": 301
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -190,22 +203,32 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d16b833ecb85c27f",
+  "active": "a4215d0baba4a409",
   "lastOpenFiles": [
+    "Terra-Nova/Books/The Sparrow's Oath/TSO P2 Outline.md",
     "Terra-Nova/Working Folder/Kanban Boards/Solo Projects.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
+    "Terra-Nova/Books/The Sparrow's Oath/Untitled.md",
+    "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 4.md",
+    "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 3.md",
+    "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 2.md",
+    "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 1.md",
+    "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 5.md",
+    "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova.md",
+    "Terra-Nova/Books/The Sparrow Knight Part 1/TSK P1 Outline.md",
+    "Terra-Nova/Books/The Sparrow's Oath",
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 10.md",
+    "Terra-Nova/Books/The Sparrow Knight Part 1/The Sparrow Knight Chapter 9.md",
     "Dashboard.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
-    "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 2.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
+    "Terra-Nova/Books/The Sparrow Knight Part 1/The Sparrow Knight Chapter 8.md",
+    "Terra-Nova/Books/The Sparrow Knight Part 1/The Sparrow Knight Chapter 2.md",
+    "Terra-Nova/Books/The Sparrow Knight Part 1/The Sparrow Knight Chapter 1.md",
     "conflict-files-obsidian-git.md",
     "z Images/Dagnitt's Mine-1778368734541.webp",
     "z Images/Balthazaar-1778455333557.webp",
     "Terra-Nova/dungeons/The Bloodstone Pass.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Mani.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
-    "Terra-Nova/Books/The Sparrow Knight/TSK Brainstorm.md",
+    "Terra-Nova/Books/The Sparrow Knight Part 1/TSK Brainstorm.md",
     "Templates/Statblock Template.md",
     "Statblocks/Old Statblocks/zyrathia voidcaller.png",
     "Statblocks/Old Statblocks/zombie.png",
@@ -225,18 +248,8 @@
     "DungeonScrawl",
     "Terra-Nova/dungeons/Dagnitt's Mine.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Terra-Nova/History/Lore Documents/Fragments of the Past.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-    "Terra-Nova/History/Lore Documents/It Always Ends in Killing.md",
-    "Terra-Nova/Organizations/Extraplanar/The Shardbound.md",
-    "Terra-Nova/Books/Books.md",
-    "Terra-Nova/Resources/Gameplay Resources/Sayings & Phrases.md",
-    "Terra-Nova/Resources/Gameplay Resources/Glossary.md",
-    "Terra-Nova/Items/Magic Items/Hallowed Artifacts/Hallowed Artifacts.md",
-    "Terra-Nova/History/Lore Documents/Count your Pieces.md",
     "Arkfall/Lore/Logs",
     "Arkfall/Lore",
-    "Arkfall/Groups",
-    "Arkfall/Worlds/Earth"
+    "Arkfall/Groups"
   ]
 }

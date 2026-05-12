@@ -1,6 +1,6 @@
 ---
 publish: false
-title: TFTN Chapter 5
+title: Tales from Terra-Nova Chapter 5
 aliases:
 tags:
   - Terra-Nova

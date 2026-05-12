@@ -4,18 +4,10 @@ kanban-plugin: board
 
 ---
 
-## The Sparrow Knight (PART ONE)
+## The Sparrow Knight (PART TWO)
 
 - [ ] [[TSK Brainstorm]]
-- [ ] [[TSK Outline]]
-- [ ] [[The Sparrow Knight Chapter 9]]
-	
-	- [ ] 3500 words
-	- [ ] Published
-- [ ] [[The Sparrow Knight Chapter 10]]
-	
-	- [ ] 3500 words
-	- [ ] Published
+- [ ] [[TSO P2 Outline]]
 
 
 ## Solo Projects
@@ -45,6 +37,11 @@ kanban-plugin: board
 	
 	- [x] 3500 words
 	- [x] Published
+- [x] [[The Sparrow Knight Chapter 9]]
+	
+	- [x] 3500 words
+	- [x] Published
+- [x] [[TSK P1 Outline]]
 
 %% kanban:settings
 ```

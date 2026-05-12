@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: The Sparrow Knight Chapter 9
 aliases:
 tags:
