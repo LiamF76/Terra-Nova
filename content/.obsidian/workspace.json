@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
@@ -164,21 +162,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Dashboard.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
     "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 5.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 10.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 3.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 2.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
-    "Terra-Nova/Characters/People/Inayet.md",
     "Terra-Nova/Working Folder/Kanban Boards/Solo Projects.md",
+    "Dashboard.md",
+    "conflict-files-obsidian-git.md",
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 8.md",
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 7.md",
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 10.md",
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 4.md",
+    "Terra-Nova/Characters/People/Inayet.md",
     "Terra-Nova/Books/The Sparrow Knight/TSK Brainstorm.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Mani.md",
