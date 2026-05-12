@@ -11,5 +11,5 @@ This is my outline of the second Novella in the Sparrow series, The Sparrow's Oa
 
 ## Chapters
 
-- Chapter 1:
+- The Sparrow's Oath Chapter 1:
 	- 
