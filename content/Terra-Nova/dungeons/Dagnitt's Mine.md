@@ -7,6 +7,7 @@ aliases:
 Dwarven Gold mine dungeon. Abandoned 200 years ago, all the Dwarves were killed and now monsters control it. Dungeon crawl!!!
 The dwarves were killed by a disease called the Necrosurge. Created by Gravebinder, it is. magical affliction that raises its victims as undead. So this is an undead dungeon.
 
+---
 
 ## Room 1: Entrance Guardian
 
@@ -87,7 +88,7 @@ The ghost waves his arms frantically, and begins shouting, "Stop stop! Go no fur
 
 ## Room 4: Climax, Big Battle
 
-#### **TBD**
+#### **The Forge Throne**
 
 DM NOTE: Describe the encounter / overview of the room
 
