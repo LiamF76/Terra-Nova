@@ -109,15 +109,39 @@ TBD
 
 **Enemies**: 1x Forge Golem, 1x Undead Dwarf King (knight), 6x undead dwarf (bandit), 4x magma Mephit
 
+
+```statblock
+creature: Knight
+```
+
+```statblock
+creature: Bandit
+```
+
+```statblock
+creature: Magma Mephit
+```
+
+| Dwarf King |
+| ---------- |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+
 **Mechanics**:
-- **Dwarven Windlance**: Ballista, +6 top hit, range 120/480, 16 (3d10) piercing damage.
+- **Dwarven Windlance**: Ballista, +6 to hit, range 120/480, 16 (3d10) piercing damage.
 	- 15 AC, 50HP
 - **Forge Golem**: On initiative count 20, A Forge Golem carries a large cast of molten iron from the foundries on either side of the forge, into the center. The Forge Golem pours the molten iron into the mold at the center (mold of a massive hammer). This will happen twice, then the golem will fight.
 - **The Crystal Hammer**: After the hammer mold is filled with molten iron, the Dwarf King will pick up the hammer and infuse it with purple crystals, turning it into a +1 maul.
 - **The Necrosurge Throne**: As long as the Undead Dwarf King remains in his throne, at the end of his turn all dwarves killed this round are brought back to life.
 
 *Loot*: 
-- +1 Maul
+- +1 Maul (+2 if crystal)
 - 
 
 ---
@@ -130,7 +154,7 @@ DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
-A chest lies beside the throne in the forge, within it is:
+A chest lies beside the throne, within it there is:
 - 10x silver bars worth 25GP each
 - A fine porcelain gilded cup decorated with dragons (worth 100GP)
 - A silver ring bearing symbols of each moon phase, with a hollow circle in the center, MAGICAL! (unknown value)
