@@ -109,7 +109,6 @@ TBD
 
 **Enemies**: 1x Forge Golem, 1x Undead Dwarf King (knight), 6x undead dwarf (bandit), 4x magma Mephit
 
-
 ```statblock
 creature: Knight
 ```
@@ -124,11 +123,11 @@ creature: Magma Mephit
 
 | Dwarf King |
 | ---------- |
-|            |
-|            |
-|            |
-|            |
-|            |
+| x          |
+| x          |
+| x          |
+| x          |
+| x          |
 |            |
 |            |
 |            |
