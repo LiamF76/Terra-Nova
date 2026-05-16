@@ -36,11 +36,11 @@ creature: Bandit
 
 | Troll | Captain |
 | ----- | ------- |
-| x     |         |
-| x     |         |
-| x     |         |
-| x     |         |
-| x     |         |
+| x     | x       |
+| x     | x       |
+| x     | x       |
+| x     | x       |
+| x     | x       |
 | x     |         |
 | x     |         |
 |       |         |
