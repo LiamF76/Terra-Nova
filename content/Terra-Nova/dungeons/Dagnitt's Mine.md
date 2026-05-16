@@ -17,7 +17,7 @@ DM NOTE: Big combat, lots of little dwarves, a dwarf, captain, and a troll. They
 
 *Set the Scene*: As you descend the dwarven halls, the walls are lined with histories, carvings that depict the dwarves who dug these tunnels and the labors they suffered to build this place. Slowly you descend the caves until you reach a massive dark cavern, a faint bubbling sound can be heard and light shines from massive pits of molten metal set into the floor. A raised platform in the middle of the room bears one large hanging lantern, and a Dwarven Windlance (ballista) sits on the center.
 
-As you step into the room, you hear the clatter and clangs of metal, and strange blue dots appear, the eyes of the undead! A horde of raised Dwarved appear, one bearing a massive chain wrapped around the neck of a Cave Troll! Everyone roll initiative.
+As you step into the room, you hear the clatter and clangs of metal, and strange blue dots appear, the eyes of the undead! A horde of raised Dwarves appear, one bearing a massive chain wrapped around the neck of a Cave Troll! Everyone roll initiative.
 
 **Enemies**: 1x troll, 1x bandit captain, 10x bandit
 - *ADD UNDEAD WEAKNESS TO RADIANT DAMAGE TO ALL BANDITS ->*
