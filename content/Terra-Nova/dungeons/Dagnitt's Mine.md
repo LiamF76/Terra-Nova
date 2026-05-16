@@ -140,8 +140,7 @@ creature: Magma Mephit
 - **The Necrosurge Throne**: As long as the Undead Dwarf King remains in his throne, at the end of his turn all dwarves killed this round are brought back to life.
 
 *Loot*: 
-- +1 Maul (+2 if crystal)
-- 
+- +1 Maul
 
 ---
 
