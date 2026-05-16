@@ -1,6 +1,6 @@
 ---
 publish: true
-title: TFTN Chapter 3
+title: Tales from Terra-Nova Chapter 3
 aliases:
 tags:
   - Terra-Nova

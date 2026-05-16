@@ -157,6 +157,6 @@ He ponders as we both mount up, bidding farewell to the priests.
 
 He sounds wholly unbothered by that, a fact of the world. Once there was something, and slowly it fades, like its inevitable. "And you're fine with that? You carry a great power, and it's fading, don't you want to stop that? Keep your traditions alive?"
 
-"My traditions..." He says wistfully, almost like he has heard someone ask that before. "My traditions are being a good man, working for your keep, and staying strong. My traditions live on in you Inayet."
+"My traditions..." He says wistfully, almost like he has heard someone ask that before. "My traditions are being a good man, working for your keep, and staying strong. My traditions live on in you Inayet. That's what I hold dear, it was never about magic."
 
 He doesn't look at me, but I feel the surge of pride in his heart. 

@@ -44,17 +44,4 @@ tags:
 - [[The Sparrow Knight Chapter 8]]
 	- Traveling to Redwater, Petlia tells the story of the axe. Once belonged to a Knight of the Green who defeated a forest demon in a Scar. It grants its wielder magical strength and vitality. Lukas' disease is partially healed by the axe, making him life longer. They travel and run into priests from New Estorias, talk with them. 
 - [[The Sparrow Knight Chapter 9]]
-	- Inayet and Lukas reach Redwater, standoff with some thugs in the town is diffused by an old friend of Lukas', they talk at a tavern and are offered a job on a hunt, they need the gold so they agree to join
-- [[The Sparrow Knight Chapter 10]]
-	- summary
-
----
-
-## Parts
-
-- ### Part 1:
-	- Summary: Inayet traveling and learning, gets magic hand and horse, they reach the Drowning Dream Swamp.
-- ### Part 2: 
-	- Summary: Drowning Dream Swamp arc, they hunt a hydra, make their way through the bogs and Inayet begins to experience painful nightmares of Ivar / Arkonil. Fight a witch / hag. Run into a mage of Tamora, who attacks and defeats them, bringing them back to Tamora (kidnapped). They are able to delay Lukas' death, but Inayet's visions grow more powerful and overwhelm him.
-- ### Part 3:
-	- Summary: 
+	- Inayet and Lukas reach Redwater, standoff with some thugs in the town is diffused by an old friend of Lukas', they talk at a tavern and are offered a job on a hunt, they need the gold so they agree to join, fight the hydra, Lukas and Rethus die, Inayet makes his oath.

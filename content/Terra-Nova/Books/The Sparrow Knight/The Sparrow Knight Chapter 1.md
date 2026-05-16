@@ -7,8 +7,6 @@ tags:
   - The-Sparrow-Knight
 ---
 
-## PART 1:
-
 The crunch of dry leaves beneath the wagon's wheels plays beautifully over the sound of the river at my side. I flex my shoulders and pull my helmet off, fastening it to my back and tossing it into the back of the wagon as I step up beside it. My nose may be a bit crooked, broken in a tussle with dire wolves a few years back, it had no trouble catching the scents of crisp air, damp earth, and spellfire. Alcor's magical torch glowed with a mystical light, as if its flame was encased in a hue of pure mana that gleamed pink in the heat. As the wagon passes over a small divot in the dirt road, it dips, the wheel creaking angrily as the two horses muscle the wagon forward. Alcor jumps a little, turning in a panic to inspect for damages. They call him the Coin because of how successful his caravan has been, but there's nothing he hates to repair more than his precious wagon.
 
 It had taken months to get this one built, custom order. Alcor had saved for years, but when he had the coins drawn from that old Dwarven bank in Dorhul, he could barely make himself fork it over to the woodworkers. Every time I asked him if it was worth it though, he gave a resounding yes. It was more like a building than a wagon, he had set out for a fully functioning shop within it. The back had stairs that could be unfolded for easy access, one side bearing hatches that could open like a storefront and hang merchandise and pricing on, and his beloved roof.

@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: The Sparrow Knight Chapter 9
 aliases:
 tags:
@@ -15,7 +15,7 @@ We tie off Coffee and make our way into a tavern. Buckets. First place we could 
 
 Covering it almost makes me sad, I have grown quite proud of the look, but better to be safe than pretty.
 
-As I finish wiping off my well worn boots, loud thunk draws my attention. A knife has been stabbed into a table. Lukas and someone quite tall, and quite green, are facing off on either side of the skewered table just a few feet away. Their eyes are aflame, and somehow this has escalated to the very brink of a scuffle.
+As I finish wiping off my well-worn boots, loud thunk draws my attention. A knife has been stabbed into a table. Lukas and someone quite tall, and quite green, are facing off on either side of the skewered table just a few feet away. Their eyes are aflame, and somehow this has escalated to the very brink of a scuffle.
 
 I drop my bag and rush over, getting myself just enough between Lukas and the burly Orc. "Woah now we're all friends here!" I place a hand on Lukas' shoulder and lean in. "What in the Road's name happened? I was wiping my boots for ten seconds."
 
@@ -31,9 +31,9 @@ His eyes scan the room with a focus I don't recognize. "You won't believe me, bu
 
 I sit beside him, and a pair of heavy wooden cups are placed beside us by a metal hand. The barkeep is a Warforged, a sentient construct. Lukas thanks him and takes a deep swig of the drink before continuing. "But you trained, caravanned, and worked in Kheagon. This is the frontier, the Drowning Dream Swamp... it's a hell all of its own, and you will need your strength to survive it. Be aware, if you let the town before the swamp disrespect you, the swamp will take your soul before you can say, 'Petlia save me!'"
 
-He laughs heartily at his own joke, and finishes his drink before I have even touched mine, which is promptly refilled by our metal friend the barkeep. Lukas hands him a gold coin with a nonchalance that hides the fact its our last one.
+He laughs heartily at his own joke, and finishes his drink before I have even touched mine, which is promptly refilled by our metal friend the barkeep. Lukas hands him a gold coin with a nonchalance that hides the fact it's our last one.
 
-"My friend, it's been quite a long time since I crossed the Dream." He downs the class in one motion, "Does Rethus still run the crossing? Me and my companion here are hoping to get across quickly. We are hoping to be on our way up the river before the week is out."
+"My friend, it's been quite a long time since I crossed the Dream." He downs the class in one motion, "Does Rethus still run the crossing? My companion and I here are hoping to get across quickly. We are hoping to be on our way up the river before the week is out."
 
 As if summoned by the prospect of work, a man appears. He has a sharp smile, because his teeth are literally carved into points. His skin is a deep hue of red, like blood, and his head is adorned with a pair of thick and heavy horns. A Tiefling, and with a deep scratchy voice like a whetstone against my blade, he speaks. "That couldn't be Lukas Petlia... not Petlia! Come back from the dead to repay the debt he holds so dearly, as a man of honor of course."
 
@@ -43,21 +43,21 @@ Rethus does not wait for Lukas to answer. "I overheard!" He say jubilantly, "Tha
 
 His pinkish palm flashes before me, snatching my cup from the table. I hadn't even gotten a chance to drink from it.
 
-"But you simply must introduce me to this fine young man here!" He sips my drink, his amber eyes locked onto mine over the rim of the cup. They're like little Scars, burning and red, so alive it looks like a tiny devil may pop right out and bit me. "He looks strong. Fast too. That'll be helpful. Oh and those little streaks of grey in his hair? I could've made a fortune off-"
+"But you simply must introduce me to this fine young man here!" He sips my drink, his amber eyes locked onto mine over the rim of the cup. They're like little Scars, burning and red, so alive it looks like a tiny devil may pop right out and bit me. "He looks strong. Fast too. That'll be helpful. Oh and those little streaks of gray in his hair? I could've made a fortune off-"
 
 Lukas cuts him off before whatever that was going to be happens. "His name is Inayet. He's my companion, and of course Rethus I will gladly... repay you. It would be quite wrong not to. So long as you can help us get through the mist, and safely on our way up the river."
 
 ---
 
-Lukas and I convene in the stable with Coffee. He looks stressed, and embarassed.
+Lukas and I convene in the stable with Coffee. He looks stressed, and embarrassed.
 
 "Lukas I don't know what you owe him for, and I am not one to judge you, but I do not trust him." I grab the map from my bag and lay it on Coffee's side. "Thank you girl. Look here, if we backtrack barely half a day, we can go through Highstride. That will keep us out of this swamp, out of that cursed province Ark, and we will barely lose a month of time."
 
 He shakes his head no the entire time I am speaking. "No. Too long, we don't have that kind of time."
 
-"Then let me bring you South, to Druidica! They can certainly delay it, probably even heal it. By the Abyss I would swear myself to the Green Knights for another month with you. Come one, let's just not go through here. This place is bad new. I can't explain it..."
+"Then let me bring you South, to Druidica! They can certainly delay it, probably even heal it. By the Abyss I would swear myself to the Green Knights for another month with you. Come one, let's just not go through here. This place is bad news. I can't explain it..."
 
-I want to tell him about the pit in my stomach that this swamp is giving me. There's somethign dark and enchanting about it, gnawing at me while I sleep, making my hair stand up, even Pollux agreed. He would barely lay a hoof in the mud. I want to say that I keep seeing mud and dirty water in my dreams, but that won't convince him.
+I want to tell him about the pit in my stomach that this swamp is giving me. There's something dark and enchanting about it, gnawing at me while I sleep, making my hair stand up, even Pollux agreed. He would barely lay a hoof in the mud. I want to say that I keep seeing mud and dirty water in my dreams, but that won't convince him.
 
 "It's the only way forward." He says, gaze fixed on the floor.
 
@@ -77,3 +77,98 @@ It is not Lukas that is driven to do this mission. There is something else on th
 
 ---
 
+Every inch of the ground in this swamp was treacherous, one wrong move while carrying a heavy sword and you'd have stuck yourself right through the chest. I trudge along the path Rethus leads us down, eyeing a skeleton of an unfortunate adventurer, one with a sword through his chest facing the dirt.
+
+My feet are awake, but my mind is not. I slept deeply this afternoon, a nap before an evening hunt. Hydras hunt at night, and if it slithered away into the swamp's deeper waters during the day we would never find it, we need it awake, but this also means it will be ready for us.
+
+There is a strange thickness to the fog in this swamp, it feels like a sickening, just barely noticeable magic. No surprise in a place called 'The Drowning Dream', I had a nightmare. That is what has addled my mind this evening, a terrible dream that made my eyes flutter in need of rest, but I have no chance to sleep now.
+
+I gave Lukas back his helmet, I wasn't going to wear it, so he may as well. Going to need all the protection we can get against this beast. Hydras are quite dangerous, and normally I wouldn't fight one at all, much less with only two of us, but we had no choice if we wanted to get north as quickly as possible. They are vicious, cruel, and cunning hunters, not to mention the whole head regrowth problem. Hopefully with Lukas' and my new strength combined, we would be able to hold the thing long enough for Rethus to pierce its heart with his magic.
+
+I hadn't taken him for a mage, but he knew some rudimentary fire cantrips, enough to cauterize a Hydra neck before it regrows, or if we could get it belly up, to kill the thing. What's more worrying was if we did have to fight it, my sword is well-made, but it's not magic. Simple steel, good against most things, but a monster like a Hydra will barely feel a slash against its scales from me. It'll be up to Lukas and Rethus, only one of which I feel comfortable putting my faith in.
+
+It's doable, and Lukas is confident, I can see it in his stride as he carries his weapon, that thing makes him feel invincible, he may well be. All we have to do, is pray this goes to plan.
+
+---
+
+The plan falls to pieces as soon as the first head shoots out of the water. 
+
+"Left!" I shout, already moving.
+
+Lukas dives clear. Rethus doesn’t.
+
+The jaws snap shut around his leg with a wet crack, dragging him under before I can reach him. No scream. Just a churn of filthy water, then nothing.
+
+Dead, just like that. The other two heads rise slowly, the water slides off the slick grey skin of the monster in a sickening wave. 
+
+"Out of its reach!" I yell. "I'll flip it—then you cleave it!"
+
+He nods and charges.
+
+Lukas is fast, waving his shiny gold weapon, drawing the attention of one of the heads. A smattering of bubbles rise and pop from the center, the middle one is busy eating, which leave me engaged with the last one.
+
+I dodge past two bursts of venom, it sizzles and melts a tree behind me, if that hits anything but my hand I'm dead. I charge forwards, pounding my boots into the dirt as hard as I can.
+
+The ground vanishes beneath my feet and I launch myself forward, arms locking around the creature’s neck. It thrashes, slimy muscles bucking, but I clamp down harder, twisting as we crash together into the swamp.
+
+The world spins. Mud. Water. Pain.
+
+I heave and feel the balance shift.
+
+The hydra slams onto its back.
+
+A scream from Lukas draws my attention, and as I land with the Hydra flipped over, I look over smiling triumphantly. "How's that! Now kill it Lukas!" I shout, but I realize it was not a scream of celebration. 
+
+Blood pours down his arm. One head has torn deep into the muscle, leaving his weapon arm hanging useless. He hacks wildly with the other, but where one head falls, two writhe up in its place—four now, all snapping, all screaming.
+
+He glances at me, realizing the once feasting head is now above the water, and both of them are making their way towards me. I can barely keep hold on the one I have in my grasp, and without my hands free the other will have me for dinner.
+
+"Inayet!" Lukas shouts. The axe sails through the air. It lands in the mud at my feet with a dull, wet thud.
+
+I pause, realizing he is now defenseless, but I have no choice. He's dead without the axe.
+
+I snatch it with my stone hand, and I am blessed with a wave of strength. It's as if I could lift the world itself on my shoulders. I swing it forwards on pure instinct, and cleave one head off like cutting a block of cheese, effortless.
+
+I leap up onto its stomach, and with a resounding overhead strike, I slash open its chest, and burst it's heart. I am like a great tree of oak, my roots unbreakable, my branches and boughs strong, and the beast is dead by my hand.
+
+I collapse to my knees for a moment before feeling the beast go still, dead for good. My mind races, the stress, the fear, all of it overwhelming, but I come to my senses and desperately run towards Lukas, his body is still, held in the jaws of a Hydra head.
+
+I shake him free and slap him, trying to wake him, he is still warm, but unmoving. Dead. Lukas is dead. 
+
+He gave me his weapon, his family's weapon, and he died defenseless.
+
+I let him die.
+
+---
+
+I am silent as Pollux carries his body beside me.
+
+I find a small grove, having followed the map I took off Rethus' body. This edge of the river, where Lukas and I were supposed to go north, is as good a place as any. 
+
+I build a small pyre and lay him on it, removing his heavy metal plate and chain mail. He looks so weak now, but just days ago he was moving like he had been given 20 years back on his life. Now he is pale, cold, and laying on oiled logs, waiting for me to warm him up one last time.
+
+I strike a tinder, and toss it onto his chest. The pyre goes up, and I watch my friend burn beside the river that was supposed to take him home.
+
+Pollux, without my summoning, appears at my side and places his head on my shoulder. "Hey there. I'm alright. That's kind of you, guess you can tell I'm..." I didn't realize I was even crying, "I am a bit upset Pollux. I don't know what I'm supposed to do now..."
+
+The soft starry hair of Pollux's mane brushes across my neck as he turns, looking at the small boat on the riverbed, and then looks north.
+
+He looks back at me, and tilts his head. "I know, I made a promise. Didn't know horses cared about that sort of thing." I toss a few more kindlings on the pyre and walk over to Pollux, petting him gently. "North it is."
+
+"I am so sorry Lukas. I let this happen... suppose you would want a prayer then eh?" I say, fumbling with my hands as I try to remember any prayers Lukas taught me, or tried to.
+
+"I'll just make one up." A deep breath in, and the words flow from me as I watch my oldest friend's body burn. "Lukas Petlia. A Knight of House Petlia, the most honorable, well the only honorable Knight I ever met. You lived a good life. You did right by others, especially by me. You were like a father to me, in moments I knew and didn't know I needed one."
+
+I am still struggling through gasps and spats of crying, but I manage. Pollux listens quietly beside me. "You family was honorable as well, long and respected were the Petlia's, and all your fathers and mothers would be proud of the man you were."
+
+This is the important part. "I am sorry I let you die. I wasn't... strong enough. You sacrificed your family relic to me, to save me. So in kind with your sacrifice, I will make you a promise... an Oath."
+
+The wind stops for a moment, and the world holds its breath as I swear on my own soul. "I, Inayet Sparrow, swear on the Old God, Daraan, that I will return you to your home, and scatter your ashes along the roots of the Ironwood trees. I swear I will not allow another to die due to my weakness again, and I swear, just as you had always hoped, to find my destiny. Whatever it may be, I will find it. I love you Lukas, thank you."
+
+I wipe a tear from my cheek, and am taken back by its color, slightly tinted with flecks of gold.
+
+Magic.
+
+Perhaps my Oath... had been more than a promise to a friend.
+
+"Whoever is listening!" I declare to the empty sky above me. "I will bring him home! I will keep this Oath. Grant me the strength to see. this errand through. For Lukas Petlia."
