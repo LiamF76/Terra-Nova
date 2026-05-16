@@ -34,18 +34,16 @@ creature: Bandit Captain
 creature: Bandit
 ```
 
-
 | Troll | Captain |
 | ----- | ------- |
+| x     |         |
+| x     |         |
+| x     |         |
+| x     |         |
 |       |         |
 |       |         |
 |       |         |
 |       |         |
-|       |         |
-|       |         |
-|       |         |
-|       |         |
-
 
 **Mechanics**:
 - **Raised Platform**: The raised platform has small walls that give half cover (+2 AC and DEX saves).
