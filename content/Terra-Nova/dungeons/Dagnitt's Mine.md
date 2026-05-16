@@ -34,6 +34,19 @@ creature: Bandit Captain
 creature: Bandit
 ```
 
+
+| Troll | Captain |
+| ----- | ------- |
+|       |         |
+|       |         |
+|       |         |
+|       |         |
+|       |         |
+|       |         |
+|       |         |
+|       |         |
+
+
 **Mechanics**:
 - **Raised Platform**: The raised platform has small walls that give half cover (+2 AC and DEX saves).
 - **Dwarven Windlance**: Ballista, +6 top hit, range 120/480, 16 (3d10) piercing damage.
