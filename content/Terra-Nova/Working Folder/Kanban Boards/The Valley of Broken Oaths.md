@@ -7,8 +7,6 @@ kanban-plugin: board
 ## Session Prepping
 
 - [ ] [[The Spire of Virtue]]
-- [ ] [[TVBO Session 3]]
-- [ ] [[Dagnitt's Mine]]
 - [ ] [[TVBO Session 4]]
 - [ ] [[The Bloodstone Pass]]
 
@@ -56,6 +54,8 @@ kanban-plugin: board
 - [x] [[TVBO Session 0 Prep]]
 - [x] [[The Valley of Broken Oaths Primer]]
 - [x] [[TVBO Session 1 Prep]]
+- [x] [[TVBO Session 3]]
+- [x] [[Dagnitt's Mine]]
 
 %% kanban:settings
 ```
