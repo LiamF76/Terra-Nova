@@ -22,45 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "ef689dcfbf376978",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Solo Projects.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Solo Projects"
-            }
-          },
-          {
-            "id": "a7ec519fe4b23d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Books/The Sparrow's Oath/TSO P2 Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TSO P2 Outline"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,10 +152,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a7ec519fe4b23d71",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
     "Terra-Nova/Books/The Sparrow's Oath/TSO P2 Outline.md",
+    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
     "Terra-Nova/Working Folder/Kanban Boards/Solo Projects.md",
     "Terra-Nova/Books/The Sparrow's Oath/Untitled.md",
     "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 4.md",
