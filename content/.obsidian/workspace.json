@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -159,15 +163,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Player Characters.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Dashboard.md",
     "Terra-Nova/dungeons/Dagnitt's Mine.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 3.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 2 Enemies.md",
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Books/The Sparrow's Oath/Untitled.md",
     "Terra-Nova/Books/The Sparrow's Oath/TSO P2 Outline.md",
     "Terra-Nova/Books/The Sparrow's Oath",
-    "Dashboard.md",
     "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 5.md",
@@ -184,8 +190,6 @@
     "Terra-Nova/Books/The Sparrow Knight/TSK Brainstorm.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Mani.md",
-    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
-    "Terra-Nova/Characters/Extraplanar/Gods/Balthazaar.md",
     "z Images/Balthazaar-1778455333557.webp",
     "z Images/Dagnitt's Mine-1778368734541.webp",
     "DungeonScrawl/dagnittBossRoom.ds",
