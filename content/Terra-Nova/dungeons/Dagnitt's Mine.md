@@ -7,6 +7,7 @@ aliases:
 Dwarven Gold mine dungeon. Abandoned 200 years ago, all the Dwarves were killed and now monsters control it. Dungeon crawl!!!
 The dwarves were killed by a disease called the Necrosurge. Created by Gravebinder, it is. magical affliction that raises its victims as undead. So this is an undead dungeon.
 
+---
 
 ## Room 1: Entrance Guardian
 
@@ -16,7 +17,7 @@ DM NOTE: Big combat, lots of little dwarves, a dwarf, captain, and a troll. They
 
 *Set the Scene*: As you descend the dwarven halls, the walls are lined with histories, carvings that depict the dwarves who dug these tunnels and the labors they suffered to build this place. Slowly you descend the caves until you reach a massive dark cavern, a faint bubbling sound can be heard and light shines from massive pits of molten metal set into the floor. A raised platform in the middle of the room bears one large hanging lantern, and a Dwarven Windlance (ballista) sits on the center.
 
-As you step into the room, you hear the clatter and clangs of metal, and strange blue dots appear, the eyes of the undead! A horde of raised Dwarved appear, one bearing a massive chain wrapped around the neck of a Cave Troll! Everyone roll initiative.
+As you step into the room, you hear the clatter and clangs of metal, and strange blue dots appear, the eyes of the undead! A horde of raised Dwarves appear, one bearing a massive chain wrapped around the neck of a Cave Troll! Everyone roll initiative.
 
 **Enemies**: 1x troll, 1x bandit captain, 10x bandit
 - *ADD UNDEAD WEAKNESS TO RADIANT DAMAGE TO ALL BANDITS ->*
@@ -33,9 +34,20 @@ creature: Bandit Captain
 creature: Bandit
 ```
 
+| Troll | Captain |
+| ----- | ------- |
+| x     | x       |
+| x     | x       |
+| x     | x       |
+| x     | x       |
+| x     | x       |
+| x     |         |
+| x     |         |
+|       |         |
+
 **Mechanics**:
 - **Raised Platform**: The raised platform has small walls that give half cover (+2 AC and DEX saves).
-- **Dwarven Windlance**: Ballista, +6 top hit, range 120/480, 16 (3d10) piercing damage.
+- **Dwarven Windlance**: Ballista, +6 to hit, range 120/480, 16 (3d10) piercing damage.
 	- 15 AC, 50HP
 - **Molten Iron Pits**: 3d6 fire damage upon entry and at start of turn
 
@@ -87,7 +99,7 @@ The ghost waves his arms frantically, and begins shouting, "Stop stop! Go no fur
 
 ## Room 4: Climax, Big Battle
 
-#### **TBD**
+#### **The Forge Throne**
 
 DM NOTE: Describe the encounter / overview of the room
 
@@ -97,8 +109,31 @@ TBD
 
 **Enemies**: 1x Forge Golem, 1x Undead Dwarf King (knight), 6x undead dwarf (bandit), 4x magma Mephit
 
+```statblock
+creature: Knight
+```
+
+```statblock
+creature: Bandit
+```
+
+```statblock
+creature: Magma Mephit
+```
+
+| Dwarf King |
+| ---------- |
+| x          |
+| x          |
+| x          |
+| x          |
+| x          |
+|            |
+|            |
+|            |
+
 **Mechanics**:
-- **Dwarven Windlance**: Ballista, +6 top hit, range 120/480, 16 (3d10) piercing damage.
+- **Dwarven Windlance**: Ballista, +6 to hit, range 120/480, 16 (3d10) piercing damage.
 	- 15 AC, 50HP
 - **Forge Golem**: On initiative count 20, A Forge Golem carries a large cast of molten iron from the foundries on either side of the forge, into the center. The Forge Golem pours the molten iron into the mold at the center (mold of a massive hammer). This will happen twice, then the golem will fight.
 - **The Crystal Hammer**: After the hammer mold is filled with molten iron, the Dwarf King will pick up the hammer and infuse it with purple crystals, turning it into a +1 maul.
@@ -106,7 +141,6 @@ TBD
 
 *Loot*: 
 - +1 Maul
-- 
 
 ---
 
@@ -118,7 +152,7 @@ DM NOTE: Describe the encounter / overview of the room
 
 *Set the Scene*: TBD
 
-A chest lies beside the throne in the forge, within it is:
+A chest lies beside the throne, within it there is:
 - 10x silver bars worth 25GP each
 - A fine porcelain gilded cup decorated with dragons (worth 100GP)
 - A silver ring bearing symbols of each moon phase, with a hollow circle in the center, MAGICAL! (unknown value)
