@@ -23,6 +23,11 @@ kanban-plugin: board
 - [ ] [[Count your Pieces]]
 
 
+## idk!
+
+- [ ] [[Triumvirate Scales Government]]
+
+
 ## Backlog
 
 - [ ] [[Gods of Terra-Nova|Gods]]
@@ -37,6 +42,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

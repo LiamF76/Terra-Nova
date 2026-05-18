@@ -24,7 +24,42 @@
             }
           },
           {
-            "id": "e28e90cf16fb6916",
+            "id": "cfc93ba8635b4e5b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
+          },
+          {
+            "id": "f868ec4eb3a9d766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Triumvirate Scales Government"
+            }
+          },
+          {
+            "id": "78761b3aa3c8ff7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,14 +202,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e28e90cf16fb6916",
+  "active": "78761b3aa3c8ff7d",
   "lastOpenFiles": [
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
-    "conflict-files-obsidian-git.md",
+    "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-    "Vault To-Do.md",
+    "Terra-Nova/Organizations/Governments & Nobility/Sovrentian Government.md",
+    "Terra-Nova/Organizations/Governments",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Grey Brainstorm.md",
+    "conflict-files-obsidian-git.md",
+    "Vault To-Do.md",
     "Terra-Nova/Books/The Sparrow's Oath/TSO P2 Outline.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
     "Terra-Nova/Working Folder/Kanban Boards/Solo Projects.md",
@@ -196,8 +234,6 @@
     "Terra-Nova/dungeons/The Bloodstone Pass.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Mani.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
-    "Terra-Nova/Books/The Sparrow Knight/TSK Brainstorm.md",
-    "Templates/Statblock Template.md",
     "Statblocks/Old Statblocks/zyrathia voidcaller.png",
     "Statblocks/Old Statblocks/zombie.png",
     "Statblocks/Old Statblocks/young white dragon.png",
@@ -213,7 +249,6 @@
     "DungeonScrawl/bloodstone pass boss.ds",
     "DungeonScrawl",
     "Arkfall/Lore/Logs",
-    "Arkfall/Lore",
-    "Arkfall/Groups"
+    "Arkfall/Lore"
   ]
 }
