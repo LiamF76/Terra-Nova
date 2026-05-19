@@ -139,6 +139,7 @@ TBD
 | Aestus | Passion |
 
 **Religions**: 
+- The Sword's Scale
 - 
 
 ---
