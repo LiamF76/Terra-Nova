@@ -1,10 +1,13 @@
 ---
 publish: false
-title:
+title: Aldros
 aliases:
+  - Wyrm-Chosen
+tags:
+  - Terra-Nova
 ---
 
-![[Aldros-1775853605189.webp|500x713]]
+![[Aldros-1779156733188.webp|500x367]]
 
 Name: **Aldros**, Wyrm-Chosen
 
