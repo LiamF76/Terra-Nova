@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] [[The Spire of Virtue]]
 - [ ] [[TVBO Session 4]]
 - [ ] [[The Bloodstone Pass]]
-- [ ] [[Grey Brainstorm]]
 
 
 ## Worldbuilding
@@ -57,6 +56,7 @@ kanban-plugin: board
 - [x] [[TVBO Session 1 Prep]]
 - [x] [[TVBO Session 3]]
 - [x] [[Dagnitt's Mine]]
+- [x] [[Grey Brainstorm]]
 
 %% kanban:settings
 ```
