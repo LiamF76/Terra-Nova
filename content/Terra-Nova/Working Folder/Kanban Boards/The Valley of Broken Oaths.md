@@ -11,12 +11,17 @@ kanban-plugin: board
 - [ ] [[The Bloodstone Pass]]
 
 
+## Ideas
+
+- [ ] [[Campaign & Quest Ideas]]
+- [ ] [[Raid Boss Ideas]]
+
+
 ## Worldbuilding
 
 - [ ] [[TVBO Player Characters]]
 - [ ] [[TVBO Workshop]]
 - [ ] [[TVBO Pointcrawl Map]]
-- [ ] [[Campaign & Quest Ideas]]
 - [ ] [[Promise Stones]]
 
 
@@ -60,6 +65,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
