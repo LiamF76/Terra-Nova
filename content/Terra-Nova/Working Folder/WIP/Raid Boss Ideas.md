@@ -19,4 +19,7 @@ aliases:
 	- 10 turn countdown Deathsong spell, big damage / instant kill?
 	- end turn standing on resonance plates to take 1d6 psychic damage, reduces the count by 1 per player on the plate
 	- 2 undead choir, at the end of each of their turns adds 1 to the Deathsong
+- **Dark Druid**: 
+	- Wildshape phases, each phase has different abilities, separate health bars, etc...
+	- 
 - 
