@@ -24,7 +24,7 @@ Awesome! Thank's for sharing everyone.
 
 In our previous session we delved through an ancient Dwarven mine, left in ruins by a necromantic virus known as the Necrosurge! We defeated the monsters within, and were rewarded with a small amount of riches. 
 
-Now we return, as our party finally climbs out of the mines, the beautiful morning sun rises over the mountains as you find yourselves on a steep mountain road. 
+Now we return, as our party finally climbs out of the mines, the beautiful morning sun rises over the mountains as you find yourselves on a steep mountain road. The world around you is bright as the sun reflects off the heavy snow, but large dark clouds loom above, and quickly large flakes of snow begin to fall upon you as the clouds block out the sun. This storm has come quickly, and with great magnitude.
 
 ---
 
