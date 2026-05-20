@@ -24,5 +24,8 @@ aliases:
 	- Corrupted Druid grove / tree in the center
 	- Rune of the Woodsman: grants the holder double damage the tree
 	- Rune of the Hunter: grants the holder double damage against the druid's Wildshapes
-	- Rune of the Shaman: grants the holder 1d6 healing at the start of their turns
-- 
+	- Rune of the Shaman: grants the holder control over a mystical bear on the battlefield
+- **Storm Knight**:
+	- lightning wielding paladin of Garthrax
+	- simple raid boss, 2 mechanics max, best used for the Spire of Virtue
+	- 
