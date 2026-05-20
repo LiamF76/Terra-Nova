@@ -10,8 +10,8 @@ Brainstorm:
 - party is traveling through the mountains point on the [[TVBO Pointcrawl Map]]
 - survival checks, dangerous temperatures, choosing a path between the forested path lower and the rocky path upper
 - Party runs into a camp, they need shelter and can either go to the camp, or into a nearby cave, session branches
-	- Camp: RP encounter with a diplomat from the Triumvirate Scales, an elf woman (actually Vesponous in disguise). Discuss the situation, woman sent by Vesponous to negotiate a surrender from the Judge of Westwood, and a Knight of Garthrax was sent to destroy the artifact and take the Valley by force. Vesponous working diplomacy, Aldros working military.
-	- Cave: Stealth encounter, sneaking past the scouts / enemies. Run into a Kobold defector from the Triumvirate, he agrees to help the party and will give them information on the Fortress where the artifact is if they agree to help him get safely into Sovrentia and protect him.
+	- Camp: RP encounter with a diplomat from the Triumvirate Scales, an elf woman (actually Vesponous in disguise). Discuss the situation, woman sent by Vesponous to negotiate a surrender from the Judge of Westwood, and a Knight of Garthrax was sent to destroy the artifact and take the Valley by force. Vesponous working diplomacy, Aldros working military. Woman comments on Thalia's magic having a similar feeling to Aldros'.
+	- Cave: Stealth encounter, sneaking past the scouts / enemies. Run into a Kobold defector from the Triumvirate, he agrees to help the party and will give them information on the Fortress where the artifact is if they agree to help him get safely into Sovrentia and protect him. Kobold comments on Thalia's magic smelling like Aldros'.
 
 ---
 
