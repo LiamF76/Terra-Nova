@@ -11,9 +11,80 @@ Brainstorm:
 - survival checks, dangerous temperatures, choosing a path between the forested path lower and the rocky path upper
 - Party runs into a camp, they need shelter and can either go to the camp, or into a nearby cave, session branches
 	- Camp: RP encounter with a diplomat from the Triumvirate Scales, an elf woman (actually Vesponous in disguise). Discuss the situation, woman sent by Vesponous to negotiate a surrender from the Judge of Westwood, and a Knight of Garthrax was sent to destroy the artifact and take the Valley by force. Vesponous working diplomacy, Aldros working military.
-	- Cave: Stealth encounter, sneaking past the scouts, and see an army gathering north, at the base of the mountains on the Triumvirate side. One scout 
+	- Cave: Stealth encounter, sneaking past the scouts / enemies. Run into a Kobold defector from the Triumvirate, he agrees to help the party and will give them information on the Fortress where the artifact is if they agree to help him get safely into Sovrentia and protect him.
 
 ---
 
-## Session Intro
+## Session intro
 
+Hello and welcome to another exciting installment of Tales of Terra-Nova! I am your humble dungeon master and you are my valley voyeurs! Say hi valley voyeurs! 
+
+*Audrey! What's our fun question this session?*
+
+In our previous session we delved through an ancient Dwarven mine, left in ruins by a necromantic virus known as the Necrosurge! WE defeated the monsters within, and were rewarded with a small amount of riches. 
+
+Now we return, as our party finally climbs out of the mines, the beautiful morning sun rises over the mountains as you find yourselves on a steep mountain road. 
+
+---
+
+## Room 1: Entrance Guardian
+
+#### **TBD**
+
+DM NOTE: Describe the encounter / overview of the room
+
+*Set the Scene*: TBD
+
+TBD
+
+**Enemies**: 
+
+---
+
+## Room 2: Puzzle or Roleplaying Challenge
+
+#### **TBD**
+
+DM NOTE: Describe the encounter / overview of the room
+
+*Set the Scene*: TBD
+
+TBD
+
+---
+
+## Room 3: Trick or Setback
+
+#### **TBD**
+
+DM NOTE: Describe the encounter / overview of the room
+
+*Set the Scene*: TBD
+
+TBD
+
+---
+
+## Room 4: Climax, Big Battle
+
+#### **TBD**
+
+DM NOTE: Describe the encounter / overview of the room
+
+*Set the Scene*: TBD
+
+TBD
+
+**Enemies**: 
+
+---
+
+## Room 5: Reward, Revelation, Plot Twist
+
+#### **TBD**
+
+DM NOTE: Describe the encounter / overview of the room
+
+*Set the Scene*: TBD
+
+TBD
