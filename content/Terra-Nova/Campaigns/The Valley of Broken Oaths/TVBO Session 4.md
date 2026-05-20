@@ -20,8 +20,9 @@ Brainstorm:
 Hello and welcome to another exciting installment of Tales of Terra-Nova! I am your humble dungeon master and you are my valley voyeurs! Say hi valley voyeurs! 
 
 *Audrey! What's our fun question this session?*
+Awesome! Thank's for sharing everyone.
 
-In our previous session we delved through an ancient Dwarven mine, left in ruins by a necromantic virus known as the Necrosurge! WE defeated the monsters within, and were rewarded with a small amount of riches. 
+In our previous session we delved through an ancient Dwarven mine, left in ruins by a necromantic virus known as the Necrosurge! We defeated the monsters within, and were rewarded with a small amount of riches. 
 
 Now we return, as our party finally climbs out of the mines, the beautiful morning sun rises over the mountains as you find yourselves on a steep mountain road. 
 
