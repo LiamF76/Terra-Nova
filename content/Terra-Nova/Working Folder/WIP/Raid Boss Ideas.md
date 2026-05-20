@@ -21,5 +21,8 @@ aliases:
 	- 2 undead choir, at the end of each of their turns adds 1 to the Deathsong
 - **Dark Druid**: 
 	- Wildshape phases, each phase has different abilities, separate health bars, etc...
-	- 
+	- Corrupted Druid grove / tree in the center
+	- Rune of the Woodsman: grants the holder double damage the tree
+	- Rune of the Hunter: grants the holder double damage against the druid's Wildshapes
+	- Rune of the Shaman: grants the holder 1d6 healing at the start of their turns
 - 
