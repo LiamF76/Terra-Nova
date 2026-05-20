@@ -30,9 +30,9 @@ Now we return, as our party finally climbs out of the mines, the beautiful morni
 
 ## Room 1: Entrance Guardian
 
-#### **TBD**
+#### **Brutal Snow**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Party travels along the Mountain road, the weather is extreme, freezing temperatures and powerful winds. Survival checks to make it through unharmed.
 
 *Set the Scene*: TBD
 
