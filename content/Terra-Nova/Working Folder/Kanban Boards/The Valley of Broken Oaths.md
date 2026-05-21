@@ -47,7 +47,7 @@ kanban-plugin: board
 - [ ] [[Bark]]
 	- Spirit of the Valley
 	- Herald of the Wood
-- [ ] [[Timothy]]
+- [ ] [[Flick]]
 	- kobold knight
 
 

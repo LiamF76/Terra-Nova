@@ -6,7 +6,8 @@ aliases:
 
 ![[Timothy-1779324190464.webp|500x499]]
 
-Name: **Timothy**, Aliases
+Name: **Flick**, Aliases
+
 
 Voice: Voice Description
 - Example Dialogue

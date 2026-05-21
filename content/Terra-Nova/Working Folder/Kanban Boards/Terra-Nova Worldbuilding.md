@@ -33,6 +33,11 @@ kanban-plugin: board
 - [ ] [[Gods of Terra-Nova|Gods]]
 
 
+## The Iridescent Tablets
+
+- [ ] [[Verse 1- Position]]
+
+
 ***
 
 ## Archive
@@ -42,6 +47,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%

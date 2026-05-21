@@ -1,0 +1,26 @@
+---
+publish: false
+title: Verse 1- Position
+aliases:
+tags:
+  - Terra-Nova
+---
+
+## The Iridescent Tablets
+#### The Teachings of Khal Daraan
+
+---
+
+## Verse 1- Position
+
+Hold me incorrectly and I am still color, unmoving and worthless.
+
+Hold me correctly, slightly turned, running like water along the edge, and I become truth, and verdict.
+
+The faithful will call it mystery, but I am not so confusing or unknown. I call it training.
+
+Object, objective, objectivity. All things can only be seen within the frame from which you are looking. 
+
+Truth, reality, a sword beside a star. The reflection changes as I rotate my hand.
+
+Truth depends on how you hold it.
