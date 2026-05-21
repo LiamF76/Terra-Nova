@@ -25,6 +25,7 @@ kanban-plugin: board
 - [ ] [[TVBO Workshop]]
 - [ ] [[TVBO Pointcrawl Map]]
 - [ ] [[Promise Stones]]
+- [ ] [[The Valley of Broken Oaths Primer]]
 
 
 ## Characters
@@ -46,6 +47,8 @@ kanban-plugin: board
 - [ ] [[Bark]]
 	- Spirit of the Valley
 	- Herald of the Wood
+- [ ] [[Timothy]]
+	- kobold knight
 
 
 ## Locations
