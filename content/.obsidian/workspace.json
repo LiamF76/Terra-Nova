@@ -27,22 +27,14 @@
             "id": "fc2ca0d181413023",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Terra-Nova Worldbuilding"
+              "icon": "lucide-file",
+              "title": "9. The Tablet of Procedure"
             }
           }
         ],
@@ -187,8 +179,8 @@
   },
   "active": "fc2ca0d181413023",
   "lastOpenFiles": [
-    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/2. The Tablet of Ruin.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/3. Tablet of the Narrow Gate.md",
     "Dashboard.md",
