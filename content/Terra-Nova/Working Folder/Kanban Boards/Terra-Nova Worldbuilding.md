@@ -33,6 +33,13 @@ kanban-plugin: board
 - [ ] [[Gods of Terra-Nova|Gods]]
 
 
+## The Iridescent Tablets
+
+- [ ] [[1. The Tablet of Position]]
+- [ ] [[2. The Tablet of Ruin]]
+- [ ] [[3. Tablet of the Narrow Gate]]
+
+
 ***
 
 ## Archive
@@ -42,6 +49,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%

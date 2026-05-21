@@ -22,8 +22,31 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "3b206ff3e4e6825a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,14 +185,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3b206ff3e4e6825a",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
+    "conflict-files-obsidian-git.md",
+    "z Images/Timothy-1779324190464.webp",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/3. Tablet of the Narrow Gate.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/2. The Tablet of Ruin.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/1. The Tablet of Position.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets",
+    "Templates/Tablet Template.md",
+    "Flick.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
-    "conflict-files-obsidian-git.md",
     "Terra-Nova/Characters/People/Aldros.md",
     "z Images/Aldros-1779159809427.webp",
     "z Images/Aldros-1779156733188.webp",
@@ -188,12 +218,6 @@
     "Terra-Nova/Books/The Sparrow's Oath/Untitled.md",
     "Terra-Nova/Books/The Sparrow's Oath/TSO P2 Outline.md",
     "Terra-Nova/Books/The Sparrow's Oath",
-    "Terra-Nova/Books/The Sparrow Knight/TSK Outline.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 6.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 5.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 3.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 2.md",
-    "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
     "z Images/Balthazaar-1778455333557.webp",
     "z Images/Dagnitt's Mine-1778368734541.webp",
     "DungeonScrawl/dagnittBossRoom.ds",
@@ -208,8 +232,6 @@
     "z Images/The Night of Twisting Stars-1777916079434.webp",
     "z Images/Rakesh-1777922218315.webp",
     "z Images/Fading Wonder-1777920885789.webp",
-    "z Images/Fading Wonder-1777920806661.webp",
-    "Terra-Nova/History/Lore Documents",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
   ]

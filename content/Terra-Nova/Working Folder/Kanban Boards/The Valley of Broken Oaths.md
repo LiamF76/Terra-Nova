@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] [[The Spire of Virtue]]
 - [ ] [[TVBO Session 4]]
+	- [ ] Find mountain road background pic
+	- [ ] make kobold defector character
 - [ ] [[The Bloodstone Pass]]
 
 
@@ -23,6 +25,7 @@ kanban-plugin: board
 - [ ] [[TVBO Workshop]]
 - [ ] [[TVBO Pointcrawl Map]]
 - [ ] [[Promise Stones]]
+- [ ] [[The Valley of Broken Oaths Primer]]
 
 
 ## Characters
@@ -44,6 +47,8 @@ kanban-plugin: board
 - [ ] [[Bark]]
 	- Spirit of the Valley
 	- Herald of the Wood
+- [ ] [[Flick]]
+	- kobold knight
 
 
 ## Locations
