@@ -38,6 +38,7 @@ kanban-plugin: board
 - [ ] [[1. The Tablet of Position]]
 - [ ] [[2. The Tablet of Ruin]]
 - [ ] [[3. Tablet of the Narrow Gate]]
+- [ ] [[9. The Tablet of Procedure]]
 
 
 ***
