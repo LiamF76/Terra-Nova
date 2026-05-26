@@ -34,11 +34,15 @@ Now we return, as our party finally climbs out of the mines, the beautiful morni
 DM NOTE: Party travels along the Mountain road, the weather is extreme, freezing temperatures and powerful winds. Survival checks to make it through unharmed. They can see the fortress in the mountain peaks ahead, there are multiple fires lit, and something large and shadowed peaking from the castle. Twisted and tall, almost like a tree.
 Encounter focuses on party VS snow, and some navigation choices, go through heavy snow on a quicker path, but worry about rocks falling from above and being up to their waists in snow. Or travel along higher rocks without heavy snow but take longer, risk of falling.
 
-*Set the Scene*: The air along the path begins to howl and scream as the wind picks up. Powerful gusts of snow and wind strike you like punches, and the flurries and dark clouds make it nearly impossible to see. 
+*Set the Scene*: The air along the path begins to howl and scream as the wind picks up. Powerful gusts of snow and wind strike you like punches, and the flurries and dark clouds make it nearly impossible to see. The air is frigid and the snow is almost 4ft deep. The only sight that peaks through the gale is the scattered few lights of campfires, far ahead along the mountains, these fires dot the barely visible towers of a great fortress... the home of the Artifact.
 
-TBD
-
-**Enemies**: 
+Ahead of you lie two paths.
+- **Up the Rocks**: A precarious climb leads up steep and sharp rocks, high into the jagged stone hills. It is not covered in snow, but the heigh is great, and the road is thin and fragmented. This path looks safer from the cold, but will take longer to traverse. You also run the risk of injury or falling.
+	- *DEXTERITY SAVING THROWS*
+	- Flavor: {Player 1} as you step carefully forwards, a single stone slips beneath your feet and you feel your body tumble, {Player 2}, you see your ally suddenly begin to fall and feel your body react, what do you do to save them?
+- **Through the Snow**: Through the snow is the most direct and easy path forward, though there is heavy snowfall and it already reaches nearly 4ft thick. You will need to remain vigilant to follow the path ahead and not lose your way. You will also quickly become cold, but there is no fear of falling onto sharp rocks.
+	- *SURVIVAL CHECKS*
+	- Flavor: {Player 1}, as you wade through the heavy snowfall and walk along the path, a creature brushes along your leg and you hear a faint chitter from beneath in the snow. {Player 2}, you see just barely the figure of a creature beneath the pale snow, it darts around your party's legs, what do you do? (It's just a squirrel tunneling around in the snow.)
 
 ---
 
