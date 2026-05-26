@@ -34,7 +34,7 @@ Now we return, as our party finally climbs out of the mines, the beautiful morni
 DM NOTE: Party travels along the Mountain road, the weather is extreme, freezing temperatures and powerful winds. Survival checks to make it through unharmed. They can see the fortress in the mountain peaks ahead, there are multiple fires lit, and something large and shadowed peaking from the castle. Twisted and tall, almost like a tree.
 Encounter focuses on party VS snow, and some navigation choices, go through heavy snow on a quicker path, but worry about rocks falling from above and being up to their waists in snow. Or travel along higher rocks without heavy snow but take longer, risk of falling.
 
-*Set the Scene*: TBD
+*Set the Scene*: The air along the path begins to howl and scream as the wind picks up. Powerful gusts of snow and wind strike you like punches, and the flurries and dark clouds make it nearly impossible to see. 
 
 TBD
 
