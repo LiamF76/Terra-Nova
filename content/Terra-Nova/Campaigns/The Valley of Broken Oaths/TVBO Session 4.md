@@ -52,9 +52,14 @@ Ahead of you lie two paths.
 
 DM NOTE: Party travels through the mountains, sees knights mounted on Wyverns, almost gets caught but are helped by a Kobold. This Kobold is a traitor to the scales and wants to escape to Sovrentia, in exchange for helping the party. The Kobold has information about the Triumvirate plans and Aldros, as well as the Emissary ahead, and the enemies in the Fortress.
 
-*Set the Scene*: TBD
+*Set the Scene*: Finally after your hard fought travel, you reach a small cave, perfect to take shelter from the blizzard that has consumed the mountain. You enter the cave and find a small circle of stones and sticks, a crude unlit campfire was constructed. It may have been abandoned, but you will likely freeze to death is you try to reach the fortress during this weather.
+Perhaps some food and conversation to pass the time?
 
-TBD
+Let them sit / RP for a bit.
+- As you sit in the cave, you hear a single clink, metal on scales... appearing at the mouth of the cave is... a Kobold! He is smaller than usual, wearing a finely cleaned suit of Knight's armor, and holding what appears to be a torn piece of cloth on a stick. The cloth has snow on it, trying to make a white flag. "*I come in peace!*" It squeals as it approaches. 
+
+[[Flick]]
+- 
 
 ---
 
