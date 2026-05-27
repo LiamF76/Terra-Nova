@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] [[Triumvirate Scales Government]]
 - [ ] [[The Disciples of Iridescen]]
 - [ ] [[The Khal Hierarchy]]
+- [ ] [[Iridescen]]
 
 
 ## Backlog
@@ -35,13 +36,13 @@ kanban-plugin: board
 
 ## The Iridescent Tablets
 
-- [ ] [[1. The Tablet of Position]]
-- [ ] [[2. The Tablet of Ruin]]
-- [ ] [[3. Tablet of the Narrow Gate]]
-- [ ] [[4. Tablet of the Deep]]
-- [ ] [[5. The Tablet of Flow]]
-- [ ] [[9. The Tablet of Procedure]]
-- [ ] The Tablet of Towers
+- [x] [[1. The Tablet of Position]]
+- [x] [[2. The Tablet of Ruin]]
+- [x] [[3. Tablet of the Narrow Gate]]
+- [x] [[4. Tablet of the Deep]]
+- [x] [[5. The Tablet of Flow]]
+- [ ] [[6. The Tablet of Towers]]
+- [x] [[9. The Tablet of Procedure]]
 
 
 ***

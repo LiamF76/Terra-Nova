@@ -48,17 +48,17 @@
             }
           },
           {
-            "id": "5832c3396c6b77c1",
+            "id": "4bbeb50032a8a858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/History/Lore Documents/The Iridescent Tablets/5. The Tablet of Flow.md",
+                "file": "Iridescen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. The Tablet of Flow"
+              "title": "Iridescen"
             }
           }
         ],
@@ -109,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 266
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/History/Lore Documents/The Iridescent Tablets/5. The Tablet of Flow.md",
+                "file": "Iridescen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. The Tablet of Flow"
+              "title": "Backlinks for Iridescen"
             }
           }
         ],
@@ -191,18 +191,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5832c3396c6b77c1",
+  "active": "4bbeb50032a8a858",
   "lastOpenFiles": [
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-    "Dashboard.md",
-    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/5. The Tablet of Flow.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/The Iridescent Tablets.md",
+    "Iridescen.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/6. The Tablet of Towers.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/5. The Tablet of Flow.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/4. Tablet of the Deep.md",
-    "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
-    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/1. The Tablet of Position.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/3. Tablet of the Narrow Gate.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/2. The Tablet of Ruin.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/1. The Tablet of Position.md",
+    "z Images/Iridescen-1779848195891.webp",
+    "z Images/Iridescen-1779848178833.webp",
+    "Dashboard.md",
+    "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Player Characters.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
@@ -213,7 +218,6 @@
     "Hypatia.md",
     "conflict-files-obsidian-git.md",
     "z Images/Hypatia-1779838872950.webp",
-    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
     "Templates/Tablet Template.md",
     "Templates/Untitled",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets",
@@ -221,8 +225,6 @@
     "z Images/Timothy-1779324190464.webp",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/The Valley of Broken Oaths Primer.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
-    "Terra-Nova/dungeons/The Spire of Virtue.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "z Images/Aldros-1779159809427.webp",
     "z Images/Aldros-1779156733188.webp",
     "Terra-Nova/Organizations/Governments",
@@ -231,8 +233,6 @@
     "z Images/Balthazaar-1778455333557.webp",
     "Statblocks/Old Statblocks/zyrathia voidcaller.png",
     "Statblocks/Old Statblocks/zombie.png",
-    "Statblocks/Old Statblocks/young white dragon.png",
-    "Statblocks/Old Statblocks/young silver dragon.png",
     "Statblocks/Old Statblocks",
     "Statblocks/Homebrew Blocks",
     "Statblocks",
