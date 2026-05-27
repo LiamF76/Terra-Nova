@@ -49,6 +49,8 @@ kanban-plugin: board
 	- Herald of the Wood
 - [ ] [[Flick]]
 	- kobold knight
+- [ ] [[Aldros]]
+- [ ] [[Hypatia]]
 
 
 ## Locations

@@ -71,7 +71,7 @@ Let them sit / RP for a bit.
 
 #### **TBD**
 
-DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to negotiate surrender from the valley. She sends a soldier bearing a white flag to invite the party for a meeting. They meet in her tent if the party accepts. 
+DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to negotiate surrender from the valley. She sends a soldier bearing a white flag to invite the party for a meeting. They meet in her tent if the party accepts. The emissary is actually Vesponous, but she is disguised as Hypatia Laethire. She is making a play to steal a magical item, a key, from Westwood Village, she knows it is in the possession of Judge Finnick, and will use the meeting to poison him, and steal the key.
 
 *Set the Scene*: TBD
 

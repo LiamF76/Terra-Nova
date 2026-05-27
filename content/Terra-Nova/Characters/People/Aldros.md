@@ -11,7 +11,7 @@ tags:
 | ----------------------------------- | ----------------------------------- |
 | ![[Aldros-1779156733188.webp\|500]] | ![[Aldros-1779159809427.webp\|500]] |
 
-Name: **Aldros**, Wyrm-Chosen
+Name: **Aldros**, Wyrm-Chosen, **Do Pogaan, Gein** (Of many, one)
 
 Voice: disembodied echo, think Oryx / aspects of Oryx, distorted and modulated by his magic
 - "If it dies it deserved death. I live, therefor I deserve to survive."
@@ -24,5 +24,5 @@ Description: male, 7ft tall, strong muscular frame, wears symbiotic black armor 
 Important Info: 
 - Aldros serves the Dragon Rulers of [[The Triumvirate Scales]]
 - Believer of 'The Sword's Scale', a chromatic Dragonborn religion in which Dragons are their Gods and rulers, dragonborn are servants and citizens, and every other living thing exists as a a slave to the Dragons.
-- Able to create manifestations of himself called Aspects. These Aspects possess a fraction of his power, and are controlled by Aldros. The Aspects are spectral skeletal manifestations of Aldros that fight and enact his will, the will of the Dragon Rulers.
+- Able to create manifestations of himself called Aspects. Aspects possess a fraction of his power, and are controlled by Aldros. The Aspects are spectral skeletal manifestations of Aldros that fight and enact his will, the will of the Dragon Rulers.
 - 

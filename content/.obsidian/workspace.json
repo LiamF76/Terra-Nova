@@ -22,8 +22,31 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "38a5cb1ddba09f14",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,12 +185,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "38a5cb1ddba09f14",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Dashboard.md",
+    "Hypatia.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
+    "Terra-Nova/Characters/People/Aldros.md",
+    "z Images/Hypatia-1779838872950.webp",
+    "Dashboard.md",
+    "conflict-files-obsidian-git.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/2. The Tablet of Ruin.md",
@@ -178,7 +204,6 @@
     "Templates/Tablet Template.md",
     "Flick.md",
     "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
-    "Terra-Nova/Characters/People/Aldros.md",
     "z Images/Aldros-1779159809427.webp",
     "z Images/Aldros-1779156733188.webp",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Player Characters.md",
@@ -193,8 +218,6 @@
     "Terra-Nova/Organizations/Governments & Nobility",
     "Terra-Nova/dungeons/Dagnitt's Mine.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 2 Enemies.md",
-    "Terra-Nova/Books/The Sparrow's Oath/Untitled.md",
-    "Terra-Nova/Books/The Sparrow's Oath/TSO P2 Outline.md",
     "Terra-Nova/Books/The Sparrow's Oath",
     "z Images/Balthazaar-1778455333557.webp",
     "z Images/Dagnitt's Mine-1778368734541.webp",
@@ -209,7 +232,6 @@
     "z Images/The Night of Twisting Stars-1777920628224.webp",
     "z Images/The Night of Twisting Stars-1777916079434.webp",
     "z Images/Rakesh-1777922218315.webp",
-    "z Images/Fading Wonder-1777920885789.webp",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
   ]
