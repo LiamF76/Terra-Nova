@@ -63,6 +63,8 @@ Let them sit / RP for a bit.
 - Wants to join Sovrentia because he heard their Knights get great benefits such as healing and land
 - Knows about an Emissary sent by Vesponous that is nearby, and would be willing to meet with the party (she is not connected with or allied to Aldros or the army that invaded the fortress / attacked the artifact)
 - Willing to show them to the fortress and the emissary
+- Warns the party about Aldros' army, at least 500 soldiers of the Triumvirate, waiting to attack the moment the Artifact is destroyed
+- Aldros is not at the Fortress, but one of his servants, a druid of the Poisoned Tree
 - 
 
 ---

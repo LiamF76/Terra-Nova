@@ -22,8 +22,51 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "bcf1b9e37f0d826f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TVBO Session 4"
+            }
+          },
+          {
+            "id": "48a50a953eb6801a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/History/Lore Documents/The Iridescent Tablets/1. The Tablet of Position.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. The Tablet of Position"
+            }
+          },
+          {
+            "id": "f5555d05aa05e8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raid Boss Ideas"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,17 +159,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arkfall/Worlds/Earth/Earth.md",
+                "file": "Terra-Nova/History/Lore Documents/The Iridescent Tablets/1. The Tablet of Position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Earth"
+              "title": "Backlinks for 1. The Tablet of Position"
             }
           }
         ],
@@ -152,17 +195,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "48a50a953eb6801a",
   "lastOpenFiles": [
-    "Hypatia.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Player Characters.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/1. The Tablet of Position.md",
+    "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/History/Lore Documents/A World of New Gods.md",
+    "Terra-Nova/Working Folder/WIP/The Disciples of Iridescen.md",
+    "Terra-Nova/Working Folder/WIP/The Khal Hierarchy.md",
+    "Terra-Nova/Characters/Dragons/Vesponous.md",
+    "Hypatia.md",
     "conflict-files-obsidian-git.md",
     "z Images/Hypatia-1779838872950.webp",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
-    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/1. The Tablet of Position.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/2. The Tablet of Ruin.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/3. Tablet of the Narrow Gate.md",
     "Templates/Tablet Template.md",
@@ -172,7 +222,6 @@
     "z Images/Timothy-1779324190464.webp",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/The Valley of Broken Oaths Primer.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
-    "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
     "Terra-Nova/dungeons/The Spire of Virtue.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Workshop.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
@@ -180,12 +229,7 @@
     "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
     "z Images/Aldros-1779159809427.webp",
     "z Images/Aldros-1779156733188.webp",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 3.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Grey Brainstorm.md",
-    "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
-    "Terra-Nova/Organizations/Governments & Nobility/Sovrentian Government.md",
     "Terra-Nova/Organizations/Governments",
-    "Vault To-Do.md",
     "Terra-Nova/Books/The Sparrow's Oath",
     "z Images/Dagnitt's Mine-1778368734541.webp",
     "z Images/Balthazaar-1778455333557.webp",

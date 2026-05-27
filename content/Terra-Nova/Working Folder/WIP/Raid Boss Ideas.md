@@ -27,6 +27,6 @@ aliases:
 	- Rune of the Shaman: grants the holder control over a mystical bear on the battlefield
 - **Storm Knight**:
 	- lightning wielding paladin of Garthrax
-	- simple raid boss, 2 mechanics max, best used for the Spire of Virtue
+	- simple raid boss, 2 mechanics max
 	- Static Charge: When hit with an attack by the Knight you become charged, double movement speed but you explode at the end of your turn dealing lightning damage
 	- 

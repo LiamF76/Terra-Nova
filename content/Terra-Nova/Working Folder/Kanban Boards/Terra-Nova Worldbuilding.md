@@ -11,8 +11,6 @@ kanban-plugin: board
 
 ## Lore Documents
 
-- [x] [[A World of New Gods]]
-	- Thalia
 - [ ] [[The Spell-Carvers]]
 - [ ] [[The City of Prophecy]]
 - [ ] [[The Tamoran Truth]]
@@ -26,6 +24,8 @@ kanban-plugin: board
 ## idk!
 
 - [ ] [[Triumvirate Scales Government]]
+- [ ] [[The Disciples of Iridescen]]
+- [ ] [[The Khal Hierarchy]]
 
 
 ## Backlog
@@ -47,6 +47,8 @@ kanban-plugin: board
 
 - [x] [[Mirror of Nothing]]
 - [x] [[It Always Ends in Killing]]
+- [x] [[A World of New Gods]]
+	- Thalia
 
 %% kanban:settings
 ```
