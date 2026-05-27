@@ -59,7 +59,7 @@ Let them sit / RP for a bit.
 - As you sit in the cave, you hear a single clink, metal on scales... appearing at the mouth of the cave is... a Kobold! He is smaller than usual, wearing a finely cleaned suit of Knight's armor, and holding what appears to be a torn piece of cloth on a stick. The cloth has snow on it, trying to make a white flag. "*I come in peace!*" It squeals as it approaches. 
 
 [[Flick]]
-- Flick deserted te Triumvirate army at the fortress
+- Flick deserted the Triumvirate army at the fortress
 - Wants to join Sovrentia because he heard their Knights get great benefits such as healing and land
 - Knows about an Emissary sent by Vesponous that is nearby, and would be willing to meet with the party (she is not connected with or allied to Aldros or the army that invaded the fortress / attacked the artifact)
 - Willing to show them to the fortress and the emissary
@@ -76,6 +76,9 @@ DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to 
 *Set the Scene*: TBD
 
 TBD
+
+[[Hypatia]]:
+- 
 
 ---
 
