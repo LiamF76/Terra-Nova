@@ -30,3 +30,4 @@ aliases:
 	- simple raid boss, 2 mechanics max
 	- Static Charge: When hit with an attack by the Knight you become charged, double movement speed but you explode at the end of your turn dealing lightning damage
 	- 
+
