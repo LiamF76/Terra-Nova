@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "f66fb2298a89339e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Session 4"
-            }
-          },
-          {
-            "id": "3fe45f626b7bbe84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypatia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypatia"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,12 +152,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3fe45f626b7bbe84",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Hypatia.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
-    "Hypatia.md",
     "Iridescen.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/The Iridescent Tablets.md",
