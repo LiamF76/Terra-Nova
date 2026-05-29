@@ -79,7 +79,7 @@ DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to 
 
 TBD
 
-[[Hypatia]]:
+#### [[Hypatia]]:
 - 
 
 ---

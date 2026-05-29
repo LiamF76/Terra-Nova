@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "f66fb2298a89339e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TVBO Session 4"
+            }
+          },
+          {
+            "id": "3fe45f626b7bbe84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypatia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypatia"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,8 +181,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3fe45f626b7bbe84",
   "lastOpenFiles": [
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Dashboard.md",
+    "Hypatia.md",
     "Iridescen.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/The Iridescent Tablets.md",
@@ -166,17 +199,13 @@
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/1. The Tablet of Position.md",
     "z Images/Iridescen-1779848195891.webp",
     "z Images/Iridescen-1779848178833.webp",
-    "Dashboard.md",
     "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Player Characters.md",
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/History/Lore Documents/A World of New Gods.md",
     "Terra-Nova/Working Folder/WIP/The Disciples of Iridescen.md",
     "Terra-Nova/Working Folder/WIP/The Khal Hierarchy.md",
     "Terra-Nova/Characters/Dragons/Vesponous.md",
-    "Hypatia.md",
     "conflict-files-obsidian-git.md",
     "z Images/Hypatia-1779838872950.webp",
     "Templates/Tablet Template.md",
