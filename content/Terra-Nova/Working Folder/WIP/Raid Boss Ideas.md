@@ -22,11 +22,12 @@ aliases:
 - **Dark Druid**: 
 	- Wildshape phases, each phase has different abilities, separate health bars, etc...
 	- Corrupted Druid grove / tree in the center
-	- Rune of the Woodsman: grants the holder double damage the tree
-	- Rune of the Hunter: grants the holder double damage against the druid's Wildshapes
-	- Rune of the Shaman: grants the holder control over a mystical bear on the battlefield
+	- 2 Power sources / mechanics:
+		- The Iridescen Tablet: Grants power over the beasts of the corrupted tree (will from Iridescen)
+		- The Artifact of Westwood Valley: Grants protection, a barrier around you with bonus AC and enemies can't end their turn in your space.
 - **Storm Knight**:
 	- lightning wielding paladin of Garthrax
-	- simple raid boss, 2 mechanics max, best used for the Spire of Virtue
+	- simple raid boss, 2 mechanics max
 	- Static Charge: When hit with an attack by the Knight you become charged, double movement speed but you explode at the end of your turn dealing lightning damage
 	- 
+
