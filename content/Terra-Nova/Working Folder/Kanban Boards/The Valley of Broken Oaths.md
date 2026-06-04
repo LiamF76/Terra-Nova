@@ -30,6 +30,10 @@ kanban-plugin: board
 
 ## Characters
 
+- [ ] [[Flick]]
+	- kobold knight
+- [ ] [[Hypatia]]
+- [ ] [[Aldros]]
 - [ ] [[Ciro]]
 	- Holy magic expert / priest
 - [ ] [[Aldros]]
@@ -47,10 +51,6 @@ kanban-plugin: board
 - [ ] [[Bark]]
 	- Spirit of the Valley
 	- Herald of the Wood
-- [ ] [[Flick]]
-	- kobold knight
-- [ ] [[Aldros]]
-- [ ] [[Hypatia]]
 
 
 ## Locations
