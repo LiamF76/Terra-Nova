@@ -80,6 +80,9 @@ DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to 
 TBD
 
 #### [[Hypatia]]: 
+- On a diplomatic mission to negotiate with Judge Finnick for the surrender of the Valley
+- Hoping to avoid open war by getting a formal surrender
+- Knows Garthrax disagrees with the plan, and has sent a powerful enemy to the fortress to guard the artifact while it is destoryed
 - 
 
 ---
