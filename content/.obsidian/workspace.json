@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "c330e032177cd767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raid Boss Ideas"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,12 +168,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c330e032177cd767",
   "lastOpenFiles": [
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
     "conflict-files-obsidian-git.md",
+    "DungeonScrawl/stormGate.ds",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Hypatia.md",
     "Iridescen.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
@@ -186,7 +202,6 @@
     "Flick.md",
     "z Images/Timothy-1779324190464.webp",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/The Valley of Broken Oaths Primer.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Pointcrawl Map.md",
     "z Images/Aldros-1779159809427.webp",
     "z Images/Aldros-1779156733188.webp",
     "Terra-Nova/Organizations/Governments",
@@ -199,7 +214,6 @@
     "Statblocks/Homebrew Blocks",
     "Statblocks",
     "DungeonScrawl/dagnittBossRoom.ds",
-    "DungeonScrawl/bloodstone pass boss.ds",
-    "DungeonScrawl"
+    "DungeonScrawl/bloodstone pass boss.ds"
   ]
 }
