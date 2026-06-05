@@ -76,11 +76,13 @@ DM NOTE:
 	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. 
 	- *Galvanic Pulse*: (Recharge 5–6), action
 	  Kendoltric raises his weapon skyward. Lightning crackles visibly around him. An orb of storm clouds and lightning forms above a point of Kendoltric's choosing within 30ft of him. At the start of his **next turn** it detonates.
-	  All creatures within **15 ft.** take **2d8 lightning damage** (DC 13 DEX save for half). Any **Charged** creature that fails the save takes an extra 1d6 and is knocked prone.
-	- *Iridescent Tablet*: Inside of a Lightning Pillar in the middle of the battlefield floats a small stone tablet. It crackles with a strange combination of pale light and electricity. Touching the tablet grants both the Charged condition and 'Iridescent Light.'
+	  All creatures within **15 ft.** radius take **2d8 lightning damage** (DC 13 DEX save for half). Any **Charged** creature that fails the save takes an extra 1d6 and is knocked prone. The ground in the 15ft radius becomes difficult terrain as the floor crackles with static. This terrain lasts until the end of Kendoltric's next turn.
+	- *Lightning Pillars*: There are lightning pillars that can be interacted with as a free action, they grant the Charged condition.
+	- *Iron Pillars*: There are Iron pillars that can be interacted with as a free action to remove the charged condition.
+	- *Iridescent Tablet*: Inside of a Lightning Pillar in the middle of the battlefield floats a small stone tablet. It appears to be absorbing lightning and channeling it into the artifact at the back of the room, it's light is pale and powerful. Touching the tablet grants both the Charged condition and 'Iridescent Light.'
 	- *Iridescent Light*: The creature glows with pale monochromatic waves of light. The creature gains truesight for 30ft, +2 to attack rolls, and +2 to saving throws. At the end of their turn make a DC 14 Wisdom saving throw: 
-		- Success: "*You have been judged, and found worthy.*" You retain the Iridescent Light and it's buffs.
-		- Failure: "*You have been judged, and found wanting.*" You lose the Iridescent Light. Those who fail cannot gain the condition again for 24 hours.
+		- Success: "*Your edge is sharp.*" You retain the Iridescent Light and it's buffs.
+		- Failure: "*You are no blade.*" You lose the Iridescent Light. Those who fail cannot gain the condition again for 24 hours.
 
 *Set the Scene*: TBD
 
