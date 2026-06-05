@@ -2,6 +2,7 @@
 publish: false
 title:
 aliases:
+tags:
 ---
 
 ## Raid Boss Ideas
