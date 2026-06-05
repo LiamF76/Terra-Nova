@@ -16,7 +16,7 @@ kanban-plugin: board
 ## Ideas
 
 - [ ] [[Campaign & Quest Ideas]]
-- [ ] [[Raid Boss Ideas]]
+- [ ] [[Raid Encounter Ideas]]
 
 
 ## Worldbuilding

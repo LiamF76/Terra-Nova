@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
+                "file": "Terra-Nova/Working Folder/WIP/Raid Encounter Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raid Boss Ideas"
+              "title": "Raid Encounter Ideas"
             }
           },
           {
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,15 +182,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "50938b45023e8ea3",
+  "active": "c330e032177cd767",
   "lastOpenFiles": [
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
-    "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
+    "Terra-Nova/Working Folder/WIP/Raid Encounter Ideas.md",
     "DungeonScrawl/stormGate.ds.crswap",
     "conflict-files-obsidian-git.md",
     "DungeonScrawl/stormGate.ds",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Hypatia.md",
     "Iridescen.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
