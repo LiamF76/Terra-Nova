@@ -16,7 +16,7 @@ Raid Mechanics:
 
 ## Room 1: Entrance Guardian
 
-#### **TBD**
+#### **The Storm Gate**
 
 DM NOTE: 
 - **The Storm Gate**:
@@ -34,9 +34,9 @@ TBD
 
 ---
 
-## Room 2: Puzzle or Roleplaying Challenge
+## Room 2: Trick or Setback 
 
-#### **TBD**
+#### **The Conduit Legion**
 
 DM NOTE: Describe the encounter / overview of the room
 
@@ -46,9 +46,9 @@ TBD
 
 ---
 
-## Room 3: Trick or Setback
+## Room 3: Puzzle or Roleplaying Challenge
 
-#### **TBD**
+#### **The Storming Stairs**
 
 DM NOTE: Describe the encounter / overview of the room
 
@@ -60,9 +60,20 @@ TBD
 
 ## Room 4: Climax, Big Battle
 
-#### **TBD**
+#### **Kendoltric, Storm Knight of Garthrax**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: 
+- **Kendoltric, Storm Knight of Garthrax**: 
+	- lightning wielding paladin of Garthrax
+	- simple raid boss, 2 mechanics max
+	- Immune to lightning damage, can charge himself using lightning pillars?
+	- *Static Charge*: on-hit passive
+	  When Kendoltric hits a creature with a melee attack, that creature becomes **Charged** until the end of its next turn.
+	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **1d6 lightning damage**. 
+	- *Galvanic Pulse*: (Recharge 5–6), action
+	  Kendoltric raises his weapon skyward. Lightning crackles visibly around him. An orb of storm clouds and lightning forms above a point of Kendoltric's choosing within 30ft of him. At the start of his **next turn** it detonates.
+	  All creatures within **15 ft.** take **2d8 lightning damage** (DC 13 DEX save for half). Any **Charged** creature that fails the save takes an extra 1d6 and is knocked prone.
+	- *Iridescent Tablet*: In the middle of the battlefield floats a small stone tablet. It crackles with a strange combination of pale light and electricity. 
 
 *Set the Scene*: TBD
 
@@ -81,16 +92,6 @@ creature:
 #### **TBD**
 
 DM NOTE: 
-- **Kendoltric, Storm Knight of Garthrax**: 
-	- lightning wielding paladin of Garthrax
-	- simple raid boss, 2 mechanics max
-	- Immune to lightning damage, can charge himself using lightning pillars?
-	- *Static Charge*: on-hit passive
-	  When Kendoltric hits a creature with a melee attack, that creature becomes **Charged** until the end of its next turn.
-	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **1d6 lightning damage**. 
-	- *Galvanic Pulse*: (Recharge 5–6), action
-	  Kendoltric raises his weapon skyward. Lightning crackles visibly around him. An orb of storm clouds and lightning forms above a point of Kendoltric's choosing within 30ft of him. At the start of his **next turn** it detonates.
-	  All creatures within **15 ft.** take **2d8 lightning damage** (DC 13 DEX save for half). Any **Charged** creature that fails the save takes an extra 1d6 and is knocked prone.
 
 *Set the Scene*: TBD
 
