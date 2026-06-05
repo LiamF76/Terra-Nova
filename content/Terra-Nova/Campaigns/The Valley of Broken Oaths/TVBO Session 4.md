@@ -80,6 +80,13 @@ DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to 
 TBD
 
 #### [[Hypatia]]: 
+
+**PC reactions**:
+- Thalia: "Well darling I suppose you haven't hear much if at all of me. I'm your Aunt Hypatia! Poor girl, those cheekbones, that's what she gets for mingling with men and their... fleeting vitality."
+- Sobek: "My my look at this creature, you look like you could engage in wonderful fisticuffs."
+- Jerran: "Unremarkable."
+
+**Dialogue**:
 - On a diplomatic mission to negotiate with Judge Finnick for the surrender of the Valley
 - Hoping to avoid open war by getting a formal surrender
 - Knows Garthrax disagrees with the plan, and has sent a powerful enemy to the fortress to guard the artifact while it is destoryed
