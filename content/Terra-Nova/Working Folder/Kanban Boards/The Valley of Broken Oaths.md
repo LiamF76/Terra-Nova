@@ -10,7 +10,6 @@ kanban-plugin: board
 - [ ] [[TVBO Session 4]]
 	- [ ] Find mountain road background pic
 	- [ ] make kobold defector character
-- [ ] [[The Bloodstone Pass]]
 
 
 ## Ideas
@@ -69,6 +68,7 @@ kanban-plugin: board
 - [x] [[TVBO Session 3]]
 - [x] [[Dagnitt's Mine]]
 - [x] [[Grey Brainstorm]]
+- [ ] [[The Bloodstone Pass]]
 
 %% kanban:settings
 ```
