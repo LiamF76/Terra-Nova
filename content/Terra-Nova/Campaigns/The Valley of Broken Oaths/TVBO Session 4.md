@@ -34,7 +34,7 @@ Now we return, as our party finally climbs out of the mines, the beautiful morni
 DM NOTE: Party travels along the Mountain road, the weather is extreme, freezing temperatures and powerful winds. Survival checks to make it through unharmed. They can see the fortress in the mountain peaks ahead, there are multiple fires lit, and something large and shadowed peaking from the castle. Twisted and tall, almost like a tree.
 Encounter focuses on party VS snow, and some navigation choices, go through heavy snow on a quicker path, but worry about rocks falling from above and being up to their waists in snow. Or travel along higher rocks without heavy snow but take longer, risk of falling.
 
-*Set the Scene*: The air along the path begins to howl and scream as the wind picks up. Powerful gusts of snow and wind strike you like punches, and the flurries and dark clouds make it nearly impossible to see. The air is frigid and the snow is almost 4ft deep. The only sight that peaks through the gale is the scattered few lights of campfires, far ahead along the mountains, these fires dot the barely visible towers of a great fortress... the home of the Artifact.
+*Set the Scene*: The air along the path begins to howl and scream as the wind picks up. Powerful gusts of snow and wind strike you like punches, and the flurries and dark clouds make it nearly impossible to see. The air is frigid and the snow is almost 4ft deep. The only sight that peaks through the gale is the scattered few lights of campfires, far ahead along the mountains, these fires dot the barely visible towers of a great fortress... the home of the Artifact. Despite the snow, you can see the dark storm clouds and bolts of lightning striking the fortress, an arcane tempest consuming your destination.
 
 Ahead of you lie two paths.
 - **Up the Rocks**: A precarious climb leads up steep and sharp rocks, high into the jagged stone hills. It is not covered in snow, but the heigh is great, and the road is thin and fragmented. This path looks safer from the cold, but will take longer to traverse. You also run the risk of injury or falling.
@@ -56,15 +56,16 @@ DM NOTE: Party travels through the mountains, sees knights mounted on Wyverns, a
 Perhaps some food and conversation to pass the time?
 
 Let them sit / RP for a bit.
-- As you sit in the cave, you hear a single clink, metal on scales... appearing at the mouth of the cave is... a Kobold! He is smaller than usual, wearing a finely cleaned suit of Knight's armor, and holding what appears to be a torn piece of cloth on a stick. The cloth has snow on it, trying to make a white flag. "*I come in peace!*" It squeals as it approaches. 
+- As you sit in the cave, you hear a single clink, metal on scales... appearing at the mouth of the cave is... a Kobold! He is smaller than usual, wearing a finely cleaned suit of Knight's armor, and holding what appears to be a torn piece of white cloth on a stick. "*I come in peace!*" It squeals as it approaches. 
 
-[[Flick]]
+### [[Flick]]: 
 - Flick deserted the Triumvirate army at the fortress
 - Wants to join Sovrentia because he heard their Knights get great benefits such as healing and land
 - Knows about an Emissary sent by Vesponous that is nearby, and would be willing to meet with the party (she is not connected with or allied to Aldros or the army that invaded the fortress / attacked the artifact)
-- Willing to show them to the fortress and the emissary
+- Willing to show them to the fortress and the emissary, the Fortress is clouded in a powerful storm, a gift from Garthrax to her Storm Knight.
 - Warns the party about Aldros' army, at least 500 soldiers of the Triumvirate, waiting to attack the moment the Artifact is destroyed
 - Aldros is not at the Fortress, but one of his servants, a druid of the Poisoned Tree
+- Hypatia already knows they are in the mountains, and Flick offers to escort them to her camp, and promises safe passage and negotiations.
 - 
 
 ---
@@ -79,12 +80,21 @@ DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to 
 
 TBD
 
-#### [[Hypatia]]: 
+### [[Hypatia]]:
+
+**PC reactions**:
+- Thalia: "Well darling I suppose you haven't hear much if at all of me. I'm your Aunt Hypatia! Poor girl, those cheekbones, that's what she gets for mingling with men and their... fleeting vitality."
+- Sobek: "My my look at this creature, you look like you could engage in wonderful fisticuffs."
+- Jerran: "Unremarkable."
+- 
+
+**Dialogue**:
 - On a diplomatic mission to negotiate with Judge Finnick for the surrender of the Valley
 - Hoping to avoid open war by getting a formal surrender
 - Knows Garthrax disagrees with the plan, and has sent a powerful enemy to the fortress to guard the artifact while it is destoryed
 - Powerful enemy: Kendoltric, Storm Knight of Garthrax
 - Offers the party the chance to work for her, will pay them well for joining as her warriors
+- In search of a special key for Vesponous, will pay or negotiate anything to get it from Judge Finnick
 - 
 
 ---

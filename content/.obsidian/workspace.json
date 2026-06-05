@@ -22,8 +22,31 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "a0e726fbe1feb2ab",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,17 +185,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a0e726fbe1feb2ab",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/dungeons/The Spire of Virtue.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Dashboard.md",
+    "conflict-files-obsidian-git.md",
+    "Terra-Nova/Working Folder/WIP/Raid Encounter Ideas.md",
     "Terra-Nova/Working Folder/WIP/Raid Boss Ideas.md",
     "DungeonScrawl/stormGate.ds.crswap",
     "DungeonScrawl/stormGate.ds",
     "Hypatia.md",
-    "conflict-files-obsidian-git.md",
     "z Images/Iridescen-1779848195891.webp",
     "z Images/Iridescen-1779848178833.webp",
     "Terra-Nova/Working Folder/WIP/The Disciples of Iridescen.md",
@@ -198,7 +222,6 @@
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 3.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Thalia.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Grey Brainstorm.md",
-    "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
     "Terra-Nova/Organizations/Governments & Nobility",
     "Terra-Nova/Books/The Sparrow's Oath",
     "z Images/Balthazaar-1778455333557.webp",
