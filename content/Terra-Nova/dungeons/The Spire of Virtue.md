@@ -12,7 +12,11 @@ Brainstorm
 Raid Mechanics:
 - *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **1d6 lightning damage**. 
 	- Iron Pillars absorb charge, Lightning Pillars grant it
+	- The Gate needs discharged to be opened
+	- The Legion needs to be discharged to be defeated
+	- The Stairs need charge to be climbed
 
+---
 
 ## Room 1: Entrance Guardian
 
@@ -22,7 +26,7 @@ DM NOTE:
 - **The Storm Gate**:
 	- Entrance encounter, lightning charged gateway to Fortress
 	- *Storm Herald*: Floats above the battlefield, cannot be damaged. On each of the Herald's turns it charges a player (if nobody is already charged), they become visibly charged, crackling with energy and lightning. At the start of it's next turn the marked player detonates dealing 3d6 lightning damage to everyone within 10ft. Marked players can reach out and transfer it to any ally they can touch
-	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **1d6 lightning damage**. 
+	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. 
 	- *Iron Pillars*: There are 3 Iron pillars on the battlefield, if a player stands within 10ft of the pillar, it absorbs the charged detonation. This deals 4d10 damage to the herald. When all 3 pillars are destroyed the Herald dies and the Storm Gate opens. The Master pylon is larger and controls the gate, and cannot be destroyed until the other 2 are.
 	- *Storm Spirits*: Battlefield is littered with storm spirits, little orbs that shoot lightning bolts and bigger tanky ones that do melee.
 
@@ -69,11 +73,14 @@ DM NOTE:
 	- Immune to lightning damage, can charge himself using lightning pillars?
 	- *Static Charge*: on-hit passive
 	  When Kendoltric hits a creature with a melee attack, that creature becomes **Charged** until the end of its next turn.
-	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **1d6 lightning damage**. 
+	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. 
 	- *Galvanic Pulse*: (Recharge 5–6), action
 	  Kendoltric raises his weapon skyward. Lightning crackles visibly around him. An orb of storm clouds and lightning forms above a point of Kendoltric's choosing within 30ft of him. At the start of his **next turn** it detonates.
 	  All creatures within **15 ft.** take **2d8 lightning damage** (DC 13 DEX save for half). Any **Charged** creature that fails the save takes an extra 1d6 and is knocked prone.
-	- *Iridescent Tablet*: In the middle of the battlefield floats a small stone tablet. It crackles with a strange combination of pale light and electricity. 
+	- *Iridescent Tablet*: Inside of a Lightning Pillar in the middle of the battlefield floats a small stone tablet. It crackles with a strange combination of pale light and electricity. Touching the tablet grants both the Charged condition and 'Iridescent Light.'
+	- *Iridescent Light*: The creature glows with pale monochromatic waves of light. The creature gains truesight for 30ft, +2 to attack rolls, and +2 to saving throws. At the end of their turn make a DC 14 Wisdom saving throw: 
+		- Success: "*You have been judged, and found worthy.*" You retain the Iridescent Light and it's buffs.
+		- Failure: "*You have been judged, and found wanting.*" You lose the Iridescent Light. Those who fail cannot gain the condition again for 24 hours.
 
 *Set the Scene*: TBD
 
