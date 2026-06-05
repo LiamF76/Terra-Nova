@@ -38,21 +38,21 @@
             }
           },
           {
-            "id": "50938b45023e8ea3",
+            "id": "4ef6371890f1e498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
+                "file": "Terra-Nova/dungeons/The Spire of Virtue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TVBO Session 4"
+              "title": "The Spire of Virtue"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,12 +182,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c330e032177cd767",
+  "active": "4ef6371890f1e498",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/WIP/Raid Encounter Ideas.md",
+    "Terra-Nova/dungeons/The Spire of Virtue.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
-    "Terra-Nova/Working Folder/WIP/Raid Encounter Ideas.md",
     "DungeonScrawl/stormGate.ds.crswap",
     "conflict-files-obsidian-git.md",
     "DungeonScrawl/stormGate.ds",
