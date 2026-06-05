@@ -22,7 +22,20 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
+      "timestamp": 1780622438353
+    },
+    {
+      "filepath": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+      "timestamp": 1780622437057
+    },
+    {
+      "filepath": "Dashboard.md",
+      "timestamp": 1780622435905
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
