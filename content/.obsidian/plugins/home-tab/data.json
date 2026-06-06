@@ -22,7 +22,16 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Dashboard.md",
+      "timestamp": 1780708894326
+    },
+    {
+      "filepath": "Terra-Nova/dungeons/The Spire of Virtue.md",
+      "timestamp": 1780708894150
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
