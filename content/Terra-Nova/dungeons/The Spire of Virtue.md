@@ -43,6 +43,7 @@ TBD
 #### **The Conduit Legion**
 
 DM NOTE: Describe the encounter / overview of the room
+- 
 
 *Set the Scene*: TBD
 
