@@ -43,7 +43,12 @@ TBD
 #### **The Conduit Legion**
 
 DM NOTE: Describe the encounter / overview of the room
-- 
+- **The Conduit Legion**:
+	- Big battle encounter, lots of enemies, make them feel powerful but drain resources
+	- Party has to summon the storm cloud holding the stairs to ascent the to the artifact.
+	- *Storm Lance*: Lightning ballista, works as a normal ballista when not charged, when person shooting is charged it deals extra 4d6 damage
+	- *Iron Pillars*: There are 3 Iron Pillars, each one needs to be charged by a player with the Charged condition.
+	- *Lightning Pillar*: There is 1 Lightning Pillar, it can grant the Charged condition to a player. The Lightning Pillar's charge refreshes on initiative count 20
 
 *Set the Scene*: TBD
 
@@ -78,7 +83,7 @@ DM NOTE:
 	- *Galvanic Pulse*: (Recharge 5–6), action
 	  Kendoltric raises his weapon skyward. Lightning crackles visibly around him. An orb of storm clouds and lightning forms above a point of Kendoltric's choosing within 30ft of him. At the start of his **next turn** it detonates.
 	  All creatures within **15 ft.** radius take **2d8 lightning damage** (DC 13 DEX save for half). Any **Charged** creature that fails the save takes an extra 1d6 and is knocked prone. The ground in the 15ft radius becomes difficult terrain as the floor crackles with static. This terrain lasts until the end of Kendoltric's next turn.
-	- *Lightning Pillars*: There are lightning pillars that can be interacted with as a free action, they grant the Charged condition.
+	- *Lightning Pillars*: There are lightning pillars that can be interacted with as a free action, they grant the Charged condition. They regain their charge on initiative count 20
 	- *Iron Pillars*: There are Iron pillars that can be interacted with as a free action to remove the charged condition.
 	- *Iridescent Tablet*: Inside of a Lightning Pillar in the middle of the battlefield floats a small stone tablet. It appears to be absorbing lightning and channeling it into the artifact at the back of the room, it's light is pale and powerful. Touching the tablet grants both the Charged condition and 'Iridescent Light.'
 	- *Iridescent Light*: The creature glows with pale monochromatic waves of light. The creature gains truesight for 30ft, +2 to attack rolls, and +2 to saving throws. At the end of their turn make a DC 14 Wisdom saving throw: 

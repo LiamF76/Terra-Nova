@@ -42,12 +42,9 @@ tags:
 	- *Storm Spirits*: Battlefield is littered with storm spirits, little orbs that shoot lightning bolts and bigger tanky ones that do melee.
 - **The Conduit Legion**:
 	- Big battle encounter, lots of enemies, make them feel powerful but drain resources
+	- Party has to summon the storm cloud holding the stairs to ascent the to the artifact.
 	- *Storm Lance*: Lightning ballista, works as a normal ballista when not charged, when person shooting is charged it deals extra 4d6 damage
-	- *Wave 1*:
-		- 
-	- *Wave 2*: 
-		- 
-	- *Wave 3*: 
-		- 
+	- *Iron Pillars*: There are 3 Iron Pillars, each one needs to be charged by a player with the Charged condition.
+	- *Lightning Pillar*: There is 1 Lightning Pillar, it can grant the Charged condition to a player. The Lightning Pillar's charge refreshes on initiative count 20
 
 
