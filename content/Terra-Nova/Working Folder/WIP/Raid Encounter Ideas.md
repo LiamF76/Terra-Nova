@@ -40,5 +40,12 @@ tags:
 	- *Storm Herald*: Floats above the battlefield, cannot be damaged. On each of the Herald's turns it marks a player (if nobody is already marked), they become visibly charged, crackling with energy and lightning. At the start of it's next turn the marked player detonates dealing 3d6 lightning damage to everyone within 10ft. Marked players can reach out and transfer it to any ally they can touch
 	- *Storm Pillars*: There are 3 storm pillars of pure lightning on the battlefield, if a player stands within 10ft of the pillar, it absorbs the marked detonation. This deals 4d10 damage to the herald. When all 3 pillars are destroyed the Herald dies and the Storm Gate opens. The Master pylon is larger and controls the gate, and cannot be destroyed until the other 2 are.
 	- *Storm Spirits*: Battlefield is littered with storm spirits, little orbs that shoot lightning bolts and bigger tanky ones that do melee.
-	- 
+- **The Conduit Legion**:
+	- Big battle encounter, lots of enemies, make them feel powerful but drain resources
+	- Party has to summon the storm cloud holding the stairs to ascent the to the artifact.
+	- *Storm Lance*: Lightning ballista, works as a normal ballista when not charged, when person shooting is charged it deals extra 4d6 damage
+	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. 
+	- *Iron Pillars*: There are 3 Iron Pillars, each one needs to be charged by a player with the Charged condition.
+	- *Lightning Pillar*: There is 1 Lightning Pillar, it can grant the Charged condition to a player. The Lightning Pillar's charge refreshes on initiative count 20
+
 
