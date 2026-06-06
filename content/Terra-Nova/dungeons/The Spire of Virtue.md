@@ -47,6 +47,7 @@ DM NOTE: Describe the encounter / overview of the room
 	- Big battle encounter, lots of enemies, make them feel powerful but drain resources
 	- Party has to summon the storm cloud holding the stairs to ascent the to the artifact.
 	- *Storm Lance*: Lightning ballista, works as a normal ballista when not charged, when person shooting is charged it deals extra 4d6 damage
+	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. 
 	- *Iron Pillars*: There are 3 Iron Pillars, each one needs to be charged by a player with the Charged condition.
 	- *Lightning Pillar*: There is 1 Lightning Pillar, it can grant the Charged condition to a player. The Lightning Pillar's charge refreshes on initiative count 20
 
