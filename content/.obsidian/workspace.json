@@ -10,11 +10,17 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -158,11 +164,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Terra-Nova/dungeons/The Spire of Virtue.md",
     "DungeonScrawl/conduitLegion.ds.crswap",
     "Terra-Nova/Working Folder/WIP/Raid Encounter Ideas.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Dashboard.md",
     "conflict-files-obsidian-git.md",
     "DungeonScrawl/conduitLegion.ds",
     "DungeonScrawl/relicChamber.ds.crswap",
