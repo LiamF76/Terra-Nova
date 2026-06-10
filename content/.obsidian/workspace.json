@@ -24,17 +24,25 @@
             }
           },
           {
-            "id": "d0b5d3962d364e60",
+            "id": "9dedb0de1db58efc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
             }
           }
         ],
@@ -177,9 +185,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d0b5d3962d364e60",
+  "active": "9dedb0de1db58efc",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Characters/People/Aldros.md",
@@ -206,7 +215,6 @@
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/4. Tablet of the Deep.md",
     "Terra-Nova/Characters/Extraplanar/Primodrials/Iridescen.md",
     "z Images/Hypatia-1779838872950.webp",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/2. The Tablet of Ruin.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/3. Tablet of the Narrow Gate.md",
