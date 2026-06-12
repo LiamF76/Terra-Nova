@@ -1,12 +1,12 @@
 ---
-publish: false
+publish: true
 title: A Child's Wish
 aliases:
 tags:
   - Terra-Nova
 ---
 
-Aldan was born on a night clouded by lightning and storm-clouds, a night heralded by Garthrax and her rage. In a city of the Blue Dargon's ruthless legions he was wrapped in dirty rags, and his mother held him. She prayed to his namesake, Aldred, to cures the dragons for their tyranny, for she was so starved she could not feed her baby. She weened him on blood, and mashed flesh. Raw meats and the water from dead bodies on the streets satiated the primal hunger of the child, until he grew.
+Aldan was born on a night clouded by lightning and storm-clouds, a night heralded by Garthrax and her rage. In a city of the Blue Dragon's ruthless legions he was wrapped in dirty rags, and his mother held him. She prayed to his namesake, Aldred, to cures the dragons for their tyranny, for she was so starved she could not feed her baby. She weened him on blood, and mashed flesh. Raw meats and the water from dead bodies on the streets satiated the primal hunger of the child, until he grew.
 
 Aldan was thin, starved like every child in the city, and as a young man was as close to a slave as any boy in Garthrax rule who was not fed enough to become a soldier. He carried coals up and down a hill, the soldiers cracking whips and barking orders in the Chromatic tongue. "Speaan, act, dir fah hin queen!" Speed, act, die for your Queen!
 
@@ -14,7 +14,7 @@ Aldan hated his queen. He wandered the streets of the city, the smell of rotting
 
 Aldan's mother died on the hill, a soldier kicked her body down, and told Aldan to pick her up, carry her to the cliff, and throw her over. She was to burn with the rest of them.
 
-Aldan toiled, barely able to stand, vomiting from the effort, the biols and scabs on his feet burned as he labored to carry his mother's corpse up the hill. He reached the top, and tossed her down, weeping as she landed with a wet and sickening crunch. Aldan could not bother to take a step backwards, to look adn see the life that awaited him back down the hill. He threw himself over the edge to follow his mother. 
+Aldan toiled, barely able to stand, vomiting from the effort, the boils and scabs on his feet burned as he labored to carry his mother's corpse up the hill. He reached the top, and tossed her down, weeping as she landed with a wet and sickening crunch. Aldan could not bother to take a step backwards, to look and see the life that awaited him back down the hill. He threw himself over the edge to follow his mother. 
 
 ---
 
