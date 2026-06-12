@@ -31,10 +31,9 @@ graph TD
   F --> J
 ```
 
+---
+
 The Triumvirate Scales are ruled by tyrannical and highly powerful dragons, as a result the only true form of law is their will. In order to maintain their lands in their desired manner they appoint followers to govern and positions of importance. Below are the 3 bodies of 'Government', divided by the dragon they serve.
-
-For a better visual see: [[Triumvirate Scales Government]]
-
 
 ## The Azure Court
 
