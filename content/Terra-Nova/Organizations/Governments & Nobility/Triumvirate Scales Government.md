@@ -11,7 +11,7 @@ The Triumvirate Scales are ruled by tyrannical and highly powerful dragons, as a
 For a better visual see: [[Triumvirate Scales Org Chart]]
 
 
-## The Azure Legion
+## The Azure Court
 
 The selected and honored warrior and military followers of the Blue Dragon [[Garthrax]].
 
@@ -24,7 +24,7 @@ The selected and honored warrior and military followers of the Blue Dragon [[Gar
 
 ---
 
-## The Honored Risen
+## The Risen Court
 
 The greatest and most powerful undead followers of the Black Dragon [[Gravebinder]]. 
 
@@ -36,7 +36,7 @@ The greatest and most powerful undead followers of the Black Dragon [[Gravebinde
 
 ---
 
-## The Laced Hands
+## The Spiteful Court
 
 The fervent and loyal worshippers of the Green Dragon [[Vesponous]]. 
 
