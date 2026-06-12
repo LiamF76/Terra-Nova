@@ -22,8 +22,31 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "92dcc738799f4e61",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +185,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "92dcc738799f4e61",
   "lastOpenFiles": [
     "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
