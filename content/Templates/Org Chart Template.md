@@ -7,24 +7,28 @@ tags:
 
 ```mermaid
 graph TD
-  A["👑 Emperor / Empress\nHead of State"]
-  B["🏛 High Council\nAdvisory body"]
-  C["⚔️ Grand Marshal\nCommander of armies"]
-  D["📜 Chancellor\nHead of governance"]
-  E["🔮 Arch-Mage\nHead of the Arcane Order"]
-  F["⚖️ High Magistrate\nChief of justice"]
-  G["🛡 Lord Commanders\nRegional military leaders"]
-  H["📋 Regional Governors\nProvincial administration"]
-  I["🔭 Circle of Mages\nSpellcasters & scholars"]
-  J["🏛 Magistrate Courts\nLower courts"]
+  A["👑 Emperor / Empress"]
+  D["📜 Chancellor"]
+  H["📋 Regional Governors"]
 
-  A --> B
+  subgraph MIL["⚔️ Military"]
+    C["Grand Marshal"]
+    G1["Lord Commander\nNorthern Reach"]
+    G2["Lord Commander\nSouthern March"]
+    G3["Lord Commander\nEastern Frontier"]
+    K["🏇 Cavalry Corps"]
+    L["🪃 Archer Legions"]
+    M["🛡 Infantry Divisions"]
+    C --> G1
+    C --> G2
+    C --> G3
+    G1 --> K
+    G2 --> L
+    G3 --> M
+  end
+
   A --> C
   A --> D
-  A --> E
-  A --> F
-  C --> G
+  C -. advises .-> D
   D --> H
-  E --> I
-  F --> J
 ```
