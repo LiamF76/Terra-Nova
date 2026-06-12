@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "d678313c76da9d8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Characters/People/Hypatia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypatia"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +152,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d678313c76da9d8f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Characters/People/Hypatia.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
@@ -193,7 +179,6 @@
     "Terra-Nova/dungeons/The Bloodstone Pass.md",
     "DungeonScrawl/stormGate.ds.crswap",
     "DungeonScrawl/stormGate.ds",
-    "Terra-Nova/Characters/People/Hypatia.md",
     "Iridescen.md",
     "z Images/Iridescen-1779848195891.webp",
     "z Images/Iridescen-1779848178833.webp",
