@@ -43,9 +43,9 @@ The selected and honored warrior and military followers of the Blue Dragon [[Gar
 - **The Superior**: 
 	- *Warmaster*: [[Lanxaad]]
 - **The Elite**: 
-	- 
+	- bbb
 - **The Honored**: 
-	- 
+	- bbb
 
 ---
 
@@ -54,9 +54,9 @@ The selected and honored warrior and military followers of the Blue Dragon [[Gar
 The greatest and most powerful undead followers of the Black Dragon [[Gravebinder]]. 
 
 - **The Lich Court**: A group of powerful Liches who advise and assist Gravebinder in magic and necromantic study.
-	- 
+	- bbb
 - **The Deathsingers**:
-	- 
+	- bbb
 - 
 
 ---
@@ -66,4 +66,4 @@ The greatest and most powerful undead followers of the Black Dragon [[Gravebinde
 The fervent and loyal worshippers of the Green Dragon [[Vesponous]]. 
 
 - **The Sarin Witches**: 
-	- 
+	- bbb
