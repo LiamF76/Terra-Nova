@@ -5,6 +5,7 @@ aliases:
 tags:
   - Terra-Nova
 ---
+
 ```mermaid
 graph TD
   A["👑 Emperor / Empress\nHead of State"]
