@@ -1,9 +1,8 @@
 ---
-publish: true
-title: Triumvirate Scales Org Chart
+publish: false
+title:
 aliases:
 tags:
-  - Terra-Nova
 ---
 
 ```mermaid
