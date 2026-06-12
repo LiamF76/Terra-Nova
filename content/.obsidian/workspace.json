@@ -158,13 +158,14 @@
       "homepage:Open homepage": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
