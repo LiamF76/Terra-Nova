@@ -82,6 +82,8 @@ TBD
 
 ### [[Hypatia]]:
 
+Keep her personality in mind. She gives off a specific energy, she does not care, and loves to drink. This is a game to her, she is invincible because Vesponous protects her.
+
 **PC reactions**:
 - Thalia: "Well darling I suppose you haven't hear much if at all of me. I'm your Aunt Hypatia! Poor girl, those cheekbones, that's what she gets for mingling with men and their... fleeting vitality."
 - Sobek: "My my look at this creature, you look like you could engage in wonderful fisticuffs."
