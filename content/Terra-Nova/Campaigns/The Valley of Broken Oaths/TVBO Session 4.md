@@ -63,9 +63,9 @@ Let them sit / RP for a bit.
 - Wants to join Sovrentia because he heard their Knights get great benefits such as healing and land
 - Knows about an Emissary sent by Vesponous that is nearby, and would be willing to meet with the party (she is not connected with or allied to Aldros or the army that invaded the fortress / attacked the artifact)
 - Willing to show them to the fortress and the emissary, the Fortress is clouded in a powerful storm, a gift from Garthrax to her Storm Knight.
-- Warns the party about Aldros' army, at least 500 soldiers of the Triumvirate, waiting to attack the moment the Artifact is destroyed
-- Aldros is not at the Fortress, but one of his servants, a druid of the Poisoned Tree
-- Hypatia already knows they are in the mountains, and Flick offers to escort them to her camp, and promises safe passage and negotiations.
+- Warns the party about Aldros' army, at least 500 soldiers of the Triumvirate, waiting to attack the moment the Artifact is destroyed.
+- Aldros is not at the Fortress, but some followers are.
+- Hypatia already knows they are in the mountains, and Flick offers to escort them to her camp, and promises safe passage and negotiations. 
 - 
 
 ---
@@ -76,9 +76,9 @@ Let them sit / RP for a bit.
 
 DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to negotiate surrender from the valley. She sends a soldier bearing a white flag to invite the party for a meeting. They meet in her tent if the party accepts. The emissary is actually Vesponous, but she is disguised as Hypatia Laethire. She is making a play to steal a magical item, a key, from Westwood Village, she knows it is in the possession of Judge Finnick, and will use the meeting to poison him, and steal the key.
 
-*Set the Scene*: TBD
+*Set the Scene*: The tent reeks of wet earth and something venomous beneath cheap incense. Every surface is draped in green silk, and a pair of living serpents wind lazily around the center pole. A tall elven woman with greying hair and a fine green dress turns and faces you, smiling as she steps from her desk, reveling many empty wine bottles. 
 
-TBD
+"Welcome darlings. So glad to finally meet my Niece and her servants!"
 
 ### [[Hypatia]]:
 
