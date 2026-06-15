@@ -10,11 +10,17 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -159,11 +165,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Templates/Org Chart Template.md",
     "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
     "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-    "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/Organizations/Governments & Nobility/The Arkonian Council.md",
     "Terra-Nova/Organizations/Governments & Nobility/Sovrentian Government.md",
