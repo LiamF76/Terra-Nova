@@ -19,6 +19,7 @@ kanban-plugin: board
 - [ ] TBD Green Knights
 	- Jerran
 - [ ] [[Count your Pieces]]
+- [ ] A Child's Wish
 
 
 ## idk!

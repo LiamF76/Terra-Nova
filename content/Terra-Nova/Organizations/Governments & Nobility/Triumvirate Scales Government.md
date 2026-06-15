@@ -9,7 +9,7 @@ tags:
 
 ```mermaid
 graph TD
-  A["👑 Emperor / Empress\nHead of State"]
+  A["Garthrax"]
   B["🏛 High Council\nAdvisory body"]
   C["⚔️ Grand Marshal\nCommander of armies"]
   D["📜 Chancellor\nHead of governance"]
@@ -52,9 +52,9 @@ The selected and honored warrior and military followers of the Blue Dragon [[Gar
 
 The greatest and most powerful undead followers of the Black Dragon [[Gravebinder]]. 
 
-- **The Lich Court**: A group of powerful Liches who advise and assist Gravebinder in magic and necromantic study.
+- **The Lich Council**: A group of powerful Liches who advise and assist Gravebinder in magic and necromantic study.
 	- bbb
-- **The Deathsingers**:
+- **The Deathsingers**: A trio of powerful mages who employ a necromantic melody known as 'The Deathsong' to kill and raise their foes as thralls.
 	- bbb
 - 
 

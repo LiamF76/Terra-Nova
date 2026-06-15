@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "47e5bfc3d3338cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,9 +178,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "47e5bfc3d3338cb1",
   "lastOpenFiles": [
     "Dashboard.md",
+    "conflict-files-obsidian-git.md",
+    "Terra-Nova/History/Lore Documents/A Child's Wish.md",
+    "Terra-Nova/Campaigns/Play by Post/Grey PBP Brainstorm.md",
     "Templates/Org Chart Template.md",
     "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
     "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
@@ -174,7 +192,6 @@
     "Terra-Nova/Organizations/Governments & Nobility/The Arkonian Council.md",
     "Terra-Nova/Organizations/Governments & Nobility/Sovrentian Government.md",
     "index.md",
-    "conflict-files-obsidian-git.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Characters/People/Aldros.md",
     "Terra-Nova/Characters/People/Hypatia.md",
@@ -197,9 +214,7 @@
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/6. The Tablet of Towers.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/5. The Tablet of Flow.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/4. Tablet of the Deep.md",
-    "Terra-Nova/Characters/Extraplanar/Primodrials/Iridescen.md",
     "z Images/Hypatia-1779838872950.webp",
-    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
     "z Images/Timothy-1779324190464.webp",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets",
     "z Images/Aldros-1779159809427.webp",
