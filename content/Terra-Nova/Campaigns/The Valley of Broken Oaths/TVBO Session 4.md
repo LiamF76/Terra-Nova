@@ -95,13 +95,14 @@ Keep her personality in mind. She gives off a specific energy, she does not care
 - Hoping to avoid open war by getting a formal surrender
 - Knows Garthrax disagrees with the plan, and has sent a powerful enemy to the fortress to guard the artifact while it is destroyed
 - Powerful enemy: Kendoltric, Storm Knight of Garthrax, warns them Kendoltric is powerful but not beyond them
-	- "A Storm Knight of Garthrax Legion awaits you in that fortress, doing unholy things to the artifact you cherist so dearly. He is powerful, Kendoltric, a thunder wielding warrior of great strength, but you can beat him. It's possible, but you will be tested."
+	- "A Storm Knight of the Azure Legion awaits you in that fortress, doing unholy things to the artifact you cherish so dearly. He is powerful, Kendoltric, a thunder wielding warrior of great strength, but you can beat him. It's possible, but you will be tested."
 - The one they must fear is [[Aldros]], Champion of Dragons, Wyrm-Chosen, **Do Pogaan, Gein** (Of many, one)
 	- "The one you must fear is Aldros. Champion of the Dragons, Wyrm-Chosen. The people call him Do Pogaan, Gein. In your language it means: Of many, one. He is vast, and his aspects lurk this world hunting any who stand against him."
 - Offers the party the chance to work for her, will pay them well for joining as her warriors
 	- "Join me. Join Vesponous. She is not so much of a violent tyrant as the other dragons. Someday she will devour them, and defend the world from something far worse than dragons."
 - In search of a special key for Vesponous, will pay or negotiate anything to get it from Judge Finnick
-- 
+- Offer's Thalia a deal
+	- "Tell you what my darling Niece, defeat this Kendoltric for me, it will help Vesponous out quite a bit. Do that and I will tell you all about why those little spells of yours sputter and wither at your fingertips."
 
 ---
 
