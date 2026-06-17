@@ -14,5 +14,6 @@ They are held together tightly, a strange sense of community, a family forged in
 
 A young boy, bound at the wrists, looks up in awe at the 12 great towers of the city, The Celgol Bells of Crystos. Forged by the first ruler, the first richest man in the world, the bells are enchanted and crafted of solid Celestial Gold, literal divine metal. they ring every hour on the hour, with the sounds of a heaven only the uppermost members of Xerathos' society experience.
 
-For the rich it is an hourly reminder of their paradise, for the slaves it speaks only to what they can hope for on the day they die.
+For the rich it is an hourly reminder of their paradise, for the slaves it speaks only to what they can hope for on the day they die. The boy watches solid fragments of heaven, ring to signal and rule over his kind. Strange.
+
 

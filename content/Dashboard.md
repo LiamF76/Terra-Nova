@@ -36,3 +36,4 @@ Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terr
 
 In case of emergency:
 [[Break Glass.]]
+

@@ -14,8 +14,6 @@ kanban-plugin: board
 - [ ] [[The Spell-Carvers]]
 - [ ] [[The City of Prophecy]]
 - [ ] [[The Tamoran Truth]]
-- [ ] [[Fragments of the Past]]
-	- Thalia
 - [ ] TBD Green Knights
 	- Jerran
 - [ ] [[Count your Pieces]]
@@ -53,6 +51,8 @@ kanban-plugin: board
 - [x] [[Mirror of Nothing]]
 - [x] [[It Always Ends in Killing]]
 - [x] [[A World of New Gods]]
+	- Thalia
+- [x] [[Fragments of the Past]]
 	- Thalia
 
 %% kanban:settings
