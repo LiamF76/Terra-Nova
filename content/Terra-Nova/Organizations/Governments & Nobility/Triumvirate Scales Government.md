@@ -42,9 +42,11 @@ The selected and honored warrior and military followers of the Blue Dragon [[Gar
 - **The Superior**: 
 	- *Warmaster*: [[Lanxaad]]
 - **The Elite**: 
-	- bbb
+	- The Chosen Blade: 
+	- The Chosen Mage: 
 - **The Honored**: 
-	- bbb
+	- Stom Knight: [[Kendoltric]]
+	- 
 
 ---
 
@@ -53,7 +55,9 @@ The selected and honored warrior and military followers of the Blue Dragon [[Gar
 The greatest and most powerful undead followers of the Black Dragon [[Gravebinder]]. 
 
 - **The Lich Council**: A group of powerful Liches who advise and assist Gravebinder in magic and necromantic study.
-	- bbb
+	- Skull Weaver: [[Neyzuul]]
+	- Wyrm Herald: [[Kaalalriik]]
+	- 
 - **The Deathsingers**: A trio of powerful mages who employ a necromantic melody known as 'The Deathsong' to kill and raise their foes as thralls.
 	- bbb
 - 
