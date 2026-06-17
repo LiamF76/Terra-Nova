@@ -55,11 +55,13 @@ The selected and honored warrior and military followers of the Blue Dragon [[Gar
 The greatest and most powerful undead followers of the Black Dragon [[Gravebinder]]. 
 
 - **The Lich Council**: A group of powerful Liches who advise and assist Gravebinder in magic and necromantic study.
-	- Skull Weaver: [[Neyzuul]]
-	- Wyrm Herald: [[Kaalalriik]]
+	- *Skull Weaver*: [[Neyzuul]]
+	- *Wyrm Herald*: [[Kaalalriik]]
 	- 
 - **The Deathsingers**: A trio of powerful mages who employ a necromantic melody known as 'The Deathsong' to kill and raise their foes as thralls.
-	- bbb
+	- *The First Singer*: Halde
+	- *The Second Singer*: 
+	- *The Third Singer*: 
 - 
 
 ---

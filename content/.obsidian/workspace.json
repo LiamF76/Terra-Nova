@@ -22,49 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "90d00dd73f4b0565",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Terra-Nova Worldbuilding"
-            }
-          },
-          {
-            "id": "e00077ad6289bc69",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Triumvirate Scales Government"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +153,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e00077ad6289bc69",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova/Characters/Undead/Kaalalriik.md",
+    "Terra-Nova/Characters/Undead/Halde.md",
+    "z Images/Halde-1781724250323.webp",
     "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
+    "Terra-Nova/Characters/Undead/Kaalalriik.md",
     "z Images/Untitled-1781722011126.webp",
     "Terra-Nova/Characters/Undead/Neyzuul.md",
     "z Images/Neyzul-1781721587944.webp",
@@ -223,7 +184,6 @@
     "Terra-Nova/History/Lore Documents/A Child's Wish.md",
     "Terra-Nova/Characters/People/Aldros.md",
     "Terra-Nova/Campaigns/Play by Post/Grey PBP Brainstorm.md",
-    "Templates/Org Chart Template.md",
     "DungeonScrawl/relicChamber.ds",
     "DungeonScrawl/conduitLegion.ds",
     "DungeonScrawl/stormGate.ds.crswap",
@@ -239,7 +199,6 @@
     "Terra-Nova/Organizations/Governments",
     "Terra-Nova/Books/The Sparrow's Oath",
     "z Images/Dagnitt's Mine-1778368734541.webp",
-    "z Images/Balthazaar-1778455333557.webp",
     "Statblocks/Old Statblocks"
   ]
 }
