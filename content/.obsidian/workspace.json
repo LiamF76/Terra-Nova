@@ -48,17 +48,17 @@
             }
           },
           {
-            "id": "39f4fb8662460c00",
+            "id": "99ff925c7aebb453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Resources/Gameplay Resources/Magic in Terra-Nova.md",
+                "file": "Terra-Nova/Organizations/Major Factions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic in Terra-Nova"
+              "title": "Major Factions"
             }
           }
         ],
@@ -192,12 +192,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "39f4fb8662460c00",
+  "active": "99ff925c7aebb453",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-    "Dashboard.md",
-    "Terra-Nova/Resources/Gameplay Resources/Magic in Terra-Nova.md",
     "index.md",
+    "Terra-Nova/Organizations/Major Factions.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Resources/Gameplay Resources/Magic in Terra-Nova.md",
+    "Dashboard.md",
     "Vault To-Do.md",
     "Factions.md",
     "Terra-Nova/History/Lore Documents/A Standstill.md",
@@ -223,7 +224,6 @@
     "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
     "Terra-Nova/Working Folder/WIP/The Disciples of Iridescen.md",
     "Terra-Nova/History/Lore Documents/The Tamoran Truth.md",
-    "Terra-Nova/History/Lore Documents/Fragments of the Past.md",
     "DungeonScrawl/relicChamber.ds",
     "DungeonScrawl/conduitLegion.ds",
     "DungeonScrawl/stormGate.ds.crswap",
