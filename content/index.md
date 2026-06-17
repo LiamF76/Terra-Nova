@@ -27,7 +27,10 @@ Here are some helpful links to get you started.
 ## Geography
 > [!info] [[World Map]]
 
-> [!info] [[Terra-Nova/Geography/Space/Cosmology]]
+> [!info] [[Terra-Nova/Geography/Space/Cosmology|Cosmology]]
+
+## Magic
+> [!info] [[Magic in Terra-Nova]]
 
 ## Factions & Organizations
 > [!info] Factions

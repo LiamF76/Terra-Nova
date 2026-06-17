@@ -7,6 +7,8 @@ kanban-plugin: board
 ## Decision Tree
 
 - [ ] [[Worldbuilding Decision Tree]]
+- [ ] [[index]]
+- [ ] [[Magic in Terra-Nova]]
 
 
 ## Lore Documents
