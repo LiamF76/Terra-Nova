@@ -45,3 +45,7 @@ Some would say this is not Illuman's mercy, but he knew she would never renounce
 This deed led Rakesh along his path to war, to defending Sovrentia from Dragon Invaders and Estorian cultists. Now he is the Black Lion, his roar raises the sun in the morning, and his purrs allow it to set at night. 
 
 All hail the Grand Sun Hierophant, Maro's Chosen, defender of Sovrentia, and hero of Little Elysium. May you hear his roar and weep, for the wicked are burning, and the chosen are dancing all around you.
+
+---
+
+the day the artifact went dark, Illuman's light faded
