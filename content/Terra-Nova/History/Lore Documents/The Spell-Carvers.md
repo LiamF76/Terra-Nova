@@ -1,14 +1,11 @@
 ---
-publish: false
+publish: true
 title: The Spell-Carvers
 aliases:
 tags:
   - Terra-Nova
 ---
-lore note about one type of magic that endures, rune magic
-- Dwarven rune enchantments
-- giant rune spells
-- 
+
 ## The Spell-Carvers
 
 A year of labor, months of sweat dripped from the brow into the molten metal swirling in the smelter. Weeks of meticulous carving and careful penmanship. The runes had to be perfect, even the tiniest scratch or minor nick along the metal would weaken the magic.

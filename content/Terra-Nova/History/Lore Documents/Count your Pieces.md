@@ -16,4 +16,6 @@ A young boy, bound at the wrists, looks up in awe at the 12 great towers of the 
 
 For the rich it is an hourly reminder of their paradise, for the slaves it speaks only to what they can hope for on the day they die. The boy watches solid fragments of heaven, ring to signal and rule over his kind. Strange.
 
+---
+
 

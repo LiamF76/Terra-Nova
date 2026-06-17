@@ -11,9 +11,8 @@ kanban-plugin: board
 
 ## Lore Documents
 
-- [x] [[The Spell-Carvers]]
+- [x] [[The City of Prophecy]]
 - [ ] [[Count your Pieces]]
-- [ ] [[The City of Prophecy]]
 - [ ] [[The Tamoran Truth]]
 - [ ] TBD Green Knights
 	- Jerran
@@ -54,6 +53,7 @@ kanban-plugin: board
 	- Thalia
 - [x] [[Fragments of the Past]]
 	- Thalia
+- [x] [[The Spell-Carvers]]
 
 %% kanban:settings
 ```

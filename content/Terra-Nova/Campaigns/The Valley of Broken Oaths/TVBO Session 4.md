@@ -103,6 +103,7 @@ Keep her personality in mind. She gives off a specific energy, she does not care
 - In search of a special key for Vesponous, will pay or negotiate anything to get it from Judge Finnick
 - Offer's Thalia a deal
 	- "Tell you what my darling Niece, defeat this Kendoltric for me, it will help Vesponous out quite a bit. Do that and I will tell you all about why those little spells of yours sputter and wither at your fingertips."
+	- "I am a Disciple. Do you understand what that means? If not you must find out. I can say no more. You still have time."
 
 ---
 
