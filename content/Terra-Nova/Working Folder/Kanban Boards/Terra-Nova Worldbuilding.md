@@ -11,12 +11,12 @@ kanban-plugin: board
 
 ## Lore Documents
 
-- [ ] [[The Spell-Carvers]]
+- [x] [[The Spell-Carvers]]
+- [ ] [[Count your Pieces]]
 - [ ] [[The City of Prophecy]]
 - [ ] [[The Tamoran Truth]]
 - [ ] TBD Green Knights
 	- Jerran
-- [ ] [[Count your Pieces]]
 - [ ] A Child's Wish
 
 
