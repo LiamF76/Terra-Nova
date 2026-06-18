@@ -40,3 +40,4 @@ Message 1:
 Emrys Marcel, stepping forth from the Abyss, covered in ash and the blood of the demons you fought for what felt like an age, you are finally free from hell. As you set your foot once again on solid earth, you see a figure awaiting you, a mechanical man of steel and mana, Solace. Your companion who had fled the Abyss prior to your return, he is slightly mossed over, seeming to have been there quite a while. He greets you warmly and with gifts, fresh clothes, and nearby the Scar you just emerged from is a fortress where you can get a proper bath.
 
 You two make your way to the fortress, and in fresh Robes and finally washed clean of your immense labor in the Abyss, you make ready to call upon Aldred, to ask for his ear and to speak with his champion. What does Emrys' divine ritual to call upon the aid of his God look like? What does he do? What materials does he use?
+
