@@ -24,21 +24,45 @@
             }
           },
           {
-            "id": "2ca3d602051e1ddf",
+            "id": "043a2ee94681030d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
+          },
+          {
+            "id": "5db00d31845c73c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Campaigns/Play by Post/Grey PBP Brainstorm.md",
+                "file": "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grey PBP Brainstorm"
+              "title": "Triumvirate Scales Government"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266
+    "width": 266,
+    "collapsed": true
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -168,13 +193,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2ca3d602051e1ddf",
+  "active": "5db00d31845c73c1",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
     "Dashboard.md",
     "Terra-Nova/Campaigns/Play by Post/Grey PBP Brainstorm.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Organizations/Major Factions.md",
     "index.md",
     "Terra-Nova/Resources/Gameplay Resources/Magic in Terra-Nova.md",
@@ -185,7 +211,6 @@
     "Terra-Nova/History/Lore Documents/It Always Ends in Killing.md",
     "Terra-Nova/Characters/Undead/Halde.md",
     "z Images/Halde-1781724250323.webp",
-    "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
     "Terra-Nova/Characters/Undead/Kaalalriik.md",
     "z Images/Untitled-1781722011126.webp",
     "Terra-Nova/Characters/Undead/Neyzuul.md",
