@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "043a2ee94681030d",
+            "id": "662abf14c3831df4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -48,8 +48,9 @@
             }
           },
           {
-            "id": "5db00d31845c73c1",
+            "id": "cf88d0e52cd6f61e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -57,6 +58,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Triumvirate Scales Government"
             }
@@ -109,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266,
-    "collapsed": true
+    "width": 266
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -193,14 +194,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5db00d31845c73c1",
+  "active": "cf88d0e52cd6f61e",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Characters/People/Mutalis.md",
     "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
+    "z Images/Mutalis-1781886340337.webp",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Characters/Undead/Sulbaan.md",
+    "Terra-Nova/Working Folder/WIP/Raid Encounter Ideas.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
+    "z Images/Sulbaan-1781885175480.webp",
+    "Terra-Nova/Characters/Undead/Kaalalriik.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "Terra-Nova/Campaigns/Play by Post/Grey PBP Brainstorm.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/Organizations/Major Factions.md",
     "index.md",
     "Terra-Nova/Resources/Gameplay Resources/Magic in Terra-Nova.md",
@@ -211,7 +219,6 @@
     "Terra-Nova/History/Lore Documents/It Always Ends in Killing.md",
     "Terra-Nova/Characters/Undead/Halde.md",
     "z Images/Halde-1781724250323.webp",
-    "Terra-Nova/Characters/Undead/Kaalalriik.md",
     "z Images/Untitled-1781722011126.webp",
     "Terra-Nova/Characters/Undead/Neyzuul.md",
     "z Images/Neyzul-1781721587944.webp",
@@ -220,11 +227,6 @@
     "Terra-Nova/Characters/Extraplanar/Gods/Malos.md",
     "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Terra-Nova/Working Folder/WIP/The Khal Hierarchy.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
-    "Terra-Nova/Characters/People/Rakesh.md",
-    "Terra-Nova/History/Lore Documents/Count your Pieces.md",
-    "Terra-Nova/History/Lore Documents/The Spell-Carvers.md",
-    "Terra-Nova/Working Folder/Worldbuilding Decision Tree.md",
     "DungeonScrawl/relicChamber.ds",
     "DungeonScrawl/conduitLegion.ds",
     "DungeonScrawl/stormGate.ds.crswap",
@@ -236,10 +238,8 @@
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets",
     "z Images/Timothy-1779324190464.webp",
     "z Images/Aldros-1779159809427.webp",
-    "z Images/Aldros-1779156733188.webp",
     "Terra-Nova/Organizations/Governments",
     "Terra-Nova/Books/The Sparrow's Oath",
-    "z Images/Dagnitt's Mine-1778368734541.webp",
     "Statblocks/Old Statblocks"
   ]
 }

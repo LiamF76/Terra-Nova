@@ -21,7 +21,7 @@ Brainstorm:
 Hello and welcome to another exciting installment of Tales of Terra-Nova! I am your humble dungeon master and you are my valley voyeurs! Say hi valley voyeurs! 
 
 *Audrey! What's our fun question this session?*
-Awesome! Thank's for sharing everyone.
+Awesome! Thanks for sharing everyone.
 
 In our previous session we delved through an ancient Dwarven mine, left in ruins by a necromantic virus known as the Necrosurge! We defeated the monsters within, and were rewarded with a small amount of riches. 
 
@@ -82,13 +82,16 @@ DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to 
 
 ### [[Hypatia]]:
 
+Describe her physically / present reference photo.
 Keep her personality in mind. She gives off a specific energy, she does not care, and loves to drink. This is a game to her, she is invincible because Vesponous protects her.
 
 **PC reactions**:
 - Thalia: "Well darling I suppose you haven't hear much if at all of me. I'm your Aunt Hypatia! Poor girl, those cheekbones, that's what she gets for mingling with men and their... fleeting vitality."
 - Sobek: "My my look at this creature, you look like you could engage in wonderful fisticuffs."
 - Jerran: "Unremarkable."
-- 
+
+#### At some point in the conversation:
+"You want to know what you're up against? Come look!" She beckons and leads you out of the tent to a snowy ridge, where you can see an impending army north of the Valley, easily hundreds of soldiers of the Triumvirate, waiting for the artifact's protection to end. "If you don't want that army burning down your village I suggest you stop Garthrax's knight. Come back to the tent it's far too chilly outside."
 
 **Dialogue**:
 - On a diplomatic mission to negotiate with Judge Finnick for the surrender of the Valley
@@ -107,14 +110,4 @@ Keep her personality in mind. She gives off a specific energy, she does not care
 
 ---
 
-## The Grave
 
-#### **TBD**
-
-DM NOTE: Come across a grave where a Knight who defended the valley is buried, his tomb is marked by the symbol of Aldred, and his name is saintly. He is named as the Honorable Oathbreaker. They find is his grave and learn a bit about him but not what happened, or what the mentioned 'Broken Oath' is.
-
-*Set the Scene*: TBD
-
-TBD
-
-**Enemies**: 

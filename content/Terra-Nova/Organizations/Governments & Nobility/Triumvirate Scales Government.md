@@ -57,7 +57,7 @@ The greatest and most powerful undead followers of the Black Dragon [[Gravebinde
 - **The Lich Council**: A group of powerful Liches who advise and assist Gravebinder in magic and necromantic study.
 	- *Skull Weaver*: [[Neyzuul]]
 	- *Wyrm Herald*: [[Kaalalriik]]
-	- *King of Bones*: 
+	- *King of Bones*: [[Sulbaan]]
 - **The Deathsingers**: A trio of powerful mages who employ a necromantic melody known as 'The Deathsong' to kill and raise their foes as thralls.
 	- *The First Singer*: Halde
 	- *The Second Singer*: 
@@ -71,4 +71,9 @@ The greatest and most powerful undead followers of the Black Dragon [[Gravebinde
 The fervent and loyal worshippers of the Green Dragon [[Vesponous]]. 
 
 - **The Sarin Witches**: 
-	- bbb
+	- tbd
+- **The Bloodfir Druids**:
+	- tbd
+- **The Goblin Kings**: 
+	- *King of Boils*: [[Mutalis]]
+	- 
