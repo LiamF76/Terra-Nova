@@ -15,16 +15,24 @@ graph TD
   F["*The Chosen Mage*: "]
   G["*Storm Knight*: Kendoltric"]
   
-  B["**Green Dragon Queen**: Vesponous"]
+  B["**Black Dragon Queen**: Gravebinder"]
+  H["*Skull Weaver*: Neyzuul"]
+  I["*Wyrm Herald*: Kaalalriik"]
+  J["*King of Bones*: Sulbaan"]
   
   
-  C["**Black Dragon Queen**: Gravebinder"]
+  C["**Green Dragon Queen**: Vesponous"]
+  
   
 
   A --> D
   D --> E
   D --> F
   E --> G
+  
+  B --> H
+  B --> I
+  B --> J
   
 ```
 
