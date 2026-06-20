@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[The Spire of Virtue]]
 - [ ] [[TVBO Session 4]]
+- [ ] [[Post TVBO Brainstorm]]
 
 
 ## Ideas

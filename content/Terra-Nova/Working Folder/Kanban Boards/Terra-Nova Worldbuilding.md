@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] [[The Disciples of Iridescen]]
 - [ ] [[The Khal Hierarchy]]
 - [ ] [[Iridescen]]
+- [ ] [[Campaign & Quest Ideas]]
 
 
 ## Backlog
