@@ -30,12 +30,11 @@ kanban-plugin: board
 
 - [ ] [[Flick]]
 	- kobold knight
-- [ ] [[Hypatia]]
-- [ ] [[Aldros]]
-- [ ] [[Ciro]]
-	- Holy magic expert / priest
 - [ ] [[Aldros]]
 	- bad guy
+- [ ] [[Hypatia]]
+- [ ] [[Ciro]]
+	- Holy magic expert / priest
 - [ ] [[Finnick]]
 	- noble / lord / judge
 - [ ] [[Abraham]]

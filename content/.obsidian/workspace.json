@@ -24,29 +24,7 @@
             }
           },
           {
-            "id": "e012c56bd2ffa270",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
-          },
-          {
-            "id": "d6d35ef742b8aad8",
+            "id": "161b1ff5f26ad95c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,12 +168,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d6d35ef742b8aad8",
+  "active": "161b1ff5f26ad95c",
   "lastOpenFiles": [
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Post TVBO Brainstorm.md",
     "Dashboard.md",
+    "Post TVBO Brainstorm.md",
+    "Terra-Nova/Characters/People/Aldros.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/History/Lore Documents/A Child's Wish.md",
+    "Terra-Nova/History/Lore Documents/The City of Prophecy.md",
+    "Terra-Nova/History/Lore Documents/A Standstill.md",
+    "Terra-Nova/dungeons/The Spire of Virtue.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
     "Terra-Nova/Organizations/Governments & Nobility/Triumvirate Scales Government.md",
     "Terra-Nova/Characters/People/Lanxaad.md",
@@ -212,8 +195,6 @@
     "Terra-Nova/Resources/Gameplay Resources/Magic in Terra-Nova.md",
     "Vault To-Do.md",
     "Factions.md",
-    "Terra-Nova/History/Lore Documents/A Standstill.md",
-    "Terra-Nova/History/Lore Documents/The City of Prophecy.md",
     "Terra-Nova/History/Lore Documents/It Always Ends in Killing.md",
     "Terra-Nova/Characters/Undead/Halde.md",
     "z Images/Halde-1781724250323.webp",
@@ -221,9 +202,6 @@
     "Terra-Nova/Characters/Undead/Neyzuul.md",
     "z Images/Neyzul-1781721587944.webp",
     "Terra-Nova/Characters/Undead",
-    "Terra-Nova/Characters/People/Kendoltric.md",
-    "Terra-Nova/Characters/Extraplanar/Gods/Malos.md",
-    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
     "DungeonScrawl/relicChamber.ds",
     "DungeonScrawl/conduitLegion.ds",
     "DungeonScrawl/stormGate.ds.crswap",

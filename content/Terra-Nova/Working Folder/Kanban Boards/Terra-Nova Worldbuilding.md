@@ -13,13 +13,12 @@ kanban-plugin: board
 
 ## Lore Documents
 
-- [x] [[The City of Prophecy]]
+- [ ] [[The City of Prophecy]]
 - [ ] [[Count your Pieces]]
 - [ ] [[The Tamoran Truth]]
+- [ ] [[A Child's Wish]]
 - [ ] TBD Green Knights
 	- Jerran
-- [ ] A Child's Wish
-- [ ] [[A Standstill]]
 
 
 ## idk!
@@ -58,6 +57,7 @@ kanban-plugin: board
 - [x] [[Fragments of the Past]]
 	- Thalia
 - [x] [[The Spell-Carvers]]
+- [x] [[A Standstill]]
 
 %% kanban:settings
 ```
