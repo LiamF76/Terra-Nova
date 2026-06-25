@@ -1,14 +1,14 @@
 ---
 publish: false
-title: Malos
+title: Kaalalriik
 aliases:
 tags:
   - Terra-Nova
 ---
 
-![[image.png|300]]
+![[Untitled-1781722011126.webp|500x500]]
 
-Name: **Malos**,  God of Balance
+Name: **Kaalalriik**, The Wyrm Herald
 
 Voice: Voice Description
 - Example Dialogue

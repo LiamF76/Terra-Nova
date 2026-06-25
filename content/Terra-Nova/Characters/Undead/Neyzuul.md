@@ -1,14 +1,14 @@
 ---
 publish: false
-title: Malos
+title: Neyzul
 aliases:
 tags:
   - Terra-Nova
 ---
 
-![[image.png|300]]
+![[Neyzul-1781721587944.webp|500x702]]
 
-Name: **Malos**,  God of Balance
+Name: **Neyzuul**, The Skull Weaver
 
 Voice: Voice Description
 - Example Dialogue

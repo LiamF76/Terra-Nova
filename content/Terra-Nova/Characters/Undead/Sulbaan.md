@@ -1,14 +1,14 @@
 ---
 publish: false
-title: Malos
+title: Sulbaan
 aliases:
 tags:
   - Terra-Nova
 ---
 
-![[image.png|300]]
+![[Sulbaan-1781885175480.webp|500x426]]
 
-Name: **Malos**,  God of Balance
+Name: **Sulbaan**, The Bone King
 
 Voice: Voice Description
 - Example Dialogue

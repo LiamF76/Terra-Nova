@@ -13,6 +13,7 @@
 - *Commanders and Kings*: Wargame campaign where the players are all individual leaders of groups like mages, armies, or spy networks. All RP and gameplay is just their character playing like normal, but combat takes place on the field of battle in massive wargame battles. Perhaps tied to Kingmaker, or something where the party rules a nation?
 - *The Frontier of Wahellia*: Westmarches point-crawl. Explore and clear the wilds of Wahellia for settlement / safety of Lazarus and the continent.
 	- The Twisting Stars: Wahellia exists in a spacial / temporal rift where magic is very strong. Spirits walk the earth like Gods, and the dead rise and live again. Inside of this rift, the stars in the sky begin to twist and it looks almost like a spinning sky at night. This is unique to the Wahellian region. During the Twisting Stars, powerful astral forces invade and must be defeated before the ravage the land.
+- *Ivys Arthur Reborn*: Ivys Arthur, legendary White Wizard, demon, and son of Kairos, has finally passed after many hundreds of years of life. As a lesser Demon, Ivys will soon be reborn in the Abyss, without his knowledge of his past, but all his terrible powers. Agents of evil are searching for the reborn devil, and he must be found before they reach him. Scour the Abyss and find Ivys Arthur, before it's too late.
 - 
 
 ---
@@ -51,3 +52,4 @@
 - Small shrine with a single candle on top of it. When an offering is made, the candle comes to life. It's a spirit guide that leads ou out of darkness / away from danger. Could be in a shadowed or ruined land. Could be in an area of magical darkness. The spirit is a small blue flame inside a metal lantern, he is very polite and very British, but he won't work for free. Costs 1GP.
 - A great tree has fallen across the road. The upper parts of the tree are healthy and strong, but the base of the trunk is infested with winding lines of black necrosis beneath the bark. At the base of the tree a human hand has been infused with the roots above the earth. The hand is blackened with death and necromancy. (Some kind of magic check reveals necromancy and disease poisoned the tree through the hand.)
 - Ashes in the air. On the wind there are small pieces of ash, something great is burning. They are cold, meaning the source is not nearby, but it must be a massive fire to have reached so far. There is no smell of fire in the air.
+- 

@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Malos
+title: Kendoltric
 aliases:
 tags:
   - Terra-Nova
@@ -8,7 +8,7 @@ tags:
 
 ![[image.png|300]]
 
-Name: **Malos**,  God of Balance
+Name: **Kendoltric**, Storm Knight of Garthrax
 
 Voice: Voice Description
 - Example Dialogue

@@ -21,7 +21,7 @@ Brainstorm:
 Hello and welcome to another exciting installment of Tales of Terra-Nova! I am your humble dungeon master and you are my valley voyeurs! Say hi valley voyeurs! 
 
 *Audrey! What's our fun question this session?*
-Awesome! Thank's for sharing everyone.
+Awesome! Thanks for sharing everyone.
 
 In our previous session we delved through an ancient Dwarven mine, left in ruins by a necromantic virus known as the Necrosurge! We defeated the monsters within, and were rewarded with a small amount of riches. 
 
@@ -63,9 +63,9 @@ Let them sit / RP for a bit.
 - Wants to join Sovrentia because he heard their Knights get great benefits such as healing and land
 - Knows about an Emissary sent by Vesponous that is nearby, and would be willing to meet with the party (she is not connected with or allied to Aldros or the army that invaded the fortress / attacked the artifact)
 - Willing to show them to the fortress and the emissary, the Fortress is clouded in a powerful storm, a gift from Garthrax to her Storm Knight.
-- Warns the party about Aldros' army, at least 500 soldiers of the Triumvirate, waiting to attack the moment the Artifact is destroyed
-- Aldros is not at the Fortress, but one of his servants, a druid of the Poisoned Tree
-- Hypatia already knows they are in the mountains, and Flick offers to escort them to her camp, and promises safe passage and negotiations.
+- Warns the party about Aldros' army, at least 500 soldiers of the Triumvirate, waiting to attack the moment the Artifact is destroyed.
+- Aldros is not at the Fortress, but some followers are.
+- Hypatia already knows they are in the mountains, and Flick offers to escort them to her camp, and promises safe passage and negotiations. 
 - 
 
 ---
@@ -76,43 +76,38 @@ Let them sit / RP for a bit.
 
 DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to negotiate surrender from the valley. She sends a soldier bearing a white flag to invite the party for a meeting. They meet in her tent if the party accepts. The emissary is actually Vesponous, but she is disguised as Hypatia Laethire. She is making a play to steal a magical item, a key, from Westwood Village, she knows it is in the possession of Judge Finnick, and will use the meeting to poison him, and steal the key.
 
-*Set the Scene*: TBD
+*Set the Scene*: The tent reeks of wet earth and something venomous beneath cheap incense. Every surface is draped in green silk, and a pair of living serpents wind lazily around the center pole. A tall elven woman with greying hair and a fine green dress turns and faces you, smiling as she steps from her desk, reveling many empty wine bottles. 
 
-TBD
+"Welcome darlings. So glad to finally meet my Niece and her servants!"
 
 ### [[Hypatia]]:
 
+Describe her physically / present reference photo.
 Keep her personality in mind. She gives off a specific energy, she does not care, and loves to drink. This is a game to her, she is invincible because Vesponous protects her.
 
 **PC reactions**:
 - Thalia: "Well darling I suppose you haven't hear much if at all of me. I'm your Aunt Hypatia! Poor girl, those cheekbones, that's what she gets for mingling with men and their... fleeting vitality."
 - Sobek: "My my look at this creature, you look like you could engage in wonderful fisticuffs."
 - Jerran: "Unremarkable."
-- 
+
+#### At some point in the conversation:
+"You want to know what you're up against? Come look!" She beckons and leads you out of the tent to a snowy ridge, where you can see an impending army north of the Valley, easily hundreds of soldiers of the Triumvirate, waiting for the artifact's protection to end. "If you don't want that army burning down your village I suggest you stop Garthrax's knight. Come back to the tent it's far too chilly outside."
 
 **Dialogue**:
 - On a diplomatic mission to negotiate with Judge Finnick for the surrender of the Valley
 - Hoping to avoid open war by getting a formal surrender
 - Knows Garthrax disagrees with the plan, and has sent a powerful enemy to the fortress to guard the artifact while it is destroyed
 - Powerful enemy: Kendoltric, Storm Knight of Garthrax, warns them Kendoltric is powerful but not beyond them
-	- "A Storm Knight of Garthrax Legion awaits you in that fortress, doing unholy things to the artifact you cherist so dearly. He is powerful, Kendoltric, a thunder wielding warrior of great strength, but you can beat him. It's possible, but you will be tested."
+	- "A Storm Knight of the Azure Legion awaits you in that fortress, doing unholy things to the artifact you cherish so dearly. He is powerful, Kendoltric, a thunder wielding warrior of great strength, but you can beat him. It's possible, but you will be tested."
 - The one they must fear is [[Aldros]], Champion of Dragons, Wyrm-Chosen, **Do Pogaan, Gein** (Of many, one)
 	- "The one you must fear is Aldros. Champion of the Dragons, Wyrm-Chosen. The people call him Do Pogaan, Gein. In your language it means: Of many, one. He is vast, and his aspects lurk this world hunting any who stand against him."
 - Offers the party the chance to work for her, will pay them well for joining as her warriors
 	- "Join me. Join Vesponous. She is not so much of a violent tyrant as the other dragons. Someday she will devour them, and defend the world from something far worse than dragons."
 - In search of a special key for Vesponous, will pay or negotiate anything to get it from Judge Finnick
-- 
+- Offer's Thalia a deal
+	- "Tell you what my darling Niece, defeat this Kendoltric for me, it will help Vesponous out quite a bit. Do that and I will tell you all about why those little spells of yours sputter and wither at your fingertips."
+	- "I am a Disciple. Do you understand what that means? If not you must find out. I can say no more. You still have time."
 
 ---
 
-## The Grave
 
-#### **TBD**
-
-DM NOTE: Come across a grave where a Knight who defended the valley is buried, his tomb is marked by the symbol of Aldred, and his name is saintly. He is named as the Honorable Oathbreaker. They find is his grave and learn a bit about him but not what happened, or what the mentioned 'Broken Oath' is.
-
-*Set the Scene*: TBD
-
-TBD
-
-**Enemies**: 

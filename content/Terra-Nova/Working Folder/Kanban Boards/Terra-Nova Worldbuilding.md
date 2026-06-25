@@ -7,19 +7,18 @@ kanban-plugin: board
 ## Decision Tree
 
 - [ ] [[Worldbuilding Decision Tree]]
+- [ ] [[index]]
+- [ ] [[Magic in Terra-Nova]]
 
 
 ## Lore Documents
 
-- [ ] [[The Spell-Carvers]]
 - [ ] [[The City of Prophecy]]
+- [ ] [[Count your Pieces]]
 - [ ] [[The Tamoran Truth]]
-- [ ] [[Fragments of the Past]]
-	- Thalia
+- [ ] [[A Child's Wish]]
 - [ ] TBD Green Knights
 	- Jerran
-- [ ] [[Count your Pieces]]
-- [ ] A Child's Wish
 
 
 ## idk!
@@ -28,6 +27,7 @@ kanban-plugin: board
 - [ ] [[The Disciples of Iridescen]]
 - [ ] [[The Khal Hierarchy]]
 - [ ] [[Iridescen]]
+- [ ] [[Campaign & Quest Ideas]]
 
 
 ## Backlog
@@ -54,6 +54,10 @@ kanban-plugin: board
 - [x] [[It Always Ends in Killing]]
 - [x] [[A World of New Gods]]
 	- Thalia
+- [x] [[Fragments of the Past]]
+	- Thalia
+- [x] [[The Spell-Carvers]]
+- [x] [[A Standstill]]
 
 %% kanban:settings
 ```

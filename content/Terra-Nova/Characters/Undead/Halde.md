@@ -1,14 +1,14 @@
 ---
 publish: false
-title: Malos
+title:
 aliases:
 tags:
   - Terra-Nova
 ---
 
-![[image.png|300]]
+![[Halde-1781724250323.webp|500x625]]
 
-Name: **Malos**,  God of Balance
+Name: **Halde**, The First Singer
 
 Voice: Voice Description
 - Example Dialogue

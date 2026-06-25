@@ -1,14 +1,14 @@
 ---
 publish: false
-title: Malos
+title: Mutalis
 aliases:
 tags:
   - Terra-Nova
 ---
 
-![[image.png|300]]
+![[Mutalis-1781886340337.webp|500x691]]
 
-Name: **Malos**,  God of Balance
+Name: **Mutalis**, The King of Boils
 
 Voice: Voice Description
 - Example Dialogue
