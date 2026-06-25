@@ -6,8 +6,7 @@ tags:
   - Terra-Nova
 ---
 
-## Chapter 1: Ivory and Stone
-
+## Ivory and Stone
 
 His hands were rougher than the stone, which was good, that meant when cuts happened, they were small abrasions on the rock slabs, and not tears on his leathery skin. He hurled the stone onto his right shoulder, the chains around his ankles and wrists clanging with a metallic reminder of his station.
 
