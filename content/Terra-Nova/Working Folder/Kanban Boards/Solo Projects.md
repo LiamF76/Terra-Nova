@@ -7,7 +7,7 @@ kanban-plugin: board
 ## The Sparrow Knight (PART TWO)
 
 - [ ] [[TSK Brainstorm]]
-- [ ] [[TSO P2 Outline]]
+- [ ] [[TSO Outline]]
 
 
 ## Solo Projects

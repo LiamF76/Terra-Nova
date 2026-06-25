@@ -18,5 +18,7 @@ tags:
 5. **Pinch 2**: applies even more pressure. This is the jaws of defeat clamping down
 6. **Plot Turn 2**: character obtains the last piece they need to 'make it happen'
 7. **Resolution**: the climax of the tale, something is completed or finished
-- **Denouncement**t: wraps up the tale in a satisfying way
+- **Denouncement**: wraps up the tale in a satisfying way
+
+![[Writing Tips-1782398120410.webp|1000]]
 
