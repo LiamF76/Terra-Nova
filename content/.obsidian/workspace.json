@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -159,6 +163,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Terra-Nova/Books/The Sparrow's Oath/TSO Brainstorm.md",
     "Terra-Nova/Books/The Sparrow's Oath/TSO Outline.md",
     "Terra-Nova/Novella Ideas.md",
@@ -190,7 +195,6 @@
     "Terra-Nova/Books/Tales from Terra-Nova/Bazelon story.md",
     "Terra-Nova/Books/Tales from Terra-Nova/Across the Saurian Wastes.md",
     "Terra-Nova/Books/Books.md",
-    "Dashboard.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
     "DungeonScrawl/conduitLegion.ds.crswap",
     "DungeonScrawl/conduitLegion.ds",
