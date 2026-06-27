@@ -1,3 +1,12 @@
+---
+publish: true
+title: Tales from Terra-Nova Chapter 6
+aliases:
+tags:
+  - Terra-Nova
+---
+
+## The Queen's Dancer
 
 The Queen summons her agent. The Cabal dispatch the censors, who scour the many dancing halls of Museen. Through the thick vapors and addicts puffing exotic dust, they find him. The Queen's greatest Dancer.
 
@@ -64,8 +73,3 @@ But as the Dancer strays from the shores of Iramo, the glow in his horns flicker
 *What is my name...*
 
 The fleeting thought fades, as the image of the Queen's insurmountable beauty returns, and her love along with it.
-
----
-
-The voice and love of the Queen softened with distance, and her influence along with it. Though the Dancer's mission did not change, his fanatical worship of the Queen faded with time away from Iramo.
-
