@@ -22,7 +22,28 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Terra-Nova/Items/Magic Items/Arks/Ark.md",
+      "timestamp": 1782597536742
+    },
+    {
+      "filepath": "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
+      "timestamp": 1782597534472
+    },
+    {
+      "filepath": "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
+      "timestamp": 1782597341652
+    },
+    {
+      "filepath": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+      "timestamp": 1782597339695
+    },
+    {
+      "filepath": "Dashboard.md",
+      "timestamp": 1782597336758
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
