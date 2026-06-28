@@ -16,6 +16,6 @@ So what happens? here's the few ideas so far
 
 ## Timeline
 
-- Complete The Valley of Broken Oaths / The Spire of Virtue Raid
+- Complete The Valley of Broken Oaths / The Spire of Virtue Raid, Aspect of Aldros promises to steal the last of Thalia's magic and destroy her father's home
 - After the raid return to Westwood, summoned to the Purple Tower by Melantha, Ivys Arthur has died, small private funeral to be held and Melantha orders Thalia to attend with her allies
 - 
