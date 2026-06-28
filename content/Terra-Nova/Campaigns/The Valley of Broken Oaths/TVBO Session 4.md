@@ -63,7 +63,7 @@ Let them sit / RP for a bit.
 - Wants to join Sovrentia because he heard their Knights get great benefits such as healing and land
 - Knows about an Emissary sent by Vesponous that is nearby, and would be willing to meet with the party (she is not connected with or allied to Aldros or the army that invaded the fortress / attacked the artifact)
 - Willing to show them to the fortress and the emissary, the Fortress is clouded in a powerful storm, a gift from Garthrax to her Storm Knight.
-- Warns the party about Aldros' army, at least 500 soldiers of the Triumvirate, waiting to attack the moment the Artifact is destroyed.
+- Warns the party about Aldros' army, at least 6000 soldiers of the Triumvirate, waiting to attack the moment the Artifact is destroyed.
 - Aldros is not at the Fortress, but some followers are.
 - Hypatia already knows they are in the mountains, and Flick offers to escort them to her camp, and promises safe passage and negotiations. 
 - 
