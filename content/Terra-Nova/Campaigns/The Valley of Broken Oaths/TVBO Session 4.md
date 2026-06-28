@@ -38,10 +38,10 @@ Encounter focuses on party VS snow, and some navigation choices, go through heav
 
 Ahead of you lie two paths.
 - **Up the Rocks**: A precarious climb leads up steep and sharp rocks, high into the jagged stone hills. It is not covered in snow, but the heigh is great, and the road is thin and fragmented. This path looks safer from the cold, but will take longer to traverse. You also run the risk of injury or falling.
-	- *DEXTERITY SAVING THROWS*
+	- *DEXTERITY SAVING THROWS* 
 	- Flavor: {Player 1} as you step carefully forwards, a single stone slips beneath your feet and you feel your body tumble, {Player 2}, you see your ally suddenly begin to fall and feel your body react, what do you do to save them?
 - **Through the Snow**: Through the snow is the most direct and easy path forward, though there is heavy snowfall and it already reaches nearly 4ft thick. You will need to remain vigilant to follow the path ahead and not lose your way. You will also quickly become cold, but there is no fear of falling onto sharp rocks.
-	- *SURVIVAL CHECKS*
+	- *SURVIVAL CHECKS* 
 	- Flavor: {Player 1}, as you wade through the heavy snowfall and walk along the path, a creature brushes along your leg and you hear a faint chitter from beneath in the snow. {Player 2}, you see just barely the figure of a creature beneath the pale snow, it darts around your party's legs, what do you do? (It's just a squirrel tunneling around in the snow.)
 
 ---
