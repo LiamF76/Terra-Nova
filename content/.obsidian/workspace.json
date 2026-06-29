@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,63 +17,11 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "9c8eb40c61e92acd",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
-          },
-          {
-            "id": "d358259a5ffb435c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Session 4"
-            }
-          },
-          {
-            "id": "ef8873452975aa76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Characters/People/Hypatia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypatia"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +161,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d358259a5ffb435c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova/Characters/People/Hypatia.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 4.md",
+    "Terra-Nova/Characters/People/Hypatia.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
