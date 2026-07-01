@@ -31,6 +31,8 @@ DM NOTE:
 	- *Storm Spirits*: Battlefield is littered with storm spirits, little orbs that shoot lightning bolts and bigger tanky ones that do melee.
 
 *Set the Scene*: 
+Ahead lies the great storm given to Kendoltric by Garthrax. A heavy storm cloud looms over the fortress, as a pair of spectral blue eyes made of pure lightning comb across the battlefield ahead. The storm itself guards the gateway into the Relic's home, the doors coated in deadly lightning. Pillars of pure Iron draw great bolts of lightning from the sky, and massive booms of thunder threaten to take your hearing for a brief moment. 
+
 - describe the storm clouds / storm spirit (make it known they cannot attack the storm itself)
 - describe the gateway and how the lightning prevents them from advancing
 
