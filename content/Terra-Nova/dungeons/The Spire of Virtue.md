@@ -30,7 +30,9 @@ DM NOTE:
 	- *Iron Pillars*: There are 3 Iron pillars on the battlefield, if a player stands within 10ft of the pillar, it absorbs the charged detonation. This deals 4d10 damage to the herald. When all 3 pillars are destroyed the Herald dies and the Storm Gate opens. The Master pylon is larger and controls the gate, and cannot be destroyed until the other 2 are.
 	- *Storm Spirits*: Battlefield is littered with storm spirits, little orbs that shoot lightning bolts and bigger tanky ones that do melee.
 
-*Set the Scene*: TBD
+*Set the Scene*: 
+- describe the storm clouds / storm spirit (make it known they cannot attack the storm itself)
+- describe the gateway and how the lightning prevents them from advancing
 
 TBD
 
