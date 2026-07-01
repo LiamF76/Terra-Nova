@@ -24,5 +24,12 @@ Description: male, 7ft tall, strong muscular frame, wears symbiotic black armor 
 Important Info: 
 - Aldros serves the Dragon Rulers of [[The Triumvirate Scales]]
 - Believer of 'The Sword's Scale', a chromatic Dragonborn religion in which Dragons are their Gods and rulers, dragonborn are servants and citizens, and every other living thing exists as a a slave to the Dragons.
-- Able to create manifestations of himself called Aspects. Aspects possess a fraction of his power, and are controlled by Aldros. The Aspects are spectral skeletal manifestations of Aldros that fight and enact his will, the will of the Dragon Rulers.
+- [[Aldros Powers]]
 - 
+
+
+#### Aldros, Acolyte of the End
+
+What Aldros will look like after assuming the true power of Khal Daraan
+
+![[Aldros-1782945973763.webp|500x853]]

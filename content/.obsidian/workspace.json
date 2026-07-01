@@ -22,8 +22,59 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "ba86e18edf097ba1",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
+          },
+          {
+            "id": "110320abc7e51921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Characters/People/Aldros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aldros"
+            }
+          },
+          {
+            "id": "cfe8842b1dda8622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Aldros Powers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aldros Powers"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,17 +214,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "110320abc7e51921",
   "lastOpenFiles": [
-    "Terra-Nova/dungeons/The Spire of Virtue.md",
+    "z Images/Aldros-1782945973763.webp",
+    "Terra-Nova/Working Folder/Aldros Powers.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/The Iridescent Tablets.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/7. The Tablet of Eternity.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/6. The Tablet of Towers.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/5. The Tablet of Flow.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/4. Tablet of the Deep.md",
+    "Terra-Nova/Characters/People/Aldros.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Post TVBO Brainstorm.md",
     "Dashboard.md",
+    "Terra-Nova/dungeons/The Spire of Virtue.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 4.md",
     "Terra-Nova/Characters/People/Hypatia.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "conflict-files-obsidian-git.md",
-    "Post TVBO Brainstorm.md",
     "Terra-Nova/Items/Magic Items/Arks/Ark.md",
     "Terra-Nova/Items/Magic Items/Arks",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
@@ -185,20 +244,12 @@
     "z Images/Writing Tips-1782398120410.webp",
     "Terra-Nova/Books/The Sparrow Knight/Petlia's Talisman of Protection.md",
     "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 6.md",
-    "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 1.md",
-    "Terra-Nova/Characters/Undead/Neyzuul.md",
-    "Terra-Nova/Characters/Undead/Kaalalriik.md",
-    "Terra-Nova/Characters/Undead/Sulbaan.md",
-    "Terra-Nova/Characters/Undead/Halde.md",
     "Terra-Nova/Characters/Undead",
     "z Images/Untitled-1781722011126.webp",
     "z Images/Sulbaan-1781885175480.webp",
     "z Images/Neyzul-1781721587944.webp",
     "z Images/Mutalis-1781886340337.webp",
     "z Images/Halde-1781724250323.webp",
-    "Terra-Nova/Characters/People/Kendoltric.md",
-    "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 3.md",
-    "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 2.md",
     "DungeonScrawl/conduitLegion.ds.crswap",
     "DungeonScrawl/conduitLegion.ds",
     "DungeonScrawl/relicChamber.ds.crswap",
