@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Terra-Nova/Items/Magic Items/Rhetoric.md",
+      "timestamp": 1783034849817
+    },
+    {
       "filepath": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
-      "timestamp": 1783016547934
+      "timestamp": 1783034841615
     },
     {
       "filepath": "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
-      "timestamp": 1783016545318
+      "timestamp": 1783034839139
+    },
+    {
+      "filepath": "Templates/Magic Item Template.md",
+      "timestamp": 1783034832468
     },
     {
       "filepath": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
       "timestamp": 1783016543910
-    },
-    {
-      "filepath": "Dashboard.md",
-      "timestamp": 1783016379740
     }
   ],
   "bookmarkedFileStore": [],
