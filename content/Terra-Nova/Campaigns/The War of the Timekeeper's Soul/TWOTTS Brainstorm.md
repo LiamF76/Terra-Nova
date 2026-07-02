@@ -20,3 +20,4 @@ Ivys Arthur, legendary White Wizard, demon, and son of Kairos, has finally passe
 - Ivys removed one of his horns, attempting to create a replicant using his new biological material. This created Rhetoric, a fragment of Kairos that dispenses knowledge when it chooses to. It knows a great many things, but its mind is fragmented, making knowledge often random or niche, but never intentionally wrong. It will dispense this information on anything or at any time it feels inclined to, and is very difficult to work with, as it is quite upset it never ended the universe.
 - 
 
+test
