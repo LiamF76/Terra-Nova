@@ -6,9 +6,8 @@ kanban-plugin: board
 
 ## Session Prepping
 
-- [ ] [[The Spire of Virtue]]
-- [ ] [[Post TVBO Brainstorm]]
 - [ ] [[TVBO Session 5]]
+- [ ] [[The Spire of Virtue]]
 
 
 ## Ideas
@@ -68,6 +67,7 @@ kanban-plugin: board
 - [x] [[Grey Brainstorm]]
 - [ ] [[The Bloodstone Pass]]
 - [x] [[TVBO Session 4]]
+- [ ] [[Post TVBO Brainstorm]]
 
 %% kanban:settings
 ```

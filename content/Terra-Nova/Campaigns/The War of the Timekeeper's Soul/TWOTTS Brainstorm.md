@@ -18,4 +18,12 @@ Ivys Arthur, legendary White Wizard, demon, and son of Kairos, has finally passe
 - Aldros and his followers are hunting for the soul to create an Ark, a weapon of Nothing that Aldros can use to destroy and enforce the logic of Nothing.
 - The Demons of the Abyss are hunting for the soul because they believe the reborn lesser Demon Ivys will lead them in their war against the Gods and Material plane.
 - Ivys removed one of his horns, attempting to create a replicant using his new biological material. This created [[Rhetoric]], a fragment of Kairos that dispenses knowledge when it chooses to. It knows a great many things, but its mind is fragmented, making knowledge often random or niche, but never intentionally wrong. It will dispense this information on anything or at any time it feels inclined to, and is very difficult to work with, as it is quite upset it never ended the universe.
+
+
+## Situations not Plots
+
+Writing situations not plots means creating an environment and campaign based around a situation, not planned steps and story beats. Create multiple factions who will act on their own regardless of the players
+
+- The Iridescent Legion: Led by Aldros, the Iridescent Legion seeks to claim Ivys' soul 
+- The Hellstorm Clan: Led by Giesor Axial, the Hellstorm clan seeks to claim Ivys' soul and raise him as the new Abyssal Grand Mage, hoping to use his powers to free Balthazaar and fulfill the Night Serpent's goals.
 - 
