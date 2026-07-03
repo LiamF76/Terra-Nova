@@ -37,7 +37,7 @@ IMAGE HERE
 
 ## Sentience
 
-- **Alignment:** 
-- **Communication:** 
+- **Alignment:** True Neutral
+- **Communication:** Audio, non telepathic, fluent in Common, Elvish, and Primordial
 - **Senses:** 
 - **Personality/Motivations:** 
