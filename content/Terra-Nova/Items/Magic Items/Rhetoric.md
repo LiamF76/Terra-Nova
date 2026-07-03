@@ -24,7 +24,7 @@ IMAGE HERE
 
 ### Properties
 
-### Charges *(if applicable)*
+#### Charges *(if applicable)*
 
 - **Max Charges:**
 - **Recharge:** e.g. "regains 1d4 charges daily at dawn"
@@ -35,7 +35,7 @@ IMAGE HERE
 
 > [!danger] Curse
 
-## Sentience *(if applicable)*
+## Sentience
 
 - **Alignment:** 
 - **Communication:** 
