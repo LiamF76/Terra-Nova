@@ -116,17 +116,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 9.md",
+                "file": "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Sparrow Knight Chapter 9"
+              "title": "Backlinks for The Third Lesson"
             }
           },
           {
@@ -135,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of The Third Lesson"
             }
           },
           {
@@ -180,9 +180,9 @@
   },
   "active": "0da135e305f6a1d4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
+    "conflict-files-obsidian-git.md",
     "Dashboard.md",
     "Terra-Nova/History/Lore Documents/The Craved End",
     "Terra-Nova/Books/Novella Ideas.md",
