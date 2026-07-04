@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] [[Worldbuilding Decision Tree]]
 - [ ] [[index]]
 - [ ] [[Magic in Terra-Nova]]
-- [ ] Third Lesson
 
 
 ## Lore Documents
