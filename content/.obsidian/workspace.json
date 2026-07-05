@@ -29,30 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
+                "file": "Terra-Nova/Characters/Spirits/Oxidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TWOTTS Brainstorm"
-            }
-          },
-          {
-            "id": "87386d24142ef7cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Characters/Extraplanar/Primodrials/Iridescen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iridescen"
+              "title": "Oxidian"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/Characters/Extraplanar/Primodrials/Iridescen.md",
+                "file": "Terra-Nova/Characters/Spirits/Oxidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +141,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Iridescen"
+              "title": "Backlinks for Oxidian"
             }
           }
         ],
@@ -182,9 +168,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "87386d24142ef7cf",
+  "active": "aa204140ee28b925",
   "lastOpenFiles": [
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
+    "Terra-Nova/Characters/Spirits/Oxidian.md",
+    "Terra-Nova/Characters/Extraplanar/Primodrials/Iridescen.md",
+    "z Images/Iridescen-1783284779985.webp",
+    "z Images/Iridescen-1783284764567.webp",
     "Dashboard.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
@@ -217,13 +207,9 @@
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/6. The Tablet of Towers.md",
     "Terra-Nova/History/Lore Documents/The Craved End/The Carved End.md",
     "Terra-Nova/History/Lore Documents/The Carved End",
-    "Terra-Nova/Books/Novella Ideas.md",
-    "Terra-Nova/Organizations/Religions & Cults/The Choir of Silence.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul",
     "z Images/Aldros-1782945973763.webp",
     "Terra-Nova/Items/Magic Items/Arks",
-    "z Images/Writing Tips-1782398120410.webp",
-    "z Images/Mutalis-1781886340337.webp",
     "Terra-Nova/Characters/Undead",
     "DungeonScrawl/relicChamber.ds",
     "DungeonScrawl/conduitLegion.ds",
