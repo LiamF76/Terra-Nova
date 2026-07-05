@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] [[Worldbuilding Decision Tree]]
 - [ ] [[index]]
 - [ ] [[Magic in Terra-Nova]]
-- [ ] [[The Third Lesson]]
 
 
 ## Lore Documents
@@ -47,6 +46,12 @@ kanban-plugin: board
 - [x] [[9. The Tablet of Procedure]]
 
 
+## The Carved End
+
+- [ ] [[A Way Forward]]
+- [x] [[The Third Lesson]]
+
+
 ***
 
 ## Archive
@@ -62,6 +67,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%

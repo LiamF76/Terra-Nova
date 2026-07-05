@@ -1,0 +1,21 @@
+---
+publish: false
+title: A Way Forward
+aliases:
+tags:
+  - Terra-Nova
+---
+
+## A Way Forward
+
+Aldros scoured the halls of the mire temple, searching for his Goddess. She hid as a trickster does.
+
+He had been given strength and war through Garthrax, it was open to him and his scythe. His sinew and muscle were strong, and his tactics keen.
+
+He had been given undeath and magic through Gravebinder, and he had courted these dark tithes, using necromancy and mana to further his strength.
+
+Two Dragon Gods had given him everything, but Nothing, was waiting. Vesponous promised no power, no magic, nothing but truth. This truth was cunning, understanding, and through knowledge he would find infinity.
+
+Vesponous played a game, a hiding game in her temple, to learn Aldros had to find her. The walls were ancient in this place, built before the God Mother, before Vesponous, before his Gods had lived this hall stood. Its walls read the worlds of the Old Way:
+
+Dragons are the greatest Gods, for they do not hide in heavens. They enact their will on the world through directness, and exist in directness. To destroy something they must do it or be present in material to order it, unlike those vile children of Shao.
