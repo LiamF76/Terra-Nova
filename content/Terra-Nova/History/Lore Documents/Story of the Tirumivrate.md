@@ -18,7 +18,7 @@ These rulers, these strongest amongst the masters of the sky became bound in pac
 
 Gravebinder, whose hunger for knowledge could never be sated, slunk through the swamps to the ruins of New Oligoth. She raised a thousand mortals, corpses made slave to her will, and they built her a temple of ritual and evil. In the ruins of a mortal castle, once home to an order of honorable knights who hunted monsters, became the unholy home of the dragon necromancer.
 
-Vesponous built no fortresses, no kingdoms, and no cities. She slithered through the forests and bogs, those festering and dead woodlands after the dragon wars that made the Scales. In those places she found Dragonborn, Halflings, and Humans alike. She is a known shifter, and took the form of a dryad. In her spirit form she connived and schemed, falsifying her own religion, and birthing shamans, witches, and cults to her draconic likeness. By the time the other dragons had finished their own castles, her fierce followers had built her 3 of her own.
+[[Vesponous]] built no fortresses, no kingdoms, and no cities. She slithered through the forests and bogs, those festering and dead woodlands after the dragon wars that made the Scales. In those places she found Dragonborn, Halflings, and Humans alike. She is a known shifter, and took the form of a dryad. In her spirit form she connived and schemed, falsifying her own religion, and birthing shamans, witches, and cults to her draconic likeness. By the time the other dragons had finished their own castles, her fierce followers had built her 3 of her own.
 
 ---
 

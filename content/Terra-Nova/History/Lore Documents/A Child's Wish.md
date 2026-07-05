@@ -24,6 +24,6 @@ A blackened claw stroked his head, the hand of the Gravebinder. The terrible nec
 
 Aldan died on that cliff, and the Gravebinder built Aldros. Chosen by the Dragon Lords of the Triumvirate Scales, for reasons unknown to him.
 
-Aldros was adorned with the weapons of Garthrax, a scythe forged from her own teeth, the undead blessing of the Gravebinder, and the violent cunning of Vesponous.
+Aldros was adorned with the weapons of Garthrax, a scythe forged from her own teeth, the undead blessing of the Gravebinder, and the violent cunning of [[Vesponous]].
 
 His followers chant the blessing of death and ruin, for he was chosen from thousands. [[Aldros]], known to the people of the Triumvirate Scales as **Do Pogaan, Gein** (Of many, one).
