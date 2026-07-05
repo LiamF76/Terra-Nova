@@ -7,8 +7,8 @@ tags:
   - Terra-Nova
 ---
 
-| Dragon Form                            | Human Form (Hypatia Laethire)              |
-| -------------------------------------- | ------------------------------------------ |
+| Dragon Form                            | Human Form (Hypatia Laethire)          |
+| -------------------------------------- | -------------------------------------- |
 | ![[Vesponous-1783266787720.webp\|300]] | ![[Vesponous-1776300841675.webp\|300]] |
 
 Name: **Vesponous**, The Serpent Queen
