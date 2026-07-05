@@ -22,8 +22,46 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "a8c5ec552233e5bd",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
+          },
+          {
+            "id": "c93ab516f42ec303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nothing Stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nothing Stuff"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +104,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,14 +202,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dbf3a6fd19f04ab1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Terra-Nova/Organizations/Major Factions.md",
+    "Nothing Stuff.md",
+    "Terra-Nova/Organizations/Extraplanar/The Shardbound.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Dashboard.md",
+    "conflict-files-obsidian-git.md",
     "Terra-Nova/History/Lore Documents/The Craved End/Wings to Fall With.md",
     "Terra-Nova/History/Lore Documents/The Craved End/Feast on Feathered Helm.md",
     "Terra-Nova/History/Lore Documents/The Craved End/A Way Forward.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
     "Terra-Nova/History/Lore Documents/The Craved End",
@@ -191,9 +233,6 @@
     "Terra-Nova/Working Folder/Aldros Powers.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/The Iridescent Tablets.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/7. The Tablet of Eternity.md",
-    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/6. The Tablet of Towers.md",
-    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/5. The Tablet of Flow.md",
-    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/4. Tablet of the Deep.md",
     "Terra-Nova/Items/Magic Items/Arks",
     "z Images/Writing Tips-1782398120410.webp",
     "Terra-Nova/Characters/Undead",

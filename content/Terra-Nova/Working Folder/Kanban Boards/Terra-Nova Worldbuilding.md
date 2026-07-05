@@ -9,6 +9,7 @@ kanban-plugin: list
 - [ ] [[Worldbuilding Decision Tree]]
 - [ ] [[index]]
 - [ ] [[Magic in Terra-Nova]]
+- [ ] [[Nothing Stuff]]
 
 
 ## Lore Documents
