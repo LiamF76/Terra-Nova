@@ -23,7 +23,7 @@ Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terr
 > ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]]
 
 > [!note] Current Campaigns
-> ## [[The Valley of Broken Oaths]] | [[TWOTTS Brainstorm]]
+> ## [[The Valley of Broken Oaths]] | [[TWOTTS Brainstorm]] | [[TBSS Brainstorm]]
 
 > [!note] Pentium Realm
 > ## [[Pentium Kanban]]

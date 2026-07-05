@@ -16,6 +16,7 @@ Voice: Voice Description
 Description: Appearance & vibe description
 
 Important Info: 
-- [[Primordials]], Son of Khal Daraan
+- [[Primordials]], Son of Khal Daraan, teacher of the ways of nothing (see [[The Khal Hierarchy]])
 - Author of [[The Iridescent Tablets]]
+- Fond of / loves Dragons
 - 
