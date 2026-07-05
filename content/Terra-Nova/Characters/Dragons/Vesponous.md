@@ -14,7 +14,8 @@ tags:
 Name: **Vesponous**, The Serpent Queen
 
 Voice: Voice Description
-- Example Dialogue
+- "Show me what you have learned, quickly, before the knowledge devours you. I must have it."
+- 
 
 Description: Green Dragon (Amphithere), she has no arms or legs, only a long snake body and wings. She has no eyes, scales cover her entire face, and she sees using magic / blindsight. Her body is covered in jade green scales, and her wings are thin and bony, looking atrophied and barely used. Her body is small, smallest of any recorded True Dragon, only 30ft long.
 
