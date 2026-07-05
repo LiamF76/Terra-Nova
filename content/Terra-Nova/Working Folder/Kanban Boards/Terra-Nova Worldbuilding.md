@@ -48,8 +48,9 @@ kanban-plugin: board
 
 ## The Carved End
 
-- [ ] [[A Way Forward]]
+- [x] [[A Way Forward]]
 - [x] [[The Third Lesson]]
+- [ ] Feast on Feathered Helm
 
 
 ***
