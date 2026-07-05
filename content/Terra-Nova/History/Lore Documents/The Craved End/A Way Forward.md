@@ -24,3 +24,6 @@ Dragons, children of Shao, of Fyrnanth the first Wyrm, whose scales were crystal
 
 Green, Blue, and Black scales, they are heaven, their breath is salvation, and their war, VIOLENCE, is love.
 
+The Goddess' voice echoed through the halls, one with the will of the world, commanding Aldros to understand, to be cunning and know. "Do you understand what I give you Aldros? No gift so simple as a blade or spell. My gift is a weapon of the universe. It's edge is fundamental to existence. This power Shao cannot take from us."
+
+Aldros kneeled before his Goddess, and for a moment comprehended no power, but he saw the shape of the world. "Yes my Lady, this is no force, this is the way forward."
