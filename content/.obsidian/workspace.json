@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "e6d19fd7cbd20a4a",
+            "id": "1dc64ac69619ea4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,14 +168,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e6d19fd7cbd20a4a",
+  "active": "1dc64ac69619ea4b",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "Terra-Nova/History/Lore Documents/The Craved End/Feast on Feathered Helm.md",
+    "Terra-Nova/History/Lore Documents/The Craved End/A Way Forward.md",
+    "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
+    "Terra-Nova/History/Lore Documents/The Craved End/Wings to Fall With.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/History/Lore Documents/To Read You Must be Blind.md",
     "Terra-Nova/Characters/Dragons/Vesponous.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 4.md",
-    "Terra-Nova/History/Lore Documents/The Craved End/A Way Forward.md",
-    "Terra-Nova/History/Lore Documents/To Read You Must be Blind.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-    "Dashboard.md",
     "Terra-Nova/Campaigns/Play by Post/The Black Sun Sets/TBSS Brainstorm.md",
     "Terra-Nova/Characters/Dragons/Ir Kaska.md",
     "conflict-files-obsidian-git.md",
@@ -189,12 +193,9 @@
     "Terra-Nova/Working Folder/Nothing Stuff.md",
     "Terra-Nova/Campaigns/Post TVBO Brainstorm.md",
     "Terra-Nova/Campaigns/Play by Post/The Black Sun Sets",
-    "Terra-Nova/History/Lore Documents/The Craved End/Wings to Fall With.md",
-    "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
     "Terra-Nova/Characters/Extraplanar/Gods/The Dark Tribunal/Aldred, The Black Sun Deity.md",
     "Aldred.md",
     "Feast on Feathered Helm.md",
-    "Terra-Nova/History/Lore Documents/The Craved End/Feast on Feathered Helm.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/5. The Tablet of Flow.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
     "Terra-Nova/History/Lore Documents/The Iridescent Tablets/6. The Tablet of Towers.md",
@@ -204,7 +205,6 @@
     "Terra-Nova/Books/Novella Ideas.md",
     "Terra-Nova/Organizations/Religions & Cults/The Choir of Silence.md",
     "Terra-Nova/Items/Magic Items/Rhetoric.md",
-    "Templates/Magic Item Template.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul",
     "z Images/Aldros-1782945973763.webp",
     "Terra-Nova/Items/Magic Items/Arks",
