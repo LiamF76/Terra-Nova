@@ -10,7 +10,7 @@ This document outlines the abilities of [[Aldros]] Wyrm-Chosen.
 
 ## Fractal Nothing
 
-Aldros possess a fractal of [[Khal Daraan]]'s Nothing, developed from what he was taught by Vesponous, which she learned from [[The Iridescent Tablets]].
+Aldros possess a fractal of [[Khal Daraan]]'s Nothing, developed from what he was taught by [[Vesponous]], which she learned from [[The Iridescent Tablets]].
 
 Nothing is not magic, it is truth, and will. It cannot be blocked or countered, only overpowered, or proven false. Aldros possess limited power over Nothing, but what he does possess makes him a threat to even the greatest heroes.
 

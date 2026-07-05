@@ -10,7 +10,7 @@ Brainstorm:
 - party is traveling through the mountains point on the [[TVBO Pointcrawl Map]]
 - survival checks, dangerous temperatures, choosing a path between the forested path lower and the rocky path upper
 - Party runs into a camp, they need shelter and can either go to the camp, or into a nearby cave, session branches
-	- Camp: RP encounter with a diplomat from the Triumvirate Scales, an elf woman (actually Vesponous in disguise). Discuss the situation, woman sent by Vesponous to negotiate a surrender from the Judge of Westwood, and a Knight of Garthrax was sent to destroy the artifact and take the Valley by force. Vesponous working diplomacy, Aldros working military. Woman comments on Thalia's magic having a similar feeling to Aldros'.
+	- Camp: RP encounter with a diplomat from the Triumvirate Scales, an elf woman (actually [[Vesponous]] in disguise). Discuss the situation, woman sent by [[Vesponous]] to negotiate a surrender from the Judge of Westwood, and a Knight of Garthrax was sent to destroy the artifact and take the Valley by force. [[Vesponous]] working diplomacy, Aldros working military. Woman comments on Thalia's magic having a similar feeling to Aldros'.
 	- Cave: Stealth encounter, sneaking past the scouts / enemies. Run into a Kobold defector from the Triumvirate, he agrees to help the party and will give them information on the Fortress where the artifact is if they agree to help him get safely into Sovrentia and protect him. Kobold comments on Thalia's magic smelling like Aldros'.
 - Come across a grave where a Knight who defended the valley is buried, his tomb is marked by the symbol of Aldred, and his name is saintly. He is named as the Honorable Oathbreaker. They find is his grave and learn a bit about him but not what happened, or what the mentioned 'Broken Oath' is.
 
@@ -61,7 +61,7 @@ Let them sit / RP for a bit.
 ### [[Flick]]: 
 - Flick deserted the Triumvirate army at the fortress
 - Wants to join Sovrentia because he heard their Knights get great benefits such as healing and land
-- Knows about an Emissary sent by Vesponous that is nearby, and would be willing to meet with the party (she is not connected with or allied to Aldros or the army that invaded the fortress / attacked the artifact)
+- Knows about an Emissary sent by [[Vesponous]] that is nearby, and would be willing to meet with the party (she is not connected with or allied to Aldros or the army that invaded the fortress / attacked the artifact)
 - Willing to show them to the fortress and the emissary, the Fortress is clouded in a powerful storm, a gift from Garthrax to her Storm Knight.
 - Warns the party about Aldros' army, at least 6000 soldiers of the Triumvirate, waiting to attack the moment the Artifact is destroyed.
 - Aldros is not at the Fortress, but some followers are.
@@ -74,7 +74,7 @@ Let them sit / RP for a bit.
 
 #### **TBD**
 
-DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to negotiate surrender from the valley. She sends a soldier bearing a white flag to invite the party for a meeting. They meet in her tent if the party accepts. The emissary is actually Vesponous, but she is disguised as Hypatia Laethire. She is making a play to steal a magical item, a key, from Westwood Village, she knows it is in the possession of Judge Finnick, and will use the meeting to poison him, and steal the key.
+DM NOTE: Party encounters a diplomat from the Triumvirate, sent by [[Vesponous]] to negotiate surrender from the valley. She sends a soldier bearing a white flag to invite the party for a meeting. They meet in her tent if the party accepts. The emissary is actually [[Vesponous]], but she is disguised as Hypatia Laethire. She is making a play to steal a magical item, a key, from Westwood Village, she knows it is in the possession of Judge Finnick, and will use the meeting to poison him, and steal the key.
 
 *Set the Scene*: The tent reeks of wet earth and something venomous beneath cheap incense. Every surface is draped in green silk, and a pair of living serpents wind lazily around the center pole. A tall elven woman with greying hair and a fine green dress turns and faces you, smiling as she steps from her desk, reveling many empty wine bottles. 
 
@@ -83,7 +83,7 @@ DM NOTE: Party encounters a diplomat from the Triumvirate, sent by Vesponous to 
 ### [[Hypatia]]:
 
 Describe her physically / present reference photo.
-Keep her personality in mind. She gives off a specific energy, she does not care, and loves to drink. This is a game to her, she is invincible because Vesponous protects her.
+Keep her personality in mind. She gives off a specific energy, she does not care, and loves to drink. This is a game to her, she is invincible because [[Vesponous]] protects her.
 
 **PC reactions**:
 - Thalia: "Well darling I suppose you haven't hear much if at all of me. I'm your Aunt Hypatia! Poor girl, those cheekbones, that's what she gets for mingling with men and their... fleeting vitality."
@@ -102,10 +102,10 @@ Keep her personality in mind. She gives off a specific energy, she does not care
 - The one they must fear is [[Aldros]], Champion of Dragons, Wyrm-Chosen, **Do Pogaan, Gein** (Of many, one)
 	- "The one you must fear is Aldros. Champion of the Dragons, Wyrm-Chosen. The people call him Do Pogaan, Gein. In your language it means: Of many, one. He is vast, and his aspects lurk this world hunting any who stand against him."
 - Offers the party the chance to work for her, will pay them well for joining as her warriors
-	- "Join me. Join Vesponous. She is not so much of a violent tyrant as the other dragons. Someday she will devour them, and defend the world from something far worse than dragons."
-- In search of a special key for Vesponous, will pay or negotiate anything to get it from Judge Finnick
+	- "Join me. Join [[Vesponous]]. She is not so much of a violent tyrant as the other dragons. Someday she will devour them, and defend the world from something far worse than dragons."
+- In search of a special key for [[Vesponous]], will pay or negotiate anything to get it from Judge Finnick
 - Offer's Thalia a deal
-	- "Tell you what my darling Niece, defeat this Kendoltric for me, it will help Vesponous out quite a bit. Do that and I will tell you all about why those little spells of yours sputter and wither at your fingertips."
+	- "Tell you what my darling Niece, defeat this Kendoltric for me, it will help [[Vesponous]] out quite a bit. Do that and I will tell you all about why those little spells of yours sputter and wither at your fingertips."
 	- "I am a Disciple. Do you understand what that means? If not you must find out. You still have time. Learn, soon, and perhaps you can still make it."
 
 ---

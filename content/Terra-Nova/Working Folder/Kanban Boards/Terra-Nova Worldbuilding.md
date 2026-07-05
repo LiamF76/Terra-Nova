@@ -14,6 +14,7 @@ kanban-plugin: list
 
 ## Lore Documents
 
+- [ ] [[To Read You Must be Blind]]
 - [ ] [[The City of Prophecy]]
 - [ ] [[Count your Pieces]]
 - [ ] [[The Tamoran Truth]]
@@ -70,6 +71,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false],"full-list-lane-width":true}
 ```
 %%
