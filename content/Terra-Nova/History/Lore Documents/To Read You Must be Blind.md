@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: To Read You Must be Blind
 aliases:
 tags:
