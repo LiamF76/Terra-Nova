@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: board
+kanban-plugin: list
 
 ---
 
@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] [[Worldbuilding Decision Tree]]
 - [ ] [[index]]
 - [ ] [[Magic in Terra-Nova]]
-- [ ] [[The Third Lesson]]
 
 
 ## Lore Documents
@@ -24,16 +23,24 @@ kanban-plugin: board
 
 ## idk!
 
-- [ ] [[Triumvirate Scales Government]]
 - [ ] [[The Disciples of Iridescen]]
 - [ ] [[The Khal Hierarchy]]
 - [ ] [[Iridescen]]
 - [ ] [[Campaign & Quest Ideas]]
+- [ ] [[Triumvirate Scales Government]]
 
 
 ## Backlog
 
 - [ ] [[Gods of Terra-Nova|Gods]]
+
+
+## The Carved End
+
+- [x] [[A Way Forward]]
+- [x] [[The Third Lesson]]
+- [x] [[Wings to Fall With]]
+- [ ] [[Feast on Feathered Helm]]
 
 
 ## The Iridescent Tablets
@@ -62,6 +69,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
