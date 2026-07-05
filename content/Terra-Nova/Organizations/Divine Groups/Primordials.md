@@ -7,7 +7,7 @@ tags:
   - Terra-Nova
 ---
 
-The Primordials of Terra-Nova are enigmatic, powerful, and ancient beings. Created by Khal Daraan as the antithesis to both the Gods and Prime Creations, these beings are born of purpose and environment. They represnt the powers of the world and change rather than order and stillness.
+The Primordials of Terra-Nova are enigmatic, powerful, and ancient beings. Created by Khal Daraan as the antithesis to both the Gods and Prime Creations, these beings are born of purpose and environment. They represent the powers of the world and change rather than order and stillness.
 
 | Name        | Power      |
 | ----------- | ---------- |
