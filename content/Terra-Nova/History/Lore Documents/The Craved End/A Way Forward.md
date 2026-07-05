@@ -16,7 +16,7 @@ He had been given undeath and magic through [[Gravebinder]], and he had courted 
 
 Two Dragon Gods had given him everything, but Nothing was waiting. [[Vesponous]] promised no power, no magic, nothing but truth. This truth was cunning, understanding, and through knowledge he would find infinity.
 
-The Green Dragon played a game, a hiding game in her temples. To learn [[Aldros]] had to find her. The walls were ancient in this place, built before the God Mother, before [[Vesponous]], before his Gods had lived this hall stood. Its walls read the worlds of the Old Way:
+The Green Dragon played a game, a hiding game in her temples. For him to learn, [[Aldros]] had to discover her. The walls were ancient in this place, built before the God Mother, before [[Vesponous]], before his Gods had lived this hall stood. Its walls read the worlds of the Old Way:
 
 >[!quote] The Dragon is the true God, for they do not hide in heavens. They enact their will on the world through directness, and exist in directness. To destroy something they must do it or be present in material to order it, unlike those vile things above and below.
 

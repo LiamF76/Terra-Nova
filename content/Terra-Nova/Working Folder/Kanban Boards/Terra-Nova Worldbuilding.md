@@ -39,7 +39,7 @@ kanban-plugin: list
 
 - [x] [[A Way Forward]]
 - [x] [[The Third Lesson]]
-- [ ] [[Wings to Fall With]]
+- [x] [[Wings to Fall With]]
 - [ ] [[Feast on Feathered Helm]]
 
 
