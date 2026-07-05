@@ -11,7 +11,8 @@ tags:
 Name: **Iridescen**, The First Disciple of Khal
 
 Voice: Voice Description
-- Example Dialogue
+- "I have tried to show you the truth, but your vain defiance proves it this. YOU ARE UNWORTHY OF SALVATION!"
+- 
 
 Description: Appearance & vibe description
 
