@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: board
+kanban-plugin: list
 
 ---
 
@@ -23,16 +23,24 @@ kanban-plugin: board
 
 ## idk!
 
-- [ ] [[Triumvirate Scales Government]]
 - [ ] [[The Disciples of Iridescen]]
 - [ ] [[The Khal Hierarchy]]
 - [ ] [[Iridescen]]
 - [ ] [[Campaign & Quest Ideas]]
+- [ ] [[Triumvirate Scales Government]]
 
 
 ## Backlog
 
 - [ ] [[Gods of Terra-Nova|Gods]]
+
+
+## The Carved End
+
+- [x] [[A Way Forward]]
+- [x] [[The Third Lesson]]
+- [ ] [[Wings to Fall With]]
+- [ ] [[Feast on Feathered Helm]]
 
 
 ## The Iridescent Tablets
@@ -44,13 +52,6 @@ kanban-plugin: board
 - [x] [[5. The Tablet of Flow]]
 - [ ] [[6. The Tablet of Towers]]
 - [x] [[9. The Tablet of Procedure]]
-
-
-## The Carved End
-
-- [x] [[A Way Forward]]
-- [x] [[The Third Lesson]]
-- [ ] Feast on Feathered Helm
 
 
 ***
@@ -68,6 +69,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false]}
 ```
 %%

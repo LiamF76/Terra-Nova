@@ -32,7 +32,7 @@
               "state": {
                 "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "board",
+                  "kanban-plugin": "list",
                   "list-collapse": [
                     false,
                     false,
@@ -49,17 +49,17 @@
             }
           },
           {
-            "id": "df9550b4515fbce7",
+            "id": "36ef3b6edb1d2ec8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/History/Lore Documents/The Craved End/A Way Forward.md",
+                "file": "Terra-Nova/History/Lore Documents/The Craved End/Wings to Fall With.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Way Forward"
+              "title": "Wings to Fall With"
             }
           }
         ],
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Nova/History/Lore Documents/The Craved End/A Way Forward.md",
+                "file": "Terra-Nova/History/Lore Documents/The Craved End/Wings to Fall With.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Way Forward"
+              "title": "Backlinks for Wings to Fall With"
             }
           }
         ],
@@ -193,9 +193,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "df9550b4515fbce7",
+  "active": "36ef3b6edb1d2ec8",
   "lastOpenFiles": [
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Characters/Extraplanar/Gods/The Dark Tribunal/Aldred, The Black Sun Deity.md",
+    "Terra-Nova/History/Lore Documents/The Craved End/Wings to Fall With.md",
+    "Aldred.md",
+    "Feast on Feathered Helm.md",
+    "Terra-Nova/History/Lore Documents/The Craved End/Feast on Feathered Helm.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/5. The Tablet of Flow.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/9. The Tablet of Procedure.md",
+    "Terra-Nova/History/Lore Documents/The Iridescent Tablets/6. The Tablet of Towers.md",
     "Terra-Nova/History/Lore Documents/The Craved End/A Way Forward.md",
     "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
     "Dashboard.md",
@@ -216,16 +224,8 @@
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/Past Sessions/TVBO Session 4.md",
     "Terra-Nova/Items/Magic Items/Arks/Ark.md",
-    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Terra-Nova/Items/Magic Items/Arks",
-    "Terra-Nova/Items/Magic Items/Hallowed Artifacts/Hallowed Artifacts.md",
     "z Images/Writing Tips-1782398120410.webp",
-    "Terra-Nova/Books/Writing Tips.md",
-    "Terra-Nova/Books/The Sparrow's Oath/TSO Outline.md",
-    "Terra-Nova/Books/The Sparrow's Oath/TSO Brainstorm.md",
-    "Terra-Nova/Books/Tales from Terra-Nova/Tales from Terra-Nova Chapter 6.md",
-    "Post TVBO Brainstorm.md",
-    "Terra-Nova/Characters/People/Aldros.md",
     "z Images/Mutalis-1781886340337.webp",
     "z Images/Sulbaan-1781885175480.webp",
     "z Images/Halde-1781724250323.webp",
