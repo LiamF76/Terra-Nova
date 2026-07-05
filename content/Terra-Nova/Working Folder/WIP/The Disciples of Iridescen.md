@@ -11,5 +11,4 @@ The Disciples of Iridescen are those who have studied the teachings of Iridescen
 Having control over any amount of Nothing makes an individual immensely powerful. Nothing can take many forms, but the most powerful is that of will, which can be molded and controlled by those who wield Nothing.
 
 - [[Vesponous]]
-- Hyperion
-- Ozymandias
+- 
