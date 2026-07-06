@@ -54,5 +54,4 @@ Writing situations not plots means creating an environment and campaign based ar
 
 - Augur Reference Image
 ![[TWOTTS Brainstorm-1783362167074.webp|500x500]]
-
 - 
