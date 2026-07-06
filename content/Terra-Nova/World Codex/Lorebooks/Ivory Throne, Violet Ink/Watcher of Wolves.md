@@ -1,7 +1,9 @@
 ---
 publish: false
-title:
+title: Watcher of Wolves
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 Ivys talks about Oxidian, the temporal spirit who became fond of his Chronovault , and becomes its caretaker.

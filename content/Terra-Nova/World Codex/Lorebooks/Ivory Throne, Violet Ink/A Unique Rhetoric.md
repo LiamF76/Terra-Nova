@@ -5,8 +5,9 @@ aliases:
 tags:
   - Terra-Nova
 ---
-
+Ivys talks about creating Rhetoric
 ## A Unique Rhetoric
 
-Ivys talks about creating Rhetoric
+tbd
 
+**Tempus omnia revelat.**
