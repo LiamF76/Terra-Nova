@@ -15,6 +15,7 @@ kanban-plugin: list
 
 ## ## Blood's Chronicle
 
+- [ ] [[The Garden]]
 - [ ] [[Memory of Wings]]
 
 
