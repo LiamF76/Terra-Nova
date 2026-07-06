@@ -6,8 +6,6 @@ tags:
   - Terra-Nova
 ---
 
-Ivys Arthur issues a warning just before his death
-
 ## If You're Reading this it's too Early
 
 Well here we are.

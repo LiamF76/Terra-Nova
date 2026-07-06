@@ -17,6 +17,8 @@ kanban-plugin: list
 
 - [ ] [[The Garden]]
 - [ ] [[Memory of Wings]]
+- [ ] [[O' Mother Mine]]
+- [ ] [[Scarlett Admonition]]
 
 
 ## ## The Carved End
