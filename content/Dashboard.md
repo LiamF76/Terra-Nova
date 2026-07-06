@@ -20,7 +20,7 @@ Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terr
 > ## [[Vault To-Do]]
 
 > [!note] Terra-Nova
-> ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]]
+> ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]] | [[Lore Books]]
 
 > [!note] Current Campaigns
 > ## [[The Valley of Broken Oaths]] | [[TWOTTS Brainstorm]] | [[TBSS Brainstorm]]
