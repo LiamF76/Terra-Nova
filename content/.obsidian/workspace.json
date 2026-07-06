@@ -71,9 +71,37 @@
               "icon": "lucide-file",
               "title": "If You're Reading this it's too Early"
             }
+          },
+          {
+            "id": "72feac21fd4161e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Working Folder/WIP/Chronovault Lupus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chronovault Lupus"
+            }
+          },
+          {
+            "id": "2266d47f03e693ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chronovault Lupus Puzzle Key.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chronovault Lupus Puzzle Key"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,10 +231,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c587161418c303e7",
+  "active": "2266d47f03e693ce",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
     "Terra-Nova/Working Folder/WIP/Chronovault Lupus.md",
+    "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink/If You're Reading this it's too Early.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
     "z Images/Chronovault Lupus-1783362429512.webp",
     "z Images/Chronovault Lupus-1783362367938.webp",
     "z Images/Chronovault Lupus-1783362357668.webp",
@@ -223,7 +252,6 @@
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle/The Garden.md",
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle/Memory of Wings.md",
     "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink/Watcher of Wolves.md",
-    "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink/If You're Reading this it's too Early.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle/Untitled",
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle",

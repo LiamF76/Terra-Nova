@@ -4,6 +4,12 @@ title:
 aliases:
 ---
 
+## First Code
+
+*Tempus Sine Fine Sub Occasu Solis.*
+
+When spoken to the vault, will translate time to produce the true secret: WEAREKAIROS
+
 ### The answer key
 
 Alphabetized letter order, with pillar number and tie-break (first occurrence wins ties):
