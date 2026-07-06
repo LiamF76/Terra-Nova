@@ -10,7 +10,7 @@ tags:
 
 Well here we are.
 
-Bit daunting isn't it? Death? Ours especially, what does this even look like? We don't usually die... the first one would've never allowed it. Uncharted territory!
+Bit daunting isn't it? Death? Ours especially, what does this even look like? We don't usually die... the first one would've never allowed it. Uncharted territory! Ryfon asked me if I was scared, when I enlisted his help for this. I had never considered fear of death, I had an underwhelming response. 'Well there is that.'
 
 Lesser Demon, that's me. Essek said we would show back up below, in the Abyss. All our power, brand new little demon baby, just waiting for the most evil guy down there to snatch us up and teach us a thousand new ways to enact pain with our power.
 
