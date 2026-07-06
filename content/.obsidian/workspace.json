@@ -45,17 +45,17 @@
             }
           },
           {
-            "id": "a7918864533b6e4c",
+            "id": "f122dc2d46bd7e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink/If You're Reading this it's too Early.md",
+                "file": "Terra-Nova/Characters/Spirits/Chrysalith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "If You're Reading this it's too Early"
+              "title": "Chrysalith"
             }
           }
         ],
@@ -189,9 +189,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a7918864533b6e4c",
+  "active": "f122dc2d46bd7e3d",
   "lastOpenFiles": [
     "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
+    "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink/If You're Reading this it's too Early.md",
     "Terra-Nova/World Codex/Lore Books/The Carved End/A Way Forward.md",
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle/Memory of Wings.md",
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle/The Garden.md",
@@ -199,7 +200,6 @@
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle/Scarlett Admonition.md",
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle/O' Mother Mine.md",
     "Terra-Nova/Working Folder/WIP/Chronovault Lupus.md",
-    "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink/If You're Reading this it's too Early.md",
     "Terra-Nova/Working Folder/WIP/Chronovault Lupus Puzzle Key.md",
     "z Images/Chronovault Lupus-1783362429512.webp",
     "z Images/Chronovault Lupus-1783362367938.webp",
