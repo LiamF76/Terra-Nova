@@ -19,4 +19,5 @@ Description: Appearance & vibe description
 
 Important Info: 
 - Temporal Spirit given a construct body by Ivys
+- Created a construct in the image of Kairos known as Kairos, Second Reflection
 - 

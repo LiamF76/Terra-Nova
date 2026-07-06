@@ -11,7 +11,8 @@ tags:
 Name: **Oxidian**, The Final Moment, Watcher of Wolves
 
 Voice: Voice Description
-- Example Dialogue
+- "Graveglass fears my strength. He fears my dedication to purpose. Hidden here in my vault are secrets and treasure. I am the guardian of Lupus. I am the Watcher of Wolves."
+- 
 
 Description: Appearance & vibe description
 
