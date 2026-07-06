@@ -46,4 +46,12 @@ Writing situations not plots means creating an environment and campaign based ar
 - Return to some important Ivys locations.
 	- Purple Tower, Temporal Plane, Sunset Village in the Triumvirate, ???
 - Focus somewhat on the Triumvirate, Aldros is the Wyrm-Chosen after all. Aldros flees back into the Triumvirate and has to be hunted down. Grows his power with Vesponous?
+
+
+
+## DUMP
+
+- Augur Reference Image
+![[TWOTTS Brainstorm-1783362167074.webp|500x500]]
+
 - 
