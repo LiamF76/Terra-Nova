@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Metal Genasi
 aliases:
 tags:
