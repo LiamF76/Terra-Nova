@@ -58,11 +58,11 @@ kanban-plugin: list
 
 ## Ivory Throne, Violet Ink
 
-- [ ] [[A Unique Rhetoric]]
+- [x] [[If You're Reading this it's too Early]]
 - [ ] [[Watcher of Wolves]]
+- [ ] [[A Unique Rhetoric]]
 - [ ] [[Architect of my Soul]]
 - [ ] [[The Beauty of Yellow Mist]]
-- [ ] [[If You're Reading this it's too Early]]
 
 
 ***
