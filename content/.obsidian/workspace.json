@@ -24,24 +24,17 @@
             }
           },
           {
-            "id": "f55a3d25a52ecaad",
+            "id": "209d27d02c3399e9",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Lore Books"
+              "icon": "lucide-file",
+              "title": "TWOTTS Brainstorm"
             }
           }
         ],
@@ -175,10 +168,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f55a3d25a52ecaad",
+  "active": "209d27d02c3399e9",
   "lastOpenFiles": [
-    "Terra-Nova/Characters/Spirits/Chrysalith.md",
+    "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
+    "Terra-Nova/Characters/Spirits/Chrysalith.md",
     "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink/If You're Reading this it's too Early.md",
     "Terra-Nova/World Codex/Lore Books/The Carved End/A Way Forward.md",
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle/Memory of Wings.md",
@@ -194,7 +188,6 @@
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "z Images/TWOTTS Brainstorm-1783362167074.webp",
     "z Images/TWOTTS Brainstorm-1783362149662.webp",
-    "Dashboard.md",
     "Terra-Nova/Characters/Spirits/Graveglass.md",
     "z Images/Graveglass-1783357068817.webp",
     "z Images/Chrysalith-1783356778625.webp",
