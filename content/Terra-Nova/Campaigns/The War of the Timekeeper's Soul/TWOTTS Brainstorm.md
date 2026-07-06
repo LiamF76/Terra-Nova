@@ -38,15 +38,8 @@ Writing situations not plots means creating an environment and campaign based ar
 - Go back to the temporal plane to destroy the Sekhem Augur (a forge where Aldros wants to create his Ark)
 	- It's a massive cube that flies around the Temporal Plane, this should be a larger dungeon or even a raid. The forge is inside the cube and there are bosses / Aldros followers inside. They can choose to destroy it or take a part that makes it unusable for Aldros, but leave it open for later.
 - Ivys leaves behind a warning (WARNING TO GIVE PLAYERS FOUND HERE: [[If You're Reading this it's too Early]]), but it is encrypted. The key to the encryption is temporal in nature, and hidden within a Chronovault, the party has to go to the Chronovault and retrieve the encryption key. This key could also be used for something later. Chronovault Lupis.
-	- Lupis is protected by a powerful entity created by Ivys as a guardian known as Oxidian, The Last Hour. Could be a raid or a dungeon. Oxidian is named after an ancient philosopher mage who studied chronurgy, specifically freezing living things in time for as long as possible. Oxidian was built in the image of the Collector from the Temporal Plane, and used a condensed star as its core which Ivys froze at the moment it exploded, allowing it to be powered for nearly endless time.
-	- THE WARNING / PUZZLE IN CHRONOVAULT: Series of Pillars that need to be pressed in proper order.
-	  Position:  1  2  3  4  5  6  7  8  9  10 11
-	  Letter:    W  E  A  R  E  K  A  I  R  O  S
-
-| Pillar         | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
-| -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Activate order | 11  | 3   | 1   | 8   | 4   | 6   | 2   | 5   | 9   | 7   | 10  |
-
+	- Lupis is protected by a powerful entity created by Ivys as a guardian known as Oxidian, The Last Hour. Could be a raid or a dungeon. Give players [[Watcher of Wolves]] as lore reward for defeating the dungeon.
+	- [[Chronovault Lupus Puzzle Key]] 
 - Go to an abyssal altar where the Hellstorm Clan is worshipping Ivys, trying to draw his essence and alter his personality through demonic worship
 - Rhetoric Stuff: Rhetoric IS Kairos in some sense, and though he does not have all of Kairos' memories, he was Ivys' father. He has moments where he reacts to things Ivys did, and thinks back both fondly and with disdain for his son's actions. These are good RP / lore moments.
 - Echoes of Kairos: Ivys and the replicants left echoes across time and space, which will be found and interacted with. This is a good way to dispense lore and interaction with our old friend.
