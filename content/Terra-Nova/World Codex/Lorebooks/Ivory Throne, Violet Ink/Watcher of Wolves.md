@@ -23,3 +23,7 @@ The trouble with pests is usually that they move, small and darting through nook
 It was a spirit of some kind, he could discern from detecting its magic, but it was quite... abstract. Throw a hammer through it and it slows down, everything that passed through it was slowed to almost a standstill, even light.
 
 Trying to figure out what was causing the shadow was how he found it in the first place. 
+
+"Don't worry there little guy." He spoke with effort, as his body strained dragging the massive pyramid across the floor. "Gonna build you a body! No more weird time dilations in my vault."
+
+
