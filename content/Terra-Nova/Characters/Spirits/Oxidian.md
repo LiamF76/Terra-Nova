@@ -6,9 +6,9 @@ tags:
   - Terra-Nova
 ---
 
-![[image.png|300]]
+![[Oxidian-1783345187383.webp|500x281]]
 
-Name: **Name**, Aliases
+Name: **Oxidian**, The Final Moment, Watcher of Wolves
 
 Voice: Voice Description
 - Example Dialogue
