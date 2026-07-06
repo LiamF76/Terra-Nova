@@ -33,3 +33,5 @@ I left the Codex here, someone will decipher it, probably you if you're reading 
 Make it through the vault and you can understand, keeps the info outta the wrong hands eh? Once you understand the warning, you'll know how to handle my soul. 
 
 Best of luck, talk soon. We left echoes all over the time, so eventually, we'll see you again. Oh, and please let Nysria know I passed, she tends to get lost in her work. There's a son in the vault, when she hears it she'll come. Don't wear orange.
+
+**Tempus fugit** my friends.
