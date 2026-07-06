@@ -1,3 +1,11 @@
+---
+publish: false
+title: Metal Genasi
+aliases:
+tags:
+  - Terra-Nova
+---
+
 A typical genasi has a life span of 120 years
 
 Metal genasi are the descendants of the ancient hybrid Warforged and Aelarians. They evoke and embody the unyielding strength of metal and power their ancestors possessed. They can draw upon their connection to metals.
