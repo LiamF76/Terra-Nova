@@ -12,4 +12,5 @@ aliases:
 
 ![[Chronovault Lupus-1783362429512.webp|500x283]]
 
+- [[Chronovault Lupus Puzzle Key]]
 - 
