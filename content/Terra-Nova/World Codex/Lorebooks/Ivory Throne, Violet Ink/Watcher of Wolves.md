@@ -36,6 +36,6 @@ Oxidian had come to the Chronovault seeking the time thing he knew now to be Ivy
 
 Ivys did not make Oxidian to be static, or a guardian, but he had a tendency to remain. So Oxidian became the Watcher of Wolves, Guardian of the Chronovault Lupis.
 
-Beware should you attempt to steal from the son of the Timekeeper, for you must contend with the Final Moment.
+Beware should you attempt to steal from the son of the Timekeeper, for you must contend with The Final Moment.
 
 **Omnia vincit tempus.** 
