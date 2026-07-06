@@ -23,7 +23,6 @@ kanban-plugin: list
 
 ## ## The Carved End
 
-- [x] [[A Way Forward]]
 - [x] [[The Third Lesson]]
 - [x] [[Wings to Fall With]]
 - [ ] [[Feast on Feathered Helm]]
@@ -40,7 +39,11 @@ kanban-plugin: list
 - [x] [[9. The Tablet of Procedure]]
 
 
+***
 
+## Archive
+
+- [x] [[A Way Forward]]
 
 %% kanban:settings
 ```
