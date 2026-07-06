@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: Feast on Feathered Helm
 aliases:
 tags:
   - Terra-Nova

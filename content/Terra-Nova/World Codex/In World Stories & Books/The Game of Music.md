@@ -36,5 +36,4 @@ The echo of their music could be heard in every heartbeat, every rustling leaf, 
 
 Thus, the world was created through the Game of Music, a cosmic symphony that continues to play, shaping the destiny of all within it.
 
-
 In the beginning Shao was the strongest, but in the end Khal is strength. At the birth and creation of the gods and the world Shao's power is greatest, but just like all music, it must eventually end. Khal grows stronger as the gods pass, magic dies, and the world, along with the song of creation, comes to an end. 
