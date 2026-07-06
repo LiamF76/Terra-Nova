@@ -26,4 +26,10 @@ Now I did say I was proud, but also I need to say this.
 
 I am sorry, for what I am leaving behind. I won't lie to you there is *work* to be done. There are always bad guys, you'll need to stop them, at least the ones you can.
 
-Get help when you need it, and you will. Ask the original too, well ask Rhetoric, he may know. If he does he will br cranky, but that's better than the original.
+Get help when you need it, and you will. Ask the original too, well ask Rhetoric, he may know. If he does he will be cranky, but that's better than the original.
+
+I left the Codex here, someone will decipher it, probably you if you're reading this. It'll open the vault. The vault has the key for the warning as well, sorry but I couldn't help myself from hiding and encrypting it. We always liked codes.
+
+Make it through the vault and you can understand, keeps the info outta the wrong hands eh? Once you understand the warning, you'll know how to handle my soul. 
+
+Best of luck, talk soon. We left echoes all over the time, so eventually, we'll see you again. Oh, and please let Nysria know I passed, she tends to get lost in her work. There's a son in the vault, when she hears it she'll come. Don't wear orange.
