@@ -56,6 +56,12 @@ kanban-plugin: list
 - [x] [[9. The Tablet of Procedure]]
 
 
+## Ivory Throne, Violet Ink
+
+- [ ] A Unique Rhetoric
+- [ ] Watcher of Wolves
+
+
 ***
 
 ## Archive
@@ -71,6 +77,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false],"full-list-lane-width":true}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false],"full-list-lane-width":true}
 ```
 %%

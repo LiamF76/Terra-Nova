@@ -36,9 +36,33 @@
               "icon": "lucide-file",
               "title": "Feast on Feathered Helm"
             }
+          },
+          {
+            "id": "a99f0ce17481f2b4",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,13 +192,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9f8bd00638eac51e",
+  "active": "e34a2393bb44142e",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "Terra-Nova/World Codex/Lorebooks/The Carved End/Feast on Feathered Helm.md",
     "Terra-Nova/World Codex/Lorebooks/The Carved End/A Way Forward.md",
     "Terra-Nova/World Codex/Lorebooks/The Carved End/The Third Lesson.md",
-    "Terra-Nova/World Codex/Lorebooks/The Carved End/Feast on Feathered Helm.md",
     "Terra-Nova/World Codex/Lorebooks/The Carved End/A Child's Wish.md",
-    "Dashboard.md",
     "Terra-Nova/World Codex/In World Stories & Books/The Game of Music.md",
     "Terra-Nova/World Codex/In World Stories & Books/The Lance of Aethos.md",
     "Terra-Nova/World Codex/In World Stories & Books/The Last House of Korun.md",
