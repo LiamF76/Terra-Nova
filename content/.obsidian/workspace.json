@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,34 +17,11 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "895f303225fb89f8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Lore Books"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +161,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "895f303225fb89f8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova/World Codex/Lore Books/The Carved End/The Third Lesson.md",
     "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
+    "Terra-Nova/World Codex/Lore Books/The Carved End/The Third Lesson.md",
     "Terra-Nova/World Codex/Lore Books/The Carved End/A Way Forward.md",
     "Terra-Nova/World Codex/Lore Books/The Carved End/Wings to Fall With.md",
     "Terra-Nova/Resources/Gameplay Resources/Races/Orichalcum.md",
