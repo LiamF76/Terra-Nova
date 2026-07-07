@@ -14,28 +14,12 @@ Ivys Arthur, legendary White Wizard, demon, and son of Kairos, has finally passe
 
 ## Ideas
 
+- Chasing after Ivys' soul, does Aldros or Giesor have it? 
 - Ivys Arthur has died, this has a rippling effect on the world in many ways, but most importantly over control of his soul.
 - Aldros and his followers are hunting for the soul to create an Ark, a weapon of Nothing that Aldros can use to destroy and enforce the logic of Nothing.
 - The Demons of the Abyss are hunting for the soul because they believe the reborn lesser Demon Ivys will lead them in their war against the Gods and Material plane.
 - Ivys removed one of his horns, attempting to create a replicant using his new biological material. This created [[Rhetoric]], a fragment of Kairos that dispenses knowledge when it chooses to. It knows a great many things, but its mind is fragmented, making knowledge often random or niche, but never intentionally wrong. It will dispense this information on anything or at any time it feels inclined to, and is very difficult to work with, as it is quite upset it never ended the universe.
 - Aldred abandons Godhood, and a catastrophic storm erupts. Black rain falls from the sky for 30 days, and the sun's light barely pierces the clouds. 
-- 
-
---- 
-
-## Situations not Plots
-
-Writing situations not plots means creating an environment and campaign based around a situation, not planned steps and story beats. Create multiple factions who will act on their own regardless of the players
-
-- **The Soulbreaker Legion**: Led by [[Aldros]], the Soulbreaker Legion seeks to claim Ivys' soul to create an [[Ark]], and push forward the teachings of [[Vesponous]] and Iridescen. Aldros wants to destroy Ivys' soul in the Orichalcum Augur, a forge capable of creating his weapon.
-- **The Hellstorm Clan**: Led by [[Hellstorm]], the Hellstorm clan seeks to claim Ivys' soul and raise him as the new Abyssal Grand Mage, hoping to use his powers to free Balthazaar and fulfill the Night Serpent's goals. The party will not interact directly with the Hellstorm, but his lieutenants as he is beyond them in power.
-- **The Rogue Keeper**: Graveglass, one of Ivys' Temporal Spirit creations, has gone rogue. He assisted Aldros in attacking the Purple Tower, and trapped Ivys' soul in the Timekeeper's Spact Station in orbit around Nysria, Temporial's Elegy. Graveglass seeks to claim Ivys' soul to restore him as the Father, Kairos, which he believes to be the true form of Ivys. Graveglass however wants Kairos to be under his control, so he can 'use his magic for better things' (to rule the world).
-
---- 
-
-## What happens?
-
-- Chasing after Ivys' soul, does Aldros or Giesor have it? 
 - Go back to the temporal plane to destroy the Orichalcum Augur (a forge where Aldros wants to create his Ark)
 	- It's a massive cube that flies around the Temporal Plane, this should be a larger dungeon or even a raid. The forge is inside the cube and there are bosses / Aldros followers inside. They can choose to destroy it or take a part that makes it unusable for Aldros, but leave it open for later.
 - Ivys leaves behind a warning (WARNING TO GIVE PLAYERS FOUND HERE: [[If You're Reading this it's too Early]]), but it is encrypted. The key to the encryption is temporal in nature, and hidden within a Chronovault, the party has to go to the Chronovault and retrieve the encryption key. This key could also be used for something later. Chronovault Lupus.
@@ -50,6 +34,28 @@ Writing situations not plots means creating an environment and campaign based ar
 - Focus somewhat on the Triumvirate, Aldros is the Wyrm-Chosen after all. Aldros flees back into the Triumvirate and has to be hunted down. Grows his power with Vesponous?
 - Temporial's Elegy, space station Ivys built in orbit around Nysria. Massive raid involving Graveglass and other time enemies.
 - 
+
+--- 
+
+## Situations not Plots
+
+Writing situations not plots means creating an environment and campaign based around a situation, not planned steps and story beats. Create multiple factions who will act on their own regardless of the players
+
+### Factions
+
+
+| Faction                            | Goal                                                                                                                 | Method | Timescale |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------ | --------- |
+| **The Party**                      | Free Ivys' soul, prevent it from being destroyed, stolen, or raised as a Demon again                                 |        |           |
+| **Aldros: The Soulbreaker Legion** | Steal Ivys' soul to create Aldros' weapon of power, the Ark. If they cannot create the Ark, destroy the soul forever |        |           |
+| **Curze: The Hellstorm Clan**      | Take the Fragment of Ivys' demon soul (Kairothrax) and raise it as a Demon                                           |        |           |
+
+
+- **The Soulbreaker Legion**: Led by [[Aldros]], the Soulbreaker Legion seeks to claim Ivys' soul to create an [[Ark]], and push forward the teachings of [[Vesponous]] and Iridescen. Aldros wants to destroy Ivys' soul in the Orichalcum Augur, a forge capable of creating his weapon.
+- **The Hellstorm Clan**: Led by [[Hellstorm]], the Hellstorm clan seeks to claim Ivys' soul and raise him as the new Abyssal Grand Mage, hoping to use his powers to free Balthazaar and fulfill the Night Serpent's goals. The party will not interact directly with the Hellstorm, but his lieutenants as he is beyond them in power.
+- **The Rogue Keeper**: Graveglass, one of Ivys' Temporal Spirit creations, has gone rogue. He assisted Aldros in attacking the Purple Tower, and trapped Ivys' soul in the Timekeeper's Spact Station in orbit around Nysria, Temporial's Elegy. Graveglass seeks to claim Ivys' soul to restore him as the Father, Kairos, which he believes to be the true form of Ivys. Graveglass however wants Kairos to be under his control, so he can 'use his magic for better things' (to rule the world).
+
+--- 
 
 ## Order of stuff
 
