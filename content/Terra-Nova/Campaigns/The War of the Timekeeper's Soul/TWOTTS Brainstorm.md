@@ -44,12 +44,12 @@ Writing situations not plots means creating an environment and campaign based ar
 ### Factions
 
 
-| *Faction*                          | *Goal*                                                                                                               | *Method* | *Timescale* |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
-| **The Party**                      | Free Ivys' soul, prevent it from being destroyed, stolen, or raised as a Demon again                                 |          |             |
-| **Aldros: The Soulbreaker Legion** | Steal Ivys' soul to create Aldros' weapon of power, the Ark. If they cannot create the Ark, destroy the soul forever |          |             |
-| **Curze: The Hellstorm Clan**      | Take the Fragment of Ivys' demon soul (Kairothrax) and raise it as a Demon                                           |          |             |
-| **Graveglass: The Traitor**        |                                                                                                                      |          |             |
+| *Faction*                          | *Goal*                                                                                                                                                     | *Method*                                                                                             | *Timescale* |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------- |
+| **The Party**                      | Free Ivys' soul, prevent it from being destroyed, stolen, or raised as a Demon again                                                                       |                                                                                                      |             |
+| **Aldros: The Soulbreaker Legion** | Steal Ivys' soul to create Aldros' weapon of power, the Ark. If they cannot create the Ark, destroy the soul forever                                       | Powerful military, attacking locations, causing chaos, searching for the soul through violent action |             |
+| **Curze: The Hellstorm Clan**      | Take the Fragment of Ivys' demon soul (Kairothrax) and raise it as a Demon                                                                                 | Ritual magic, needs time + specific components / locations                                           |             |
+| **Graveglass: The Traitor**        | Reshape Ivys' soul with Kairos' memories to create a new Kairos that Graveglass himself controls, to rule the world as a better version of the Timekeeper. |                                                                                                      |             |
 
 
 - **The Soulbreaker Legion**: Led by [[Aldros]], the Soulbreaker Legion seeks to claim Ivys' soul to create an [[Ark]], and push forward the teachings of [[Vesponous]] and Iridescen. Aldros wants to destroy Ivys' soul in the Orichalcum Augur, a forge capable of creating his weapon.
