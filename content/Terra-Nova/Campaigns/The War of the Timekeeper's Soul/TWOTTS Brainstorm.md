@@ -78,6 +78,6 @@ Writing situations not plots means creating an environment and campaign based ar
 
 ## DUMP
 
-- Augur Reference Image
+- Orichalcum Augur Reference Image
 ![[TWOTTS Brainstorm-1783362167074.webp|500x500]]
 - 
