@@ -4,6 +4,12 @@ title:
 aliases:
 ---
 
+## Enemies
+
+Within Chronovault Lupus there are many enemies, foes and monsters held there. These are some ideas for who could be within.
+
+- Melantha Clone
+
 
 ## Temporary
 
