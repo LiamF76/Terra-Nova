@@ -44,16 +44,17 @@ Writing situations not plots means creating an environment and campaign based ar
 ### Factions
 
 
-| Faction                            | Goal                                                                                                                 | Method | Timescale |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------ | --------- |
-| **The Party**                      | Free Ivys' soul, prevent it from being destroyed, stolen, or raised as a Demon again                                 |        |           |
-| **Aldros: The Soulbreaker Legion** | Steal Ivys' soul to create Aldros' weapon of power, the Ark. If they cannot create the Ark, destroy the soul forever |        |           |
-| **Curze: The Hellstorm Clan**      | Take the Fragment of Ivys' demon soul (Kairothrax) and raise it as a Demon                                           |        |           |
+| *Faction*                          | *Goal*                                                                                                               | *Method* | *Timescale* |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
+| **The Party**                      | Free Ivys' soul, prevent it from being destroyed, stolen, or raised as a Demon again                                 |          |             |
+| **Aldros: The Soulbreaker Legion** | Steal Ivys' soul to create Aldros' weapon of power, the Ark. If they cannot create the Ark, destroy the soul forever |          |             |
+| **Curze: The Hellstorm Clan**      | Take the Fragment of Ivys' demon soul (Kairothrax) and raise it as a Demon                                           |          |             |
+| **Graveglass: The Traitor**        |                                                                                                                      |          |             |
 
 
 - **The Soulbreaker Legion**: Led by [[Aldros]], the Soulbreaker Legion seeks to claim Ivys' soul to create an [[Ark]], and push forward the teachings of [[Vesponous]] and Iridescen. Aldros wants to destroy Ivys' soul in the Orichalcum Augur, a forge capable of creating his weapon.
 - **The Hellstorm Clan**: Led by [[Hellstorm]], the Hellstorm clan seeks to claim Ivys' soul and raise him as the new Abyssal Grand Mage, hoping to use his powers to free Balthazaar and fulfill the Night Serpent's goals. The party will not interact directly with the Hellstorm, but his lieutenants as he is beyond them in power.
-- **The Rogue Keeper**: Graveglass, one of Ivys' Temporal Spirit creations, has gone rogue. He assisted Aldros in attacking the Purple Tower, and trapped Ivys' soul in the Timekeeper's Spact Station in orbit around Nysria, Temporial's Elegy. Graveglass seeks to claim Ivys' soul to restore him as the Father, Kairos, which he believes to be the true form of Ivys. Graveglass however wants Kairos to be under his control, so he can 'use his magic for better things' (to rule the world).
+- **The Rogue Keeper**: Graveglass, one of Ivys' Temporal Spirit creations, has gone rogue. He assisted Aldros in attacking the Purple Tower, and trapped Ivys' soul in the Timekeeper's Space Station in orbit around Nysria, Temporial's Elegy. Graveglass seeks to claim Ivys' soul to restore him as the Father, Kairos, which he believes to be the true form of Ivys. Graveglass however wants Kairos to be under his control, so he can 'use his magic for better things' (to rule the world).
 
 --- 
 
@@ -62,7 +63,7 @@ Writing situations not plots means creating an environment and campaign based ar
 - Purple Tower
 	- Ivys dies, funeral / meeting with major figures
 	- Soul ritual to split Ivys from the demon, destroy the demon, free Ivys
-	- Ritual goes wrong when Graveglass and Kairothrax' soul fragment (the new identity of the demon in Ivys) intervene, imprisoning Ivys' soul somewhere (the Song Tower of Nysria, secret!) and set Kairothrax's soul fragment free. Aldros appears and does battle with Melantha / Ryfon / Giesor
+	- Ritual goes wrong when Graveglass and Kairothrax's soul fragment (the new identity of the demon in Ivys) intervene, imprisoning Ivys' soul somewhere (the Song Tower of Nysria, secret!) and set Kairothrax's soul fragment free. Aldros appears and does battle with Melantha / Ryfon / Giesor
 	- Party is banished into the lower reaches of the Purple Tower with Aldred's aspect and some monsters, have to fight their way out
 	- Interact with NPCs
 		- Melantha thinks there is a connection between Aldros and Thalia's magic troubles, encourages her to investigate. 'If he has stolen your magic, take it back.'
