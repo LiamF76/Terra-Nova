@@ -55,7 +55,8 @@ Overview of involved factions and their goals. This will help inform creating un
 ### Situations
 
 - **Attack on the Purple Tower**
-	- Ryfon and Melantha 
+	- Ryfon and Melantha split Ivys' soul to destroy the demonic half, and allow his true soul to be passed on. The ritual is interrupted by Graveglass (secretly), Aldros, and the Hellstorm Clan. The party is separated from the great heroes and forced to fight their way back to the ritual. Ivys Soul is lost. The demons are there to steal Kairothrax's soul, and Aldros is there to steal Ivys' soul. The demons and Aldros are NOT working together.
+- 
 
 --- 
 
