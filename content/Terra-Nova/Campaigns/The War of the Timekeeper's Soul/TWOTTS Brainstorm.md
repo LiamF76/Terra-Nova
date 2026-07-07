@@ -27,15 +27,16 @@ Ivys Arthur, legendary White Wizard, demon, and son of Kairos, has finally passe
 
 Writing situations not plots means creating an environment and campaign based around a situation, not planned steps and story beats. Create multiple factions who will act on their own regardless of the players
 
-- **The Iridescent Legion**: Led by Aldros, the Iridescent Legion seeks to claim Ivys' soul to create an [[Ark]], and push forward the teachings of [[Vesponous]] and Iridescen. 
-- **The Hellstorm Clan**: Led by Giesor Axial, the Hellstorm clan seeks to claim Ivys' soul and raise him as the new Abyssal Grand Mage, hoping to use his powers to free Balthazaar and fulfill the Night Serpent's goals.
+- **The Iridescent Legion**: Led by Aldros, the Iridescent Legion seeks to claim Ivys' soul to create an [[Ark]], and push forward the teachings of [[Vesponous]] and Iridescen. Aldros wants to destroy Ivys' soul in the Orichalcum Augur, a forge capable of creating his weapon.
+- **The Hellstorm Clan**: Led by Giesor Axial, the Hellstorm clan seeks to claim Ivys' soul and raise him as the new Abyssal Grand Mage, hoping to use his powers to free Balthazaar and fulfill the Night Serpent's goals. 
+- **The Rogue Keeper**: Graveglass, one of Ivys' Temporal Spirit creations, has gone rogue. He assisted Aldros in attacking the Purple Tower, and trapped Ivys' soul in the Timekeeper's Spact Station in orbit around Nysria, Temporial's Elegy. Graveglass seeks to claim Ivys' soul to restore him as the Father, Kairos, which he believes to be the true form of Ivys. Graveglass however wants Kairos to be under his control, so he can 'use his magic for better things' (to rule the world).
 
 --- 
 
 ## What happens?
 
 - Chasing after Ivys' soul, does Aldros or Giesor have it? 
-- Go back to the temporal plane to destroy the Sekhem Augur (a forge where Aldros wants to create his Ark)
+- Go back to the temporal plane to destroy the Orichalcum Augur (a forge where Aldros wants to create his Ark)
 	- It's a massive cube that flies around the Temporal Plane, this should be a larger dungeon or even a raid. The forge is inside the cube and there are bosses / Aldros followers inside. They can choose to destroy it or take a part that makes it unusable for Aldros, but leave it open for later.
 - Ivys leaves behind a warning (WARNING TO GIVE PLAYERS FOUND HERE: [[If You're Reading this it's too Early]]), but it is encrypted. The key to the encryption is temporal in nature, and hidden within a Chronovault, the party has to go to the Chronovault and retrieve the encryption key. This key could also be used for something later. Chronovault Lupus.
 	- Lupus is protected by a powerful entity created by Ivys as a guardian known as Oxidian, The Last Hour. Could be a raid or a dungeon. Give players [[Watcher of Wolves]] as lore reward for defeating the dungeon.
@@ -47,6 +48,7 @@ Writing situations not plots means creating an environment and campaign based ar
 - Return to some important Ivys locations.
 	- Purple Tower, Temporal Plane, Sunset Village in the Triumvirate, ???
 - Focus somewhat on the Triumvirate, Aldros is the Wyrm-Chosen after all. Aldros flees back into the Triumvirate and has to be hunted down. Grows his power with Vesponous?
+- Temporial's Elegy, space station Ivys built in orbit around Nysria. Massive raid involving Graveglass and other time enemies.
 
 ## Order of stuff
 
@@ -67,6 +69,7 @@ Writing situations not plots means creating an environment and campaign based ar
 	- Take a boat back to shore, dangerous to go directly to Sunset Village because of a sea monster that protects the straight between the Purple Tower and the mainland
 	- Land south of the bay and have to travel north from there
 	- Traverse the Triumvirate, territory of Vesponous
+	- 
 - Sunset Village / Chronovault Lupus
 	- Find entrance to the Chronovault, and solve the puzzle to get inside
 	- 
