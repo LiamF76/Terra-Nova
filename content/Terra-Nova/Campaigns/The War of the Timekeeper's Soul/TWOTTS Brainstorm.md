@@ -27,8 +27,8 @@ Ivys Arthur, legendary White Wizard, demon, and son of Kairos, has finally passe
 
 Writing situations not plots means creating an environment and campaign based around a situation, not planned steps and story beats. Create multiple factions who will act on their own regardless of the players
 
-- **The Soulbreaker Legion**: Led by Aldros, the Soulbreaker Legion seeks to claim Ivys' soul to create an [[Ark]], and push forward the teachings of [[Vesponous]] and Iridescen. Aldros wants to destroy Ivys' soul in the Orichalcum Augur, a forge capable of creating his weapon.
-- **The Hellstorm Clan**: Led by Giesor Axial, the Hellstorm clan seeks to claim Ivys' soul and raise him as the new Abyssal Grand Mage, hoping to use his powers to free Balthazaar and fulfill the Night Serpent's goals. 
+- **The Soulbreaker Legion**: Led by [[Aldros]], the Soulbreaker Legion seeks to claim Ivys' soul to create an [[Ark]], and push forward the teachings of [[Vesponous]] and Iridescen. Aldros wants to destroy Ivys' soul in the Orichalcum Augur, a forge capable of creating his weapon.
+- **The Hellstorm Clan**: Led by [[Hellstorm]], the Hellstorm clan seeks to claim Ivys' soul and raise him as the new Abyssal Grand Mage, hoping to use his powers to free Balthazaar and fulfill the Night Serpent's goals. The party will not interact directly with the Hellstorm, but his lieutenants as he is beyond them in power.
 - **The Rogue Keeper**: Graveglass, one of Ivys' Temporal Spirit creations, has gone rogue. He assisted Aldros in attacking the Purple Tower, and trapped Ivys' soul in the Timekeeper's Spact Station in orbit around Nysria, Temporial's Elegy. Graveglass seeks to claim Ivys' soul to restore him as the Father, Kairos, which he believes to be the true form of Ivys. Graveglass however wants Kairos to be under his control, so he can 'use his magic for better things' (to rule the world).
 
 --- 
@@ -49,6 +49,7 @@ Writing situations not plots means creating an environment and campaign based ar
 	- Purple Tower, Temporal Plane, Sunset Village in the Triumvirate, ???
 - Focus somewhat on the Triumvirate, Aldros is the Wyrm-Chosen after all. Aldros flees back into the Triumvirate and has to be hunted down. Grows his power with Vesponous?
 - Temporial's Elegy, space station Ivys built in orbit around Nysria. Massive raid involving Graveglass and other time enemies.
+- 
 
 ## Order of stuff
 
