@@ -70,6 +70,9 @@ Overview of involved factions and their goals. This will help inform creating un
 	- A mage of the Soulbreaker Legion has destroyed a village, carving the eyes from every victim. He is corrupting a large region, stealing its life force for Aldros' Nothing. He must be stopped. (Fight where mage summons massive floating eyes that don't move but shoot ranged attacks at players, can be broken. Taken eyes inspiration)
 - **Temporial's Elegy**
 	- The party completes the raid on the space station Temporial's Elegy, to free Ivys' soul from Graveglass.
+- **The Twisted Oak Temple**
+	- A (dark / evil) Bloodfir Druid of Vesponous is preaching and enacting horrors in her name within a corrupted temple to Tena. The Druid is damaging the land's connection to the Oakenheart, hoping to redirect the fading leylines to Vesponous, to siphon and steal the world's fleeting magic.
+- 
 
 --- 
 
