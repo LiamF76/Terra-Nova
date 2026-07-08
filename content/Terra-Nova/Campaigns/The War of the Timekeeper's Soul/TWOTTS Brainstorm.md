@@ -64,6 +64,8 @@ Overview of involved factions and their goals. This will help inform creating un
 	- An Aspect of Aldros controls a breeding pool for massive earth eating half-dragon worm beasts. They will be used to invade Sovrentia underground, and need to be stopped.
 - **Chronovault Lupus**
 	- The party explores [[Chronovault Lupus]]
+- **Corpse Tithe**
+	- In service to Gravebinder, Aldros' Soulbreaker Legion demands tithe of dead bodies to be delivered to Gravebinder. Some town is being tithed as the party arrives, the Legion is picking those to execute and load up for transport.
 - 
 
 --- 
