@@ -22,51 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "76e100778d3a06b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Working Folder/WIP/Chronovault Lupus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chronovault Lupus"
-            }
-          },
-          {
-            "id": "3c53d7cdae60bc66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TWOTTS Brainstorm"
-            }
-          },
-          {
-            "id": "af167576662dcc4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Characters/Spirits/Graveglass.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Graveglass"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,10 +163,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "af167576662dcc4d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "z Images/Graveglass-1783465040473.webp",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
+    "Terra-Nova/Characters/Spirits/Graveglass.md",
+    "z Images/Graveglass-1783465040473.webp",
     "Dashboard.md",
     "Terra-Nova/Working Folder/WIP/Chronovault Lupus.md",
     "conflict-files-obsidian-git.md",
@@ -253,7 +211,6 @@
     "Terra-Nova/World Codex/Lore Books/The Carved End",
     "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink",
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle",
-    "z Images/Iridescen-1783284779985.webp",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
   ]
