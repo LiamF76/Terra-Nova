@@ -39,7 +39,7 @@ kanban-plugin: list
 - [x] [[9. The Tablet of Procedure]]
 
 
-## Drowning Worm
+## ## Drowning Worm
 
 - [ ] [[O Seeker Mine]]
 
