@@ -56,8 +56,11 @@ Overview of involved factions and their goals. This will help inform creating un
 
 - **Attack on the Purple Tower**
 	- Ryfon and Melantha split Ivys' soul to destroy the demonic half, and allow his true soul to be passed on. The ritual is interrupted by Graveglass (secretly), Aldros, and the Hellstorm Clan. The party is separated from the great heroes and forced to fight their way back to the ritual. Ivys Soul is lost. The demons are there to steal Kairothrax's soul, and Aldros is there to steal Ivys' soul. The demons and Aldros are NOT working together.
-- **Aldros' Mines**
-	- 
+- **Aldros' Deforestation**
+	- An Aspect of Aldros leads a horde of Soulbreaker Legion Soldiers in a large forest in the Triumvirate. They are obliterating the forest to bring the lumber to the Temporal Plane, where it will be converted into Orichalcum for the army. 
+- **The Worm Brood**
+	- An Aspect of Aldros controls a breeding pool for massive earth eating worms. They will be used to invade Sovrentia underground, and need to be stopped.
+- 
 
 --- 
 
