@@ -34,4 +34,4 @@ Her scales grew upwards, inwards, piercing the soft whites of her eyes, they ble
 
 She lost her eyes, but gained something more valuable, she could hear the words of the tablet, and felt the call of the deep. [[Vesponous]] answered, and was glad to be blind. What she learned would kill most to see, but to hear of it is not so difficult.
 
-[[Garthrax ]] called her a leech, [[Gravebinder ]] called her a worm, both were correct in assessing her form. Both failed to comprehend the dark aura that she carried. 
+[[Garthrax ]] called her a leech, [[Gravebinder ]] called her a worm, both were correct in assessing her form. Both failed to comprehend the dark aura that she carried. Their eyes were so open, they could not see the deep.
