@@ -4,6 +4,14 @@ title:
 aliases:
 ---
 
+## Enemies
+
+Within Chronovault Lupus there are many enemies, foes and monsters held there. These are some ideas for who could be within.
+
+- Melantha Clone (Ivys always thought he could beat her in a fight, this one only fights)
+- Night Serpent (Ivys' Night Serpent pet, didn't stay loyal, kept here for safety)
+- 
+
 
 ## Temporary
 

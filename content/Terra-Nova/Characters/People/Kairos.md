@@ -1,3 +1,11 @@
+---
+publish: false
+title:
+aliases:
+tags:
+  - Terra-Nova
+---
+
 Name: Kairos Karius Bekarys Bontell
 
 Voice: British accent, well spoken, fancy words, "If you could comprehend my anger, you would not be trying to stop me."

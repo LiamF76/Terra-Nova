@@ -43,17 +43,24 @@ Writing situations not plots means creating an environment and campaign based ar
 
 ### Factions
 
+Overview of involved factions and their goals. This will help inform creating unique situations to fuel the campaign, instead of writing as story the players have to follow.
 
-| Faction                            | Goal                                                                                                                 | Method | Timescale |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------ | --------- |
-| **The Party**                      | Free Ivys' soul, prevent it from being destroyed, stolen, or raised as a Demon again                                 |        |           |
-| **Aldros: The Soulbreaker Legion** | Steal Ivys' soul to create Aldros' weapon of power, the Ark. If they cannot create the Ark, destroy the soul forever |        |           |
-| **Curze: The Hellstorm Clan**      | Take the Fragment of Ivys' demon soul (Kairothrax) and raise it as a Demon                                           |        |           |
+| *Faction*                              | *Goal*                                                                                                                                                         | *Method*                                                                                                                                                                                                                                                              | *Timescale*                                                                                                                                                                                   |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The Party**                          | Free Ivys' soul, prevent it from being destroyed, stolen, or raised as a Demon again                                                                           | Investigation (Ivys' code/cipher trail), diplomacy with allies (Melantha, Ryfon, Hellstorm maybe?), tracking the other three factions' movements to find the soul indirectly, occasional direct confrontation when paths cross (also exploring [[Chronovault Lupus]]) | Reactive. No clock of their own, but must keep pace with the other factions involved                                                                                                          |
+| **[[Aldros]]: The Soulbreaker Legion** | Steal Ivys' soul to create [[Aldros]]' weapon of power, the [[Ark]]. If they cannot create the [[Ark]], destroy the soul forever                               | Military force, razing locations, interrogating / eliminating anyone who might know the soul's location, moving fast and leaving visible wreckage the party can follow                                                                                                | Aggressive / fast, the most immediate threat; likely ahead of the party unless slowed or misdirected                                                                                          |
+| **Curze: The Hellstorm Clan**          | Take the Fragment of Ivys' demon soul (Kairothrax) and raise it as a Demon. *POSSIBLE ALLY*                                                                    | Ritual magic, requires time, specific components, and likely a significant location (a corrupted temple, a convergence point, an anniversary / alignment tied to [[Kairos]]). Could ally with the party if they are willing to let Kairothrax be raised as a demon    | Slow but relentless, a hard deadline / doomsday clock; escalates in visible stages (omens, corruption, demonic incursions) the party can track even from a distance                           |
+| **[[Graveglass]]: The Traitor**        | Reshape Ivys' soul with Kairos' memories to create a new Kairos that [[Graveglass]] himself controls, to rule the world as a better version of the Timekeeper. | Subtle, patient manipulation, using his access to Ivys' network and [[Kairos]]' memories to create dangerous situations. Not revealed as a traitor immediately. Hiding the soul on [[Temporial's Elegy]] while working on reshaping it                                | Slowest / quietest, no violence needed, just isolation and time; the party may not even realize this is happening until they piece it together, making it the most dangerous long term threat |
 
+### Situations
 
-- **The Soulbreaker Legion**: Led by [[Aldros]], the Soulbreaker Legion seeks to claim Ivys' soul to create an [[Ark]], and push forward the teachings of [[Vesponous]] and Iridescen. Aldros wants to destroy Ivys' soul in the Orichalcum Augur, a forge capable of creating his weapon.
-- **The Hellstorm Clan**: Led by [[Hellstorm]], the Hellstorm clan seeks to claim Ivys' soul and raise him as the new Abyssal Grand Mage, hoping to use his powers to free Balthazaar and fulfill the Night Serpent's goals. The party will not interact directly with the Hellstorm, but his lieutenants as he is beyond them in power.
-- **The Rogue Keeper**: Graveglass, one of Ivys' Temporal Spirit creations, has gone rogue. He assisted Aldros in attacking the Purple Tower, and trapped Ivys' soul in the Timekeeper's Spact Station in orbit around Nysria, Temporial's Elegy. Graveglass seeks to claim Ivys' soul to restore him as the Father, Kairos, which he believes to be the true form of Ivys. Graveglass however wants Kairos to be under his control, so he can 'use his magic for better things' (to rule the world).
+- **Attack on the Purple Tower**
+	- Ryfon and Melantha split Ivys' soul to destroy the demonic half, and allow his true soul to be passed on. The ritual is interrupted by Graveglass (secretly), Aldros, and the Hellstorm Clan. The party is separated from the great heroes and forced to fight their way back to the ritual. Ivys Soul is lost. The demons are there to steal Kairothrax's soul, and Aldros is there to steal Ivys' soul. The demons and Aldros are NOT working together.
+- **Aldros' Deforestation**
+	- An Aspect of Aldros leads a horde of Soulbreaker Legion Soldiers in a large forest in the Triumvirate. They are obliterating the forest to bring the lumber to the Temporal Plane, where it will be converted into Orichalcum for the army. 
+- **The Worm Brood**
+	- An Aspect of Aldros controls a breeding pool for massive earth eating worms. They will be used to invade Sovrentia underground, and need to be stopped.
+- 
 
 --- 
 
@@ -62,7 +69,7 @@ Writing situations not plots means creating an environment and campaign based ar
 - Purple Tower
 	- Ivys dies, funeral / meeting with major figures
 	- Soul ritual to split Ivys from the demon, destroy the demon, free Ivys
-	- Ritual goes wrong when Graveglass and Kairothrax' soul fragment (the new identity of the demon in Ivys) intervene, imprisoning Ivys' soul somewhere (the Song Tower of Nysria, secret!) and set Kairothrax's soul fragment free. Aldros appears and does battle with Melantha / Ryfon / Giesor
+	- Ritual goes wrong when Graveglass and Kairothrax's soul fragment (the new identity of the demon in Ivys) intervene, imprisoning Ivys' soul somewhere (the Song Tower of Nysria, secret!) and set Kairothrax's soul fragment free. Aldros appears and does battle with Melantha / Ryfon / Giesor
 	- Party is banished into the lower reaches of the Purple Tower with Aldred's aspect and some monsters, have to fight their way out
 	- Interact with NPCs
 		- Melantha thinks there is a connection between Aldros and Thalia's magic troubles, encourages her to investigate. 'If he has stolen your magic, take it back.'

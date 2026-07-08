@@ -6,7 +6,7 @@ tags:
   - Terra-Nova
 ---
 
-![[Graveglass-1783357068817.webp|500x281]]
+![[Graveglass-1783465040473.webp|500x281]]
 
 Name: **Graveglass**, The Father's Keeper
 
