@@ -68,9 +68,18 @@ Overview of involved factions and their goals. This will help inform creating un
 	- In service to Gravebinder, Aldros' Soulbreaker Legion demands tithe of dead bodies to be delivered to Gravebinder. Some town is being tithed as the party arrives, the Legion is picking those to execute and load up for transport.
 - **Lord of Eyes**
 	- A mage of the Soulbreaker Legion has destroyed a village, carving the eyes from every victim. He is corrupting a large region, stealing its life force for Aldros' Nothing. He must be stopped. (Fight where mage summons massive floating eyes that don't move but shoot ranged attacks at players, can be broken. Taken eyes inspiration)
-- 
+- **Temporial's Elegy**
+	- The party completes the raid on the space station Temporial's Elegy, to free Ivys' soul from Graveglass.
 
 --- 
+
+## Rough Outline
+
+- Ivys dies, soul goes missing
+- hunt for clues in ivys' legacy while fighting Aldros
+- Enter chronovault, explore, find out about Augur
+
+---
 
 ## Order of stuff
 
