@@ -10,6 +10,10 @@ Within Chronovault Lupus there are many enemies, foes and monsters held there. T
 
 - Melantha Clone (Ivys always thought he could beat her in a fight, this one only fights)
 - Night Serpent (Ivys' Night Serpent pet, didn't stay loyal, kept here for safety)
+- Memories of significant individuals, crafted from Temporal magic
+	- Adrithyr, The Red King
+	- Alabaster, The Iron Hawk
+	- Tyran, The Obliterator
 - 
 
 

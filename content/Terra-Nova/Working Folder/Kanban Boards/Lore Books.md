@@ -39,6 +39,11 @@ kanban-plugin: list
 - [x] [[9. The Tablet of Procedure]]
 
 
+## ## Drowning Worm
+
+- [ ] [[O Seeker Mine]]
+
+
 ***
 
 ## Archive
@@ -47,6 +52,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false],"full-list-lane-width":true}
+{"kanban-plugin":"list","list-collapse":[false,false,false],"full-list-lane-width":true}
 ```
 %%

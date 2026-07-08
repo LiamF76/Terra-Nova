@@ -22,8 +22,31 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "69c0e12fa23eaced",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Lore Books"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,15 +186,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "69c0e12fa23eaced",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "conflict-files-obsidian-git.md",
+    "Terra-Nova/World Codex/Lore Books/Drowning Worm/O Seeker Mine.md",
+    "Terra-Nova/World Codex/Lore Books/Drowning Worm",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Characters/People/Kairos.md",
-    "Dashboard.md",
     "Terra-Nova/Characters/Spirits/Graveglass.md",
     "z Images/Graveglass-1783465040473.webp",
     "Terra-Nova/Working Folder/WIP/Chronovault Lupus.md",
-    "conflict-files-obsidian-git.md",
     "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Hellstorm.md",
     "Terra-Nova/Working Folder/WIP/Temporial's Elegy.md",
     "z Images/Temporial's Elegy-1783461128890.webp",
@@ -201,7 +226,6 @@
     "Terra-Nova/World Codex/In World Stories & Books/dreams/Reister Rebirth.md",
     "Terra-Nova/World Codex/In World Stories & Books/dreams/Melantha child dream.md",
     "Terra-Nova/World Codex/In World Stories & Books/NPC backstories/Thaldrax, The Hand of Eternal Night.md",
-    "Terra-Nova/World Codex/In World Stories & Books/dreams/Ivys River Dream.md",
     "Terra-Nova/World Codex/In World Stories & Books/world reveals",
     "Terra-Nova/World Codex/In World Stories & Books/notes",
     "Terra-Nova/World Codex/In World Stories & Books/dreams",
@@ -210,7 +234,6 @@
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets",
     "Terra-Nova/World Codex/Lore Books/The Carved End",
     "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink",
-    "Terra-Nova/World Codex/Lore Books/Blood's Chronicle",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
   ]
