@@ -59,7 +59,9 @@ Overview of involved factions and their goals. This will help inform creating un
 - **Aldros' Deforestation**
 	- An Aspect of Aldros leads a horde of Soulbreaker Legion Soldiers in a large forest in the Triumvirate. They are obliterating the forest to bring the lumber to the Temporal Plane, where it will be converted into Orichalcum for the army. 
 - **The Worm Brood**
-	- An Aspect of Aldros controls a breeding pool for massive earth eating worms. They will be used to invade Sovrentia underground, and need to be stopped.
+	- An Aspect of Aldros controls a breeding pool for massive earth eating half-dragon worm beasts. They will be used to invade Sovrentia underground, and need to be stopped.
+- **Chronovault Lupus**
+	- The party explores [[Chronovault Lupus]]
 - 
 
 --- 
