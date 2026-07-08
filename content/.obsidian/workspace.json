@@ -24,17 +24,25 @@
             }
           },
           {
-            "id": "f453291106d348cb",
+            "id": "d99dcb2775f47b60",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Terra-Nova/World Codex/Lore Books/Drowning Worm/O Seeker Mine.md",
-                "mode": "source",
-                "source": false
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "O Seeker Mine"
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Lore Books"
             }
           }
         ],
@@ -168,10 +176,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f453291106d348cb",
+  "active": "d99dcb2775f47b60",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Terra-Nova/World Codex/Lore Books/Drowning Worm/O Seeker Mine.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
+    "Dashboard.md",
     "Terra-Nova/World Codex/Lore Books/Drowning Worm",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Hellstorm.md",
@@ -183,7 +192,6 @@
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 2.md",
     "Terra-Nova/Books/The Sparrow Knight/The Sparrow Knight Chapter 1.md",
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/1. The Tablet of Position.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Resources/Gameplay Resources/Races/Orichalcum.md",
     "Terra-Nova/Resources/Gameplay Resources/Races/Metal Genasi.md",
