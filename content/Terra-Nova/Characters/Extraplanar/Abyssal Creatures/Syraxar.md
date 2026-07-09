@@ -6,9 +6,9 @@ tags:
   - Terra-Nova
 ---
 
-![[image.png|300]]
+![[Syraxar-1783570745016.webp|500x355]]
 
-Name: **Syraxar**, Aliases
+Name: **Syraxar**, The Half-Dragon
 
 Voice: Voice Description
 - Example Dialogue
@@ -16,4 +16,4 @@ Voice: Voice Description
 Description: Appearance & vibe description
 
 Important Info: 
-- Connections, Abilities, Secrets
+- half dragon, half demon
