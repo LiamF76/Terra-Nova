@@ -1,9 +1,19 @@
-Name: Syraxar the Half-Dragon
+---
+publish: false
+title: Syraxar
+aliases:
+tags:
+  - Terra-Nova
+---
 
-Voice: 
+![[image.png|300]]
 
-Description: 
+Name: **Syraxar**, Aliases
+
+Voice: Voice Description
+- Example Dialogue
+
+Description: Appearance & vibe description
 
 Important Info: 
-
-Statblock: 
+- Connections, Abilities, Secrets
