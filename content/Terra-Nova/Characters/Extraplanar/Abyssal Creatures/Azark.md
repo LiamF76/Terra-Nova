@@ -16,4 +16,5 @@ Voice: Voice Description
 Description: Appearance & vibe description
 
 Important Info: 
-- Connections, Abilities, Secrets
+- Lieutenant of the Hellstorm Clan, servant of the [[Hellstorm]]
+- 
