@@ -75,15 +75,19 @@ Overview of involved factions and their goals. This will help inform creating un
 	- A (dark / evil) Bloodfir Druid of Vesponous is preaching and enacting horrors in her name within a corrupted temple to Tena. The Druid is damaging the land's connection to the Oakenheart, hoping to redirect the fading leylines to Vesponous, to siphon and steal the world's fleeting magic. The druid is using the weapon of a Green Knight as a focus for its dark magics, this belonged to [[Jerran]]'s master.
 - **Mysteries of the Deep**
 	- An Aspect of Aldros lies within an ancient and deep shrine to Khal Daraan. It meditates on the secrets of the Deep, delving into its mysteries for Vesponous. Delve into the far below ground temple, fight minions. Boss fight has a powerful warrior and a powerful mage of the Soulbreaker Legion, while Aldros' Aspect meditates.
-- 
+- **Thalia Magic Fragments**
+	- l
+- **Echo of the Guardian**
+	- Aldros has reshaped Gavin (Jerran's mentor), with his nothing. This has turned Gavin into an undying husk of a warrior who serves the will of Aldros. Echoes of Gavin's true self are scattered across the Triumvirate and the world for Jerran to find. They are pieces of Gavin's spirit who 
 
 --- 
 
 ## Rough Outline
 
 - Ivys dies, soul goes missing
-- hunt for clues in ivys' legacy while fighting Aldros
-- Enter chronovault, explore, find out about Augur
+- hunt for clues in Ivys' legacy while fighting Aldros
+- Enter Chronovault, explore, find out about Augur
+- 
 
 ---
 
