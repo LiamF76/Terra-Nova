@@ -1,14 +1,14 @@
 ---
 publish: false
-title: Syraxar
+title: Curze
 aliases:
 tags:
   - Terra-Nova
 ---
 
-![[Syraxar-1783570745016.webp|500x355]]
+![[image.png|300]]
 
-Name: **Syraxar**, The Half-Dragon
+Name: **Curze**, The Hellstorm's Chosen
 
 Voice: Voice Description
 - Example Dialogue
@@ -16,4 +16,4 @@ Voice: Voice Description
 Description: Appearance & vibe description
 
 Important Info: 
-- half dragon, half demon
+- Connections, Abilities, Secrets
