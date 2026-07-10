@@ -33,6 +33,7 @@ Ivys Arthur, legendary White Wizard, demon, and son of Kairos, has finally passe
 	- Purple Tower, Temporal Plane, Sunset Village in the Triumvirate, ???
 - Focus somewhat on the Triumvirate, Aldros is the Wyrm-Chosen after all. Aldros flees back into the Triumvirate and has to be hunted down. Grows his power with Vesponous?
 - Temporial's Elegy, space station Ivys built in orbit around Nysria. Massive raid involving Graveglass and other time enemies.
+- Fate / Time curse, player gets a blank d6 and can roll it, choosing what each side of the dice says. Then when they fill in the dice, the curse manifests, and can use it against the player.
 - 
 
 --- 
