@@ -1,9 +1,19 @@
-Name: Azark the Mazelord
+---
+publish: false
+title: Azark
+aliases:
+tags:
+  - Terra-Nova
+---
 
-Voice: 
+![[image.png|300]]
 
-Description: 
+Name: **Azark**, Aliases
+
+Voice: Voice Description
+- Example Dialogue
+
+Description: Appearance & vibe description
 
 Important Info: 
-
-Statblock: 
+- Connections, Abilities, Secrets
