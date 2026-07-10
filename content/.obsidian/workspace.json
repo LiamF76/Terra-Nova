@@ -159,18 +159,20 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
       "canvas:Create new canvas": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "conflict-files-obsidian-git.md",
+    "Dashboard.md",
+    "z Images/Azark-1783694504774.webp",
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "z Images/Syraxar-1783570745016.webp",
     "Terra-Nova/World Codex/Lore Books/Drowning Worm/To Read You Must be Blind.md",
     "Terra-Nova/Organizations/Armies/The Soulbreaker Legion.md",
     "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Curze.md",
-    "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
     "Terra-Nova/World Codex/Lore Books/Drowning Worm/O Seeker Mine.md",
     "Terra-Nova/World Codex/Lore Books/Drowning Worm",
@@ -197,7 +199,6 @@
     "z Images/Graveglass-1783357068817.webp",
     "z Images/Chrysalith-1783356778625.webp",
     "z Images/Chronovault Lupus-1783362429512.webp",
-    "z Images/Chronovault Lupus-1783362367938.webp",
     "Terra-Nova/World Codex/In World Stories & Books/world reveals/The Great Lie.md",
     "Terra-Nova/World Codex/In World Stories & Books/world reveals/The Original Truth.md",
     "Terra-Nova/World Codex/In World Stories & Books/world reveals/The Hyperian Truth.md",
