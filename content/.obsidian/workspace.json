@@ -24,49 +24,7 @@
             }
           },
           {
-            "id": "d7d5cdd0dd0a0fca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TVBO Session 5"
-            }
-          },
-          {
-            "id": "514f02fc3d57758a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Spire of Virtue"
-            }
-          },
-          {
-            "id": "dd3c20bb3d3d2591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TSOV Encounter 1"
-            }
-          },
-          {
-            "id": "22e0286898a3e1bd",
+            "id": "71f5c91c164a24c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,37 +36,9 @@
               "icon": "lucide-file",
               "title": "TWOTTS Brainstorm"
             }
-          },
-          {
-            "id": "6606b47d936e9311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Characters/Spirits/Kehtoh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kehtoh"
-            }
-          },
-          {
-            "id": "6274ed2fe23b466f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Characters/Spirits/Kehtoh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kehtoh"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,16 +168,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "22e0286898a3e1bd",
+  "active": "71f5c91c164a24c7",
   "lastOpenFiles": [
-    "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
-    "Terra-Nova/Characters/Spirits/Kehtoh.md",
-    "z Images/Kehtoh-1783792749347.webp",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Sobek.md",
     "Dashboard.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
+    "Terra-Nova/Characters/Spirits/Morwyn.md",
+    "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
+    "Terra-Nova/Items/Magic Items/Wyrnsoul.md",
+    "Terra-Nova/Items/Magic Items/Rhetoric.md",
+    "Terra-Nova/Characters/Spirits/Kehtoh.md",
+    "Terra-Nova/Items/Magic Items/Hallowed Artifacts/Hallowed Artifacts.md",
+    "Terra-Nova/Items/unique items/The Eye of Starlight.md",
+    "z Images/Morwyn-1783798737240.webp",
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
+    "z Images/Kehtoh-1783792749347.webp",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/Player Characters/Sobek.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue",
     "Terra-Nova/dungeons/Raids",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
@@ -268,16 +204,11 @@
     "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Merakas.md",
     "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Marza.md",
     "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Malphas.md",
-    "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Kor Goroth.md",
-    "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Kaz'thrax.md",
-    "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Karat.md",
-    "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Hellstorm.md",
     "z Images/Temporial's Elegy-1783461128890.webp",
     "z Images/Graveglass-1783465040473.webp",
     "Terra-Nova/World Codex/Lore Books/Drowning Worm",
     "z Images/Chronovault Lupus-1783362429512.webp",
     "z Images/Chronovault Lupus-1783362367938.webp",
-    "z Images/Chronovault Lupus-1783362357668.webp",
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle/Untitled",
     "Terra-Nova/World Codex/Lore Books/Blood's Chronicle",
     "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink",
