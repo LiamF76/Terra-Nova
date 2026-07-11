@@ -7,14 +7,15 @@ tags:
   - Terra-Nova
 ---
 
-![[image.png|300]]
+![[Kehtoh-1783792749347.webp|500x642]]
 
 Name: **Kehtoh**, The Great Unending Thing
 
 Voice: Voice Description
 - Example Dialogue
 
-Description: Appearance & vibe description
+Description: 20,000 year old Leviathan, Kehtoh is a massive sea beast with a snake-like tail, four massive finned arms, tentacles protruding from its sides and back, and a head covered in eyes. Its body is layered with unbreakable scales, and its insides glow with malevolent orange light.
 
 Important Info: 
-- Connections, Abilities, Secrets
+- Father of [[Sobek]], Child of Konduell
+- 
