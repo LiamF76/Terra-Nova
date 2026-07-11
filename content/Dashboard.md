@@ -9,7 +9,6 @@ tags:
   - excalidraw
 ---
 
-
 # :LiCalendar: `$= dv.date("today").toFormat("EEEE, MMMM d, yyyy")`
 
 Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terra-Nova, Arkfall, and Pentium realm, my homebrew Dungeons & Dragons settings / worldbuilding projects. 

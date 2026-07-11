@@ -53,28 +53,31 @@ Overview of involved factions and their goals. This will help inform creating un
 | **[[Azark]]: The Hellstorm Clan**          | Take the Fragment of Ivys' demon soul (Kairothrax) and raise it as a Demon. *POSSIBLE ALLY*                                                                    | Ritual magic, requires time, specific components, and likely a significant location (a corrupted temple, a convergence point, an anniversary / alignment tied to [[Kairos]]). Could ally with the party if they are willing to let Kairothrax be raised as a demon    | Slow but relentless, a hard deadline / doomsday clock; escalates in visible stages (omens, corruption, demonic incursions) the party can track even from a distance                           |
 | **[[Graveglass]]: The Traitor**            | Reshape Ivys' soul with Kairos' memories to create a new Kairos that [[Graveglass]] himself controls, to rule the world as a better version of the Timekeeper. | Subtle, patient manipulation, using his access to Ivys' network and [[Kairos]]' memories to create dangerous situations. Not revealed as a traitor immediately. Hiding the soul on [[Temporial's Elegy]] while working on reshaping it                                | Slowest / quietest, no violence needed, just isolation and time; the party may not even realize this is happening until they piece it together, making it the most dangerous long term threat |
 
-
 ### Situations
 
 - **Attack on the Purple Tower**
 	- Ryfon and Melantha split Ivys' soul to destroy the demonic half, and allow his true soul to be passed on. The ritual is interrupted by Graveglass (secretly), Aldros, and the Hellstorm Clan. The party is separated from the great heroes and forced to fight their way back to the ritual. Ivys Soul is lost. The demons are there to steal Kairothrax's soul, and Aldros is there to steal Ivys' soul. The demons and Aldros are NOT working together.
 	- The Purple Tower begins to sink into the Sea, which Ryfon prevents, but it traps him in the tower until Aldros is defeated and the rift beneath the island can be closed.
-- **Aldros' Deforestation**
-	- An Aspect of Aldros leads a horde of Soulbreaker Legion Soldiers in a large forest in the Triumvirate. They are obliterating the forest to bring the lumber to the Temporal Plane, where it will be converted into Orichalcum for the army. 
+- **Blighted Forest (Part 1)**
+	- A large area of forest, rivers, and fields near a town has been stricken with blight. The party investigates and finds a corrupted nature spirit is spreading the sickness. They can save it or destroy it. The spirit has no eyes, and was corrupted by the Eye Mage (from part 2 below).
+- **Blighted Forest (Part 2)**
+	- A mage of the Soulbreaker Legion has destroyed a village, carving the eyes from every victim. He is corrupting a large region, stealing its life force for Aldros' Nothing. He must be stopped. (Fight where mage summons massive floating eyes that don't move but shoot ranged attacks at players, can be broken. Taken eyes inspiration).
 - **The Worm Brood**
 	- An Aspect of Aldros controls a breeding pool for massive earth eating half-dragon worm beasts. They will be used to invade Sovrentia underground, and need to be stopped.
 - **Chronovault Lupus**
 	- The party explores [[Chronovault Lupus]]
 - **Corpse Tithe**
 	- In service to Gravebinder, Aldros' Soulbreaker Legion demands tithe of dead bodies to be delivered to Gravebinder. Some town is being tithed as the party arrives, the Legion is picking those to execute and load up for transport. The leader is a demi-god son of Vesponous (a very weak one), he makes comments on Sobek's connection to Garthrax, welcome home, your mother misses you etc.
-- **Lord of Eyes**
-	- A mage of the Soulbreaker Legion has destroyed a village, carving the eyes from every victim. He is corrupting a large region, stealing its life force for Aldros' Nothing. He must be stopped. (Fight where mage summons massive floating eyes that don't move but shoot ranged attacks at players, can be broken. Taken eyes inspiration)
 - **Temporial's Elegy**
 	- The party completes the raid on the space station Temporial's Elegy, to free Ivys' soul from Graveglass.
 - **The Twisted Oak Temple**
 	- A (dark / evil) Bloodfir Druid of Vesponous is preaching and enacting horrors in her name within a corrupted temple to Tena. The Druid is damaging the land's connection to the Oakenheart, hoping to redirect the fading leylines to Vesponous, to siphon and steal the world's fleeting magic. The druid is using the weapon of a Green Knight as a focus for its dark magics, this belonged to [[Jerran]]'s master.
 - **Mysteries of the Deep**
 	- An Aspect of Aldros lies within an ancient and deep shrine to Khal Daraan. It meditates on the secrets of the Deep, delving into its mysteries for Vesponous. Delve into the far below ground temple, fight minions. Boss fight has a powerful warrior and a powerful mage of the Soulbreaker Legion, while Aldros' Aspect meditates.
+- **Thalia Magic Fragments**
+	- Aldros has stolen [[Thalia]]'s magic through a curse on Alabaster's bloodline. In order to reclaim her magic she must destroy the Aspects of Aldros. Each Aspect returns a fragment of her magic. This could be buffs such as a stat increase, homebrew spells, or other benefits.
+- **[[Echo of the Guardian]]**
+	- Aldros has reshaped Gavin ([[Jerran]]'s mentor), with his nothing. This has turned Gavin into an undying husk of a warrior who serves the will of Aldros. Echoes of Gavin's true self are scattered across the Triumvirate and the world for Jerran to find. They are pieces of Gavin's spirit that survived Aldros, but have lost most of their memories. They are lore dumps and plot devices to give information and direction to the players. Also this will help motivate [[Jerran]] as a player character.
 - 
 
 --- 
@@ -82,8 +85,9 @@ Overview of involved factions and their goals. This will help inform creating un
 ## Rough Outline
 
 - Ivys dies, soul goes missing
-- hunt for clues in ivys' legacy while fighting Aldros
-- Enter chronovault, explore, find out about Augur
+- hunt for clues in Ivys' legacy while fighting Aldros
+- Enter Chronovault, explore, find out about Augur
+- 
 
 ---
 

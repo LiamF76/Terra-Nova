@@ -25,4 +25,7 @@ Within Chronovault Lupus there are many enemies, foes and monsters held there. T
 ![[Chronovault Lupus-1783362429512.webp|500x283]]
 
 - [[Chronovault Lupus Puzzle Key]]
+- Grown up Night Serpent
+![[Chronovault Lupus-1783729861389.webp|500x500]]
+
 - 
