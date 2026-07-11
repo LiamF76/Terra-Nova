@@ -82,6 +82,7 @@ Overview of involved factions and their goals. This will help inform creating un
 	- [[Sobek]] is the child of Garthrax the Blue Dragon Queen, and an unknown spirit ([[Kehtoh]]). [[Sobek]] has an underlying connection to spirits through his father, and spirits can recognize this, often trusting him more than others, or being able to intuit his intentions and kindness. As Sobek meets and helps spirits, they will grant him boons such as buffs, magical items, magic abilities, and knowledge of his own origins.
 - **Lady of the Lake**
 	- The party is sent by Ryfon to find a spirit called Morwyn. Morwyn lives in a lake, and helps guide the party in exchange for defeating a goblin warlord who is terrorizing the local spirits. She gives them the path forwards to the ruins of Sunset, how to find the Warlord, and some information on the Triumvirate servant who stole her legendary blade. It was a Dragon Priest who serves Gravebinder.
+	- Tells Jerran that something watches him, a light in the edge of his shadow, something not quite dead and not quite alive is following him, trying to reach him. (This is the [[Echo of the Guardian]])
 - 
 
 --- 
@@ -89,7 +90,7 @@ Overview of involved factions and their goals. This will help inform creating un
 ## Rough Outline
 
 - Ivys dies, soul goes missing
-- hunt for clues in Ivys' legacy while fighting Aldros
+- hunt for clues in Ivys' legacy while fighting Aldros minions / aspects
 - Enter Chronovault, explore, find out about Augur
 - 
 
