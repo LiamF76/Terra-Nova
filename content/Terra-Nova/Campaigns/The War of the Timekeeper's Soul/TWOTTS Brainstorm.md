@@ -77,7 +77,7 @@ Overview of involved factions and their goals. This will help inform creating un
 	- An Aspect of Aldros lies within an ancient and deep shrine to Khal Daraan. It meditates on the secrets of the Deep, delving into its mysteries for Vesponous. Delve into the far below ground temple, fight minions. Boss fight has a powerful warrior and a powerful mage of the Soulbreaker Legion, while Aldros' Aspect meditates.
 - **Thalia Magic Fragments**
 	- Aldros has stolen [[Thalia]]'s magic through a curse on Alabaster's bloodline. In order to reclaim her magic she must destroy the Aspects of Aldros. Each Aspect returns a fragment of her magic. This could be buffs such as a stat increase, homebrew spells, or other benefits.
-- **Echo of the Guardian**
+- **[[Echo of the Guardian]]**
 	- Aldros has reshaped Gavin ([[Jerran]]'s mentor), with his nothing. This has turned Gavin into an undying husk of a warrior who serves the will of Aldros. Echoes of Gavin's true self are scattered across the Triumvirate and the world for Jerran to find. They are pieces of Gavin's spirit that survived Aldros, but have lost most of their memories. They are lore dumps and plot devices to give information and direction to the players. Also this will help motivate [[Jerran]] as a player character.
 - 
 
