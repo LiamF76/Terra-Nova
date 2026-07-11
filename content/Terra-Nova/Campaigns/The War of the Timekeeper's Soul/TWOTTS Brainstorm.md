@@ -79,7 +79,7 @@ Overview of involved factions and their goals. This will help inform creating un
 - **[[Echo of the Guardian]]**
 	- Aldros has reshaped Gavin ([[Jerran]]'s mentor), with his nothing. This has turned Gavin into an undying husk of a warrior who serves the will of Aldros. Echoes of Gavin's true self are scattered across the Triumvirate and the world for Jerran to find. They are pieces of Gavin's spirit that survived Aldros, but have lost most of their memories. They are lore dumps and plot devices to give information and direction to the players. Also this will help motivate [[Jerran]] as a player character.
 - **Spirit Horde**
-	- Sobek is the child of Garthrax the Blue Dragon Queen, and an unknown spirit. Sobek has an underlying connection to spirits through his father, and spirits can recognize this, often trusting him more than others, or being able to intuit his intentions and kindness. As Sobek meets and helps spirits, they will grant him boons such as buffs, magical items, magic abilities, and knowledge of his own origins.
+	- [[Sobek]] is the child of Garthrax the Blue Dragon Queen, and an unknown spirit. [[Sobek]] has an underlying connection to spirits through his father, and spirits can recognize this, often trusting him more than others, or being able to intuit his intentions and kindness. As Sobek meets and helps spirits, they will grant him boons such as buffs, magical items, magic abilities, and knowledge of his own origins.
 - 
 
 --- 
