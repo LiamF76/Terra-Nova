@@ -53,7 +53,6 @@ Overview of involved factions and their goals. This will help inform creating un
 | **[[Azark]]: The Hellstorm Clan**          | Take the Fragment of Ivys' demon soul (Kairothrax) and raise it as a Demon. *POSSIBLE ALLY*                                                                    | Ritual magic, requires time, specific components, and likely a significant location (a corrupted temple, a convergence point, an anniversary / alignment tied to [[Kairos]]). Could ally with the party if they are willing to let Kairothrax be raised as a demon    | Slow but relentless, a hard deadline / doomsday clock; escalates in visible stages (omens, corruption, demonic incursions) the party can track even from a distance                           |
 | **[[Graveglass]]: The Traitor**            | Reshape Ivys' soul with Kairos' memories to create a new Kairos that [[Graveglass]] himself controls, to rule the world as a better version of the Timekeeper. | Subtle, patient manipulation, using his access to Ivys' network and [[Kairos]]' memories to create dangerous situations. Not revealed as a traitor immediately. Hiding the soul on [[Temporial's Elegy]] while working on reshaping it                                | Slowest / quietest, no violence needed, just isolation and time; the party may not even realize this is happening until they piece it together, making it the most dangerous long term threat |
 
-
 ### Situations
 
 - **Attack on the Purple Tower**
