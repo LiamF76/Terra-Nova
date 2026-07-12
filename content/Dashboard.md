@@ -30,7 +30,7 @@ Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terr
 
 ---
 
-
+Remember who we are, remember what we came here to do. This is not just writing, it's a world. Make this world ours, make it beautiful, make it terrible. Just make it. Make it.
 
 ---
 
