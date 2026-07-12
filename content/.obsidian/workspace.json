@@ -44,9 +44,23 @@
               "icon": "lucide-trello",
               "title": "The Valley of Broken Oaths"
             }
+          },
+          {
+            "id": "28869e46a50f8582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TSOV Encounter 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,16 +200,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "53cedbc837d8c01c",
+  "active": "28869e46a50f8582",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 2.md",
+    "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
+    "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "conflict-files-obsidian-git.md",
     "Terra-Nova/dungeons/The Spire of Virtue.md",
     "z Images/Morwyn-1783798737240.webp",
     "z Images/Kehtoh-1783792749347.webp",
     "z Images/Akicita-1783801676313.webp",
-    "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
-    "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue",
     "Terra-Nova/dungeons/Raids",
     "Terra-Nova/Items/Magic Items/Wyrnsoul.md",
@@ -225,7 +240,6 @@
     "Terra-Nova/Working Folder/WIP/Temporial's Elegy.md",
     "z Images/Temporial's Elegy-1783461128890.webp",
     "Terra-Nova/World Codex/Lore Books/The Carved End/The Third Lesson.md",
-    "Terra-Nova/World Codex/Lore Books/The Carved End/A Way Forward.md",
     "Terra-Nova/Resources/Gameplay Resources/Untitled",
     "z Images/TWOTTS Brainstorm-1783362167074.webp",
     "Terra-Nova/World Codex/In World Stories & Books/world reveals",

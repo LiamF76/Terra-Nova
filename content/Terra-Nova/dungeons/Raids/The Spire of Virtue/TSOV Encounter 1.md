@@ -6,6 +6,14 @@ aliases:
 
 **Enemies**: 6x Storm Sprite, 1x Storm Golem, 1x Storm Mage, 1x Storm Herald (Boss)
 
+## HP Table
+
+
+|     |     |
+| --- | --- |
+|     |     |
+
+
 ## Statblocks
 
 ```statblock

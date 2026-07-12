@@ -10,7 +10,7 @@ Brainstorm
 - 
 
 Raid Mechanics:
-- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **1d6 lightning damage**. 
+- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Charge can be transferrer to a willing ally they can touch.
 	- Iron Pillars absorb charge, Lightning Pillars grant it
 	- The Gate needs discharged to be opened
 	- The Legion needs to be discharged to be defeated
@@ -26,7 +26,7 @@ DM NOTE:
 - **The Storm Gate**:
 	- Entrance encounter, lightning charged gateway to Fortress
 	- *Storm Herald*: Floats above the battlefield, cannot be damaged. On each of the Herald's turns it charges a player (if nobody is already charged), they become visibly charged, crackling with energy and lightning. 
-	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Can be transferred to any willing ally they touch.
+	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Charge can be transferrer to a willing ally they can touch.
 	- *Iron Pillars*: There are 3 Iron pillars on the battlefield, if a player stands within 10ft of the pillar, it absorbs the charged detonation. This deals 4d10 damage to the herald. When all 3 pillars are destroyed the Herald dies and the Storm Gate opens. The Master pylon is larger and controls the gate, and cannot be destroyed until the other 2 are.
 	- *Storm Spirits*: Battlefield is littered with storm spirits, little orbs that shoot lightning bolts and bigger tanky ones that do melee.
 
@@ -48,15 +48,17 @@ The storm beckons you to fight! Roll initiative!
 DM NOTE: Describe the encounter / overview of the room
 - **The Conduit Legion**:
 	- Big battle encounter, lots of enemies, make them feel powerful but drain resources
-	- Party has to summon the storm cloud holding the stairs to ascent the to the artifact.
-	- *Storm Lance*: Lightning ballista, works as a normal ballista when not charged, when person shooting is charged it deals extra 4d6 damage
-	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. 
+	- Party has to summon the storm cloud holding the stairs to ascend the to the artifact.
+	- *Storm Lance*: Lightning ballista, works as a normal ballista when not charged, when person shooting is charged it deals extra 4d6 damage (not lightning, just uses charge to fire bolts with extra power)
+	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Charge can be transferrer to a willing ally they can touch.
 	- *Iron Pillars*: There are 3 Iron Pillars, each one needs to be charged by a player with the Charged condition.
 	- *Lightning Pillar*: There is 1 Lightning Pillar, it can grant the Charged condition to a player. The Lightning Pillar's charge refreshes on initiative count 20
 
 *Set the Scene*: TBD
 
 TBD
+
+**Enemies**: TSOV Encounter 2
 
 ---
 
