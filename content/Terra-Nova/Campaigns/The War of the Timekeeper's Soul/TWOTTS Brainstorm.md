@@ -86,10 +86,13 @@ Overview of involved factions and their goals. This will help inform creating un
 	- Tells Jerran that something watches him, a light in the edge of his shadow, something not quite dead and not quite alive is following him, trying to reach him. (This is the [[Echo of the Guardian]])
 - **Pop Up Base**
 	- 
+- 
 
 --- 
 
 ## Rough Outline
+
+[[TWOTTS Pointcrawl]]
 
 #### ACT 1:
 - Focus on reaching the Chronovault

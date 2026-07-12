@@ -7,7 +7,7 @@ tags:
   - Terra-Nova
 ---
 
-| Dragon Form                            | Human Form (Hypatia Laethire)          |
+| Dragon Form                            | Human Form (Hypatia Laethire Disguise) |
 | -------------------------------------- | -------------------------------------- |
 | ![[Vesponous-1783266787720.webp\|300]] | ![[Vesponous-1776300841675.webp\|300]] |
 
@@ -22,4 +22,3 @@ Description: Green Dragon (Amphithere), she has no arms or legs, only a long sna
 Important Info: 
 - Disciple of [[Iridescen]] (see [[The Khal Hierarchy]])
 - Teacher / Master of [[Aldros]], educates him and uses him as a scout into the deep to learn more about the power of Nothing.
-- 
