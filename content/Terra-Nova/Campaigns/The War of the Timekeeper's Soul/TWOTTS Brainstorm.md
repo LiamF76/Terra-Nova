@@ -102,9 +102,11 @@ Overview of involved factions and their goals. This will help inform creating un
 #### Pointcrawl 1:
 They are searching for where Ivys' soul might have gone, most likely place to check in Sunset, his home town. In order to get there they need help avoiding the most dangerous areas of the Triumvirate, so they meet with Morwyn, who helps them, and offers them her sword if they can retrieve it from whoever stole it. The group that stole it headed north to a town called [[Sertis]], so she tells them to go through the bog to get there. She warns them about the main roads: In Vesponous territory any outsider not marked for passage is subject to attack by her followers.
 - **Bog Path**: 
-	- Swamp Shrine
-	- Monster attack, snake or something
-	- 
+	- Room 1: Combat, entrance guardian giant snake or swamp monster. Show this is a hostile land
+	- Room 2: 
+	- Room 3: 
+	- Room 4: Boss, big bad monster to stop them from entering the village
+	- Room 5: boss has been an issue for the town, local gives party a reward for killing it, and tells them where the thieves can be found
 - **Hills**: 
 	- 
 
