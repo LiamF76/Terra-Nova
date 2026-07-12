@@ -82,6 +82,9 @@ As you touch the thin iron rod, it ignites into a full pillar of lightning! Stor
 #### **The Storming Stairs**
 
 DM NOTE: Describe the encounter / overview of the room
+- the stairs ahead lead over a massive cliff
+- the stairs are broken and shattered, some pieces float amongst the storm clouds, it is impassable by walking and climbing
+- 
 
 *Set the Scene*: TBD
 
@@ -100,16 +103,17 @@ DM NOTE:
 	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. 
 	- *Lightning Pillars*: There are lightning pillars that can be interacted with as a free action, they grant the Charged condition. They regain their charge on initiative count 20
 	- *Iron Pillars*: There are Iron pillars that can be interacted with as a free action to remove the charged condition.
-	- *Iridescent Tablet*: Inside of a Lightning Pillar in the middle of the battlefield floats a small stone tablet. It appears to be absorbing lightning and channeling it into the artifact at the back of the room, it's light is pale and powerful. Touching the tablet grants both the Charged condition and 'Iridescent Light.'
+	- *Iridescent Tablet*: Inside of a Lightning Pillar in the middle of the battlefield floats a small stone tablet. It appears to be absorbing lightning and channeling it into the artifact at the back of the room, it's light is pale and powerful. Touching the tablet grants 'Iridescent Light.'
 	- *Iridescent Light*: The creature glows with pale monochromatic waves of light. The creature gains truesight for 30ft, +2 to attack rolls, and +2 to saving throws. At the end of their turn make a DC 14 Wisdom saving throw: 
 		- Success: "*Your edge is sharp.*" You retain the Iridescent Light and it's buffs.
 		- Failure: "*You are no blade.*" You lose the Iridescent Light. Those who fail cannot gain the condition again for 24 hours.
 
-*Set the Scene*: TBD
+*Set the Scene*: The hall of the artifact stretches before you, pillars of lightning and iron dot the battlefield, and the storm above you rages as if it hates you. A knight clad in steel armor and a horned helmet stands beside the artifact, a broken blade, the protector of the valley. It is cracked and desperate to be saved. Kendoltric does not speak, but his elemental servants stand ready, he awaits your challenge.
+In the center of the room a pillar of lightning stands, different than the rest. Within it lies a stone tablet, something strange, something inviting. It is powerful, and its beam crackles and pierces the artifact, slowly destroying its power.
 
 TBD
 
-**Enemies**: 
+**Enemies**: [[TSOV Encounter 3]] 
 
 ---
 
@@ -121,4 +125,7 @@ DM NOTE:
 
 *Set the Scene*: TBD
 
-TBD
+Loot: 
+- Iridescent Tablet: [[2. The Tablet of Ruin]]
+- +1 Spear (Kendoltric's)
+- 
