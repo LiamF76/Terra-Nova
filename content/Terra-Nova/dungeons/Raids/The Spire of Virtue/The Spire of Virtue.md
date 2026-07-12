@@ -111,10 +111,6 @@ TBD
 
 **Enemies**: 
 
-```statblock
-creature: 
-```
-
 ---
 
 ## Room 5: Reward, Revelation, Plot Twist

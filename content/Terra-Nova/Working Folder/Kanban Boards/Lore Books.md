@@ -43,6 +43,7 @@ kanban-plugin: list
 
 - [ ] [[To Read You Must be Blind]]
 - [ ] [[O Seeker Mine]]
+- [ ] [[Hunger of the Ether]]
 
 
 ***
