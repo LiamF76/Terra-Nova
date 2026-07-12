@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "f8af069f58e87033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TWOTTS Brainstorm"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +153,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f8af069f58e87033",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Dashboard.md",
     "Terra-Nova/Characters/Spirits/Akicita.md",
     "z Images/Akicita-1783801676313.webp",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
     "Terra-Nova/Characters/Spirits/Morwyn.md",
