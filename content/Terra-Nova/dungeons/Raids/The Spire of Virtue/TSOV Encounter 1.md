@@ -4,28 +4,20 @@ title:
 aliases:
 ---
 
-**Enemies**: 6x Storm Sprite, 1x Storm Golem, 1x Storm Mage, 1x Storm Herald (Boss)
+**Enemies**: 6x [[Jolt]], 1x [[Surge Golem]], 1x [[Current Wizard]], 1x Storm Herald (Boss)
 
 ## HP Table
 
+| Surge Golem | Current Wizard |
+| ----------- | -------------- |
+|             |                |
+|             |                |
+|             |                |
+|             |                |
+|             | ---            |
+|             | ---            |
 
-|     |     |
-| --- | --- |
-|     |     |
-
-
-## Statblocks
-
-```statblock
-creature: Storm Sprite
-```
-
-```statblock
-creature: Storm Golem
-```
-
-```statblock
-creature: Storm Mage
-```
-
+| Jolt A | Jolt B | Jolt C | Jolt D | Jolt E | Jolt F | Jolt G | Jolt H |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|        |        |        |        |        |        |        |        |
 

@@ -41,6 +41,23 @@ The storm beckons you to fight! Roll initiative!
 
 ---
 
+## Room: Lore / RP
+
+#### **The Storm Legion's Banner**
+
+DM NOTE: Describe the encounter / overview of the room
+- In the entrance hall there are banners of the Storm Legion. Shows their conquests and battles
+- One banner shows a Dragon Priest of Gravebinder leading the Storm Legion into Sovrentia, Jerran would recognize it as his village.
+- The Dragon Priest is named: [[Kaalalriik]], a Lich who wears a powerful magic mask
+
+*Set the Scene*: The long ruined hall before you is littered with collapsed walls, stairs that once led between rooms, and more iron pillars. The room is lit by the striking lightning and storm above, but the darkness here is beyond sight, it stretches into your soul. The banners of the storm legion line the halls on tall golden stands. They depict battles and victories of [[Garthrax]]'s warriors.
+
+One such banner, shows a specific champion of the Triumvirate, a Lich of [[Gravebinder]]'s undead horde. The Dragon Priest [[Kaalalriik]], a powerful mage who nearly destoryed many villages in Garthrax's assault on Sovrentia, through the province of Lightbear and beyond. The banners also show a stalemate between a knight, covered in a cloak of green, who was able to fight off [[Kaalalriik]]'s attacks. (*This is Gavin / Echo of the Guardian*)
+
+The door at the back wall is sealed shut with a similar crackling lightning as the front gate. Near the entrance you came through a small iron pole crackles with static, as if waiting to be touched. (*Touching the iron pole initiates Room 2, the second encounter*)
+
+---
+
 ## Room 2: Trick or Setback 
 
 #### **The Conduit Legion**
@@ -54,11 +71,9 @@ DM NOTE: Describe the encounter / overview of the room
 	- *Iron Pillars*: There are 3 Iron Pillars, each one needs to be charged by a player with the Charged condition.
 	- *Lightning Pillar*: There is 1 Lightning Pillar, it can grant the Charged condition to a player. The Lightning Pillar's charge refreshes on initiative count 20
 
-*Set the Scene*: TBD
+As you touch the thin iron rod, it ignites into a full pillar of lightning! Storm legion elementals begin to swarm from the edges of the room to defend the fortress, roll initiative!
 
-TBD
-
-**Enemies**: TSOV Encounter 2
+**Enemies**: [[TSOV Encounter 2]]
 
 ---
 
