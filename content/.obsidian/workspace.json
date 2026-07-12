@@ -24,43 +24,21 @@
             }
           },
           {
-            "id": "383adcbe0ef6b8ce",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
-            }
-          },
-          {
-            "id": "09807a80b1a97919",
+            "id": "a02e77a93ac5ebeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
+                "file": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Spire of Virtue"
+              "title": "TWOTTS Brainstorm"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +178,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "09807a80b1a97919",
+  "active": "a02e77a93ac5ebeb",
   "lastOpenFiles": [
-    "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 3.md",
+    "Terra-Nova/Characters/Spirits/Kehtoh.md",
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
+    "Terra-Nova/Characters/Spirits/Akicita.md",
+    "Dashboard.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 3.md",
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/2. The Tablet of Ruin.md",
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/1. The Tablet of Position.md",
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/3. Tablet of the Narrow Gate.md",
@@ -212,12 +195,9 @@
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/6. The Tablet of Towers.md",
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/7. The Tablet of Eternity.md",
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/9. The Tablet of Procedure.md",
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
     "Terra-Nova/World Codex/Lore Books/Drowning Worm/Hunger of the Ether.md",
     "Terra-Nova/World Codex/Lore Books/Drowning Worm/O Seeker Mine.md",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Statblocks/Current Wizard.md",
     "Terra-Nova/Characters/People/Kendoltric.md",
     "z Images/Kendoltric-1783872856320.webp",
@@ -228,9 +208,7 @@
     "Terra-Nova/Characters/Undead/Neyzuul.md",
     "Terra-Nova/Characters/Undead/Kaalalriik.md",
     "Terra-Nova/Characters/Undead/Sulbaan.md",
-    "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
     "z Images/Current Wizard-1783869726435.webp",
-    "Terra-Nova/Resources/Homebrew Statblocks/Statblocks/Surge Golem.md",
     "z Images/Surge Golem-1783869443678.webp",
     "Terra-Nova/Creatures",
     "Terra-Nova/Resources/Homebrew Statblocks/Statblocks",
