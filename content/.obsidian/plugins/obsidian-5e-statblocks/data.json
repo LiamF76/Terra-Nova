@@ -189,6 +189,162 @@
         "regional_actions": null,
         "regional_description_end": null
       }
+    ],
+    [
+      "Storm Sprite",
+      {
+        "image": null,
+        "name": "Storm Sprite",
+        "source": "TetraCube",
+        "type": "elemental",
+        "subtype": "",
+        "size": "small",
+        "alignment": "any alignment",
+        "hp": "5",
+        "ac": "10",
+        "speed": " ft., fly 30 ft. (hover)",
+        "stats": [
+          "10",
+          "14",
+          "10",
+          "10",
+          "10",
+          "10"
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "passive Perception 10",
+        "languages": "&mdash;",
+        "cr": "1/2",
+        "actions": [
+          {
+            "name": "Bolt",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 40/80 ft., one target. Hit: 4 (1d4 + 2) lightning damage."
+          }
+        ],
+        "legendary_description": null,
+        "legendary_actions": null,
+        "mythic_description": null,
+        "mythic_actions": null,
+        "lair_description": null,
+        "lair_actions": null,
+        "lair_description_end": null,
+        "regional_description": null,
+        "regional_actions": null,
+        "regional_description_end": null
+      }
+    ],
+    [
+      "Storm Golem",
+      {
+        "image": null,
+        "name": "Storm Golem",
+        "source": "TetraCube",
+        "type": "elemental",
+        "subtype": "",
+        "size": "large",
+        "alignment": "any alignment",
+        "hp": "50",
+        "ac": "15",
+        "speed": "30 ft.",
+        "stats": [
+          "16",
+          "14",
+          "10",
+          "10",
+          "10",
+          "10"
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 5
+          }
+        ],
+        "skillsaves": [],
+        "senses": "passive Perception 10",
+        "languages": "&mdash;",
+        "cr": "2",
+        "actions": [
+          {
+            "name": "Bolt",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 40/80 ft., one target. Hit: 4 (1d4 + 2) lightning damage."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage."
+          }
+        ],
+        "legendary_description": null,
+        "legendary_actions": null,
+        "mythic_description": null,
+        "mythic_actions": null,
+        "lair_description": null,
+        "lair_actions": null,
+        "lair_description_end": null,
+        "regional_description": null,
+        "regional_actions": null,
+        "regional_description_end": null
+      }
+    ],
+    [
+      "Storm Mage",
+      {
+        "image": null,
+        "name": "Storm Mage",
+        "source": "TetraCube",
+        "type": "elemental",
+        "subtype": "",
+        "size": "medium",
+        "alignment": "any alignment",
+        "hp": "30",
+        "ac": "13",
+        "speed": " ft., fly 35 ft. (hover)",
+        "stats": [
+          "8",
+          "14",
+          "10",
+          "10",
+          "16",
+          "10"
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "wisdom": 5
+          }
+        ],
+        "skillsaves": [],
+        "senses": "passive Perception 13",
+        "languages": "&mdash;",
+        "cr": "2",
+        "actions": [
+          {
+            "name": "Spark",
+            "desc": "Ranged Spell Attack: +5 to hit, range 60/120 ft., one target. Hit: 9 (1d12 + 3) lightning damage."
+          }
+        ],
+        "legendary_description": null,
+        "legendary_actions": null,
+        "mythic_description": null,
+        "mythic_actions": null,
+        "lair_description": null,
+        "lair_actions": null,
+        "lair_description_end": null,
+        "regional_description": null,
+        "regional_actions": null,
+        "regional_description_end": null
+      }
     ]
   ],
   "defaultLayouts": {},

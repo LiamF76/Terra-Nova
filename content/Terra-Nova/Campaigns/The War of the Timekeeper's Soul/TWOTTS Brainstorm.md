@@ -78,6 +78,12 @@ Overview of involved factions and their goals. This will help inform creating un
 	- Aldros has stolen [[Thalia]]'s magic through a curse on Alabaster's bloodline. In order to reclaim her magic she must destroy the Aspects of Aldros. Each Aspect returns a fragment of her magic. This could be buffs such as a stat increase, homebrew spells, or other benefits.
 - **[[Echo of the Guardian]]**
 	- Aldros has reshaped Gavin ([[Jerran]]'s mentor), with his nothing. This has turned Gavin into an undying husk of a warrior who serves the will of Aldros. Echoes of Gavin's true self are scattered across the Triumvirate and the world for Jerran to find. They are pieces of Gavin's spirit that survived Aldros, but have lost most of their memories. They are lore dumps and plot devices to give information and direction to the players. Also this will help motivate [[Jerran]] as a player character.
+- **Spirit Horde**
+	- [[Sobek]] is the child of Garthrax the Blue Dragon Queen, and an unknown spirit ([[Kehtoh]]). [[Sobek]] has an underlying connection to spirits through his father, and spirits can recognize this, often trusting him more than others, or being able to intuit his intentions and kindness. As Sobek meets and helps spirits, they will grant him boons such as buffs, magical items, magic abilities, and knowledge of his own origins.
+- **Lady of the Lake**
+	- The party is sent by Ryfon to find a spirit called Morwyn. Morwyn lives in a lake, and helps guide the party in exchange for defeating a goblin warlord who is terrorizing the local spirits. She gives them the path forwards to the ruins of Sunset, how to find the Warlord, and some information on the Triumvirate servant who stole her legendary blade. It was a Dragon Priest who serves Gravebinder.
+	- Alongside Morwyn the party meets [[Akicita]], a dangerous spirit that does not trust mortals. It does NOT take a liking to them, and makes comments demanding their secrets, has to be reprimanded by [[Morwyn]], who says [[Akicita]] is angry, but not dangerous to them. "Are you afraid? Ah, perhaps you are smarter than you look."
+	- Tells Jerran that something watches him, a light in the edge of his shadow, something not quite dead and not quite alive is following him, trying to reach him. (This is the [[Echo of the Guardian]])
 - 
 
 --- 
@@ -85,8 +91,9 @@ Overview of involved factions and their goals. This will help inform creating un
 ## Rough Outline
 
 - Ivys dies, soul goes missing
-- hunt for clues in Ivys' legacy while fighting Aldros
-- Enter Chronovault, explore, find out about Augur
+- hunt for clues in Ivys' legacy while fighting Aldros minions / aspects
+- side questing North, Lady of the Lake, Lord of Eyes
+- enter Chronovault, explore, find out about Augur
 - 
 
 ---
@@ -98,9 +105,10 @@ Overview of involved factions and their goals. This will help inform creating un
 	- Soul ritual to split Ivys from the demon, destroy the demon, free Ivys
 	- Ritual goes wrong when Graveglass and Kairothrax's soul fragment (the new identity of the demon in Ivys) intervene, imprisoning Ivys' soul somewhere (the Song Tower of Nysria, secret!) and set Kairothrax's soul fragment free. Aldros appears and does battle with Melantha / Ryfon / Giesor
 	- Party is banished into the lower reaches of the Purple Tower with Aldred's aspect and some monsters, have to fight their way out
+	- Aldros uses his powers to attempt to banish the Purple Tower from the world, which causes the Island to sink. Ryfon creates a vortex of water and massive roots to keep the island up, but he has to remain there to maintain it. Ryfon is trapped in the Purple Tower until enough of Aldros' power is removed to stop the island from sinking. Aldros flees with magic.
 	- Interact with NPCs
-		- Melantha thinks there is a connection between Aldros and Thalia's magic troubles, encourages her to investigate. 'If he has stolen your magic, take it back.'
-		- Ryfon 
+		- Melantha thinks there is a connection between Aldros and Thalia's magic troubles, encourages her to investigate. 'If he has stolen your magic, take it back.' Has to leave to deal with Aldred's disappearance, and maintain balance in heaven.
+		- Ryfon suggests if they want to stop Aldros, and figure out what is going on, follow Ivys' trail, as Aldros is hunting his soul, so look for Ivys. Go back to the boarder to dodge the Leviathan in the water, and travel by land north to Ivys' home village. He recommends they meet with Morwyn, a spirit who can guide them.
 	- Party has to plan and decipher the mystery.
 		- Where Ivys' code leads them? (Sunset Village / Chronovault Lupus)
 		- Where did Ivys' soul go? (Song Tower / Nysria)

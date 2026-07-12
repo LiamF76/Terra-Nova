@@ -25,20 +25,19 @@ Raid Mechanics:
 DM NOTE: 
 - **The Storm Gate**:
 	- Entrance encounter, lightning charged gateway to Fortress
-	- *Storm Herald*: Floats above the battlefield, cannot be damaged. On each of the Herald's turns it charges a player (if nobody is already charged), they become visibly charged, crackling with energy and lightning. At the start of it's next turn the marked player detonates dealing 3d6 lightning damage to everyone within 10ft. Marked players can reach out and transfer it to any ally they can touch
-	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. 
+	- *Storm Herald*: Floats above the battlefield, cannot be damaged. On each of the Herald's turns it charges a player (if nobody is already charged), they become visibly charged, crackling with energy and lightning. 
+	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Can be transferred to any willing ally they touch.
 	- *Iron Pillars*: There are 3 Iron pillars on the battlefield, if a player stands within 10ft of the pillar, it absorbs the charged detonation. This deals 4d10 damage to the herald. When all 3 pillars are destroyed the Herald dies and the Storm Gate opens. The Master pylon is larger and controls the gate, and cannot be destroyed until the other 2 are.
 	- *Storm Spirits*: Battlefield is littered with storm spirits, little orbs that shoot lightning bolts and bigger tanky ones that do melee.
 
 *Set the Scene*: 
 Ahead lies the great storm given to Kendoltric by Garthrax. A heavy storm cloud looms over the fortress, as a pair of spectral blue eyes made of pure lightning comb across the battlefield ahead. The storm itself guards the gateway into the Relic's home, the doors coated in deadly lightning. Pillars of pure Iron draw great bolts of lightning from the sky, and massive booms of thunder threaten to take your hearing for a brief moment. 
 
-- describe the storm clouds / storm spirit (make it known they cannot attack the storm itself)
-- describe the gateway and how the lightning prevents them from advancing
+As you approach, the storm's blue eyes focus on you, and strikes of lightning manifest around the gate, a warrior of pure lightning, a mage of manifest thunder, and small bolts of lightning that become winged sprites, jittering and shaking with charge.
 
-TBD
+The storm beckons you to fight! Roll initiative!
 
-**Enemies**: 
+**Enemies**: [[TSOV Encounter 1]]
 
 ---
 
