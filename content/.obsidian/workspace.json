@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "TWOTTS Brainstorm"
             }
-          },
-          {
-            "id": "5fa4e6ad114aaeb3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Pointcrawl.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "TWOTTS Pointcrawl"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +178,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5fa4e6ad114aaeb3",
+  "active": "9d2eac41ccbbcf96",
   "lastOpenFiles": [
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Pointcrawl.md",
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",

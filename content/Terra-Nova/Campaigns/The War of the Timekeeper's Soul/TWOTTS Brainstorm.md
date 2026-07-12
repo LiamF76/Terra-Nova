@@ -94,20 +94,24 @@ Overview of involved factions and their goals. This will help inform creating un
 
 [[TWOTTS Pointcrawl]]
 
-#### ACT 1:
+### ACT 1:
 - Focus on reaching the Chronovault
 - mostly Aldros / Triumvirate enemies
 - minor demon interactions
 - tease Aldros is looking for something called an Augur
+#### MORE DETAIL:
+They are searching for where Ivys' soul might have gone, most likely place to check in Sunset, his home town. In order to get there they need help avoiding the most dangerous areas of the Triumvirate, so they meet with Morwyn, who helps them, and offers them her sword if they can retrieve it from whoever stole it. The group that stole it headed north to a town called Sertis, so she tells them to go through the bog to get there. She warns them about the main roads: In Vesponous territory any outsider not marked for passage is subject to attack by her followers.
+- **Bog Path**: 
+- **Hills**: 
 
-#### ACT 2:
+### ACT 2:
 - Focus on stopping the demons / Kairothrax
 - BBEG of this act is [[Azark]]
 - working through Chronovault while stopping demons
 - climax battle with Azark
 - discover way through Chronovault to Temporal plane (also learn about the Augur Aldros has been searching for)
 
-#### ACT 3:
+### ACT 3:
 - 
 
 ---
