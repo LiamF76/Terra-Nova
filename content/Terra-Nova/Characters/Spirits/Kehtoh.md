@@ -17,5 +17,5 @@ Voice: Voice Description
 Description: 20,000 year old Leviathan, Kehtoh is a massive sea beast with a snake-like tail, four massive finned arms, tentacles protruding from its sides and back, and a head covered in eyes. Its body is layered with unbreakable scales, and its insides glow with malevolent orange light.
 
 Important Info: 
-- Father of [[Sobek]], Child of Konduell
+- Child of Konduell
 - 

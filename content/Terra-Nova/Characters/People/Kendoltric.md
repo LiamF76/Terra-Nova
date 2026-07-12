@@ -6,7 +6,7 @@ tags:
   - Terra-Nova
 ---
 
-![[image.png|300]]
+![[Kendoltric-1783872856320.webp|500x313]]
 
 Name: **Kendoltric**, Storm Knight of Garthrax
 
@@ -17,3 +17,5 @@ Description: Appearance & vibe description
 
 Important Info: 
 - Connections, Abilities, Secrets
+
+![[Kendoltric-1783872758930.webp|500x750]]

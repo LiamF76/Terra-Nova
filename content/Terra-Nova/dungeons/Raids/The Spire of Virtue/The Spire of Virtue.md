@@ -10,7 +10,7 @@ Brainstorm
 - 
 
 Raid Mechanics:
-- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **1d6 lightning damage**. 
+- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Charge can be transferrer to a willing ally they can touch.
 	- Iron Pillars absorb charge, Lightning Pillars grant it
 	- The Gate needs discharged to be opened
 	- The Legion needs to be discharged to be defeated
@@ -26,7 +26,7 @@ DM NOTE:
 - **The Storm Gate**:
 	- Entrance encounter, lightning charged gateway to Fortress
 	- *Storm Herald*: Floats above the battlefield, cannot be damaged. On each of the Herald's turns it charges a player (if nobody is already charged), they become visibly charged, crackling with energy and lightning. 
-	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Can be transferred to any willing ally they touch.
+	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Charge can be transferrer to a willing ally they can touch.
 	- *Iron Pillars*: There are 3 Iron pillars on the battlefield, if a player stands within 10ft of the pillar, it absorbs the charged detonation. This deals 4d10 damage to the herald. When all 3 pillars are destroyed the Herald dies and the Storm Gate opens. The Master pylon is larger and controls the gate, and cannot be destroyed until the other 2 are.
 	- *Storm Spirits*: Battlefield is littered with storm spirits, little orbs that shoot lightning bolts and bigger tanky ones that do melee.
 
@@ -41,6 +41,23 @@ The storm beckons you to fight! Roll initiative!
 
 ---
 
+## Room: Lore / RP
+
+#### **The Storm Legion's Banner**
+
+DM NOTE: Describe the encounter / overview of the room
+- In the entrance hall there are banners of the Storm Legion. Shows their conquests and battles
+- One banner shows a Dragon Priest of Gravebinder leading the Storm Legion into Sovrentia, Jerran would recognize it as his village.
+- The Dragon Priest is named: [[Kaalalriik]], a Lich who wears a powerful magic mask
+
+*Set the Scene*: The long ruined hall before you is littered with collapsed walls, stairs that once led between rooms, and more iron pillars. The room is lit by the striking lightning and storm above, but the darkness here is beyond sight, it stretches into your soul. The banners of the storm legion line the halls on tall golden stands. They depict battles and victories of [[Garthrax]]'s warriors.
+
+One such banner, shows a specific champion of the Triumvirate, a Lich of [[Gravebinder]]'s undead horde. The Dragon Priest [[Kaalalriik]], a powerful mage who nearly destoryed many villages in Garthrax's assault on Sovrentia, through the province of Lightbear and beyond. The banners also show a stalemate between a knight, covered in a cloak of green, who was able to fight off [[Kaalalriik]]'s attacks. (*This is Gavin / Echo of the Guardian*)
+
+The door at the back wall is sealed shut with a similar crackling lightning as the front gate. Near the entrance you came through a small iron pole crackles with static, as if waiting to be touched. (*Touching the iron pole initiates Room 2, the second encounter*)
+
+---
+
 ## Room 2: Trick or Setback 
 
 #### **The Conduit Legion**
@@ -48,15 +65,15 @@ The storm beckons you to fight! Roll initiative!
 DM NOTE: Describe the encounter / overview of the room
 - **The Conduit Legion**:
 	- Big battle encounter, lots of enemies, make them feel powerful but drain resources
-	- Party has to summon the storm cloud holding the stairs to ascent the to the artifact.
-	- *Storm Lance*: Lightning ballista, works as a normal ballista when not charged, when person shooting is charged it deals extra 4d6 damage
-	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. 
+	- Party has to summon the storm cloud holding the stairs to ascend the to the artifact.
+	- *Storm Lance*: Lightning ballista, works as a normal ballista when not charged, when person shooting is charged it deals extra 4d6 damage (not lightning, just uses charge to fire bolts with extra power)
+	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Charge can be transferrer to a willing ally they can touch.
 	- *Iron Pillars*: There are 3 Iron Pillars, each one needs to be charged by a player with the Charged condition.
 	- *Lightning Pillar*: There is 1 Lightning Pillar, it can grant the Charged condition to a player. The Lightning Pillar's charge refreshes on initiative count 20
 
-*Set the Scene*: TBD
+As you touch the thin iron rod, it ignites into a full pillar of lightning! Storm legion elementals begin to swarm from the edges of the room to defend the fortress, roll initiative!
 
-TBD
+**Enemies**: [[TSOV Encounter 2]]
 
 ---
 
@@ -65,6 +82,9 @@ TBD
 #### **The Storming Stairs**
 
 DM NOTE: Describe the encounter / overview of the room
+- the stairs ahead lead over a massive cliff
+- the stairs are broken and shattered, some pieces float amongst the storm clouds, it is impassable by walking and climbing
+- 
 
 *Set the Scene*: TBD
 
@@ -80,29 +100,20 @@ DM NOTE:
 - **Kendoltric, Storm Knight of Garthrax**: 
 	- lightning wielding paladin of Garthrax
 	- simple raid boss, 2 mechanics max
-	- Immune to lightning damage, can charge himself using lightning pillars?
-	- *Static Charge*: on-hit passive
-	  When Kendoltric hits a creature with a melee attack, that creature becomes **Charged** until the end of its next turn.
 	- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. 
-	- *Galvanic Pulse*: (Recharge 5–6), action
-	  Kendoltric raises his weapon skyward. Lightning crackles visibly around him. An orb of storm clouds and lightning forms above a point of Kendoltric's choosing within 30ft of him. At the start of his **next turn** it detonates.
-	  All creatures within **15 ft.** radius take **2d8 lightning damage** (DC 13 DEX save for half). Any **Charged** creature that fails the save takes an extra 1d6 and is knocked prone. The ground in the 15ft radius becomes difficult terrain as the floor crackles with static. This terrain lasts until the end of Kendoltric's next turn.
 	- *Lightning Pillars*: There are lightning pillars that can be interacted with as a free action, they grant the Charged condition. They regain their charge on initiative count 20
 	- *Iron Pillars*: There are Iron pillars that can be interacted with as a free action to remove the charged condition.
-	- *Iridescent Tablet*: Inside of a Lightning Pillar in the middle of the battlefield floats a small stone tablet. It appears to be absorbing lightning and channeling it into the artifact at the back of the room, it's light is pale and powerful. Touching the tablet grants both the Charged condition and 'Iridescent Light.'
+	- *Iridescent Tablet*: Inside of a Lightning Pillar in the middle of the battlefield floats a small stone tablet. It appears to be absorbing lightning and channeling it into the artifact at the back of the room, it's light is pale and powerful. Touching the tablet grants 'Iridescent Light.'
 	- *Iridescent Light*: The creature glows with pale monochromatic waves of light. The creature gains truesight for 30ft, +2 to attack rolls, and +2 to saving throws. At the end of their turn make a DC 14 Wisdom saving throw: 
 		- Success: "*Your edge is sharp.*" You retain the Iridescent Light and it's buffs.
 		- Failure: "*You are no blade.*" You lose the Iridescent Light. Those who fail cannot gain the condition again for 24 hours.
 
-*Set the Scene*: TBD
+*Set the Scene*: The hall of the artifact stretches before you, pillars of lightning and iron dot the battlefield, and the storm above you rages as if it hates you. A knight clad in steel armor and a horned helmet stands beside the artifact, a broken blade, the protector of the valley. It is cracked and desperate to be saved. Kendoltric does not speak, but his elemental servants stand ready, he awaits your challenge.
+In the center of the room a pillar of lightning stands, different than the rest. Within it lies a stone tablet, something strange, something inviting. It is powerful, and its beam crackles and pierces the artifact, slowly destroying its power.
 
 TBD
 
-**Enemies**: 
-
-```statblock
-creature: 
-```
+**Enemies**: [[TSOV Encounter 3]] 
 
 ---
 
@@ -114,4 +125,7 @@ DM NOTE:
 
 *Set the Scene*: TBD
 
-TBD
+Loot: 
+- Iridescent Tablet: [[2. The Tablet of Ruin]]
+- +1 Spear (Kendoltric's)
+- 

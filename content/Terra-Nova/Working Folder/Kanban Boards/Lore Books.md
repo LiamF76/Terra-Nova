@@ -41,6 +41,7 @@ kanban-plugin: list
 
 ## ## Drowning Worm
 
+- [x] [[Hunger of the Ether]]
 - [ ] [[To Read You Must be Blind]]
 - [ ] [[O Seeker Mine]]
 
