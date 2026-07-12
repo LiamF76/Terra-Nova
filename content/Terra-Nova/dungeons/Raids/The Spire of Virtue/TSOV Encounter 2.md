@@ -6,14 +6,19 @@ tags:
   - Terra-Nova
 ---
 
-**Enemies**: 
+**Enemies**: 8x [[Jolt]], 2x [[Current Wizard]], 1x [[Surge Golem]]
 
 ## HP Table
 
+| Surge Golem | Current Wizard A | Current Wizard B |
+| ----------- | ---------------- | ---------------- |
+|             |                  |                  |
+|             |                  |                  |
+|             |                  |                  |
+|             |                  |                  |
+|             |                  |                  |
+|             |                  |                  |
 
-|     |     |
-| --- | --- |
-|     |     |
-
-
-## Statblocks
+| Jolt A | Jolt B | Jolt C | Jolt D | Jolt E | Jolt F | Jolt G | Jolt H |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|        |        |        |        |        |        |        |        |
