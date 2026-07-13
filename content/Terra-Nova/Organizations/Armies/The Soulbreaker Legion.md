@@ -15,10 +15,6 @@ The Soulbreaker Legion is an army of the Triumvirate Scales, specifically servin
 
 - [[Aldros]]
 
-#### Mages
-
-- 
-
-#### Warriors
+#### Loyal Lieutenants
 
 - 
