@@ -75,11 +75,12 @@ Overview of involved factions and their goals. This will help inform creating un
 [[TWOTTS Pointcrawl]]
 
 ### ACT 1:
-- Focus on reaching the Chronovault
-- mostly Aldros / Triumvirate enemies
-- minor demon interactions
-- tease Aldros is looking for something called an Augur
-
+- **SITUATIONS, FACTIONS, GOALS:**
+	- [[Aldros]] searching for a way into the Temporal Plane
+		- 
+	- Azark gathering materials for ritual to bring Kairothrax back to life
+	- 
+- 
 ### ACT 2:
 - Focus on stopping the demons / Kairothrax
 - BBEG of this act is [[Azark]]
