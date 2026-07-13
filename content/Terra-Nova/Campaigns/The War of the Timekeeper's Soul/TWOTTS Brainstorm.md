@@ -12,32 +12,6 @@ Ivys Arthur, legendary White Wizard, demon, and son of Kairos, has finally passe
 
 ---
 
-## Ideas
-
-- Chasing after Ivys' soul, does Aldros or Giesor have it? 
-- Ivys Arthur has died, this has a rippling effect on the world in many ways, but most importantly over control of his soul.
-- Aldros and his followers are hunting for the soul to create an Ark, a weapon of Nothing that Aldros can use to destroy and enforce the logic of Nothing.
-- The Demons of the Abyss are hunting for the soul because they believe the reborn lesser Demon Ivys will lead them in their war against the Gods and Material plane.
-- Ivys removed one of his horns, attempting to create a replicant using his new biological material. This created [[Rhetoric]], a fragment of Kairos that dispenses knowledge when it chooses to. It knows a great many things, but its mind is fragmented, making knowledge often random or niche, but never intentionally wrong. It will dispense this information on anything or at any time it feels inclined to, and is very difficult to work with, as it is quite upset it never ended the universe.
-- Aldred abandons Godhood, and a catastrophic storm erupts. Black rain falls from the sky for 30 days, and the sun's light barely pierces the clouds. 
-- Go back to the temporal plane to destroy the Orichalcum Augur (a forge where Aldros wants to create his Ark)
-	- It's a massive cube that flies around the Temporal Plane, this should be a larger dungeon or even a raid. The forge is inside the cube and there are bosses / Aldros followers inside. They can choose to destroy it or take a part that makes it unusable for Aldros, but leave it open for later.
-- Ivys leaves behind a warning (WARNING TO GIVE PLAYERS FOUND HERE: [[If You're Reading this it's too Early]]), but it is encrypted. The key to the encryption is temporal in nature, and hidden within a Chronovault, the party has to go to the Chronovault and retrieve the encryption key. This key could also be used for something later. Chronovault Lupus.
-	- Lupus is protected by a powerful entity created by Ivys as a guardian known as Oxidian, The Last Hour. Could be a raid or a dungeon. Give players [[Watcher of Wolves]] as lore reward for defeating the dungeon.
-	- [[Chronovault Lupus Puzzle Key]] 
-	- Multiple delves into Chronovault Lupus? Similar to the Leviathan / Menagerie from Destiny
-- Go to an abyssal altar where the Hellstorm Clan is worshipping Ivys, trying to draw his essence and alter his personality through demonic worship
-- Rhetoric Stuff: Rhetoric IS Kairos in some sense, and though he does not have all of Kairos' memories, he was Ivys' father. He has moments where he reacts to things Ivys did, and thinks back both fondly and with disdain for his son's actions. These are good RP / lore moments.
-- Echoes of Kairos: Ivys and the replicants left echoes across time and space, which will be found and interacted with. This is a good way to dispense lore and interaction with our old friend.
-- Return to some important Ivys locations.
-	- Purple Tower, Temporal Plane, Sunset Village in the Triumvirate, ???
-- Focus somewhat on the Triumvirate, Aldros is the Wyrm-Chosen after all. Aldros flees back into the Triumvirate and has to be hunted down. Grows his power with Vesponous?
-- Temporial's Elegy, space station Ivys built in orbit around Nysria. Massive raid involving Graveglass and other time enemies.
-- Fate / Time curse, player gets a blank d6 and can roll it, choosing what each side of the dice says. Then when they fill in the dice, the curse manifests, and can use it against the player.
-- 
-
---- 
-
 ## Situations not Plots
 
 Writing situations not plots means creating an environment and campaign based around a situation, not planned steps and story beats. Create multiple factions who will act on their own regardless of the players
@@ -66,6 +40,10 @@ Overview of involved factions and their goals. This will help inform creating un
 	- An Aspect of Aldros controls a breeding pool for massive earth eating half-dragon worm beasts. They will be used to invade Sovrentia underground, and need to be stopped.
 - **Chronovault Lupus**
 	- The party explores [[Chronovault Lupus]]
+	- Ivys leaves behind a warning (WARNING TO GIVE PLAYERS FOUND HERE: [[If You're Reading this it's too Early]]), but it is encrypted. The key to the encryption is temporal in nature, and hidden within a Chronovault, the party has to go to the Chronovault and retrieve the encryption key. This key could also be used for something later. Chronovault Lupus.
+	- Lupus is protected by a powerful entity created by Ivys as a guardian known as Oxidian, The Last Hour. Could be a raid or a dungeon. Give players [[Watcher of Wolves]] as lore reward for defeating the dungeon.
+	- [[Chronovault Lupus Puzzle Key]] 
+	- Multiple delves into Chronovault Lupus? Similar to the Leviathan / Menagerie from Destiny
 - **Corpse Tithe**
 	- In service to Gravebinder, Aldros' Soulbreaker Legion demands tithe of dead bodies to be delivered to Gravebinder. Some town is being tithed as the party arrives, the Legion is picking those to execute and load up for transport. The leader is a demi-god son of Vesponous (a very weak one), he makes comments on Sobek's connection to Garthrax, welcome home, your mother misses you etc.
 - **Temporial's Elegy**
@@ -86,6 +64,8 @@ Overview of involved factions and their goals. This will help inform creating un
 	- Tells Jerran that something watches him, a light in the edge of his shadow, something not quite dead and not quite alive is following him, trying to reach him. (This is the [[Echo of the Guardian]])
 - **Pop Up Base**
 	- 
+- **Dragon's Cunning**
+	- Party runs into a goblin warband, who offer peaceful terms. They meet on the road, and in the way of Vesponous, must play a game of cunning. Two people sit facing one another with a knife to one another's throat. They must each tell two truth's and a lie, where the lie is about an item they are currently carrying. Whoever guesses the other person's lie gets to keep the other's item.
 - 
 
 --- 
@@ -99,14 +79,6 @@ Overview of involved factions and their goals. This will help inform creating un
 - mostly Aldros / Triumvirate enemies
 - minor demon interactions
 - tease Aldros is looking for something called an Augur
-#### Pointcrawl 1:
-They are searching for where Ivys' soul might have gone, most likely place to check in Sunset, his home town. In order to get there they need help avoiding the most dangerous areas of the Triumvirate, so they meet with Morwyn, who helps them, and offers them her sword if they can retrieve it from whoever stole it. The group that stole it headed north to a town called [[Sertis]], so she tells them to go through the bog to get there. She warns them about the main roads: In Vesponous territory any outsider not marked for passage is subject to attack by her followers.
-- **Bog Path**: 
-	- Swamp Shrine
-	- Monster attack, snake or something
-	- 
-- **Hills**: 
-	- 
 
 ### ACT 2:
 - Focus on stopping the demons / Kairothrax

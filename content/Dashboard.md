@@ -24,6 +24,9 @@ Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terr
 > [!note] Current Campaigns
 > ## [[The Valley of Broken Oaths]] | [[TWOTTS Brainstorm]] | [[TBSS Brainstorm]]
 
+> [!note] Encounter Ideas
+> ## [[Raid Encounter Ideas]] | [[Exploration Encounter Ideas]] | [[Raid Encounter Ideas]]
+
 > [!note] Pentium Realm
 > ## [[Pentium Kanban]]
 
