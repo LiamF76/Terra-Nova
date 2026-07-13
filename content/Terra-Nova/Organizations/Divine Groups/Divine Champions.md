@@ -53,11 +53,11 @@ TBD
 
 ## The Stellar Forces
 
-| God     | Champion |
-| ------- | -------- |
-| Kronos  |          |
-| Khabris |          |
-| Telura  |          |
+| God     | Champion       |
+| ------- | -------------- |
+| Kronos  |                |
+| Khabris |                |
+| Telura  | [[Astarielle]] |
 
 
 ---
