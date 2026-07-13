@@ -12,15 +12,6 @@ Ivys Arthur, legendary White Wizard, demon, and son of Kairos, has finally passe
 
 ---
 
-## What's happening?
-
-The party is working together for multiple character aligned reasons. 
-- Jerran is a hero who wants to help people, and search for his old mentor.
-- Thalia had her magic stolen by Aldros, and wants to defeat him and search for new ways to gain power.
-- 
-
---- 
-
 ## Situations not Plots
 
 Writing situations not plots means creating an environment and campaign based around a situation, not planned steps and story beats. Create multiple factions who will act on their own regardless of the players
@@ -73,6 +64,8 @@ Overview of involved factions and their goals. This will help inform creating un
 	- Tells Jerran that something watches him, a light in the edge of his shadow, something not quite dead and not quite alive is following him, trying to reach him. (This is the [[Echo of the Guardian]])
 - **Pop Up Base**
 	- 
+- **Dragon's Cunning**
+	- Party runs into a goblin warband, who offer peaceful terms. They meet on the road, and in the way of Vesponous, must play a game of cunning. Two people sit facing one another with a knife to one another's throat. They must each tell two truth's and a lie, where the lie is about an item they are currently carrying. Whoever guesses the other person's lie gets to keep the other's item.
 - 
 
 --- 
