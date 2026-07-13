@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Dashboard.md",
+      "timestamp": 1783922468120
+    },
+    {
       "filepath": "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
       "timestamp": 1783916847835
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Terra-Nova/Characters/Demigods/Astarielle.md",
       "timestamp": 1783916403605
-    },
-    {
-      "filepath": "Dashboard.md",
-      "timestamp": 1783916170280
     }
   ],
   "bookmarkedFileStore": [],
