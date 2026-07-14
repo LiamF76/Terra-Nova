@@ -11,24 +11,20 @@ tags:
 
 # :LiCalendar: `$= dv.date("today").toFormat("EEEE, MMMM d, yyyy")`
 
-Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terra-Nova, Arkfall, and Pentium realm, my homebrew Dungeons & Dragons settings / worldbuilding projects. 
+Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terra-Nova, Arkfall, and Pentium realm, my homebrew Dungeons & Dragons settings / worldbuilding projects.
+
+### Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 
 ---
-
-> [!note] Terra-Nova
-> ## [[Vault To-Do]]
 
 > [!note] Terra-Nova
 > ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]] | [[Lore Books]]
 
 > [!note] Current Campaigns
-> ## [[The Valley of Broken Oaths]] | [[TWOTTS Brainstorm]] | [[TBSS Brainstorm]]
+> ## [[The Valley of Broken Oaths]] | [[TWOTTS Brainstorm]] | [[TWOTTS Kanban]] | [[TBSS Brainstorm]]
 
 > [!note] Encounter Ideas
-> ## [[Raid Encounter Ideas]] | [[Exploration Encounter Ideas]] | [[Raid Encounter Ideas]]
-
-> [!note] Pentium Realm
-> ## [[Pentium Kanban]]
+> ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
 
 ---
 
