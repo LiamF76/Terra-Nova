@@ -31,9 +31,10 @@ Important Info:
 This determines behavior in play.
 
 - What does this toy want?
+	- Aldros wants Ivys' soul to forge into an Ark weapon.
 
 - How does it normally try to get it?
-
+	- Aldros steals souls and carves them husing his Nothing ripping the will right from his target through their bodies.
 
 #### B. Performance Hooks (limit to two)
 
@@ -61,8 +62,9 @@ Questions to answer:
 
 - How will this situation change over time?
 
+---
 
-#### Aldros, Acolyte of the End
+## Aldros, Acolyte of the End
 
 What Aldros will look like after assuming the true power of Khal Daraan
 

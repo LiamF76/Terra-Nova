@@ -9,6 +9,18 @@ tags:
 
 The Soulbreaker Legion is an army of the Triumvirate Scales, specifically serving the will of Aldros, Wyrm-Chosen.
 
+```mermaid
+graph TD
+  A["Aldros, Wyrm-Chosen"]
+  B["Kotrok, The Convicted"]
+  C["Selni, Lord of Eyes"]
+
+  A --> B
+  A --> C
+```
+
+
+
 ## Elite Members
 
 #### Leader of the Legion:
@@ -19,3 +31,4 @@ The Soulbreaker Legion is an army of the Triumvirate Scales, specifically servin
 
 - Selni, Lord of Eyes
 - [[Kotrok]], The Convicted
+
