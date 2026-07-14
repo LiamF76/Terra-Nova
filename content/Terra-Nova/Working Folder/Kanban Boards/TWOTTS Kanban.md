@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## Soulbreaker Legion
+## [[The Soulbreaker Legion]]
 
 - [ ] [[Aldros]]
 - [ ] Selni

@@ -18,4 +18,4 @@ The Soulbreaker Legion is an army of the Triumvirate Scales, specifically servin
 #### Loyal Lieutenants
 
 - Selni, Lord of Eyes
-- Kotrok, Lord of Conviction
+- [[Kotrok]], The Convicted
