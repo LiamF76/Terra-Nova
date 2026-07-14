@@ -20,12 +20,9 @@ Important Info:
 
 #### A. Goal and Method
 
-This determines behavior in play.
-
 - What does this toy want?
 
 - How does it normally try to get it?
-
 
 #### B. Performance Hooks (limit to two)
 
