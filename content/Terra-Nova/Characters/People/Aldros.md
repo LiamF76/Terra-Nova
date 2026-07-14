@@ -32,6 +32,7 @@ This determines behavior in play.
 
 - What does this toy want?
 	- Aldros wants Ivys' soul to forge into an Ark weapon.
+	- Aldros desires truth, he believes that to truly understand reality, you must have control over it. That control must come from the most powerful being in existence, Khal Daraan.
 
 - How does it normally try to get it?
 	- Aldros steals souls and carves them husing his Nothing ripping the will right from his target through their bodies.
@@ -43,10 +44,13 @@ Choose two cues that make this toy easy to run at the table. The goal is instant
 Examples:
 
 - Physical habit or detail
+	- Aldros' form flickers and phases in short bursts, as if his power has trouble staying bound to his physical form.
 
 - Speech pattern or verbal habit
+	- Aldros speaks poetically, often describing something with fanchy language, then simply saying the thing. "That which bends and flows, which cuts mountains and lays kingdoms low. The River."
 
 - Emotional baseline
+	- Aldros exists in a state of cold calculation. He is essentially emotionless due to his undeath and power in Nothing removing the feeling from his withered soul.
 
 - Repeated behavior
 
