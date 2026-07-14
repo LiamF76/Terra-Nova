@@ -41,7 +41,7 @@ Overview of involved factions and their goals. This will help inform creating un
 - **Chronovault Lupus**
 	- The party explores [[Chronovault Lupus]]
 	- Ivys leaves behind a warning (WARNING TO GIVE PLAYERS FOUND HERE: [[If You're Reading this it's too Early]]), but it is encrypted. The key to the encryption is temporal in nature, and hidden within a Chronovault, the party has to go to the Chronovault and retrieve the encryption key. This key could also be used for something later. Chronovault Lupus.
-	- Lupus is protected by a powerful entity created by Ivys as a guardian known as Oxidian, The Last Hour. Could be a raid or a dungeon. Give players [[Watcher of Wolves]] as lore reward for defeating the dungeon.
+	- Lupus is protected by a powerful entity created by Ivys as a guardian known as [[Oxidian]], The Last Hour. Could be a raid or a dungeon. Give players [[Watcher of Wolves]] as lore reward for defeating the dungeon.
 	- [[Chronovault Lupus Puzzle Key]] 
 	- Multiple delves into Chronovault Lupus? Similar to the Leviathan / Menagerie from Destiny
 - **Corpse Tithe**
