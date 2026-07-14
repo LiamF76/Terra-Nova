@@ -45,7 +45,6 @@ This determines behavior in play.
 
 - How does it normally try to get it?
 
-
 #### B. Performance Hooks (limit to two)
 
 Choose two cues that make this toy easy to run at the table. The goal is instant recall, not detail.
