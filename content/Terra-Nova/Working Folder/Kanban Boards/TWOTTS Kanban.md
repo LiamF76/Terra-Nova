@@ -6,9 +6,9 @@ kanban-plugin: board
 
 ## Soulbreaker Legion
 
-- [ ] [[The Soulbreaker Legion]] Loyal Lieutenants
-	- [ ] Lord of Eyes
 - [ ] [[Aldros]]
+- [ ] Selni
+- [ ] [[Kotrok]]
 
 
 ## Hellstorm Clan
@@ -19,7 +19,13 @@ kanban-plugin: board
 - [ ] [[Azark]]
 
 
+***
 
+## Archive
+
+- [x] [[The Soulbreaker Legion]] Loyal Lieutenants
+	- [ ] Selni, Lord of Eyes
+	- [ ] Kotrok, Lord of Conviction
 
 %% kanban:settings
 ```
