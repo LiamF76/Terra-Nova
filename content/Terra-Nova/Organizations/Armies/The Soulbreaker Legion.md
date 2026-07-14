@@ -19,8 +19,6 @@ graph TD
   A --> C
 ```
 
-
-
 ## Elite Members
 
 #### Leader of the Legion:
