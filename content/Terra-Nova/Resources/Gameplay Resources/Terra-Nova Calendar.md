@@ -7,7 +7,16 @@ aliases:
   - Days
   - Months
   - Years
+  - Date
 ---
+
+```dataviewjs
+const calendarAPI = Calendarium.getAPI("Terra-Nova Prime Calendar");
+const currentDate = calendarAPI?.getCurrentDate();
+if (currentDate) {
+  dv.paragraph(`# The Current Date is: ${currentDate.day}.${currentDate.month + 1}.${currentDate.year}`);
+}
+```
 
 Terra-Nova has a strict and easy to understand calendar alongside its seasons. Here is a quick breakdown:
 
@@ -16,10 +25,3 @@ Terra-Nova has a strict and easy to understand calendar alongside its seasons. H
 | **Month** | **Rainfall** | **Sunfall** | **Leafall** | **Snowfall** |
 | --------- | ------------ | ----------- | ----------- | ------------ |
 | *Season*    | *Spring*       | *Summer*      | *Autumn*      | *Winter*       |
-
-
-
-```js
-const calendarAPI = Calendarium.getAPI("Terra-Nova Prime Calendar");`
-const currentDate = calendarAPI.getCurrentDate(); // this is an object { year: number, month: number, day: number }
-```

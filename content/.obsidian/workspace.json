@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "2213fad24636bc2e",
+            "id": "f5b2749f3a94a2d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561
+    "width": 561,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +178,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2213fad24636bc2e",
+  "active": "f5b2749f3a94a2d6",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
-    "Terra-Nova/Resources/Gameplay Resources/Terra-Nova Calendar.md",
     "Dashboard.md",
+    "Terra-Nova/Resources/Gameplay Resources/Terra-Nova Calendar.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
     "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Characters/People/Aldros.md",
