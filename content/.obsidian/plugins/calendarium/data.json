@@ -315,12 +315,185 @@
       "locations": {
         "locations": []
       }
+    },
+    {
+      "name": "Terra-Nova Prime Calendar",
+      "description": "Updated Calendar of Terra-Nova",
+      "id": "ID_99fae8eb69fa",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Daranas",
+            "id": "ID_ebd8d989e8d9"
+          },
+          {
+            "type": "day",
+            "name": "Arkonas",
+            "id": "ID_2a68ab3a7b7a"
+          },
+          {
+            "type": "day",
+            "name": "Melanas",
+            "id": "ID_fb098969d8a9"
+          },
+          {
+            "type": "day",
+            "name": "Lazuras",
+            "id": "ID_3b781aab5908"
+          },
+          {
+            "type": "day",
+            "name": "Arcanas",
+            "id": "ID_b81b98f93a5b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Rainfall",
+            "length": 100,
+            "id": "ID_f8b90b183838",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sunfall",
+            "length": 100,
+            "id": "ID_3a2b5ba96b49",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Leafall",
+            "length": 100,
+            "id": "ID_ebda38fba9a8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Snowfall",
+            "length": 100,
+            "id": "ID_29894bebdbf8",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_fb7868da28d8",
+            "type": "era",
+            "name": "First Age",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": null
+            }
+          }
+        ],
+        "padMonths": 1,
+        "padDays": 3,
+        "years": [],
+        "useCustomYears": false,
+        "dayDisplayCallback": ""
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_2a794a7ab848",
+            "name": "Spring",
+            "type": "Dated",
+            "color": "#70f472",
+            "month": 0,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_1868a91b19e9",
+            "name": "Summer",
+            "type": "Dated",
+            "color": "#f2ea97",
+            "month": 1,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_d84b2b5a0ac8",
+            "name": "Autumn",
+            "type": "Dated",
+            "color": "#c78548",
+            "month": 2,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_c8da3a980a28",
+            "name": "Winter",
+            "color": "#aeeae6",
+            "type": "Dated",
+            "kind": "None",
+            "month": 3,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": true,
+        "interpolateColors": false,
+        "weather": {
+          "enabled": false,
+          "seed": -274238650,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 1,
+        "month": 0,
+        "year": 1
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
     }
   ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_29cbd80be978",
+  "defaultCalendar": "ID_99fae8eb69fa",
   "eventPreview": false,
   "exit": {
     "saving": false,
