@@ -17,7 +17,10 @@ Hunters of Kabir is a treasure hunting D&D campaign set in Terra-Nova, on the co
 - Mysteries surrounding artifacts / story
 	- Magical temple that only appears under certain phases of the moon, spirit tied to it has been stalking the party on only New Moons.
 	- Blessed relic that turns out to be cursed
-- 
+- Wish Dragon
+	- Nickname: Patience, True Name: **Vhalsereth Khan** (One Who Remembers All Debts)
+	- Once granted Kabir Araran a wish to create a Vault to hide one secret of Kabir's choosing. Patience granted this wish, and Kabir hid the Dragon's ability to remember it's own name inside the vault. Patience despises this and has been trying to lure Kabir's descendants into the vault since, hoping to free her name.
+	- 
 
 
 ## But and Therefore
