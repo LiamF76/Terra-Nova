@@ -35,7 +35,7 @@ This determines behavior in play.
 	- Aldros desires truth, he believes that to truly understand reality, you must have control over it. That control must come from the most powerful being in existence, Khal Daraan.
 
 - How does it normally try to get it?
-	- Aldros steals souls and carves them husing his Nothing ripping the will right from his target through their bodies.
+	- Aldros steals souls and carves them using his Nothing ripping the will right from his target through their bodies. He acts with violence, direct military action.
 
 #### B. Performance Hooks (limit to two)
 
@@ -47,10 +47,9 @@ Examples:
 	- Aldros' form flickers and phases in short bursts, as if his power has trouble staying bound to his physical form.
 
 - Speech pattern or verbal habit
-	- Aldros speaks poetically, often describing something with fanchy language, then simply saying the thing. "That which bends and flows, which cuts mountains and lays kingdoms low. The River."
+	- Aldros speaks poetically, often describing something with fancy language, then simply saying the thing. "That which bends and flows, which cuts mountains and lays kingdoms low. The River."
 
 - Emotional baseline
-	- Aldros exists in a state of cold calculation. He is essentially emotionless due to his undeath and power in Nothing removing the feeling from his withered soul.
 
 - Repeated behavior
 
@@ -61,8 +60,10 @@ Define something that is currently going wrong. This problem exists whether the 
 Questions to answer:
 
 - What pressure is the toy under right now?
+	- Vesponous sent Aldros to create an Ark weapon, which they need to enact the Reshaping (changing the Gods into Dragons)
 
 - What happens if nothing interferes?
+	- Aldros will break through the Temporal Plane, control the Augur, and hunt down Ivys' soul on Temporial's Elegy.
 
 - How will this situation change over time?
 
