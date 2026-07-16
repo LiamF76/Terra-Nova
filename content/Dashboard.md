@@ -21,7 +21,7 @@ Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terr
 > ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]] | [[Lore Books]]
 
 > [!note] Current Campaigns
-> ## [[The Valley of Broken Oaths]] | [[TWOTTS Brainstorm]] | [[TWOTTS Kanban]] | [[TBSS Brainstorm]]
+> ## [[The Valley of Broken Oaths]] | [[TWOTTS Brainstorm]] | [[TWOTTS Kanban]] | [[TBSS Brainstorm]] | [[HOK Brainstorm]]
 
 > [!note] Encounter Ideas
 > ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
