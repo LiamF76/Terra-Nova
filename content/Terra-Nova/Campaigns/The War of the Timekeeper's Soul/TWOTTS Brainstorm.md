@@ -66,6 +66,10 @@ Overview of involved factions and their goals. This will help inform creating un
 	- 
 - **Dragon's Cunning**
 	- Party runs into a goblin warband, who offer peaceful terms. They meet on the road, and in the way of Vesponous, must play a game of cunning. Two people sit facing one another with a knife to one another's throat. They must each tell two truth's and a lie, where the lie is about an item they are currently carrying. Whoever guesses the other person's lie gets to keep the other's item.
+- **Memory Eater Demon**
+	- A town of people have no memories. They were ruled by a Goblin Warlord, but a Demon of the Hellstorm Clan killed the Goblin. The demon is huge and fat, as it eats the people's memories during each night. The demon becomes tiny and pathetic again after being defeated. The Lord of the Village can be defeated through a Rite of Favor, or illegally through fighting him. Demon hires the party to help deal with an issue in the town (somewhere has monsters in it like a mine or field or something.) They learn what the deal is with the memories and slavery and can defeat him how they choose.
+- **Death Plague**
+	- A town is infected with the Necrosurge from tainted drinking water. A well in their cemetery poisoned the graveyard, and then the groundwater. The people drink tainted black water, and have to bury the people dying wrapped in chains so they are easier to kill / stop from escaping burial.
 - 
 
 --- 
@@ -79,7 +83,7 @@ Overview of involved factions and their goals. This will help inform creating un
 	- [[Aldros]] searching for a way into the Temporal Plane
 		- 
 	- Azark gathering materials for ritual to bring Kairothrax back to life
-	- 
+	- Party is headed to Sunset.
 - 
 ### ACT 2:
 - Focus on stopping the demons / Kairothrax
