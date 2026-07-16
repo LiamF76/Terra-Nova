@@ -66,7 +66,8 @@ Overview of involved factions and their goals. This will help inform creating un
 	- 
 - **Dragon's Cunning**
 	- Party runs into a goblin warband, who offer peaceful terms. They meet on the road, and in the way of Vesponous, must play a game of cunning. Two people sit facing one another with a knife to one another's throat. They must each tell two truth's and a lie, where the lie is about an item they are currently carrying. Whoever guesses the other person's lie gets to keep the other's item.
-- 
+- **Demon Town**
+	- A town of people have no memories
 
 --- 
 
