@@ -9,6 +9,8 @@ tags:
 ## Hunters of Kabir
 *A Campaign of Ruins, Wishes, and Reckless Ambition*
 
+![[Hunters of Kabir Primer-1784234085686.webp|500x750]]
+
 ---
 
 Hundreds of years ago, a Noble of an Elven house carried the key to an ancient vault, within that vault lay untold riches and power. That Noble was slain in a great rebellion, and the key was lost forever, destroyed. Now generations later, a new Elf Noble, Kilyn of House Araran, has inherited ownership of the vault, and desires its bounty. Kilyn has made a dangerous bargain with an ancient ally of her House, a Wish Dragon. Kilyn has bargained for the Wish Dragon to open the vault, in exchange for Kilyn discovering the Wish Dragon's true name. The only link to the Dragon's true name was held by one of the nearly forgotten members of her house, Kabir Araran. To decipher the Dragon's name, she must find his relics, and discover the secrets of the past.
