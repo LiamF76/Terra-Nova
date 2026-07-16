@@ -83,7 +83,7 @@ Overview of involved factions and their goals. This will help inform creating un
 	- [[Aldros]] searching for a way into the Temporal Plane
 		- 
 	- Azark gathering materials for ritual to bring Kairothrax back to life
-	- 
+	- Party is headed to Sunset.
 - 
 ### ACT 2:
 - Focus on stopping the demons / Kairothrax
