@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "0c32729301ae1ec4",
+            "id": "9fa858363b4f382b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
+                "file": "Terra-Nova/Campaigns/Hunters of Kabir/Hunters of Kabir Primer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wish Dragon"
+              "title": "Hunters of Kabir Primer"
             }
           }
         ],
@@ -168,14 +168,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0c32729301ae1ec4",
+  "active": "9fa858363b4f382b",
   "lastOpenFiles": [
+    "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
+    "Terra-Nova/Campaigns/Hunters of Kabir/Hunters of Kabir Primer.md",
     "Dashboard.md",
+    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
     "Templates/Creature Template.md",
     "Terra-Nova/Creatures/Elementals",
     "image or token file.md",
-    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
-    "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
     "Terra-Nova/Creatures/Dragons",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
