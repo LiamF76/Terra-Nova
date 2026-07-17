@@ -34,10 +34,10 @@ Hunters of Kabir is a treasure hunting D&D campaign set in Terra-Nova, on the co
 - The party is searching for the student's research / whereabouts *BUT* there are constructs guarding the house **THEREFORE** the party has to fight or sneak through the estate to find the student's whereabouts. (they find it in the estate, the student fled to a remote area of the jungle)
 - They party searches for Kabir's last student in the jungle *BUT* his path leads into a dangerous section of the jungle where he hid himself (he betrayed Kabir's teaching, believing Kabir's connection to Wish Dragons was wrong and that Wish Dragons are evil and dangerous) **THEREFORE** the party has to brave dangerous combat with beasts to reach his hiding place.
 - Kabir's last student agrees to tell the party where the relics are *BUT* he promises they will regret finding them **THEREFORE** the party can travel to the location of one of the 3 artifacts.
-	- Kabir's Arrowhead: Weapon that killed Kabir, not one he wielded. This is the only weapon that free the Elf Noble from the Wish Dragon's bargain. It is an arrowhead that can cut magical deals and contracts, hence the Wish Dragon's deal.
+	- **Kabir's Arrowhead**: Weapon that killed Kabir, not one he wielded. This is the only weapon that free the Elf Noble from the Wish Dragon's bargain. It is an arrowhead that can cut magical deals and contracts, hence the Wish Dragon's deal.
 		- *LOCATION:* 
-	- Kabir's Lantern: Magical lantern needed to read the map.
+	- **Kabir's Lantern:** Magical lantern needed to read the map.
 		- *LOCATION:* 
-	- Kabir's Eye: Magical eye needed to read the map.
+	- **Kabir's Eye**: Magical eye needed to read the map.
 		- *LOCATION:* A flying castle hidden within a cloud.
 - 
