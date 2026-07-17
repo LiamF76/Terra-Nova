@@ -36,7 +36,7 @@
   "encore-settings@@theme-dark": "encore-theme-dark-iron",
   "encore-settings@@theme-light": "encore-theme-light-atom",
   "encore-settings@@colors": "encore-colors-colorful",
-  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false,
   "anuppuccin-theme-settings@@bold-weight": "800",
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-maroon",
@@ -56,5 +56,8 @@
   "primary-theme@@interface_editor-bg": "editor-bg-default",
   "shimmering-focus@@alt-colorschemes": "colorscheme-coffee",
   "shimmering-focus@@code-size": 1,
-  "encore-settings@@encore-disable-grain": true
+  "encore-settings@@encore-disable-grain": true,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border",
+  "fancy-a-story@@fas-theme-dark-print": "none",
+  "fancy-a-story@@theme-variant-light": "fas-meadow"
 }
