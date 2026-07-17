@@ -159,13 +159,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
       "canvas:Create new canvas": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
     "Dashboard.md",
+    "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
     "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Campaigns/Hunters of Kabir",
