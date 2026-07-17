@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "f4079878e1068085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HOK Brainstorm"
-            }
-          },
-          {
-            "id": "35714d5e54af621d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Campaigns/Hunters of Kabir/Hunters of Kabir Primer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hunters of Kabir Primer"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +153,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "35714d5e54af621d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
     "Terra-Nova/Campaigns/Hunters of Kabir/Hunters of Kabir Primer.md",
+    "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
     "Dashboard.md",
     "z Images/Hunters of Kabir Primer-1784234085686.webp",
     "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
