@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/World Codex/Timelines/Terra-Nova Master Timeline.md",
+                "file": "Terra-Nova/World Codex/Timelines/Terra-Nova Campaigns Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Nova Master Timeline"
+              "title": "Terra-Nova Campaigns Timeline"
             }
           }
         ],
@@ -170,6 +170,8 @@
   },
   "active": "de659d158680945f",
   "lastOpenFiles": [
+    "Terra-Nova/World Codex/Timelines/Terra-Nova Master Timeline.md",
+    "Terra-Nova/World Codex/Timelines/Terra-Nova Campaigns Timeline.md",
     "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
     "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
@@ -205,7 +207,6 @@
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 2.md",
     "Terra-Nova/World Codex/Lore Books/Drowning Worm/Hunger of the Ether.md",
     "Terra-Nova/Creatures/Elementals/Surge Golem.md",
-    "Terra-Nova/Creatures/Elementals/Jolt.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Statblocks",
     "Terra-Nova/Resources/Homebrew Statblocks",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales/Vesponous Territory",
