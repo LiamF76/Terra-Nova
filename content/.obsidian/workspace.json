@@ -22,8 +22,19 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "f915e5437af20e82",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +174,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f915e5437af20e82",
   "lastOpenFiles": [
+    "Terra-Nova/Resources/Gameplay Resources/Terra-Nova Primer.md",
     "Dashboard.md",
     "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
     "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
@@ -197,7 +209,6 @@
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales/Vesponous Territory/Sertis.md",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales/Vesponous Territory",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Pointcrawl.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/Untitled.canvas",
     "z Images/Kendoltric-1783872856320.webp",
     "z Images/Kendoltric-1783872758930.webp",
