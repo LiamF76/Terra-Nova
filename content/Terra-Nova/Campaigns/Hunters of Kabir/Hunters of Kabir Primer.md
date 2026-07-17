@@ -30,3 +30,4 @@ Deadly traps, breathless chases, banter heavy combat. Death is possible but we'r
 1. What's the closest you've ever come to real treasure — and what did it cost you?
 2. Who taught you to do what you do, and are they proud of you now?
 3. What's one rumor about the Sable Compass you've heard that you _don't_ believe... yet?
+
