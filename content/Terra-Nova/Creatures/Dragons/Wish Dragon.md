@@ -77,7 +77,9 @@ Wish Dragon names are their most prized possessions. It is not known how they ob
 ---
 
 ## Weaknesses & Tactics
-- Wish Dragons can only be killed in their True Form, not shape changed. To force one into it's true form, you must
+- Wish Dragons can only be killed in their True Form, not shape changed. To force one into it's true form, you must either: 
+	- Speak it's true name aloud. This will enrage and trap the Wish Dragon in it's true form, where it can be slain forever.
+	- Refuse a bargain thrice. If you have the willpower to resist all offers, carry no desire strong enough to feed upon three times, the Dragon will be forced into its true form.
 
 ---
 
