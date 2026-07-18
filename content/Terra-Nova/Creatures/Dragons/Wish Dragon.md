@@ -45,6 +45,7 @@ Wish Dragon names are their most prized possessions. It is not known how they ob
 - Obligation, *Sorroweft* 
 - Hunger-of-Kings, *Avarisk* 
 - Patient-Wound, *Sathrys* 
+- Thousand-Voices, *Riven*
 
 ---
 
