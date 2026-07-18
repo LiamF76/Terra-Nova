@@ -13,7 +13,7 @@ tags:
 ### Ahamkara
 
 > [!quote] 
-> "They feed on your destiny. They bind it to themselves and drink from your potential. They are endlessly thirsty, and cunning. Make no deals, suffer no consequences." - Unknown
+> "They feed on your destiny. They bind it to themselves and drink from your potential. They are endlessly thirsty, and cunning. Make no deals, suffer no consequences." - An unfortunate Soul who wished from an Ahamkara
 
 | Hunger-of-Kings                          | Thousand-Voices                          |
 | ---------------------------------------- | ---------------------------------------- |
