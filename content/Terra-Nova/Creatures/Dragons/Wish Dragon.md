@@ -31,6 +31,8 @@ Wish Dragons are metaphysical predators, and can grant wishes based on desires t
 > [!note] Faustian Bargain - Definition
 A Faustian bargain is a metaphor for a deal in which an ambitious individual trades their morals, integrity, or soul for worldly power, success, or wealth.
 
+The Ahamkara are exceedingly rare. There were nearly 100 at their peak, over 40,000 years ago in the Dawn Era, but most were killed by Khal Daraan's Primordials. Throughout history since that period, there are rare sightings every few thousand years, and those who meet them do not last long. Recorded history tells of barely 200 Wish Dragons in all of time.
+
 ---
 
 ## Physical Features
