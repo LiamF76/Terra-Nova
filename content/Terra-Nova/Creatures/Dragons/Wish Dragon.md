@@ -32,6 +32,19 @@ Wish Dragons are metaphysical predators, and can grant wishes based on desires t
 A Faustian bargain is a metaphor for a deal in which an ambitious individual trades their morals, integrity, or soul for worldly power, success, or wealth.
 
 The Ahamkara are exceedingly rare. There were nearly 100 at their peak, over 40,000 years ago in the Dawn Era, but most were killed by Khal Daraan's Primordials. Throughout history since that period, there are rare sightings every few thousand years, and those who meet them do not last long. Recorded history tells of barely 200 Wish Dragons in all of time.
+This rarity is likely influenced by their shapeshifting abilities, being able to create illusions so real around their form not even True-sight can pierce their visage. Wish Dragons can create forms of humans and elves so real they would never be discovered.
+
+---
+
+## Names
+
+Wish Dragon names are their most prized possessions. It is not known how they obtain or mark their true names, but this is what gives them their Wish Magic. Wish Dragons will never give their true name willingly to anything but another Wish Dragon, mortals who obtain the true name hold untold power over the Dragon.
+
+**Name Examples:** 
+- Title, *True Name* 
+- Obligation, *Sorroweft* 
+- Hunger-of-Kings, *Avarisk* 
+- Patient-Wound, *Sathrys* 
 
 ---
 
