@@ -7,7 +7,6 @@ tags:
 ---
 
 # Creature Name
-*Type - CR/Level*
 
 > ""
 > - 
@@ -18,12 +17,22 @@ image here
 
 ## Overview
 
+tbd
 
+---
+
+## Physical Features
+
+tbd
+
+---
 
 ## Habitat
 - **Found in:** 
 - **Lairs/Nests:** 
 - **Range/Territory:** 
+
+---
 
 ## Behavior
 - **Diet:** 
@@ -31,31 +40,12 @@ image here
 - **Temperament:** 
 - **Notable habits:** 
 
+---
+
 ## Weaknesses & Tactics
 - 
 
+---
+
 ## Lore & Rumors
 - 
-
----
-
-## Statblocks
-
-### Standard
-
-
-
-### Variant
-
-
-
----
-
-## GM Notes
-
-
-
-## Related
-- [[]]
-- [[]]
-- [[]]

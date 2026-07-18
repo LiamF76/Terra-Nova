@@ -8,20 +8,14 @@ tags:
 
 # Creature Name
 
-> "They feed on your destiny. They bind it to themselves and drink from your potential. They are endlessly thirsty, and cunning. Make no deals, suffer no consequences."
-> - Unknown
+> ""
+> - 
 
 image here
 
 ---
 
 ## Overview
-
-Wish Dragons are the most unique dragon species in Terra-Nova
-
----
-
-## Physical Features
 
 tbd
 
