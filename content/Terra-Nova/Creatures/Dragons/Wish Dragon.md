@@ -62,9 +62,13 @@ Wish Dragon names are their most prized possessions. It is not known how they ob
 ---
 
 ## Habitat
-- **Found in:** 
-- **Lairs/Nests:** 
+- **Found in:** Akash, Agamarth, Drok Shah, Iramo
+- **Lairs/Nests:** Deep hidden places, far within ancient ruins, dangerous mountains, deep caves. Some Wish Dragons build lairs within cities, hidden down winding alleys and hidden within large structures.
 - **Range/Territory:** 
+
+| Lair Example 1                               | Lair Example 2                               |
+| -------------------------------------------- | -------------------------------------------- |
+| ![[Wish Dragon-1784402225547.webp\|300x365]] | ![[Wish Dragon-1784402253228.webp\|300x400]] |
 
 ---
 
