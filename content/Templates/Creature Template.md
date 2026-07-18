@@ -22,8 +22,10 @@ tbd
 ---
 
 ## Physical Features
-
-tbd
+- **Size:** 
+- **Markings / Coloration:** 
+- **Texture:** (scaled, furred, chitinous, slimy)
+- **Other:** 
 
 ---
 

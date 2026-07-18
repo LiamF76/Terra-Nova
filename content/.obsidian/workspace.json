@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "ae958dd12cd8fd9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Creature Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Creature Template"
-            }
-          },
-          {
             "id": "c264f49f419acbf5",
             "type": "leaf",
             "state": {
@@ -52,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +170,9 @@
   },
   "active": "c264f49f419acbf5",
   "lastOpenFiles": [
-    "Templates/Creature Template.md",
+    "kagera.md",
     "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
+    "Templates/Creature Template.md",
     "Terra-Nova/Creatures/Dragons/Wind Dragon.md",
     "Dashboard.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
@@ -220,7 +207,6 @@
     "z Images/Current Wizard-1783869726435.webp",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 3.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 2.md",
-    "Terra-Nova/World Codex/Lore Books/Drowning Worm/Hunger of the Ether.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Statblocks",
     "Terra-Nova/Resources/Homebrew Statblocks",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales/Vesponous Territory",
