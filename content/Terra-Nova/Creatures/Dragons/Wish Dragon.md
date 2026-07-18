@@ -23,7 +23,7 @@ tags:
 
 ## Overview
 
-Wish Dragons, commonly known by their Aelarian name, 'Ahamkara' are the most unique dragon species in Terra-Nova. Like all Dragons, they feed off magic from their hordes and the environment around them, needing a substantial amount of mana to sustain themselves relative to their power. 
+Wish Dragons, commonly known by their Aelarian name, 'Ahamkara' are the most unique dragon species in Terra-Nova. Like all Dragons, they feed off magic from their hordes and the surrounding environment, needing a substantial amount of mana to sustain themselves relative to their power. 
 Notably Wish Dragons do not collect physical objects however, as their magical powers are bound to the world of destiny and fate. Wish Dragons collect potential futures through Wish Magic. They are known to offer bargains to those with great potential, promising power, fame, and anything the wisher desires, though they always extract a heavy price. Their game is to interpret the Wish in a manner that benefits them most, often leading to ruin and suffering for those who make deals. 
 
 > [!quote]
@@ -35,7 +35,7 @@ Wish Dragons are metaphysical predators, and can grant wishes based on desires t
 > [!note] Faustian Bargain - Definition
 A Faustian bargain is a metaphor for a deal in which an ambitious individual trades their morals, integrity, or soul for worldly power, success, or wealth.
 
-The Ahamkara are exceedingly rare. There were nearly 100 at their peak, over 40,000 years ago in the Dawn Era, but most were killed by Khal Daraan's Primordials. Throughout history since that period, there are rare sightings every few thousand years, and those who meet them do not last long. Recorded history tells of barely 200 Wish Dragons in all of time.
+The Ahamkara are exceedingly rare. There were nearly 100 at their peak, over 40,000 years ago in the Dawn Era, but most were killed by Khal Daraan's Primordials. Throughout history since that period, there are rare sightings every few thousand years, and those who meet them do not last long. Recorded history tells of barely 200 Wish Dragons in all time.
 This rarity is likely influenced by their shapeshifting abilities, being able to create illusions so real around their form not even True-sight can pierce their visage. Wish Dragons can create forms of humans and elves so real they would never be discovered.
 
 ---
