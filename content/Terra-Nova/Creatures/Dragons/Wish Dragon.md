@@ -10,12 +10,14 @@ tags:
 ---
 
 # Wish Dragons
-#### Ahamkara
+### Ahamkara
 
 > [!quote] 
 > "They feed on your destiny. They bind it to themselves and drink from your potential. They are endlessly thirsty, and cunning. Make no deals, suffer no consequences." - Unknown
 
-image here
+| Hunger-of-Kings                          | Thousand-Voices                          |
+| ---------------------------------------- | ---------------------------------------- |
+| ![[Wish Dragon-1784396285964.webp\|500]] | ![[Wish Dragon-1784396488083.webp\|500]] |
 
 ---
 
@@ -75,7 +77,7 @@ Wish Dragon names are their most prized possessions. It is not known how they ob
 ---
 
 ## Weaknesses & Tactics
-- 
+- Wish Dragons can only be killed in their True Form, not shape changed. To force one into it's true form, you must
 
 ---
 
