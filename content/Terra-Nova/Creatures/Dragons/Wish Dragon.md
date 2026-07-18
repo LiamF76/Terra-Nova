@@ -56,7 +56,7 @@ Wish Dragon names are their most prized possessions. It is not known how they ob
 ## Physical Features
 - **Size:** Massive or Tiny, Wish Dragons tend to the extremes of size in either direction.
 - **Markings / Coloration:** 
-- **Texture:** (scaled, furred, chitinous, slimy)
+- **Texture:** Scaled on most of their body, some have hard outer shells like rock, some have feathers.
 - **Other:** 
 
 ---
