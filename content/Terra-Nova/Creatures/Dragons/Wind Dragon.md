@@ -1,9 +1,12 @@
 ---
 publish: false
-title:
+title: Wind Dragon
 aliases:
+  - Wind Dragons
+  - Agamarthi Wind Dragon
 tags:
   - Bestiary
+  - Terra-Nova
 ---
 
 # Creature Name
