@@ -40,12 +40,12 @@ This rarity is likely influenced by their shapeshifting abilities, being able to
 
 Wish Dragon names are their most prized possessions. It is not known how they obtain or mark their true names, but this is what gives them their Wish Magic. Wish Dragons will never give their true name willingly to anything but another Wish Dragon, mortals who obtain the true name hold untold power over the Dragon.
 
-**Name Examples:** 
-- Title, *True Name* 
+**Name Examples:** Title, *True Name* 
 - Obligation, *Sorroweft* 
 - Hunger-of-Kings, *Avarisk* 
 - Patient-Wound, *Sathrys* 
 - Thousand-Voices, *Riven*
+- Debt-of-Dreams, *Amareth-Kol*
 
 ---
 
