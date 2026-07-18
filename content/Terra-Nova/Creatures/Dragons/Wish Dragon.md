@@ -73,10 +73,11 @@ Wish Dragon names are their most prized possessions. It is not known how they ob
 ---
 
 ## Behavior
-- **Diet:** 
+- **Diet:** Wish Dragons require no physical food like meat, though many indulge for the taste and pleasure it brings. They feed and sustain themselves on their Wishes and ambient magic.
 - **Social structure:** 
 - **Temperament:** 
 - **Notable habits:** 
+	- Wish Dragons often speak in the manner of "O Seeker Mine", using different terms than Seeker to refer to individuals they bargain with. This statement holds power, and exterts power over the subject of the sentence. If a Wish Dragon refers to you in this manner, they are seeking to bind and bargain with you, to feed off your desire, or they already are.
 
 ---
 
