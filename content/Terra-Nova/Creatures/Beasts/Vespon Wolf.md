@@ -1,9 +1,12 @@
 ---
 publish: false
-title:
+title: Vespon Wolf
 aliases:
+  - Tox Hounds
+  - Poison Wolf
 tags:
   - Bestiary
+  - Terra-Nova
 ---
 
 # Vespon Wolves
