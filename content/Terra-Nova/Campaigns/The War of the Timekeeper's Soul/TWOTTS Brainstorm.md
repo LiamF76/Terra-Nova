@@ -71,7 +71,8 @@ Overview of involved factions and their goals. This will help inform creating un
 	- A town of people have no memories. They were ruled by a Goblin Warlord, but a Demon of the Hellstorm Clan killed the Goblin. The demon is huge and fat, as it eats the people's memories during each night. The demon becomes tiny and pathetic again after being defeated. The Lord of the Village can be defeated through a Rite of Favor, or illegally through fighting him. Demon hires the party to help deal with an issue in the town (somewhere has monsters in it like a mine or field or something.) They learn what the deal is with the memories and slavery and can defeat him how they choose.
 - **Death Plague**
 	- A town is infected with the Necrosurge from tainted drinking water. A well in their cemetery poisoned the graveyard, and then the groundwater. The people drink tainted black water, and have to bury the people dying wrapped in chains so they are easier to kill / stop from escaping burial.
-- 
+- **Dragon Hunter**
+	- [[Tirian]]. 
 
 --- 
 
