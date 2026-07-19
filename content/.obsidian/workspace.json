@@ -6,7 +6,6 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 57.05218617771509,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -73,84 +72,6 @@
               },
               "icon": "lucide-file",
               "title": "The Spire of Virtue"
-            }
-          },
-          {
-            "id": "6b5f2d351233d0a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/2. The Tablet of Ruin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. The Tablet of Ruin"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "32344c380f3ee94a",
-        "type": "tabs",
-        "dimension": 42.94781382228491,
-        "children": [
-          {
-            "id": "b032ac761584387c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TSOV Encounter 3"
-            }
-          },
-          {
-            "id": "6acdd8fd19c83d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Resources/Homebrew Statblocks/Kendoltric.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kendoltric"
-            }
-          },
-          {
-            "id": "ccc6c690cea5a462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Resources/Homebrew Statblocks/Current Wizard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Current Wizard"
-            }
-          },
-          {
-            "id": "14fd3642f659cbc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Resources/Homebrew Statblocks/Jolt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jolt"
             }
           }
         ]
@@ -292,9 +213,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6b5f2d351233d0a0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
+    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/2. The Tablet of Ruin.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 3.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Kendoltric.md",
@@ -305,7 +227,6 @@
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 2.md",
     "Terra-Nova/Characters/Undead/Kaalalriik.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
     "Dashboard.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
     "conflict-files-obsidian-git.md",
