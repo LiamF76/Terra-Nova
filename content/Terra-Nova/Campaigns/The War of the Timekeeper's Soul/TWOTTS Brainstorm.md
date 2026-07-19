@@ -61,6 +61,7 @@ Overview of involved factions and their goals. This will help inform creating un
 - **Lady of the Lake**
 	- The party is sent by Ryfon to find a spirit called Morwyn. Morwyn lives in a lake, and helps guide the party in exchange for defeating a goblin warlord who is terrorizing the local spirits. She gives them the path forwards to the ruins of Sunset, how to find the Warlord, and some information on the Triumvirate servant who stole her legendary blade. It was a Dragon Priest who serves Gravebinder.
 	- Alongside [[Morwyn]] the party meets [[Akicita]], a dangerous spirit that does not trust mortals. It does NOT take a liking to them, and makes comments demanding their secrets, has to be reprimanded by [[Morwyn]], who says [[Akicita]] is angry, but not dangerous to them. "Are you afraid? Ah, perhaps you are smarter than you look."
+	- Akicita tries to tempy Thalia into drinking water from the lake, saying it has healing properties, and is legendary for awakening magical powers in those who drink it.
 	- Tells Jerran that something watches him, a light in the edge of his shadow, something not quite dead and not quite alive is following him, trying to reach him. (This is the [[Echo of the Guardian]])
 - **Pop Up Base**
 	- 

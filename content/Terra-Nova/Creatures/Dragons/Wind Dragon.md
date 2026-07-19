@@ -1,9 +1,12 @@
 ---
 publish: false
-title:
+title: Wind Dragon
 aliases:
+  - Wind Dragons
+  - Agamarthi Wind Dragon
 tags:
   - Bestiary
+  - Terra-Nova
 ---
 
 # Creature Name
@@ -18,14 +21,6 @@ image here
 ## Overview
 
 tbd
-
----
-
-## Physical Features
-- **Size:** 
-- **Markings / Coloration:** 
-- **Texture:** (scaled, furred, chitinous, slimy)
-- **Other:** 
 
 ---
 

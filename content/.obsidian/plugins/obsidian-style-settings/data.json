@@ -19,7 +19,7 @@
   "obsidian-joval-theme@@switch-lcol": "col-mod-d",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-lavender",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-green",
   "entry-point@@color-scheme-selector": "color-scheme-golden-book",
   "entry-point@@minimal-mode": false,
   "entry-point@@smooth-mode": true,
@@ -36,7 +36,7 @@
   "encore-settings@@theme-dark": "encore-theme-dark-iron",
   "encore-settings@@theme-light": "encore-theme-light-atom",
   "encore-settings@@colors": "encore-colors-colorful",
-  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false,
   "anuppuccin-theme-settings@@bold-weight": "800",
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-maroon",
@@ -56,5 +56,10 @@
   "primary-theme@@interface_editor-bg": "editor-bg-default",
   "shimmering-focus@@alt-colorschemes": "colorscheme-coffee",
   "shimmering-focus@@code-size": 1,
-  "encore-settings@@encore-disable-grain": true
+  "encore-settings@@encore-disable-grain": true,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border",
+  "fancy-a-story@@fas-theme-dark-print": "none",
+  "fancy-a-story@@theme-variant-light": "fas-meadow",
+  "encore-settings@@encore-coloured-tooltip": true,
+  "encore-settings@@encore-highlight-border": true
 }

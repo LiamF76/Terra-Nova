@@ -151,9 +151,9 @@
         "resizeUnits": "pixels"
       },
       {
-        "name": "Width 500px",
+        "name": "Width 300px",
         "resizeDimension": "width",
-        "width": 500,
+        "width": 300,
         "resizeScaleMode": "auto",
         "respectEditorMaxWidth": true,
         "maintainAspectRatio": true,
@@ -213,7 +213,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Width 500px"
+    "selectedResizePreset": "Width 300px"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
