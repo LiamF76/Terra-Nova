@@ -10,7 +10,7 @@ Brainstorm
 - 
 
 Raid Mechanics:
-- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Charge can be transferrer to a willing ally they can touch.
+- *Charged condition*: The creature's movement speed is doubled. At the end of its next turn, it explodes — each creature within 10 ft. (including itself) takes **1d6 lightning damage** (DC 13 DEX save for half). The charge is then discharged. If the creature does not move on their turn, the damage is **2d6 lightning damage**. Charge can be transferred to a willing ally they can touch.
 	- Iron Pillars absorb charge, Lightning Pillars grant it
 	- The Gate needs discharged to be opened
 	- The Legion needs to be discharged to be defeated

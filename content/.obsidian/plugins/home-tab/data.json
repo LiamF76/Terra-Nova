@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
-      "timestamp": 1784476272029
-    },
-    {
-      "filepath": "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/2. The Tablet of Ruin.md",
-      "timestamp": 1784476234521
-    },
-    {
       "filepath": "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
-      "timestamp": 1784476227494
+      "timestamp": 1784481445926
+    },
+    {
+      "filepath": "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
+      "timestamp": 1784481444603
+    },
+    {
+      "filepath": "Terra-Nova/Creatures/Elementals/Jolt.md",
+      "timestamp": 1784481443522
     },
     {
       "filepath": "Terra-Nova/Creatures/Elementals/Current Wizard.md",
-      "timestamp": 1784476222424
+      "timestamp": 1784481440927
     },
     {
       "filepath": "Terra-Nova/Creatures/Elementals/Surge Golem.md",
-      "timestamp": 1784476220245
+      "timestamp": 1784481438236
     }
   ],
   "bookmarkedFileStore": [],
