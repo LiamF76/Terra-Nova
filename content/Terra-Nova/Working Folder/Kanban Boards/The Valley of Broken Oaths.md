@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Priority Lore To-Do
 
 - [ ] [[Kaalalriik]]
-- [ ] [[Kendoltric]]
+- [ ] [[Terra-Nova/Characters/People/Kendoltric]]
 
 
 ## Session Prepping

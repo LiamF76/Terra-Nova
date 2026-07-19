@@ -50,7 +50,7 @@ The selected and honored warrior and military followers of the Blue Dragon [[Gar
 	- The Chosen Blade: 
 	- The Chosen Mage: 
 - **The Honored**: 
-	- Stom Knight: [[Kendoltric]]
+	- Stom Knight: [[Terra-Nova/Characters/People/Kendoltric]]
 	- 
 
 ---
