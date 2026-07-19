@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "c264f49f419acbf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wish Dragon"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +153,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c264f49f419acbf5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
     "z Images/Wish Dragon-1784402253228.webp",
     "z Images/Wish Dragon-1784402225547.webp",
     "z Old/Old Geography/Old Ikon/Kingdoms/Drok Shah/Drok Shah Overview.md",
-    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
     "z Images/Wish Dragon-1784396488083.webp",
     "z Images/Wish Dragon-1784396285964.webp",
     "Terra-Nova/Creatures/Dragons/Wind Dragon.md",
@@ -208,7 +193,6 @@
     "z Images/Surge Golem-1783869443678.webp",
     "z Images/Storm Sprite-1783868582855.webp",
     "z Images/Kendoltric-1783872856320.webp",
-    "z Images/Kendoltric-1783872758930.webp",
     "Terra-Nova/Resources/Homebrew Statblocks/Statblocks",
     "Terra-Nova/Resources/Homebrew Statblocks",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales/Vesponous Territory",
