@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "4d21855629bb7304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wish Dragon"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +163,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4d21855629bb7304",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova/Creatures/Dragons/Wind Dragon.md",
+    "Terra-Nova/Creatures/Dragons/Green Dragon.md",
     "Dashboard.md",
+    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
+    "Terra-Nova/Creatures/Dragons/Wind Dragon.md",
     "conflict-files-obsidian-git.md",
     "z Images/Wish Dragon-1784402253228.webp",
     "z Images/Wish Dragon-1784402225547.webp",
@@ -195,7 +182,6 @@
     "Terra-Nova/Creatures/Elementals/Jolt.md",
     "Terra-Nova/Creatures/Elementals/Surge Golem.md",
     "Terra-Nova/Creatures/Elementals/Current Wizard.md",
-    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
     "Terra-Nova/Creatures/Elementals",
     "Terra-Nova/Creatures/Dragons",
     "Terra-Nova/Creatures",
