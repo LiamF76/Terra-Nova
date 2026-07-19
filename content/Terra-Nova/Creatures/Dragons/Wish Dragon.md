@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Wish Dragon
 aliases:
   - Ahamkara
