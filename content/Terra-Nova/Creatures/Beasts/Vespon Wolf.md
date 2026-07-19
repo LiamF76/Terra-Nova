@@ -8,9 +8,8 @@ tags:
 
 # Vespon Wolves
 
-> ""
-> - 
-
+> "Jaws of a wolf hurt enough, these hounds though, they latch on your arm and melt through it while they gnaw, sucking up all the goo your flesh melts into. Best stay out of those bogs."
+> - Triumvirate Scales Laborer
 
 | Vespon Wolf                            | Dire Vespon Wolf                             |
 | -------------------------------------- | -------------------------------------------- |
