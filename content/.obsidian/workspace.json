@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Creatures/Dragons/Blue Dragon.md",
+                "file": "Terra-Nova/Creatures/Beasts/Eltheer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blue Dragon"
+              "title": "Eltheer"
             }
           }
         ],
@@ -178,11 +178,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a20b8c888495672e",
+  "active": "f50c3df09465da79",
   "lastOpenFiles": [
+    "Terra-Nova/Creatures/Dragons/Blue Dragon.md",
+    "Terra-Nova/Creatures/Beasts/Eltheer.md",
+    "Terra-Nova/Creatures/Beasts",
     "Terra-Nova/Creatures/Dragons/Green Dragon.md",
     "Terra-Nova/Creatures/Dragons/Black Dragon.md",
-    "Terra-Nova/Creatures/Dragons/Blue Dragon.md",
     "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
     "Terra-Nova/Creatures/Dragons/Wind Dragon.md",
     "Dashboard.md",
@@ -218,7 +220,6 @@
     "z Images/Kotrok-1783990609025.webp",
     "Terra-Nova/Characters/Spirits/Kotrok.md",
     "Terra-Nova/Organizations/Armies/The Soulbreaker Legion.md",
-    "Terra-Nova/Organizations/Extraplanar/The Hellstorm Clan.md",
     "Terra-Nova/Organizations/Extraplanar/Untitled",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales/Vesponous Territory",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales",
@@ -226,7 +227,6 @@
     "z Images/Kendoltric-1783872856320.webp",
     "z Images/Kendoltric-1783872758930.webp",
     "z Images/Current Wizard-1783869726435.webp",
-    "Terra-Nova/Resources/Homebrew Statblocks/Statblocks",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
   ]
