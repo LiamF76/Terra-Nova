@@ -32,8 +32,8 @@ Notably Wish Dragons do not collect physical objects however, as their magical p
 Many consider Wish Dragons to be similar to Djinn or Genies, but they are not very alike. Wish Dragons are cordial, friendly, and eager to make bargains that satiate their ethereal hunger, unlike Djinn who despise those who force them to grant wishes.
 Wish Dragons are metaphysical predators, and can grant wishes based on desires that are felt around them. Their eyes glow when creating such a bargain, which can be entered into willingly, or unwillingly. This is the power of the Wish Dragons, the *Faustian Bargain*.
 
-> [!note] Faustian Bargain - Definition
-A Faustian bargain is a metaphor for a deal in which an ambitious individual trades their morals, integrity, or soul for worldly power, success, or wealth.
+> [!note] Faustian Bargain - Definition:
+> A Faustian bargain is a metaphor for a deal in which an ambitious individual trades their morals, integrity, or soul for worldly power, success, or wealth.
 
 The Ahamkara are exceedingly rare. There were nearly 100 at their peak, over 40,000 years ago in the Dawn Era, but most were killed by Khal Daraan's Primordials. Throughout history since that period, there are rare sightings every few thousand years, and those who meet them do not last long. Recorded history tells of barely 200 Wish Dragons in all time.
 This rarity is likely influenced by their shapeshifting abilities, being able to create illusions so real around their form not even True-sight can pierce their visage. Wish Dragons can create forms of humans and elves so real they would never be discovered.
