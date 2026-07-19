@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "ade2edecee3e65e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Creatures/Beasts/Vespon Wolf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vespon Wolf"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,22 +168,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ade2edecee3e65e9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Dashboard.md",
+    "z Images/Vespon Wolf-1784432654925.webp",
+    "z Images/Hound-1784431870001.webp",
+    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
+    "Terra-Nova/Creatures/Beasts/Vespon Wolf.md",
+    "Terra-Nova/Creatures/Dragons/Wind Dragon.md",
     "Terra-Nova/Creatures/Dragons/Green Dragon.md",
     "Terra-Nova/Creatures/Dragons/Blue Dragon.md",
     "Terra-Nova/Creatures/Dragons/Black Dragon.md",
+    "Dashboard.md",
+    "conflict-files-obsidian-git.md",
     "Terra-Nova/Creatures/Beasts/Eltheer.md",
     "Terra-Nova/Creatures/Beasts",
-    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
     "z Images/Wish Dragon-1784402253228.webp",
     "z Images/Wish Dragon-1784402225547.webp",
     "z Old/Old Geography/Old Ikon/Kingdoms/Drok Shah/Drok Shah Overview.md",
     "z Images/Wish Dragon-1784396488083.webp",
     "z Images/Wish Dragon-1784396285964.webp",
-    "Terra-Nova/Creatures/Dragons/Wind Dragon.md",
     "kagera.md",
     "Templates/Creature Template.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
@@ -190,11 +208,8 @@
     "Terra-Nova/Characters/Spirits/Kotrok.md",
     "z Images/Kotrok-1783990609025.webp",
     "Terra-Nova/Organizations/Extraplanar/The Hellstorm Clan.md",
-    "Terra-Nova/Working Folder/WIP/Exploration Encounter Ideas.md",
-    "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
     "z Images/Surge Golem-1783869443678.webp",
     "z Images/Storm Sprite-1783868582855.webp",
-    "z Images/Kendoltric-1783872856320.webp",
     "Terra-Nova/Resources/Homebrew Statblocks/Statblocks",
     "Terra-Nova/Resources/Homebrew Statblocks",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales/Vesponous Territory",
