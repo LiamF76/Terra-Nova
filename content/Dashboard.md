@@ -20,7 +20,9 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 
 ---
 
-> [!note] Terra-Nova
+# Terra-Nova
+
+> [!note] Terra-Nova Worldbuilding
 > ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]] | [[Lore Books]]
 
 > [!note] Current Campaigns
