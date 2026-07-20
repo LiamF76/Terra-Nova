@@ -8,8 +8,8 @@ tags:
 
 # Creature Name
 
-> ""
-> - 
+> [!quote]
+> "Quote here" - Source
 
 image here
 
@@ -18,6 +18,9 @@ image here
 ## Overview
 
 tbd
+
+> [!quote]
+> "Quote here" - Source
 
 ---
 
