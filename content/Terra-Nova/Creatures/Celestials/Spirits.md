@@ -60,4 +60,6 @@ Spirits have an innate sense of duty to their domain and location, such as a riv
 ---
 
 ## Lore & Rumors
-- 
+- Major Spirits in History
+	- Lupithos of the South Wind, blessed the heroes of the Young Wolves with his power to fight the Demon King Arkonil / Ivar Uncrowned.
+	- 

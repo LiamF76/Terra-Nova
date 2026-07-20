@@ -2,6 +2,10 @@
 publish: false
 title: Dashboard
 aliases:
+  - Homepage
+  - Home
+  - Start
+  - index
 tags:
   - Arkfall
   - PentiumRealm
