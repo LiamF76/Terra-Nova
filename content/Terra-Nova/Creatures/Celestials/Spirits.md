@@ -62,11 +62,14 @@ Spirits have an innate sense of duty to their domain and location, such as a riv
 ---
 
 ## Weaknesses & Tactics
-- 
+- Power is bound to domain. A Spirit is strongest within their territory and noticeably diminished outside it. For example a river Spirit dragged far from water, or a mountain Spirit brought below the tree line, loses much of its Celestial potency. Destroying their domain outright such as burning a tree spirit's forest will substantially weaken it.
+- Oath-bound by nature. Spirits are compelled to honor bargains and tribute agreements made in good faith, and breaking their own word costs them standing among other Spirits and can weaken their connection to the Divine.
+- Most Spirits, whatever their strength, prefer negotiation, trials, or intimidation over open combat, and can often be turned aside by proving respect for their domain rather than by force.
 
 ---
 
 ## Lore & Rumors
 - Major Spirits in History
 	- Lupithos of the South Wind, blessed the heroes of the Young Wolves with his power to fight the Demon King Arkonil / Ivar Uncrowned.
+	- Iathon the Stalwart is said to have single handedly turned back a Leviathan calf that wandered too close to shore, though sailors argue over whether it was scared off or simply lost interest.
 	- 
