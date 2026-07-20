@@ -13,7 +13,7 @@ tags:
 > - Emrys Marcel, Angel of the Black Sun
 
 
-|     | Zemrion the Stalwart                 | Lupithos of the South Wind               |
+|     | Iathon the Stalwart                  | Lupithos of the South Wind               |
 | --- | ------------------------------------ | ---------------------------------------- |
 |     | ![[Spirits-1784518542592.webp\|400]] | ![[Spirits-1784518620410.webp\|300x492]] |
 
