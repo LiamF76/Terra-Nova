@@ -9,7 +9,7 @@ tags:
   - Bestiary
 ---
 
-# Creature Name
+# Spirits
 
 > [!quote] 
 > "They are often kind! A hello to a Spirit is usually the start of a new friendship. One that lasts for life." - Emrys Marcel, Angel of the Black Sun
@@ -27,7 +27,7 @@ All Spirits have domains, similar to their Godly parents (or Ancestors if remove
 Spirits have an innate sense of duty to their domain and location, such as a river spirit defending its territory from a damn being built, or a tree spirit preventing its forest home from being harvested. While those may put Spirits in opposition with mortals, they are usually not, seeing them as children to be protected and nurtured in exchange for small amounts of worship and tribute.
 
 > [!quote]
-> "Well that is quite simple! I protect these fine merchant's ships from monsters of the sea, and they pay me in delicious salted fish, and warm sun to sleep in." - Iathon the Stalwart
+> "Well that is quite simple! I protect these fine merchant's ships from monsters of the sea, and they pay me in delicious salted fish, and warm sun to sleep in. They also tell humorous jokes!" - Iathon the Stalwart
  
 ---
 
@@ -48,12 +48,16 @@ Spirits have an innate sense of duty to their domain and location, such as a riv
 
 ## Behavior
 - **Diet:** Spirits eat a diverse diet, Lion Spirits may eat meat, Tree Spirits may be sustained entirely by light and water.
-- **Social structure:** Mostly solitary, each tending their own domain, though Spirits of adjacent or related territories (a river and the forest it runs through) often form loose, lasting alliances. Some Spirits gather occasionally in informal courts or councils, usually convened by an elder Spirit or one several generations closer to the Divine, to settle disputes over territory or to coordinate against a shared threat.
-  Spirits related by divine blood, such as two descendants of the same God, will often have a stronger sense of kinship, not the same as mortal siblings, but a shared obligation.
+- **Social structure:** 
+	- Mostly solitary, each tending their own domain, though Spirits of adjacent or related territories (a river and the forest it runs through) often form loose, lasting alliances. Some Spirits gather occasionally in informal courts or councils, usually convened by an elder Spirit or one several generations closer to the Divine, to settle disputes over territory or to coordinate against a shared threat.
+	- Spirits related by divine blood, such as two descendants of the same God, will often have a stronger sense of kinship, not the same as mortal siblings, but a shared obligation.
+	- Spirits generally hold contempt for Primordials, viewing them as coarse, dangerous, and unkind. They have an inverse opinion of Divine Champions, usually viewing the Divine Champion of their Divine Ancestor as a trusted friend, even when never having met them.
 - **Temperament:** Ranging anywhere from friendly and happy to converse to avoiding mortals at all costs. Spirits to not outright attack or harm mortals unless provoked or hurt in some way.
 - **Notable habits:**
 	- Defending their domains such as Rivers or Forests.
 	- Acting as guardians and minor Gods to mortals who make home within their domain.
+	- Accepting small tribute or worship in exchange for protection, often specific to their nature (Iathon's salted fish and sunlight, for instance).
+	- Testing strangers with small trials or riddles before offering trust or aid, a habit said to come from their Godly forebears.
 
 ---
 

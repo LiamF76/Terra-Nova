@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "e27b1f8a81c8b2d0",
+            "id": "a52d5e218fd71d0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,16 +167,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e27b1f8a81c8b2d0",
+  "active": "a52d5e218fd71d0c",
   "lastOpenFiles": [
+    "Templates/Creature Template.md",
+    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
+    "Terra-Nova/Creatures/Celestials/Spirits.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Dashboard.md",
-    "Terra-Nova/Creatures/Celestials/Spirits.md",
+    "Terra-Nova/Organizations/Major Factions.md",
+    "Terra-Nova/Organizations/Divine Groups/Primordials.md",
+    "Terra-Nova/World Codex/Lore Documents/The Dissonant Creations.md",
     "Terra-Nova/Creatures/Dragons/Dragons.md",
     "Terra-Nova/Working Folder/WIP/Nothing Stuff.md",
     "Worldbuilding Codex.md",
-    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
-    "Templates/Creature Template.md",
     "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
     "z Images/Spirits-1784518620410.webp",
     "z Images/Spirits-1784518542592.webp",
@@ -199,10 +202,7 @@
     "Terra-Nova/Resources/Homebrew Statblocks/Surge Golem.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Kendoltric.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Jolt.md",
-    "Terra-Nova/Resources/Homebrew Statblocks/Current Wizard.md",
-    "Terra-Nova/Creatures/Beasts/Bolug.md",
     "z Images/Bolug-1784434386811.webp",
-    "Terra-Nova/Creatures/Beasts/Swamp Drake.md",
     "z Images/Dire Salamander-1784434232930.webp",
     "z Images/Vespon Wolf-1784432654925.webp",
     "z Images/Hound-1784431870001.webp",
