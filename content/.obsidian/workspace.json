@@ -22,6 +22,29 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "720f7b9fa629f5f3",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "The Valley of Broken Oaths"
+            }
           }
         ]
       }
@@ -155,11 +178,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Dashboard.md",
+    "conflict-files-obsidian-git.md",
+    "Terra-Nova/Resources/Homebrew Statblocks/Surge Golem.md",
+    "Terra-Nova/Resources/Homebrew Statblocks/Kendoltric.md",
+    "Terra-Nova/Resources/Homebrew Statblocks/Jolt.md",
+    "Terra-Nova/Resources/Homebrew Statblocks/Current Wizard.md",
     "Terra-Nova/Creatures/Beasts/Bolug.md",
     "z Images/Bolug-1784434386811.webp",
     "Terra-Nova/Creatures/Beasts/Swamp Drake.md",
     "z Images/Dire Salamander-1784434232930.webp",
-    "Dashboard.md",
     "Terra-Nova/Creatures/Beasts/Vespon Wolf.md",
     "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
@@ -169,7 +198,6 @@
     "Terra-Nova/Creatures/Dragons/Green Dragon.md",
     "Terra-Nova/Creatures/Dragons/Blue Dragon.md",
     "Terra-Nova/Creatures/Dragons/Black Dragon.md",
-    "conflict-files-obsidian-git.md",
     "Terra-Nova/Creatures/Beasts/Eltheer.md",
     "Terra-Nova/Creatures/Beasts",
     "z Images/Wish Dragon-1784402253228.webp",
@@ -189,11 +217,7 @@
     "Terra-Nova/Creatures/Elementals",
     "image or token file.md",
     "Terra-Nova/Creatures/Dragons",
-    "Terra-Nova/Resources/Gameplay Resources/Terra-Nova Calendar.md",
     "Terra-Nova/Campaigns/Hunters of Kabir",
-    "Terra-Nova/Characters/People/Aldros.md",
-    "Terra-Nova/Organizations/Armies/The Soulbreaker Legion.md",
-    "Terra-Nova/Resources/Learning/Brennan's Toy Method.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Statblocks",
     "Terra-Nova/Resources/Homebrew Statblocks",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales/Vesponous Territory",

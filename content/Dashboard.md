@@ -15,6 +15,8 @@ Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terr
 
 ### Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 
+#### Khal Daraan Counter: 87
+
 ---
 
 > [!note] Terra-Nova

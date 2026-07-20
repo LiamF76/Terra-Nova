@@ -18,4 +18,4 @@ Description: Appearance & vibe description
 Important Info: 
 - Connections, Abilities, Secrets
 
-![[Kendoltric-1783872758930.webp|500x750]]
+

@@ -4,6 +4,12 @@ kanban-plugin: board
 
 ---
 
+## Priority Lore To-Do
+
+- [ ] [[Kaalalriik]]
+- [ ] [[Terra-Nova/Characters/People/Kendoltric]]
+
+
 ## Session Prepping
 
 - [ ] [[TVBO Session 5]]
@@ -71,6 +77,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%

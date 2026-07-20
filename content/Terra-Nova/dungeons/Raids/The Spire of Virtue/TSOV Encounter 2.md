@@ -10,15 +10,15 @@ tags:
 
 ## HP Table
 
-| Surge Golem | Current Wizard A | Current Wizard B |
-| ----------- | ---------------- | ---------------- |
-|             |                  |                  |
-|             |                  |                  |
-|             |                  |                  |
-|             |                  |                  |
-|             |                  |                  |
-|             |                  |                  |
+| Surge Golem (15) | Current Wizard A (13) | Current Wizard B (13) |
+| ---------------- | --------------------- | --------------------- |
+| x                | x                     | x                     |
+| x                | x                     | x                     |
+| x-               |                       | x                     |
+| x                |                       | x                     |
+|                  | ---                   | ---                   |
+|                  | ---                   | ---                   |
 
 | Jolt A | Jolt B | Jolt C | Jolt D | Jolt E | Jolt F | Jolt G | Jolt H |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|        |        |        |        |        |        |        |        |
+|        |        | x      | x      | x      | x      | x      | x      |

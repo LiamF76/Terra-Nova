@@ -2,6 +2,7 @@
 publish: false
 title: Kaalalriik
 aliases:
+  - The Wyrm Herald
 tags:
   - Terra-Nova
 ---
