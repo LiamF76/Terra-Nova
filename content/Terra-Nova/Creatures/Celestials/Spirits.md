@@ -48,7 +48,8 @@ Spirits have an innate sense of duty to their domain and location, such as a riv
 
 ## Behavior
 - **Diet:** Spirits eat a diverse diet, Lion Spirits may eat meat, Tree Spirits may be sustained entirely by light and water.
-- **Social structure:** 
+- **Social structure:** Mostly solitary, each tending their own domain, though Spirits of adjacent or related territories (a river and the forest it runs through) often form loose, lasting alliances. Some Spirits gather occasionally in informal courts or councils, usually convened by an elder Spirit or one several generations closer to the Divine, to settle disputes over territory or to coordinate against a shared threat.
+  Spirits related by divine blood, such as two descendants of the same God, will often have a stronger sense of kinship, not the same as mortal siblings, but a shared obligation.
 - **Temperament:** Ranging anywhere from friendly and happy to converse to avoiding mortals at all costs. Spirits to not outright attack or harm mortals unless provoked or hurt in some way.
 - **Notable habits:**
 	- Defending their domains such as Rivers or Forests.
