@@ -33,16 +33,16 @@ Spirits have an innate sense of duty to their domain and location, such as a riv
 
 ## Physical Features
 - **Size:** Ranges from tiny (a hearth-spirit no bigger than a candle flame) to gargantuan (mountain spirits whose backs are mistaken for ridge lines).
-- **Markings / Coloration:** 
+- **Markings / Coloration:** Often echoes their divine parent's domain. A Fire God's Spirit may carry ember-bright plumage or skin that glows faintly like coals. A Water God's Spirit may shift color with the depth and mood of its home river. Many bear a single unmistakable mark (a sunburst iris, a vein of gold in stone, a constellation of spots) that mortals learn to recognize as a sign of divine descent.
 - **Texture:** Anything from scaled, furred, chitinous, slimy, or otherwise based on their bestial and divine ancestry.
-- **Other:** 
+- **Other:** Most spirits are extremely distinct from mortals, taking forms of humanoid trees, spectral beasts, looking like enchanted pieces of nature. Some are able to don a false form to look more alike the mortal races.
 
 ---
 
 ## Habitat
 - **Found in:** Wild places, mostly outside population centers in forests, mountains, and underground. Occasionally in the sky and clouds for short periods if they are capable of flight. Ocean Spirits are rare due to the vast amount of Leviathans, but those that exist live on the shore.
-- **Lairs/Nests:** 
-- **Range/Territory:** 
+- **Lairs/Nests:** Tied directly to their domain rather than built for comfort. A River Spirit's home may simply be the deepest pool along its length, a Tree Spirit's the hollow of its own trunk. Spirits with a more mobile domain (wind, weather, migration) often have no fixed lair at all, instead returning to a symbolic anchor point, a favorite peak, a shrine mortals built in their honor. Somewhere to stay when they wish to rest or be found.
+- **Range/Territory:** Bound closely to the size and shape of their domain. A stream Spirit may never travel more than a mile from its source; a mountain range's Spirit may consider the entire massif home ground. Spirits are fiercely aware of where their territory ends, and crossing into another Spirit's domain uninvited is considered a serious breach of etiquette, even between friendly Spirits.
 
 ---
 
