@@ -35,11 +35,9 @@
     "useInternalPlugins": false
   },
   "MTG Cards": "LiIdCard",
-  "Excalidraw": "LiPen",
   "z Old": "LiTrash",
   "z Old/Old Geography": "LiMap",
   "Shop & Loot Tables": "LiDollarSign",
-  "Templates": "LiAtSign",
   "z Images": "LiCamera",
   "z Needs Sorted": "LiBinary",
   "Terra-Nova/videos": "LiTv",
@@ -62,5 +60,7 @@
   "Arkfall": "LiStars",
   "Terra-Nova/World Codex": "LiBookOpenText",
   "Terra-Nova/Creatures": "LiCat",
-  "z Old/Dashboard Cavnas.canvas": "LiCloudRainWind"
+  "z Old/Dashboard Cavnas.canvas": "LiCloudRainWind",
+  "z Templates": "LiAtSign",
+  "z Excalidraw": "LiPen"
 }
