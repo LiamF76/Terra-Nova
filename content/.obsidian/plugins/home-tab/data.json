@@ -7,14 +7,14 @@
   },
   "logoScale": 1.2,
   "iconColorType": "default",
-  "wordmark": "Obsidian",
+  "wordmark": "Daraan's Canvas",
   "customFont": "interfaceFont",
   "fontSize": "4em",
   "fontColorType": "default",
   "fontWeight": 600,
   "maxResults": 5,
   "showbookmarkedFiles": true,
-  "showRecentFiles": false,
+  "showRecentFiles": true,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
   "showPath": true,
@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "Dashboard.md",
-      "timestamp": 1784517160456
+      "timestamp": 1784517774669
+    },
+    {
+      "filepath": "Terra-Nova/Resources/Gameplay Resources/Terra-Nova Primer.md",
+      "timestamp": 1784517760523
     },
     {
       "filepath": "Terra-Nova/Resources/Gameplay Resources/Races of Terra-Nova.md",
