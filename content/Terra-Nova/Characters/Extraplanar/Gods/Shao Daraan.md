@@ -5,6 +5,8 @@ aliases:
   - Shao
   - Daraan
   - God
+tags:
+  - Terra-Nova
 ---
 
 ![[image-2.webp|500x750]]
