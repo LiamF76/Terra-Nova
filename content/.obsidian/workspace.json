@@ -22,8 +22,48 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "2387a47b568837eb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
+          },
+          {
+            "id": "bf9e632d7c8a7215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Creatures/Celestials/Spirits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spirits"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,10 +192,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "bf9e632d7c8a7215",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Creatures/Celestials/Spirits.md",
+    "Terra-Nova/Creatures/Dragons/Dragons.md",
     "Dashboard.md",
+    "Terra-Nova/Working Folder/WIP/Nothing Stuff.md",
+    "Worldbuilding Codex.md",
     "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
     "Templates/Creature Template.md",
     "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
@@ -172,7 +216,6 @@
     "index.md",
     "z Images/Terra-Nova Primer-1784516631447.webp",
     "z Images/Terra-Nova Primer-1784516592913.webp",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
     "Theme Test Note.md",
     "z Old/Dashboard Cavnas.canvas",
@@ -186,11 +229,8 @@
     "z Images/Bolug-1784434386811.webp",
     "Terra-Nova/Creatures/Beasts/Swamp Drake.md",
     "z Images/Dire Salamander-1784434232930.webp",
-    "Terra-Nova/Creatures/Beasts/Vespon Wolf.md",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "z Images/Vespon Wolf-1784432654925.webp",
     "z Images/Hound-1784431870001.webp",
-    "Terra-Nova/Creatures/Dragons/Wind Dragon.md",
     "Terra-Nova/Creatures/Beasts",
     "z Images/Wish Dragon-1784402253228.webp",
     "Terra-Nova/Creatures/Elementals",

@@ -47,7 +47,7 @@ Spirits have an innate sense of duty to their domain and location, such as a riv
 ---
 
 ## Behavior
-- **Diet:** 
+- **Diet:** Spirits eat a diverse diet, Lion Spirits may eat meat, Tree Spirits may be sustained entirely by light and water.
 - **Social structure:** 
 - **Temperament:** 
 - **Notable habits:** 
