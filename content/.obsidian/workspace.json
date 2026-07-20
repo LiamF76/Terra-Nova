@@ -27,26 +27,18 @@
             "id": "720f7b9fa629f5f3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "The Valley of Broken Oaths"
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +168,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "720f7b9fa629f5f3",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
+    "Dashboard Cavnas.canvas",
     "Dashboard.md",
+    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Surge Golem.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Kendoltric.md",
@@ -215,7 +208,6 @@
     "Terra-Nova/Campaigns/Hunters of Kabir/Hunters of Kabir Primer.md",
     "z Images/Hunters of Kabir Primer-1784234085686.webp",
     "Terra-Nova/Creatures/Elementals",
-    "image or token file.md",
     "Terra-Nova/Creatures/Dragons",
     "Terra-Nova/Campaigns/Hunters of Kabir",
     "Terra-Nova/Resources/Homebrew Statblocks/Statblocks",

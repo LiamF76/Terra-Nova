@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6000e4f75aad9829","type":"text","text":"Dashboard","x":-340,"y":-340,"width":250,"height":37,"color":"4"},
+		{"id":"aad56b58a4739eb9","x":-637,"y":-260,"width":297,"height":50,"type":"text","text":"The Timekeeper's Soul War"},
+		{"id":"8feccc65ac0e753e","x":-920,"y":-148,"width":400,"height":400,"type":"file","file":"Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md"},
+		{"id":"be1998b22ee91721","x":-460,"y":-148,"width":400,"height":400,"type":"file","file":"Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md"}
+	],
+	"edges":[
+		{"id":"7008f6aa2df305c8","fromNode":"6000e4f75aad9829","fromSide":"bottom","toNode":"aad56b58a4739eb9","toSide":"top"},
+		{"id":"ccdd15102488d978","fromNode":"aad56b58a4739eb9","fromSide":"bottom","toNode":"8feccc65ac0e753e","toSide":"top"},
+		{"id":"976c136703fb45ac","fromNode":"aad56b58a4739eb9","fromSide":"bottom","toNode":"be1998b22ee91721","toSide":"top"}
+	]
+}

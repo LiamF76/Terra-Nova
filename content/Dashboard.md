@@ -23,14 +23,14 @@ Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terr
 > ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]] | [[Lore Books]]
 
 > [!note] Current Campaigns
-> ## [[The Valley of Broken Oaths]] | [[TWOTTS Brainstorm]] | [[TWOTTS Kanban]] | [[TBSS Brainstorm]] | [[HOK Brainstorm]]
+> ## [[TWOTTS Brainstorm]] | [[TWOTTS Kanban]] | [[TBSS Brainstorm]]
 
 > [!note] Encounter Ideas
 > ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
 
 ---
 
-Remember who we are, remember what we came here to do. This is not just writing, it's a world. Make this world ours, make it beautiful, make it terrible. Just make it. Make it.
+Remember who we are, remember what we came here to do. This is not just writing, it's a world. Make this world ours, make it beautiful, make it terrible. Just make it. Make it. It may be real someday.
 
 ---
 
