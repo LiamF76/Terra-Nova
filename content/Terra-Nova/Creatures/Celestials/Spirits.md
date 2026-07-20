@@ -32,7 +32,7 @@ Spirits have an innate sense of duty to their domain and location, such as a riv
 ---
 
 ## Physical Features
-- **Size:** Ranges from tiny to gargantuan
+- **Size:** Ranges from tiny (a hearth-spirit no bigger than a candle flame) to gargantuan (mountain spirits whose backs are mistaken for ridge lines).
 - **Markings / Coloration:** 
 - **Texture:** Anything from scaled, furred, chitinous, slimy, or otherwise based on their bestial and divine ancestry.
 - **Other:** 
