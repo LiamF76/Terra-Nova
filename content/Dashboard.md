@@ -12,9 +12,7 @@ tags:
 
 Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terra-Nova, Arkfall, and Pentium realm, my homebrew Dungeons & Dragons settings / worldbuilding projects.
 
-### Are you about to prep a session? Remember [[Brennan's Toy Method]]!
-
-#### Khal Daraan Counter: 87
+Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 
 ---
 

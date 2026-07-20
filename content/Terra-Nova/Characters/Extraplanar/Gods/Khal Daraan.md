@@ -4,7 +4,11 @@ title: Khal Daraan
 aliases:
   - Khal
   - Daraan
+tags:
+  - Terra-Nova
 ---
+
+Khal Daraan Counter: 87
 
 ![[image-3.webp|500x750]]
 
