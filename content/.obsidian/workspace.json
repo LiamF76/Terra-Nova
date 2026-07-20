@@ -24,41 +24,31 @@
             }
           },
           {
-            "id": "c9792189504c720b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Terra-Nova Worldbuilding"
-            }
-          },
-          {
-            "id": "07e9a6503a26358c",
+            "id": "b5419ee650fd0f51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shao Daraan"
+              "title": "index"
+            }
+          },
+          {
+            "id": "27760c7740ff47c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Resources/Gameplay Resources/Terra-Nova Primer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terra-Nova Primer"
             }
           }
         ],
@@ -192,10 +182,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e34a2393bb44142e",
+  "active": "27760c7740ff47c2",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "z Images/Terra-Nova Primer-1784516631447.webp",
+    "z Images/Terra-Nova Primer-1784516592913.webp",
+    "index.md",
     "Dashboard.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
     "Theme Test Note.md",
     "z Old/Dashboard Cavnas.canvas",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
@@ -227,11 +221,7 @@
     "kagera.md",
     "z Templates/Creature Template.md",
     "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
-    "Terra-Nova/World Codex/Timelines/Terra-Nova Campaigns Timeline.md",
-    "Terra-Nova/World Codex/Timelines/Terra-Nova Master Timeline.md",
-    "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "z Images/Hunters of Kabir Primer-1784253817434.webp",
-    "z Images/Hunters of Kabir Primer-1784234085686.webp",
     "Terra-Nova/Creatures/Elementals",
     "Terra-Nova/Creatures/Dragons",
     "Terra-Nova/Campaigns/Hunters of Kabir",

@@ -21,6 +21,8 @@ Like may D&D settings I draw heavily on inspiration, and the major setting inspi
 - Malazan Book of the Fallen
 - Frieren: Beyond Journey's End
 
+![[Terra-Nova Primer-1784516592913.webp|300x507]]
+
 You may notice some diverse and conflicting themes and inspirations from the above sources. I do too. While many elements from these sources can be found in the world, it is not overly or exactly like any of them. It is organic and unique in many ways. Depending on location, the tone ranges from dark to cozy fantasy, and high to low magics, though generally it leans towards lower magics as compared to traditional D&D. The tone of the setting depends very heavily on the continent and even nation or plane your adventure is taking place. 
 
 Here are tow examples from Terra-Nova. Take for instance the land of Escarth, full of legendary stories, fantasy knights and castles, classic monsters, tyrant kings and agents of the heavens fighting against demons and dragons , it could be an Elder Scrolls game setting. Compare that to the land of Iramo, a continent entirely made of a Maze covered and devoid of sunlight, hundreds of miles wide and tall, with many levels, filled with the most horrific monsters and traps imaginable, where a trio of Eldritch beings rule and war eternally over the secrets and powers held within left behind by the ancient Aelarians.
@@ -55,3 +57,4 @@ People are often wary of Arcane magic, and may not attack you outright, but will
 
 That is the end of the general primer. Not much information I know, but more can be found on the homepage and by exploring the Wiki!
 
+![[Terra-Nova Primer-1784516631447.webp|500]]
