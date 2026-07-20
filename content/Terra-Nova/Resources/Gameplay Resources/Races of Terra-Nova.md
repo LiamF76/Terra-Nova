@@ -65,4 +65,9 @@ The Beastfolk of Terra-Nova have diverse sources, some created by Gods, some are
 
 Monstrous races are considered to be born of dangerous and powerful creatures like Dragons, Primordials, or extra-planar interference in the mortal world.
 
+- **Dragonborn**: 
+- **Kobolds**: 
+- Goblins: 
+- Hobgoblins: 
+- Trolls: 
 - 
