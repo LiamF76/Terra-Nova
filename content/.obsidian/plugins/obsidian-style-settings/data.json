@@ -62,5 +62,6 @@
   "fancy-a-story@@theme-variant-light": "fas-meadow",
   "encore-settings@@encore-coloured-tooltip": true,
   "encore-settings@@encore-highlight-border": true,
-  "encore-settings@@blur-amount": "encore-blur-less"
+  "encore-settings@@blur-amount": "encore-blur-less",
+  "fancy-a-story@@theme-variant-dark": "fas-coffee-dark"
 }
