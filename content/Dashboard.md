@@ -6,7 +6,6 @@ tags:
   - Arkfall
   - PentiumRealm
   - Terra-Nova
-  - excalidraw
 ---
 
 # :LiCalendar: `$= dv.date("today").toFormat("EEEE, MMMM d, yyyy")`

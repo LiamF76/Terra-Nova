@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "b5419ee650fd0f51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Resources/Gameplay Resources/Races of Terra-Nova.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Races of Terra-Nova"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,15 +148,14 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b5419ee650fd0f51",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Terra-Nova/Resources/Gameplay Resources/Races of Terra-Nova.md",
+    "Dashboard.md",
     "z Old/Old Geography/Old Akash/Akash.md",
     "index.md",
     "Terra-Nova/Resources/Gameplay Resources/Terra-Nova Primer.md",
