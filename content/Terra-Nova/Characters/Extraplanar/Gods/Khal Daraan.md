@@ -23,5 +23,5 @@ Description: Khal has no known appearance. There is only one depiction of Khal D
 
 Important Info: 
 - God of Destruction
-- Khal Daraan is the destroyer, its cosmic purpose and reason for being to to destroy all creation
+- Khal Daraan is the destroyer, its cosmic purpose and reason for being to to destroy all creation. It is unfeeling towards all beings and creations except [[Shao Daraan|Shao]].
 - 
