@@ -72,4 +72,4 @@ Spirits have an innate sense of duty to their domain and location, such as a riv
 - Major Spirits in History
 	- Lupithos of the South Wind, blessed the heroes of the Young Wolves with his power to fight the Demon King Arkonil / Ivar Uncrowned.
 	- Iathon the Stalwart is said to have single handedly turned back a Leviathan calf that wandered too close to shore, though sailors argue over whether it was scared off or simply lost interest.
-	- 
+- There's a persistent story of a hunter who mocked a minor Spirit's small size, only to find every arrow he loosed for the rest of his life fell just short of its mark.
