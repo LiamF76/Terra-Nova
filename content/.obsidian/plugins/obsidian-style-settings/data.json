@@ -63,5 +63,12 @@
   "encore-settings@@encore-coloured-tooltip": true,
   "encore-settings@@encore-highlight-border": true,
   "encore-settings@@blur-amount": "encore-blur-less",
-  "fancy-a-story@@theme-variant-dark": "fas-coffee-dark"
+  "fancy-a-story@@theme-variant-dark": "fas-coffee-dark",
+  "fancy-a-story@@fas-skin-select": "none",
+  "fancy-a-story@@bold-color@@light": "#E64242",
+  "fancy-a-story@@bold-color@@dark": "#E64242",
+  "fancy-a-story@@italic-color@@light": "#9CF4F4",
+  "fancy-a-story@@italic-color@@dark": "#9CF4F4",
+  "fancy-a-story@@header-color": "fas-headings-accent",
+  "fancy-a-story@@properties-columns": 2
 }
