@@ -29,30 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Terra-Nova/Resources/Gameplay Resources/Races of Terra-Nova.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "27760c7740ff47c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Resources/Gameplay Resources/Terra-Nova Primer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terra-Nova Primer"
+              "title": "Races of Terra-Nova"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,11 +168,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "27760c7740ff47c2",
+  "active": "b5419ee650fd0f51",
   "lastOpenFiles": [
+    "z Old/Old Geography/Old Akash/Akash.md",
+    "Terra-Nova/Resources/Gameplay Resources/Races of Terra-Nova.md",
+    "index.md",
+    "Terra-Nova/Resources/Gameplay Resources/Terra-Nova Primer.md",
     "z Images/Terra-Nova Primer-1784516631447.webp",
     "z Images/Terra-Nova Primer-1784516592913.webp",
-    "index.md",
     "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
@@ -219,9 +208,6 @@
     "z Images/Wish Dragon-1784396488083.webp",
     "z Images/Wish Dragon-1784396285964.webp",
     "kagera.md",
-    "z Templates/Creature Template.md",
-    "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
-    "z Images/Hunters of Kabir Primer-1784253817434.webp",
     "Terra-Nova/Creatures/Elementals",
     "Terra-Nova/Creatures/Dragons",
     "Terra-Nova/Campaigns/Hunters of Kabir",
