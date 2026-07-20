@@ -32,15 +32,15 @@ Spirits have an innate sense of duty to their domain and location, such as a riv
 ---
 
 ## Physical Features
-- **Size:** 
+- **Size:** Ranges from tiny to gargantuan
 - **Markings / Coloration:** 
-- **Texture:** (scaled, furred, chitinous, slimy)
+- **Texture:** Anything from scaled, furred, chitinous, slimy, or otherwise based on their bestial and divine ancestry.
 - **Other:** 
 
 ---
 
 ## Habitat
-- **Found in:** 
+- **Found in:** Wild places, mostly outside population centers in forests, mountains, and underground. Occasionally in the sky and clouds for short periods if they are capable of flight. Ocean Spirits are rare due to the vast amount of Leviathans, but those that exist live on the shore.
 - **Lairs/Nests:** 
 - **Range/Territory:** 
 
