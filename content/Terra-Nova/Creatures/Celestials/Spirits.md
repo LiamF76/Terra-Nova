@@ -49,8 +49,10 @@ Spirits have an innate sense of duty to their domain and location, such as a riv
 ## Behavior
 - **Diet:** Spirits eat a diverse diet, Lion Spirits may eat meat, Tree Spirits may be sustained entirely by light and water.
 - **Social structure:** 
-- **Temperament:** 
-- **Notable habits:** 
+- **Temperament:** Ranging anywhere from friendly and happy to converse to avoiding mortals at all costs. Spirits to not outright attack or harm mortals unless provoked or hurt in some way.
+- **Notable habits:**
+	- Defending their domains such as Rivers or Forests.
+	- Acting as guardians and minor Gods to mortals who make home within their domain.
 
 ---
 
