@@ -24,9 +24,9 @@ Here are some helpful links to get you started.
 ## The Pantheon, Gods, and Major Entities
 > [!info] [[Gods of Terra-Nova]]
 
-> [!info] [[Spirits]]
-
 > [!info] [[Primordials]]
+
+> [!info] [[Spirits]]
 
 > [!info] [[Dragons]]
 

@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Religion Template.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Religion Template"
+              "title": "index"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "a0fdb8704215e9f3",
   "lastOpenFiles": [
-    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Templates/Religion Template.md",
+    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Terra-Nova/Organizations/Religions & Cults/The Eternal Cycle.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Khal Daraan.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
