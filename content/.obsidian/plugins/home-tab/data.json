@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Terra-Nova/Organizations/Religions & Cults/The Eternal Cycle.md",
-      "timestamp": 1784597116709
+      "filepath": "Templates/Religion Template.md",
+      "timestamp": 1784597784724
     },
     {
       "filepath": "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
-      "timestamp": 1784597114908
+      "timestamp": 1784597782940
+    },
+    {
+      "filepath": "Terra-Nova/Organizations/Religions & Cults/The Eternal Cycle.md",
+      "timestamp": 1784597770699
     },
     {
       "filepath": "Terra-Nova/Characters/Extraplanar/Gods/Khal Daraan.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
       "timestamp": 1784596832629
-    },
-    {
-      "filepath": "Templates/Character Template.md",
-      "timestamp": 1784596661805
     }
   ],
   "bookmarkedFileStore": [],
