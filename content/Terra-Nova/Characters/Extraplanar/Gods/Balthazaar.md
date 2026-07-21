@@ -36,7 +36,7 @@ Balthazaar holds the form of a gigantic celestial snake, 5 headed black serpent,
 ---
 
 ## Important Info
-- God of Darkness
+- [[Gods of Terra-Nova|Gods]] of Darkness
 - He rebelled against the Gods and attempted to kill [[Illuman]] and devour the sun at the dawn of time. 
 - Relationships or cosmological significance
 - Imprisoned in the Abyss
