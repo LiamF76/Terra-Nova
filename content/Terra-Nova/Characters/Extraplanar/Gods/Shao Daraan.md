@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Character Template
+title: Shao Daraan
 aliases:
   - Shao
   - Daraan

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Character Template
+title: Khal Daraan
 aliases:
   - Khal
   - Daraan

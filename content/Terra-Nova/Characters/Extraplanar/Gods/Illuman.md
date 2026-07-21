@@ -1,7 +1,10 @@
 ---
-publish: false
+publish: true
 title: Illuman
 aliases:
+  - The Dawnfather
+  - Firstborn of Daraan
+  - The Shine
 tags:
   - Terra-Nova
 ---
