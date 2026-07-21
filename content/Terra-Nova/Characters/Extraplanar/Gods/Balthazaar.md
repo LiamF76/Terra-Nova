@@ -7,11 +7,9 @@ tags:
   - Terra-Nova
 ---
 
-![[Balthazaar-1778455333557.webp|500]]
+Name: 
 
-Name: **Balthazaar**, The Night Serpent, God of Darkness
-
-Voice: serpent, vile and cunning, cryptic riddler how lies and hides his motivations
+Voice: 
 - "The sssssun sssshall fall from the sssky, and into my gaping maw!"
 - 
 
@@ -22,3 +20,36 @@ Important Info:
 - rebelled and attempted to kill [[Illuman]] and devour the sun at the dawn of time
 - Imprisoned in the Abyss
 - Father of Drathara
+
+# Balthazaar
+
+![[Balthazaar-1784602096679.webp|500]]
+
+---
+
+## Name
+**Balthazaar**, The Night Serpent, God of Darkness
+
+---
+
+## Voice
+Balthazaar's voice is that of a serpent, vile and cunning, cryptic riddler who lies and hides his motivations. Balthazaar rarely speaks a truth, and when he does he layers it within tricks and falsehoods. His forked tongue causes him to hiss like a snake when he speaks.
+
+> [!quote]
+> "Quote"
+
+> [!quote]
+> "Quote"
+
+---
+
+## Description
+Physical forms and appearance
+
+---
+
+## Important Info
+- Domain/role
+- Origin, purpose, or key lore
+- Relationships or cosmological significance
+- 
