@@ -1,8 +1,9 @@
 ---
-publish: false
+publish: true
 title: Balthazaar
 aliases:
   - God of Darkness
+  - The Nightserpent
 tags:
   - Terra-Nova
 ---
