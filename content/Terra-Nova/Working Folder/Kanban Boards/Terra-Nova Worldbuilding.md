@@ -14,7 +14,7 @@ kanban-plugin: list
 
 ## Priority Build
 
-- [ ] [[Spirits]]
+- [x] [[Spirits]]
 - [ ] [[Gods of Terra-Nova|Gods]]
 - [ ] [[Dragons]]
 - [ ] [[Divine Champions]]

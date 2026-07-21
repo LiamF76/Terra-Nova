@@ -1,12 +1,42 @@
+---
+publish: false
+title: Character Template
+aliases:
+tags:
+  - Terra-Nova
+  - Arkfall
+  - PentiumRealm
+---
+
+# Name
 
 ![[image.png|300]]
 
-Name: **Name**, Aliases
+---
 
-Voice: Voice Description
-- Example Dialogue
+## Name
+**Name**, titles, epithets
 
-Description: Appearance & vibe description
+---
 
-Important Info: 
-- Connections, Abilities, Secrets
+## Voice
+How they speak/communicate
+
+> [!quote]
+> "Quote"
+
+> [!quote]
+> "Quote"
+
+---
+
+## Description
+Physical forms and appearance
+
+---
+
+## Important Info
+- Domain/role
+- Origin, purpose, or key lore
+- Relationships or cosmological significance
+- 
