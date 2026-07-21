@@ -4,8 +4,6 @@ title: Character Template
 aliases:
 tags:
   - Terra-Nova
-  - Arkfall
-  - PentiumRealm
 ---
 
 # Name
