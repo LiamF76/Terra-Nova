@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "Terra-Nova/Characters/Extraplanar/Gods/Illuman.md",
-      "timestamp": 1784601347734
+      "timestamp": 1784601934376
+    },
+    {
+      "filepath": "Templates/Character Template.md",
+      "timestamp": 1784601929572
     },
     {
       "filepath": "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Templates/Religion Template.md",
       "timestamp": 1784601269795
-    },
-    {
-      "filepath": "index.md",
-      "timestamp": 1784601231423
     }
   ],
   "bookmarkedFileStore": [],

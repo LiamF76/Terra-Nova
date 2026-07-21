@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Character Template
+title:
 aliases:
 tags:
   - Terra-Nova
