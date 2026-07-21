@@ -7,8 +7,6 @@ aliases:
   - God
 tags:
   - Terra-Nova
-  - Arkfall
-  - PentiumRealm
 ---
 
 # Shao Daraan
