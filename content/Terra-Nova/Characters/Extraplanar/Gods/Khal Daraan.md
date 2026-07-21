@@ -1,13 +1,11 @@
 ---
-publish: false
+publish: true
 title: Character Template
 aliases:
   - Khal
   - Daraan
 tags:
   - Terra-Nova
-  - Arkfall
-  - PentiumRealm
 ---
 
 Khal Daraan Counter: 87
