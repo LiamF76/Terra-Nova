@@ -19,7 +19,7 @@ Khal Daraan Counter: 87
 ---
 
 ## Name
-**Khal Daraan**, The End, The Doombringer, The Aspect of Apocalypse
+**Khal Daraan**, The End, The Doombringer, The Aspect of Apocalypse, Teacher of Truth
 
 ---
 
