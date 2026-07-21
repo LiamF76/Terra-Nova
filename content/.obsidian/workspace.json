@@ -63,9 +63,23 @@
               "icon": "lucide-file",
               "title": "Gods of Terra-Nova"
             }
+          },
+          {
+            "id": "6d01ab46f1cc7b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Organizations/Religions & Cults/The Eternal Cycle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Eternal Cycle"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,11 +208,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "17e1ca32715fac9f",
+  "active": "6d01ab46f1cc7b49",
   "lastOpenFiles": [
-    "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
     "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
+    "Terra-Nova/Organizations/Religions & Cults/The Eternal Cycle.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Khal Daraan.md",
+    "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
     "Templates/Character Template.md",
     "Terra-Nova/Characters/Demigods/Horus Hixs.md",
     "Terra-Nova/Characters/People/Horus.md",
@@ -228,7 +243,6 @@
     "Theme Test Note.md",
     "z Old/Dashboard Cavnas.canvas",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "conflict-files-obsidian-git.md",
     "z Images/Bolug-1784434386811.webp",
     "z Images/Dire Salamander-1784434232930.webp",
     "z Images/Vespon Wolf-1784432654925.webp",

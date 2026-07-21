@@ -2,7 +2,6 @@
   "obsidian-style-settings",
   "calendarium",
   "obsidian-excalidraw-plugin",
-  "obsidian-leaflet-plugin",
   "better-word-count",
   "templater-obsidian",
   "obsidian-kanban",
@@ -13,6 +12,5 @@
   "image-converter",
   "dataview",
   "obsidian-git",
-  "obsidian-languagetool-plugin",
-  "mermaid-tools"
+  "obsidian-languagetool-plugin"
 ]
