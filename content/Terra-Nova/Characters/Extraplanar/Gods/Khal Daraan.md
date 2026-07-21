@@ -42,4 +42,5 @@ Only once seen by mortal eyes, Melantha Celestia-Shield described Khal as, "An e
 ## Important Info
 - God of Destruction
 - Khal Daraan is the destroyer, its cosmic purpose and reason for being to to destroy all creation. It is unfeeling towards all beings and creations except [[Shao Daraan|Shao]].
+- Father of the [[Primordials]]
 - 

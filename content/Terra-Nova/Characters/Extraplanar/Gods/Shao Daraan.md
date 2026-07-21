@@ -41,4 +41,5 @@ Shao Daraan takes many forms. As a God he manifests in black skin, a tail longer
 - [[Gods of Terra-Nova|God]] of Creation
 - Creator of the universe, somewhat a manifestation of the Dungeon Master/The Ruler
 - Shao Daraan is the Creator, he created Terra-Nova and its planes 
+- Father of the [[Gods of Terra-Nova|Gods]] and [[The 12 Prime Creations]]
 - 
