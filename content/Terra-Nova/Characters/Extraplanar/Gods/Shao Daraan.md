@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Shao Daraan
 aliases:
   - Shao
