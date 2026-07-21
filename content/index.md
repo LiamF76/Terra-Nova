@@ -21,8 +21,12 @@ Here are some helpful links to get you started.
 ## Races
 > [!info] [[Races of Terra-Nova]]
 
-## The Pantheon & Gods
+## The Pantheon, Gods, and Major Entities
 > [!info] [[Gods of Terra-Nova]]
+
+> [!info] [[Spirits]]
+
+> [!info] [[Primordials]]
 
 ## Geography
 > [!info] [[World Map]]

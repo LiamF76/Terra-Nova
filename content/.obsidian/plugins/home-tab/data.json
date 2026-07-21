@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "index.md",
+      "timestamp": 1784595828524
+    },
+    {
+      "filepath": "Dashboard.md",
+      "timestamp": 1784595826315
+    },
+    {
       "filepath": "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
       "timestamp": 1784592931697
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
       "timestamp": 1784592712506
-    },
-    {
-      "filepath": "Templates/Character Template.md",
-      "timestamp": 1784592509449
-    },
-    {
-      "filepath": "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
-      "timestamp": 1784592508694
     }
   ],
   "bookmarkedFileStore": [],

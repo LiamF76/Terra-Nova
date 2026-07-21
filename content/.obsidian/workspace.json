@@ -77,9 +77,23 @@
               "icon": "lucide-file",
               "title": "Shao Daraan"
             }
+          },
+          {
+            "id": "04b4cdc7712aebf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,14 +222,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c7be839945f1a48b",
+  "active": "04b4cdc7712aebf0",
   "lastOpenFiles": [
-    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
+    "Dashboard.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
+    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Templates/Character Template.md",
     "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
-    "Dashboard.md",
     "Terra-Nova/Creatures/Celestials/Spirits.md",
     "Templates/Creature Template.md",
     "Terra-Nova/Organizations/Major Factions.md",
