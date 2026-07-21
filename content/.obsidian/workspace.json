@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Terra-Nova/Creatures/Dragons/Dragons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Dragons"
             }
           }
         ],
@@ -224,6 +224,7 @@
   },
   "active": "04b4cdc7712aebf0",
   "lastOpenFiles": [
+    "index.md",
     "Dashboard.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
     "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
@@ -248,7 +249,6 @@
     "Terra-Nova/Resources/Gameplay Resources/Terra-Nova Primer.md",
     "Terra-Nova/Resources/Gameplay Resources/Races of Terra-Nova.md",
     "z Old/Old Geography/Old Akash/Akash.md",
-    "index.md",
     "z Images/Terra-Nova Primer-1784516631447.webp",
     "z Images/Terra-Nova Primer-1784516592913.webp",
     "Theme Test Note.md",
