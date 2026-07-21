@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Mani
 aliases:
   - The God of the Moon
@@ -10,7 +10,7 @@ tags:
 
 # Mani
 
-![[Mani-1784677927611.webp|300x362]]
+![[Mani-1784678183230.webp|300x472]]
 
 ---
 
