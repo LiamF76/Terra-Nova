@@ -7,12 +7,6 @@ tags:
   - Terra-Nova
 ---
 
-Name: 
-
-Voice: 
-- "The sssssun sssshall fall from the sssky, and into my gaping maw!"
-- 
-
 Description: gigantic celestial snake, 5 headed black serpent, eyes like the night sky, scales of gleaming crystalline onyx, vicious red fangs. He is a vicious and cunning master of evil, he desires to destroy all light in mortals hears and the world itself. He loves making deals, and is so immensely powerful he can give almost anything to those whom he can bind to his will, and once he has you in his grasp he squeezes until you die and then claims your soul for eternity.
 
 Important Info: 
@@ -36,10 +30,10 @@ Important Info:
 Balthazaar's voice is that of a serpent, vile and cunning, cryptic riddler who lies and hides his motivations. Balthazaar rarely speaks a truth, and when he does he layers it within tricks and falsehoods. His forked tongue causes him to hiss like a snake when he speaks.
 
 > [!quote]
-> "Quote"
+> "The sssssun sssshall fall from the sssky, and into my gaping maw!"
 
 > [!quote]
-> "Quote"
+> "Illllumaaan. I will destroy your precious ssssssun, so invincible you have hidden it away from me! You fear me!"
 
 ---
 
