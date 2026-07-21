@@ -5,6 +5,7 @@ aliases:
   - Shao
   - Daraan
   - God
+  - The Creator
 tags:
   - Terra-Nova
 ---

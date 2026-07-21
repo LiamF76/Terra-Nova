@@ -4,6 +4,7 @@ title: Character Template
 aliases:
   - Khal
   - Daraan
+  - The Destroyer
 tags:
   - Terra-Nova
 ---
@@ -17,7 +18,7 @@ Khal Daraan Counter: 87
 ---
 
 ## Name
-**Khal Daraan**, The End, The Doombringer, The Aspect of Apocalypse, Teacher of Truth
+**Khal Daraan**, The Destoryer, The End, The Doombringer, The Aspect of Apocalypse, Teacher of Truth
 
 ---
 
