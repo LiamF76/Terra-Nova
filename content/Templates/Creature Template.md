@@ -8,7 +8,7 @@ tags:
 
 # Creature Name
 
-## AKA: Ahamkara
+## AKA: 
 
 > [!quote]
 > "Quote here" - Source

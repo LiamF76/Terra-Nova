@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Templates/Creature Template.md",
+      "timestamp": 1784595930875
+    },
+    {
       "filepath": "Terra-Nova/Creatures/Dragons/Dragons.md",
       "timestamp": 1784595913847
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
       "timestamp": 1784592931697
-    },
-    {
-      "filepath": "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
-      "timestamp": 1784592931069
     }
   ],
   "bookmarkedFileStore": [],
