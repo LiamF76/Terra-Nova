@@ -30,8 +30,9 @@ Nothing matters but that everyone has fun, because that's all this was ever abou
 
 I love you all, and this world, our stories, our fantasy and wonder, its cool I think. Do what you want, try not to forget me! More importantly than me though, don't forget friendship, don't forget heroes, and don't stop being inspired by the greatness of our characters. That's all for the real message, below are going to be some tips for continuing the work.
 
-	- Daraan
+	- Until next time, Daraan
 
 
 Use templates, I have them provisioned in a folder.
 Every not should automatically be populated with the [[Basic Template]], if not apply it to every note you create. The Publish checkbox is set to push it to the Quartz page for the Wiki.
+Tag things properly for their world and meaning, it helps you stay focused, and understand connections.
