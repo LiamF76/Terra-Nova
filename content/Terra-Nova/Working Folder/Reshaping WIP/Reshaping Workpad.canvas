@@ -11,7 +11,7 @@
 		{"id":"52ee81f2c6f961f5","type":"text","text":"Beasts: Monsters, wild animals, trickery, shape-changing, sky","x":-700,"y":480,"width":540,"height":60},
 		{"id":"a08e91dc9c32fa83","type":"text","text":"Fate: ? Freedom of choice, disagreement on this as a domain?","x":-700,"y":560,"width":540,"height":60},
 		{"id":"76471c2c6b687766","type":"text","text":"Light: Subsumes light, life, hierarchy, and nature, superiority","x":-700,"y":-240,"width":540,"height":60},
-		{"id":"dfeb12a5b1ef983d","type":"text","text":"Gods all become combine to new domains and entirely new beings, or no longer exist.\nGods take more beastly and alien forms, Dragons or monstrous in some form, much less humanoid.\n\nThey are entirely new.","x":-1120,"y":-240,"width":400,"height":300},
+		{"id":"dfeb12a5b1ef983d","type":"text","text":"Gods all become combine to new domains and entirely new beings, or no longer exist.\nGods take more beastly and alien forms, Dragons or monstrous in some form, much less humanoid.\n\nThey are entirely new.","x":-1120,"y":-240,"width":400,"height":270},
 		{"id":"a1c5b1cb3139cc29","type":"text","text":"Tena, Illuman, Yagi\n**Lumena**","x":-40,"y":-240,"width":380,"height":60},
 		{"id":"9ca915c001c367d9","type":"text","text":"**Balthazaar**","x":-40,"y":-160,"width":380,"height":60},
 		{"id":"9a594118b182c607","type":"text","text":"Erebos, Jahaad, Oras\n**Erasaad**","x":-40,"y":-80,"width":380,"height":60},
@@ -22,8 +22,10 @@
 		{"id":"9b7af0c433d6977a","type":"text","text":"Choion, Iros\n**Grey choose**","x":-40,"y":320,"width":380,"height":60},
 		{"id":"30c109334b5356f2","type":"text","text":"Mira, Fulgrim, Skuld Ysor\n**Miragrim Ysor**","x":-40,"y":400,"width":380,"height":60},
 		{"id":"ca4c14c21dd311df","type":"text","text":"Silvarus, Aethor\n**Aevarus**","x":-40,"y":480,"width":380,"height":60},
-		{"id":"88192b80b7b12158","type":"text","text":"The Spinner, Destiny\n**Kamara**","x":-40,"y":555,"width":380,"height":70},
-		{"id":"87757aa798553085","x":-1120,"y":80,"width":400,"height":240,"type":"text","text":"What happens to people in the afterlife? GONE!\n\nEvery soul tied to a god's afterlife during the Reshaping is lost, likely forever. Those condemned to the Abyss funnily enough, are spared."}
+		{"id":"88192b80b7b12158","type":"text","text":"The Spinner, Destiny\n**Kamara Desos**","x":-40,"y":555,"width":380,"height":70},
+		{"id":"87757aa798553085","type":"text","text":"What happens to people in the afterlife? GONE!\n\nEvery soul tied to a god's afterlife during the Reshaping is lost, likely forever. Those condemned to the Abyss funnily enough, are spared.","x":-1120,"y":60,"width":400,"height":240},
+		{"id":"c4215869f8696a3d","x":-1120,"y":320,"width":400,"height":170,"type":"text","text":"Demigods become Spirits, they are synonymous, the existing ones are mutated to reflect their new divine parentage based on where their domain went."},
+		{"id":"0f347cafa6df3bc0","x":-1120,"y":510,"width":400,"height":270,"type":"text","text":"People forget, and forget they forgot. Context of Oblivati Mori, old Gods are unmade and replaced, and people know the new Gods as they did the old, pretty smooth transition.\nSome occult groups still worship the Old Gods as nameless faceless beings of forgotten power."}
 	],
 	"edges":[
 		{"id":"820fa8efccb43798","fromNode":"76471c2c6b687766","fromSide":"right","toNode":"a1c5b1cb3139cc29","toSide":"left"},
