@@ -31,8 +31,8 @@
               "state": {
                 "file": "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
                 "viewState": {
-                  "x": 31.850735294117182,
-                  "y": 223.4797794117646,
+                  "x": -809.1291176470588,
+                  "y": -32.352279411764854,
                   "zoom": -0.5491617792933096
                 }
               },
@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,11 +182,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4676271751870c5f",
+  "active": "be8c274bd9401f64",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Terra-Nova/Working Folder/Reshaping WIP/What is the Reshaping?.md",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
+    "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Working Folder/Break Glass..md",
     "conflict-files-obsidian-git.md",
@@ -214,7 +214,6 @@
     "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
     "Terra-Nova/Creatures/Celestials/Spirits.md",
     "Terra-Nova/Organizations/Major Factions.md",
-    "Terra-Nova/Organizations/Divine Groups/Primordials.md",
     "z Images/Spirits-1784518620410.webp",
     "z Images/Spirits-1784518542592.webp",
     "Terra-Nova/Creatures/Celestials",
