@@ -22,8 +22,49 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "bc87e27ed8db5267",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
+          },
+          {
+            "id": "076c0ab89829926f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
+                "viewState": {
+                  "x": 83.438232421875,
+                  "y": 297.35357666015625,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Reshaping Workpad"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +201,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "076c0ab89829926f",
   "lastOpenFiles": [
     "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
-    "Terra-Nova/Characters/Extraplanar/Gods/Mani.md",
+    "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
+    "Terra-Nova/Working Folder/Reshaping WIP/Reshaped Gods.md",
+    "Terra-Nova/Working Folder/Reshaping WIP",
+    "Terra-Nova/Organizations/Divine Groups/Primordials.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Dashboard.md",
+    "Pasted image 20260721224310.png",
+    "Terra-Nova/Characters/Extraplanar/Gods/Mani.md",
     "conflict-files-obsidian-git.md",
     "z Excalidraw/Aelarian Alphabet.md",
     "z Excalidraw/Arena Wind Puzzle.md",
@@ -185,12 +232,10 @@
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Green Dragon.png",
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Brass Dragon.png",
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Blue Dragon.png",
-    "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Black Dragon.png",
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Friend Fiend.md",
     "Terra-Nova/Resources/Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
     "Terra-Nova/Resources/Statblocks/Old Statblocks",
     "Terra-Nova/Resources/Statblocks/Homebrew Blocks",
-    "Terra-Nova/Resources/Statblocks",
     "Terra-Nova/Organizations/Religions & Cults/The Eternal Cycle.md",
     "Terra-Nova/Creatures/Dragons/Dragons.md",
     "Terra-Nova/Creatures/Celestials/Spirits.md",
@@ -204,9 +249,6 @@
     "Terra-Nova/Characters/People/Kendoltric.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Surge Golem.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 2.md",
-    "Terra-Nova/Characters/Undead/Kaalalriik.md",
-    "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
-    "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/Untitled.canvas",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
