@@ -22,26 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "d08271e222535685",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
-                "viewState": {
-                  "x": -323.32036764705845,
-                  "y": 340.5093382352943,
-                  "zoom": -0.5491617792933096
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Reshaping Workpad"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,11 +150,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d08271e222535685",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "Dashboard.md",
     "conflict-files-obsidian-git.md",
-    "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Nova/Working Folder/Reshaping WIP",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Mani.md",
@@ -200,7 +182,6 @@
     "Terra-Nova/Organizations/Major Factions.md",
     "Terra-Nova/Organizations/Divine Groups/Primordials.md",
     "Terra-Nova/World Codex/Lore Documents/The Dissonant Creations.md",
-    "Terra-Nova/Working Folder/WIP/Nothing Stuff.md",
     "z Images/Spirits-1784518620410.webp",
     "z Images/Spirits-1784518542592.webp",
     "Terra-Nova/Creatures/Celestials",
