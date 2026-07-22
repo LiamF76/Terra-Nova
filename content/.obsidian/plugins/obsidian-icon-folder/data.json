@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCloudRainWind",
       "LiStars",
       "LiCat",
       "LiSword",
-      "LiMap"
+      "LiMap",
+      "LiBookOpenText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,6 +38,7 @@
   "z Old": "LiTrash",
   "z Old/Old Geography": "LiMap",
   "Shop & Loot Tables": "LiDollarSign",
+  "Templates": "LiAtSign",
   "z Images": "LiCamera",
   "z Needs Sorted": "LiBinary",
   "Terra-Nova/videos": "LiTv",
@@ -59,8 +60,5 @@
   "Terra-Nova/Working Folder": "LiNotebookPen",
   "Arkfall": "LiStars",
   "Terra-Nova/World Codex": "LiBookOpenText",
-  "Terra-Nova/Creatures": "LiCat",
-  "z Old/Dashboard Cavnas.canvas": "LiCloudRainWind",
-  "z Excalidraw": "LiPen",
-  "Templates": "LiAtSign"
+  "Terra-Nova/Creatures": "LiCat"
 }

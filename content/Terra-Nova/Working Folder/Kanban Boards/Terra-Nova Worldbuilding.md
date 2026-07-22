@@ -18,6 +18,7 @@ kanban-plugin: list
 - [ ] [[Gods of Terra-Nova|Gods]]
 - [ ] [[Dragons]]
 - [ ] [[Divine Champions]]
+- [ ] [[Primordials]]
 
 
 ## Backlog
