@@ -17,7 +17,6 @@
 		{"id":"9a594118b182c607","type":"text","text":"Erebos, Jahaad, Oras\n**Erasaad**","x":-40,"y":-80,"width":380,"height":60},
 		{"id":"e6d28ce2bfc96f48","type":"text","text":"Malos, Aton, Oasis\n**Oa Maton**","x":-40,"y":0,"width":380,"height":60},
 		{"id":"acabfc769439b3ff","type":"text","text":"Vulcan, Rovan, Agni, Ishtar\n**Rocan Ashar**","x":-40,"y":80,"width":380,"height":60},
-		{"id":"2d880b11eb6b0e74","type":"text","text":"Telura, Ishtar, Aurum, REDACTED\n**Vestar Telarum**","x":-40,"y":160,"width":380,"height":60},
 		{"id":"cd2f45cdff0cdc3d","type":"text","text":"Kronos, Khabris Mani\n**Krokha Inam**","x":-40,"y":240,"width":380,"height":60},
 		{"id":"9b7af0c433d6977a","type":"text","text":"Choion, Iros\n**Grey choose**","x":-40,"y":320,"width":380,"height":60},
 		{"id":"30c109334b5356f2","type":"text","text":"Mira, Fulgrim, Skuld Ysor\n**Miragrim Ysor**","x":-40,"y":400,"width":380,"height":60},
@@ -25,7 +24,8 @@
 		{"id":"88192b80b7b12158","type":"text","text":"The Spinner, Destiny\n**Kamara Desos**","x":-40,"y":555,"width":380,"height":70},
 		{"id":"87757aa798553085","type":"text","text":"What happens to people in the afterlife? GONE!\n\nEvery soul tied to a god's afterlife during the Reshaping is lost, likely forever. Those condemned to the Abyss funnily enough, are spared.","x":-1120,"y":40,"width":400,"height":240},
 		{"id":"c4215869f8696a3d","x":-1120,"y":300,"width":400,"height":170,"type":"text","text":"Demigods become Spirits, they are synonymous, the existing ones are mutated to reflect their new divine parentage based on where their domain went."},
-		{"id":"0f347cafa6df3bc0","x":-1120,"y":485,"width":400,"height":270,"type":"text","text":"People forget, and forget they forgot. Context of Oblivati Mori, old Gods are unmade and replaced, and people know the new Gods as they did the old, pretty smooth transition.\nSome occult groups still worship the Old Gods as nameless faceless beings of forgotten power."}
+		{"id":"0f347cafa6df3bc0","x":-1120,"y":485,"width":400,"height":270,"type":"text","text":"People forget, and forget they forgot. Context of Oblivati Mori, old Gods are unmade and replaced, and people know the new Gods as they did the old, pretty smooth transition.\nSome occult groups still worship the Old Gods as nameless faceless beings of forgotten power."},
+		{"id":"2d880b11eb6b0e74","type":"text","text":"Telura, Ishtar, Aurum, REDACTED\n**Vest Telarum**","x":-40,"y":155,"width":380,"height":70}
 	],
 	"edges":[
 		{"id":"820fa8efccb43798","fromNode":"76471c2c6b687766","fromSide":"right","toNode":"a1c5b1cb3139cc29","toSide":"left"},
