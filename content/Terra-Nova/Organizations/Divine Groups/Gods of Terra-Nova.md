@@ -103,6 +103,7 @@ This pantheon governs the unbreakable truths of the world. Things that are mysti
 | Oras     | Dreams   |
 | Yagi     | Wonders  |
 | Casalina | Love     |
+| Rovan    | Courage  |
 
 **Religions**: 
 - [[The Choir of Silence]]
@@ -121,7 +122,6 @@ TBD
 | Oasis  | Forgiveness |
 | Aton   | Revenge     |
 | Choion | Poetry      |
-| Calina | Love        |
 | Aldred | Penance     |
 
 
