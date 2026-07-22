@@ -22,8 +22,26 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "80720946c3c97a18",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
+                "viewState": {
+                  "x": -392.7216176470588,
+                  "y": 130.94477941176447,
+                  "zoom": -0.5491617792933096
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Reshaping Workpad"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,10 +168,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "80720946c3c97a18",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "Dashboard.md",
+    "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Working Folder/Reshaping WIP",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",

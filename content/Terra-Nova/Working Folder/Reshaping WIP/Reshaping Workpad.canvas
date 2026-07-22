@@ -23,9 +23,9 @@
 		{"id":"ca4c14c21dd311df","type":"text","text":"Silvarus, Aethor\n**Aevarus**","x":-40,"y":480,"width":380,"height":60},
 		{"id":"88192b80b7b12158","type":"text","text":"The Spinner, Destiny\n**Kamara Desos**","x":-40,"y":555,"width":380,"height":70},
 		{"id":"87757aa798553085","type":"text","text":"What happens to people in the afterlife? GONE!\n\nEvery soul tied to a god's afterlife during the Reshaping is lost, likely forever. Those condemned to the Abyss funnily enough, are spared.","x":-1120,"y":40,"width":400,"height":240},
-		{"id":"c4215869f8696a3d","x":-1120,"y":300,"width":400,"height":170,"type":"text","text":"Demigods become Spirits, they are synonymous, the existing ones are mutated to reflect their new divine parentage based on where their domain went."},
-		{"id":"0f347cafa6df3bc0","x":-1120,"y":485,"width":400,"height":270,"type":"text","text":"People forget, and forget they forgot. Context of Oblivati Mori, old Gods are unmade and replaced, and people know the new Gods as they did the old, pretty smooth transition.\nSome occult groups still worship the Old Gods as nameless faceless beings of forgotten power."},
-		{"id":"2d880b11eb6b0e74","type":"text","text":"Telura, Ishtar, Aurum, REDACTED\n**Vest Telarum**","x":-40,"y":155,"width":380,"height":70}
+		{"id":"c4215869f8696a3d","type":"text","text":"Demigods become Spirits, they are synonymous, the existing ones are mutated to reflect their new divine parentage based on where their domain went.","x":-1120,"y":300,"width":400,"height":170},
+		{"id":"0f347cafa6df3bc0","type":"text","text":"People forget, and forget they forgot. Context of Oblivati Mori, old Gods are unmade and replaced, and people know the new Gods as they did the old, pretty smooth transition.\nSome occult groups still worship the Old Gods as nameless faceless beings of forgotten power.","x":-1120,"y":485,"width":400,"height":270},
+		{"id":"2d880b11eb6b0e74","type":"text","text":"Telura, Ishtar, Aurum, REDACTED\n**Vespar Telarum**","x":-40,"y":155,"width":380,"height":70}
 	],
 	"edges":[
 		{"id":"820fa8efccb43798","fromNode":"76471c2c6b687766","fromSide":"right","toNode":"a1c5b1cb3139cc29","toSide":"left"},
