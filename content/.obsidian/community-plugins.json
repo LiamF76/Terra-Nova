@@ -2,21 +2,15 @@
   "obsidian-style-settings",
   "calendarium",
   "obsidian-excalidraw-plugin",
-  "obsidian-leaflet-plugin",
   "better-word-count",
   "templater-obsidian",
   "obsidian-kanban",
-  "obsidian-annotator",
   "obsidian-icon-folder",
   "homepage",
   "home-tab",
-  "obsidian-5e-statblocks",
   "obsidian-dice-roller",
   "image-converter",
-  "obsidian-timeline",
   "dataview",
-  "buttons",
   "obsidian-git",
-  "obsidian-languagetool-plugin",
-  "mermaid-tools"
+  "obsidian-languagetool-plugin"
 ]

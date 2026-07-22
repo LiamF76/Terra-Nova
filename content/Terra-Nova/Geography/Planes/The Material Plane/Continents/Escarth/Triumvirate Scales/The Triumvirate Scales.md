@@ -16,7 +16,7 @@ Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small 
 - **Nation Name:** The Triumvirate Scales
 - **Nicknames / Epithets:** The Dragonlands, The Scaled Scar
 - **One‑Sentence Summary:** A nation ruled by a trio of dragons, where each of their hordes takes a corner of their triangular territory.
-- **What Makes It Unique:** Firstly ruled by dragons, secondly it is barely inhabited, the only people there are servants / followers of the dragons. Many worship them, others make deals with their rulers. It is a nation of monsters and outcasts, and travelling through it is a death sentence to all but the most skilled adventurers and warriors.
+- **What Makes It Unique:** Firstly ruled by dragons, secondly it is barely inhabited, the only mortals there are servants / followers of the dragons, or those trapped there by birth and circumstance. Many worship them, others make deals with their rulers in exchange for power or favor. It is a nation of monsters, slaves, and outcasts. Traveling through it is a death sentence to all but the most skilled adventurers and warriors.
 
 ---
 
@@ -31,7 +31,7 @@ Trio of Dragons, 3 hordes in mountains that make up a triangle territory. Small 
     - The Drowning Dream Swamp
 - **Environmental Magic (if any):**
     - Leylines
-    - Spirit presence
+    - Many Spirits call 
     - Undead zones
 - Planar bleed
 

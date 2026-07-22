@@ -22,8 +22,46 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "8687e3b5257ad0b7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
+          },
+          {
+            "id": "23a35ee870288530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gods of Terra-Nova"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,9 +200,41 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "23a35ee870288530",
   "lastOpenFiles": [
+    "Terra-Nova/Characters/Extraplanar/Gods/Mani.md",
+    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Dashboard.md",
+    "conflict-files-obsidian-git.md",
+    "z Excalidraw/Aelarian Alphabet.md",
+    "z Excalidraw/Arena Wind Puzzle.md",
+    "z Excalidraw/Arena Wind Puzzle Players.md",
+    "z Excalidraw",
+    "z DungeonScrawl/stormGate.ds",
+    "z DungeonScrawl/relicChamber.ds",
+    "z DungeonScrawl/conduitLegion.ds",
+    "z DungeonScrawl/dagnittBossRoom.ds",
+    "z DungeonScrawl/bloodstone pass boss.ds",
+    "z DungeonScrawl",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/legendary basilisk.png",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/kronos_cultist.png",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/Young White Dragon 1.png",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Time Dragon.png",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Red Dragon.png",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Moonstone Dragon.png",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Green Dragon.png",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Brass Dragon.png",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Blue Dragon.png",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Black Dragon.png",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks/Friend Fiend.md",
+    "Terra-Nova/Resources/Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
+    "Terra-Nova/Resources/Statblocks/Old Statblocks",
+    "Terra-Nova/Resources/Statblocks/Homebrew Blocks",
+    "Terra-Nova/Resources/Statblocks",
+    "Terra-Nova/Organizations/Religions & Cults/The Eternal Cycle.md",
+    "Terra-Nova/Creatures/Dragons/Dragons.md",
+    "Terra-Nova/Creatures/Celestials/Spirits.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/2. The Tablet of Ruin.md",
@@ -178,38 +248,6 @@
     "Terra-Nova/Characters/Undead/Kaalalriik.md",
     "Terra-Nova/Working Folder/Kanban Boards/The Valley of Broken Oaths.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 1.md",
-    "conflict-files-obsidian-git.md",
-    "z Images/Vespon Wolf-1784432654925.webp",
-    "z Images/Hound-1784431870001.webp",
-    "z Images/Dire Salamander-1784434232930.webp",
-    "z Images/Bolug-1784434386811.webp",
-    "Terra-Nova/Creatures/Beasts/Vespon Wolf.md",
-    "Terra-Nova/Creatures/Beasts/Swamp Drake.md",
-    "Terra-Nova/Creatures/Beasts/Bolug.md",
-    "Terra-Nova/Creatures/Beasts/Eltheer.md",
-    "Terra-Nova/Creatures/Dragons/Blue Dragon.md",
-    "Terra-Nova/Creatures/Beasts",
-    "Terra-Nova/Creatures/Dragons/Green Dragon.md",
-    "Terra-Nova/Creatures/Dragons/Black Dragon.md",
-    "Terra-Nova/Creatures/Dragons/Wish Dragon.md",
-    "Terra-Nova/Creatures/Dragons/Wind Dragon.md",
-    "z Images/Wish Dragon-1784402253228.webp",
-    "z Images/Wish Dragon-1784402225547.webp",
-    "z Images/Wish Dragon-1784396488083.webp",
-    "z Images/Wish Dragon-1784396285964.webp",
-    "Terra-Nova/World Codex/Timelines/Terra-Nova Campaigns Timeline.md",
-    "Terra-Nova/Campaigns/Campaigns Overview.md",
-    "z Images/Hunters of Kabir Primer-1784253817434.webp",
-    "z Images/Hunters of Kabir Primer-1784234085686.webp",
-    "Terra-Nova/Creatures/Elementals",
-    "Terra-Nova/Creatures/Dragons",
-    "Terra-Nova/Creatures",
-    "Terra-Nova/Campaigns/Hunters of Kabir",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/Player Characters",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/Past Sessions",
-    "Terra-Nova/Organizations/Extraplanar/Untitled",
-    "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales/Vesponous Territory",
-    "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/Untitled.canvas",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"

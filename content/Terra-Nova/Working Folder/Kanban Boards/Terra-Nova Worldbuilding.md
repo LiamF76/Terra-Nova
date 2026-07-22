@@ -12,29 +12,15 @@ kanban-plugin: list
 - [ ] [[Nothing Stuff]]
 
 
-## Lore Documents
+## Priority Build
 
-- [ ] [[To Read You Must be Blind]]
-- [ ] [[The City of Prophecy]]
-- [ ] [[Count your Pieces]]
-- [ ] [[The Tamoran Truth]]
-- [ ] [[A Child's Wish]]
-- [ ] TBD Green Knights
-	- Jerran
-
-
-## idk!
-
-- [ ] [[The Disciples of Iridescen]]
-- [ ] [[The Khal Hierarchy]]
-- [ ] [[Iridescen]]
-- [ ] [[Campaign & Quest Ideas]]
-- [ ] [[Triumvirate Scales Government]]
+- [x] [[Spirits]]
+- [ ] [[Gods of Terra-Nova|Gods]]
+- [ ] [[Dragons]]
+- [ ] [[Divine Champions]]
 
 
 ## Backlog
-
-- [ ] [[Gods of Terra-Nova|Gods]]
 
 
 
@@ -53,6 +39,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false],"full-list-lane-width":true}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false],"full-list-lane-width":true}
 ```
 %%

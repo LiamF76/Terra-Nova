@@ -15,6 +15,12 @@
 	- The Twisting Stars: Wahellia exists in a spacial / temporal rift where magic is very strong. Spirits walk the earth like Gods, and the dead rise and live again. Inside of this rift, the stars in the sky begin to twist and it looks almost like a spinning sky at night. This is unique to the Wahellian region. During the Twisting Stars, powerful astral forces invade and must be defeated before the ravage the land.
 - *Ivys Arthur Reborn*: Ivys Arthur, legendary White Wizard, demon, and son of Kairos, has finally passed after many hundreds of years of life. Aldros is seeking to create an Ark, a weapon imbued with the power of Khal Daraan's Nothing. In order to do this he needs the soul of a powerful individual, Ivys is the perfect choice due to his time abilities, the weapon gains unique properties based on the soul stolen to create it. He will attack with his Aspect at the funeral and attempt to steal the soul.
 	- [[TWOTTS Brainstorm]]
+- *The Reshaping*: Vesponous has a deep and cunning plan, one that somewhat aligns with the goals of the heroes. There are too many Gods, Scars along the world, and the chaos of Melantha and Ivar's actions have left the world slowly collapsing. the Dragon seeks to use her harnessed power to enact a Reshaping, in which the Gods will be fused into a smaller number of domains, using the Scars as power sources. This will rid the world of the Scars and the overpopulated Gods.
+	- The Reshaping will leave the world with only 11 Gods, forged from the Scars and fused old Gods / domains.
+
+| Life | Death | Light | Darkness | War | Fate | Knowledge | Trickery | Bonds | Craft | Time |
+| ---- | ----- | ----- | -------- | --- | ---- | --------- | -------- | ----- | ----- | ---- |
+|      |       |       |          |     |      |           |          |       |       |      |
 - 
 
 ---
