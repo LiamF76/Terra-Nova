@@ -39,6 +39,5 @@ Remember who we are, remember what we came here to do. This is not just writing,
 
 ---
 
-In case of emergency:
-[[Break Glass.]]
+In case of emergency, please [[Break Glass.]]
 
