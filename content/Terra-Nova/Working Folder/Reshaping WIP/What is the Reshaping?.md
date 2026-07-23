@@ -12,7 +12,8 @@ Melantha continues her work as Mother of Gods, with help from Ivys' research int
 
 ## The Plan
 
-- *The Scars*: The Scars are the power source for the Reshaping. One God per Scar, there are 11 Scars, so 11 Gods
+- *The Scars*: The Scars are the power source for the Reshaping. One God per Scar, there are 11 Scars, so 11 Gods. This will end the Abyssal poison that has corrupted the world for hundreds of years.
+- 
 
 ---
 
@@ -22,7 +23,7 @@ tbd
 
 ---
 
-### Old Gods Reshaped:
+## Old Gods Reshaped:
 
 - Tena, Illuman, Yagi → **Lumena**
 - → **Balthazaar**
