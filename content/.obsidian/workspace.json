@@ -27,17 +27,14 @@
             "id": "be8c274bd9401f64",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
-                "viewState": {
-                  "x": -390,
-                  "y": 217.5,
-                  "zoom": -0.6607300083391209
-                }
+                "file": "Terra-Nova/Working Folder/Reshaping WIP/What is the Reshaping?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Reshaping Workpad"
+              "icon": "lucide-file",
+              "title": "What is the Reshaping?"
             }
           }
         ],
@@ -170,8 +167,8 @@
   },
   "active": "be8c274bd9401f64",
   "lastOpenFiles": [
-    "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
+    "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells.md",
     "Terra-Nova/Working Folder/Reshaping WIP/What is the Reshaping?.md",
     "Dashboard.md",
