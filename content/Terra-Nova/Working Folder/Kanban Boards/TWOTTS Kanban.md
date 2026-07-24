@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## [[The Soulbreaker Legion]]
+## [[The Shaper Legion]]
 
 - [ ] [[Aldros]]
 - [ ] Selni
@@ -23,7 +23,7 @@ kanban-plugin: board
 
 ## Archive
 
-- [x] [[The Soulbreaker Legion]] Loyal Lieutenants
+- [x] [[The Shaper Legion]] Loyal Lieutenants
 	- [ ] Selni, Lord of Eyes
 	- [ ] Kotrok, Lord of Conviction
 

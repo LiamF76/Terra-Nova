@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Organizations/Armies/The Soulbreaker Legion.md",
+                "file": "Terra-Nova/Organizations/Armies/The Shaper Legion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Soulbreaker Legion"
+              "title": "The Shaper Legion"
             }
           },
           {
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,14 +209,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "a20b8c888495672e",
+  "active": "e1b173e37283962b",
   "lastOpenFiles": [
+    "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
     "z Images/Planes of Terra-Nova-1784911731365.webp",
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas",
-    "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
-    "Terra-Nova/Organizations/Armies/The Soulbreaker Legion.md",
+    "Terra-Nova/Organizations/Armies/The Shaper Legion.md",
     "Terra-Nova/Characters/Spirits/Convicted-in-War.md",
-    "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
     "Dashboard.md",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
@@ -249,7 +248,6 @@
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Moonstone Dragon.png",
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Green Dragon.png",
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Brass Dragon.png",
-    "Terra-Nova/Resources/Statblocks/Old Statblocks/Young Blue Dragon.png",
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Friend Fiend.md",
     "Terra-Nova/Resources/Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
     "Terra-Nova/Resources/Statblocks/Old Statblocks",
