@@ -57,19 +57,16 @@
             }
           },
           {
-            "id": "c81ebe00a21b1149",
+            "id": "d0f05ca697d1e735",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas",
-                "viewState": {
-                  "x": 70.60731262266927,
-                  "y": -45.578542962041524,
-                  "zoom": -0.02108213414912087
-                }
+                "file": "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "Planes of Terra-Nova"
             }
           }
@@ -212,12 +209,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "c81ebe00a21b1149",
+  "active": "d0f05ca697d1e735",
   "lastOpenFiles": [
+    "Planes of Terra-Nova-1784911731365.webp",
+    "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas",
+    "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
+    "Terra-Nova/Organizations/Armies/The Soulbreaker Legion.md",
+    "Terra-Nova/Characters/Spirits/Convicted-in-War.md",
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
     "Dashboard.md",
-    "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas",
-    "Terra-Nova/Organizations/Armies/The Soulbreaker Legion.md",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
@@ -259,8 +259,6 @@
     "Terra-Nova/Creatures/Celestials/Spirits.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/The Spire of Virtue.md",
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
-    "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/2. The Tablet of Ruin.md",
-    "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 3.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/Untitled.canvas",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"

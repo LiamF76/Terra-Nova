@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] [[Aldros]]
 - [ ] Selni
-- [ ] [[Kotrok]]
+- [ ] [[Convicted-in-War]]
 
 
 ## Hellstorm Clan
