@@ -14,6 +14,8 @@ While many members of the Triumvirate Scales army serve in Aldros' Legion, the m
 
 - [[Aldros]]
 
+---
+
 ## Loyal Lieutenants
 
 - Lord-of-Eyes
