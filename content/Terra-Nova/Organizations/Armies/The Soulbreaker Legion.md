@@ -7,17 +7,9 @@ tags:
   - Terra-Nova
 ---
 
-The Soulbreaker Legion is an army of the Triumvirate Scales, specifically serving the will of Aldros, Wyrm-Chosen.
+The Soulbreaker Legion is an army of the Triumvirate Scales, specifically serving the will of Aldros, Wyrm-Chosen. 
 
-```mermaid
-graph TD
-  A["Aldros, Wyrm-Chosen"]
-  B["Kotrok, The Convicted"]
-  C["Selni, Lord of Eyes"]
-
-  A --> B
-  A --> C
-```
+While many members of the Triumvirate Scales army serve in Aldros' Soulbreaker Legion, the most powerful of his followers receive the blessing of Aldros' power. They are reshaped, reborn as Echoes of their former selves, their will subsumed by that of Aldros, and they become vastly more powerful.
 
 ## Elite Members
 
@@ -27,6 +19,7 @@ graph TD
 
 #### Loyal Lieutenants
 
-- Selni, Lord of Eyes
-- [[Kotrok]], The Convicted
+- Selni, Lord-of-Eyes
+- [[Kotrok]], Convicted-in-War
+- 
 
