@@ -14,7 +14,7 @@ While many members of the Triumvirate Scales army serve in Aldros' Soulbreaker L
 
 - [[Aldros]]
 
-## Lieutenants
+## Loyal Lieutenants
 
 - Selni, Lord-of-Eyes
 - [[Kotrok]], Convicted-in-War
