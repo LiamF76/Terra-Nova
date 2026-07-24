@@ -35,7 +35,7 @@ Overview of involved factions and their goals. This will help inform creating un
 - **Blighted Forest (Part 1)**
 	- A large area of forest, rivers, and fields near a town has been stricken with blight. The party investigates and finds a corrupted nature spirit is spreading the sickness. They can save it or destroy it. The spirit has no eyes, and was corrupted by the Eye Mage (from part 2 below).
 - **Blighted Forest (Part 2)**
-	- A mage of the Soulbreaker Legion has destroyed a village, carving the eyes from every victim. He is corrupting a large region, stealing its life force for Aldros' Nothing. He must be stopped. (Fight where mage summons massive floating eyes that don't move but shoot ranged attacks at players, can be broken. Taken eyes inspiration).
+	- A mage of the Shaper Legion has destroyed a village, carving the eyes from every victim. He is corrupting a large region, stealing its life force for Aldros' Nothing. He must be stopped. (Fight where mage summons massive floating eyes that don't move but shoot ranged attacks at players, can be broken. Taken eyes inspiration).
 - **The Worm Brood**
 	- An Aspect of Aldros controls a breeding pool for massive earth eating half-dragon worm beasts. They will be used to invade Sovrentia underground, and need to be stopped.
 - **Chronovault Lupus**
@@ -45,13 +45,13 @@ Overview of involved factions and their goals. This will help inform creating un
 	- [[Chronovault Lupus Puzzle Key]] 
 	- Multiple delves into Chronovault Lupus? Similar to the Leviathan / Menagerie from Destiny
 - **Corpse Tithe**
-	- In service to Gravebinder, Aldros' Soulbreaker Legion demands tithe of dead bodies to be delivered to Gravebinder. Some town is being tithed as the party arrives, the Legion is picking those to execute and load up for transport. The leader is a demi-god son of Vesponous (a very weak one), he makes comments on Sobek's connection to Garthrax, welcome home, your mother misses you etc.
+	- In service to Gravebinder, Aldros' Shaper Legion demands tithe of dead bodies to be delivered to Gravebinder. Some town is being tithed as the party arrives, the Legion is picking those to execute and load up for transport. The leader is a demi-god son of Vesponous (a very weak one), he makes comments on Sobek's connection to Garthrax, welcome home, your mother misses you etc.
 - **Temporial's Elegy**
 	- The party completes the raid on the space station Temporial's Elegy, to free Ivys' soul from Graveglass.
 - **The Twisted Oak Temple**
 	- A (dark / evil) Bloodfir Druid of Vesponous is preaching and enacting horrors in her name within a corrupted temple to Tena. The Druid is damaging the land's connection to the Oakenheart, hoping to redirect the fading leylines to Vesponous, to siphon and steal the world's fleeting magic. The druid is using the weapon of a Green Knight as a focus for its dark magics, this belonged to [[Jerran]]'s master.
 - **Mysteries of the Deep**
-	- An Aspect of Aldros lies within an ancient and deep shrine to Khal Daraan. It meditates on the secrets of the Deep, delving into its mysteries for Vesponous. Delve into the far below ground temple, fight minions. Boss fight has a powerful warrior and a powerful mage of the Soulbreaker Legion, while Aldros' Aspect meditates.
+	- An Aspect of Aldros lies within an ancient and deep shrine to Khal Daraan. It meditates on the secrets of the Deep, delving into its mysteries for Vesponous. Delve into the far below ground temple, fight minions. Boss fight has a powerful warrior and a powerful mage of the Shaper Legion, while Aldros' Aspect meditates.
 - **Thalia Magic Fragments**
 	- Aldros has stolen [[Thalia]]'s magic through a curse on Alabaster's bloodline. In order to reclaim her magic she must destroy the Aspects of Aldros. Each Aspect returns a fragment of her magic. This could be buffs such as a stat increase, homebrew spells, or other benefits.
 - **[[Echo of the Guardian]]**
