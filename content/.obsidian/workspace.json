@@ -55,9 +55,38 @@
               "icon": "lucide-file",
               "title": "The Soulbreaker Legion"
             }
+          },
+          {
+            "id": "c81ebe00a21b1149",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Nova/Geography/Planes/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "f72742a459bd0052",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Planes of Terra-Nova"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,15 +220,19 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "canvas:Create new canvas": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "bases:Create new base": false
     }
   },
-  "active": "e1b173e37283962b",
+  "active": "c81ebe00a21b1149",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
+    "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
+    "Terra-Nova/Geography/Planes/Untitled.canvas",
     "Dashboard.md",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
+    "Terra-Nova/Organizations/Armies/The Soulbreaker Legion.md",
+    "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Working Folder/Reshaping WIP/What is the Reshaping.md",
     "Terra-Nova/Resources/Gameplay Resources/Orichalcum.md",
@@ -240,9 +273,6 @@
     "Terra-Nova/Campaigns/The Valley of Broken Oaths/TVBO Session 5.md",
     "Terra-Nova/World Codex/Lore Books/The Iridescent Tablets/2. The Tablet of Ruin.md",
     "Terra-Nova/dungeons/Raids/The Spire of Virtue/TSOV Encounter 3.md",
-    "Terra-Nova/Resources/Homebrew Statblocks/Kendoltric.md",
-    "Terra-Nova/Resources/Homebrew Statblocks/Jolt.md",
-    "Terra-Nova/Resources/Homebrew Statblocks/Current Wizard.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/Untitled.canvas",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"

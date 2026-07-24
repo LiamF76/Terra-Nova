@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"32b24c6ef1cecf9f","x":-180,"y":-300,"width":250,"height":60,"type":"text","text":"The Celestial Plane"},
+		{"id":"62fccefe25501ca7","x":-180,"y":-160,"width":250,"height":60,"type":"text","text":"The Ascendant Plane"}
+	],
+	"edges":[
+		{"id":"e618e6705b9f7472","fromNode":"62fccefe25501ca7","fromSide":"top","toNode":"32b24c6ef1cecf9f","toSide":"bottom"}
+	]
+}
