@@ -23,7 +23,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 # Terra-Nova
 
 > [!note] Terra-Nova Worldbuilding
-> ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]] | [[Lore Books]]
+> ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]] | [[Lore Books]] | [[Reshaping Workpad.canvas]]
 
 > [!note] Current Campaigns
 > ## [[TWOTTS Brainstorm]] | [[TWOTTS Kanban]] | [[TBSS Brainstorm]]
@@ -39,6 +39,5 @@ Remember who we are, remember what we came here to do. This is not just writing,
 
 ---
 
-In case of emergency:
-[[Break Glass.]]
+In case of emergency, please [[Break Glass.]]
 
