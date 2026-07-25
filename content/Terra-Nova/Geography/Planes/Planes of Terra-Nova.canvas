@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"22b2742c53330c8d","type":"text","text":"The Material Plane","x":-180,"y":-40,"width":250,"height":60},
+		{"id":"da1acb1842ed9b3e","type":"text","text":"The Abyss","x":-180,"y":140,"width":250,"height":60},
+		{"id":"f713657811c42e0f","type":"text","text":"The Feywild","x":-460,"y":20,"width":250,"height":60},
+		{"id":"9074f6d87578cb59","type":"text","text":"The Shadowfell","x":100,"y":20,"width":250,"height":60},
+		{"id":"62fccefe25501ca7","type":"text","text":"The Ascendant Plane","x":-180,"y":-200,"width":250,"height":60},
+		{"id":"5eb8a50b7c16c5d1","type":"text","text":"The Void","x":-180,"y":420,"width":250,"height":60},
+		{"id":"37eecbf73420ca99","type":"text","text":"The Temporal Plane","x":-180,"y":280,"width":250,"height":60},
+		{"id":"32b24c6ef1cecf9f","type":"text","text":"The Celestial Plane","x":-180,"y":-340,"width":250,"height":60},
+		{"id":"9c4cc3ed8d5cbed8","type":"text","text":"The Temporal Plane","x":-640,"y":-123,"width":250,"height":60},
+		{"id":"3eaa83be8ef40287","type":"text","text":"The Temporal Plane","x":280,"y":-123,"width":250,"height":60},
+		{"id":"a5005b4d83445dd5","type":"text","text":"The Temporal Plane","x":-180,"y":-440,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e618e6705b9f7472","fromNode":"62fccefe25501ca7","fromSide":"top","toNode":"32b24c6ef1cecf9f","toSide":"bottom"},
+		{"id":"52734687f35844e7","fromNode":"22b2742c53330c8d","fromSide":"top","toNode":"62fccefe25501ca7","toSide":"bottom"},
+		{"id":"b7744f3602a74c48","fromNode":"22b2742c53330c8d","fromSide":"bottom","toNode":"f713657811c42e0f","toSide":"right"},
+		{"id":"ab19b6edeca8364c","fromNode":"22b2742c53330c8d","fromSide":"bottom","toNode":"9074f6d87578cb59","toSide":"left"},
+		{"id":"3a6109b70eabf4ee","fromNode":"22b2742c53330c8d","fromSide":"bottom","toNode":"da1acb1842ed9b3e","toSide":"top"},
+		{"id":"71e6cc96d053b558","fromNode":"da1acb1842ed9b3e","fromSide":"bottom","toNode":"37eecbf73420ca99","toSide":"top"},
+		{"id":"1383830506c2a646","fromNode":"37eecbf73420ca99","fromSide":"bottom","toNode":"5eb8a50b7c16c5d1","toSide":"top"},
+		{"id":"6827a04d93ddefda","fromNode":"37eecbf73420ca99","fromSide":"right","toNode":"3eaa83be8ef40287","toSide":"bottom"},
+		{"id":"6e13e78bca18a230","fromNode":"37eecbf73420ca99","fromSide":"left","toNode":"9c4cc3ed8d5cbed8","toSide":"bottom"},
+		{"id":"8677372bf1ef7e24","fromNode":"9c4cc3ed8d5cbed8","fromSide":"top","toNode":"a5005b4d83445dd5","toSide":"left"},
+		{"id":"28ec71c82fd3d4f7","fromNode":"3eaa83be8ef40287","fromSide":"top","toNode":"a5005b4d83445dd5","toSide":"right"},
+		{"id":"a4c861b084a1657d","fromNode":"32b24c6ef1cecf9f","fromSide":"top","toNode":"a5005b4d83445dd5","toSide":"bottom"}
+	]
+}

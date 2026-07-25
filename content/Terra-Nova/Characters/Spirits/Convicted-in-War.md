@@ -8,7 +8,7 @@ tags:
 
 ![[Kotrok-1783990609025.webp|500x718]]
 
-Name: **Kotrok**, The Convicted
+Name: **Convicted-in-War**
 
 Voice: Voice Description
 - Example Dialogue
@@ -17,3 +17,5 @@ Description: Appearance & vibe description
 
 Important Info: 
 - Shadow Spirit, bound to Aldros by his armor. 
+- Reshaped by Aldros
+- 
