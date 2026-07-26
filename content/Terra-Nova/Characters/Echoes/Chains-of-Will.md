@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: Chains-of-Will
 aliases:
 tags:
   - Terra-Nova
@@ -13,7 +13,7 @@ tags:
 ---
 
 ## Name
-**Chains-of-Will**, titles, epithets
+**Chains-of-Will**
 
 ---
 
