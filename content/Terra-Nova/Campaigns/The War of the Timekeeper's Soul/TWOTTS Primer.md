@@ -1,7 +1,8 @@
 ---
-publish: false
-title:
+publish: true
+title: TWOTTS Primer
 aliases:
+  - The War of the Timekeeper's Soul
 tags:
   - Terra-Nova
 ---
