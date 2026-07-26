@@ -4,6 +4,12 @@ kanban-plugin: board
 
 ---
 
+## Campaign Prep
+
+- [ ] TWOTTS Moodboard
+- [ ] TWOTTS Primer
+
+
 ## [[The Shaper Legion]]
 
 - [ ] [[Aldros]]
@@ -29,6 +35,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
