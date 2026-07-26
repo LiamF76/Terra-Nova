@@ -21,4 +21,5 @@ While many members of the Triumvirate Scales army serve in Aldros' Legion, the m
 - Lord-of-Eyes
 - [[Convicted-in-War]]
 - [[Chains-of-Will]]
+- 
 

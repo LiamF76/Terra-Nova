@@ -36,23 +36,9 @@
               "icon": "lucide-file",
               "title": "TWOTTS Brainstorm"
             }
-          },
-          {
-            "id": "e3a12577505bb345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Organizations/Armies/The Shaper Legion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Shaper Legion"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,13 +175,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e3a12577505bb345",
+  "active": "0f4bc5b10273368b",
   "lastOpenFiles": [
+    "Terra-Nova/Organizations/Armies/The Shaper Legion.md",
     "Terra-Nova/Characters/Echoes/Chains-of-Will.md",
     "Chains-of-Will-1785108538259.webp",
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Arrow of Time.md",
     "Chains-of-Will-1785108294436.webp",
-    "Terra-Nova/Organizations/Armies/The Shaper Legion.md",
     "Terra-Nova/Characters/Echoes/Echo of the Guardian.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Characters/Echoes",
