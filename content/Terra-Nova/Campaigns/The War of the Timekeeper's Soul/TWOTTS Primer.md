@@ -28,6 +28,8 @@ Hello and welcome to another exciting campaign in the world of Terra-Nova! I am 
 
 In keeping with our general campaign themes, roleplay between character including heartfelt connections and difficult arguments is encouraged. We will explore your past alongside that of the world and characters, so please be ready to look inwards as well as ahead! You are the main characters, be legendary!
 
+Please see the Mood Board **INSERT EXTERNAL LINK HERE** as well to understand the vibe and aesthetics of the campaign!
+
 ---
 
 # The War of the Timekeeper's Soul
