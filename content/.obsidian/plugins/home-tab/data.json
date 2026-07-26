@@ -1,8 +1,8 @@
 {
-  "logoType": "imagePath",
+  "logoType": "default",
   "logo": {
     "lucideIcon": "",
-    "imagePath": "z Images/fantasy.png",
+    "imagePath": "",
     "imageLink": ""
   },
   "logoScale": 1.2,
@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/Untitled.md",
-      "timestamp": 1785082372521
+      "filepath": "Dashboard.md",
+      "timestamp": 1785086077133
     },
     {
       "filepath": "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
-      "timestamp": 1785082337695
+      "timestamp": 1785086075235
     },
     {
-      "filepath": "Dashboard.md",
-      "timestamp": 1785082237477
+      "filepath": "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
+      "timestamp": 1784940239016
+    },
+    {
+      "filepath": "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas",
+      "timestamp": 1784940238272
+    },
+    {
+      "filepath": "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
+      "timestamp": 1784940229718
     }
   ],
   "bookmarkedFileStore": [],
@@ -41,6 +49,6 @@
   "replaceNewTabs": true,
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
-  "omnisearch": true,
+  "omnisearch": false,
   "showOmnisearchExcerpt": true
 }
