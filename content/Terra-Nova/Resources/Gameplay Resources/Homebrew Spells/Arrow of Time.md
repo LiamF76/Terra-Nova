@@ -10,7 +10,7 @@ tags:
 
 | Spell Level | School      | Casting Time | Range | Components                                   | Duration      | Classes          |
 | ----------- | ----------- | ------------ | ----- | -------------------------------------------- | ------------- | ---------------- |
-| 3rd         | Conjuration | 1 action     | 90ft  | V, S, M (a bronze pocket watch worth 25+ GP) | Instantaneous | Sorcerer, Wizard |
+| 4th         | Conjuration | 1 action     | 90ft  | V, S, M (a bronze pocket watch worth 25+ GP) | Instantaneous | Sorcerer, Wizard |
 
 You conjure a spectral clock face that hurls its hands like blades at up to two creatures within range. Make a separate ranged spell attack roll for each hand. You can target the same creature with both hands.
 
