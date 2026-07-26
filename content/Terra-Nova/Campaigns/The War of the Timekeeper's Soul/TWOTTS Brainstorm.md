@@ -78,15 +78,15 @@ Overview of involved factions and their goals. This will help inform creating un
 
 ## Rough Outline
 
-[[TWOTTS Pointcrawl]]
-
 ### ACT 1:
 - **SITUATIONS, FACTIONS, GOALS:**
 	- [[Aldros]] searching for a way into the Temporal Plane
 		- 
 	- Azark gathering materials for ritual to bring Kairothrax back to life
 	- Party is headed to Sunset.
-- 
+- Beginning: First sessions
+	- Ship to the Purple Tower. Party takes ship across the water, storm of oil rain ensues and they are attacked by a corrupted ocean spirit (very small leviathan)
+	- Funeral, meeting NPCs, the ritual of Ivys' soul. Ritual is interrupted and the party is trapped within
 ### ACT 2:
 - Focus on stopping the demons / Kairothrax
 - BBEG of this act is [[Azark]]
