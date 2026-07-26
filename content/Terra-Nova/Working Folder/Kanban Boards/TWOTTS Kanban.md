@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] TWOTTS Moodboard
 - [ ] [[TWOTTS Primer]]
+- [ ] [[TWOTTS Brainstorm]]
 
 
 ## [[The Shaper Legion]]
