@@ -67,3 +67,4 @@ This campaign will cover multiple settings and major locations across it's lengt
 
 - *The Throne of Aldros*: Through the secrets of the deep, Aldros has manifested one of the most terrible powers in history. Last employed by the legendary evil Thladrax, the Hand of Night, Aldros has constructed his own Throne World within the Ascendant Plane (similar to a God's plane within the Celestial Plane). Adventure through Aldros' memories, and discover his powers and weakness through battle with his many Aspects.
 
+There will be other major locations and areas we explore, but those cards are staying in the DM's hand until the right time.
