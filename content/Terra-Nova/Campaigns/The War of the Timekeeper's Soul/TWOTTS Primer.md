@@ -61,7 +61,7 @@ You will scour ruins and forgotten lands for pieces of lore, legendary artifacts
 
 This campaign will cover multiple settings and major locations across it's length. In the interest of not spoiling great reveals here are the major ones you will know of.
 
-- *The Triumvirate Scales*: A land once peaceful, green, and good. This Kingdom of Dragons is now alien and corrupted. The landscape is twisted by dark magics, filled with undead who serve the Gravebinder, bloodthirsty warlords who follow Garthrax, and goblin cults who worship Vesponous.
+- *The Triumvirate Scales*: A land once peaceful, green, and good. This Kingdom of Dragons is now alien and corrupted. The landscape is twisted by dark magics, filled with undead who serve the Gravebinder, bloodthirsty warlords who follow Garthrax, and goblin cults who worship Vesponous. Face a hostile and dark land head on, and prove you can survive its tests.
 
 - *Ivys' Chronovault*: An endless structure that spans space and time itself, Ivys' Chronovault contains multitudes of his history, artifacts, and enemies. You will face great foes of the past to unlock Ivys' secrets, and gather information and power to protect his soul
 
