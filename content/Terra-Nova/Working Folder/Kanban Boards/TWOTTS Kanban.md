@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Campaign Prep
 
 - [ ] TWOTTS Moodboard
-- [ ] TWOTTS Primer
+- [ ] [[TWOTTS Primer]]
 
 
 ## [[The Shaper Legion]]
