@@ -84,8 +84,9 @@ Overview of involved factions and their goals. This will help inform creating un
 		- 
 	- Azark gathering materials for ritual to bring Kairothrax back to life
 	- Party is headed to Sunset.
-- Beginning: First sessions
-	- Travel by ship, oily black rain, rift in heaven stuff, Funeral, meeting NPCs, the ritual of Ivys' soul. Ritual is interrupted and the party is trapped within
+- Travel by ship, (Aldred abandons the heavens) oily black rain & a rift in celestial power appears, Funeral, meeting NPCs, the ritual of Ivys' soul. Ivys coffin is deteriorating due to the rift's presence, must accelerate the timeline of the ritual. Ritual is interrupted and the party is trapped within the Purple Tower by Aldros, have to fight their way out
+- 
+
 ### ACT 2:
 - Focus on stopping the demons / Kairothrax
 - BBEG of this act is [[Azark]]
