@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Templates/Untitled.md",
+      "filepath": "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Untitled.md",
+      "timestamp": 1785100600034
+    },
+    {
+      "filepath": "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Kendoltric's Storm Orb.md",
+      "timestamp": 1785100597466
+    },
+    {
+      "filepath": "Templates/Homebrew Spell Template.md",
       "timestamp": 1785100546399
     },
     {
@@ -32,16 +40,8 @@
       "timestamp": 1785100537928
     },
     {
-      "filepath": "Terra-Nova/Resources/Gameplay Resources/Kendoltric's Storm Orb.md",
-      "timestamp": 1785100496476
-    },
-    {
       "filepath": "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
       "timestamp": 1785100387927
-    },
-    {
-      "filepath": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
-      "timestamp": 1785100238224
     }
   ],
   "bookmarkedFileStore": [],

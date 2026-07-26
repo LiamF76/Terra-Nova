@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homebrew Spell Template.md",
+                "file": "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Arrow of Time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homebrew Spell Template"
+              "title": "Arrow of Time"
             }
           }
         ],
@@ -177,9 +177,10 @@
   },
   "active": "135bb6845649b8d2",
   "lastOpenFiles": [
+    "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Kendoltric's Storm Orb.md",
+    "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Arrow of Time.md",
     "Templates/Homebrew Spell Template.md",
     "Dashboard.md",
-    "Terra-Nova/Resources/Gameplay Resources/Kendoltric's Storm Orb.md",
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells",
     "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
@@ -224,7 +225,6 @@
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Friend Fiend.md",
     "Terra-Nova/Resources/Statblocks/Homebrew Blocks/Dragon Priest Statblock.md",
     "Terra-Nova/Resources/Statblocks/Old Statblocks",
-    "Terra-Nova/Organizations/Religions & Cults/The Eternal Cycle.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/Untitled.canvas",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
