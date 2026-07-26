@@ -85,6 +85,12 @@ Overview of involved factions and their goals. This will help inform creating un
 	- Azark gathering materials for ritual to bring Kairothrax back to life
 	- Party is headed to Sunset.
 - Travel by ship, (Aldred abandons the heavens) oily black rain & a rift in celestial power appears, Funeral, meeting NPCs, the ritual of Ivys' soul. Ivys coffin is deteriorating due to the rift's presence, must accelerate the timeline of the ritual. Ritual is interrupted and the party is trapped within the Purple Tower by Aldros, have to fight their way out
+	- 5 Room design
+		- 1. The Ritual, party has to fight a manifestation of Kairothrax while Melantha and Ryfon split Ivys' soul.
+		- 2. Ritual deteriorates, as Kairothrax is defeated it needs to be lured back into the ritual circle with something Ivys felt greed towards
+		- 3. The ritual is broken. As Kairothrax is returned, Aldros enters the Purple Tower and engages Melantha and Ryfon (weakened by heaven / rift stuff). Party is teleported to the basement of the Purple Tower. 
+		- 4. Fight against an Echo (one of Aldros' minions) to escape the basement and return to the Ritual site.
+		- 5. Aldros has destoryed the material plane beneath the Purple Tower, forcing Ryfon to use powerful nature magic to keep the Island afloat. Melantha is weakened and has to leave the tower to handle the heavens, mentions needing to meet with Hypatia again (may need to accelerate their plans). Party is dispatched to search for Ivys' soul that escaped (Ryfon gives them direction to [[Morwyn]].)
 - 
 
 ### ACT 2:
