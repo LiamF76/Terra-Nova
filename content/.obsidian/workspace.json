@@ -27,23 +27,14 @@
             "id": "96f31daa532b8c4a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Terra-Nova/Bestiary/Woven/Woven.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Terra-Nova Worldbuilding"
+              "icon": "lucide-file",
+              "title": "Woven"
             }
           }
         ],
@@ -174,13 +165,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e34a2393bb44142e",
+  "active": "96f31daa532b8c4a",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Terra-Nova/Bestiary/Woven/Woven.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Bestiary/Woven",
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
     "Terra-Nova/Characters/Extraplanar/Temporal/Woven",
     "Terra-Nova/Characters/Extraplanar/Temporal",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Campaigns/Play by Post/The Black Sun Sets/TBSS Brainstorm.md",
@@ -206,7 +199,6 @@
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Kendoltric's Storm Orb.md",
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Arrow of Time.md",
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells",
-    "Terra-Nova/Characters/Echoes/Echo of the Guardian.md",
     "Terra-Nova/Characters/Echoes",
     "z Images/Chains-of-Will-1785108538259.webp",
     "z Images/Chains-of-Will-1785108294436.webp",
@@ -219,11 +211,10 @@
     "z Images/Balthazaar-1784602096679.webp",
     "z Images/Spirits-1784518620410.webp",
     "z Images/Spirits-1784518542592.webp",
-    "Terra-Nova/Bestiary & Lexicon/Celestials",
+    "Terra-Nova/Bestiary/Celestials",
     "z Old/Dashboard Cavnas.canvas",
-    "Terra-Nova/Bestiary & Lexicon/Beasts",
+    "Terra-Nova/Bestiary/Beasts",
     "Terra-Nova/Creatures/Elementals",
-    "Terra-Nova/Bestiary & Lexicon/Dragons",
-    "Terra-Nova/Campaigns/Hunters of Kabir"
+    "Terra-Nova/Bestiary/Dragons"
   ]
 }
