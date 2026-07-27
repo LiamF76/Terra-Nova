@@ -18,7 +18,8 @@ IMAGE HERE
 
 **Physical Appearance:** 
 
-**History / Lore:** 
+**History / Lore:** [[A Unique Rhetoric]]. 
+Rhetoric is a fragment of Kairos created by Ivys. Rhetoric was born when Ivys tried creating a replicant of himself using his right horn as biological material, but instead of Kairos he got Rhetoric, a broken memory based information system, not a full being.
 
 ## Mechanics
 
