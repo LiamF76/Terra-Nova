@@ -24,21 +24,43 @@
             }
           },
           {
-            "id": "e2c4abd9af0b2478",
+            "id": "7e2afcd84d46b4d1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "TWOTTS Kanban"
+            }
+          },
+          {
+            "id": "6ffe6be7766ff41e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
+                "file": "Templates/Session Prep Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TWOTTS Brainstorm"
+              "title": "Session Prep Template"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,9 +187,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e2c4abd9af0b2478",
+  "active": "6ffe6be7766ff41e",
   "lastOpenFiles": [
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Session 1 Prep.md",
+    "Templates/Session Prep Template.md",
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
+    "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "Dashboard.md",
+    "Terra-Nova/Resources/Homebrew Statblocks/Chains-of-Will.md",
+    "Terra-Nova/Resources/Homebrew Statblocks/Surge Golem.md",
+    "Terra-Nova/Resources/Homebrew Statblocks/Kendoltric.md",
+    "Terra-Nova/Resources/Homebrew Statblocks/Jolt.md",
+    "Terra-Nova/Resources/Homebrew Statblocks/Current Wizard.md",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Kendoltric's Storm Orb.md",
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Arrow of Time.md",
@@ -177,12 +208,10 @@
     "Terra-Nova/Characters/Echoes/Chains-of-Will.md",
     "Terra-Nova/Characters/Echoes",
     "Templates/Homebrew Spell Template.md",
-    "Chains-of-Will-1785108538259.webp",
-    "Chains-of-Will-1785108294436.webp",
+    "z Images/Chains-of-Will-1785108538259.webp",
+    "z Images/Chains-of-Will-1785108294436.webp",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Primer.md",
     "z Old/old player docs/Ryfon Loredump.md",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
-    "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "Terra-Nova/Characters/People/Horus.md",
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas",
@@ -193,16 +222,9 @@
     "Terra-Nova/Characters/Spirits/Convicted-in-War.md",
     "Terra-Nova/Characters/Extraplanar/Gods/Shao Daraan.md",
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-    "Terra-Nova/Working Folder/Break Glass..md",
     "Terra-Nova/Working Folder/Reshaping WIP",
-    "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Terra-Nova/Characters/Extraplanar/Gods/Mani.md",
     "z Images/Mani-1784678183230.webp",
     "z Images/Mani-1784677927611.webp",
-    "Terra-Nova/Geography/Space/Cosmology.md",
-    "Arkfall/Worlds/Cosmology.md",
-    "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
     "z Images/Balthazaar-1784602096679.webp",
     "z Images/Spirits-1784518620410.webp",
     "z Images/Spirits-1784518542592.webp",
