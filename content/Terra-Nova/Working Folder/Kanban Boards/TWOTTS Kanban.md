@@ -6,16 +6,17 @@ kanban-plugin: board
 
 ## Campaign Prep
 
-- [ ] TWOTTS Moodboard
-- [ ] [[TWOTTS Primer]]
 - [ ] [[TWOTTS Brainstorm]]
+- [x] TWOTTS Moodboard
+	Completed on pinterest.
+- [x] [[TWOTTS Primer]]
 
 
 ## [[The Shaper Legion]]
 
 - [ ] [[Aldros]]
-- [ ] Selni
 - [ ] [[Convicted-in-War]]
+- [ ] Lord-of-Eyes
 
 
 ## Hellstorm Clan

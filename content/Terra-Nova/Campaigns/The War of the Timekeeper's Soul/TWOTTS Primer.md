@@ -47,6 +47,8 @@ He has planned to excise his mortal soul (gained through years of life as a Less
 
 Many groups desire control of a soul like Ivys' and as a result both Melantha's companions, and representatives of the Abyss have been invited to the Purple Tower for the funeral, where they have agreed to act in peace and in the interest of the shared goal: protecting Ivys' soul.
 
+---
+
 ## Our Quest
 
 With Ivys, nothing ever goes to plan. Chaos ensues, and while Melantha and Ryfon endeavor to find solutions to the seeming end of the world, you will search for signs of Ivys, and make war against the followers of evil as he once did.

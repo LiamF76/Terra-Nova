@@ -1,14 +1,12 @@
 ---
-publish: true
-title: Homebrew Spells
+publish: false
+title:
 aliases:
 tags:
   - Terra-Nova
 ---
 
-
----
-## Kendoltric's Storm Orb
+## Spell Name
 
 | Spell Level | School    | Casting Time | Range | Components                       | Duration      | Classes          |
 | ----------- | --------- | ------------ | ----- | -------------------------------- | ------------- | ---------------- |
