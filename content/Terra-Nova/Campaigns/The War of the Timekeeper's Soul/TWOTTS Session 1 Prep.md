@@ -20,7 +20,7 @@ Session Date:
 
 #### **The Timekeeper Rests**
 
-DM NOTE: Pre-Ritual, meet with Melantha / Ryfon and discuss tablet / Valley events, black rain, rift in heaven, Mel and Ryf are weakened by these events significantly. Separate the RP, Mel first then Ryf as they take turns viewing / saying goodbye to Ivys.
+DM NOTE: Pre-Ritual, meet with Melantha / Ryfon and discuss tablet / Valley events, black rain, rift in heaven, Mel and Ryf are weakened by these events significantly. Separate the RP, Mel first then Ryf as they take turns viewing / saying goodbye to Ivys. Ivys left a codex for 'the next generation'. Melantha gifts it to the party. Melantha also reads Ivys' final testament, [[If You're Reading this it's too Early]], provide this lore entry to the party.
 
 *Set the Scene*: TBD
 
