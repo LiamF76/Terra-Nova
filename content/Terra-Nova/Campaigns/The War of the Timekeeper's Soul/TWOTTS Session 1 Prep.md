@@ -58,7 +58,7 @@ TBD
 
 #### **TBD**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: The ritual is broken and the Purple Tower is under attack. As Kairothrax is contained once again, Aldros enters the Purple Tower and engages Melantha and Ryfon (weakened by heaven / rift stuff). Party is teleported to the basement of the Purple Tower. 
 
 *Set the Scene*: TBD
 
