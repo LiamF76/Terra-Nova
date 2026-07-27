@@ -10,12 +10,12 @@ tags:
 
 # Name
 
-image here
+![[Kairothrax-1785121499338.webp|300x300]]
 
 ---
 
 ## Name
-**Name**, titles, epithets
+**Kairothrax**, The Time Demon, Shadow of Kairos
 
 ---
 
