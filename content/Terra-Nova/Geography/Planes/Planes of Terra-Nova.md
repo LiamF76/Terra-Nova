@@ -14,7 +14,7 @@ This is a map & overview of the planar geography of Terra-Nova.
 
 ### The Temporal Plane
 
-The physical mortal world. This land has diverse climates and peoples, maintained by the natural light of Nova-Magnus, and the magical leylines directed by the Oakenheart.
+The physical mortal world. This land has diverse climates and peoples, maintained by the natural light of Nova-Magnus, and the magical leylines directed by the Oakenheart. It is inhabited by mortals, Spirits, Dragons, and all manner of beasts and magical creatures.
 
 ---
 
