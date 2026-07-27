@@ -43,7 +43,7 @@ TBD
 
 #### **TBD**
 
-DM NOTE: The Ritual, party has to fight a manifestation of [[Kairothrax]] while Melantha and Ryfon split Ivys' soul.
+DM NOTE: The Ritual, party has to fight a manifestation of [[Kairothrax]] while Melantha and Ryfon split Ivys' soul. Combat of one medium difficulty demon and a bunch of little adds.
 
 *Set the Scene*: TBD
 
