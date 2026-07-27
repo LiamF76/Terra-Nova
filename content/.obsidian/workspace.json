@@ -24,25 +24,17 @@
             }
           },
           {
-            "id": "7e2afcd84d46b4d1",
+            "id": "3e537793ab77ff82",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "TWOTTS Kanban"
+              "icon": "lucide-file",
+              "title": "Planes of Terra-Nova"
             }
           }
         ],
@@ -173,11 +165,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7e2afcd84d46b4d1",
+  "active": "3e537793ab77ff82",
   "lastOpenFiles": [
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Campaigns/Play by Post/The Black Sun Sets/TBSS Brainstorm.md",
     "Terra-Nova/Organizations/Armies/The Shaper Legion.md",
     "Terra-Nova/Characters/Echoes/Keeper-of-Fire.md",
@@ -203,7 +196,6 @@
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells",
     "Terra-Nova/Characters/Echoes/Echo of the Guardian.md",
     "Terra-Nova/Characters/Echoes/Convicted-in-War.md",
-    "Terra-Nova/Characters/Echoes/Chains-of-Will.md",
     "Terra-Nova/Characters/Echoes",
     "z Images/Chains-of-Will-1785108538259.webp",
     "z Images/Chains-of-Will-1785108294436.webp",

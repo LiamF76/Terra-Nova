@@ -19,6 +19,7 @@ kanban-plugin: list
 - [ ] [[Dragons]]
 - [ ] [[Divine Champions]]
 - [ ] [[Primordials]]
+- [ ] [[Planes of Terra-Nova]]
 
 
 ## Backlog
