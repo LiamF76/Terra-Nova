@@ -20,7 +20,9 @@ kanban-plugin: board
 
 - [ ] [[Aldros]]
 - [ ] [[Convicted-in-War]]
-- [ ] Lord-of-Eyes
+- [ ] [[Lord-of-Eyes]]
+- [ ] [[Keeper-of-Fire]]
+- [ ] [[Terra-Nova/Characters/Echoes/Chains-of-Will|Chains-of-Will]]
 
 
 ## Hellstorm Clan
