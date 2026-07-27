@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Dashboard.md",
+      "timestamp": 1785118085460
+    },
+    {
       "filepath": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Primer.md",
-      "timestamp": 1785088584319
-    },
-    {
-      "filepath": "z Old/old player docs/Ryfon Loredump.md",
-      "timestamp": 1785088576266
-    },
-    {
-      "filepath": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
-      "timestamp": 1785087567999
-    },
-    {
-      "filepath": "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
-      "timestamp": 1785087551820
-    },
-    {
-      "filepath": "Terra-Nova/Characters/People/Horus.md",
-      "timestamp": 1785087540624
+      "timestamp": 1785118085180
     }
   ],
   "bookmarkedFileStore": [],
