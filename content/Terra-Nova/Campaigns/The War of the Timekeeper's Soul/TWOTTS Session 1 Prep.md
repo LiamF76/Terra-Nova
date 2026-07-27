@@ -31,8 +31,9 @@ TBD
 - Where did you get that tablet, and why did it choose Sobek?
 - 4 cities in New Estorias have fallen to the Triumvirate's Wyrm-Chosen, Aldros. He battled one of Horus Hixs most powerful knights, a wielder of some ancient power, and won. There are reports of Aldros using a new dark magic, he is 'doing something' to his foes. No bodies have been found at the ruins of the cities.
 - She needs help to conduct the ritual with Ivys' soul, will you help?
-- Ivys left a few gifts for the 'next generation', if they agree to help her with the ritual and discover more about the Tablet / Aldros, she will give them to you. (Scarab locket, [[Rhetoric]])
+- Ivys left a few gifts for the 'next generation', if they agree to help her with the ritual and discover more about the Tablet / Aldros, she will give them to you. (Scarab locket, Ivys' horn [[Rhetoric]])
 - She warns the end of things is still coming, but she along with other allies of life are working to halt the end. The most helpful thing the party can do is to work against Aldros, and prevent further catastrophe caused by the Triumvirate Dragons.
+- She is not asking them to defeat the dragons, but she does need Aldros halted for her plans to succeed.
 - 
   
 
