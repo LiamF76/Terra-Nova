@@ -20,7 +20,7 @@ Session Date:
 
 #### **The Timekeeper Rests**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Pre-Ritual, meet with Melantha / Ryfon and discuss tablet / Valley events, black rain, rift in heaven, Mel and Ryf are weakened by these events significantly. Separate the RP, Mel first then Ryf as they take turns viewing / saying goodbye to Ivys.
 
 *Set the Scene*: TBD
 
@@ -32,7 +32,7 @@ TBD
 
 #### **TBD**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: The Ritual, party has to fight a manifestation of Kairothrax while Melantha and Ryfon split Ivys' soul.
 
 *Set the Scene*: TBD
 
@@ -46,7 +46,7 @@ TBD
 
 #### **TBD**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Ritual deteriorates, as Kairothrax is defeated it needs to be lured back into the ritual circle with something Ivys felt greed towards
 
 *Set the Scene*: TBD
 
