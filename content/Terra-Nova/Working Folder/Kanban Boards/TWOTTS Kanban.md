@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] [[TWOTTS Session 1 Prep]]
 	- Basement / Chains guy battlemap
 	- Chains-of-Will statblock
+- [ ] What opens the scarab locket?
 
 
 ## [[The Shaper Legion]]
