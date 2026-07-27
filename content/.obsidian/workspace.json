@@ -165,8 +165,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3e537793ab77ff82",
+  "active": "e34a2393bb44142e",
   "lastOpenFiles": [
+    "Terra-Nova/Characters/Extraplanar/Temporal/Woven",
+    "Terra-Nova/Characters/Extraplanar/Temporal",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Dashboard.md",
     "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
@@ -195,7 +197,6 @@
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Arrow of Time.md",
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells",
     "Terra-Nova/Characters/Echoes/Echo of the Guardian.md",
-    "Terra-Nova/Characters/Echoes/Convicted-in-War.md",
     "Terra-Nova/Characters/Echoes",
     "z Images/Chains-of-Will-1785108538259.webp",
     "z Images/Chains-of-Will-1785108294436.webp",
@@ -214,7 +215,6 @@
     "Terra-Nova/Creatures/Elementals",
     "Terra-Nova/Creatures/Dragons",
     "Terra-Nova/Campaigns/Hunters of Kabir",
-    "Terra-Nova/Resources/Homebrew Statblocks/Statblocks",
-    "Terra-Nova/Resources/Homebrew Statblocks"
+    "Terra-Nova/Resources/Homebrew Statblocks/Statblocks"
   ]
 }
