@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Untitled.md",
-      "timestamp": 1785121394494
+      "filepath": "Terra-Nova/Characters/Echoes/Untitled.md",
+      "timestamp": 1785121446136
+    },
+    {
+      "filepath": "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Kairothrax.md",
+      "timestamp": 1785121443551
     },
     {
       "filepath": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Session 1 Prep.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
       "timestamp": 1785120545816
-    },
-    {
-      "filepath": "Templates/Session Prep Template.md",
-      "timestamp": 1785120527984
     }
   ],
   "bookmarkedFileStore": [],

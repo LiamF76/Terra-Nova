@@ -1,16 +1,14 @@
 ---
 publish: false
-title: Kairothrax
+title:
 aliases:
-  - Time Devil
-  - Shadow of Kairos
 tags:
   - Terra-Nova
 ---
 
-# Name
+# Lord-of-Eyes
 
-image here
+![[Kairothrax-1785121423280.webp|300x502]]
 
 ---
 
