@@ -86,6 +86,7 @@ Overview of involved factions and their goals. This will help inform creating un
 	- Party is headed to Sunset.
 - Travel by ship, (Aldred abandons the heavens) oily black rain & a rift in celestial power appears, Funeral, meeting NPCs, the ritual of Ivys' soul. Ivys coffin is deteriorating due to the rift's presence, must accelerate the timeline of the ritual. Ritual is interrupted and the party is trapped within the Purple Tower by Aldros, have to fight their way out
 	- 5 Room design
+		- Pre-Ritual, meet with Melantha / Ryfonand discuss tablet / Valley events, black rain, rift in heaven, Mel and Ryf are weakened by these events significantly. 
 		- 1. The Ritual, party has to fight a manifestation of Kairothrax while Melantha and Ryfon split Ivys' soul.
 		- 2. Ritual deteriorates, as Kairothrax is defeated it needs to be lured back into the ritual circle with something Ivys felt greed towards
 		- 3. The ritual is broken. As Kairothrax is returned, Aldros enters the Purple Tower and engages Melantha and Ryfon (weakened by heaven / rift stuff). Party is teleported to the basement of the Purple Tower. 
