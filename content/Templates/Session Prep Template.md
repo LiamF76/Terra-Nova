@@ -5,3 +5,6 @@ aliases:
 Session Date:
 tags:
 ---
+### Brainstorm:
+
+-  
