@@ -14,7 +14,7 @@ This is a map & overview of the planar geography of Terra-Nova.
 
 ### The Temporal Plane
 
-tbd
+The physical mortal world. 
 
 ---
 
