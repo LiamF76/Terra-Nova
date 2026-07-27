@@ -20,13 +20,13 @@ The plane that surrounds, penetrates, and binds all others. The Temporal Plane d
 
 ### The Celestial Plane
 
-tbd
+The heavens, home to the Divines, the Gods, and their angels. The Celestial Plane is not one central reality, but many separate worlds ruled by individual Gods. Each divine possesses their own pocket of the Celestial Plane, and its landscape and nature is determined by the nature of the ruling divine.
 
 ---
 
 ### The Ascendant Plane
 
-tbd
+The mortal manifestation of willpower. The Ascendant Plane is home to the souls of mortals or beings who possess a great willpower. Like the Celestial Plane it is not one landscape or reality, but many pockets of the Ascendant Plane known as Throne Worlds. Mortals with understanding of Nothing and a great willpower can create their own Throne Worlds, where they are most powerful and can shape reality. Beings who possess Throne Worlds cannot be truly killed outside of that Throne within the Ascendant Plane.
 
 ---
 
@@ -38,7 +38,7 @@ The physical mortal world. This land has diverse climates and peoples, maintaine
 
 ### The Feywild
 
-tbd
+The land of tricksters and bargains. The Feywild is often called the 'Infinite Forest' as it represents a combination of season bound wilds where enchanted creatures and mutants of magical nature roam.
 
 ---
 
@@ -56,5 +56,5 @@ tbd
 
 ### The Void
 
-tbd
+The edge of existence. The Void is the manifestation of Khal Daraan, the Ender of all Things. Known to many as 'The Deep', the Void is where things are unmade. To enter the void is to cease to be, and to control the void is to wield the power of Nothing. The power to exert your force on reality itself.
 
