@@ -10,7 +10,7 @@ kanban-plugin: board
 - [x] TWOTTS Moodboard
 	Completed on pinterest.
 - [x] [[TWOTTS Primer]]
-- [ ] Session 1
+- [ ] [[TWOTTS Session 1 Prep]]
 	- Basement / Chains guy battlemap
 	- Chains-of-Will statblock
 

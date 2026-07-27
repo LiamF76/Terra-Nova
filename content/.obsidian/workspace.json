@@ -60,17 +60,17 @@
             }
           },
           {
-            "id": "6ffe6be7766ff41e",
+            "id": "67a0be6100ea251a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Kairothrax.md",
+                "file": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Session 1 Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kairothrax"
+              "title": "TWOTTS Session 1 Prep"
             }
           }
         ],
@@ -201,15 +201,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6ffe6be7766ff41e",
+  "active": "67a0be6100ea251a",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
+    "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Kairothrax.md",
     "Kairothrax-1785121499338.webp",
     "Terra-Nova/Characters/Echoes/Lord-of-Eyes.md",
-    "Terra-Nova/Characters/Extraplanar/Abyssal Creatures/Kairothrax.md",
     "Kairothrax-1785121423280.webp",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Session 1 Prep.md",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
-    "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "Templates/Session Prep Template.md",
     "Dashboard.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Chains-of-Will.md",
@@ -244,7 +244,6 @@
     "z Images/Spirits-1784518620410.webp",
     "z Images/Spirits-1784518542592.webp",
     "Terra-Nova/Creatures/Celestials",
-    "z Images/Dashboard-1784517869934.webp",
     "z Old/Dashboard Cavnas.canvas",
     "Terra-Nova/Creatures/Beasts",
     "Terra-Nova/Creatures/Elementals",
