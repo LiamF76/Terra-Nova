@@ -25,7 +25,7 @@ kanban-plugin: list
 
 - [ ] [[Woven]]
 - [ ] [[Planes of Terra-Nova]]
-- [ ] Throne Worlds
+- [ ] [[Throne Worlds]]
 
 
 ## Backlog

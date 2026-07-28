@@ -22,33 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "25318c5fc435cb03",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Terra-Nova Worldbuilding"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,11 +150,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e34a2393bb44142e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Magic/Powers/Throne Worlds.md",
+    "Terra-Nova/Magic/Powers",
     "Terra-Nova/Magic",
     "Dashboard.md",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Bestiary/Woven/Woven.md",
     "z Images/Woven-1785164095336.webp",
     "Terra-Nova/Bestiary/Woven",
@@ -223,8 +200,6 @@
     "z Images/Spirits-1784518620410.webp",
     "Terra-Nova/Bestiary/Celestials",
     "z Old/Dashboard Cavnas.canvas",
-    "Terra-Nova/Bestiary/Beasts",
-    "Terra-Nova/Creatures/Elementals",
-    "Terra-Nova/Bestiary/Dragons"
+    "Terra-Nova/Bestiary/Beasts"
   ]
 }
