@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWand",
       "LiStars",
       "LiCat",
       "LiSword",
-      "LiMap",
-      "LiBookOpenText"
+      "LiMap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,10 +55,11 @@
   "Terra-Nova": "LiSword",
   "Terra-Nova/Books": "LiBookKey",
   "Pentium Realm": "LiBrainCircuit",
-  "Terra-Nova/Spells": "LiBook",
   "Dashboard.md": "LiHome",
   "Terra-Nova/Working Folder": "LiNotebookPen",
   "Arkfall": "LiStars",
   "Terra-Nova/World Codex": "LiBookOpenText",
-  "Terra-Nova/Bestiary": "LiCat"
+  "Terra-Nova/Bestiary": "LiCat",
+  "Terra-Nova/Magic/Spells": "LiBook",
+  "Terra-Nova/Magic": "LiWand"
 }

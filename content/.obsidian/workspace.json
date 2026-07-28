@@ -22,8 +22,33 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "25318c5fc435cb03",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,10 +175,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e34a2393bb44142e",
   "lastOpenFiles": [
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/Magic",
     "Dashboard.md",
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Bestiary/Woven/Woven.md",
     "z Images/Woven-1785164095336.webp",
     "Terra-Nova/Bestiary/Woven",
@@ -182,8 +208,8 @@
     "Terra-Nova/Resources/Homebrew Statblocks/Jolt.md",
     "Terra-Nova/Resources/Homebrew Statblocks/Current Wizard.md",
     "conflict-files-obsidian-git.md",
-    "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Kendoltric's Storm Orb.md",
-    "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells",
+    "Terra-Nova/Magic/Homebrew Spells/Kendoltric's Storm Orb.md",
+    "Terra-Nova/Magic/Homebrew Spells",
     "Terra-Nova/Characters/Echoes",
     "z Images/Chains-of-Will-1785108538259.webp",
     "z Images/Chains-of-Will-1785108294436.webp",
