@@ -10,13 +10,19 @@ kanban-plugin: board
 - [x] TWOTTS Moodboard
 	Completed on pinterest.
 - [x] [[TWOTTS Primer]]
+- [ ] [[TWOTTS Session 1 Prep]]
+	- Basement / Chains guy battlemap
+	- Chains-of-Will statblock
+- [ ] What opens the scarab locket?
 
 
 ## [[The Shaper Legion]]
 
 - [ ] [[Aldros]]
 - [ ] [[Convicted-in-War]]
-- [ ] Lord-of-Eyes
+- [ ] [[Lord-of-Eyes]]
+- [ ] [[Keeper-of-Fire]]
+- [ ] [[Terra-Nova/Characters/Echoes/Chains-of-Will|Chains-of-Will]]
 
 
 ## Hellstorm Clan

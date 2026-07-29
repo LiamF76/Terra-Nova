@@ -20,6 +20,7 @@ While many members of the Triumvirate Scales army serve in Aldros' Legion, the m
 
 - Lord-of-Eyes
 - [[Convicted-in-War]]
-- [[Chains-of-Will]]
+- [[Terra-Nova/Characters/Echoes/Chains-of-Will|Chains-of-Will]]
+- Keeper-of-Fire
 - 
 

@@ -21,6 +21,13 @@ kanban-plugin: list
 - [ ] [[Primordials]]
 
 
+## Work in Progress
+
+- [ ] [[Woven]]
+- [ ] [[Planes of Terra-Nova]]
+- [ ] [[Throne Worlds]]
+
+
 ## Backlog
 
 
@@ -40,6 +47,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false],"full-list-lane-width":true}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false],"full-list-lane-width":true}
 ```
 %%
