@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,27 +17,11 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "0f4bc5b10273368b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TWOTTS Brainstorm"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,15 +158,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0f4bc5b10273368b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Organizations/Armies/The Shaper Legion.md",
     "Terra-Nova/Characters/Echoes/Chains-of-Will.md",
     "Chains-of-Will-1785108538259.webp",
     "Terra-Nova/Resources/Gameplay Resources/Homebrew Spells/Arrow of Time.md",
     "Chains-of-Will-1785108294436.webp",
     "Terra-Nova/Characters/Echoes/Echo of the Guardian.md",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Characters/Echoes",
     "Dashboard.md",
     "Terra-Nova/Characters/Spirits/Morwyn.md",
