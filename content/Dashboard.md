@@ -33,6 +33,11 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 
 ---
 
+> [!note] Pentium Realm
+> ##  [[Pentium Realm Kanban]] | 
+
+---
+
 Remember who we are, remember what we came here to do. This is not just writing, it's a world. Make this world ours, make it beautiful, make it terrible. Just make it. Make it. It may be real someday.
 
 ![[Dashboard-1784517869934.webp | 600]]
