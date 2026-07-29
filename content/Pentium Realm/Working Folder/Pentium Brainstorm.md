@@ -9,6 +9,7 @@ aliases:
 - Pentium Realm, digital world within computers where the campaign takes place.
 - People are paid to do jobs, play as college / semi-pro players, and spend much of their time within the Pentium Realm.
 - players are college esports competitors seeking to make money, become stronger, or search for something within the Pentium Realm
+- gaming and competition / grinding culture is the base of a near future society. Loading into the digital world of the Pentium Realm is as common as opening a laptop
 - The Digital West, section of PR that is outside law / jurisdiction of regular authorities.
 - [[Helix]].  (*Heuristic Engagement & Learning eXtension*) Helix is the BBEG, an AI agent who pulled the players into the world and forces them to do stuff. [[Helix]] initial evaluation, combat, problem solving, and teamwork. Phased encounter that involves a puzzle, then working together, then a fight, 
 - Pointcrawl in 'Nodes' of Helix. Travel trough different dungeons /  5 room setups as player developments
