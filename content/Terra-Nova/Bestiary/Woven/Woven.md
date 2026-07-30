@@ -24,7 +24,7 @@ tags:
 tbd
 
 > [!quote]
-> "OPERATION-CLEANSE TIMELINE, SIMULATION-ERROR, BILINEAR INTERRUPT: REMEDIATION-{Well, I suppose if there are weeds, it is time to trim the garden} REMOVE WEEDS" - Unknown Woven Unit
+> "OPERATION-CLEANSE TIMELINE, SIMULATION-ERROR, BILINEAR INTERRUPT: REMEDIATION-{Well, I suppose if there are weeds, it is time to trim the garden} REMOVE WEEDS" - Cronarch, The Herald Simulated
 
 ---
 
@@ -33,6 +33,12 @@ tbd
 - **Markings / Coloration:** 
 - **Texture:** (scaled, furred, chitinous, slimy)
 - **Other:** 
+
+
+| Cronarch, The Herald Simulated         |
+| -------------------------------------- |
+| ![[Woven-1785375846466.webp\|300x533]] |
+
 
 ---
 
