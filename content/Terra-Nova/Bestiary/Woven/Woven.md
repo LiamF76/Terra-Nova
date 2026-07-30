@@ -13,7 +13,7 @@ tags:
 ## AKA: Timekeepers
 
 > [!quote]
-> "Well I needed the help, Kairos built the original Clockwork machines... they were fine. I made some upgrades... these are better." - Ivys Arthur
+> "Well I needed the help, Kairos built the original Clockwork machines... they were fine. I made some upgrades... these are better. Like a thousand little Timekeeper's Thrones, fully automated, a single mind. I am a genius." - Ivys Arthur
 
 ![[Woven-1785164095336.webp|300x300]]
 
