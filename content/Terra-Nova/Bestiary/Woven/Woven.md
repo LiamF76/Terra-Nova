@@ -34,7 +34,6 @@ The Woven are one of the greatest things Ivys Arthur built in his many lifetimes
 - **Texture:** (scaled, furred, chitinous, slimy)
 - **Other:** 
 
-
 | Cronarch, The Herald Simulated         |
 | -------------------------------------- |
 | ![[Woven-1785375846466.webp\|300x533]] |
