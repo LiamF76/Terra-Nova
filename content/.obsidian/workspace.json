@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "a38f36238d6b78ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Nova/Bestiary/Woven/Woven.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Woven"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,12 +150,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a38f36238d6b78ff",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Bestiary/Woven/Woven.md",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Dashboard.md",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
-    "Terra-Nova/Bestiary/Woven/Woven.md",
     "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
     "z Images/Woven-1785375846466.webp",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
