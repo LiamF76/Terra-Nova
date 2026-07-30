@@ -32,6 +32,7 @@ kanban-plugin: list
 - [ ] [[Primordials]]
 	This has been backlogged due to needing an overhaul after The Reshaping
 - [ ] [[Divine Champions]]
+- [ ] Great Spirits
 
 
 ***
