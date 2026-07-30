@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "a38f36238d6b78ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Bestiary/Woven/Woven.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Woven"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +165,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a38f36238d6b78ff",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Dashboard.md",
+    "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Nova/Bestiary/Woven/Woven.md",
     "Terra-Nova/Working Folder/Kanban Boards/Lore Books.md",
     "z Images/Woven-1785375846466.webp",
-    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Organizations/Divine Groups/Gods of Terra-Nova.md",
     "Terra-Nova/Geography/Planes/The Material Plane/Continents/Escarth/Triumvirate Scales/Vesponous Territory/Vesponous Territory.md",
@@ -185,7 +201,6 @@
     "Terra-Nova/Organizations/Extraplanar/The Shardbound.md",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Session 1 Prep.md",
     "Terra-Nova/World Codex/Lore Books/Ivory Throne, Violet Ink/A Unique Rhetoric.md",
-    "Terra-Nova/Items/Magic Items/Rhetoric.md",
     "z Images/Kairothrax-1785121499338.webp",
     "z Images/Kairothrax-1785121423280.webp",
     "Terra-Nova/Magic/Homebrew Spells",
@@ -193,7 +208,6 @@
     "z Images/Chains-of-Will-1785108538259.webp",
     "z Images/Chains-of-Will-1785108294436.webp",
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas",
-    "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "z Images/Planes of Terra-Nova-1784911731365.webp",
     "Terra-Nova/Working Folder/Reshaping WIP",
     "z Images/Mani-1784678183230.webp",
