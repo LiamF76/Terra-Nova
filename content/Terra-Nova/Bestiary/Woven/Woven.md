@@ -24,7 +24,7 @@ tags:
 tbd
 
 > [!quote]
-> "Quote here" - Source
+> "OPERATION-CLEANSE TIMELINE, SIMULATION-ERROR, BILINEAR INTERRUPT: REMEDIATION-{Well, I suppose if there are weeds, it is time to trim the garden} REMOVE WEEDS" - Unknown Woven Unit
 
 ---
 
