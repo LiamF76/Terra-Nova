@@ -1,11 +1,13 @@
 ---
+
 kanban-plugin: board
-tags:
-  - PentiumRealm
+
 ---
 
-## General
+## Early Brainstorm
 
+- [ ] [[Pentium Brainstorm]]
+- [ ] [[What is Pentium Realm]]
 
 
 

@@ -6,6 +6,7 @@ aliases:
   - Religion
   - Church
   - Pantheon
+  - 
 tags:
   - Terra-Nova
 ---

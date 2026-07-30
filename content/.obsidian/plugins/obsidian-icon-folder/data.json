@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiWand",
       "LiStars",
       "LiCat",
       "LiSword",
-      "LiMap"
+      "LiMap",
+      "LiBookOpenText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -59,7 +59,5 @@
   "Terra-Nova/Working Folder": "LiNotebookPen",
   "Arkfall": "LiStars",
   "Terra-Nova/World Codex": "LiBookOpenText",
-  "Terra-Nova/Bestiary": "LiCat",
-  "Terra-Nova/Magic/Spells": "LiBook",
-  "Terra-Nova/Magic": "LiWand"
+  "Terra-Nova/Creatures": "LiCat"
 }
