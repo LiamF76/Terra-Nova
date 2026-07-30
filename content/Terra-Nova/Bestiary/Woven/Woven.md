@@ -21,7 +21,7 @@ tags:
 
 ## Overview
 
-tbd
+The Woven are one of the greatest things Ivys Arthur built in his many lifetimes as White Wizard. In the mindset of the River, there is the garden, and the garden is time, time which must be guarded, and maintained. The Woven are those custodians of time. Automated and inspired by the design of the Timekeeper's Throne, the Woven protect existence as a single linear timeline.
 
 > [!quote]
 > "OPERATION-CLEANSE TIMELINE, SIMULATION-ERROR, BILINEAR INTERRUPT: REMEDIATION-{Well, I suppose if there are weeds, it is time to trim the garden} REMOVE WEEDS" - Cronarch, The Herald Simulated
