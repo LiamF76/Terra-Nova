@@ -15,13 +15,12 @@ kanban-plugin: list
 ## Priority Build
 
 - [x] [[Spirits]]
+- [ ] [[Woven]]
 - [ ] [[Dragons]]
-- [ ] [[Divine Champions]]
 
 
 ## Work in Progress
 
-- [ ] [[Woven]]
 - [ ] [[Planes of Terra-Nova]]
 - [ ] [[Throne Worlds]]
 
@@ -32,6 +31,7 @@ kanban-plugin: list
 	This has been backlogged due to being depreciated after The Reshaping.
 - [ ] [[Primordials]]
 	This has been backlogged due to needing an overhaul after The Reshaping
+- [ ] [[Divine Champions]]
 
 
 ***
