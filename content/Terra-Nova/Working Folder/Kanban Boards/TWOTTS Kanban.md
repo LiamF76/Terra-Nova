@@ -4,15 +4,21 @@ kanban-plugin: board
 
 ---
 
+## Session 1
+
+- [ ] [[TWOTTS Session 1 Prep]]
+	- Basement / Chains guy battlemap
+	- Chains-of-Will statblock
+- [ ] [[A Unique Rhetoric]]
+- [ ] [[Rhetoric]]
+
+
 ## Campaign Prep
 
 - [ ] [[TWOTTS Brainstorm]]
 - [x] TWOTTS Moodboard
 	Completed on pinterest.
 - [x] [[TWOTTS Primer]]
-- [ ] [[TWOTTS Session 1 Prep]]
-	- Basement / Chains guy battlemap
-	- Chains-of-Will statblock
 - [ ] What opens the scarab locket?
 
 
@@ -43,6 +49,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

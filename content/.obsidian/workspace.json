@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "554c41576d0480c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Nova/Books/An Oath of Spirit/AOOS Brainstorm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AOOS Brainstorm"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,12 +167,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "554c41576d0480c4",
   "lastOpenFiles": [
+    "Terra-Nova/Books/An Oath of Spirit/AOOS Outline.md",
     "Dashboard.md",
-    "Terra-Nova/Books/A Oath's Spirit/AOS Brainstorm.md",
+    "Terra-Nova/Books/An Oath of Spirit/AOOS Brainstorm.md",
+    "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "Terra-Nova/Books/Novella Ideas.md",
-    "Terra-Nova/Books/A Oath's Spirit/AOS Outline.md",
     "Terra-Nova/Books/A Oath's Spirit/Untitled.md",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
@@ -185,7 +201,6 @@
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
     "Terra-Nova/Characters/Extraplanar/Temporal/Woven",
     "Terra-Nova/Characters/Extraplanar/Temporal",
-    "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
     "Terra-Nova/Campaigns/Play by Post/The Black Sun Sets/TBSS Brainstorm.md",
     "Terra-Nova/Organizations/Armies/The Shaper Legion.md",
     "Terra-Nova/Characters/Echoes/Keeper-of-Fire.md",
