@@ -36,7 +36,6 @@ TBD
 - She warns the end of things is still coming, but she along with other allies of life are working to halt the end. The most helpful thing the party can do is to work against Aldros, and prevent further catastrophe caused by the Triumvirate Dragons.
 - She is not asking them to defeat the dragons, but she does need Aldros halted for her plans to succeed.
 - 
-  
 
 ---
 
