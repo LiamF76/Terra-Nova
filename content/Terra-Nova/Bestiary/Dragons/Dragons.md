@@ -6,9 +6,9 @@ tags:
   - Bestiary
 ---
 
-# Creature Name
+# Dragons
 
-## AKA: 
+## AKA: Wyrms
 
 > [!quote]
 > "Quote here" - Source

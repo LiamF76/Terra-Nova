@@ -15,21 +15,24 @@ kanban-plugin: list
 ## Priority Build
 
 - [x] [[Spirits]]
-- [ ] [[Gods of Terra-Nova|Gods]]
+- [ ] [[Woven]]
 - [ ] [[Dragons]]
-- [ ] [[Divine Champions]]
-- [ ] [[Primordials]]
 
 
 ## Work in Progress
 
-- [ ] [[Woven]]
 - [ ] [[Planes of Terra-Nova]]
 - [ ] [[Throne Worlds]]
 
 
 ## Backlog
 
+- [ ] [[Gods of Terra-Nova|Gods]]
+	This has been backlogged due to being depreciated after The Reshaping.
+- [ ] [[Primordials]]
+	This has been backlogged due to needing an overhaul after The Reshaping
+- [ ] [[Divine Champions]]
+- [ ] Great Spirits
 
 
 ***
