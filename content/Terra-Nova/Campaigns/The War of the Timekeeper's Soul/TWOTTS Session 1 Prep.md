@@ -55,7 +55,7 @@ TBD
 
 ## Room 2: Puzzle or Roleplaying Challenge
 
-#### **TBD**
+#### **Reforge the Demon**
 
 DM NOTE: Ritual deteriorates, as Kairothrax is defeated it needs to be lured back into the ritual circle with something Ivys felt greed towards
 
@@ -67,7 +67,7 @@ TBD
 
 ## Room 3: Trick or Setback
 
-#### **TBD**
+#### **Aldros Arrives**
 
 DM NOTE: The ritual is broken and the Purple Tower is under attack. As Kairothrax is contained once again, Aldros enters the Purple Tower and engages Melantha and Ryfon (weakened by heaven / rift stuff). Party is teleported to the basement of the Purple Tower. 
 
@@ -79,9 +79,9 @@ TBD
 
 ## Room 4: Climax, Big Battle
 
-#### **TBD**
+#### **The First Echo**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Party makes their way back up the tower, intercepted by one of Aldros' echoes, Chains-of-Will. Big boss battle, first time seeing an Echo / the effects.
 
 *Set the Scene*: TBD
 
