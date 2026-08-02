@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
@@ -160,11 +162,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Pentium Realm/Working Folder/Pentium Brainstorm.md",
     "Pentium Realm/Working Folder/What is Pentium Realm.md",
     "Pentium Realm/Working Folder/Pentium Realm Kanban.md",
     "Pentium Realm/Working Folder/depreciated/Central Brainstorm.md",
-    "Dashboard.md",
     "Pentium Realm/Working Folder/depreciated",
     "Pentium Realm/Working Folder/depreciated/Welcome to Pentium Realm.md",
     "Theme Test Note.md",
