@@ -29,13 +29,13 @@ TBD
 *Melantha topics*:
 - What happened in the valley?
 - Where did you get that tablet, and why did it choose Sobek?
-- 4 cities in New Estorias have fallen to the Triumvirate's Wyrm-Chosen, Aldros. He battled one of Horus Hixs most powerful knights, a wielder of some ancient power, and won. There are reports of Aldros using a new dark magic, he is 'doing something' to his foes. No bodies have been found at the ruins of the cities.
+- 3 cities in New Estorias have fallen to the Triumvirate's Wyrm-Chosen, Aldros in the last 2 weeks. He battled one of Horus Hixs most powerful knights, a wielder of some ancient power, and won. There are reports of Aldros using a new dark magic, he is 'doing something' to his foes. No bodies have been found at the ruins of the cities.
+	- **Cities: Fundament, Livacor, Cryptos**
 - She needs help to conduct the ritual with Ivys' soul, will you help?
-- Ivys left a few gifts for the 'next generation', if they agree to help her with the ritual and discover more about the Tablet / Aldros, she will give them to you. (Scarab locket, Ivys' horn [[Rhetoric]])
+- Ivys left a few gifts for the 'next generation', if they agree to help her with the ritual and discover more about the Tablet / Aldros, she will give them to you. (Scarab locket, Ivys' horn [[Rhetoric]] + [[A Unique Rhetoric]])
 - She warns the end of things is still coming, but she along with other allies of life are working to halt the end. The most helpful thing the party can do is to work against Aldros, and prevent further catastrophe caused by the Triumvirate Dragons.
 - She is not asking them to defeat the dragons, but she does need Aldros halted for her plans to succeed.
 - 
-  
 
 ---
 
@@ -55,7 +55,7 @@ TBD
 
 ## Room 2: Puzzle or Roleplaying Challenge
 
-#### **TBD**
+#### **Reforge the Demon**
 
 DM NOTE: Ritual deteriorates, as Kairothrax is defeated it needs to be lured back into the ritual circle with something Ivys felt greed towards
 
@@ -67,7 +67,7 @@ TBD
 
 ## Room 3: Trick or Setback
 
-#### **TBD**
+#### **Aldros Arrives**
 
 DM NOTE: The ritual is broken and the Purple Tower is under attack. As Kairothrax is contained once again, Aldros enters the Purple Tower and engages Melantha and Ryfon (weakened by heaven / rift stuff). Party is teleported to the basement of the Purple Tower. 
 
@@ -79,9 +79,9 @@ TBD
 
 ## Room 4: Climax, Big Battle
 
-#### **TBD**
+#### **The First Echo**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Party makes their way back up the tower, intercepted by one of Aldros' echoes, Chains-of-Will. Big boss battle, first time seeing an Echo / the effects.
 
 *Set the Scene*: TBD
 
