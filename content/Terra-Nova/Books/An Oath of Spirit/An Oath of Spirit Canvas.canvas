@@ -4,7 +4,7 @@
 		{"id":"00039c729fd75298","x":220,"y":-137,"width":137,"height":60,"type":"text","text":"Storyboard"},
 		{"id":"80c31b195d944b10","x":420,"y":-137,"width":340,"height":60,"type":"text","text":"tbd *BUT* tbd **THEREFORE** tbd"},
 		{"id":"7d9e5d9f1479afc2","type":"text","text":"Inayet is trying to deliver Lukas' axe to his resting place *BUT* The axe is stolen while he is traveling. **THEREFORE** he has to hunt down whoever stole it.","x":220,"y":-20,"width":329,"height":183},
-		{"id":"7010972583da0598","x":660,"y":-20,"width":329,"height":183,"type":"text","text":""}
+		{"id":"7010972583da0598","x":640,"y":72,"width":329,"height":183,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"3e3a119dc18dab19","fromNode":"00039c729fd75298","fromSide":"right","toNode":"80c31b195d944b10","toSide":"left"},
