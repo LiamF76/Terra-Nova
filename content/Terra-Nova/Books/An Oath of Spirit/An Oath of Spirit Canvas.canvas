@@ -1,11 +1,13 @@
 {
 	"nodes":[
 		{"id":"0505208e14794a9f","type":"text","text":"### Novella\n\n- **Definition**: A novella is a work of narrative fiction that's longer and more developed than a short story but shorter and more focused than a full novel — typically centered on a single plot line, a small cast of characters, and one central conflict or theme, without much room for subplots.\n- **Length**: Novellas generally run between 17,500 and 40,000 words (roughly 60–130 pages). Anything shorter usually falls into \"novelette\" or \"short story\" territory; anything longer starts crossing into novel length.\n- **Structure and pacing**: Because of the compressed length, novellas tend to move faster than novels — less world-building, fewer characters, and a tighter timeframe — but they still allow for more depth, character development, and thematic exploration than a short story can.\n- **Examples**: Well-known novellas include _Of Mice and Men_ by John Steinbeck, _The Old Man and the Sea_ by Ernest Hemingway, and _Animal Farm_ by George Orwell — all praised for delivering a complete, emotionally resonant story in a compact form.","x":-445,"y":-137,"width":625,"height":670},
-		{"id":"00039c729fd75298","x":220,"y":-137,"width":137,"height":60,"type":"text","text":"Storyboard"},
-		{"id":"80c31b195d944b10","x":420,"y":-160,"width":340,"height":107,"type":"text","text":"tbd \n*BUT* tbd \n**THEREFORE** tbd"},
-		{"id":"f422227cde00e05e","x":219,"y":27,"width":341,"height":145,"type":"text","text":"Inayet visits his mother after returning Lukas' axe. She is old, and has strange visions of Inayet trapped in stone. "}
+		{"id":"00039c729fd75298","type":"text","text":"Storyboard","x":220,"y":-137,"width":137,"height":60},
+		{"id":"7d9e5d9f1479afc2","type":"text","text":"Inayet is trying to deliver Lukas' axe to his resting place \n*BUT* The axe is stolen while he is traveling. \n**THEREFORE** he has to hunt down whoever stole it.","x":220,"y":-20,"width":329,"height":214},
+		{"id":"7010972583da0598","type":"text","text":"","x":640,"y":163,"width":329,"height":183},
+		{"id":"80c31b195d944b10","type":"text","text":"tbd \n*BUT* tbd \n**THEREFORE** tbd","x":420,"y":-160,"width":340,"height":107}
 	],
 	"edges":[
-		{"id":"3e3a119dc18dab19","fromNode":"00039c729fd75298","fromSide":"right","toNode":"80c31b195d944b10","toSide":"left"}
+		{"id":"3e3a119dc18dab19","fromNode":"00039c729fd75298","fromSide":"right","toNode":"80c31b195d944b10","toSide":"left"},
+		{"id":"7c7c26c26516defd","fromNode":"7d9e5d9f1479afc2","fromSide":"right","toNode":"7010972583da0598","toSide":"left"}
 	]
 }
