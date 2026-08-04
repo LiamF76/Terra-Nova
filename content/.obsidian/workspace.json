@@ -22,26 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "8d313b29f8290118",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
-                "viewState": {
-                  "x": -50.65999999999997,
-                  "y": 237.99,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "An Oath of Spirit Canvas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,10 +152,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8d313b29f8290118",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
+    "Dashboard.md",
     "Terra-Nova/Campaigns/Player Characters/Emrys.md",
     "conflict-files-obsidian-git.md",
     "Terra-Nova/Campaigns/Player Characters",
