@@ -22,43 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "5c929ebdbf95bc92",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
-                "viewState": {
-                  "x": -66.46999999999997,
-                  "y": 216.60000000000014,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "An Oath of Spirit Canvas"
-            }
-          },
-          {
-            "id": "96d24d77e6f0cf06",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
-                "viewState": {
-                  "x": 309.0409548861969,
-                  "y": 204.46381298677034,
-                  "zoom": -0.40003913929065066
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "An Oath of Spirit Canvas"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,11 +152,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "96d24d77e6f0cf06",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
     "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
     "Dashboard.md",
-    "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Campaigns/Player Characters/Emrys.md",
     "conflict-files-obsidian-git.md",
@@ -225,7 +190,6 @@
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.md",
     "Terra-Nova/Characters/Extraplanar/Temporal/Woven",
     "Terra-Nova/Characters/Extraplanar/Temporal",
-    "Terra-Nova/Campaigns/Play by Post/The Black Sun Sets/TBSS Brainstorm.md",
     "z Images/Kairothrax-1785121499338.webp",
     "z Images/Kairothrax-1785121423280.webp",
     "Terra-Nova/Magic/Homebrew Spells",
