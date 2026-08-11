@@ -30,23 +30,25 @@ All of these inspirations are important and have influenced my idea of the setti
 - space magic somehow, technology, psionics, quantum
 	- **Quantum Lattice**, universal law manipulation, feels like magic, only specific individuals can do it. Obtained and used by those sensitive to it or infused with it by machinery
 - **Quantum Lattice Types**
-	- **Sprite-Bound**: Sprites are Quantum Spirits that an be bound to an individual. When bound to a mortal they synthesize Lattice for their host literally inside the host's body. It is unique to the host's quantum signature, meaning it cannot be stolen or used by others unless the host imbues it into something else. Sprites require achievement to synthesize Lattice, but this achievement is bound to the Sprite's own nature. A sprite who has a warlike nature requires killing or battle to synthesize lattice for their host, while a peaceful sprite may require protecting others or something else. Sprites can grow and change but are somewhat parasitic to their hosts.
+	- **Sprite-Bound**: Sprites are Quantum Spirits that an be bound to an individual. When bound to a mortal they synthesize Lattice for their host literally inside the host's body (hosts are generally called [[Vectors]]). It is unique to the host's quantum signature, meaning it cannot be stolen or used by others unless the host imbues it into something else. Sprites require achievement to synthesize Lattice, but this achievement is bound to the Sprite's own nature. A sprite who has a warlike nature requires killing or battle to synthesize lattice for their host, while a peaceful sprite may require protecting others or something else. Sprites can grow and change but are somewhat parasitic to their hosts.
 	- **Lattice Mining**: Names for mined lattice include: *lattice ore, quantum silt, entangled dust*. Raw, unstable, and dangerous to mine. Lattice ore can be gathered from specific areas like asteroids, space dust clouds, and dead star remnants. Miners who work it risk decoherence sickness where bodies or minds destabilize from exposure. Mined lattice cannot be organically wielded and needs to be channeled through machinery / weapons. 
 - pantheon
 	- Human Gods are hyper intelligent and power AIs, no gods in this setting for humanity
 	- Alien Gods are ultra powerful beings that exist and are so powerful they are essentially Gods, but no all seeing all knowing otherworldy gods like D&D or jesus lol
 - Space opera / epic sci-fi world, [[Aliens]] and AIs, wild terraformed worlds
 - worlds of Arkfall
-	- Mercury is a vast and wild desert, seeded with alien monsters, and Venus is a garden world, now that humanity has fallen it is overrun, no longer a grove but a jungle untamed
+	- Mercury is a vast and wild desert, seeded with alien monsters, and Venus is a garden world, now that humanity has fallen it is overrun, grove -> violent jungle
 - empowered heroes and warriors based on guardians, but unique, where do they get power from?
-	- [[Vectors]], people who can use the Quantum Lattice, also known as Thread-Touched (because of the threads in an AI, threads are given to those who control the quantum with the help of AI)
+	- [[Vectors]], people who can use the Quantum Lattice, also known as Thread-Touched (because of the threads in an AI, threads are given to those who control the quantum with the help of AI). There are people who were Sprite-Bonded.
 - what time period is this, retake earth? warlords and desperate survival? battling [[Aliens]] in space?
-- Imagine a vast empire set up not on a planet but on a space station that is always moving, shifting, floating and travelling through the galaxy, Thousands and thousands of miles long, infinitely so. The goal being just to spread its tendrils. I think that might be cool. At some point it might be so powerful that it can pull smaller planets with it or ingrain it into its structure so it can travel with them or use them as fuel. I see this being a cool capital.
+- Imagine a vast empire set up on a space station that is always moving, shifting, floating and traveling through the galaxy, Thousands and thousands of miles long, infinitely so. The goal being just to spread its tendrils. I think that might be cool. At some point it might be so powerful that it can pull smaller planets with it or ingrain it into its structure so it can travel with them or use them as fuel. I see this being a cool capital.
 - space station society
 	- silicon valley space station where they worship AI and use it for everything, they use processing power and quantum lattice like a morphine drip
 - dwarf planets coalition
 	- space dwarfs that life on dwarf planets, after terraforming the people got shorter progressively because they were mining in tight spaces. Bat-like adaptations, echolocation with deep humming and resonance can detect rare minerals / crystals
 - Alien species, who are they, what do they represent?
 	- [[Aliens]]
+- Human species
+	- [[Species]] 
 - collapse / apocalypse
 	- [[The Disaster]]

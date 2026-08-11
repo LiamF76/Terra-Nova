@@ -85,7 +85,7 @@ tags:
 
 - New Mumbai
 	-  Largest city, controlled by a council of Vectors known as The Compact. Considered Humanity's bastion
-- Omsk
+- Foundry
 	-  Most advanced city, brutalist Siberian settlement, has the only remaining cruiser ship, ruled by an AI called The Terminal.
 - Location Name
 	-  
