@@ -28,11 +28,10 @@ All of these inspirations are important and have influenced my idea of the setti
 - set in the far future at an undefined date, 
 	- current range: 5,000-20,000 years after the current day.
 - space magic somehow, technology, psionics, quantum
-	- Quantum Lattice, universal law manipulation, feels like magic, only specific individuals can do it. Obtained and used by those sensitive to it or infused with it by machinery
-		- **Mined lattice matter** (call it something like _lattice ore_, _quantum silt_, _entangled dust_) is the "poor man's" version — raw, unstable, dangerous to refine, found in asteroid fields, dead star remnants, or the wreckage of things that broke reality once already (a great excuse for ruins). Miners who work it risk decoherence sickness — bodies or minds destabilizing from exposure. This gives you a working class, a mining-colony culture, black markets, corporate exploitation — very grounded, very sci-fi.
-- Quantum Lattice Types
+	- **Quantum Lattice**, universal law manipulation, feels like magic, only specific individuals can do it. Obtained and used by those sensitive to it or infused with it by machinery
+- **Quantum Lattice Types**
 	- **Sprite-Bound**: Sprites are Quantum Spirits that an be bound to an individual. When bound to a mortal they synthesize Lattice for their host literally inside the host's body. It is unique to the host's quantum signature, meaning it cannot be stolen or used by others unless the host imbues it into something else. Sprites require achievement to synthesize Lattice, but this achievement is bound to the Sprite's own nature. A sprite who has a warlike nature requires killing or battle to synthesize lattice for their host, while a peaceful sprite may require protecting others or something else.
-	- *Lattice Mining*: 
+	- **Lattice Mining**: Names for mined lattice include: *lattice ore, quantum silt, entangled dust*. Raw, unstable, and dangerous to mine. Lattice ore can be gathered from specific areas like asteroids, space dust clouds, and dead star remnants. Miners who work it risk decoherence sickness where bodies or minds destabilize from exposure. Mined lattice cannot be organically wielded and needs to be channeled through machinery / weapons. 
 - pantheon
 	- Human Gods are hyper intelligent and power AIs, no gods in this setting for humanity
 	- Alien Gods are ultra powerful beings that exist and are so powerful they are essentially Gods, but no all seeing all knowing otherworldy gods like D&D or jesus lol
