@@ -32,7 +32,8 @@ All of these inspirations are important and have influenced my idea of the setti
 		- **Mined lattice matter** (call it something like _lattice ore_, _quantum silt_, _entangled dust_) is the "poor man's" version — raw, unstable, dangerous to refine, found in asteroid fields, dead star remnants, or the wreckage of things that broke reality once already (a great excuse for ruins). Miners who work it risk decoherence sickness — bodies or minds destabilizing from exposure. This gives you a working class, a mining-colony culture, black markets, corporate exploitation — very grounded, very sci-fi.
 		- **Sprites** are the elite/rare version — they don't just find lattice matter, they _synthesize_ it on demand from something (themselves? borrowed reality? a bonded host's own quantum signature?). That makes sprite-bonded individuals functionally aristocracy or a chosen-few class, which mirrors Destiny's Guardian exceptionalism but you can subvert it: what if sprites are actually _parasitic_ or _symbiotic_ in an uncomfortable way — they need something from their host to keep producing the material?
 - pantheon
-	- Gods are hyper intelligent and power AIs, no gods in this setting
+	- Human Gods are hyper intelligent and power AIs, no gods in this setting for humanity
+	- Alien Gods are ultra powerful beings that exist and are so powerful they are essentially Gods, but no all seeing all knowing otherworldy gods like D&D or jesus lol
 - Space opera / epic sci-fi world, [[Aliens]] and AIs, wild terraformed worlds
 - worlds of Arkfall
 	- Mercury is a vast and wild desert, seeded with alien monsters, and Venus is a garden world, now that humanity has fallen it is overrun, no longer a grove but a jungle untamed
