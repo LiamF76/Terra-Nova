@@ -11,6 +11,10 @@ Emrys Marcel
 
 Emrys being tested or compelled to fall or abandon ideals, in specific by Aldros, but endures and maintains his beliefs. 
 
+#### Gameplay:
+- Small interactions through spoken mental messages + visions / dreams. Make them euphoric and confusing, but they do contain a message that can be followed (EX, see a sparrow in a dream, then a sparrow in real life and it can be followed to a secret)
+- Larger interactions from places where Emrys can reach Aldred more reliably. Temple to Aldred that was corrupted by Aldros' followers / cultists? Places of divine significance? Give them something important to talk about either from Emrys or from Aldred when these happen so that the interaction is meaningful.
+
 #### Emrys Knives:
 - Aldred. Emrys determines to stop him from getting corrupted and save him from the reshaping. Emrys’ love for him would be quite easy for other people to exploit since it is the only thing that makes him act “selfishly”. With his corruption I could also see Aldred demanding harsher punishments and Emrys having to choose between obeying or following his morals. 
 - Emrys’ connection to and friendship with Ivys would probably be particularly relevant here. I doubt he has no idea what he planned. Depending he might feel compelled to help out of friendship or frustrated and betrayed that things were kept secret from him. 
