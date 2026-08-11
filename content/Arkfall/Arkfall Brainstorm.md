@@ -28,7 +28,9 @@ All of these inspirations are important and have influenced my idea of the setti
 - set in the far future at an undefined date, 
 	- current range: 5,000-20,000 years after the current day.
 - space magic somehow, technology, psionics, quantum
-	- Quantum Lattice, universal law manipulation, feels like magic, only specific individuals can do it. Can be granted by birth, by AIs, or by alien Gods
+	- Quantum Lattice, universal law manipulation, feels like magic, only specific individuals can do it. Obtained and used by those sensitive to it or infused with it by machinery
+		- **Mined lattice matter** (call it something like _lattice ore_, _quantum silt_, _entangled dust_) is the "poor man's" version — raw, unstable, dangerous to refine, found in asteroid fields, dead star remnants, or the wreckage of things that broke reality once already (a great excuse for ruins). Miners who work it risk decoherence sickness — bodies or minds destabilizing from exposure. This gives you a working class, a mining-colony culture, black markets, corporate exploitation — very grounded, very sci-fi.
+		- **Sprites** are the elite/rare version — they don't just find lattice matter, they _synthesize_ it on demand from something (themselves? borrowed reality? a bonded host's own quantum signature?). That makes sprite-bonded individuals functionally aristocracy or a chosen-few class, which mirrors Destiny's Guardian exceptionalism but you can subvert it: what if sprites are actually _parasitic_ or _symbiotic_ in an uncomfortable way — they need something from their host to keep producing the material?
 - pantheon
 	- Gods are hyper intelligent and power AIs, no gods in this setting
 - Space opera / epic sci-fi world, [[Aliens]] and AIs, wild terraformed worlds
