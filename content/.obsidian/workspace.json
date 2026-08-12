@@ -38,23 +38,9 @@
               "icon": "lucide-file",
               "title": "Arkfall Brainstorm"
             }
-          },
-          {
-            "id": "0ab000319caa255c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arkfall/Arkfall Books/Lowell's Story/LS Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LS Brainstorm"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,8 +135,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
-                "collapseAll": false,
+                "file": "Arkfall/Arkfall Brainstorm.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -159,7 +145,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dashboard"
+              "title": "Backlinks"
             }
           }
         ],
@@ -167,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,19 +168,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0ab000319caa255c",
+  "active": "6893008dabbb8398",
   "lastOpenFiles": [
-    "Arkfall/Arkfall Books/AF Book BRAINSTORM!.md",
+    "Arkfall/Groups/Human Species/The Hydren.md",
+    "z Images/The Hydren-1786536605794.webp",
     "Arkfall/Arkfall Brainstorm.md",
+    "Arkfall/Groups/Human Species/The Resonant.md",
+    "Arkfall/Groups/Human Species/Humanity.md",
+    "Arkfall/Groups/The Resonant.md",
+    "Arkfall/Worlds/Cosmology.md",
+    "Arkfall/Groups/Alien Species",
+    "Arkfall/Groups/Human Species",
+    "Arkfall/Groups/Aliens.md",
+    "Arkfall/Groups/The Fallen Star Coalition.md",
     "Arkfall/Arkfall Books/Lowell's Story/LS Brainstorm.md",
+    "Arkfall/Arkfall Books/AF Book BRAINSTORM!.md",
     "Arkfall/Arkfall Books/Lowell's Story/Lowell Character Building.md",
     "Arkfall/Characters/Humans/Lowell.md",
-    "Lowell-1786535775977.webp",
+    "z Images/Lowell-1786535775977.webp",
     "Arkfall/Characters/Modules/August.md",
     "Arkfall/Characters/Modules.md",
     "Arkfall/Characters/Modules",
-    "Arkfall/Groups/Species.md",
-    "Arkfall/Groups/The Fallen Star Coalition.md",
     "Arkfall/Characters/Humans",
     "Arkfall/Characters",
     "Arkfall/Arkfall Books/Lowell's Story/LS Chapter 1.md",
@@ -206,7 +199,6 @@
     "Arkfall/Arkfall Books/Lowell's Story",
     "Arkfall/Arkfall Books",
     "Arkfall/Worlds/Earth/Earth.md",
-    "Arkfall/Groups/Aliens.md",
     "Arkfall/Groups/Vectors.md",
     "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
     "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
@@ -214,17 +206,11 @@
     "Terra-Nova/Campaigns/Player Characters/Emrys.md",
     "Terra-Nova/Campaigns/Player Characters",
     "Terra-Nova/Books/An Oath of Spirit/AOOS Brainstorm.md",
-    "Terra-Nova/Books/An Oath of Spirit/AOOS Outline.md",
-    "Terra-Nova/Working Folder/Kanban Boards/TWOTTS Kanban.md",
-    "Terra-Nova/Books/Novella Ideas.md",
-    "Terra-Nova/Books/A Oath's Spirit/Untitled.md",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "z Images/Woven-1785375846466.webp",
     "Pentium Realm/Working Folder/depreciated",
     "Terra-Nova/Magic/Powers",
-    "Terra-Nova/Magic",
     "z Images/Woven-1785164095336.webp",
-    "Terra-Nova/Bestiary/Woven",
     "z Images/Kairothrax-1785121499338.webp",
     "z Images/Kairothrax-1785121423280.webp",
     "z Images/Chains-of-Will-1785108538259.webp",
@@ -232,7 +218,6 @@
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas",
     "z Images/Planes of Terra-Nova-1784911731365.webp",
     "z Images/Mani-1784678183230.webp",
-    "z Images/Mani-1784677927611.webp",
     "z Old/Dashboard Cavnas.canvas"
   ]
 }

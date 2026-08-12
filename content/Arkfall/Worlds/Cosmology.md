@@ -20,7 +20,7 @@ tags:
 - **Mars**: 
 	- **Phobos**: 
 	- **Deimos**: 
-- **Jupiter**: 
+- **Jupiter**: Gas giant, home to Hydren, civilization exists in flying cities like Cloud CIty from Star Wars.
 	- **Io**: 
 	- **Europa**: 
 	- **Ganymede**: 
