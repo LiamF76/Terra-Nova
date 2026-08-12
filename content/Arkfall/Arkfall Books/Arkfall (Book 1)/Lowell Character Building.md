@@ -7,7 +7,7 @@ This document is where I will outline Lowell, who he is, how he acts, and how he
 
 ## Building the Core
 
-**Enneagram Type:** 
+**Enneagram Type:** Type 8, The Challenger. 
 
 **Core Fear:** 
 
