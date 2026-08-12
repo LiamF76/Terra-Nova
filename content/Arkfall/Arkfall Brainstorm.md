@@ -52,3 +52,4 @@ All of these inspirations are important and have influenced my idea of the setti
 	- [[Humanity]] 
 - collapse / apocalypse
 	- [[The Disaster]]
+
