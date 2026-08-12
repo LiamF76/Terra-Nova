@@ -38,9 +38,23 @@
               "icon": "lucide-file",
               "title": "Arkfall Brainstorm"
             }
+          },
+          {
+            "id": "1a26c0f36f0b2d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arkfall/Arkfall Books/Arkfall (Book 1)/Arkfall Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arkfall Chapter 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arkfall/Arkfall Brainstorm.md",
+                "file": "Arkfall/Arkfall Books/Arkfall (Book 1)/Arkfall Chapter 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,11 +182,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6893008dabbb8398",
+  "active": "1a26c0f36f0b2d02",
   "lastOpenFiles": [
+    "Arkfall/Arkfall Books/AF Book BRAINSTORM!.md",
+    "Arkfall/Arkfall Books/Arkfall (Book 1)/Arkfall Chapter 1.md",
+    "Arkfall/Arkfall Books/Arkfall (Book 1)/Lowell Character Building.md",
+    "Arkfall/Arkfall Brainstorm.md",
     "Arkfall/Groups/Human Species/The Hydren.md",
     "z Images/The Hydren-1786536605794.webp",
-    "Arkfall/Arkfall Brainstorm.md",
     "Arkfall/Groups/Human Species/The Resonant.md",
     "Arkfall/Groups/Human Species/Humanity.md",
     "Arkfall/Groups/The Resonant.md",
@@ -181,9 +198,7 @@
     "Arkfall/Groups/Human Species",
     "Arkfall/Groups/Aliens.md",
     "Arkfall/Groups/The Fallen Star Coalition.md",
-    "Arkfall/Arkfall Books/Lowell's Story/LS Brainstorm.md",
-    "Arkfall/Arkfall Books/AF Book BRAINSTORM!.md",
-    "Arkfall/Arkfall Books/Lowell's Story/Lowell Character Building.md",
+    "Arkfall/Arkfall Books/Arkfall (Book 1)/LS Brainstorm.md",
     "Arkfall/Characters/Humans/Lowell.md",
     "z Images/Lowell-1786535775977.webp",
     "Arkfall/Characters/Modules/August.md",
@@ -191,12 +206,11 @@
     "Arkfall/Characters/Modules",
     "Arkfall/Characters/Humans",
     "Arkfall/Characters",
-    "Arkfall/Arkfall Books/Lowell's Story/LS Chapter 1.md",
     "Arkfall/The Disaster.md",
     "Arkfall/Quantum Lattice.md",
     "Dashboard.md",
     "conflict-files-obsidian-git.md",
-    "Arkfall/Arkfall Books/Lowell's Story",
+    "Arkfall/Arkfall Books/Arkfall (Book 1)",
     "Arkfall/Arkfall Books",
     "Arkfall/Worlds/Earth/Earth.md",
     "Arkfall/Groups/Vectors.md",

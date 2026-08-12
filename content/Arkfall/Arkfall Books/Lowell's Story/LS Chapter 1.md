@@ -1,6 +1,0 @@
----
-publish: false
-title:
-aliases:
----
-
