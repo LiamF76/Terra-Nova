@@ -92,7 +92,7 @@ I forget about bullets as the Lattice grenade explodes, shaking the entire wreck
 
 I see a few more raiders fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I scream across the garden to my friend.
 
-He tilts his head slightly, may not have heard my exact words but we know know what's coming. I hear boots to my right, two coming at me fast. I dive out from my cover and roll, stopping on one knee, and i fire into one's chest, dropping. The other dives towards me with a heavy rifle, trying to unload it right into my face. He is out of control and misses, I crumple him with the butt of my gun, impacting his ribs, I feel something snap.
+He tilts his head slightly, may not have heard my exact words but we know know what's coming. I hear boots to my right, two coming at me fast. I dive out from my cover and roll, stopping on one knee, and I fire into one's chest, dropping. The other dives towards me with a heavy rifle, trying to unload it right into my face. He is out of control and misses, I crumple him with the butt of my gun, impacting his ribs, I feel something snap.
 
 He collapses, dropping his weapon and gasping for air. His helmet rolls off as the ship tilts and groans so loudly the ringing in my ears returns, this whole place screaming like it's about to collapse.
 
