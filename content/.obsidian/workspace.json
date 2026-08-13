@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,6 +154,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Lowell Character Building.md",
     "Arkfall/Groups/Sprites.md",
     "Arkfall/Groups/Vectors.md",
@@ -179,7 +181,6 @@
     "Arkfall/Characters",
     "Arkfall/The Disaster.md",
     "Arkfall/Quantum Lattice.md",
-    "Dashboard.md",
     "conflict-files-obsidian-git.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)",
     "Arkfall/Arkfall Books",
