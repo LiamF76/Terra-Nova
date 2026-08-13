@@ -6,7 +6,7 @@ tags:
   - Arkfall
 ---
 
-The alien races of Arkfall each embody a different pillar of evil.
+The alien races of Arkfall each embody a different pillar of evil. They are not inherently evil, but they are alien and their mental function / capacity for free will are inherently different from ours.
 
 | Race           | Pillar      | Quote                                                                                              |
 | -------------- | ----------- | -------------------------------------------------------------------------------------------------- |
