@@ -48,4 +48,7 @@ I follow suit, allowing my rifle to rest on its strap. "I think it was barely a 
 
 He's sarcastic. "Your boss sounds smart. He sounds like a damn good shot, and one hell of a genius. You boss sounds like he knows that Warlord territory is dangerous, and Warlord territory disputed by Alien pirates is even worse." I retort.
 
-August shrugs and laughs, plucking a flower from the that have filled the ruin. 
+August shrugs and laughs, plucking a flower from the that have filled the ruin. "That's why we bring guns."
+
+He twirls the flower in his hand and places it between his chest plate and shoulder motors. "Stop picking daisies and check with the robo priest, I don't want to be here any longer than I have to."
+
