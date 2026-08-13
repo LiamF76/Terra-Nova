@@ -46,9 +46,34 @@ He chuckles, knowing I am watching him. "Whatever was overhead is at least 5 cli
 
 I follow suit, allowing my rifle to rest on its strap. "I think it was barely a week ago I heard my boss say he couldn't be paid to do a job in this sector."
 
-He's sarcastic. "Your boss sounds smart. He sounds like a damn good shot, and one hell of a genius. You boss sounds like he knows that Warlord territory is dangerous, and Warlord territory disputed by Alien pirates is even worse." I retort.
+"Your boss sounds smart," August says, sarcastic. "Sounds like a damn good shot too. Genius, even knows Warlord territory's dangerous, and Warlord territory disputed by alien pirates is worse."  
 
-August shrugs and laughs, plucking a flower from the that have filled the ruin. "That's why we bring guns."
+"That's why we bring guns," I retort.
 
-He twirls the flower in his hand and places it between his chest plate and shoulder motors. "Stop picking daisies and check with the priest, I don't want to be here any longer than I have to."
+He twirls the flower in his hand and places it between his chest plate and shoulder motors. "Stop picking daisies and keep your eyes open, I don't want to be here any longer than I have to."
 
+Before I can bark at my unfriendly AI worshipping companion to hurry up, the terminal before him erupts in blue light. A massive hologram of a middle aged man appears.
+
+"THIS IS COMMANDER THANGARAJ OF THE UNITED HUMAN CAPITAL SHIP ARGOS." His skin is dark and his hair is black as night, looks a bit like me if I didn't shave bald, and he's old. "WE ARE BESET BY ALIEN PIRATES. THIS IS A DISTRESS CALL. TERMINAL RESPOND."
+
+I charge toward the priest and shove my finger in his face. "Shut this thing up now, the signal will have us swarmed in minutes by Warlord forces and Consortium raiders both." 
+
+I am on my back and catching my breath before I know what happened. Bastard telekinetically SHOVED me back. "Do not disturb the ritual again Commander Lowell. An angel of the Terminal has graced us with his voice."
+
+I'll get him back for that, that's a promise.
+
+August helps me to my feet, I dust my shoulders and pull the hood of my poncho up. Our rifles are shouldered in unison and we nod. It's about to get dangerous here.
+
+I tap the side of my visor, activating my comms back to New Mumbai. "Security team be advised, Sector G2 is about to get hot. We have an unknown ship within 10 clicks and a live signal broadcasting across Golden Age channels. Extraction is imminent, can you get a bird to us?"
+
+Vega, the only reliable dispatch on the security team, responds promptly. "Message received Lowell. Bird is spinning up now, should be out to you in 15. Be advised, our ranged sensors are picking up orbitals inbound to 2G2, you've got pirates, we can't land if they're still sweeping. Shut that distress signal down and we will attempt to reroute them with a decoy."
+
+Just my luck. "Understood, thanks Vega, Lowell out." I pull an orb from my belt and toss it to August. "Lattice grenade, we only have the one. Gotta take out this terminal as soon as he's got the coordinates."
+
+August can't smile, but I know he's feeling it. "It's a beautiful day for a fight." 
+
+Before I can even plant my feet, I hear and feel the entire wreck rumble, and hear the sounds of plasma engines going to second burn, something landed on top of us.
+
+I dive behind some cover, and scan the top of the wreck. 10 shots ring out, glancing off the durosteel ship around me, bullets, Warlord's cronies have found us first.
+
+August rips a metal grate off the side of the terminal with his inhuman strength, shoves the Lattice grenade inside, and shouts something to the priest. I can't hear it over the gunfire, but 
