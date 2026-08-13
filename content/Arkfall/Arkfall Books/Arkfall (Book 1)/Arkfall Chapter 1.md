@@ -80,3 +80,10 @@ August rips a metal grate off the side of the terminal with his inhuman strength
 
 The hologram of Captain Thangaraj dissipates as August drags the priest to cover as the robed fanatic combs over a data stick he pulled. Looks like he got what we were after.
 
+I plant my rifle in my hands and hit one knee beside my makeshift cover, letting off a burst of return fire. I strike two bandits in the legs, dropping them at least 40ft from the top of the archive down into the garden. The crunch of their landing sends a chill up my spine.
+
+I remember my mentor's words long ago, back when I was first learning to shoot. 
+
+*That's the law of the jungle kid. Kill or be killed, but you already knew that didn't you little wolf?*
+
+I lean out and fire two more shots, their armor is crap compared to ours, a hit is a hit, and likely a kill. I find August returning fire same as I am from across the room. We have them outgunned, but not outmanned. August would know better, but by the sound of the engine it was a decent sized troop carrier ship, there could be 40 of them, and we don't have enough bullets for that.
