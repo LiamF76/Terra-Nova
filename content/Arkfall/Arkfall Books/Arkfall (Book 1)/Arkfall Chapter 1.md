@@ -50,5 +50,5 @@ He's sarcastic. "Your boss sounds smart. He sounds like a damn good shot, and on
 
 August shrugs and laughs, plucking a flower from the that have filled the ruin. "That's why we bring guns."
 
-He twirls the flower in his hand and places it between his chest plate and shoulder motors. "Stop picking daisies and check with the robo priest, I don't want to be here any longer than I have to."
+He twirls the flower in his hand and places it between his chest plate and shoulder motors. "Stop picking daisies and check with the priest, I don't want to be here any longer than I have to."
 
