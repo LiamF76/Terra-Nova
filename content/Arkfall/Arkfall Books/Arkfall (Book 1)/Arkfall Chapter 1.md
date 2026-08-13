@@ -76,4 +76,7 @@ Before I can even plant my feet, I hear and feel the entire wreck rumble, and he
 
 I dive behind some cover, and scan the top of the wreck. 10 shots ring out, glancing off the durosteel ship around me, bullets, Warlord's cronies have found us first.
 
-August rips a metal grate off the side of the terminal with his inhuman strength, shoves the Lattice grenade inside, and shouts something to the priest. I can't hear it over the gunfire, but 
+August rips a metal grate off the side of the terminal with his inhuman strength, shoves the Lattice grenade inside, and shouts something to the priest. I can't hear it over the gunfire, but neither of them look happy about it.
+
+The hologram of Captain Thangaraj dissipates as August drags the priest to cover as the robed fanatic combs over a data stick he pulled. Looks like he got what we were after.
+
