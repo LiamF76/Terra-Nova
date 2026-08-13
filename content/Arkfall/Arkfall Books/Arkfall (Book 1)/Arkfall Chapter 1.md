@@ -10,7 +10,7 @@ tags:
 
 `Author Notes: Intro, dive right into fallen world of technology, Lowell and August on job to collect vault coordinates from a crashed Capital Ship. AI priest is with them decoding the info, they get into a gunfight with raiders.`
 
-My hand runs along the cool steel walls of the ship's abandonned corridor. I raise my fist, commanding my trio to halt as I toss a stone down a hallway, triggering a door lock. A heavy steel door slams downwards just barely ahead of me, glad we stopped before it made me a pancake.
+My hand runs along the cool steel walls of the ship's abandoned corridor. I raise my fist, commanding my trio to halt as I toss a stone down a hallway, triggering a door lock. A heavy steel door slams downwards just barely ahead of me, glad we stopped before it made me a pancake.
 
 These old Capital Ships are massive and filled with incomprehensibly wired backup batteries and solar panels. You never know what will still be on and what's shorted. It feels older than anything I've ever held and yet at the same time so advanced we can barely understand it anymore.
 
