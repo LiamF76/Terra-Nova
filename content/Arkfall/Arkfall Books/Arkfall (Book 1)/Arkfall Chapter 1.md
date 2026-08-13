@@ -92,4 +92,19 @@ I forget about bullets as the Lattice grenade explodes, shaking the entire wreck
 
 I see a few more raiders fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I scream across the garden to my friend.
 
-He tilts his head slightly, may not have heard my exact words but we know know what's coming. 
+He tilts his head slightly, may not have heard my exact words but we know know what's coming. I hear boots to my right, two coming at me fast. I dive out from my cover and roll, stopping on one knee, and i fire into one's chest, dropping. The other dives towards me with a heavy rifle, trying to unload it right into my face. He is out of control and misses, I crumple him with the butt of my gun, impacting his ribs, I feel something snap.
+
+He collapses, dropping his weapon and gasping for air. His helmet rolls off as the ship tilts and groans so loudly the ringing in my ears returns, this whole place screaming like it's about to collapse.
+
+The raider is young, grasping at the handle of his rifle, I kick it away and drag him behind my cover as August tosses a grenade into the fray. 
+
+I shake the kid, trying to wake him from the adrenaline, "Leave it kid, you're finished. I won't kill ya, but your fight is over yeah? Let it be."
+
+I lock eyes with him, they're green. A soft green, like a pearl from the beach. I thought we were having a moment, a moment he realized it was fine, and he would get to walk out of this deathtrap, but we weren't. 
+
+The click of the pin snaps me from my delusion, and I see him holding a frag right to his chest. He's gonna kill us both.
+
+I hear August screaming, his voice getting closer, but the explosion is much louder. I tried to hurl the kid along the floor as far as I could, but he only went so far. I dive backwards and feel a sharp pain in my left arm, covering my face.
+
+Another boom echoes through the fray, from outside the ship, and my vision goes black.
+
