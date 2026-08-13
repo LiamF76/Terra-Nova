@@ -20,7 +20,9 @@ The whirr of August's neck tells me he nodded without having to look. I don't he
 
 As if. The Terminal couldn't give less of a shit about him or our job, but he whined all the same. My dad used to say, "never worry about there not being enough room in hell when ya die kid. There's always a Priest willing to give up his spot."
 
-As we round the corner to the archive, the door slides open before us. Out of the corner of my eye I barely catch a glimpse of the Priest flicking his hands across his chest, and a tiny bolt of energy strikes the wall. Maybe he wasn't a complete lunatic if he could open doors with some Lattice.
+As we round the corner to the archive, the door slides open before us. Out of the corner of my eye I barely catch a glimpse of the Priest flicking his hands across his chest, and a tiny bolt of energy strikes the wall. Maybe he isn't a complete lunatic if he can open doors with some Lattice. Being tied to an AI has its benefits...
+
+I step carefully on moss patches, taking care to avoid the metal floor paneling in case any more defensive measures are online. Stepping from the sealed hallways of the massive shipwreck into this room is a breath of fresh air.
 
 The archive is beautiful. a couple hundred years ago this vessel was soaring between the Lunar colonies and the dwarves, and now it's... a garden.
 
@@ -36,3 +38,14 @@ As he moves forward, I can see my face reflected in his helmet. It's a glass dom
 
 The Priest responds in a robotic voice, different than August, not alive and human, but something colder. "Indeed mercenary. I will now extract the data The Terminal has blessed for extraction. Prevent incursion. Kill anything that attempts to disturb my sermon."
 
+He floats his creepy robed self over to the central terminal and starts praying as he kicks the machine on. It buzzes quietly as the interface wakes up, and he starts plugging away at its buttons.
+
+August takes up a position next to me, dialing his mechanical eyes into sensor mode as he scans the horizon. He flips up his antenna, I love when he does that, he looks like a walking radio.
+
+He chuckles, knowing I am watching him. "Whatever was overhead is at least 5 clicks out now. Gets fuzzy past that, lots of interference from the ship." He flips the antenna back down and holsters his rifle, letting it hang from the shoulder strap.
+
+I follow suit, allowing my rifle to rest on its strap. "I think it was barely a week ago I heard my boss say he couldn't be paid to do a job in this sector."
+
+He's sarcastic. "Your boss sounds smart. He sounds like a damn good shot, and one hell of a genius. You boss sounds like he knows that Warlord territory is dangerous, and Warlord territory disputed by Alien pirates is even worse." I retort.
+
+August shrugs and laughs, plucking a flower from the that have filled the ruin. 
