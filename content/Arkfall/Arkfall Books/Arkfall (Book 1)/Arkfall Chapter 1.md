@@ -87,3 +87,5 @@ I remember my mentor's words long ago, back when I was first learning to shoot.
 *That's the law of the jungle kid. Kill or be killed, but you already knew that didn't you little wolf?*
 
 I lean out and fire two more shots, their armor is crap compared to ours, a hit is a hit, and likely a kill. I find August returning fire same as I am from across the room. We have them outgunned, but not outmanned. August would know better, but by the sound of the engine it was a decent sized troop carrier ship, there could be 40 of them, and we don't have enough bullets for that.
+
+I forget about bullets as the Lattice nade explodes, shaking the entire wreck. I am quite good at math, but I wanted to be sure that terminal was gone, I had no idea it would split the entire room. I lose my footing as the entire ship tilts, the explosion is golden like fire and plasma, and my ears ring.
