@@ -12,4 +12,7 @@ The ringing is awful, and I can feel my eyes rolling lazily, everything looks li
 
 The screaming around me is hard to hear, something about shocking.
 
-Another hand hits my chest, and a massive bubble, black as night, fills my vision. The hand twists and lightning fires through my body
+Another hand hits my chest, and a massive bubble, black as night, fills my vision. The hand twists and lightning fires through my body. I feel myself lurch upwards as my senses return with violent speed, my hearing fills with the sound of metal against metal and August shouting my name. An open hand flies across my face, bringing me back to reality.
+
+"There he is, hey boss. Listen, you're fine, I taped up your arm, but we have to go. Pirates are here, and judging by the sounds outside, they're throwing Lattice with extreme prejudice."
+
