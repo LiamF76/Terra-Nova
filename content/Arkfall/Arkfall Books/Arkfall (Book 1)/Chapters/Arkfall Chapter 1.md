@@ -104,6 +104,15 @@ The big one is slinking forward slowly, doesn't seem too worried about us. Mount
 
 "August, tell me you've got eyes on that sniper," I call over, voice pitched under the chitter and the groan of settling metal. We need to be cautious, this place was already a wreck, disturbing it any more could bring the entire ship down on top of us.
 
-"Working on it." He's flat against the terminal's far side, rifle up, one robotic eye dialing into focus on the busted catwalk above. "He's good. Hasn't given me a shot since the grenade."
+"Working on it." He's flat against the terminal's far side, rifle up, one robotic eye dialing into focus on the busted catwalk above. "He's good. Hasn't given me a shot since the grenade. Care to bring him to the dance floor?"
 
+"Gladly. Hey Priest, we have about 10 seconds before the welcome party gets here, few minutes left before we get this bird to fly us home. If you have any more tricks like the one with the door, I would do it." I pull the mag from my rifle, half empty. August would call it half full. It's the little things in life I guess.
+
+The priest doesn't look up, but he nods, and starts chanting some gibberish, holding the data stick close. "The Terminal shall provide. It is the Holy Defense Network, and we shall be protected."
+
+A shot cracks through the terminal, the bolt of Lattice energy pierces through two inches of Golden Age alloy. This stuff could deflect cruiser cannon shots, and the sniper just melted through half of it with one shot. I slide lower, feeling the heat on my cheek.
+
+"We're dead." I mutter, and then I exclaim a plan to August. "I lay fire on the tree line, the sniper will peak out, squish that bug. Heard?"
+
+"Heard!" He shouts gladly. "You have the best plans Lowell!"
 
