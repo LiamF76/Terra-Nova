@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "95612798425fb517",
+            "id": "1e33ff1b47298bcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 1.md",
+                "file": "Arkfall/Groups/Alien Species/The Consortium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arkfall Chapter 1"
+              "title": "The Consortium"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 1.md",
+                "file": "Arkfall/Groups/Alien Species/The Consortium.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,11 +167,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "95612798425fb517",
+  "active": "1e33ff1b47298bcc",
   "lastOpenFiles": [
     "Dashboard.md",
-    "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 2.md",
+    "Arkfall/Groups/Alien Species/Consortian.md",
+    "Arkfall/Groups/Alien Species/The Consortium.md",
+    "Arkfall/Groups/Aliens.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 1.md",
+    "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 2.md",
     "Writing Tips/How to Write Absurdly Well — Adrian Tchaikovsky Notes.md",
     "Writing Tips",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters",
@@ -190,7 +193,6 @@
     "Arkfall/Worlds/Cosmology.md",
     "Arkfall/Groups/Alien Species",
     "Arkfall/Groups/Human Species",
-    "Arkfall/Groups/Aliens.md",
     "Arkfall/Groups/The Fallen Star Coalition.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/LS Brainstorm.md",
     "Arkfall/Characters/Humans/Lowell.md",
@@ -205,8 +207,6 @@
     "Arkfall/Arkfall Books/Arkfall (Book 1)",
     "Arkfall/Arkfall Books",
     "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
-    "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
-    "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/TWOTTS Brainstorm.md",
     "Terra-Nova/Campaigns/Player Characters",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "z Images/Woven-1785375846466.webp",
