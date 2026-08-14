@@ -98,4 +98,7 @@ I feel the entire room shake, probably made the entire wreck shiver. Usually I'm
 
 I see a few more pirates fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "THEY HAVE LATTICE RIFLES! AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I shout again across the garden to my friend. I feel like I'm tearing my vocal cords but I have to make sure he hears me.
 
-My ears ares still ringing as I hear wet chittering mandibles, more of the bugs are pouring out of the ships halls. The clicks they make are rhythmic, almost like music, their language. I dare to glance out and count, five of them. Five of them, five feet tall at the shoulder, weaving low and fast through the wreckage. Their vaguely humanoid forms are laden with a deep blue-black carapace and four strong arms. The leader is clearly bigger, easily seven feet, wielding a 
+My ears ares still ringing as I hear wet chittering mandibles, more of the bugs are pouring out of the ships halls. The clicks they make are rhythmic, almost like music, their language. I dare to glance out and count, five of them. Five of them, five feet tall at the shoulder, weaving low and fast through the wreckage. Their vaguely humanoid forms are laden with a deep blue-black carapace and four strong arms. The leader is clearly bigger, easily seven feet, wielding a massive metal blade of some kind in its right hands, and a pair of light pistols in its left hands.
+
+The big one is slinking forward slowly, doesn't seem too worried about us. Mounted to his back is a tall metal pole, some kind of flag. It's red with a white painted symbol I don't recognize.
+
