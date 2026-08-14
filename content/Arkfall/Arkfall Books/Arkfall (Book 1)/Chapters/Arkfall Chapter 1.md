@@ -103,3 +103,7 @@ My ears are still ringing as I hear wet chittering mandibles, more of the bugs a
 The big one is slinking forward slowly, doesn't seem too worried about us. Mounted to his back is a tall metal pole, some kind of flag. It's red with a black painted symbol, they're from the Company of Debt. Debt Consortians don't leave without what they think they're owed. Today, that's us.
 
 "August, tell me you've got eyes on that sniper," I call over, voice pitched under the chitter and the groan of settling metal. We need to be cautious, this place was already a wreck, disturbing it any more could bring the entire ship down on top of us.
+
+"Working on it." He's flat against the terminal's far side, rifle up, one robotic eye dialing into focus on the busted catwalk above. "He's good. Hasn't given me a shot since the grenade."
+
+
