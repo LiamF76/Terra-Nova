@@ -116,3 +116,10 @@ A shot cracks through the terminal, the bolt of Lattice energy pierces through t
 
 "Heard!" He shouts gladly. "You have the best plans Lowell!"
 
+What a joyful mercenary my pal August is. I love how he ignore numbers, just how in the shit we are.
+
+I shift my weight to give myself some momentum, move further from cover and it makes you harder to hit. I swing out wide with my sped, and train my rifle on the advancing hostiles. My finger tenses gently, controlling the recoil of my rifle, three shots per Consortian, clean, all hits, mag empty.
+
+Two die on impact, shots split their insect skulls open and leave their bodies limp, coating the moss in blue. Three are still coming, and the big one isn't moving, just barking orders, the loudest vibrating and chittering I have ever heard. I don't like the way it looks at me, like it's studying me.
+
+I duck back behind cover as I hear a loud snap, and hear a crunch from across the archive. August whoops in celebration, looks like he got the sniper.
