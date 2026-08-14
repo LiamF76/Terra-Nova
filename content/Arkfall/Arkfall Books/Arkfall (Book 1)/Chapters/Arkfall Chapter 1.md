@@ -12,7 +12,7 @@ tags:
 
 My hand runs along the cool steel walls of the ship's abandoned corridor. I raise my fist, commanding my trio to halt as I toss a stone down a hallway, triggering a door lock. A heavy steel door slams downwards just barely ahead of me, glad we stopped before it made me a pancake.
 
-These old Capital Ships are massive and filled with incomprehensibly wired backup batteries and solar panels. You never know what will still be on and what's shorted. It feels older than anything I've ever held and yet at the same time so advanced we can barely understand it anymore.
+These old Capital Ships are massive and filled with incomprehensibly wired backup batteries and solar panels. Just walking up to it is an experience, over a thousand meters long, end to end Golden Age interstellar tech. You never know what will still be on and what's shorted. It feels older than anything I've ever held and yet at the same time so advanced we can barely understand it anymore.
 
 I lower my fist and point my hand forwards, open palmed. "Let's keep moving."
 
@@ -102,4 +102,4 @@ My ears are still ringing as I hear wet chittering mandibles, more of the bugs a
 
 The big one is slinking forward slowly, doesn't seem too worried about us. Mounted to his back is a tall metal pole, some kind of flag. It's red with a black painted symbol, they're from the Company of Debt. Debt Consortians don't leave without what they think they're owed. Today, that's us.
 
-
+"August, tell me you've got eyes on that sniper," I call over, voice pitched under the chitter and the groan of settling metal. We need to be cautious, this place was already a wreck, disturbing it any more could bring the entire ship down on top of us.
