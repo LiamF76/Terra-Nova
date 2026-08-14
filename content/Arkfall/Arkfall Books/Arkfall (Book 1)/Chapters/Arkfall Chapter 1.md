@@ -100,6 +100,6 @@ I see a few more pirates fall into the archive, and as the entire room rumbles a
 
 My ears are still ringing as I hear wet chittering mandibles, more of the bugs are pouring out of the ships halls. The clicks they make are rhythmic, almost like music, their language. I dare to glance out and count, five of them. Five of them, five feet tall at the shoulder, weaving low and fast through the wreckage. Their vaguely humanoid forms are laden with a deep blue-black carapace and four strong arms. The leader is clearly bigger, easily seven feet, wielding a massive metal blade of some kind in its right hands, and a pair of light pistols in its left hands.
 
-The big one is slinking forward slowly, doesn't seem too worried about us. Mounted to his back is a tall metal pole, some kind of flag. It's red with a black painted symbol, they're from the Company of Debt. Debt Consortians are dangerous, they get what they think they're owed, and apparently they feel entitled to a piece of us today.
+The big one is slinking forward slowly, doesn't seem too worried about us. Mounted to his back is a tall metal pole, some kind of flag. It's red with a black painted symbol, they're from the Company of Debt. Debt Consortians don't leave without what they think they're owed. Today, that's us.
 
 
