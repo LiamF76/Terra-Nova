@@ -45,7 +45,7 @@ tbd
 - **Diet:** 
 - **Social structure:** Consortians are divided into family groups called 'Companies.'
   List of Consortium Companies
-	- Company of Debt (Red)
+	- Company of Debt (Green)
 	- Company of Margin (Blue)
 	- Company of Toll (Black)
 	- Company of Yield (Yellow)
