@@ -43,7 +43,12 @@ tbd
 
 ## Behavior
 - **Diet:** 
-- **Social structure:** 
+- **Social structure:** Consortians are divided into family groups called 'Companies.'
+  List of Consortium Companies
+	- Company of Debt (Red)
+	- Company of Margin (Blue)
+	- Company of Toll (Black)
+	- Company of Yield (Yellow)
 - **Temperament:** 
 - **Notable habits:** 
 
