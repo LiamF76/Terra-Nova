@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 2.md",
-      "timestamp": 1786646388789
+      "filepath": "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 1.md",
+      "timestamp": 1786673200907
     },
     {
-      "filepath": "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 1.md",
-      "timestamp": 1786646382828
+      "filepath": "Dashboard.md",
+      "timestamp": 1786673199944
+    },
+    {
+      "filepath": "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 2.md",
+      "timestamp": 1786672397859
+    },
+    {
+      "filepath": "Writing Tips/How to Write Absurdly Well — Adrian Tchaikovsky Notes.md",
+      "timestamp": 1786672055227
     },
     {
       "filepath": "Arkfall/Worlds/Earth/Earth.md",
       "timestamp": 1786633177241
-    },
-    {
-      "filepath": "Dashboard.md",
-      "timestamp": 1786633170015
     }
   ],
   "bookmarkedFileStore": [],

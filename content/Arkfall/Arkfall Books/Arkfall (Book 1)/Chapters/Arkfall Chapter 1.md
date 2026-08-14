@@ -64,9 +64,13 @@ I'll get him back for that, that's a promise.
 
 August helps me to my feet, I dust my shoulders and pull the hood of my poncho up. Our rifles are shouldered in unison and we nod. It's about to get dangerous here.
 
-I tap the side of my visor, activating my comms back to New Mumbai. "Security team be advised, Sector G2 is about to get hot. We have an unknown ship within 10 clicks and a live signal broadcasting across Golden Age channels. Extraction is imminent, can you get a bird to us?"
+"It's a damn distress signal you idiot, and it's gonna have us neck deep in trouble if you don't shut it down!" I shout as I walk away.
 
-Vega, the only reliable dispatch on the security team, responds promptly. "Message received Lowell. Bird is spinning up now, should be out to you in 15. Be advised, our ranged sensors are picking up orbitals inbound to 2G2, you've got pirates, we can't land if they're still sweeping. Shut that distress signal down and we will attempt to reroute them with a decoy."
+My fingers gently tap the side of my visor, activating my long range comms back to New Mumbai. "Security team be advised, Sector G2 is about to get hot. We have an unknown ship within 10 clicks and a live signal broadcasting across Golden Age channels. Extraction is imminent, can you get a bird to us?"
+
+No point going radio silent now, not with the good Captain begging every Consortian in 50 clicks to come eat us and steal anything with a battery. 
+
+Vega, the only reliable dispatch on the security team, responds promptly. "Message received Lowell. An extraction ship is spinning up now, should be out to you in 15. Be advised, our ranged sensors are picking up orbitals inbound to G2, you've got pirates, we can't land if they're still sweeping. Shut that distress signal down and we will attempt to reroute them with a decoy."
 
 Just my luck. "Understood, thanks Vega, Lowell out." I pull an orb from my belt and toss it to August. "Lattice grenade, we only have the one. Gotta take out this terminal as soon as he's got the coordinates."
 
@@ -74,37 +78,23 @@ August can't smile, but I know he's feeling it. "It's a beautiful day for a figh
 
 Before I can even plant my feet, I hear and feel the entire wreck rumble, and hear the sounds of plasma engines going to second burn, something landed on top of us.
 
-I dive behind some cover, and scan the top of the wreck. 10 shots ring out, glancing off the durosteel ship around me, bullets, Warlord's cronies have found us first.
+I dive behind some cover, and scan the top of the wreck. 10 shots ring out, glancing off the durosteel ship around me, bullets, something is shooting at me. But where from? I lean just far enough out from this hunk of metal protecting me to see them, Consortium Pirates,. They're holding position on top of the ship, perfect vantage on the entire archive with the glass windows gone.
 
 August rips a metal grate off the side of the terminal with his inhuman strength, shoves the Lattice grenade inside, and shouts something to the priest. I can't hear it over the gunfire, but neither of them look happy about it.
 
 The hologram of Captain Thangaraj dissipates as August drags the priest to cover as the robed fanatic combs over a data stick he pulled. Looks like he got what we were after.
 
-I plant my rifle in my hands and hit one knee beside my makeshift cover, letting off a burst of return fire. I strike two bandits in the legs, dropping them at least 40ft from the top of the archive down into the garden. The crunch of their landing sends a chill up my spine.
+I plant my rifle in my hands and hit one knee beside my makeshift cover, my visor flicks red, highlighting bug bio signatures in my vision. There are at least five. I breathe in, carefully place two shots into one, dropping it. The body crumples and falls over the edge, landing with a splat in the archive. Its blue blood splatters across the metal floor panels, staining the moss and rocks.
 
-I remember my mentor's words long ago, back when I was first learning to shoot. 
+I stare at the body for a second, remembering my mentor's words long ago. All the way back when I was first learning to shoot. 
 
-*That's the law of the jungle kid. Kill or be killed, but you already knew that didn't you little wolf?*
+*That's the law of the jungle kid. Kill or be killed, but you already knew that didn't you little wolf?* He tustles my hair and shoves the rifle into my shoulder.
 
-I lean out and fire two more shots, their armor is crap compared to ours, a hit is a hit, and likely a kill. I find August returning fire same as I am from across the room. We have them outgunned, but not outmanned. August would know better, but by the sound of the engine it was a decent sized troop carrier ship, there could be 40 of them, and we don't have enough bullets for that.
+I breathe out quickly and take another deep breath in  and fire two more shots, I hit another in the shoulder, it reels backwards out of my sight. The last one on the top is holding a long rifle, sniper. I dive as quickly as I can behind cover, narrowly missed by a streaking blue bolt of energy from a Lattice rifle.
 
-I forget about bullets as the Lattice grenade explodes, shaking the entire wreck. I am quite good at math, but I wanted to be sure that terminal was gone, I had no idea it would split the entire room. I lose my footing as the entire ship tilts, the explosion is golden like fire and plasma, and my ears ring.
+"August!" I scream from behind the bulkhead. "They have-" I am cut short by the explosion of August's Lattice grenade.
 
-I see a few more raiders fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I scream across the garden to my friend.
+I feel the entire room shake, probably made the entire wreck shiver. Usually I'm good with guessing (I call it estimation), but I had no idea how big that grenade was going to go.
 
-He tilts his head slightly, may not have heard my exact words but we know know what's coming. I hear boots to my right, two coming at me fast. I dive out from my cover and roll, stopping on one knee, and I fire into one's chest, dropping. The other dives towards me with a heavy rifle, trying to unload it right into my face. He is out of control and misses, I crumple him with the butt of my gun, impacting his ribs, I feel something snap.
-
-He collapses, dropping his weapon and gasping for air. His helmet rolls off as the ship tilts and groans so loudly the ringing in my ears returns, this whole place screaming like it's about to collapse.
-
-The raider is young, grasping at the handle of his rifle, I kick it away and drag him behind my cover as August tosses a grenade into the fray. 
-
-I shake the kid, trying to wake him from the adrenaline, "Leave it kid, you're finished. I won't kill ya, but your fight is over yeah? Let it be."
-
-I lock eyes with him, they're green. A soft green, like a pearl from the beach. I thought we were having a moment, a moment he realized it was fine, and he would get to walk out of this deathtrap, but we weren't. 
-
-The click of the pin snaps me from my delusion, and I see him holding a frag right to his chest. He's gonna kill us both.
-
-I hear August screaming, his voice getting closer, but the explosion is much louder. I tried to hurl the kid along the floor as far as I could, but he only went so far. I dive backwards and feel a sharp pain in my left arm, covering my face.
-
-Another boom echoes through the fray, from outside the ship, and my vision goes black.
+I see a few more pirates fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I shout again across the garden to my friend.
 
