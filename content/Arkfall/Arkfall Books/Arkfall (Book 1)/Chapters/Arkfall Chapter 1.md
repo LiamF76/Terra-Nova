@@ -8,7 +8,7 @@ tags:
 
 # Arkfall Chapter 1
 
-`Author Notes: Intro, dive right into fallen world of technology, Lowell and August on job to collect vault coordinates from a crashed Capital Ship. AI priest is with them decoding the info, they get into a gunfight with raiders.`
+`Author Notes: Intro, dive right into fallen world of technology, Lowell and August on job to collect vault coordinates from a crashed Capital Ship. AI priest is with them decoding the info, they get into a gunfight with Consortium Pirates.`
 
 My hand runs along the cool steel walls of the ship's abandoned corridor. I raise my fist, commanding my trio to halt as I toss a stone down a hallway, triggering a door lock. A heavy steel door slams downwards just barely ahead of me, glad we stopped before it made me a pancake.
 
@@ -96,5 +96,6 @@ I breathe out quickly and take another deep breath in  and fire two more shots, 
 
 I feel the entire room shake, probably made the entire wreck shiver. Usually I'm good with guessing (I call it estimation), but I had no idea how big that grenade was going to go.
 
-I see a few more pirates fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I shout again across the garden to my friend.
+I see a few more pirates fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "THEY HAVE LATTICE RIFLES! AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I shout again across the garden to my friend. I feel like I'm tearing my vocal cords but I have to make sure he hears me.
 
+My ears ares still ringing as I hear wet chittering mandibles, more of the bugs are pouring out of the ships halls. 
