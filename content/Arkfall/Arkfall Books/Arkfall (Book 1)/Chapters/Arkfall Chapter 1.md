@@ -98,4 +98,4 @@ I feel the entire room shake, probably made the entire wreck shiver. Usually I'm
 
 I see a few more pirates fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "THEY HAVE LATTICE RIFLES! AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I shout again across the garden to my friend. I feel like I'm tearing my vocal cords but I have to make sure he hears me.
 
-My ears ares still ringing as I hear wet chittering mandibles, more of the bugs are pouring out of the ships halls. The clicks they make are rhythmic, almost like music, their language. I dare to glance out and count, five of them. Four little ones nearly 5ft tall, and a bigger one, almost 7 by iteslf.
+My ears ares still ringing as I hear wet chittering mandibles, more of the bugs are pouring out of the ships halls. The clicks they make are rhythmic, almost like music, their language. I dare to glance out and count, five of them. Four little ones nearly 5ft tall, and a bigger one, almost 7 by itself.
