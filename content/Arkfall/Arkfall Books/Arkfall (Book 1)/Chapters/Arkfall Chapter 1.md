@@ -16,7 +16,7 @@ These old Capital Ships are massive and filled with incomprehensibly wired backu
 
 I lower my fist and point my hand forwards, open palmed. "Let's keep moving."
 
-The whirr of August's neck tells me he nodded without having to look. I don't hear the priest's robes swish, sour bastard. He's had an attitude since I stopped his declaration to The Terminal that we enter "his lord's" holy vessel of war.
+The whir of August's neck tells me he nodded without having to look. I don't hear the priest's robes swish, sour bastard. He's had an attitude since I stopped his declaration to The Terminal that we enter "his lord's" holy vessel of war.
 
 As if. The Terminal couldn't give less of a shit about him or our job, but he whined all the same. My dad used to say, "never worry about there not being enough room in hell when ya die kid. There's always a Priest willing to give up his spot."
 
@@ -24,7 +24,7 @@ As we round the corner to the archive, the door slides open before us. Out of th
 
 I step carefully on moss patches, taking care to avoid the metal floor paneling in case any more defensive measures are online. Stepping from the sealed hallways of the massive shipwreck into this room is a breath of fresh air.
 
-The archive is beautiful. a couple hundred years ago this vessel was soaring between the Lunar colonies and the dwarves, and now it's... a garden.
+The archive is beautiful. A couple hundred years ago this vessel was soaring between the Lunar colonies and the dwarves, and now it's... a garden.
 
 Nature took it the same way it took back everything around New Mumbai. There were vines creeping through the tall broken glass windows, and flowers blossomed across the 30ft high bookshelves that dotted each wall. The hum of a spaceship was replaced by the rush of water, a river flowed through the space from above in the ship's fins and down through to the other side.
 
@@ -34,9 +34,9 @@ Burning air and the smell of plasma ruin my quiet contemplation of the universe'
 
 "Make it fast Priest. We draw any attention this place is gonna get lively fast. We have hostiles in the area, prowling for lost historians with a death wish." I wave the Priest forward and he floats past me uncaring.
 
-As he moves forward, I can see my face reflected in his helmet. It's a glass dome helm of some kind, like an old timey space walk suit, but dark. It hides his face, but not his disdain for my attitude it seems. I can feel him scowling as I pull my lip down, checking for hairs I missed while shaving.
+As he moves forward, I can see my face reflected in his helmet. It's a glass dome helm of some kind, like an old-timey space walk suit, but dark. It hides his face, but not his disdain for my attitude it seems. I can feel him scowling as I pull my lip down, checking for hairs I missed while shaving.
 
-The Priest responds in a robotic voice, different than August, not alive and human, but something colder. "Indeed mercenary. I will now extract the data The Terminal has blessed for extraction. Prevent incursion. Kill anything that attempts to disturb my sermon."
+The Priest responds in a robotic voice, different from August, not alive and human, but something colder. "Indeed mercenary. I will now extract the data The Terminal has blessed for extraction. Prevent incursion. Kill anything that attempts to disturb my sermon."
 
 He floats his creepy robed self over to the central terminal and starts praying as he kicks the machine on. It buzzes quietly as the interface wakes up, and he starts plugging away at its buttons.
 
@@ -52,9 +52,9 @@ I follow suit, allowing my rifle to rest on its strap. "I think it was barely a 
 
 He twirls the flower in his hand and places it between his chest plate and shoulder motors. "Stop picking daisies and keep your eyes open, I don't want to be here any longer than I have to."
 
-Before I can bark at my unfriendly AI worshipping companion to hurry up, the terminal before him erupts in blue light. A massive hologram of a middle aged man appears.
+Before I can bark at my unfriendly AI worshiping companion to hurry up, the terminal before him erupts in blue light. A massive hologram of a middle-aged man appears.
 
-"THIS IS COMMANDER THANGARAJ OF THE UNITED HUMAN CAPITAL SHIP ARGOS." His skin is dark and his hair is black as night, looks a bit like me if I didn't shave bald, and he's old. "WE ARE BESET BY ALIEN PIRATES. THIS IS A DISTRESS CALL. TERMINAL RESPOND."
+"THIS IS COMMANDER THANGARAJ OF THE UNITED HUMAN CAPITAL SHIP ARGOS." His skin is dark, and his hair is black as night, looks a bit like me if I didn't shave bald, and he's old. "WE ARE BESET BY ALIEN PIRATES. THIS IS A DISTRESS CALL. TERMINAL RESPOND."
 
 I charge toward the priest and shove my finger in his face. "Shut this thing up now, the signal will have us swarmed in minutes by Warlord forces and Consortium raiders both." 
 
@@ -70,7 +70,7 @@ My fingers gently tap the side of my visor, activating my long range comms back 
 
 No point going radio silent now, not with the good Captain begging every Consortian in 50 clicks to come eat us and steal anything with a battery. 
 
-Vega, the only reliable dispatch on the security team, responds promptly. "Message received Lowell. An extraction ship is spinning up now, should be out to you in 15. Be advised, our ranged sensors are picking up orbitals inbound to G2, you've got pirates, we can't land if they're still sweeping. Shut that distress signal down and we will attempt to reroute them with a decoy."
+Vega, the only reliable dispatch on the security team, responds promptly. "Message received Lowell. An extraction ship is spinning up now, should be out to you in 15. Be advised, our ranged sensors are picking up orbitals inbound to G2, you've got pirates, we can't land if they're still sweeping. Shut that distress signal down, and we will attempt to reroute them with a decoy."
 
 Just my luck. "Understood, thanks Vega, Lowell out." I pull an orb from my belt and toss it to August. "Lattice grenade, we only have the one. Gotta take out this terminal as soon as he's got the coordinates."
 
@@ -78,7 +78,7 @@ August can't smile, but I know he's feeling it. "It's a beautiful day for a figh
 
 Before I can even plant my feet, I hear and feel the entire wreck rumble, and hear the sounds of plasma engines going to second burn, something landed on top of us.
 
-I dive behind some cover, and scan the top of the wreck. 10 shots ring out, glancing off the durosteel ship around me, bullets, something is shooting at me. But where from? I lean just far enough out from this hunk of metal protecting me to see them, Consortium Pirates,. They're holding position on top of the ship, perfect vantage on the entire archive with the glass windows gone.
+I dive behind some cover, and scan the top of the wreck. 10 shots ring out, glancing off the durosteel ship around me. Something is shooting at me, but where from? I lean just far enough out from this hunk of metal protecting me to see them, Consortium Pirates. They're holding position on top of the ship, perfect vantage on the entire archive with the glass windows gone.
 
 August rips a metal grate off the side of the terminal with his inhuman strength, shoves the Lattice grenade inside, and shouts something to the priest. I can't hear it over the gunfire, but neither of them look happy about it.
 
@@ -88,21 +88,21 @@ I plant my rifle in my hands and hit one knee beside my makeshift cover, my viso
 
 I stare at the body for a second, remembering my mentor's words long ago. All the way back when I was first learning to shoot. 
 
-*That's the law of the jungle kid. Kill or be killed, but you already knew that didn't you little wolf?* He tustles my hair and shoves the rifle into my shoulder.
+*That's the law of the jungle kid. Kill or be killed, but you already knew that didn't you little wolf?* He rustles my hair and shoves the rifle into my shoulder.
 
-I breathe out quickly and take another deep breath in  and fire two more shots, I hit another in the shoulder, it reels backwards out of my sight. The last one on the top is holding a long rifle, sniper. I dive as quickly as I can behind cover, narrowly missed by a streaking blue bolt of energy from a Lattice rifle.
+I breathe out quickly and take another deep breath in and fire two more shots, I hit another in the shoulder, it reels backwards out of my sight. The last one on the top is holding a long rifle, sniper. I dive as quickly as I can behind cover, narrowly missed by a streaking blue bolt of energy from a Lattice rifle.
 
 "August!" I scream from behind the bulkhead. "They have-" I am cut short by the explosion of August's Lattice grenade.
 
 I feel the entire room shake, probably made the entire wreck shiver. Usually I'm good with guessing (I call it estimation), but I had no idea how big that grenade was going to go.
 
-I see a few more pirates fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "THEY HAVE A LATTICE RIFLE! AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I shout again across the garden to my friend. I feel like I'm tearing my vocal cords but I have to make sure he hears me.
+I see a few more pirates fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "THEY HAVE A LATTICE RIFLE! AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I shout again across the garden to my friend. I feel like I'm tearing my vocal cords, but I have to make sure he hears me.
 
 My ears are still ringing as I hear wet chittering mandibles, more of the bugs are pouring out of the ships halls. The clicks they make are rhythmic, almost like music, their language. I dare to glance out and count, five of them. Five of them, five feet tall at the shoulder, weaving low and fast through the wreckage. Their vaguely humanoid forms are laden with a deep blue-black carapace and four strong arms. The leader is clearly bigger, easily seven feet, wielding a massive metal blade of some kind in its right hands, and a pair of light pistols in its left hands.
 
 The big one is slinking forward slowly, doesn't seem too worried about us. Mounted to his back is a tall metal pole, some kind of flag. It's red with a black painted symbol, they're from the Company of Debt. Debt Consortians don't leave without what they think they're owed. Today, that's us.
 
-"August, tell me you've got eyes on that sniper," I call over, voice pitched under the chitter and the groan of settling metal. We need to be cautious, this place was already a wreck, disturbing it any more could bring the entire ship down on top of us.
+"August, tell me you've got eyes on that sniper," I call over, voice pitched under the chitter and the groan of settling metal. We need to be cautious, this place was already a wreck, disturbing it anymore could bring the entire ship down on top of us.
 
 "Working on it." He's flat against the terminal's far side, rifle up, one robotic eye dialing into focus on the busted catwalk above. "He's good. Hasn't given me a shot since the grenade. Care to bring him to the dance floor?"
 
@@ -118,9 +118,18 @@ A shot cracks through the terminal, the bolt of Lattice energy pierces through t
 
 What a joyful mercenary my pal August is. I love how he ignores numbers and just how deep in the shit we are.
 
-I shift my weight to give myself some momentum, move further from cover and it makes you harder to hit. I swing out wide with my speed, and train my rifle on the advancing hostiles. My finger tenses gently, controlling the recoil of my rifle, three shots per Consortian, clean, all hits, mag empty.
+I shift my weight to give myself some momentum, move further from cover, and it makes you harder to hit. I swing out wide with my speed, and train my rifle on the advancing hostiles. My finger tenses gently, controlling the recoil of my rifle, three shots per Consortian, clean, all hits, mag empty.
 
 Two die on impact, shots split their insect skulls open and leave their bodies limp, coating the moss in blue. Three are still coming, and the big one isn't moving, just barking orders, the loudest vibrating and chittering I have ever heard. I don't like the way it looks at me, like it's assessing my abilities.
 
-I duck back behind cover as I hear a loud snap, and hear a crunch from across the archive. August whoops in celebration, looks like he got the sniper.
+I duck back behind cover as I hear a loud snap, and hear a crunch from across the archive. August whoops in celebration, sounds like he got the sniper.
 
+My comms spark, Vega calls in, "Calvary's here Lowell, and looks like they're just in time. Got a Consortium skimmer incoming, sorry to say we can't park inside, pilot's going to hover beside the archive, can you get there?"
+
+I respond quickly, making sure to leave my line open so Vega can hear the gunshots. "I'll make it work Vega, but they need to get close. Priest and I can't jump like August, and we are out of our depth here. Two mercs against a very big bug. We're counting on you."
+
+"August!" I shout as I sprint from my cover to theirs, "Lay cover, those bugs are getting close-" Two of the Consortians leap up and land on the broken wall in front of us, looking down with their pistols ready.
+
+Vega buzzes in my ear, "15 seconds Lowell, be ready."
+
+August and I immediately fire on the bugs, and they fire back. It's a flurry of energy shots and bullets. Screeches and screams mix, and in the aftermath I find myself unharmed, alongside August.
