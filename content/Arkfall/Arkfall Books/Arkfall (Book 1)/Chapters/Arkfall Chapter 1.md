@@ -130,6 +130,15 @@ I respond quickly, making sure to leave my line open so Vega can hear the gunsho
 
 "August!" I shout as I sprint from my cover to theirs, "Lay cover, those bugs are getting close-" Two of the Consortians leap up and land on the broken wall in front of us, looking down with their pistols ready.
 
-Vega buzzes in my ear, "15 seconds Lowell, be ready."
+Vega buzzes in my ear, "30 seconds Lowell, be ready."
 
-August and I immediately fire on the bugs, and they fire back. It's a flurry of energy shots and bullets. Screeches and screams mix, and in the aftermath I find myself unharmed, alongside August.
+August and I immediately fire on the bugs, and they fire back. It's a flurry of energy shots and bullets. Screeches and screams mix, and in the aftermath I find myself unharmed, alongside August. The priest however, was not so lucky. His leg is burst, burns all over it, singed flesh from the Consortian's energy weapons. The bugs both collapse backwards, brains blown to bits.
+
+He doesn't even make a sound, no expression through that shadowed helmet. He just lays there still, alive, but no doubt suffering.
+
+"Shit. August grab him! Bird's landing!" I grab one arm and lift the injured priest, August grabs the other and we drag him.
+
+"What?!? Where? When?" August asks confusedly. Engines hit the air ahead, I can hear something flying in, fast, this is gonna be a tight window.
+
+"Short notice! Over the side, Now!" We pull the priest hard, guy's gone limp. 
+
