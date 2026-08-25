@@ -1,4 +1,13 @@
 {
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "strictLineBreaks": true,
+  "readableLineLength": true,
+  "spellcheckDictionary": [
+    "comms",
+    "Consortian",
+    "durosteel",
+    "Consortians",
+    "couple"
+  ]
 }

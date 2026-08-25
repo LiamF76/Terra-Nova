@@ -1,0 +1,144 @@
+---
+publish: false
+title: Arkfall Chapter 1
+aliases:
+tags:
+  - Arkfall
+---
+
+# Arkfall Chapter 1
+
+`Author Notes: Intro, dive right into fallen world of technology, Lowell and August on job to collect vault coordinates from a crashed Capital Ship. AI priest is with them decoding the info, they get into a gunfight with Consortium Pirates.`
+
+My hand runs along the cool steel walls of the ship's abandoned corridor. I raise my fist, commanding my trio to halt as I toss a stone down a hallway, triggering a door lock. A heavy steel door slams downwards just barely ahead of me, glad we stopped before it made me a pancake.
+
+These old Capital Ships are massive and filled with incomprehensibly wired backup batteries and solar panels. Just walking up to it is an experience, over a thousand meters long, end to end Golden Age interstellar tech. You never know what will still be on and what's shorted. It feels older than anything I've ever held and yet at the same time so advanced we can barely understand it anymore.
+
+I lower my fist and point my hand forwards, open palmed. "Let's keep moving."
+
+The whir of August's neck tells me he nodded without having to look. I don't hear the priest's robes swish, sour bastard. He's had an attitude since I stopped his declaration to The Terminal that we enter "his lord's" holy vessel of war.
+
+As if. The Terminal couldn't give less of a shit about him or our job, but he whined all the same. My dad used to say, "never worry about there not being enough room in hell when ya die kid. There's always a Priest willing to give up his spot."
+
+As we round the corner to the archive, the door slides open before us. Out of the corner of my eye I barely catch a glimpse of the Priest flicking his hands across his chest, and a tiny bolt of energy strikes the wall. Maybe he isn't a complete lunatic if he can open doors with some Lattice. Being tied to an AI has its benefits...
+
+I step carefully on moss patches, taking care to avoid the metal floor paneling in case any more defensive measures are online. Stepping from the sealed hallways of the massive shipwreck into this room is a breath of fresh air.
+
+The archive is beautiful. A couple hundred years ago this vessel was soaring between the Lunar colonies and the dwarves, and now it's... a garden.
+
+Nature took it the same way it took back everything around New Mumbai. There were vines creeping through the tall broken glass windows, and flowers blossomed across the 30ft high bookshelves that dotted each wall. The hum of a spaceship was replaced by the rush of water, a river flowed through the space from above in the ship's fins and down through to the other side.
+
+"Little slice of Eden right here eh?" August says in a tone pitched with optimism, and carrying the distinct distortion of a machine. It echoes through the ship as the door behind us sputters and seizes as it tries to shut before going quiet. 
+
+Burning air and the smell of plasma ruin my quiet contemplation of the universe's mysteries before I even began.
+
+"Make it fast Priest. We draw any attention this place is gonna get lively fast. We have hostiles in the area, prowling for lost historians with a death wish." I wave the Priest forward and he floats past me uncaring.
+
+As he moves forward, I can see my face reflected in his helmet. It's a glass dome helm of some kind, like an old-timey space walk suit, but dark. It hides his face, but not his disdain for my attitude it seems. I can feel him scowling as I pull my lip down, checking for hairs I missed while shaving.
+
+The Priest responds in a robotic voice, different from August, not alive and human, but something colder. "Indeed mercenary. I will now extract the data The Terminal has blessed for extraction. Prevent incursion. Kill anything that attempts to disturb my sermon."
+
+He floats his creepy robed self over to the central terminal and starts praying as he kicks the machine on. It buzzes quietly as the interface wakes up, and he starts plugging away at its buttons.
+
+August takes up a position next to me, dialing his mechanical eyes into sensor mode as he scans the horizon. He flips up his antenna, I love when he does that, he looks like a walking radio.
+
+He chuckles, knowing I am watching him. "Whatever was overhead is at least 5 clicks out now. Gets fuzzy past that, lots of interference from the ship." He flips the antenna back down and holsters his rifle, letting it hang from the shoulder strap.
+
+I follow suit, allowing my rifle to rest on its strap. "I think it was barely a week ago I heard my boss say he couldn't be paid to do a job in this sector."
+
+"Your boss sounds smart," August says, sarcastic. "Sounds like a damn good shot too. Genius, even knows Warlord territory's dangerous, and Warlord territory disputed by alien pirates is worse."  
+
+"That's why we bring guns," I retort.
+
+He twirls the flower in his hand and places it between his chest plate and shoulder motors. "Stop picking daisies and keep your eyes open, I don't want to be here any longer than I have to."
+
+Before I can bark at my unfriendly AI worshiping companion to hurry up, the terminal before him erupts in blue light. A massive hologram of a middle-aged man appears.
+
+"THIS IS COMMANDER THANGARAJ OF THE UNITED HUMAN CAPITAL SHIP ARGOS." His skin is dark, and his hair is black as night, looks a bit like me if I didn't shave bald, and he's old. "WE ARE BESET BY ALIEN PIRATES. THIS IS A DISTRESS CALL. TERMINAL RESPOND."
+
+I charge toward the priest and shove my finger in his face. "Shut this thing up now, the signal will have us swarmed in minutes by Warlord forces and Consortium raiders both." 
+
+I am on my back and catching my breath before I know what happened. Bastard telekinetically SHOVED me back. "Do not disturb the ritual again Commander Lowell. An angel of the Terminal has graced us with his voice."
+
+I'll get him back for that, that's a promise.
+
+August helps me to my feet, I dust my shoulders and pull the hood of my poncho up. Our rifles are shouldered in unison and we nod. It's about to get dangerous here.
+
+"It's a damn distress signal you idiot, and it's gonna have us neck deep in trouble if you don't shut it down!" I shout as I walk away.
+
+My fingers gently tap the side of my visor, activating my long range comms back to New Mumbai. "Security team be advised, Sector G2 is about to get hot. We have an unknown ship within 10 clicks and a live signal broadcasting across Golden Age channels. Extraction is imminent, can you get a bird to us?"
+
+No point going radio silent now, not with the good Captain begging every Consortian in 50 clicks to come eat us and steal anything with a battery. 
+
+Vega, the only reliable dispatch on the security team, responds promptly. "Message received Lowell. An extraction ship is spinning up now, should be out to you in 15. Be advised, our ranged sensors are picking up orbitals inbound to G2, you've got pirates, we can't land if they're still sweeping. Shut that distress signal down, and we will attempt to reroute them with a decoy."
+
+Just my luck. "Understood, thanks Vega, Lowell out." I pull an orb from my belt and toss it to August. "Lattice grenade, we only have the one. Gotta take out this terminal as soon as he's got the coordinates."
+
+August can't smile, but I know he's feeling it. "It's a beautiful day for a fight." 
+
+Before I can even plant my feet, I hear and feel the entire wreck rumble, and hear the sounds of plasma engines going to second burn, something landed on top of us.
+
+I dive behind some cover, and scan the top of the wreck. 10 shots ring out, glancing off the durosteel ship around me. Something is shooting at me, but where from? I lean just far enough out from this hunk of metal protecting me to see them, Consortium Pirates. They're holding position on top of the ship, perfect vantage on the entire archive with the glass windows gone.
+
+August rips a metal grate off the side of the terminal with his inhuman strength, shoves the Lattice grenade inside, and shouts something to the priest. I can't hear it over the gunfire, but neither of them look happy about it.
+
+The hologram of Captain Thangaraj dissipates as August drags the priest to cover as the robed fanatic combs over a data stick he pulled. Looks like he got what we were after.
+
+I plant my rifle in my hands and hit one knee beside my makeshift cover, my visor flicks red, highlighting bug bio signatures in my vision. There are at least five. I breathe in, carefully place two shots into one, dropping it. The body crumples and falls over the edge, landing with a splat in the archive. Its blue blood splatters across the metal floor panels, staining the moss and rocks.
+
+I stare at the body for a second, remembering my mentor's words long ago. All the way back when I was first learning to shoot. 
+
+*That's the law of the jungle kid. Kill or be killed, but you already knew that didn't you little wolf?* He rustles my hair and shoves the rifle into my shoulder.
+
+I breathe out quickly and take another deep breath in and fire two more shots, I hit another in the shoulder, it reels backwards out of my sight. The last one on the top is holding a long rifle, sniper. I dive as quickly as I can behind cover, narrowly missed by a streaking blue bolt of energy from a Lattice rifle.
+
+"August!" I scream from behind the bulkhead. "They have-" I am cut short by the explosion of August's Lattice grenade.
+
+I feel the entire room shake, probably made the entire wreck shiver. Usually I'm good with guessing (I call it estimation), but I had no idea how big that grenade was going to go.
+
+I see a few more pirates fall into the archive, and as the entire room rumbles at least 8 more flood in through the halls of the ship. "THEY HAVE A LATTICE RIFLE! AUGUST WE ARE ABOUT TO BE UP TO OUR NECKS IN THIS!" I shout again across the garden to my friend. I feel like I'm tearing my vocal cords, but I have to make sure he hears me.
+
+My ears are still ringing as I hear wet chittering mandibles, more of the bugs are pouring out of the ships halls. The clicks they make are rhythmic, almost like music, their language. I dare to glance out and count, five of them. Five of them, five feet tall at the shoulder, weaving low and fast through the wreckage. Their vaguely humanoid forms are laden with a deep blue-black carapace and four strong arms. The leader is clearly bigger, easily seven feet, wielding a massive metal blade of some kind in its right hands, and a pair of light pistols in its left hands.
+
+The big one is slinking forward slowly, doesn't seem too worried about us. Mounted to his back is a tall metal pole, some kind of flag. It's red with a black painted symbol, they're from the Company of Debt. Debt Consortians don't leave without what they think they're owed. Today, that's us.
+
+"August, tell me you've got eyes on that sniper," I call over, voice pitched under the chitter and the groan of settling metal. We need to be cautious, this place was already a wreck, disturbing it anymore could bring the entire ship down on top of us.
+
+"Working on it." He's flat against the terminal's far side, rifle up, one robotic eye dialing into focus on the busted catwalk above. "He's good. Hasn't given me a shot since the grenade. Care to bring him to the dance floor?"
+
+"Gladly. Hey Priest, we have about 10 seconds before the welcome party gets here, few minutes left before we get this bird to fly us home. If you have any more tricks like the one with the door, I would do it." I pull the mag from my rifle, half empty. August would call it half full. It's the little things in life I guess.
+
+The priest doesn't look up, but he nods, and starts chanting some gibberish, holding the data stick close. "The Terminal shall provide. It is the Holy Defense Network, and we shall be protected."
+
+A shot cracks through the terminal, the bolt of Lattice energy pierces through two inches of Golden Age alloy. This stuff could deflect cruiser cannon shots, and the sniper just melted through half of it with one shot. I slide lower, feeling the heat on my cheek.
+
+"We're dead." I mutter, and then I exclaim a plan to August. "I lay fire on the tree line, the sniper will peak out, squish that bug. Heard?"
+
+"Heard!" He shouts gladly. "You have the best plans Lowell!"
+
+What a joyful mercenary my pal August is. I love how he ignores numbers and just how deep in the shit we are.
+
+I shift my weight to give myself some momentum, move further from cover, and it makes you harder to hit. I swing out wide with my speed, and train my rifle on the advancing hostiles. My finger tenses gently, controlling the recoil of my rifle, three shots per Consortian, clean, all hits, mag empty.
+
+Two die on impact, shots split their insect skulls open and leave their bodies limp, coating the moss in blue. Three are still coming, and the big one isn't moving, just barking orders, the loudest vibrating and chittering I have ever heard. I don't like the way it looks at me, like it's assessing my abilities.
+
+I duck back behind cover as I hear a loud snap, and hear a crunch from across the archive. August whoops in celebration, sounds like he got the sniper.
+
+My comms spark, Vega calls in, "Calvary's here Lowell, and looks like they're just in time. Got a Consortium skimmer incoming, sorry to say we can't park inside, pilot's going to hover beside the archive, can you get there?"
+
+I respond quickly, making sure to leave my line open so Vega can hear the gunshots. "I'll make it work Vega, but they need to get close. Priest and I can't jump like August, and we are out of our depth here. Two mercs against a very big bug. We're counting on you."
+
+"August!" I shout as I sprint from my cover to theirs, "Lay cover, those bugs are getting close-" Two of the Consortians leap up and land on the broken wall in front of us, looking down with their pistols ready.
+
+Vega buzzes in my ear, "30 seconds Lowell, be ready."
+
+August and I immediately fire on the bugs, and they fire back. It's a flurry of energy shots and bullets. Screeches and screams mix, and in the aftermath I find myself unharmed, alongside August. The priest however, was not so lucky. His leg is burst, burns all over it, singed flesh from the Consortian's energy weapons. The bugs both collapse backwards, brains blown to bits.
+
+He doesn't even make a sound, no expression through that shadowed helmet. He just lays there still, alive, but no doubt suffering.
+
+"Shit. August grab him! Bird's landing!" I grab one arm and lift the injured priest, August grabs the other and we drag him.
+
+"What?!? Where? When?" August asks confusedly. Engines hit the air ahead, I can hear something flying in, fast, this is gonna be a tight window.
+
+"Short notice! Over the side, Now!" We pull the priest hard, guy's gone limp. 
+

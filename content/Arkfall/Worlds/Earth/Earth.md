@@ -83,9 +83,9 @@ tags:
 
 ## Notable Locations
 
-- New Mumbai
-	-  Largest city, controlled by a council of Vectors known as The Compact. Considered Humanity's bastion
-- Foundry
-	-  Most advanced city, brutalist Siberian settlement, has the only remaining cruiser ship, ruled by an AI called The Terminal.
-- Location Name
+- **New Mumbai**
+	-  Largest city, controlled by a council of Vectors known as The Compact. Considered Humanity's bastion. Most populated, dense fusion of old world city and new world tech.
+- **Foundry**
+	-  Most advanced city, brutalist Siberian settlement, has the only remaining Capital Ship, ruled by an AI called The Terminal.
+- **Location Name**
 	-  
