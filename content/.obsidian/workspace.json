@@ -22,8 +22,35 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "df7cbe91703e3e92",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Terra-Nova Worldbuilding"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,9 +179,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e34a2393bb44142e",
   "lastOpenFiles": [
+    "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova Worldbuilding.md",
+    "Terra-Nova/World Codex/Core of Terra-Nova/Magic in Terra-Nova.md",
     "Dashboard.md",
+    "Terra-Nova/World Codex/Core of Terra-Nova",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 1.md",
     "Arkfall/Groups/Alien Species/The Consortium/Drawing 2026-08-14 13.45.48.excalidraw.md",
     "Arkfall/Groups/Alien Species/The Consortium",
@@ -184,14 +214,10 @@
     "Arkfall/Arkfall Books/Arkfall (Book 1)/LS Brainstorm.md",
     "Arkfall/Characters/Humans/Lowell.md",
     "z Images/Lowell-1786535775977.webp",
-    "Arkfall/Characters/Modules/August.md",
-    "Arkfall/Characters/Modules.md",
     "Arkfall/Characters/Modules",
     "Arkfall/Characters/Humans",
     "Arkfall/Characters",
-    "Arkfall/The Disaster.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)",
-    "Arkfall/Arkfall Books",
     "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "z Images/Woven-1785375846466.webp",
