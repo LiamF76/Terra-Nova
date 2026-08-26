@@ -20,21 +20,22 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 
 ---
 
-> [!note] Arkfall
-> ##  [[Arkfall Brainstorm]] | [[Arkfall Timeline]] | 
-
----
-
 # Terra-Nova
 
 > [!note] Terra-Nova Worldbuilding
-> ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]] | [[Lore Books]] | [[Reshaping Workpad.canvas]]
+> ## [[Lore Books]] | [[Reshaping Workpad.canvas]] | [[Reshaping Kanban]]
 
 > [!note] Current Campaigns
 > ## [[TWOTTS Brainstorm]] | [[TWOTTS Kanban]] | [[TBSS Brainstorm]]
 
 > [!note] Encounter Ideas
 > ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
+
+
+---
+
+> [!note] Arkfall
+> ##  [[Arkfall Brainstorm]] | [[Arkfall Timeline]] | 
 
 ---
 

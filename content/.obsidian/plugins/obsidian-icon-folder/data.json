@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiOrbit",
       "LiPen",
       "LiStars",
       "LiCat",
-      "LiSword",
-      "LiMap"
+      "LiSword"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,5 +60,6 @@
   "Arkfall": "LiStars",
   "Terra-Nova/World Codex": "LiBookOpenText",
   "Terra-Nova/Creatures": "LiCat",
-  "Writing Tips": "LiPen"
+  "Writing Tips": "LiPen",
+  "Terra-Oblivia": "LiOrbit"
 }
