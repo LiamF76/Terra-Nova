@@ -22,8 +22,26 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "54ded6fcab371f6a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
+                "viewState": {
+                  "x": 1281.2874947935622,
+                  "y": 432.8833032560627,
+                  "zoom": 0.18674525915772655
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Reshaping Workpad"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,14 +178,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "54ded6fcab371f6a",
   "lastOpenFiles": [
+    "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
+    "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
+    "Terra-Oblivia/Reshaping WIP/Reshaping Kanban.md",
+    "Terra-Oblivia/Reshaping WIP/New Gods and Religion.md",
+    "Dashboard.md",
     "index.md",
     "Terra-Nova/Terra-Nova Wiki Homepage.md",
-    "Dashboard.md",
-    "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
-    "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
-    "Terra-Oblivia/Reshaping WIP/Reshaping Kanban.md",
     "Terra-Oblivia",
     "Terra-Oblivia/Reshaping WIP",
     "Artifacted",
@@ -198,9 +217,7 @@
     "Arkfall/Groups/Human Species/Humanity.md",
     "Arkfall/Groups/Human Species",
     "Arkfall/Characters/Modules/August.md",
-    "Arkfall/Characters/Humans/Lowell.md",
     "Arkfall/Characters/Modules",
-    "Arkfall/Arkfall Books/Arkfall (Book 1)/LS Brainstorm.md",
     "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
     "z Images/Woven-1785375846466.webp",
     "z Images/Woven-1785164095336.webp",
