@@ -22,8 +22,26 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "46a9b605719fe53c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
+                "viewState": {
+                  "x": 508.71406922943993,
+                  "y": -1279.8770983830595,
+                  "zoom": -1.303263132017386
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Reshaping Workpad"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,10 +170,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "46a9b605719fe53c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Dashboard.md",
+    "Terra-Oblivia/Gods",
+    "conflict-files-obsidian-git.md",
     "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Kanban.md",
@@ -187,12 +206,10 @@
     "Arkfall/Groups/Human Species/The Resonant.md",
     "Arkfall/Groups/Human Species/Humanity.md",
     "Arkfall/Groups/The Resonant.md",
-    "Arkfall/Worlds/Cosmology.md",
     "Arkfall/Groups/Alien Species",
     "Arkfall/Groups/Human Species",
     "z Images/Lowell-1786535775977.webp",
     "Arkfall/Characters/Modules",
-    "Arkfall/Characters/Humans",
     "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
     "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "z Images/Woven-1785375846466.webp",

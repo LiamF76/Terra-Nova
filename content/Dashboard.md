@@ -20,17 +20,13 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 
 ---
 
-# Terra-Nova
+# Terra-Oblivia
 
-> [!note] Terra-Nova Worldbuilding
-> ## [[Lore Books]] | [[Reshaping Workpad.canvas]] | [[Reshaping Kanban]]
-
-> [!note] Current Campaigns
-> ## [[TWOTTS Brainstorm]] | [[TWOTTS Kanban]] | [[TBSS Brainstorm]]
+> [!note] Terra-Oblivia Worldbuilding
+> ## [[Reshaping Workpad.canvas]] | [[Reshaping Kanban]]
 
 > [!note] Encounter Ideas
 > ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
-
 
 ---
 
