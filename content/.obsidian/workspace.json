@@ -22,26 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "54ded6fcab371f6a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
-                "viewState": {
-                  "x": 895.9396671393965,
-                  "y": -450.1879514956785,
-                  "zoom": -1.8257418296085177
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Reshaping Workpad"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +160,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "54ded6fcab371f6a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
+    "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Kanban.md",
     "Terra-Oblivia/Reshaping WIP/New Gods and Religion.md",
     "Dashboard.md",
