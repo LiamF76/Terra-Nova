@@ -40,7 +40,8 @@
 		{"id":"6ea633da245cd8b6","type":"text","text":"","x":420,"y":400,"width":380,"height":60},
 		{"id":"73900cdab8296f92","type":"text","text":"","x":420,"y":480,"width":380,"height":60},
 		{"id":"11a13c6615e3e702","type":"text","text":"","x":420,"y":565,"width":380,"height":60},
-		{"id":"f15e0566be01a6c5","type":"text","text":"[[What is the Reshaping]]","x":-1052,"y":-325,"width":265,"height":60}
+		{"id":"f15e0566be01a6c5","type":"text","text":"[[What is the Reshaping]]","x":-1052,"y":-325,"width":265,"height":60},
+		{"id":"f9da77644789cd74","x":-1120,"y":840,"width":400,"height":50,"type":"text","text":"How are mortals affected?"}
 	],
 	"edges":[
 		{"id":"820fa8efccb43798","fromNode":"76471c2c6b687766","fromSide":"right","toNode":"a1c5b1cb3139cc29","toSide":"left"},

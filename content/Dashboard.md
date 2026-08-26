@@ -23,7 +23,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 # Terra-Nova
 
 > [!note] Terra-Nova Worldbuilding
-> ## [[Terra-Nova Worldbuilding]] | [[Solo Projects]] | [[Lore Books]] | [[Reshaping Workpad.canvas]]
+> ## [[Lore Books]] | [[Reshaping Workpad.canvas]] | [[Reshaping Kanban]]
 
 > [!note] Current Campaigns
 > ## [[TWOTTS Brainstorm]] | [[TWOTTS Kanban]] | [[TBSS Brainstorm]]

@@ -22,8 +22,28 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "b3eec5d5de859b6d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Nova/Reshaping/Reshaping Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Reshaping Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,9 +180,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b3eec5d5de859b6d",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Terra-Nova/Reshaping/Reshaping Kanban.md",
+    "Terra-Nova/Reshaping/Reshaping Workpad.canvas",
+    "Terra-Nova/Reshaping",
+    "Artifacted",
     "Terra-Nova/World Codex/Core of Terra-Nova/Magic in Terra-Nova.md",
     "conflict-files-obsidian-git.md",
     "Writing Tips/How to Write Absurdly Well — Adrian Tchaikovsky Notes.md",
@@ -193,13 +217,10 @@
     "Arkfall/Characters/Humans/Lowell.md",
     "Arkfall/Characters/Modules",
     "Arkfall/Characters/Humans",
-    "Arkfall/Characters",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/LS Brainstorm.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Lowell Character Building.md",
-    "Arkfall/Arkfall Books/Arkfall (Book 1)",
     "Arkfall/Arkfall Books/Lowell's Story/Lowell Character Building.md",
     "Arkfall/Arkfall Books/Lowell's Story/LS Chapter 1.md",
-    "Arkfall/Arkfall Books/AF Book BRAINSTORM!.md",
     "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
     "z Images/Woven-1785375846466.webp",
     "z Images/Woven-1785164095336.webp",
@@ -210,7 +231,6 @@
     "Terra-Nova/Magic/Spells/winged barrage.jpg",
     "Terra-Nova/Magic/Spells/voidBomb.jpg",
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas",
-    "Terra-Nova/Working Folder/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Nova/Campaigns/The War of the Timekeeper's Soul/Untitled.canvas",
     "Organizations/Nobility/Untitled.canvas",
     "Geography/Planes/The Material Plane/Untitled.canvas"
