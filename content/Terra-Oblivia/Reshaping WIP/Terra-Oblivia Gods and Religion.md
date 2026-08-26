@@ -15,19 +15,19 @@ tags:
 
 ## Domains Overview
 
-|Domain|Subsumes|Old Gods|New Gods|Great Spirits|
-|---|---|---|---|---|
-|**Light**|Light, life, hierarchy, and nature, superiority||Tena, Illuman, Yagi, **Lumena**||
-|**Darkness**|Darkness, chaos, the occult||**Balthazaar**||
-|**Death**|Death, the dead, sleep, dreams||Erebos, Jahaad, Oras, **Erasaad**||
-|**Balance**|Balance, justice, revenge, punishment, penance, extremity||Malos, Aton, Oasis, **Oa Maton**||
-|**War**|War, fire, victory, wisdom, strategy, bravery, legacy||Vulcan, Rovan, Agni, Ishtar, **Rocan Ashar**|Melantha, Alabaster|
-|**Knowledge**|Knowledge, wisdom, strategy, also magic (in the study/cunning sense)||Telura, Ishtar, Aurum, REDACTED, **Vespar Telarum**|The One Who Casts|
-|**Time**|Time, space, celestial elements, the natural order and flow of things, sloth/stasis||Kronos, Khabris Mani, **Krokha Inam**||
-|**Art / Labor**|Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession||Choion, Iros, **Grey Choose**||
-|**Sea**|Storms, oceans, freedom, travelers, explorers, detachment||Mira, Fulgrim, Skuld Ysor, **Miragrim Ysor**||
-|**Beasts**|Monsters, wild animals, trickery, shape-changing, sky||Silvarus, Aether, **Aevarus**||
-|**Fate**|Freedom of choice (disagreement on this as a domain?)||The Spinner, Destiny, **Kamara Desos**||
+| Domain          | Subsumes                                                                            | Old Gods                         | New Gods           | Great Spirits       |
+| --------------- | ----------------------------------------------------------------------------------- | -------------------------------- | ------------------ | ------------------- |
+| **Light**       | Light, life, hierarchy, and nature, superiority                                     | Tena, Illuman, Yagi              | **Lumena**         |                     |
+| **Darkness**    | Darkness, chaos, the occult                                                         | Balthazaar                       | **Balthazaar**     |                     |
+| **Death**       | Death, the dead, sleep, dreams                                                      | Erebos, Jahaad, Oras             | **Erasaad**        |                     |
+| **Balance**     | Balance, justice, revenge, punishment, penance, extremity                           | Malos, Aton, Oasis               | **Oa Maton**       |                     |
+| **War**         | War, fire, victory, wisdom, strategy, bravery, legacy                               | Vulcan, Rovan, Agni, Ishtar      | **Rocan Ashar**    | Melantha, Alabaster |
+| **Knowledge**   | Knowledge, wisdom, strategy, also magic (in the study/cunning sense)                | Telura, Ishtar, Aurum, Vesponous | **Vespar Telarum** | The One Who Casts   |
+| **Time**        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis | Kronos, Khabris Mani             | **Krokha Inam**    |                     |
+| **Art / Labor** | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession   | Choion, Iros                     | **Grey Choose**    |                     |
+| **Sea**         | Storms, oceans, freedom, travelers, explorers, detachment                           | Mira, Fulgrim, Skuld Ysor        | **Miragrim Ysor**  |                     |
+| **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky                               | Silvarus, Aether                 | **Aevarus**        |                     |
+| **Fate**        | Freedom of choice (disagreement on this as a domain?)                               | The Spinner, Destiny             | **Kamara Desos**   |                     |
 
 _Bolded names = the ruling/primary deity of that domain among the New Gods._
 
