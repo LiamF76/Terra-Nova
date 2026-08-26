@@ -40,8 +40,12 @@
 		{"id":"6ea633da245cd8b6","type":"text","text":"","x":420,"y":400,"width":380,"height":60},
 		{"id":"73900cdab8296f92","type":"text","text":"","x":420,"y":480,"width":380,"height":60},
 		{"id":"11a13c6615e3e702","type":"text","text":"","x":420,"y":565,"width":380,"height":60},
-		{"id":"f15e0566be01a6c5","type":"text","text":"[[What is the Reshaping]]","x":-1052,"y":-325,"width":265,"height":60},
-		{"id":"f9da77644789cd74","x":-1120,"y":840,"width":400,"height":50,"type":"text","text":"How are mortals affected?"}
+		{"id":"7b642cf252db6534","type":"text","text":"What is changed outside of the Gods?\n\nEverything! Everything cahnges, and the world is twisted so deeply it becomes a world alien to its own inhabitants.","x":-1120,"y":840,"width":280,"height":265},
+		{"id":"6fbe96f573a62932","type":"text","text":"Mortals","x":-760,"y":840,"width":250,"height":60},
+		{"id":"e6cbbe2f76e8369d","type":"text","text":"The World's Name","x":-760,"y":943,"width":250,"height":60},
+		{"id":"a1836f9085fa877a","x":-940,"y":-860,"width":400,"height":55,"type":"text","text":"[[What is the Reshaping]]"},
+		{"id":"d2a6a7d1fa740173","x":-1120,"y":-640,"width":400,"height":180,"type":"text","text":"# THE GODS RESHAPED"},
+		{"id":"2ac50e3c610c1476","x":-1120,"y":-420,"width":2000,"height":1220,"color":"3","type":"text","text":""}
 	],
 	"edges":[
 		{"id":"820fa8efccb43798","fromNode":"76471c2c6b687766","fromSide":"right","toNode":"a1c5b1cb3139cc29","toSide":"left"},
@@ -55,6 +59,8 @@
 		{"id":"57f3e8f2a66d6be7","fromNode":"8d2e4b35def8bf9b","fromSide":"right","toNode":"30c109334b5356f2","toSide":"left"},
 		{"id":"fe136494e904d3d2","fromNode":"52ee81f2c6f961f5","fromSide":"right","toNode":"ca4c14c21dd311df","toSide":"left"},
 		{"id":"ce0cc4d4bbf2843e","fromNode":"a08e91dc9c32fa83","fromSide":"right","toNode":"88192b80b7b12158","toSide":"left"},
-		{"id":"984941a411866a3f","fromNode":"a1c5b1cb3139cc29","fromSide":"right","toNode":"f2f29fd068dacdbc","toSide":"left"}
+		{"id":"984941a411866a3f","fromNode":"a1c5b1cb3139cc29","fromSide":"right","toNode":"f2f29fd068dacdbc","toSide":"left"},
+		{"id":"886b59f54199bca3","fromNode":"7b642cf252db6534","fromSide":"right","toNode":"6fbe96f573a62932","toSide":"left"},
+		{"id":"07fa6891beac2266","fromNode":"7b642cf252db6534","fromSide":"right","toNode":"e6cbbe2f76e8369d","toSide":"left"}
 	]
 }

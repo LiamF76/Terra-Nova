@@ -27,19 +27,17 @@
             "id": "b3eec5d5de859b6d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Terra-Nova/Reshaping/Reshaping Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
+                "file": "Terra-Nova Reshaped/Reshaping WIP/Reshaping Workpad.canvas",
+                "viewState": {
+                  "x": -76.71963959189463,
+                  "y": -117.29012483516316,
+                  "zoom": -0.39723062003436965
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Reshaping Kanban"
+              "icon": "lucide-layout-dashboard",
+              "title": "Reshaping Workpad"
             }
           }
         ],
@@ -182,10 +180,11 @@
   },
   "active": "b3eec5d5de859b6d",
   "lastOpenFiles": [
+    "Terra-Nova Reshaped/Reshaping WIP/Reshaping Kanban.md",
+    "Terra-Nova Reshaped",
     "Dashboard.md",
-    "Terra-Nova/Reshaping/Reshaping Kanban.md",
-    "Terra-Nova/Reshaping/Reshaping Workpad.canvas",
-    "Terra-Nova/Reshaping",
+    "Terra-Nova Reshaped/Reshaping WIP/Reshaping Workpad.canvas",
+    "Terra-Nova Reshaped/Reshaping WIP",
     "Artifacted",
     "Terra-Nova/World Codex/Core of Terra-Nova/Magic in Terra-Nova.md",
     "conflict-files-obsidian-git.md",
@@ -216,11 +215,9 @@
     "Arkfall/Characters/Modules/August.md",
     "Arkfall/Characters/Humans/Lowell.md",
     "Arkfall/Characters/Modules",
-    "Arkfall/Characters/Humans",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/LS Brainstorm.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Lowell Character Building.md",
     "Arkfall/Arkfall Books/Lowell's Story/Lowell Character Building.md",
-    "Arkfall/Arkfall Books/Lowell's Story/LS Chapter 1.md",
     "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
     "z Images/Woven-1785375846466.webp",
     "z Images/Woven-1785164095336.webp",
