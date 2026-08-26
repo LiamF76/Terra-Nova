@@ -22,26 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "b3eec5d5de859b6d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Nova Reshaped/Reshaping WIP/Reshaping Workpad.canvas",
-                "viewState": {
-                  "x": 1061.8408706505386,
-                  "y": -698.0478577630283,
-                  "zoom": -0.7623789859560733
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Reshaping Workpad"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,14 +160,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b3eec5d5de859b6d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Nova Reshaped/Reshaping WIP/What is the Reshaping.md",
-    "Terra-Nova Reshaped/Reshaping WIP/Reshaping Workpad.canvas",
-    "Terra-Nova Reshaped/Reshaping WIP/Reshaping Kanban.md",
-    "Terra-Nova Reshaped",
+    "index.md",
+    "Terra-Nova/Terra-Nova Wiki Homepage.md",
     "Dashboard.md",
-    "Terra-Nova Reshaped/Reshaping WIP",
+    "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
+    "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
+    "Terra-Oblivia/Reshaping WIP/Reshaping Kanban.md",
+    "Terra-Oblivia",
+    "Terra-Oblivia/Reshaping WIP",
     "Artifacted",
     "Terra-Nova/World Codex/Core of Terra-Nova/Magic in Terra-Nova.md",
     "conflict-files-obsidian-git.md",
@@ -217,8 +201,6 @@
     "Arkfall/Characters/Humans/Lowell.md",
     "Arkfall/Characters/Modules",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/LS Brainstorm.md",
-    "Arkfall/Arkfall Books/Arkfall (Book 1)/Lowell Character Building.md",
-    "Arkfall/Arkfall Books/Lowell's Story/Lowell Character Building.md",
     "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
     "z Images/Woven-1785375846466.webp",
     "z Images/Woven-1785164095336.webp",
