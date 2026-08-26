@@ -26,6 +26,7 @@
           {
             "id": "20eb08aa397c082e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -38,8 +39,26 @@
                   ]
                 }
               },
+              "pinned": true,
               "icon": "lucide-trello",
               "title": "Reshaping Kanban"
+            }
+          },
+          {
+            "id": "e42e3b12cf535467",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
+                "viewState": {
+                  "x": 725,
+                  "y": -622.5,
+                  "zoom": -2.0181800160650214
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Reshaping Workpad"
             }
           }
         ],
@@ -174,11 +193,11 @@
   },
   "active": "20eb08aa397c082e",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
+    "Terra-Oblivia/Reshaping WIP/Reshaping Kanban.md",
+    "Dashboard.md",
     "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Core Themes.md",
-    "Terra-Oblivia/Reshaping WIP/Reshaping Kanban.md",
     "Terra-Oblivia/Reshaping WIP/New Gods and Religion.md",
     "Terra-Oblivia/Reshaping WIP/Untitled.md",
     "Terra-Oblivia/Gods",
