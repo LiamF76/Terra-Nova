@@ -12,7 +12,7 @@ kanban-plugin: board
 
 ## Major Factors
 
-- [ ] Gods
+- [ ] [[Terra-Oblivia Gods and Religion]]
 - [ ] Mortals
 - [ ] The World
 

@@ -29,9 +29,10 @@ tags:
 | **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky                               | Silvarus, Aether                 | **Aevarus**        |                     |
 | **Fate**        | Freedom of choice (disagreement on this as a domain?)                               | The Spinner, Destiny             | **Kamara Desos**   |                     |
 
-_Bolded names = the ruling/primary deity of that domain among the New Gods._
+**Bolded names** *= the ruling/primary deity of that domain among the New Gods.*
 
-> [!note] Old Gods column The Old Gods entirely lost their identities during the Reshaping — see notes below. No individual Old God names survive per-domain; they are grouped only under the general lore of "Old Gods."
+> [!note] Old Gods
+> The Old Gods entirely lost their identities during the Reshaping — see notes below. No individual Old God names survive per-domain; they are grouped only under the general lore of "Old Gods."
 
 ---
 
@@ -45,7 +46,7 @@ They are entirely new.
 
 ### On the Afterlife
 
-**What happens to people in the afterlife? GONE.**
+**What happens to people already in the afterlife? GONE.**
 
 Every soul tied to a god's afterlife during the Reshaping was lost, likely forever. Those condemned to the Abyss, funnily enough, were spared.
 
