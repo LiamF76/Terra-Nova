@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"3847beb7f6742e8b","x":-1140,"y":-600,"width":1960,"height":1375,"type":"group","label":"Reshaped Gods"},
 		{"id":"5fcb66e79ceb133c","type":"text","text":"War: Subsumes War, fire, victory, wisdom, strategy, bravery, legacy","x":-700,"y":80,"width":540,"height":60},
 		{"id":"a64d523238e2d962","type":"text","text":"Time: Subsumes time, space, celestial elements, the natural order and flow of things, sloth / stasis","x":-700,"y":240,"width":540,"height":60},
 		{"id":"f842f0ba9afd7ddb","type":"text","text":"Balance: Subsumes balance, justice, revenge, punishment, penance, extremity","x":-700,"y":0,"width":540,"height":60},
@@ -40,12 +41,17 @@
 		{"id":"6ea633da245cd8b6","type":"text","text":"","x":420,"y":400,"width":380,"height":60},
 		{"id":"73900cdab8296f92","type":"text","text":"","x":420,"y":480,"width":380,"height":60},
 		{"id":"11a13c6615e3e702","type":"text","text":"","x":420,"y":565,"width":380,"height":60},
-		{"id":"7b642cf252db6534","type":"text","text":"What is changed outside of the Gods?\n\nEverything! Everything cahnges, and the world is twisted so deeply it becomes a world alien to its own inhabitants.","x":-1120,"y":840,"width":280,"height":265},
-		{"id":"6fbe96f573a62932","type":"text","text":"Mortals","x":-760,"y":840,"width":250,"height":60},
-		{"id":"e6cbbe2f76e8369d","type":"text","text":"The World's Name","x":-760,"y":943,"width":250,"height":60},
-		{"id":"a1836f9085fa877a","x":-940,"y":-860,"width":400,"height":55,"type":"text","text":"[[What is the Reshaping]]"},
-		{"id":"d2a6a7d1fa740173","x":-1120,"y":-640,"width":400,"height":180,"type":"text","text":"# THE GODS RESHAPED"},
-		{"id":"2ac50e3c610c1476","x":-1120,"y":-420,"width":2000,"height":1220,"color":"3","type":"text","text":""}
+		{"id":"d2a6a7d1fa740173","type":"text","text":"# THE GODS RESHAPED","x":-360,"y":-580,"width":400,"height":180},
+		{"id":"a1836f9085fa877a","type":"text","text":"[[What is the Reshaping]]","x":-360,"y":-760,"width":400,"height":55},
+		{"id":"e6cbbe2f76e8369d","type":"text","text":"The World's Name","x":940,"y":-240,"width":250,"height":60},
+		{"id":"c78f84d90f67b544","x":940,"y":-140,"width":530,"height":915,"type":"text","text":"Terra-Nova: In world this name means New Land. Terra-Nova was named for its fresh, bright, and endless future. It is no longer so bright, or so hopeful. \n\nThe name of the world must change, to reflect the new state in which it exists."},
+		{"id":"6fbe96f573a62932","type":"text","text":"Mortals","x":1640,"y":-240,"width":250,"height":60},
+		{"id":"3813a7c2cbdf797d","type":"text","text":"","x":1640,"y":-137,"width":530,"height":915},
+		{"id":"7b642cf252db6534","type":"text","text":"What is changed outside of the Gods?\n\nEverything! Everything cahnges, and the world is twisted so deeply it becomes a world alien to its own inhabitants.","x":1280,"y":-560,"width":280,"height":265},
+		{"id":"36b2e9e579a860da","x":-1140,"y":1000,"width":1061,"height":97,"type":"text","text":"# PILLARS OF THE RESHAPING"},
+		{"id":"73800a35ee19fe20","type":"text","text":"3. ","x":-359,"y":1160,"width":280,"height":140},
+		{"id":"69b5c971916ded23","type":"text","text":"2. ","x":-749,"y":1160,"width":280,"height":140},
+		{"id":"69a377450a91f705","x":-1140,"y":1160,"width":280,"height":140,"type":"text","text":"1."}
 	],
 	"edges":[
 		{"id":"820fa8efccb43798","fromNode":"76471c2c6b687766","fromSide":"right","toNode":"a1c5b1cb3139cc29","toSide":"left"},
@@ -60,7 +66,7 @@
 		{"id":"fe136494e904d3d2","fromNode":"52ee81f2c6f961f5","fromSide":"right","toNode":"ca4c14c21dd311df","toSide":"left"},
 		{"id":"ce0cc4d4bbf2843e","fromNode":"a08e91dc9c32fa83","fromSide":"right","toNode":"88192b80b7b12158","toSide":"left"},
 		{"id":"984941a411866a3f","fromNode":"a1c5b1cb3139cc29","fromSide":"right","toNode":"f2f29fd068dacdbc","toSide":"left"},
-		{"id":"886b59f54199bca3","fromNode":"7b642cf252db6534","fromSide":"right","toNode":"6fbe96f573a62932","toSide":"left"},
-		{"id":"07fa6891beac2266","fromNode":"7b642cf252db6534","fromSide":"right","toNode":"e6cbbe2f76e8369d","toSide":"left"}
+		{"id":"d7a4f7a10a74ee9e","fromNode":"7b642cf252db6534","fromSide":"left","toNode":"e6cbbe2f76e8369d","toSide":"top"},
+		{"id":"4c752b309dab8a53","fromNode":"7b642cf252db6534","fromSide":"right","toNode":"6fbe96f573a62932","toSide":"top"}
 	]
 }
