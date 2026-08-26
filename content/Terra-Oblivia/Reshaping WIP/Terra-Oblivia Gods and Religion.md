@@ -24,7 +24,7 @@ tags:
 | **War**         | War, fire, victory, wisdom, strategy, bravery, legacy                               | Vulcan, Rovan, Agni, Ishtar      | **Rocan Ashar**    | Melantha, Alabaster |
 | **Knowledge**   | Knowledge, wisdom, strategy, also magic (in the study/cunning sense)                | Telura, Ishtar, Aurum, Vesponous | **Vespar Telarum** | The One Who Casts   |
 | **Time**        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis | Kronos, Khabris Mani             | **Krokha Inam**    |                     |
-| **Art / Labor** | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession   | Choion, Iros                     | **Grey Choose**    |                     |
+| **Art / Labor** | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession   | Choion, Iros                     | **Datura Ferhaus** |                     |
 | **Sea**         | Storms, oceans, freedom, travelers, explorers, detachment                           | Mira, Fulgrim, Skuld Ysor        | **Miragrim Ysor**  |                     |
 | **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky                               | Silvarus, Aether                 | **Aevarus**        |                     |
 | **Fate**        | Freedom of choice (disagreement on this as a domain?)                               | The Spinner, Destiny             | **Kamara Desos**   |                     |
