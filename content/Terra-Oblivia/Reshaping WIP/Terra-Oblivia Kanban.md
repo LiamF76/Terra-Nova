@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[Reshaping Workpad.canvas]]
 - [ ] [[Terra-Oblivia Idea Dump]]
+- [ ] [[Terra-Oblivia Magic]]
 
 
 ## Major Factors
