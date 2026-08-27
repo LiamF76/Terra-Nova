@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## core
 
-- [ ] [[Reshaping Workpad.canvas]]
 - [ ] [[Terra-Oblivia Idea Dump]]
+- [ ] [[Reshaping Workpad.canvas]]
 - [ ] [[Terra-Oblivia Magic]]
 
 
