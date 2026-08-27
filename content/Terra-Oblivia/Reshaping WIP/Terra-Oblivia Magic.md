@@ -21,7 +21,7 @@ tags:
 - Mana: 
 	- *What is it*: The source and fuel of magic in Terra-Oblivia. Once in Terra-Oblivia there was abundant natural magic that the world created and circulated naturally like the tides, but that was poisoned. The Reshaping removed the poison from the world, but also most of the poisoned magic. Now the magic that flows through Terra-Nova comes from the remains of the arcane and divine of the past, mingled into an unrecognizable new form.
 	- *Where does it come from*: 
-		- Ambient / Physical: The divine remains have spread their mana through the land, spawning mana-rich ores and highly magical locations. Additionally artifacts from before the Reshaping, and fossilized remains of the Old Gods. 
+		- Ambient / Physical: The divine remains have spread their mana through the land, spawning mana-rich ores and highly magical locations. This is also true for many unique magical materials like enchanted plant species and monster remains. Additionally artifacts from before the Reshaping, and fossilized remains of the Old Gods. 
 		- Bloodline / Pact (stated previously)
 	- *How does it work*: 
 - 
