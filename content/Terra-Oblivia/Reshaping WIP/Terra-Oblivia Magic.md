@@ -12,7 +12,7 @@ tags:
 	- *Cinder*: Mages who use fire magic, negative in some areas positive in others.
 	- *Scarred*: Mages who have demonic connections or use demonic magic like blood magic.
 	- *Stormseer*: Mages who can navigate Abyssal Storms, essential to long distance travel.
-- Fire magic is considered dangerous in many areas outside of the Empire. The Empire respects and uses fire magic. 
+- Fire magic is considered dangerous in many areas outside of the Empire. The Empire respects and uses fire magic. Empire holds a powerful Phoenix Spirit that they use to control fire magic, giving their mages Phoenix Feathers to channel it through. Fire is also part of the empire's religion.
 - Where does magic come from?
 	- **Divine Bonding (Pact)**: Deal with a divine or spirit. Can be religious, a contract, shared goals, or even a genuine friendship / love. Whatever it is grants you magic in an exchange of services or loyalty. Mage is granted access to mana and spells from the divine or spirit. Nature of pact magic is based on who you bond with. 
 	- **Divine blood (Ancestry)**: Born with innate magical ability to draw upon a specific domain related to your ancestry. Most status-dependent magic, hoarded to noble bloodlines and cults. Most common magical origin. 
