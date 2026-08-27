@@ -5,10 +5,11 @@ aliases:
 ---
 
 - Names for Mages
-	- *Magus* (plural; Magi): term for mages who are respected / accepted
-	- *Thaum*: Mages who are not respected / outcast
-	- *Cinder*: Mages who use fire magic, negative in some areas positive in others
-	- *Scarred*: Mages who have demonic connections or use demonic magic like blood magic
+	- *Magus* (plural; Magi): term for mages who are respected / accepted.
+	- *Thaum*: Mages who are not respected / outcast.
+	- *Cinder*: Mages who use fire magic, negative in some areas positive in others.
+	- *Scarred*: Mages who have demonic connections or use demonic magic like blood magic.
+	- *Stormwalker*: Mages who can navigate Abyssal Storms, essential to long distance travel.
 - Fire magic is considered dangerous in many areas outside of the Empire. The Empire respects and uses fire magic. 
 - Where does magic come from?
 	- **Divine Bonding (Pact)**: Deal with a divine or spirit. Can be religious, a contract, shared goals, or even a genuine friendship / love. Whatever it is grants you magic in an exchange of services or loyalty. Mage is granted access to mana and spells from the divine or spirit. Nature of pact magic is based on who you bond with. 
