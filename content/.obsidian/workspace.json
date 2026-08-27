@@ -35,7 +35,7 @@
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
-                    false
+                    null
                   ]
                 }
               },
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,12 +188,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "37d8850547127a72",
+  "active": "20eb08aa397c082e",
   "lastOpenFiles": [
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Magic.md",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Idea Dump.md",
+    "Pentium Realm/Working Folder/Pentium Realm Kanban.md",
+    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
     "Dashboard.md",
+    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Idea Dump.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Gods and Religion.md",
     "Vault To-Do.md",
@@ -223,7 +224,6 @@
     "Arkfall/Groups/Vectors.md",
     "Arkfall/Arkfall Brainstorm.md",
     "Arkfall/Arkfall Books/AF Book BRAINSTORM!.md",
-    "Arkfall/Groups/Human Species/The Hydren.md",
     "z Images/The Hydren-1786536605794.webp",
     "Arkfall/Groups/Alien Species",
     "Arkfall/Groups/Human Species",
