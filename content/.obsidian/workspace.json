@@ -45,22 +45,17 @@
             }
           },
           {
-            "id": "60516a0cd84721e8",
+            "id": "26cbb956cb13bb71",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null
-                  ]
-                }
+                "file": "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Magic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Terra-Oblivia Kanban"
+              "icon": "lucide-file",
+              "title": "Terra-Oblivia Magic"
             }
           }
         ],
@@ -193,13 +188,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "60516a0cd84721e8",
+  "active": "26cbb956cb13bb71",
   "lastOpenFiles": [
+    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Idea Dump.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Gods and Religion.md",
     "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Magic.md",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Idea Dump.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Core Themes.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Pentium Realm/Working Folder/Pentium Realm Kanban.md",

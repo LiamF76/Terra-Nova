@@ -18,7 +18,7 @@ tags:
 	- **Divine blood (Ancestry)**: Born with innate magical ability to draw upon a specific domain related to your ancestry. Most status-dependent magic, hoarded to noble bloodlines and cults. Most common magical origin. 
 	- **Artifice (Alchemy / Study)**: Requires use of mana rich materials, formulas and transmutations to create magical effects. Mages pay full price either entirely in mana or in their own life force to cast every spell as they have no other source to draw from. 
 	- **Old Rites (Forbidden / Relic)**: 
-- Mana: 
+- Mana: the source and fuel of magic in Terra-Oblivia
 	- What is it: 
 	- Where does it come from: 
 	- How does it work: 
