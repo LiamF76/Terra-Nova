@@ -19,8 +19,10 @@ tags:
 	- **Artifice (Alchemy / Study)**: Requires use of mana rich materials, formulas and transmutations to create magical effects. Mages pay full price either entirely in mana or in their own life force to cast every spell as they have no other source to draw from. 
 	- **Old Rites (Forbidden / Relic)**: Magic drawn from rituals to forgotten deities and ancient relics that predate the Reshaping.
 - Mana: 
-	- What is it: The source and fuel of magic in Terra-Oblivia. Once in Terra-Oblivia there was abundant natural magic that the world created and circulated naturally like the tides, but that was poisoned. The Reshaping removed the poison from the world, but also most of the poisoned magic. Now the magic that flows through Terra-Nova comes from the remains of the arcane and divine of the past, mingled into an unrecognizable new form.
-	- Where does it come from: The divine remains have spread their mana through the land, spawning mana-rich ores 
-	- How does it work: 
+	- *What is it*: The source and fuel of magic in Terra-Oblivia. Once in Terra-Oblivia there was abundant natural magic that the world created and circulated naturally like the tides, but that was poisoned. The Reshaping removed the poison from the world, but also most of the poisoned magic. Now the magic that flows through Terra-Nova comes from the remains of the arcane and divine of the past, mingled into an unrecognizable new form.
+	- *Where does it come from*: 
+		- Ambient / Physical: The divine remains have spread their mana through the land, spawning mana-rich ores and highly magical locations. Additionally artifacts from before the Reshaping, and fossilized remains of the Old Gods. 
+		- Bloodline / Pact (stated previously)
+	- *How does it work*: 
 - 
 
