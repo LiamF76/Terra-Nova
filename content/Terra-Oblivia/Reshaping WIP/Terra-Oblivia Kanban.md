@@ -1,7 +1,7 @@
 ---
-
 kanban-plugin: board
-
+tags:
+  - Terra-Oblivia
 ---
 
 ## core

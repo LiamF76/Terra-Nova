@@ -48,14 +48,19 @@
             "id": "60516a0cd84721e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Magic.md",
-                "mode": "source",
-                "source": false
+                "file": "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Terra-Oblivia Magic"
+              "icon": "lucide-trello",
+              "title": "Terra-Oblivia Kanban"
             }
           }
         ],
@@ -190,16 +195,16 @@
   },
   "active": "60516a0cd84721e8",
   "lastOpenFiles": [
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Gods and Religion.md",
+    "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Magic.md",
+    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Idea Dump.md",
+    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Core Themes.md",
+    "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Pentium Realm/Working Folder/Pentium Realm Kanban.md",
     "Dashboard.md",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Idea Dump.md",
-    "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Gods and Religion.md",
     "Vault To-Do.md",
-    "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Core Themes.md",
     "Terra-Oblivia/Gods",
     "conflict-files-obsidian-git.md",
     "Terra-Oblivia/Reshaping WIP",
@@ -223,7 +228,6 @@
     "Arkfall/Groups/Sprites.md",
     "Arkfall/Groups/Vectors.md",
     "Arkfall/Arkfall Brainstorm.md",
-    "Arkfall/Arkfall Books/AF Book BRAINSTORM!.md",
     "z Images/The Hydren-1786536605794.webp",
     "Arkfall/Groups/Alien Species",
     "Arkfall/Groups/Human Species",
