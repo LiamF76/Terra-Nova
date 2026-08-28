@@ -4,7 +4,9 @@ title:
 aliases:
 ---
 
-| Place                                      | Ideas                                                                                                                                                                                                                                                                                |
+## Nations
+
+| Nation                                     | Ideas                                                                                                                                                                                                                                                                                |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **The Triarch** (AKA: The 3 Cities)        | Collection of 3 cities that create a triangular 'safe' area. Territory outside that is lawless and deadly. (city names: Citadel, Bastion, & Gate). There are smaller villages in the territory as well that pay tribute to the Cities.                                               |
 | <br>**The Rocan Empire** (AKA: The Empire) | Violent fascist expansionist nation that permits fire magic. Strong themes of conquest and fire. Has a Phoenix Spirit they revere and worship, give their Magus Phoenix feathers to empower their fire magic.                                                                        |
