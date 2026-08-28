@@ -16,7 +16,7 @@ tags:
 
 - [ ] [[TO Gods-Great Spirits-Religion]]
 - [ ] [[TO Magic]]
-- [ ] Mortals
+- [ ] [[TO Mortals]]
 - [ ] [[TO Places Brainstorm]]
 
 
