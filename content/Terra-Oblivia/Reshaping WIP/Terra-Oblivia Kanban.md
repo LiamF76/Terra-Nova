@@ -11,6 +11,7 @@ tags:
 - [ ] [[Terra-Oblivia Idea Dump]]
 - [ ] [[Reshaping Workpad.canvas]]
 - [ ] [[Terra-Oblivia Magic]]
+- [ ] [[Terra-Oblivia Gods and Religion]]
 
 
 ## Major Factors
