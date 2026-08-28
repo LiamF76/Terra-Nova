@@ -45,35 +45,21 @@
             }
           },
           {
-            "id": "502a6aa774d859aa",
+            "id": "597daf9ad901cd89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Idea Dump.md",
+                "file": "Terra-Oblivia/Reshaping WIP/TO Gods, Great Spirits, and Religion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Oblivia Idea Dump"
-            }
-          },
-          {
-            "id": "bbb86da4d42558ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Places Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terra-Oblivia Places Brainstorm"
+              "title": "TO Gods, Great Spirits, and Religion"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,23 +188,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bbb86da4d42558ed",
+  "active": "597daf9ad901cd89",
   "lastOpenFiles": [
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Idea Dump.md",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Places Brainstorm.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Magic.md",
+    "Terra-Oblivia/Reshaping WIP/TO Core Themes.md",
+    "Terra-Oblivia/Reshaping WIP/TO Places Brainstorm.md",
+    "Terra-Oblivia/Reshaping WIP/TO Mortals.md",
+    "Terra-Oblivia/Reshaping WIP/TO Magic.md",
+    "Terra-Oblivia/Reshaping WIP/TO Characters.md",
+    "Terra-Oblivia/Reshaping WIP/TO Idea Dump.md",
     "Dashboard.md",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Gods and Religion.md",
+    "Terra-Oblivia/Reshaping WIP/TO Gods, Great Spirits, and Religion.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Nations/Ashkarad.md",
     "Terra-Oblivia/Nations/The 3 Cities.md",
     "Terra-Oblivia/Nations/The Solarch Empire.md",
     "Terra-Oblivia/Nations",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Mortals.md",
     "Terra-Oblivia/Reshaping WIP/The Empire.md",
     "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Core Themes.md",
     "Pentium Realm/Working Folder/Pentium Realm Kanban.md",
     "Vault To-Do.md",
     "Terra-Oblivia/Gods",

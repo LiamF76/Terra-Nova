@@ -8,16 +8,16 @@ tags:
 
 ## core
 
-- [ ] [[Terra-Oblivia Idea Dump]]
+- [ ] [[TO Idea Dump]]
 - [ ] [[Reshaping Workpad.canvas]]
 
 
 ## Major Factors
 
-- [ ] [[Terra-Oblivia Gods and Religion]]
-- [ ] [[Terra-Oblivia Magic]]
+- [ ] [[TO Gods, Great Spirits, and Religion]]
+- [ ] [[TO Magic]]
 - [ ] Mortals
-- [ ] [[Terra-Oblivia Places Brainstorm]]
+- [ ] [[TO Places Brainstorm]]
 
 
 
