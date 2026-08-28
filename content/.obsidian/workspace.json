@@ -45,17 +45,17 @@
             }
           },
           {
-            "id": "429541ae0f60b1d0",
+            "id": "60dc967a99ba498c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Magic.md",
+                "file": "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Places.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Oblivia Magic"
+              "title": "Terra-Oblivia Places"
             }
           }
         ],
@@ -188,12 +188,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "429541ae0f60b1d0",
+  "active": "60dc967a99ba498c",
   "lastOpenFiles": [
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Places.md",
+    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Magic.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Mortals.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Magic.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Idea Dump.md",
     "Terra-Oblivia/Reshaping WIP/The Empire.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Gods and Religion.md",
