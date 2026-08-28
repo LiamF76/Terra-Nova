@@ -14,7 +14,7 @@ tags:
 
 ## Major Factors
 
-- [ ] [[TO Gods, Great Spirits, and Religion]]
+- [ ] [[TO Gods-Great Spirits-Religion]]
 - [ ] [[TO Magic]]
 - [ ] Mortals
 - [ ] [[TO Places Brainstorm]]
