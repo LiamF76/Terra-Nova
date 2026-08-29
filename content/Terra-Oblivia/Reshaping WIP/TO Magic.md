@@ -12,6 +12,7 @@ tags:
 	- *Cinder*: Mages who use fire magic, negative in some areas positive in others.
 	- *Scarred*: Mages who have demonic connections or use demonic magic like blood magic.
 	- *Stormseer*: Mages who can navigate Abyssal Storms, essential to long distance travel.
+	- *Mystic*: Term of ultimate respect for a Mage. To call one Mystic is to assign them the title of a great master of magic, one who is supremely powerful.
 - Fire magic is considered dangerous in many areas outside of the Empire. The Empire respects and uses fire magic. Empire holds a powerful Phoenix Spirit that they use to control fire magic, giving their mages Phoenix Feathers to channel it through. Fire is also part of the empire's religion.
 - Magic is known as the divine language and the dragon's breath. Magic is tied to dragons at its core, its origins being connected to dragons who slew the old Gods, using their remains to sustain the world, and breeding with mortals to give them magic.
 - Where does magic come from?

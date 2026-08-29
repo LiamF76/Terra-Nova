@@ -6,6 +6,13 @@ tags:
   - Terra-Oblivia
 ---
 
+## Continents
+
+| *Continent*  | *Ideas*                                         |
+| ------------ | ----------------------------------------------- |
+| **Escharra** | Contains the Triarch, The Rocan Empire, Liberos |
+|              |                                                 |
+
 ## Nations
 
 | *Nation*                                   | *Ideas*                                                                                                                                                                                                                                                                                                                                                    |
