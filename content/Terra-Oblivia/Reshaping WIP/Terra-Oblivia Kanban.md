@@ -18,6 +18,7 @@ tags:
 - [ ] [[TO Places Brainstorm]]
 - [ ] [[TO Magic]]
 - [ ] [[TO Mortals]]
+- [ ] [[TO Characters]]
 
 
 
