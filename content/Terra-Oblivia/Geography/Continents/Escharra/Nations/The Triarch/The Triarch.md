@@ -9,7 +9,7 @@ tags:
 # The Triarch
 ### AKA: The 3 Cities
 
-One-sentence summary: 
+One-sentence summary: **The Triarch** is a defensive alliance of three fortress cities: Bastion, Citadel, and Gate, sharing council rule over a mountain-locked valley, built on caution and survival rather than conquest or glory.
 What makes it unique: 
 
 ## 1. Geography & Environment

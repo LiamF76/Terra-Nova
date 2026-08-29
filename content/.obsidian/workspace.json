@@ -24,20 +24,17 @@
             }
           },
           {
-            "id": "046b7b0fc1911888",
+            "id": "aeabb2f01c58dc73",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
-                "viewState": {
-                  "x": 51.14999999999996,
-                  "y": -11.159999999999998,
-                  "zoom": 0
-                }
+                "file": "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Terra-Oblivia Planes"
+              "icon": "lucide-file",
+              "title": "The Triarch"
             }
           }
         ],
@@ -170,7 +167,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "046b7b0fc1911888",
+  "active": "aeabb2f01c58dc73",
   "lastOpenFiles": [
     "Dashboard.md",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
