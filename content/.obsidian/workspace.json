@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
@@ -163,10 +161,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
+    "Dashboard.md",
     "Terra-Oblivia/Reshaping WIP/What is the Reshaping.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Kanban.md",
     "Terra-Oblivia/Reshaping WIP/New Gods and Religion.md",
-    "Dashboard.md",
     "index.md",
     "Terra-Nova/Terra-Nova Wiki Homepage.md",
     "Terra-Oblivia",
