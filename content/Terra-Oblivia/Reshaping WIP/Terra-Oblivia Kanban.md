@@ -8,6 +8,7 @@ tags:
 
 ## core
 
+- [ ] [[TO Workpad.canvas]]
 - [ ] [[TO Idea Dump]]
 - [ ] [[Reshaping Workpad.canvas]]
 

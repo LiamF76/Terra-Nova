@@ -60,8 +60,19 @@ People forget, and forget that they forgot. (Context of _Oblivati Mori_ — old 
 
 ---
 
-## Great Spirits (Standalone)
+## Great Spirits 
 
-- **Melantha, Alabaster** — tied to the War domain
-- **The One Who Casts** — tied to the Knowledge domain
+- **Melantha** - The Pale Lioness, She Who Raised Wolves, Spirit of Courage
+- **Alabaster** - The Iron Hawk, Wings of Green, Spirit of Respect Between Warriors
+- **Ferassa** - The Brand of Fire, Spirit of Victory
+- **The One Who Casts** - Spirit of Forgotten Magic
+- 
+
+---
+
+## Religions
+
+Religions are organized by which Divine individuals worship, but all Gods are recognized in the same Pantheon. Those who worship specific domains often have Great or Minor Spirits they worship more directly, while some followers worship a God more directly.
+
+For example, a Warlord may worship Rocan Ashar the God of War, but specifically pray to the Great Spirit Ferassa the spirit of Victory. Ferassa represents winning outright, not surviving a tough battle, and the Warlord sees his next battle as one that must send a resounding message.
 
