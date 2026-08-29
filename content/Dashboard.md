@@ -23,7 +23,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 # Terra-Oblivia
 
 > [!note] Terra-Oblivia Worldbuilding
-> ## [[Reshaping Workpad.canvas]] | [[Terra-Oblivia Kanban]]
+> ## [[TO Workpad.canvas]] | [[Terra-Oblivia Kanban]]
 
 > [!note] Encounter Ideas
 > ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
