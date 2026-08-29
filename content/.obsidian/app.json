@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "strictLineBreaks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "spellcheckDictionary": [
     "comms",
     "Consortian",
