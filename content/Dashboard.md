@@ -14,7 +14,7 @@ tags:
 
 # :LiCalendar: `$= dv.date("today").toFormat("EEEE, MMMM d, yyyy")`
 
-Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terra-Nova, Arkfall, and Pentium realm, my homebrew Dungeons & Dragons settings / worldbuilding projects.
+Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terra-Nova, Terra-Oblivia, Arkfall, and Pentium realm, my homebrew Dungeons & Dragons settings / worldbuilding projects.
 
 Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 
