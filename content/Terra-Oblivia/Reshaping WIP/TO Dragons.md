@@ -8,6 +8,9 @@ Dragons are the most significant and powerful beings in the world of Terra-Obliv
 
 There are 3 kinds of Dragons:
 - Chromatic Dragons
+	- Rare, powerful, violent, rulers
 - Metallic Dragons
+	- Extinct, powerful, honorable, protectors
 - Wish Dragons
+	- Nearly non-existent, secretive, tricksters
 
