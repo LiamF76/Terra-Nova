@@ -3,7 +3,7 @@
 		{"id":"3847beb7f6742e8b","type":"group","x":-1140,"y":-600,"width":1960,"height":1375,"label":"Reshaped Gods"},
 		{"id":"b2a38fb8bcbc42a2","type":"group","x":960,"y":-1600,"width":1270,"height":1378,"label":"Mortal & World Changes"},
 		{"id":"72518918312708dd","type":"group","x":-240,"y":-2020,"width":779,"height":1360,"label":"Core"},
-		{"id":"d88790449ae01038","type":"file","file":"Terra-Oblivia/Reshaping WIP/TO Core Themes.md","x":-220,"y":-1580,"width":739,"height":878},
+		{"id":"d88790449ae01038","type":"file","file":"Terra-Oblivia/Scratch/TO Core Themes.md","x":-220,"y":-1580,"width":739,"height":878},
 		{"id":"a1836f9085fa877a","type":"text","text":"# [[What is the Reshaping]]","x":610,"y":-1880,"width":1980,"height":140},
 		{"id":"d2a6a7d1fa740173","type":"text","text":"# THE GODS RESHAPED","x":-360,"y":-580,"width":400,"height":180},
 		{"id":"e6cbbe2f76e8369d","type":"text","text":"The World's Name","x":980,"y":-1260,"width":250,"height":60},
@@ -12,7 +12,7 @@
 		{"id":"6fbe96f573a62932","type":"text","text":"Mortals","x":1680,"y":-1260,"width":250,"height":60},
 		{"id":"3813a7c2cbdf797d","type":"text","text":"","x":1680,"y":-1157,"width":530,"height":915},
 		{"id":"36b2e9e579a860da","type":"text","text":"# PILLARS / RULES OF THE RESHAPING","x":-60,"y":-1990,"width":419,"height":360},
-		{"id":"2cb2fb06e89d85be","x":-1080,"y":-400,"width":1840,"height":1120,"type":"file","file":"Terra-Oblivia/Reshaping WIP/TO Gods-Great Spirits-Religion.md"}
+		{"id":"2cb2fb06e89d85be","x":-1080,"y":-400,"width":1840,"height":1120,"type":"file","file":"Terra-Oblivia/Religion/TO Gods-Great Spirits-Religion.md"}
 	],
 	"edges":[
 		{"id":"d7a4f7a10a74ee9e","fromNode":"7b642cf252db6534","fromSide":"left","toNode":"e6cbbe2f76e8369d","toSide":"top"},
