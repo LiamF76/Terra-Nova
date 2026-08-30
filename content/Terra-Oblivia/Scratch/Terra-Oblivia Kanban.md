@@ -15,11 +15,11 @@ tags:
 
 ## Major Factors
 
+- [ ] [[TO Characters]]
 - [ ] [[TO Gods-Great Spirits-Religion]]
 - [ ] [[TO Places Brainstorm]]
 - [ ] [[TO Magic]]
 - [ ] [[TO Mortals]]
-- [ ] [[TO Characters]]
 - [ ] [[TO Dragons]]
 
 
