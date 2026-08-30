@@ -26,7 +26,8 @@ tags:
 ## The Triarch / 3 Cities
 
 - [ ] Bastion
-	- fortified military base, was once a massive stronghold
+	- fortified military base, was once a massive stronghold for a fallen empire
+	- city exists within fortified sections of the ruins, some parts are still ruins / unexplored and contain monsters
 	- has protection by mountains and cliffs
 	- knights ride and raise Griffins as mounts, tradition started to combat Dragons
 - [ ] Citadel
