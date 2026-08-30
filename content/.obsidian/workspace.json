@@ -22,30 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "747c338a02a8af60",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Terra-Oblivia Kanban"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +160,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "747c338a02a8af60",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Oblivia/Reshaping WIP/TO Dragons.md",
     "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Reshaping WIP/TO Dragons.md",
     "Terra-Oblivia/Reshaping WIP/TO Characters.md",
     "Terra-Oblivia/Reshaping WIP/TO Places Brainstorm.md",
     "Terra-Oblivia/Nations/The Triarch.md",
