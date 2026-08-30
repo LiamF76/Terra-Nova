@@ -10,11 +10,12 @@ tags:
 	- *Magus* (plural; Magi): term for mages who are respected / accepted.
 	- *Thaum*: Mages who are not respected / outcast.
 	- *Cinder*: Mages who use fire magic, negative in some areas positive in others.
-	- *Scarred*: Mages who have demonic connections or use demonic magic like blood magic.
+	- *Scarred*: Mages who have Demonic / Abyssal connections or use Demonic / Abyssal magic like blood magic.
 	- *Stormseer*: Mages who can navigate Abyssal Storms, essential to long distance travel.
 	- *Mystic*: Term of ultimate respect for a Mage. To call one Mystic is to assign them the title of a great master of magic, one who is supremely powerful.
-- Fire magic is considered dangerous in many areas outside of the Empire. The Empire respects and uses fire magic. Empire holds a powerful Phoenix Spirit that they use to control fire magic, giving their mages Phoenix Feathers to channel it through. Fire is also part of the empire's religion.
-- Magic is known as the divine language and the dragon's breath. Magic is tied to dragons at its core, its origins being connected to dragons who slew the old Gods, using their remains to sustain the world, and breeding with mortals to give them magic.
+- Fire magic is considered dangerous in many areas outside of the Empire. The Empire respects and uses fire magic. Empire holds a powerful Phoenix Spirit that they use to control fire magic, giving their mages Phoenix Feathers to channel it through. Fire is also part of the empire's religion. While fire magic is feared outside the Rocan Empire, it is not illegal.
+- 
+- Magic is known as the divine language and the dragon's breath. Magic is tied to dragons at its core, its origins being connected to dragons who slew the old Gods, using their remains to sustain the world, and breeding with mortals to give them magic. It is believed Dragons are the first source of mortal magic, Elves dispute this and believe they were born with magic Dragons stole.
 - Stormseers learn their trade (navigating Abyssal Storms) in Liberos, the Free Cities. Abyssal Storms are more common at sea than on land, but both happen. Liberos holds Seer-Star where the Stormseer Guild has its headquarters. That is where Stormseers are trained in the magic arts. Stormseers are not trained in any magic other than Storm Navigation and basic magics, no combat or any other magic types.
 - Where does magic come from?
 	- **Divine Bonding (Pact)**: Deal with a divine or spirit. Can be religious, a contract, shared goals, or even a genuine friendship / love. Whatever it is grants you magic in an exchange of services or loyalty. Mage is granted access to mana and spells from the divine or spirit. Nature of pact magic is based on who you bond with. 
