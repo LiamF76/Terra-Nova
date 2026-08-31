@@ -16,11 +16,11 @@ tags:
 ## Major Factors
 
 - [ ] [[TO Characters]]
+- [ ] [[TO Mortals]]
+- [ ] [[TO Dragons]]
 - [ ] [[TO Gods-Great Spirits-Religion]]
 - [ ] [[TO Places Brainstorm]]
 - [ ] [[TO Magic]]
-- [ ] [[TO Mortals]]
-- [ ] [[TO Dragons]]
 
 
 ## The Triarch / 3 Cities
