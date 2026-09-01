@@ -16,7 +16,7 @@ There are 3 kinds of Dragons:
 - Chromatic Dragons
 	- Rare, powerful, violent, rulers
 - Metallic Dragons
-	- Extinct, powerful, honorable, protectors
+	- Super rare, powerful, honorable, protectors
 - Wish Dragons
 	- Nearly non-existent, secretive, tricksters
 
