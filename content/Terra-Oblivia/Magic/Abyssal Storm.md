@@ -26,3 +26,7 @@ Abyssal Storms are a serious danger to travelers, and need to be properly naviga
 - Physical tolls such as exhaustion, nightmares, prolonged hallucination, and rarely a strange desire to return to a storm.
 - Abyssal Eye tint manifests on anyone who passes through a storm. The whites of the eye turn slowly red and blood shot, this effect worsens the longer you are inside the storm. Blindness has been documented as an effect of months long exposure. This tint fades within 1-2 weeks.
 
+## Abyssal Storm Enemies
+
+Small storms are not strong enough to pull Demons into the material world, but anything other than the weakest of storms will summon some.
+
