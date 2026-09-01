@@ -16,8 +16,9 @@ tags:
     - *Stone*: 
     - *Storm*: 
 - **Goblinoids**:
-	- Goblins: 
-	- Trolls: 
+	- *Goblins*: 
+	- *Hobgoblins*: 
+	- *Trolls*: 
 	- 
 - **Humans**: Numerous and adaptable. Humans are the most common race. They are the least likely to be born with magic, even those born to magical bloodlines have a chance to be without it. Humans have risen to power in the Age of Dragons, often acting as puppet Kings for the Dragons and Dragonborn, and as such they have an inflated sense of self importance and ego. Most though exist in poor conditions fighting to survive.
 - **Scarborn**: 

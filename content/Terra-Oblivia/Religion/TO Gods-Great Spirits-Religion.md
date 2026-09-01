@@ -56,7 +56,11 @@ Demigods become Spirits. They are synonymous — the existing ones are mutated t
 
 ### On Memory & Continuity
 
-People forget, and forget that they forgot. (Context of _Oblivati Mori_ — old gods are unmade and replaced, and people know the new gods as they did the old. A pretty smooth transition.) Some occult groups still worship the Old Gods as nameless, faceless beings of forgotten power.
+People forget, and forget that they forgot. (Context of *Oblivati Mori*, old gods are unmade and replaced, and people know the new gods as they did the old. A pretty smooth transition.) Some occult groups still worship the Old Gods as nameless, faceless beings of forgotten power.
+
+### On Dragons 
+
+[[TO Dragons]]
 
 ---
 

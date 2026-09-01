@@ -6,7 +6,11 @@ tags:
   - Terra-Oblivia
 ---
 
-Dragons are the most significant and powerful beings in the world of Terra-Oblivia, outside of Gods. They are considered to be spirits, but they are not bound to Gods the way Spirits are their children, they are the manifestation of true power, and answer to nothing but their own desires. Many mortals consider them to be living Gods, and their Dragonborn children worship them as such.
+The New Gods are dragons, and Dragons are divine. Many dragons are worshipped like living Gods, and they are respected and feared in all lands and cultures. Those who do not worship or revere Dragons still recognize their divine might, and know they must defend themselves against it. 
+
+Some religions view Dragons as the Divine test of mortal strength, and to honor their Gods they must do battle against the Dragons, and prove their worth.
+
+Others believe Dragons should never be fought at all, only served or appeased, and that mortal strength was never meant to be proven against the divine, only offered up to it. These followers see warlords who pay tribute to dragons (as in Ashkarad) not as cowards, but as the truly devout: those wise enough to recognize their place beneath a god, rather than presuming to test themselves against one.
 
 There are 3 kinds of Dragons:
 - Chromatic Dragons
