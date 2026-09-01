@@ -14,7 +14,7 @@ Abyssal Storms are a dangerous weather event in Terra-Oblivia. Born from remaini
 
 Areas closer to where the Abyssal Scars once were are much more likely to have Abyssal Storms, but they are technically possibly anywhere. Some areas have never experienced one, but it is not impossible if enough Abyssal magic was concentrated on an area to create one or make them more common in that area.
 
-Abyssal Storms are a serious danger to travelers, and need to be properly navigated to avoid death or massive delay. Storm-Seer Mages are able to navigate and predict these storms, making them exceedingly valueable to trade caravans, armies, and adventurers.
+Abyssal Storms are a serious danger to travelers, and need to be properly navigated to avoid death or massive delay. [[Storm-Seer]] Mages are able to navigate and predict these storms, making them exceedingly valueable to trade caravans, armies, and adventurers.
 
 ## Abyssal Storm Magic Effects
 
@@ -24,5 +24,5 @@ Abyssal Storms are a serious danger to travelers, and need to be properly naviga
 - Appearing Abyssal landscapes / structures, hallucinations.
 - Sound distortion such as voices carrying wrong distances, screams that turn out to be the wind, or unsettling silence in the eye of the storm. 
 - Physical tolls such as exhaustion, nightmares, prolonged hallucination, and rarely a strange desire to return to a storm.
-- Abyssal Eye tint manifests on anyone who passes through a storm. The whites of the eye turn slowly red and blood shot, this effect worsens the longer you are inside the storm. Blindness has been documented as an effect of months long exposure.
+- Abyssal Eye tint manifests on anyone who passes through a storm. The whites of the eye turn slowly red and blood shot, this effect worsens the longer you are inside the storm. Blindness has been documented as an effect of months long exposure. This tint fades within 1-2 weeks.
 
