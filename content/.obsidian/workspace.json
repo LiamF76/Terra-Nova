@@ -22,8 +22,31 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "16f7cb5adbbfacb4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Terra-Oblivia Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,21 +174,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "16f7cb5adbbfacb4",
   "lastOpenFiles": [
+    "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
+    "Terra-Oblivia/Scratch/TO Idea Dump.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Species/Terra-Oblivia Mortals.md",
+    "Terra-Oblivia/Species/Terra-Oblivia Dragons.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
+    "Terra-Oblivia/Geography/Terra-Oblivia Places Brainstorm.md",
+    "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
+    "Dashboard.md",
     "Terra-Oblivia/Magic/Abyssal Storm.md",
     "Terra-Oblivia/Magic/Storm-Seer.md",
-    "Dashboard.md",
     "conflict-files-obsidian-git.md",
-    "Terra-Oblivia/Species/TO Dragons.md",
-    "Terra-Oblivia/Religion/TO Gods-Great Spirits-Religion.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Timeline.md",
-    "Terra-Oblivia/Magic/TO Magic.md",
-    "Terra-Oblivia/Scratch/TO Characters.md",
-    "Terra-Oblivia/Geography/TO Places Brainstorm.md",
-    "Terra-Oblivia/Species/TO Mortals.md",
-    "Terra-Oblivia/Scratch/TO Idea Dump.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Escharra.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
