@@ -128,19 +128,9 @@
               "icon": "lucide-list",
               "title": "Outline of The Third Lesson"
             }
-          },
-          {
-            "id": "69b9097c31aec81e",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,7 +141,6 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
@@ -162,14 +151,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Dashboard.md",
+    "Terra-Oblivia/Scratch/TO Workpad.canvas",
+    "conflict-files-obsidian-git.md",
     "Terra-Oblivia/Species/TO Mortals.md",
     "Terra-Oblivia/Species/TO Dragons.md",
     "Terra-Oblivia/Species",
     "Terra-Oblivia/Scratch/TO Timeline.md",
     "Terra-Oblivia/Scratch/TO Idea Dump.md",
-    "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Scratch/TO Core Themes.md",
     "Terra-Oblivia/Scratch",
@@ -200,7 +189,6 @@
     "Terra-Oblivia/Nations/Liberos.md",
     "Terra-Oblivia/Nations/The Rocan Empire.md",
     "Terra-Oblivia/Reshaping WIP/TO Gods-Great Spirits-Religion.md",
-    "Terra-Oblivia/Reshaping WIP/TO Mortals.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "z Images/The Hydren-1786536605794.webp",
     "z Images/Lowell-1786535775977.webp",
