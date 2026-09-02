@@ -22,45 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "07cc7364705b6678",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Arkfall Worldbuilding Kanban"
-            }
-          },
-          {
-            "id": "59d91962494e311e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arkfall/Scratch/Arkfall Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Arkfall Brainstorm"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,11 +151,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "07cc7364705b6678",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
     "Arkfall/Scratch/Arkfall Brainstorm.md",
     "Arkfall/Arkfall Magic/Vectors.md",
-    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
     "Arkfall/Arkfall Magic/Vector.md",
     "Arkfall/Arkfall Magic/Quantum Lattice.md",
     "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
