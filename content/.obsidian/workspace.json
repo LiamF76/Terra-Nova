@@ -24,17 +24,19 @@
             }
           },
           {
-            "id": "a54d7addd0eb3eb4",
+            "id": "eeb86ba37eb9e927",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Terra-Oblivia/Magic/Abyssal Storm.md",
-                "mode": "source",
-                "source": false
+                "file": "Arkfall/Arkfall Worldbuilding Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "Abyssal Storm"
+              "icon": "lucide-trello",
+              "title": "Arkfall Worldbuilding Kanban"
             }
           }
         ],
@@ -174,9 +176,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a54d7addd0eb3eb4",
+  "active": "eeb86ba37eb9e927",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Arkfall/Arkfall Worldbuilding Kanban.md",
+    "Arkfall/Worldbuilding Workshop.md",
+    "Arkfall/Characters/Humans/Lowell.md",
+    "Arkfall/Timeline/Arkfall Timeline.md",
+    "Arkfall/Timeline/Events",
+    "Arkfall/Timeline/Events/The Disaster.md",
+    "Arkfall/Timeline",
+    "Arkfall/Quantum Lattice.md",
+    "Arkfall/Arkfall Brainstorm.md",
     "Terra-Oblivia/Magic/Abyssal Storm.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Species/TO Dragons.md",
@@ -204,17 +215,8 @@
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Rocan Empire",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/Liberos",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/Ashkarad",
-    "Terra-Oblivia/Geography/Continents/Escharra/Nations",
-    "Terra-Oblivia/Geography/Continents/Escharra",
     "Terra-Oblivia/Geography/TO Places Brainstorm.md",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
-    "Terra-Oblivia/Characters/TO Characters.md",
-    "Terra-Oblivia/Reshaping WIP/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Reshaping WIP/TO Dragons.md",
-    "Terra-Oblivia/Reshaping WIP/TO Characters.md",
-    "Terra-Oblivia/Reshaping WIP/TO Places Brainstorm.md",
-    "Terra-Oblivia/Nations/The Triarch.md",
-    "Terra-Oblivia/Nations/Ashkarad.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "z Images/The Hydren-1786536605794.webp",
     "z Images/Lowell-1786535775977.webp",
