@@ -22,11 +22,29 @@ All of these inspirations are important and have influenced my idea of the setti
 
 **Arkfall Core Statement**: Arkfall is a galaxy built on solutions that worked too well, leaving humanity to live in the shadow of its own gods, and decide whether to inherit them or destroy them.
 
+---
+
+## Worldbuilding Basics
+
+| Category                  | Arkfall's classification                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Geography / Astrology** | Contained to Earth's solar system. Many terraformed planets and moons. Space stations, our universe in the far fantastical future.                                                                                                                                                                                                                           |
+| **Timeframe**             | Unrecorded distance from 2026 / IRL time. 100 years after [[The Disaster]]. The past is greater than the present.                                                                                                                                                                                                                                            |
+| **Technology**            | Hyper advanced technology, space stations, terraforming, AI, sentient machines, astral mega-structures, dyson sphere etc... humanity does not have control / access / understanding of most of these systems yet, as they are recovering from a disaster.                                                                                                    |
+| **[[Aliens]]**            | Yes! [[Aliens]] exist, see [[Aliens]], embodiment of darkness / evil, advanced technology, space magic, galactic invaders.                                                                                                                                                                                                                                   |
+| **Geopolitics**           | Humanity nearly extinct, fractured society on earth, warlords and smaller settlements. Most worlds are etinct / abandonned with small settlements remaining. Conflict between humans and alien invaders. Humanity endures thanks to [[Vectors]], individuals who can use magic known as the Quantum Lattice, altering reality and creating powerful effects. |
+| **Conflict**              | Humanity vs. [[Aliens]]. Humanity tapped into truth of soul, [[Aliens]] are drawn to it / want to destory us for accessing what they believe to be the antithesis to themselves. Light vs. Darkness, think Destiny 1 & 2. Humanity is cornered but not broken.                                                                                               |
+
+---
+
 ### Ideas?
 
 - [[Arkfall/Worlds/Cosmology|Cosmology]]
 - set in the far future at an undefined date, 
-	- current range: 5,000-20,000 years after the current day.
+	- Current day, 2020, 21st century, etc...
+	- 
+	- Golden Age, 200-300 years
+	- 100 years after [[The Disaster]]
 - space magic somehow, technology, psionics, quantum
 	- **Quantum Lattice**, universal law manipulation, feels like magic, only specific individuals can do it. Obtained and used by those sensitive to it or infused with it by machinery
 - **Quantum Lattice Types**
@@ -53,14 +71,6 @@ All of these inspirations are important and have influenced my idea of the setti
 - collapse / apocalypse
 	- [[The Disaster]]
 
+---
 
-## Worldbuilding Basics
 
-| Category                  | Arkfall's classification                                                                                                                                                                                                                                                                                                                                     |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Geography / Astrology** | Contained to Earth's solar system. Many terraformed planets and moons. Space stations, our universe in the far fantastical future.                                                                                                                                                                                                                           |
-| **Timeframe**             | Unrecorded distance from 2026 / IRL time. 100 years after [[The Disaster]]. The past is greater than the present.                                                                                                                                                                                                                                            |
-| **Technology**            | Hyper advanced technology, space stations, terraforming, AI, sentient machines, astral mega-structures, dyson sphere etc... humanity does not have control / access / understanding of most of these systems yet, as they are recovering from a disaster.                                                                                                    |
-| **[[Aliens]]**            | Yes! [[Aliens]] exist, see [[Aliens]], embodiment of darkness / evil, advanced technology, space magic, galactic invaders.                                                                                                                                                                                                                                   |
-| **Geopolitics**           | Humanity nearly extinct, fractured society on earth, warlords and smaller settlements. Most worlds are etinct / abandonned with small settlements remaining. Conflict between humans and alien invaders. Humanity endures thanks to [[Vectors]], individuals who can use magic known as the Quantum Lattice, altering reality and creating powerful effects. |
-| **Conflict**              | Humanity vs. [[Aliens]]. Humanity tapped into truth of soul, [[Aliens]] are drawn to it / want to destory us for accessing what they believe to be the antithesis to themselves. Light vs. Darkness, think Destiny 1 & 2. Humanity is cornered but not broken.                                                                                               |
