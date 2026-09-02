@@ -15,13 +15,13 @@ tags:
 
 ## Major Factors
 
-- [ ] [[TO Characters]]
-- [ ] [[TO Mortals]]
-- [ ] [[TO Dragons]]
-- [ ] [[TO Gods-Great Spirits-Religion]]
-- [ ] [[TO Places Brainstorm]]
-- [ ] [[TO Magic]]
-- [ ] Abyssal Storm
+- [ ] [[Terra-Oblivia Characters]]
+- [ ] [[Terra-Oblivia Mortals]]
+- [ ] [[Terra-Oblivia Dragons]]
+- [ ] [[Terra-Oblivia Pantheon]]
+- [ ] [[Terra-Oblivia Places Brainstorm]]
+- [ ] [[Terra-Oblivia Magic]]
+- [ ] [[Abyssal Storm]]
 
 
 ## The Triarch / 3 Cities
