@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - Arkfall
 ---
 
 The Fallen Star Coalition was once a group of noble warriors led by a council of Vectors. This Coalition fought to 'Retake the Stars', to regain humanity's former glory and rebuild the Golden Age that was lost.

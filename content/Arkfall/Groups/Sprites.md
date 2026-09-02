@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - Arkfall
 ---
 
 Sprites are Quantum Lattice Spirits that can bond with a host to give them the ability to manipulate QL.

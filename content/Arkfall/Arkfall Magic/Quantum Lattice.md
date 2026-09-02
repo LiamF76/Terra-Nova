@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - Arkfall
 ---
 
 This is a breakdown of Quantum Lattice (QL), the magic of Arkfall.

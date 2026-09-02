@@ -22,7 +22,28 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Arkfall/Scratch/Arkfall Brainstorm.md",
+      "timestamp": 1788312692866
+    },
+    {
+      "filepath": "Arkfall/Worlds/Earth/Earth.md",
+      "timestamp": 1788312620580
+    },
+    {
+      "filepath": "Arkfall/Worlds/Cosmology.md",
+      "timestamp": 1788312619381
+    },
+    {
+      "filepath": "Arkfall/Timeline/Arkfall Timeline.md",
+      "timestamp": 1788312614348
+    },
+    {
+      "filepath": "Arkfall/Timeline/Events/The Golden Age.md",
+      "timestamp": 1788312613645
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
