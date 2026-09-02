@@ -42,7 +42,11 @@ Raw Lattice is highly volatile and dangerous, without a device to focus it or li
 ## Kinds of Quantum Lattice
 
 ### Lattice Materium
-tbd
+Lattice Materium is Quantum Lattice given physical form such as Lattice that has crystallized, condensed, or otherwise bled into matter itself, found in places where reality has been placed under extreme stress. This could be anywhere from the cores of dead stars to collapsed interstellar superstructures. The location does not have to be so grand to have Lattice Materium, but the more intense the strain, the more Lattice Materium you will find. Lattice Materium is commonly referred to as: *lattice ore*, *quantum silt*, or *entangled dust*.
+
+Materium cannot be wielded organically, and needs some kind of machinery to harness, define, and focus it. For Lattice to be used in this way it must be harvested / mined, stabilized, and channeled through Lattice devices. These devices are weapons or tools specifically designed to harness and survive the volatile Materium. 
+
+Where Sprite-Bound Lattice is intimate and singular to its user, Lattice Materium is uniform and impersonal. It can be mined, stabilized, stockpiled, and armed at scale. It is the tool of armies and corporations, power with no empathy or conscience. 
 
 ### Sprite-Bound Lattice
 tbd
