@@ -42,14 +42,11 @@ All of these inspirations are important and have influenced my idea of the setti
 - [[Arkfall/Worlds/Cosmology|Cosmology]]
 - set in the far future at an undefined date, 
 	- Current day, 2020, 21st century, etc...
-	- 
+	- Add about 50 years
 	- Golden Age, 200-300 years
-	- 100 years after [[The Disaster]]
+	- 200 years after [[The Disaster]]
 - space magic somehow, technology, psionics, quantum
 	- **Quantum Lattice**, universal law manipulation, feels like magic, only specific individuals can do it. Obtained and used by those sensitive to it or infused with it by machinery
-- **Quantum Lattice Types**
-	- **Sprite-Bound**: Sprites are Quantum Spirits that an be bound to an individual. When bound to a mortal they synthesize Lattice for their host literally inside the host's body (hosts are generally called [[Vectors]]). It is unique to the host's quantum signature, meaning it cannot be stolen or used by others unless the host imbues it into something else. Sprites require achievement to synthesize Lattice, but this achievement is bound to the Sprite's own nature. A sprite who has a warlike nature requires killing or battle to synthesize lattice for their host, while a peaceful sprite may require protecting others or something else. Sprites can grow and change but are somewhat parasitic to their hosts.
-	- **Lattice Mining**: Names for mined lattice include: *lattice ore, quantum silt, entangled dust*. Raw, unstable, and dangerous to mine. Lattice ore can be gathered from specific areas like asteroids, space dust clouds, and dead star remnants. Miners who work it risk decoherence sickness where bodies or minds destabilize from exposure. Mined lattice cannot be organically wielded and needs to be channeled through machinery / weapons. 
 - pantheon
 	- Human Gods are hyper intelligent and power AIs, no gods in this setting for humanity
 	- Alien Gods are ultra powerful beings that exist and are so powerful they are essentially Gods, but no all seeing all knowing otherworldy gods like D&D or jesus lol

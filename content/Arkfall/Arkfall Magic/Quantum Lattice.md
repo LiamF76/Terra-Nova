@@ -6,6 +6,12 @@ tags:
   - Arkfall
 ---
 
+- **Quantum Lattice Types**
+	- **Sprite-Bound**: Sprites are Quantum Spirits that an be bound to an individual. When bound to a mortal they synthesize Lattice for their host literally inside the host's body (hosts are generally called [[Vectors]]). It is unique to the host's quantum signature, meaning it cannot be stolen or used by others unless the host imbues it into something else. Sprites require achievement to synthesize Lattice, but this achievement is bound to the Sprite's own nature. A sprite who has a warlike nature requires killing or battle to synthesize lattice for their host, while a peaceful sprite may require protecting others or something else. Sprites can grow and change but are somewhat parasitic to their hosts.
+	- **Lattice Mining**: Names for mined lattice include: *lattice ore, quantum silt, entangled dust*. Raw, unstable, and dangerous to mine. Lattice ore can be gathered from specific areas like asteroids, space dust clouds, and dead star remnants. Miners who work it risk decoherence sickness where bodies or minds destabilize from exposure. Mined lattice cannot be organically wielded and needs to be channeled through machinery / weapons. 
+
+---
+
 This is a breakdown of Quantum Lattice (QL), the magic of Arkfall.
 
 - **How is it learned and executed?**: QL can be learned through use and mentorship by other QL users (Vectors). It is executed by physical motion for Vectors, and through channeling devices by non-Vectors.
@@ -22,3 +28,23 @@ This is a breakdown of Quantum Lattice (QL), the magic of Arkfall.
 - **Who can use it?**: 
 - **How do others react to it?**: 
 - **Why haven't people with this power taken over the world?**:
+
+
+## What is Quantum Lattice
+
+Quantum Lattice is raw underlying code of reality itself. It is not energy or matter, but the invisible and powerful binding force between all energy, matter, and consciousness. It is a manifestation of possibility and potential, and when in trained hands it has a terrifying level of flexibility in what it can accomplish.
+Lattice has no will, intention, or memory, it is a property of existence. Its meaning and purpose is entirely determined by its wielder.
+
+Raw Lattice is highly volatile and dangerous, without a device to focus it or living host to control it.
+
+---
+
+## Kinds of Quantum Lattice
+
+### Lattice Materium
+tbd
+
+### Sprite-Bound Lattice
+tbd
+
+---
