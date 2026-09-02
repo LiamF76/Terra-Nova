@@ -22,16 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "Dashboard.md",
-      "timestamp": 1788312512689
-    },
-    {
-      "filepath": "Terra-Oblivia/Scratch/TO Idea Dump.md",
-      "timestamp": 1788312512622
-    }
-  ],
+  "recentFilesStore": [],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
