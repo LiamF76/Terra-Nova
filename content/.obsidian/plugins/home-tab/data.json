@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Dashboard.md",
+      "timestamp": 1788356080557
+    },
+    {
       "filepath": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
-      "timestamp": 1788318267040
-    },
-    {
-      "filepath": "Arkfall/Scratch/Arkfall Brainstorm.md",
-      "timestamp": 1788318260473
-    },
-    {
-      "filepath": "Arkfall/Arkfall Magic/Vectors.md",
-      "timestamp": 1788318255947
-    },
-    {
-      "filepath": "Arkfall/Arkfall Magic/Quantum Lattice.md",
-      "timestamp": 1788318219672
-    },
-    {
-      "filepath": "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
-      "timestamp": 1788313785283
+      "timestamp": 1788356080482
     }
   ],
   "bookmarkedFileStore": [],
