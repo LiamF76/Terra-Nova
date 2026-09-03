@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing Tips/Creating Fantasy & Alien Species.md",
+                "file": "Arkfall/Cosmology/Cosmology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating Fantasy & Alien Species"
+              "title": "Cosmology"
             }
           },
           {
@@ -45,8 +45,8 @@
               "state": {
                 "file": "Arkfall/Cosmology/Arkfall Map.canvas",
                 "viewState": {
-                  "x": 1590.046802303021,
-                  "y": 165.2563754491662,
+                  "x": 2775.8326911047025,
+                  "y": 185.21910084986794,
                   "zoom": -1.1020060759782786
                 }
               },
@@ -185,9 +185,9 @@
   },
   "active": "4ebee33767f9de51",
   "lastOpenFiles": [
+    "Arkfall/Cosmology/Arkfall Map.canvas",
     "Arkfall/Cosmology/Cosmology.md",
     "Writing Tips/Creating Fantasy & Alien Species.md",
-    "Arkfall/Cosmology/Arkfall Map.canvas",
     "Arkfall/Arkfall Magic/Quantum Lattice.md",
     "Dashboard.md",
     "Arkfall/Cosmology/Untitled.md",
@@ -211,7 +211,6 @@
     "Arkfall/Arkfall Books/Arkfall (Book 1)/LS Brainstorm.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Lowell Character Building.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 2.md",
-    "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 1.md",
     "Arkfall/Arkfall Technology",
     "Arkfall/Arkfall Magic",
     "Arkfall/Timeline/Events",
