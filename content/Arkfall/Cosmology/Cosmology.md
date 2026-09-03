@@ -4,6 +4,8 @@ title: Cosmology
 aliases:
   - Planets
   - Worlds
+  - Asteroids
+  - Dwarf Planets
 tags:
   - Arkfall
 ---
