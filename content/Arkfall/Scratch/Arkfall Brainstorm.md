@@ -39,7 +39,7 @@ All of these inspirations are important and have influenced my idea of the setti
 
 ### Ideas?
 
-- [[Arkfall/Worlds/Cosmology|Cosmology]]
+- [[Arkfall/Cosmology/Cosmology|Cosmology]]
 - set in the far future at an undefined date, 
 	- Current day, 2020, 21st century, etc...
 	- Add about 50 years
