@@ -41,21 +41,18 @@
             "id": "b7e5b8a69029b6c9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Arkfall/Cosmology/Arkfall Map.canvas",
-                "viewState": {
-                  "x": 2775.8326911047025,
-                  "y": 185.21910084986794,
-                  "zoom": -1.1020060759782786
-                }
+                "file": "Arkfall/Arkfall Technology/AI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Arkfall Map"
+              "icon": "lucide-file",
+              "title": "AI"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +180,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4ebee33767f9de51",
+  "active": "b7e5b8a69029b6c9",
   "lastOpenFiles": [
     "Arkfall/Cosmology/Arkfall Map.canvas",
     "Arkfall/Cosmology/Cosmology.md",
