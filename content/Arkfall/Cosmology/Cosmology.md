@@ -9,9 +9,12 @@ aliases:
 tags:
   - Arkfall
 ---
-### Worlds of Arkfall:
+
+# Worlds of Arkfall:
 
 # The Solar System
+
+---
 
 ## The Core Worlds
 
