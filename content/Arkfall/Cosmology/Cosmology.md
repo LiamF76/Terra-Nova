@@ -20,6 +20,11 @@ tags:
 - **Mars**: 
 	- **Phobos**: 
 	- **Deimos**: 
+- **The Asteroid Belt**:
+	- **Ceres**: 
+	- **Vesta**: 
+	- **Pallas**: 
+	- **Hygiea**: 
 - **Jupiter**: Gas giant, home to Hydren, civilization exists in flying cities like Cloud CIty from Star Wars.
 	- **Io**: 
 	- **Europa**: 

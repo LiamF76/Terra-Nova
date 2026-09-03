@@ -41,18 +41,21 @@
             "id": "b7e5b8a69029b6c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Arkfall/Arkfall Magic/Quantum Lattice.md",
-                "mode": "source",
-                "source": false
+                "file": "Arkfall/Cosmology/Arkfall Map.canvas",
+                "viewState": {
+                  "x": 1590.046802303021,
+                  "y": 165.2563754491662,
+                  "zoom": -1.1020060759782786
+                }
               },
-              "icon": "lucide-file",
-              "title": "Quantum Lattice"
+              "icon": "lucide-layout-dashboard",
+              "title": "Arkfall Map"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,9 +183,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b7e5b8a69029b6c9",
+  "active": "4ebee33767f9de51",
   "lastOpenFiles": [
     "Arkfall/Cosmology/Arkfall Map.canvas",
+    "Arkfall/Arkfall Magic/Quantum Lattice.md",
     "Arkfall/Cosmology/Cosmology.md",
     "Dashboard.md",
     "Arkfall/Cosmology/Untitled.md",
@@ -190,7 +194,6 @@
     "Arkfall/Scratch/Arkfall Brainstorm.md",
     "Arkfall/Arkfall Magic/Vectors.md",
     "Arkfall/Arkfall Magic/Vector.md",
-    "Arkfall/Arkfall Magic/Quantum Lattice.md",
     "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
     "Arkfall/Cosmology/Earth/Earth.md",
     "Arkfall/Timeline/Arkfall Timeline.md",
