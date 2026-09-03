@@ -3,7 +3,7 @@
 		{"id":"a6564e8ea5326f02","type":"group","x":-4720,"y":-880,"width":1640,"height":875,"label":"The Outer Worlds"},
 		{"id":"f8894856af0b49e4","type":"group","x":-3360,"y":480,"width":1190,"height":575,"label":"The Dwarf Worlds"},
 		{"id":"0e49cfce3c458274","type":"group","x":-2520,"y":-360,"width":1640,"height":285,"label":"The Core Worlds"},
-		{"id":"15b1637c68e83f70","type":"group","x":-2680,"y":-1080,"width":320,"height":500,"label":"The Divide"},
+		{"id":"15b1637c68e83f70","type":"group","x":-2680,"y":-1080,"width":320,"height":500,"label":"The Silt Sea"},
 		{"id":"4dff41fc8aaefbeb","type":"text","text":"# Sol","x":-2800,"y":-417,"width":250,"height":60},
 		{"id":"39d0aa7146fff2ef","type":"text","text":"Dione","x":-3830,"y":-485,"width":250,"height":60},
 		{"id":"3ef5e176a44dbc36","type":"text","text":"Tethys","x":-3830,"y":-385,"width":250,"height":60},
