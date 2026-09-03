@@ -38,8 +38,10 @@
 		{"id":"ff88691571401bb5","type":"text","text":"Titan","x":1980,"y":-20,"width":250,"height":60},
 		{"id":"b328ea182cf9f882","type":"text","text":"Uranus","x":2400,"y":-115,"width":250,"height":60},
 		{"id":"38bd820d27f9ba83","type":"text","text":"Titania","x":2400,"y":-20,"width":250,"height":60},
-		{"id":"12e9669d6369ef84","x":960,"y":-20,"width":250,"height":60,"type":"text","text":"Ceres"},
-		{"id":"221e8cc2fc8d1394","x":960,"y":71,"width":250,"height":60,"type":"text","text":""}
+		{"id":"12e9669d6369ef84","type":"text","text":"Ceres","x":960,"y":-20,"width":250,"height":60},
+		{"id":"221e8cc2fc8d1394","type":"text","text":"Vesta","x":960,"y":71,"width":250,"height":60},
+		{"id":"6d508184929912fe","x":960,"y":160,"width":250,"height":60,"type":"text","text":"Pallas"},
+		{"id":"b2562a6cbfe69e06","x":960,"y":260,"width":250,"height":60,"type":"text","text":"Hygiea"}
 	],
 	"edges":[
 		{"id":"65cb8c4fe95a6bf8","fromNode":"287e62787d3779ad","fromSide":"right","toNode":"9fbba7221a7cbb8b","toSide":"left"},
@@ -78,6 +80,10 @@
 		{"id":"83b1aecd79d6803e","fromNode":"b750d7b301780b56","fromSide":"bottom","toNode":"e48c8f6e4f1662a8","toSide":"top"},
 		{"id":"6eaf42f4c884a899","fromNode":"e48c8f6e4f1662a8","fromSide":"bottom","toNode":"f45448356b1fbdf1","toSide":"top"},
 		{"id":"c5910f4a7df4a0d0","fromNode":"6b0d71d54b7f436a","fromSide":"right","toNode":"57886ef1fc5dcbd5","toSide":"left"},
-		{"id":"21ac01adcb530390","fromNode":"9925b6407a9614dc","fromSide":"right","toNode":"6b0d71d54b7f436a","toSide":"left"}
+		{"id":"21ac01adcb530390","fromNode":"9925b6407a9614dc","fromSide":"right","toNode":"6b0d71d54b7f436a","toSide":"left"},
+		{"id":"68da8d897684a8b1","fromNode":"6b0d71d54b7f436a","fromSide":"bottom","toNode":"12e9669d6369ef84","toSide":"top"},
+		{"id":"a0e27c403b817a86","fromNode":"12e9669d6369ef84","fromSide":"bottom","toNode":"221e8cc2fc8d1394","toSide":"top"},
+		{"id":"cde2d101c3344c4e","fromNode":"221e8cc2fc8d1394","fromSide":"bottom","toNode":"6d508184929912fe","toSide":"top"},
+		{"id":"6a4c232beef4fba0","fromNode":"6d508184929912fe","fromSide":"bottom","toNode":"b2562a6cbfe69e06","toSide":"top"}
 	]
 }
