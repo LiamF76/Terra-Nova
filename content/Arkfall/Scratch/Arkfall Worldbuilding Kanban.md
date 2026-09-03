@@ -7,8 +7,8 @@ kanban-plugin: board
 ## Magic
 
 - [ ] [[Quantum Lattice]]
-- [ ] [[Sprites]]
-- [ ] [[Vectors]]
+- [ ] [[Sprite]]
+- [ ] [[Vector]]
 
 
 

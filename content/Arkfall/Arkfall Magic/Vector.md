@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Vectors
+title: Vector
 aliases:
 tags:
   - Arkfall

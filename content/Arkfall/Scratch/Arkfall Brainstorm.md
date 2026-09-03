@@ -32,7 +32,7 @@ All of these inspirations are important and have influenced my idea of the setti
 | **Timeframe**             | Unrecorded distance from 2026 / IRL time. 100 years after [[The Disaster]]. The past is greater than the present.                                                                                                                                                                                                                                            |
 | **Technology**            | Hyper advanced technology, space stations, terraforming, AI, sentient machines, astral mega-structures, dyson sphere etc... humanity does not have control / access / understanding of most of these systems yet, as they are recovering from a disaster.                                                                                                    |
 | **[[Aliens]]**            | Yes! [[Aliens]] exist, see [[Aliens]], embodiment of darkness / evil, advanced technology, space magic, galactic invaders.                                                                                                                                                                                                                                   |
-| **Geopolitics**           | Humanity nearly extinct, fractured society on earth, warlords and smaller settlements. Most worlds are etinct / abandonned with small settlements remaining. Conflict between humans and alien invaders. Humanity endures thanks to [[Vectors]], individuals who can use magic known as the Quantum Lattice, altering reality and creating powerful effects. |
+| **Geopolitics**           | Humanity nearly extinct, fractured society on earth, warlords and smaller settlements. Most worlds are etinct / abandonned with small settlements remaining. Conflict between humans and alien invaders. Humanity endures thanks to [[Vector]], individuals who can use magic known as the Quantum Lattice, altering reality and creating powerful effects. |
 | **Conflict**              | Humanity vs. [[Aliens]]. Humanity tapped into truth of soul, [[Aliens]] are drawn to it / want to destory us for accessing what they believe to be the antithesis to themselves. Light vs. Darkness, think Destiny 1 & 2. Humanity is cornered but not broken.                                                                                               |
 
 ---
@@ -54,7 +54,7 @@ All of these inspirations are important and have influenced my idea of the setti
 - worlds of Arkfall
 	- Mercury is a vast and wild desert, seeded with alien monsters, and Venus is a garden world, now that humanity has fallen it is overrun, grove -> violent jungle
 - empowered heroes and warriors based on guardians, but unique, where do they get power from?
-	- [[Vectors]] 
+	- [[Vector]] 
 - what time period is this, retake earth? warlords and desperate survival? battling [[Aliens]] in space?
 - Imagine a vast empire set up on a space station that is always moving, shifting, floating and traveling through the galaxy, Thousands and thousands of miles long, infinitely so. The goal being just to spread its tendrils. I think that might be cool. At some point it might be so powerful that it can pull smaller planets with it or ingrain it into its structure so it can travel with them or use them as fuel. I see this being a cool capital.
 - space station society

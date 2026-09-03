@@ -24,38 +24,21 @@
             }
           },
           {
-            "id": "4ebee33767f9de51",
+            "id": "7e858d15780cef46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arkfall/Cosmology/Cosmology.md",
+                "file": "Arkfall/Arkfall Magic/Decoherence Sickness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmology"
-            }
-          },
-          {
-            "id": "391a122900ef2e2f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Arkfall/Cosmology/Arkfall Map V2.canvas",
-                "viewState": {
-                  "x": -2800,
-                  "y": -12.5,
-                  "zoom": -1.9074030072782238
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Arkfall Map V2"
+              "title": "Decoherence Sickness"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,20 +166,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "391a122900ef2e2f",
+  "active": "7e858d15780cef46",
   "lastOpenFiles": [
-    "Arkfall/Cosmology/Arkfall Map Old.canvas",
-    "Arkfall/Cosmology/Arkfall Map V2.canvas",
-    "Arkfall/Cosmology/Cosmology.md",
     "Dashboard.md",
-    "Arkfall/Arkfall Technology/AI.md",
-    "Writing Tips/Creating Fantasy & Alien Species.md",
     "Arkfall/Arkfall Magic/Quantum Lattice.md",
+    "Arkfall/Arkfall Magic/Sprite.md",
+    "Arkfall/Arkfall Magic/Vector.md",
+    "Arkfall/Arkfall Technology/AI.md",
+    "Arkfall/Arkfall Magic/Decoherence Sickness.md",
+    "Arkfall/Arkfall Technology/Lattice Mining.md",
+    "Arkfall/Cosmology/Arkfall Map V2.canvas",
+    "Writing Tips/Creating Fantasy & Alien Species.md",
+    "Arkfall/Cosmology/Cosmology.md",
+    "Writing Tips/How to Write Absurdly Well — Adrian Tchaikovsky Notes.md",
+    "Arkfall/Cosmology/Arkfall Map Old.canvas",
     "Arkfall/Cosmology/Untitled.md",
     "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
     "Arkfall/Scratch/Arkfall Brainstorm.md",
-    "Arkfall/Arkfall Magic/Vectors.md",
-    "Arkfall/Arkfall Magic/Vector.md",
     "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
     "Arkfall/Cosmology/Earth/Earth.md",
     "Arkfall/Timeline/Arkfall Timeline.md",
@@ -205,13 +191,11 @@
     "Arkfall/Scratch/Arkfall Idea Dump.md",
     "Arkfall/Groups/The Fallen Star Coalition.md",
     "Arkfall/Groups/The Resonant.md",
-    "Arkfall/Arkfall Magic/Sprites.md",
     "Arkfall/Groups/Aliens.md",
     "Arkfall/Characters/Modules/August.md",
     "Arkfall/Characters/Humans/Lowell.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/LS Brainstorm.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Lowell Character Building.md",
-    "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 2.md",
     "Arkfall/Arkfall Technology",
     "Arkfall/Arkfall Magic",
     "Arkfall/Timeline/Events",
