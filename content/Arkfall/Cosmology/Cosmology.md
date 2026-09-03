@@ -61,8 +61,13 @@ tags:
 ## The Dwarf Planets
 
 - **Pluto**: 
+	- **Charon**: 
+	- **Styx**: 
+	- **Nix**: 
+	- **Kerberos**: 
+	- **Hydra**: 
+- **Orcus**: 
 - **Eris**: 
 - **Haumea**: 
 - **Makemake**: 
-- **Ceres**: 
 
