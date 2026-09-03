@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arkfall/Cosmology/Cosmology.md",
+                "file": "Writing Tips/Creating Fantasy & Alien Species.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmology"
+              "title": "Creating Fantasy & Alien Species"
             }
           },
           {
@@ -185,9 +185,10 @@
   },
   "active": "4ebee33767f9de51",
   "lastOpenFiles": [
+    "Arkfall/Cosmology/Cosmology.md",
+    "Writing Tips/Creating Fantasy & Alien Species.md",
     "Arkfall/Cosmology/Arkfall Map.canvas",
     "Arkfall/Arkfall Magic/Quantum Lattice.md",
-    "Arkfall/Cosmology/Cosmology.md",
     "Dashboard.md",
     "Arkfall/Cosmology/Untitled.md",
     "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
