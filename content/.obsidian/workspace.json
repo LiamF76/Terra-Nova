@@ -43,15 +43,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Arkfall/Cosmology/Arkfall Map.canvas",
+                "file": "Arkfall/Cosmology/Arkfall Map V2.canvas",
                 "viewState": {
-                  "x": 349.9379677923024,
-                  "y": 135.65554989608066,
-                  "zoom": -0.9566666666666643
+                  "x": -1769.8102869817355,
+                  "y": 163.98596963150266,
+                  "zoom": -1.4466666666666625
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Arkfall Map"
+              "title": "Arkfall Map V2"
             }
           }
         ],
@@ -185,8 +185,9 @@
   },
   "active": "391a122900ef2e2f",
   "lastOpenFiles": [
-    "Arkfall/Cosmology/Cosmology.md",
     "Arkfall/Cosmology/Arkfall Map.canvas",
+    "Arkfall/Cosmology/Arkfall Map V2.canvas",
+    "Arkfall/Cosmology/Cosmology.md",
     "Dashboard.md",
     "Arkfall/Arkfall Technology/AI.md",
     "Writing Tips/Creating Fantasy & Alien Species.md",
