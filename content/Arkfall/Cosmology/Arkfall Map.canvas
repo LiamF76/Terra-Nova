@@ -1,9 +1,12 @@
 {
 	"nodes":[
+		{"id":"8862ca09742fc568","x":1540,"y":-135,"width":1550,"height":875,"type":"group","label":"The Outer Worlds"},
+		{"id":"cdac41d223a59a5f","x":-900,"y":-135,"width":1550,"height":285,"type":"group","label":"The Core Worlds"},
+		{"id":"5a60136381396494","x":940,"y":-135,"width":290,"height":475,"type":"group","label":"The Asteroid Belt"},
 		{"id":"9fbba7221a7cbb8b","type":"text","text":"Mercury","x":-880,"y":-115,"width":250,"height":60},
 		{"id":"6d22b25ab1dfbe0b","type":"text","text":"Venus","x":-460,"y":-115,"width":250,"height":60},
 		{"id":"c154bff34aff1b82","type":"text","text":"Earth","x":-40,"y":-115,"width":250,"height":60},
-		{"id":"287e62787d3779ad","type":"text","text":"The Sun","x":-1300,"y":-115,"width":250,"height":60},
+		{"id":"287e62787d3779ad","type":"text","text":"Sol","x":-1300,"y":-115,"width":250,"height":60},
 		{"id":"9925b6407a9614dc","type":"text","text":"Mars","x":380,"y":-115,"width":250,"height":60},
 		{"id":"6b019ddac2ad9239","type":"text","text":"Phobos","x":380,"y":-20,"width":250,"height":60},
 		{"id":"a37a0bf19773ade3","type":"text","text":"Deimos","x":380,"y":70,"width":250,"height":60},
@@ -40,8 +43,8 @@
 		{"id":"38bd820d27f9ba83","type":"text","text":"Titania","x":2400,"y":-20,"width":250,"height":60},
 		{"id":"12e9669d6369ef84","type":"text","text":"Ceres","x":960,"y":-20,"width":250,"height":60},
 		{"id":"221e8cc2fc8d1394","type":"text","text":"Vesta","x":960,"y":71,"width":250,"height":60},
-		{"id":"6d508184929912fe","x":960,"y":160,"width":250,"height":60,"type":"text","text":"Pallas"},
-		{"id":"b2562a6cbfe69e06","x":960,"y":260,"width":250,"height":60,"type":"text","text":"Hygiea"}
+		{"id":"6d508184929912fe","type":"text","text":"Pallas","x":960,"y":160,"width":250,"height":60},
+		{"id":"b2562a6cbfe69e06","type":"text","text":"Hygiea","x":960,"y":260,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"65cb8c4fe95a6bf8","fromNode":"287e62787d3779ad","fromSide":"right","toNode":"9fbba7221a7cbb8b","toSide":"left"},
