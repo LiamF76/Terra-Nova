@@ -38,6 +38,23 @@
             }
           },
           {
+            "id": "04d6eadd020f011a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Arkfall/Cosmology/Arkfall Map.canvas",
+                "viewState": {
+                  "x": 3820.5187492075615,
+                  "y": 163.06706149613052,
+                  "zoom": -0.31786805775642
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Arkfall Map"
+            }
+          },
+          {
             "id": "391a122900ef2e2f",
             "type": "leaf",
             "state": {
@@ -45,9 +62,9 @@
               "state": {
                 "file": "Arkfall/Cosmology/Arkfall Map V2.canvas",
                 "viewState": {
-                  "x": -2345.0282680726814,
-                  "y": -360.3557021775717,
-                  "zoom": -1.1266666666666632
+                  "x": -2696.660887998128,
+                  "y": -295.16556095333766,
+                  "zoom": -1.5421003841360372
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -55,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,11 +200,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "391a122900ef2e2f",
+  "active": "e34a2393bb44142e",
   "lastOpenFiles": [
-    "Arkfall/Cosmology/Cosmology.md",
-    "Arkfall/Cosmology/Arkfall Map V2.canvas",
     "Arkfall/Cosmology/Arkfall Map.canvas",
+    "Arkfall/Cosmology/Arkfall Map V2.canvas",
+    "Arkfall/Cosmology/Cosmology.md",
     "Dashboard.md",
     "Arkfall/Arkfall Technology/AI.md",
     "Writing Tips/Creating Fantasy & Alien Species.md",
