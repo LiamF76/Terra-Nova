@@ -28,7 +28,7 @@ tags:
 
 ---
 
-## The Asteroid Belt
+## The Divide
 
 - **The Asteroid Belt**:
 	- **Ceres**: 
@@ -73,7 +73,7 @@ tags:
 
 ---
 
-## The Dwarf Planets
+## The Dwarf Worlds
 
 - **Pluto**: 
 	- **Charon**: 
@@ -83,5 +83,4 @@ tags:
 	- **Hydra**: 
 - **Orcus**: 
 - **Eris**: 
-- **Haumea**: 
 

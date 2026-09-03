@@ -45,8 +45,8 @@
               "state": {
                 "file": "Arkfall/Cosmology/Arkfall Map.canvas",
                 "viewState": {
-                  "x": -388.2434576415836,
-                  "y": 63.61644570821121,
+                  "x": 2655.3721038640156,
+                  "y": 61.19035085844743,
                   "zoom": -0.3833333333333308
                 }
               },
@@ -185,9 +185,9 @@
   },
   "active": "391a122900ef2e2f",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Arkfall/Cosmology/Cosmology.md",
     "Arkfall/Cosmology/Arkfall Map.canvas",
+    "Dashboard.md",
     "Arkfall/Arkfall Technology/AI.md",
     "Writing Tips/Creating Fantasy & Alien Species.md",
     "Arkfall/Arkfall Magic/Quantum Lattice.md",
