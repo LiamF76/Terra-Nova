@@ -35,7 +35,7 @@ This is a breakdown of Quantum Lattice (QL), the magic of Arkfall.
 Quantum Lattice is raw underlying code of reality itself. It is not energy or matter, but the invisible and powerful binding force between all energy, matter, and consciousness. It is a manifestation of possibility and potential, and when in trained hands it has a terrifying level of flexibility in what it can accomplish.
 Lattice has no will, intention, or memory, it is a property of existence. Its meaning and purpose is entirely determined by its wielder.
 
-Raw Lattice is highly volatile and dangerous, without a device to focus it or living host to control it.
+Raw Lattice is highly volatile and dangerous without a device to focus it or living host to control it.
 
 ---
 
