@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"a6564e8ea5326f02","type":"group","x":-4720,"y":-880,"width":1640,"height":875,"label":"The Outer Worlds"},
-		{"id":"f8894856af0b49e4","type":"group","x":-3560,"y":400,"width":1190,"height":575,"label":"The Dwarf Worlds"},
+		{"id":"f8894856af0b49e4","type":"group","x":-3480,"y":480,"width":1190,"height":575,"label":"The Dwarf Worlds"},
 		{"id":"0e49cfce3c458274","type":"group","x":-2480,"y":-360,"width":1640,"height":285,"label":"The Core Worlds"},
 		{"id":"15b1637c68e83f70","type":"group","x":-2680,"y":-1080,"width":320,"height":500,"label":"The Divide"},
 		{"id":"4dff41fc8aaefbeb","type":"text","text":"# Sol","x":-2800,"y":-417,"width":250,"height":60},
@@ -41,19 +41,19 @@
 		{"id":"21d41a989c131586","type":"text","text":"Io","x":-3400,"y":-765,"width":250,"height":60},
 		{"id":"a599de29e141ca2e","type":"text","text":"Europa","x":-3400,"y":-675,"width":250,"height":60},
 		{"id":"24d21eb59bc26208","type":"text","text":"Ganymede","x":-3400,"y":-585,"width":250,"height":60},
-		{"id":"8f1a81fa9f84d4d9","type":"text","text":"Pluto","x":-3540,"y":420,"width":250,"height":60},
-		{"id":"0e0354e671b0db8e","type":"text","text":"Styx","x":-3540,"y":605,"width":250,"height":60},
-		{"id":"b35199d786547aaa","type":"text","text":"Nix","x":-3540,"y":695,"width":250,"height":60},
-		{"id":"84b2b897ac732e2c","type":"text","text":"Kerberos","x":-3540,"y":795,"width":250,"height":60},
-		{"id":"a2fdb6737d9304e1","type":"text","text":"Hydra","x":-3540,"y":895,"width":250,"height":60},
-		{"id":"0f55ad6c8b84e06a","type":"text","text":"Orcus","x":-3092,"y":420,"width":250,"height":60},
-		{"id":"29b5491a02fb5f3e","type":"text","text":"Eris","x":-2640,"y":420,"width":250,"height":58},
-		{"id":"59cf0b2bd48d486e","type":"text","text":"Charon","x":-3540,"y":515,"width":250,"height":60},
 		{"id":"e9486948732075de","type":"text","text":"Hygiea","x":-2640,"y":-1060,"width":250,"height":60},
 		{"id":"08dc71fa9dc9fdc1","type":"text","text":"Pallas","x":-2640,"y":-960,"width":250,"height":60},
 		{"id":"b49b57a51a71b711","type":"text","text":"Vesta","x":-2640,"y":-860,"width":250,"height":60},
 		{"id":"b60ba844f4ccd835","type":"text","text":"Ceres","x":-2640,"y":-760,"width":250,"height":60},
-		{"id":"acacf37d4ab913a2","type":"text","text":"The Asteroid Belt","x":-2640,"y":-660,"width":250,"height":60}
+		{"id":"acacf37d4ab913a2","type":"text","text":"The Asteroid Belt","x":-2640,"y":-660,"width":250,"height":60},
+		{"id":"8f1a81fa9f84d4d9","type":"text","text":"Pluto","x":-3460,"y":500,"width":250,"height":60},
+		{"id":"0e0354e671b0db8e","type":"text","text":"Styx","x":-3460,"y":685,"width":250,"height":60},
+		{"id":"b35199d786547aaa","type":"text","text":"Nix","x":-3460,"y":775,"width":250,"height":60},
+		{"id":"84b2b897ac732e2c","type":"text","text":"Kerberos","x":-3460,"y":875,"width":250,"height":60},
+		{"id":"a2fdb6737d9304e1","type":"text","text":"Hydra","x":-3460,"y":975,"width":250,"height":60},
+		{"id":"0f55ad6c8b84e06a","type":"text","text":"Orcus","x":-3012,"y":500,"width":250,"height":60},
+		{"id":"29b5491a02fb5f3e","type":"text","text":"Eris","x":-2560,"y":500,"width":250,"height":58},
+		{"id":"59cf0b2bd48d486e","type":"text","text":"Charon","x":-3460,"y":595,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"63a8a1b38a0d6ae5","fromNode":"e1c6c9a1e9cd728a","fromSide":"right","toNode":"e052ab6a314ccd09","toSide":"left"},
