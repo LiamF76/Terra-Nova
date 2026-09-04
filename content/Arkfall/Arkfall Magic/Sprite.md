@@ -32,9 +32,7 @@ Generally Forged Sprites have a predesigned purpose, intended to be paired with 
 ### Wild Sprites
 Wild Sprites are formed naturally, where Quantum Lattice occurs in high enough concentration for long enough to condense into awareness on its own. Additionally the presence of a mortal with willpower, creativity, or power strong enough to calcify the Lattice into sentience is required. This creates a unique pair of requirements, that make Wild Sprite birth almost as rare as Forged Sprites creation.
 
-Unlike a Forged Sprite, the Wild ones have no intended purpose or directive, they are simply most likely to bond with the person whose willpower caused their creation (this is most common but not always true). It is a sign of great fortune if a Sprite formed by your will has a similar nature to you, as you are aligned in purpose. This can however make Wild Sprites unpredictable, some are gentle and curious about the first living things they encounter, others are hostile and unsafe to even approach.
-
-Wild Sprites are known to wander for months before they find a suitable host, often times following an unwilling host that formed them until they eventually relent, and bond. 
+Unlike a Forged Sprite, the Wild ones have no intended purpose or directive, they are simply most likely to bond with the person whose willpower caused their creation (this is most common but not always true). It is a sign of great fortune if a Sprite formed by your will has a similar nature to you, as you are aligned in purpose. This can however make Wild Sprites unpredictable, some are gentle and curious about the first living things they encounter, others are hostile and unsafe to even approach. They are quick to search for a host, and if they cannot find one within a day or so of their birth they fade into unconscious Lattice like they never existed.
 
 ---
 
