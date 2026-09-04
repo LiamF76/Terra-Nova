@@ -31,7 +31,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 ---
 
 > [!note] Arkfall
-> ##  [[Arkfall Brainstorm]] | [[Arkfall Timeline]] | 
+> ## [[Arkfall Worldbuilding Kanban]] | [[Arkfall Brainstorm]] | [[Arkfall Timeline]] | 
 
 ---
 

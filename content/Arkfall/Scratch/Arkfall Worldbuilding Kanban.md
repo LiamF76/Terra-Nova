@@ -21,9 +21,9 @@ kanban-plugin: board
 ## Human Species
 
 - [ ] [[Human]]
+- [ ] [[Hydren]]
+- [ ] [[Module]]
 - [ ] [[Resonant]]
-- [ ] Hydren
-- [ ] Modules
 
 
 

@@ -24,25 +24,17 @@
             }
           },
           {
-            "id": "762198306b2cb6a4",
+            "id": "c7b02084c2d930e9",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Arkfall/Arkfall Magic/Sprite.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Arkfall Worldbuilding Kanban"
+              "icon": "lucide-file",
+              "title": "Sprite"
             }
           }
         ],
@@ -174,10 +166,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "762198306b2cb6a4",
+  "active": "c7b02084c2d930e9",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+    "Dashboard.md",
     "Arkfall/Groups/Human Species/Resonant.md",
     "Arkfall/Groups/The Resonant.md",
     "Arkfall/Groups/Organizations",
