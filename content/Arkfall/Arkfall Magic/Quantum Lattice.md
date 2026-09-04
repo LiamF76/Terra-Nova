@@ -6,12 +6,6 @@ tags:
   - Arkfall
 ---
 
-This is a breakdown of Quantum Lattice (QL), the magic of Arkfall.
-
-- **Quantum Lattice Types**
-	- **Sprite-Bound**: Sprites are Quantum Spirits that an be bound to an individual. When bound to a mortal they synthesize Lattice for their host literally inside the host's body (hosts are generally called [[Vector]]). It is unique to the host's quantum signature, meaning it cannot be stolen or used by others unless the host imbues it into something else. Sprites require achievement to synthesize Lattice, but this achievement is bound to the Sprite's own nature. A sprite who has a warlike nature requires killing or battle to synthesize lattice for their host, while a peaceful sprite may require protecting others or something else. Sprites can grow and change but are somewhat parasitic to their hosts.
-	- **Lattice Mining**: Names for mined lattice include: *lattice ore, quantum silt, entangled dust*. Raw, unstable, and dangerous to mine. Lattice ore can be gathered from specific areas like asteroids, space dust clouds, and dead star remnants. Miners who work it risk decoherence sickness where bodies or minds destabilize from exposure. Mined lattice cannot be organically wielded and needs to be channeled through machinery / weapons. 
-
 ## What is Quantum Lattice
 
 Quantum Lattice is raw underlying code of reality itself. It is not energy or matter, but the invisible and powerful binding force between all energy, matter, and consciousness. It is a manifestation of possibility and potential, and when in trained hands it has a terrifying level of flexibility in what it can accomplish.
@@ -40,12 +34,36 @@ Where Materium can be stockpiled and armed en masse, Sprite-Bound Lattice cannot
 
 ---
 
+## Quantum Lattice Manifestations
+
+As a power, Quantum Lattice is boundless, only limited by a few things. For Materium it is limited by the amount gathered and the device used. For Sprite-Bound, it is limited by the amount produced in the host, and the willpower of the host. This Lattice literally creates effects from nothing.
+
+When Lattice is shaped it falls into one of a few known disciplines or types. Any given Vector can express two to three, while devices are usually limited to one. True mastery across more than one discipline is rare, and often a sign of either an unusually powerful Sprite or an unnaturally advanced (and expensive) device.
+
+### Kinetic
+Creation of force, momentum, and gravity. Manifests as enhanced strength, altered weight, controlled falls, shockwaves, and crushing or repelling force. The most common among warlike Sprites and the easiest to replicate through Materium devices. The weakest Lattice-forged weaponry draws on Kinetic principles, most of which are only suited for mining, construction, or demolition. Most Vectors are able to harness Kinetic Lattice to enhance their speed, strength, and durability to superhuman levels.
+
+### Thermal
+Creation of heat and cold. Manifests as plasma, flame, frost, and ice. This is the elemental face of Lattice that most people picture first. It is suited to both offense and defense, and reliably produced by devices. This makes it common in both Vector combat and Materium weaponry. Thermal Sprites tend towards extremes of temperament rather than a single nature. Some run cold, patient and controlled. Others run hot, quick to anger and quick to burn out. Sprites with those respective natures expect the same from their hosts, be that restraint or volatility.
+
+### Electromagnetic
+Creation of electricity, magnetism, and charged particles. Manifests as lightning, arc discharge, electromagnetic pulses, magnetic attraction, repulsion, and disruption of electronics or machinery. Electromagnetic Lattice is a natural disruptor and conductor. Reliably device-friendly, and prized by those who fight against high tech enemies. A well placed pulse can cripple a fighter ship, a weapon, or an AI-linked system as easily as a body. Often associated with wild or unpredictable Sprites, distinct from the discipline and control of warlike Kinetic-leaning Sprites.
+
+### Entropic
+Creation of decay, corrosion, and unraveling. The most feared and least understood discipline. Entropic Lattice is capable of aging matter, weakening structures, or even unmaking bonds at the molecular level. Associated with rare warlike and hungry Sprites, and considered by many orders to carry the highest psychological cost to wield. Corrosion is rumored to come from from somewhere within the wielder. It is virtually nonexistent in devices, and highly rare in Sprites, but considered the most dangerous and mysterious in both.
+
+### Cognitive
+Creation of perception, emotion, and communication. Manifests as calm, fear, illusion, or a silent understanding between minds. Cognitive can be used to imbue a host with courage in fearful moments, vast boosts to their intelligence in short bursts, or even creating illusions and manipulation of a target's thoughts. This discipline resists mechanical replication entirely, and Materium devices can barely simulate it. If they do it is clumsy and weak. Cognitive manifestation seems to require true will and sentience behind it, making it functionally exclusive to Sprite-Bound Vectors, and even rare amongst them.
+
+### Vital
+Creation of vitality, restoration, and endurance. Manifests as accelerated healing, resistance to disease and aging, and in the rarest expression it can revive a host from the threshold of death. Vital is the most intimate of all the disciplines, since it acts not on the world but on the wielder's own body. Vital manifestation is almost entirely limited to Sprites. Materium devices cannot do much more than heal simple wounds or slow decay. Vectors who can harness this power with their Sprite live exceptionally long lives, one recorded to have lived over 300 years. The rarest expression of Vital is a Sprite being able to revive a Vector from death in the briefest moment before death has taken hold. Vectors revived this way never return whole, they lose a piece of themselves, memory, personality, or something deeper that may be the soul. Vectors often call it more debt than gift.
+
+---
+
 ## Quantum Lattice Magic System Questions
 
-- **How is it learned and executed?**: QL can be learned through use and mentorship by other QL users (Vectors). It is executed by physical motion for Vectors, and through channeling devices by non-Vectors.
-- **How is it accessed?**: QL can be accessed by 1 of 2 ways.
-	- Sprites: Sprites are QL spirits who can be bound to a host who becomes a Vector. The Sprite produces QL inside the host for the Vector to use.
-	- QL Devices: QL devices use mined / harvested QL to produce Vector-like abilities such as guns that shoot plasma or enchanted ice.
+- **How is it learned and executed?**: 
+- **How is it accessed?**: 
 - **Does it have a will of its own?**: QL is impartial and non-sentient, it has no will. Sprites are spirits of QL that are sentient and have their own personalities, wills, and desires.
 - **Is it restricted in space and time?**: 
 - **What does available magic do?**: 
