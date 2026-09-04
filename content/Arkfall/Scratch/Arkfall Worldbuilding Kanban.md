@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Magic
 
-- [ ] [[Quantum Lattice]]
+- [x] [[Quantum Lattice]]
 - [ ] [[Sprite]]
 - [ ] [[Vector]]
 - [ ] [[Decoherence Sickness]]
