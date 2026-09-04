@@ -60,7 +60,7 @@ Creation of vitality, restoration, and endurance. Manifests as accelerated heali
 
 ---
 
-## Quantum Lattice Magic System Questions
+## Quantum Lattice Worldbuilding Questions
 
 - **How is it learned and executed?**: 
 - **How is it accessed?**: 
