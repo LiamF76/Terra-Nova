@@ -64,7 +64,7 @@ All of these inspirations are important and have influenced my idea of the setti
 - Alien species, who are they, what do they represent?
 	- [[Aliens]]
 - Human species
-	- [[Humanity]] 
+	- [[Human]] 
 - collapse / apocalypse
 	- [[The Disaster]]
 
