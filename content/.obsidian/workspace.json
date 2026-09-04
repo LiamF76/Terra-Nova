@@ -24,6 +24,28 @@
             }
           },
           {
+            "id": "05f2fcb7d69c2f41",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Arkfall Worldbuilding Kanban"
+            }
+          },
+          {
             "id": "c7b02084c2d930e9",
             "type": "leaf",
             "state": {
@@ -38,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,15 +190,15 @@
   },
   "active": "c7b02084c2d930e9",
   "lastOpenFiles": [
-    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
-    "Dashboard.md",
     "Arkfall/Groups/Human Species/Resonant.md",
+    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+    "Arkfall/Arkfall Magic/Sprite.md",
+    "Arkfall/Groups/Human Species/Hydren.md",
+    "Dashboard.md",
     "Arkfall/Groups/The Resonant.md",
     "Arkfall/Groups/Organizations",
     "Arkfall/Groups/Human Species/Module.md",
-    "Arkfall/Groups/Human Species/Hydren.md",
     "Arkfall/Groups/Human Species/Human.md",
-    "Arkfall/Arkfall Magic/Sprite.md",
     "Arkfall/Arkfall Magic/Quantum Lattice.md",
     "Arkfall/Scratch/Arkfall Brainstorm.md",
     "Arkfall/Arkfall Magic/Decoherence Sickness.md",
