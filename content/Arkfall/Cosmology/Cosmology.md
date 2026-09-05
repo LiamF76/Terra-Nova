@@ -40,7 +40,7 @@ tags:
 
 ## The Outer Worlds
 
-- **Jupiter**: Gas giant, primarily composed of 75% Hydrogen and 25% Helium. 
+- **Jupiter**: Gas giant, primarily composed of 75% Hydrogen and 25% Helium. Hydren live in flying cities that use magnetic anchors to stay tethered to the core of the planet.
 	- **Io**: 
 	- **Europa**: 
 	- **Ganymede**: 
@@ -49,7 +49,7 @@ tags:
 	- **Thebe**: 
 	- **Metis**: 
 	- **Adrastea**: 
-- **Saturn**: Gas giant, primarily composed of 75% Hydrogen and 25% Helium. 
+- **Saturn**: Gas giant, primarily composed of 75% Hydrogen and 25% Helium. Hydren live in flying cities that use magnetic anchors to stay tethered to the core of the planet.
 	- **Titan**: 
 	- **Rhea**: 
 	- **Iapetus**: 
