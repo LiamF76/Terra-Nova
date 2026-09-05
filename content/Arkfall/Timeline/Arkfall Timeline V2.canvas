@@ -1,13 +1,15 @@
 {
 	"nodes":[
-		{"id":"e73db915c5d52dc8","type":"text","text":"(**Year 2052**) All Nations join the  new UN ","x":3,"y":-140,"width":163,"height":119},
-		{"id":"0ca8c9b74bfccfa2","x":220,"y":-140,"width":210,"height":119,"type":"text","text":"(**Year 2050**) AI Sets Plan for Climate Reconstruction"},
+		{"id":"e73db915c5d52dc8","type":"text","text":"(**Year 2052**) All Nations join the  new UN ","x":23,"y":-140,"width":163,"height":119},
+		{"id":"0ca8c9b74bfccfa2","type":"text","text":"(**Year 2055**) AI Sets Plan for Climate Reconstruction","x":249,"y":-140,"width":210,"height":119},
 		{"id":"5c1fbffdce5a85b3","type":"text","text":"(**Year 2038**) The Mars Landing","x":-500,"y":-119,"width":182,"height":77},
-		{"id":"98bc63b032919957","x":-265,"y":-140,"width":215,"height":119,"type":"text","text":"(**Year 2045**) Climate Collapse death toll reaches 4 billion"}
+		{"id":"98bc63b032919957","type":"text","text":"(**Year 2045**) Climate Collapse death toll reaches 4 billion","x":-255,"y":-140,"width":215,"height":119},
+		{"id":"1290aaf4ce3dc884","x":520,"y":-119,"width":211,"height":77,"type":"text","text":"(**Year 2062**) Mars Terraforming Begins"}
 	],
 	"edges":[
 		{"id":"a94e81c2f1f76278","fromNode":"e73db915c5d52dc8","fromSide":"right","toNode":"0ca8c9b74bfccfa2","toSide":"left"},
 		{"id":"a674a7a62a493e56","fromNode":"5c1fbffdce5a85b3","fromSide":"right","toNode":"98bc63b032919957","toSide":"left"},
-		{"id":"aaa60055d27316c9","fromNode":"98bc63b032919957","fromSide":"right","toNode":"e73db915c5d52dc8","toSide":"left"}
+		{"id":"aaa60055d27316c9","fromNode":"98bc63b032919957","fromSide":"right","toNode":"e73db915c5d52dc8","toSide":"left"},
+		{"id":"59109191a0e72080","fromNode":"0ca8c9b74bfccfa2","fromSide":"right","toNode":"1290aaf4ce3dc884","toSide":"left"}
 	]
 }
