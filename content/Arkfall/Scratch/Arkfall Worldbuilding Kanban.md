@@ -32,10 +32,16 @@ kanban-plugin: board
 - [ ] [[Arkfall/Cosmology/Cosmology|Cosmology]]
 
 
+## General
+
+- [ ] [[Arkfall Timeline]]
+- [ ] [[Arkfall Timeline V2.canvas]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%

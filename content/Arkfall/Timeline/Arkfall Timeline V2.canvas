@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5c1fbffdce5a85b3","type":"text","text":"(**Year 2038**) The Mars Landing","x":-231,"y":-119,"width":182,"height":77},
+		{"id":"e73db915c5d52dc8","type":"text","text":"(**Year 2052**) All Nations join the  new UN ","x":0,"y":-140,"width":163,"height":119}
+	],
+	"edges":[
+		{"id":"737e43c034c6a78d","fromNode":"5c1fbffdce5a85b3","fromSide":"right","toNode":"e73db915c5d52dc8","toSide":"left"}
+	]
+}
