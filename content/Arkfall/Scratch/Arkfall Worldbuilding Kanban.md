@@ -26,10 +26,16 @@ kanban-plugin: board
 - [ ] [[Resonant]]
 
 
+## Worlds
+
+- [ ] [[Arkfall Map V2.canvas]]
+- [ ] [[Arkfall/Cosmology/Cosmology|Cosmology]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

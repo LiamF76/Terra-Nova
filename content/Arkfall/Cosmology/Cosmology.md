@@ -40,7 +40,7 @@ tags:
 
 ## The Outer Worlds
 
-- **Jupiter**: Gas giant, home to Hydren, civilization exists in flying cities like Cloud CIty from Star Wars.
+- **Jupiter**: Gas giant, primarily composed of 75% Hydrogen and 25% Helium. 
 	- **Io**: 
 	- **Europa**: 
 	- **Ganymede**: 
@@ -49,7 +49,7 @@ tags:
 	- **Thebe**: 
 	- **Metis**: 
 	- **Adrastea**: 
-- **Saturn**: 
+- **Saturn**: Gas giant, primarily composed of 75% Hydrogen and 25% Helium. 
 	- **Titan**: 
 	- **Rhea**: 
 	- **Iapetus**: 
@@ -75,12 +75,13 @@ tags:
 
 ## The Dwarf Worlds
 
-- **Pluto**: 
-	- **Charon**: 
-	- **Styx**: 
-	- **Nix**: 
-	- **Kerberos**: 
-	- **Hydra**: 
-- **Orcus**: 
-- **Eris**: 
+- **Rubicon's Eye**: 
+	- **Pluto**: 
+		- **Charon**: 
+		- **Styx**: 
+		- **Nix**: 
+		- **Kerberos**: 
+		- **Hydra**: 
+	- **Orcus**: 
+	- **Eris**: 
 
