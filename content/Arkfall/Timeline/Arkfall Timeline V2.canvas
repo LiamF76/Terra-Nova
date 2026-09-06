@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"e73db915c5d52dc8","type":"text","text":"(**Year 2052**) All Nations join the  new UN ","x":31,"y":-140,"width":163,"height":119},
-		{"id":"0ca8c9b74bfccfa2","type":"text","text":"(**Year 2055**) AI Sets Plan for Climate Reconstruction","x":261,"y":-140,"width":210,"height":119},
+		{"id":"e73db915c5d52dc8","type":"text","text":"(**Year 2052**) All Nations join the  new UN ","x":41,"y":-140,"width":163,"height":119},
+		{"id":"0ca8c9b74bfccfa2","type":"text","text":"(**Year 2055**) AI Sets Plan for Climate Reconstruction","x":276,"y":-140,"width":210,"height":119},
 		{"id":"5c1fbffdce5a85b3","type":"text","text":"(**Year 2038**) The Mars Landing","x":-500,"y":-119,"width":182,"height":77},
-		{"id":"98bc63b032919957","type":"text","text":"(**Year 2045**) Climate Collapse death toll reaches 4 billion","x":-251,"y":-140,"width":215,"height":119},
-		{"id":"1290aaf4ce3dc884","type":"text","text":"(**Year 2062**) Mars Terraforming Begins","x":538,"y":-119,"width":211,"height":77},
-		{"id":"69149df9e1296e1c","type":"text","text":"(**Year ?**) Event","x":816,"y":-110,"width":250,"height":60},
+		{"id":"98bc63b032919957","type":"text","text":"(**Year 2045**) Climate Collapse death toll reaches 4 billion","x":-246,"y":-140,"width":215,"height":119},
+		{"id":"1290aaf4ce3dc884","type":"text","text":"(**Year 2062**) Mars Terraforming Begins","x":558,"y":-119,"width":211,"height":77},
+		{"id":"69149df9e1296e1c","type":"text","text":"(**Year ?**) Event","x":841,"y":-110,"width":250,"height":60},
 		{"id":"c68f0e75d05a6a85","type":"text","text":"(**Year 0 AF**) The Disaster","x":1438,"y":-118,"width":145,"height":77},
-		{"id":"4845f04d12ce7f90","type":"text","text":"(**Year 2386**) Mars Quantum AI Quantifies the Soul","x":1133,"y":-139,"width":238,"height":119}
+		{"id":"4845f04d12ce7f90","type":"text","text":"(**Year 2386**) Mars Lattice AI Quantifies the Soul","x":1163,"y":-139,"width":200,"height":119}
 	],
 	"edges":[
 		{"id":"a94e81c2f1f76278","fromNode":"e73db915c5d52dc8","fromSide":"right","toNode":"0ca8c9b74bfccfa2","toSide":"left"},
