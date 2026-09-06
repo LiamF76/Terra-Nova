@@ -7,9 +7,9 @@ kanban-plugin: board
 ## Magic
 
 - [x] [[Quantum Lattice]]
+- [ ] [[Decoherence Sickness]]
 - [ ] [[Sprite]]
 - [ ] [[Vector]]
-- [ ] [[Decoherence Sickness]]
 
 
 ## Technology
