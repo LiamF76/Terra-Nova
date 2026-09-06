@@ -1,26 +1,23 @@
 ---
 publish: false
-title: Earth
+title:
 aliases:
-  - Terra
-  - Mother Earth
-  - Homeworld
 tags:
   - Arkfall
 ---
 
-## Earth
+## Planet / World Template
 
-- Name: Earth, Terra, Gaia
-- Region: Core Worlds
-- Status: Contested
+- Name: 
+- Region: (Core Worlds / Silt Sea / Outer Worlds / Dwarf Worlds) 
+- Status: (Terraformed / Un-terraformed / Abandoned / Contested)
 
 --- 
 
 ### Geography & Environment
 
 - Surface/atmosphere conditions: 
-- Gravity (relative to Earth): 1G
+- Gravity (relative to Earth): 
 - Notable regions/landmarks: 
 
 ---
@@ -29,9 +26,6 @@ tags:
 
 - Who lives here / faction(s) in control: 
 - Major settlement(s): 
-	- New Mumbai
-	- Foundry
-	- 
 - Government or leadership: 
 
 ---
