@@ -36,6 +36,7 @@ kanban-plugin: board
 
 - [ ] [[Arkfall Timeline]]
 - [ ] [[Arkfall Timeline V2.canvas]]
+- [ ] [[Arkfall Character Ideas]]
 
 
 
