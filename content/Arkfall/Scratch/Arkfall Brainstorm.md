@@ -40,11 +40,6 @@ All of these inspirations are important and have influenced my idea of the setti
 ### Ideas?
 
 - [[Arkfall/Cosmology/Cosmology|Cosmology]]
-- set in the far future at an undefined date, 
-	- Current day, 2020, 21st century, etc...
-	- Add about 50 years
-	- Golden Age, 200-300 years
-	- 300 years after [[The Disaster]]
 - space magic somehow, technology, psionics, quantum
 	- **Quantum Lattice**, universal law manipulation, feels like magic, only specific individuals can do it. Obtained and used by those sensitive to it or infused with it by machinery
 - pantheon

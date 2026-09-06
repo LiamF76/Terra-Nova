@@ -7,7 +7,8 @@
 		{"id":"1290aaf4ce3dc884","type":"text","text":"(**Year 2062**) Mars Terraforming Begins","x":558,"y":-119,"width":211,"height":77},
 		{"id":"69149df9e1296e1c","type":"text","text":"(**Year ?**) Event","x":841,"y":-110,"width":250,"height":60},
 		{"id":"c68f0e75d05a6a85","type":"text","text":"(**Year 0 AF**) The Disaster","x":1438,"y":-118,"width":145,"height":77},
-		{"id":"4845f04d12ce7f90","type":"text","text":"(**Year 2386**) Mars Lattice AI Quantifies the Soul","x":1163,"y":-139,"width":200,"height":119}
+		{"id":"4845f04d12ce7f90","type":"text","text":"(**Year 2386**) Mars Lattice AI Quantifies the Soul","x":1163,"y":-139,"width":200,"height":119},
+		{"id":"f50d23c895a64c38","x":-500,"y":-620,"width":340,"height":347,"type":"text","text":"General Info:\n- Alternate future\n- 300 year golden age\n- Fermi Paradox breaks, Disaster\n- Year 0 AF (After Fermi)\n- Dark age lasts 300 years\n- current day"}
 	],
 	"edges":[
 		{"id":"a94e81c2f1f76278","fromNode":"e73db915c5d52dc8","fromSide":"right","toNode":"0ca8c9b74bfccfa2","toSide":"left"},
