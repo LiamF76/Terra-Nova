@@ -22,29 +22,6 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "9fa0797e20b2e932",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Arkfall Worldbuilding Kanban"
-            }
           }
         ]
       }
@@ -184,9 +161,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
     "Arkfall/Scratch/Arkfall Brainstorm.md",
-    "Dashboard.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "conflict-files-obsidian-git.md",
     "Arkfall/Groups/Organizations/The Fallen Star Coalition.md",
