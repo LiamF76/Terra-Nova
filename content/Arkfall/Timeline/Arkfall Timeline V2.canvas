@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"e73db915c5d52dc8","type":"text","text":"(**Year 2052**) All Nations join the  new UN ","x":41,"y":-140,"width":163,"height":119},
+		{"id":"0ca8c9b74bfccfa2","type":"text","text":"(**Year 2055**) AI Sets Plan for Climate Reconstruction","x":276,"y":-140,"width":210,"height":119},
+		{"id":"5c1fbffdce5a85b3","type":"text","text":"(**Year 2038**) The Mars Landing","x":-500,"y":-119,"width":182,"height":77},
+		{"id":"98bc63b032919957","type":"text","text":"(**Year 2045**) Climate Collapse death toll reaches 4 billion","x":-246,"y":-140,"width":215,"height":119},
+		{"id":"1290aaf4ce3dc884","type":"text","text":"(**Year 2062**) Mars Terraforming Begins","x":558,"y":-119,"width":211,"height":77},
+		{"id":"69149df9e1296e1c","type":"text","text":"(**Year ?**) Event","x":841,"y":-110,"width":250,"height":60},
+		{"id":"c68f0e75d05a6a85","type":"text","text":"(**Year 0 AF**) The Disaster","x":1438,"y":-118,"width":145,"height":77},
+		{"id":"4845f04d12ce7f90","type":"text","text":"(**Year 2386**) Mars Lattice AI Quantifies the Soul","x":1163,"y":-139,"width":200,"height":119},
+		{"id":"f50d23c895a64c38","x":-500,"y":-580,"width":340,"height":347,"type":"text","text":"General Info:\n- Alternate future\n- 300 year golden age\n- Fermi Paradox breaks, Disaster\n- Year 0 AF (After Fermi)\n- Dark age lasts 300 years\n- current day"}
+	],
+	"edges":[
+		{"id":"a94e81c2f1f76278","fromNode":"e73db915c5d52dc8","fromSide":"right","toNode":"0ca8c9b74bfccfa2","toSide":"left"},
+		{"id":"a674a7a62a493e56","fromNode":"5c1fbffdce5a85b3","fromSide":"right","toNode":"98bc63b032919957","toSide":"left"},
+		{"id":"aaa60055d27316c9","fromNode":"98bc63b032919957","fromSide":"right","toNode":"e73db915c5d52dc8","toSide":"left"},
+		{"id":"59109191a0e72080","fromNode":"0ca8c9b74bfccfa2","fromSide":"right","toNode":"1290aaf4ce3dc884","toSide":"left"},
+		{"id":"a04ba15032cb9bd0","fromNode":"4845f04d12ce7f90","fromSide":"right","toNode":"c68f0e75d05a6a85","toSide":"left"},
+		{"id":"61be2ade5eb74382","fromNode":"1290aaf4ce3dc884","fromSide":"right","toNode":"69149df9e1296e1c","toSide":"left"},
+		{"id":"bf160a73192c1899","fromNode":"69149df9e1296e1c","fromSide":"right","toNode":"4845f04d12ce7f90","toSide":"left"}
+	]
+}

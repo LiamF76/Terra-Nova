@@ -22,8 +22,31 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "f31c7b20fcfb6885",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Terra-Oblivia Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,10 +182,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f31c7b20fcfb6885",
   "lastOpenFiles": [
     "Dashboard.md",
     "conflict-files-obsidian-git.md",
+    "Arkfall/Groups/Organizations/The Fallen Star Coalition.md",
+    "Arkfall/Groups/Organizations",
+    "Arkfall/Cosmology/Core Worlds/Earth/Locations/New Mumbai.md",
+    "Arkfall/Cosmology/Core Worlds/Earth/Locations",
+    "Arkfall/Cosmology/Core Worlds/Earth/Earth.md",
+    "Arkfall/Cosmology/Core Worlds/Earth",
+    "Arkfall/Cosmology/Core Worlds",
+    "Arkfall/Cosmology/Worlds Brainstorm.md",
+    "Arkfall/Cosmology/Arkfall Map V2.canvas",
+    "Arkfall/Cosmology/Arkfall Map Old.canvas",
+    "Arkfall/Cosmology",
+    "Arkfall/Arkfall Technology/Lattice Mining.md",
+    "Arkfall/Arkfall Technology/AI.md",
+    "Arkfall/Arkfall Technology",
+    "Arkfall/Arkfall Magic/Vector.md",
+    "Arkfall/Arkfall Magic/Sprite.md",
+    "Arkfall/Arkfall Magic/Quantum Lattice.md",
+    "Arkfall/Arkfall Magic/Decoherence Sickness.md",
+    "Arkfall/Arkfall Magic",
     "Terra-Oblivia/Species/Terra-Oblivia Mortals.md",
     "Terra-Oblivia/Species/Terra-Oblivia Dragons.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
@@ -180,25 +222,8 @@
     "Arkfall/Timeline/Events",
     "Arkfall/Timeline/Events/The Disaster.md",
     "Arkfall/Timeline",
-    "Arkfall/Quantum Lattice.md",
-    "Terra-Oblivia/Magic/Abyssal Storm.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Species/TO Dragons.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Timeline.md",
-    "Terra-Oblivia/Scratch/TO Characters.md",
-    "Terra-Oblivia/Geography/Continents/Escharra/Escharra.md",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
-    "Terra-Oblivia/Species/TO Mortals.md",
-    "Terra-Oblivia/Species",
-    "Terra-Oblivia/Scratch/TO Timeline.md",
-    "Terra-Oblivia/Scratch/TO Idea Dump.md",
-    "Terra-Oblivia/Scratch",
-    "Terra-Oblivia/Religion",
-    "Terra-Oblivia/Magic",
     "z Images/Pasted image 20260829153915.png",
-    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch",
-    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Rocan Empire",
-    "Terra-Oblivia/Geography/Continents/Escharra/Nations/Liberos",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "z Images/The Hydren-1786536605794.webp",

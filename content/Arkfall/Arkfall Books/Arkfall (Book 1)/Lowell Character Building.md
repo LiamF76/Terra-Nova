@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - Arkfall
 ---
 This document is where I will outline Lowell, who he is, how he acts, and how he will change.
 
