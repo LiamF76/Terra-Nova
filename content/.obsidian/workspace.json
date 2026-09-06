@@ -22,31 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "f31c7b20fcfb6885",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Terra-Oblivia Kanban"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +159,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f31c7b20fcfb6885",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Dashboard.md",
     "conflict-files-obsidian-git.md",
     "Arkfall/Groups/Organizations/The Fallen Star Coalition.md",
@@ -220,7 +198,6 @@
     "Arkfall/Characters/Humans/Lowell.md",
     "Arkfall/Timeline/Arkfall Timeline.md",
     "Arkfall/Timeline/Events",
-    "Arkfall/Timeline/Events/The Disaster.md",
     "Arkfall/Timeline",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "z Images/Pasted image 20260829153915.png",
