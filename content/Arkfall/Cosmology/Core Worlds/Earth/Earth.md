@@ -11,7 +11,7 @@ tags:
 
 ## Earth
 
-- Name: Earth, Terra, Gaia
+- Name: Earth, Terra, Mother Earth, Homeworld
 - Region: Core Worlds
 - Status: Contested
 
