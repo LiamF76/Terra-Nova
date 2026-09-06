@@ -40,10 +40,15 @@ kanban-plugin: board
 - [ ] [[Arkfall Character Ideas]]
 
 
+## Groups
+
+- [ ] [[The Fallen Star Coalition]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"full-list-lane-width":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"full-list-lane-width":false}
 ```
 %%
