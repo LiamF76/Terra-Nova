@@ -1,7 +1,5 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## Magic
@@ -43,6 +41,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false],"full-list-lane-width":false}
 ```
 %%
