@@ -27,7 +27,7 @@ kanban-plugin: board
 ## Worlds
 
 - [ ] [[Arkfall Map V2.canvas]]
-- [ ] [[Arkfall/Cosmology/Cosmology|Cosmology]]
+- [ ] [[Worlds Brainstorm|Worlds Brainstorm]]
 
 
 ## General

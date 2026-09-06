@@ -39,7 +39,7 @@ All of these inspirations are important and have influenced my idea of the setti
 
 ### Ideas?
 
-- [[Arkfall/Cosmology/Cosmology|Cosmology]]
+- [[Worlds Brainstorm|Worlds Brainstorm]]
 - space magic somehow, technology, psionics, quantum
 	- **Quantum Lattice**, universal law manipulation, feels like magic, only specific individuals can do it. Obtained and used by those sensitive to it or infused with it by machinery
 - pantheon
