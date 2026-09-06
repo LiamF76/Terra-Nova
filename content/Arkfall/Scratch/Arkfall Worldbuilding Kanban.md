@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Magic
@@ -28,6 +30,7 @@ kanban-plugin: board
 
 - [ ] [[Arkfall Map V2.canvas]]
 - [ ] [[Worlds Brainstorm|Worlds Brainstorm]]
+- [ ] [[Earth]]
 
 
 ## General
@@ -41,6 +44,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false],"full-list-lane-width":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"full-list-lane-width":false}
 ```
 %%

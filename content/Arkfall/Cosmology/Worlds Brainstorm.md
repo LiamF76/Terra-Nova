@@ -18,7 +18,7 @@ tags:
 
 - **Mercury**: desert planet seeded with alien life, space monsters, super hot and dangerous
 - **Venus**: garden world terraformed into a paradise by humanity, overgrown post collapse and is now an overgrown hell
-- [[Earth]]: Post nukes / dirty bombs, vast wastelands, smaller human settlements, some cities, everything outside cities is warlord and alien territory, highly dangerous
+- [[Earth]]: Post nukes / dirty bombs, vast wastelands, smaller human settlements, some cities, everything outside cities is warlord and alien territory, highly dangerous. Guarded from orbital threats by the Terminal, but some things get through, enough for the planet to be perilous for humanity,
 	- **Luna**: First human colonies, mostly science facilities, highly infested with aliens (which aliens?)
 - **Mars**: Terraformed world, similar to the grand canyon, fertile canyons where settlements are, red dust desert above
 	- **Phobos**: 
