@@ -6,13 +6,9 @@ tags:
   - Arkfall
 ---
 
-**OLD BRAINSTORM**: 
-Sprites are Quantum Lattice Spirits that can bond with a host to give them the ability to manipulate QL.
-Sprites can be formed in a number of ways, but the most common is to be produced by an AI such as The Terminal. They are extremely difficult to create so there are not many Vectors and they are chosen specifically, though this does not make the Vector necessarily subservient to the AI.
-
 ## What are Sprites
 
-Sprites, also known as Lattice Minds or Quantum Bugs (or Q-Bugs), are the only form of [[Quantum Lattice]] that is sentient, having their own mind, personality, and ability to communicate. Sprites are unlike any other form of Lattice, being aware and alive in every sense. 
+Sprites, also known as Lattice Minds or Quantum Bugs (Q-Bugs for short), are the only form of [[Quantum Lattice]] that is sentient, having their own mind, personality, and ability to communicate. Sprites are unlike any other form of Lattice, being aware and alive in every sense. 
 
 Sprites take varied forms, generally no larger than a human hand. They are made of solid matter, which can be any number of materials and colors. Their shape is generally associated with personality, and this can be manipulated by the Sprite when they are formed. Form is often reflective of their nature. For example a peaceful Sprite tied to Vital Lattice may take the form of wood, with small branches and leaves sprouting from its core. The light at the center of a Sprite is colored, and that color shows the mood of the sprite. A blue light indicates normal emotion, red shows anger, and green means joy. 
 
@@ -38,5 +34,10 @@ Unlike a Forged Sprite, the Wild ones have no intended purpose or directive, the
 
 ## Sprite Natures
 
-tbd
+Sprites are unique lifeforms, it is not known wether they are Aliens, or native to the Sol system, but they are unlike biological life in many ways. Primarily is their sustenance, they do not require water, food, sunlight, or any concrete material to survive, the only thing they need is action from their host.
 
+This action is determined by the Sprite's Nature. Natures are not like Quantum Lattice Manifestations, they are not strictly categorized or understood, and interpretation is up to the Sprite. Generally however, they are described as the Sprite's personality, and what they want from their host.
+
+A Sprite considered to be warlike, will demand that its host fight battles, test their strength, and have great conquests. Doing these things, or anything the Sprite approves of, allows them to synthesize Lattice within their host. The Lattice inside the host is theorized to be a byproduct of the Sprite's feeding off the host's actions. Sprites are not always extreme in their natures, and many are highly symbiotic with their hosts, as Wild Sprites have similar personalities to their 'creators'.
+
+A Vector must be aware and consider their Sprite's nature, as their wants determine a Vector's ability to get their Lattice, and Lattice determines their ability to live.
