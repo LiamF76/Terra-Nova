@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Dashboard.md",
+      "timestamp": 1788790154967
+    },
+    {
       "filepath": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
-      "timestamp": 1788755384290
-    },
-    {
-      "filepath": "Arkfall/Arkfall Technology/AI.md",
-      "timestamp": 1788755381054
-    },
-    {
-      "filepath": "Arkfall/Arkfall Technology/Lattice Mining.md",
-      "timestamp": 1788755378869
-    },
-    {
-      "filepath": "Arkfall/Arkfall Magic/Quantum Lattice.md",
-      "timestamp": 1788755376719
-    },
-    {
-      "filepath": "Arkfall/Arkfall Magic/Sprite.md",
-      "timestamp": 1788755369021
+      "timestamp": 1788790154885
     }
   ],
   "bookmarkedFileStore": [],
