@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [x] [[Quantum Lattice]]
 - [x] [[Decoherence Sickness]]
-- [ ] [[Sprite]]
+- [x] [[Sprite]]
 - [ ] [[Vector]]
 
 
