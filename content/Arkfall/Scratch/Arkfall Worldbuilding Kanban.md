@@ -16,6 +16,7 @@ kanban-plugin: board
 
 - [ ] [[Lattice Mining]]
 - [ ] [[AI]]
+- [ ] [[Lattice Filter Mask]]
 
 
 ## Human Species
