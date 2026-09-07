@@ -21,7 +21,7 @@ kanban-plugin: board
 
 ## Worlds
 
-- [ ] [[Arkfall Map V2.canvas]]
+- [ ] [[Arkfall Map.canvas]]
 - [ ] [[Worlds Brainstorm|Worlds Brainstorm]]
 - [ ] [[Earth]]
 

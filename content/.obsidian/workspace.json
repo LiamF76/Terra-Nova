@@ -22,8 +22,35 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "5d5dd63638aa55e8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Arkfall Worldbuilding Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,17 +178,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5d5dd63638aa55e8",
   "lastOpenFiles": [
-    "Arkfall/Groups/Alien Species/The Swarm/Swarm.md",
+    "Arkfall/Cosmology/Arkfall Map.canvas",
     "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+    "Arkfall/Cosmology/Core Worlds/Earth/Earth.md",
+    "Dashboard.md",
+    "Arkfall/Groups/Alien Species/The Swarm/Swarm.md",
     "Arkfall/Groups/Alien Species/Aliens.md",
     "Arkfall/Groups/Alien Species/The Swarm",
     "Arkfall/Groups/Alien Species/The Consortium/The Consortium.md",
     "Arkfall/Arkfall Technology/Quantum Lattice Technology",
     "Arkfall/Arkfall Technology/Ships",
     "Arkfall/Arkfall Magic/Vector.md",
-    "Dashboard.md",
     "Arkfall/Arkfall Technology/AI.md",
     "Arkfall/Arkfall Technology/Quantum Lattice Technology/Lattice Mining.md",
     "Arkfall/Arkfall Magic/Quantum Lattice.md",
@@ -178,9 +207,7 @@
     "Arkfall/Scratch/Arkfall Character Ideas.md",
     "Arkfall/Cosmology/Core Worlds/Earth/Locations",
     "Arkfall/Cosmology/Worlds Brainstorm.md",
-    "Arkfall/Cosmology/Core Worlds/Earth/Earth.md",
     "Templates/AF Planet Template.md",
-    "Arkfall/Cosmology/Arkfall Map V2.canvas",
     "Arkfall/Cosmology/Dwarf Worlds",
     "Arkfall/Cosmology/Silt Sea",
     "Arkfall/Cosmology/Outer Worlds",
@@ -188,10 +215,9 @@
     "Arkfall/Timeline/Arkfall Timeline.md",
     "Arkfall/Groups/Human Species/Resonant.md",
     "Arkfall/Groups/Human Species/Hydren.md",
-    "Arkfall/Groups/Human Species/Human.md",
     "Arkfall/Timeline/Arkfall Timeline V2.canvas",
     "Arkfall/Groups/Organizations",
-    "Arkfall/Cosmology/Arkfall Map Old.canvas",
+    "Arkfall/Cosmology/Old Arkfall Map.canvas",
     "Arkfall/Arkfall Technology",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
