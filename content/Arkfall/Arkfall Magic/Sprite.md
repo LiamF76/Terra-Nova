@@ -6,7 +6,7 @@ tags:
   - Arkfall
 ---
 
-## What are Sprites
+## Sprites
 
 Sprites, also known as Lattice Minds or Quantum Bugs (Q-Bugs for short), are the only form of [[Quantum Lattice]] that is sentient, having their own mind, personality, and ability to communicate. Sprites are unlike any other form of Lattice, being aware and alive in every sense. 
 

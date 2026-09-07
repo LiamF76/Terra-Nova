@@ -6,7 +6,7 @@ tags:
   - Arkfall
 ---
 
-## What is Quantum Lattice
+## Quantum Lattice
 
 Quantum Lattice is raw underlying code of reality itself. It is not energy or matter, but the invisible and powerful binding force between all energy, matter, and consciousness. It is a manifestation of possibility and potential, and when in trained hands it has a terrifying level of flexibility in what it can accomplish.
 
