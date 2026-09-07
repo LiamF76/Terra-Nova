@@ -43,6 +43,7 @@ kanban-plugin: board
 ## Groups
 
 - [ ] [[The Fallen Star Coalition]]
+- [ ] [[The Polaris Armada]]
 
 
 

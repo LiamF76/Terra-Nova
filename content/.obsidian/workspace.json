@@ -22,8 +22,34 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "9782ca0946c772aa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Arkfall Worldbuilding Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,14 +177,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9782ca0946c772aa",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "Arkfall/Cosmology/Core Worlds/Earth/Locations/New Mumbai.md",
+    "conflict-files-obsidian-git.md",
+    "z Images/The Fallen Star Coalition-1788725607437.webp",
+    "Arkfall/Groups/Organizations/The Polaris Armada.md",
+    "Arkfall/Characters/Humans/Kaz Axis.md",
     "Arkfall/Scratch/Arkfall Character Ideas.md",
     "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
     "Arkfall/Groups/Organizations/The Fallen Star Coalition.md",
-    "Arkfall/Cosmology/Core Worlds/Earth/Locations/New Mumbai.md",
     "Arkfall/Cosmology/Core Worlds/Earth/Locations",
-    "Dashboard.md",
     "Arkfall/Arkfall Magic/Decoherence Sickness.md",
     "Arkfall/Arkfall Magic/Quantum Lattice.md",
     "Arkfall/Cosmology/Worlds Brainstorm.md",
@@ -184,9 +214,6 @@
     "Arkfall/Timeline/Events/The Disaster.md",
     "Arkfall/Groups/The Resonant.md",
     "Arkfall/Groups/Organizations",
-    "Arkfall/Groups/Human Species/Module.md",
-    "Writing Tips/Creating Fantasy & Alien Species.md",
-    "Writing Tips/How to Write Absurdly Well — Adrian Tchaikovsky Notes.md",
     "Arkfall/Cosmology/Arkfall Map Old.canvas",
     "Arkfall/Arkfall Technology",
     "Arkfall/Arkfall Magic",
@@ -207,7 +234,6 @@
     "z Images/Chains-of-Will-1785108538259.webp",
     "z Images/Chains-of-Will-1785108294436.webp",
     "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas",
-    "z Images/Planes of Terra-Nova-1784911731365.webp",
     "z Old/Dashboard Cavnas.canvas"
   ]
 }
