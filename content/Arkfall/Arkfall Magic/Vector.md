@@ -16,7 +16,12 @@ tbd
 
 ---
 
-## tbd
+## Becoming a Vector
 
 tbd
 
+---
+
+## Vector Orders and Culture
+
+tbd
