@@ -19,14 +19,6 @@ kanban-plugin: board
 - [ ] [[Lattice Filter Mask]]
 
 
-## Human Species
-
-- [ ] [[Human]]
-- [ ] [[Hydren]]
-- [ ] [[Module]]
-- [ ] [[Resonant]]
-
-
 ## Worlds
 
 - [ ] [[Arkfall Map V2.canvas]]
@@ -47,10 +39,23 @@ kanban-plugin: board
 - [ ] [[The Polaris Armada]]
 
 
+## Human Species
+
+- [ ] [[Human]]
+- [ ] [[Hydren]]
+- [ ] [[Module]]
+- [ ] [[Resonant]]
+
+
+## Alien Species
+
+- [ ] [[Swarm]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"full-list-lane-width":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"full-list-lane-width":false}
 ```
 %%
