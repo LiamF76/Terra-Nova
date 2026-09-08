@@ -14,8 +14,8 @@ kanban-plugin: board
 
 ## Technology
 
-- [ ] [[Lattice Mining]]
 - [ ] [[AI]]
+- [ ] [[Lattice Mining]]
 - [ ] [[Lattice Filter Mask]]
 
 
