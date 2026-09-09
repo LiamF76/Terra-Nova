@@ -24,6 +24,7 @@ kanban-plugin: board
 - [ ] [[Arkfall Map.canvas]]
 - [ ] [[Worlds Brainstorm|Worlds Brainstorm]]
 - [ ] [[Earth]]
+- [ ] Mars
 
 
 ## General
