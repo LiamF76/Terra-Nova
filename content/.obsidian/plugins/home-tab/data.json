@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Arkfall/Groups/Alien Species/The Swarm/Swarm.md",
+      "timestamp": 1788994222379
+    },
+    {
       "filepath": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
-      "timestamp": 1788988289993
+      "timestamp": 1788994217262
     },
     {
       "filepath": "Arkfall/Cosmology/Worlds Brainstorm.md",
-      "timestamp": 1788988108387
+      "timestamp": 1788993582198
     },
     {
       "filepath": "Arkfall/Cosmology/Core Worlds/Mercury/Mercury.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Arkfall/Cosmology/Core Worlds/Earth/Earth.md",
       "timestamp": 1788988038232
-    },
-    {
-      "filepath": "Arkfall/Cosmology/Core Worlds/Mars/Mars.md",
-      "timestamp": 1788987872705
     }
   ],
   "bookmarkedFileStore": [],
