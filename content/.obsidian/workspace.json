@@ -48,37 +48,9 @@
               "icon": "lucide-trello",
               "title": "Arkfall Worldbuilding Kanban"
             }
-          },
-          {
-            "id": "852db2b3b0aad3b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arkfall/Cosmology/Worlds Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Worlds Brainstorm"
-            }
-          },
-          {
-            "id": "f904543d04b25199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arkfall/Groups/Alien Species/The Swarm/Swarm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swarm"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +178,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f904543d04b25199",
+  "active": "314147e632eda651",
   "lastOpenFiles": [
-    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+    "Arkfall/Groups/Alien Species/The Swarm/Swarm.md",
     "Arkfall/Cosmology/Worlds Brainstorm.md",
+    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
     "Untitled.md",
     "Arkfall/Cosmology/Core Worlds/Mercury/Mercury.md",
     "Arkfall/Cosmology/Core Worlds/Mercury",
@@ -220,7 +193,6 @@
     "Dashboard.md",
     "Arkfall/Arkfall Technology/AI.md",
     "Arkfall/Cosmology/Arkfall Map.canvas",
-    "Arkfall/Groups/Alien Species/The Swarm/Swarm.md",
     "Arkfall/Groups/Alien Species/Aliens.md",
     "Arkfall/Groups/Alien Species/The Swarm",
     "Arkfall/Groups/Alien Species/The Consortium/The Consortium.md",
