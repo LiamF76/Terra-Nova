@@ -16,11 +16,12 @@ tags:
 
 ## The Core Worlds
 
-- **Mercury**: desert planet seeded with alien life, space monsters, super hot and dangerous
+- **Mercury**: 
 - **Venus**: garden world terraformed into a paradise by humanity, overgrown post collapse and is now an overgrown hell
-- [[Earth]]: Post nukes / dirty bombs, vast wastelands, smaller human settlements, some cities, everything outside cities is warlord and alien territory, highly dangerous. Guarded from orbital threats by the Terminal, but some things get through, enough for the planet to be perilous for humanity,
+- [[Earth]]: 
 	- **Luna**: First human colonies, mostly science facilities, highly infested with aliens (which aliens?)
-- **Mars**: Terraformed world, similar to the grand canyon, fertile canyons where settlements are, red dust desert above
+- Mars: Terraformed world, similar to the grand canyon, fertile canyons where settlements are, rocky and red dust desert above. Fertile canyons and underground rivers, people don't live on the surface
+- **Mars**: 
 	- **Phobos**: 
 	- **Deimos**: 
 

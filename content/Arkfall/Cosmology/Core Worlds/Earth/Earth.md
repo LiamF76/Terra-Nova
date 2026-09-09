@@ -9,6 +9,8 @@ tags:
   - Arkfall
 ---
 
+Brainstorm: Post nukes / dirty bombs, vast wastelands, smaller human settlements, some cities, everything outside cities is warlord and alien territory, highly dangerous. Guarded from orbital threats by the Terminal, but some things get through, enough for the planet to be perilous for humanity
+
 ## Earth
 
 - Name: Earth, Terra, Mother Earth, Homeworld
