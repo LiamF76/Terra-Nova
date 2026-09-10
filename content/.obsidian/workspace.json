@@ -22,35 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "314147e632eda651",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Arkfall Worldbuilding Kanban"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +151,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "314147e632eda651",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Arkfall/Lore/Religion in Arkfall.md",
     "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+    "Arkfall/Lore/Religion in Arkfall.md",
     "Arkfall/Groups/Alien Species/The Swarm/Swarm.md",
     "Arkfall/Cosmology/Worlds Brainstorm.md",
     "Untitled.md",
