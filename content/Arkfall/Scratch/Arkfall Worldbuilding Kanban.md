@@ -1,36 +1,29 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## Magic
 
 - [x] [[Quantum Lattice]]
-- [ ] [[Decoherence Sickness]]
-- [ ] [[Sprite]]
+- [x] [[Decoherence Sickness]]
+- [x] [[Sprite]]
 - [ ] [[Vector]]
 
 
 ## Technology
 
-- [ ] [[Lattice Mining]]
 - [ ] [[AI]]
-
-
-## Human Species
-
-- [ ] [[Human]]
-- [ ] [[Hydren]]
-- [ ] [[Module]]
-- [ ] [[Resonant]]
+- [ ] [[Lattice Mining]]
+- [ ] [[Lattice Filter Mask]]
 
 
 ## Worlds
 
-- [ ] [[Arkfall Map V2.canvas]]
+- [ ] [[Arkfall Map.canvas]]
 - [ ] [[Worlds Brainstorm|Worlds Brainstorm]]
 - [ ] [[Earth]]
+- [ ] [[Mars]]
+- [ ] [[Mercury]]
 
 
 ## General
@@ -46,10 +39,23 @@ kanban-plugin: board
 - [ ] [[The Polaris Armada]]
 
 
+## Human Species
+
+- [ ] [[Human]]
+- [ ] [[Hydren]]
+- [ ] [[Module]]
+- [ ] [[Resonant]]
+
+
+## Alien Species
+
+- [ ] [[Swarm]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"full-list-lane-width":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"full-list-lane-width":false}
 ```
 %%

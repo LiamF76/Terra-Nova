@@ -6,11 +6,11 @@ tags:
   - Arkfall
 ---
 
-## What is Quantum Lattice
+## Quantum Lattice
 
 Quantum Lattice is raw underlying code of reality itself. It is not energy or matter, but the invisible and powerful binding force between all energy, matter, and consciousness. It is a manifestation of possibility and potential, and when in trained hands it has a terrifying level of flexibility in what it can accomplish.
 
-Lattice has no will, intention, or memory, it is a property of existence. Its meaning and purpose is entirely determined by its wielder. Raw Lattice is highly volatile and dangerous without a device to focus it or living host to control it.
+Lattice has no will, intention, or memory, it is a property of existence. Its meaning and purpose is entirely determined by its wielder. Raw Lattice is highly volatile and dangerous without a device to focus it or living host to control it. Lattice is a substance that changes the world around it, including biology, this generally manifests as [[Decoherence Sickness]], which is a dangerous affliction resulting from Quantum Lattice.
 
 ---
 

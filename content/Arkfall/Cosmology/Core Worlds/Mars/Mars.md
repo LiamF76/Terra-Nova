@@ -1,28 +1,23 @@
 ---
 publish: false
-title: Earth
+title:
 aliases:
-  - Terra
-  - Mother Earth
-  - Homeworld
 tags:
   - Arkfall
 ---
 
-Brainstorm: Post nukes / dirty bombs, vast wastelands, smaller human settlements, some cities, everything outside cities is warlord and alien territory, highly dangerous. Guarded from orbital threats by the Terminal, but some things get through, enough for the planet to be perilous for humanity
+## Mars
 
-## Earth
-
-- Name: Earth, Terra, Mother Earth, Homeworld
-- Region: Core Worlds
-- Status: Contested
+- Name: Mars 
+- Region: (Core Worlds / Silt Sea / Outer Worlds / Dwarf Worlds) 
+- Status: (Terraformed / Un-terraformed / Abandoned / Contested)
 
 --- 
 
 ### Geography & Environment
 
 - Surface/atmosphere conditions: 
-- Gravity (relative to Earth): 1G
+- Gravity (relative to Earth): 
 - Notable regions/landmarks: 
 
 ---
@@ -31,9 +26,6 @@ Brainstorm: Post nukes / dirty bombs, vast wastelands, smaller human settlements
 
 - Who lives here / faction(s) in control: 
 - Major settlement(s): 
-	- New Mumbai
-	- Foundry
-	- 
 - Government or leadership: 
 
 ---
