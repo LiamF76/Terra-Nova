@@ -22,8 +22,35 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "09c1da6810715688",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Arkfall Worldbuilding Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5703125
+    "width": 295.1796875
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -151,11 +178,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "09c1da6810715688",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Dashboard.md",
+    "Arkfall/Arkfall Magic/Vector.md",
     "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+    "Dashboard.md",
+    "conflict-files-obsidian-git.md",
     "Arkfall/Lore/Religion in Arkfall.md",
     "Arkfall/Groups/Alien Species/The Swarm/Swarm.md",
     "Arkfall/Cosmology/Worlds Brainstorm.md",
@@ -173,7 +201,6 @@
     "Arkfall/Groups/Alien Species/The Consortium/The Consortium.md",
     "Arkfall/Arkfall Technology/Quantum Lattice Technology",
     "Arkfall/Arkfall Technology/Ships",
-    "Arkfall/Arkfall Magic/Vector.md",
     "Arkfall/Arkfall Technology/Quantum Lattice Technology/Lattice Mining.md",
     "Arkfall/Arkfall Magic/Quantum Lattice.md",
     "Arkfall/Arkfall Magic/Sprite.md",
