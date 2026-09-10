@@ -11,6 +11,8 @@ tags:
 Decoherence Sickness is a biological reaction to [[Quantum Lattice]] intake. The body reacts to either intake of Lattice by non [[Vector |Vectors]] (usually through manual [[Lattice Mining]]), or a withdrawal from Lattice by Vectors. Decoherence Sickness, also known as Lattice withdrawal and quantum flu, afflicts the body with varying degrees of physical and mental strain. For Vectors this can be caused by their [[Sprite]] being killed, being separated from the Sprite, or refusing to satisfy the Spire's nature which halts the production of Lattice.
 
 In early stages, the body aches, feels tired, and you will experience blurred vision. This is also accompanied by a strange pull to Lattice, encouraging you to seek more out, both if you are experiencing withdrawal or overexposure. These effects worsen as time goes on, and within a week you will begin to vomit blood, experience hallucinations, and begin to lose feeling in your limps and extremities.
+<<<<<<< HEAD
+=======
 
 It is at this point that permanent damage begins to set in, and the point of no return is reached. If the afflicted does not satiate the need for Lattice, or remove themselves from consumption immediately, they will be beyond healing within days.
 
@@ -25,4 +27,6 @@ Vector Decoherence Sickness is treated simply, but not easily. To remedy withdra
 
 ### Other Treatment
 Other treatment of Decoherence Sickness, usually for Lattice Miners, is not so simple. The afflicted must be removed from the presence of Lattice as quickly as possible, using a [[Lattice Filter Mask]] immediately is also helpful. After removing the afflicted from the presence of Lattice, apply a powder of crushed [[Martian Valley Lily]] to the interior of the nostrils and breath it in deeply. The plant is known to slow the sickness, then keep the subject out of the presence of Lattice until symptoms subside. The degree of exposure for non Vectors is important, as strong exposure can spell a death sentence instantly, but minor contact can be remedies fairly easily. If this reaches the later stages, create a tea from the leaves of Martian Valley Lily, and have the afflicted consume a full cup at least twice a day (a full recovery is still nearly impossible, and unlikely).
+>>>>>>> origin/Main
 
+The furthest effects of this sickness are 
