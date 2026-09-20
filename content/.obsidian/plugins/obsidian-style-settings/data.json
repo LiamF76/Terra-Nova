@@ -75,5 +75,11 @@
   "fancy-a-story@@rainbow-brightness": 1,
   "fancy-a-story@@rainbow-saturation": 1,
   "fancy-a-story@@fas-accessibility": false,
-  "ulu-theme-settings@@ulu-color-accent": "ulu-green"
+  "ulu-theme-settings@@ulu-color-accent": "ulu-green",
+  "obsidian-velocity@@ss-section-news": true,
+  "obsidian-velocity@@color-highlight-rgb": "var(--highlight-green-rgb)",
+  "obsidian-velocity@@enable-special-text": true,
+  "obsidian-velocity@@enable-special-code": true,
+  "obsidian-velocity@@theme-paint-dark": "bronze",
+  "obsidian-velocity-config@@disable-title-h1": true
 }
