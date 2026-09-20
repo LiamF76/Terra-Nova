@@ -39,10 +39,17 @@ tags:
 	- center of trade and caravans
 
 
+## The Rocan Empire
+
+- [ ] [[The Rocan Empire]]
+- [ ] Empire Military
+	- Ashlord, title given to leader of the armies. Title is considered a burden to be removed by completing your goal assigned by the Emperor.
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,false]}
 ```
 %%

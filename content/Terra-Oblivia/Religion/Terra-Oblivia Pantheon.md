@@ -42,7 +42,7 @@ tags:
 
 Gods all combine to new domains and entirely new beings, or no longer exist. Gods take more beastly and alien forms — dragons or monstrous in some form, much less humanoid.
 
-They are entirely new.
+They are entirely new. They do not hold memories, grudges, or anything from their previous selves.
 
 ### On the Afterlife
 

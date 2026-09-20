@@ -36,6 +36,7 @@
                   "list-collapse": [
                     false,
                     null,
+                    false,
                     false
                   ]
                 }
@@ -188,11 +189,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d1f03138a82ec0f5",
+  "active": "e34a2393bb44142e",
   "lastOpenFiles": [
+    "Terra-Oblivia/History & Lore",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Dashboard.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
+    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Rocan Empire/The Rocan Empire.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "luther.md",
     "index.md",
@@ -219,9 +223,6 @@
     "Arkfall/Arkfall Technology/Quantum Lattice Technology",
     "Arkfall/Arkfall Technology/Ships",
     "Arkfall/Arkfall Technology/Quantum Lattice Technology/Lattice Mining.md",
-    "Arkfall/Arkfall Magic/Quantum Lattice.md",
-    "Arkfall/Arkfall Magic/Sprite.md",
-    "Arkfall/Arkfall Magic/Decoherence Sickness.md",
     "z Images/The Fallen Star Coalition-1788725607437.webp",
     "Arkfall/Cosmology/Core Worlds/Earth/Locations",
     "Arkfall/Cosmology/Dwarf Worlds",
