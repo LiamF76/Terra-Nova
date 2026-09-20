@@ -34,3 +34,4 @@ These are my notes on this video: https://youtu.be/l9b-Pey9DC0
 - where the past and present come together to shape challenges and conflicts of today
 - should show distant and recent past
 - EX: rival factions of today that are rivals because of recent past fighting over ancient ruins 
+- 
