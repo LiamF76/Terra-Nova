@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "index.md",
+      "timestamp": 1789920823435
+    },
+    {
       "filepath": "Dashboard.md",
-      "timestamp": 1789920658646
+      "timestamp": 1789920760610
+    },
+    {
+      "filepath": "Theme Test Note.md",
+      "timestamp": 1789920759582
     }
   ],
   "bookmarkedFileStore": [],

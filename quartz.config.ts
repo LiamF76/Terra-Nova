@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Terra-Nova Wiki",
+    pageTitle: "Daraan's Worlds",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
