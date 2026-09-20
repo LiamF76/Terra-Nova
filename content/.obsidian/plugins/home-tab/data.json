@@ -25,15 +25,19 @@
   "recentFilesStore": [
     {
       "filepath": "index.md",
-      "timestamp": 1789930856188
+      "timestamp": 1789931089782
+    },
+    {
+      "filepath": "Theme Test Note.md",
+      "timestamp": 1789931080922
+    },
+    {
+      "filepath": "Terra-Nova/Terra-Nova Wiki Homepage.md",
+      "timestamp": 1789931074732
     },
     {
       "filepath": "Dashboard.md",
       "timestamp": 1789930835116
-    },
-    {
-      "filepath": "Theme Test Note.md",
-      "timestamp": 1789930234494
     }
   ],
   "bookmarkedFileStore": [],
