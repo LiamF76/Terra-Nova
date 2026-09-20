@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Terra-Oblivia Wiki Homepage
 aliases:
 tags:
