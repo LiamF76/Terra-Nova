@@ -24,5 +24,5 @@ These are my notes on this video: https://youtu.be/l9b-Pey9DC0
 
 # Modern History
 
-- Ember-Flag Massacre: Ember-Flag was a small settlement of Scarborn established under the rule of a weak Warlord who claimed to be a protector of his people,. It was obliterated by Lord Dastan and Bastion forces. Thousands of people died.
+- Ember-Flag Massacre: Ember-Flag was a small settlement of Scarborn established under the rule of a weak Warlord who claimed to be a protector of his people,. It was obliterated by Lord Dastan and Bastion forces. Thousands of people died. Scarborn often refer to Dastan as 'The Butcher' or 'Flag-burner'.
 - 
