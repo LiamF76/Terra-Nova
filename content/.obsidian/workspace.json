@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "5928a798d00b231b",
+            "id": "fa306120b123d4ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,9 +59,23 @@
               "icon": "lucide-file",
               "title": "Terra-Oblivia Characters"
             }
+          },
+          {
+            "id": "b92c9153d17d497f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terra-Oblivia History Workpad"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terra-Nova/Working Folder/Kanban Boards/Terra-Nova To-Do.md",
+                "file": "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terra-Nova To-Do"
+              "title": "Outline"
             }
           },
           {
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arkfall/Arkfall Books/Arkfall (Book 1)/Chapters/Arkfall Chapter 1.md",
+                "file": "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,17 +200,21 @@
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "5928a798d00b231b",
+  "active": "b92c9153d17d497f",
   "lastOpenFiles": [
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Species/Terra-Oblivia Mortals.md",
+    "Terra-Oblivia/Geography/Terra-Oblivia Places Brainstorm.md",
+    "Terra-Oblivia/Scratch/TO Idea Dump.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia Timeline.md",
     "Writing Tips/Writing Fantasy History.md",
     "Terra-Oblivia/History & Lore/Historu.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/History & Lore",
     "Dashboard.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Rocan Empire/The Rocan Empire.md",
@@ -216,10 +234,7 @@
     "Arkfall/Cosmology/Core Worlds/Mercury/Mercury.md",
     "Arkfall/Cosmology/Core Worlds/Mercury",
     "Arkfall/Cosmology/Core Worlds/Earth/Earth.md",
-    "Earth.md",
-    "Arkfall/Cosmology/Core Worlds/Mars/Mars.md",
     "Arkfall/Cosmology/Core Worlds/Mars",
-    "Arkfall/Arkfall Technology/AI.md",
     "Arkfall/Cosmology/Arkfall Map.canvas",
     "Arkfall/Groups/Alien Species/The Swarm",
     "Arkfall/Arkfall Technology/Quantum Lattice Technology",
