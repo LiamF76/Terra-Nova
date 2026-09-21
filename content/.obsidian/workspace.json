@@ -47,35 +47,21 @@
             }
           },
           {
-            "id": "6afad40c4a642702",
+            "id": "5928a798d00b231b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/History & Lore/Terra-Oblivia Timeline.md",
+                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Oblivia Timeline"
-            }
-          },
-          {
-            "id": "780bb7019b01e7d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terra-Oblivia History Workpad"
+              "title": "Terra-Oblivia Characters"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 322.83984375
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -203,11 +189,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "780bb7019b01e7d0",
+  "active": "5928a798d00b231b",
   "lastOpenFiles": [
-    "Terra-Oblivia/History & Lore/Terra-Oblivia Timeline.md",
-    "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
+    "Terra-Oblivia/History & Lore/Terra-Oblivia Timeline.md",
     "Writing Tips/Writing Fantasy History.md",
     "Terra-Oblivia/History & Lore/Historu.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
