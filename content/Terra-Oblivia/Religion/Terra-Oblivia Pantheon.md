@@ -11,52 +11,37 @@ tags:
   - Terra-Oblivia
 ---
 
-# Pantheon: The Reshaping
+# Pantheon: The Dragon Gods of Terra-Oblivia
 
 ## Domains Overview
 
-| *Domain*        | *Subsumes*                                                                          | *Old Gods*                       | *New Gods*         | *Great Spirits*     | *Religion* |
-| --------------- | ----------------------------------------------------------------------------------- | -------------------------------- | ------------------ | ------------------- | ---------- |
-| **Light**       | Light, life, hierarchy, and nature, superiority                                     | Tena, Illuman, Yagi              | **Lumena**         | Halcyon,            |            |
-| **Darkness**    | Darkness, chaos, the occult                                                         | Balthazaar                       | **Balthazaar**     |                     |            |
-| **Death**       | Death, the dead, sleep, dreams                                                      | Erebos, Jahaad, Oras             | **Erasaad**        |                     |            |
-| **Balance**     | Balance, justice, revenge, punishment, penance, extremity                           | Malos, Aton, Oasis               | **Oa Maton**       | Dikaia,             |            |
-| **War**         | War, fire, victory, wisdom, strategy, bravery, legacy                               | Vulcan, Rovan, Agni, Ishtar      | **Rocan Ashar**    | Melantha, Alabaster |            |
-| **Knowledge**   | Knowledge, wisdom, strategy, also magic (in the study/cunning sense)                | Telura, Ishtar, Aurum, Vesponous | **Vespar Telarum** | TOWC,               |            |
-| **Time**        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis | Kronos, Khabris Mani             | **Krokha Inam**    |                     |            |
-| **Art / Labor** | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession   | Choion, Iros                     | **Datura Ferhaus** |                     |            |
-| **Sea**         | Storms, oceans, freedom, travelers, explorers, detachment                           | Mira, Fulgrim, Skuld Ysor        | **Miragrim Ysor**  |                     |            |
-| **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky                               | Silvarus, Aether                 | **Aevarus**        |                     |            |
-| **Fate**        | Freedom of choice (disagreement on this as a domain?)                               | The Spinner, Destiny             | **Kamara Desos**   |                     |            |
-
-**Bolded names** *= the ruling/primary deity of that domain among the New Gods.*
-
-> [!note] Old Gods
-> The Old Gods entirely lost their identities during the Reshaping — see notes below. No individual Old God names survive per-domain; they are grouped only under the general lore of "Old Gods."
+| God                | Titles | Domain          | *Subsumes*                                                                           |
+| ------------------ | ------ | --------------- | ------------------------------------------------------------------------------------ |
+| **Lumena**         |        | **Light**       | Light, life, hierarchy, and nature, superiority.                                     |
+| **Balthazaar**     |        | **Darkness**    | Darkness, chaos, the occult.                                                         |
+| **Erasaad**        |        | **Death**       | Death, the dead, sleep, dreams.                                                      |
+| **Oa Maton**       |        | **Balance**     | Balance, justice, revenge, punishment, penance, extremity.                           |
+| **Rocan Ashar**    |        | **War**         | War, fire, victory, wisdom, strategy, bravery, legacy.                               |
+| **Vespar Telarum** |        | **Knowledge**   | Knowledge, wisdom, strategy, also magic (in the study/cunning sense).                |
+| **Krokha Inam**    |        | **Time**        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis. |
+| **Datura Ferhaus** |        | **Art / Labor** | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession.   |
+| **Miragrim Ysor**  |        | **Sea**         | Storms, oceans, freedom, travelers, explorers, detachment.                           |
+| **Aevarus**        |        | **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky.                               |
+| **Kamara Desos**   |        | **Fate**        | Destiny / Freedom, predetermination, a divine plan.                                  |
 
 ---
 
-## Lore Notes
+### The Dawn
 
-### On the Old Gods
+The Dawn is the event that rebuilt the ruined world, scarred by untold years of war with the Abyss and heavens alike. In Divinity, 
 
-Gods all combine to new domains and entirely new beings, or no longer exist. Gods take more beastly and alien forms — dragons or monstrous in some form, much less humanoid.
+---
 
-They are entirely new. They do not hold memories, grudges, or anything from their previous selves.
+### On Demigods / Spirits
 
-### On the Afterlife
+Demigods are Spirits. For more information on Spirits in Terra-Oblivia see [[Terra-Oblivia Great Spirits]]. 
 
-**What happens to people already in the afterlife? GONE.**
-
-Every soul tied to a god's afterlife during the Reshaping was lost, likely forever. Those condemned to the Abyss, funnily enough, were spared.
-
-### On Demigods
-
-Demigods become Spirits. They are synonymous — the existing ones are mutated to reflect their new divine parentage, based on where their domain went.
-
-### On Memory & Continuity
-
-People forget, and forget that they forgot. (Context of *Oblivati Mori*, old gods are unmade and replaced, and people know the new gods as they did the old. A pretty smooth transition.) Some occult groups still worship the Old Gods as nameless, faceless beings of forgotten power.
+---
 
 ### On Dragons 
 
@@ -64,19 +49,6 @@ People forget, and forget that they forgot. (Context of *Oblivati Mori*, old god
 
 ---
 
-## Great Spirits 
-
-- **Melantha** - The Pale Lioness, She Who Raised Wolves, Spirit of Courage
-- **Alabaster** - The Iron Hawk, Wings of Green, Spirit of Respect Between Warriors
-- **Ferassa** - The Brand of Fire, Spirit of Victory
-- **The One Who Casts** - Spirit of Forgotten Magic
-- 
-
----
-
 ## Religions
 
-Religions are organized by which Divine individuals worship, but all Gods are recognized in the same Pantheon. Those who worship specific domains often have Great or Minor Spirits they worship more directly, while some followers worship a God more directly.
-
-For example, a Warlord may worship Rocan Ashar the God of War, but specifically pray to the Great Spirit Ferassa the spirit of Victory. Ferassa represents winning outright, not surviving a tough battle, and the Warlord sees his next battle as one that must send a resounding message.
-
+[[Terra-Oblivia Religion]]

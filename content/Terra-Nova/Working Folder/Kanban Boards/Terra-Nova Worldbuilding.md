@@ -14,7 +14,7 @@ kanban-plugin: list
 
 ## Priority Build
 
-- [x] [[Spirits]]
+- [x] [[Terra-Nova/Bestiary/Celestials/Spirits]]
 - [ ] [[Woven]]
 - [ ] [[Dragons]]
 

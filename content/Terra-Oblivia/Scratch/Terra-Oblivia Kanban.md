@@ -12,17 +12,33 @@ tags:
 - [ ] [[TO Idea Dump]]
 - [ ] [[Reshaping Workpad.canvas]]
 - [ ] [[Terra-Oblivia History Workpad]]
+- [ ] [[Terra-Oblivia Timeline]]
 
 
 ## Major Factors
 
 - [ ] [[Terra-Oblivia Characters]]
 - [ ] [[Terra-Oblivia Mortals]]
-- [ ] [[Terra-Oblivia Dragons]]
-- [ ] [[Terra-Oblivia Pantheon]]
 - [ ] [[Terra-Oblivia Places Brainstorm]]
+
+
+## Religion
+
+- [x] [[Reshaped Gods]]
+- [ ] [[Terra-Oblivia Pantheon]]
+	- reference table of Gods, domains, etc
+- [ ] [[Terra-Oblivia Dragons]]
+- [ ] [[Terra-Oblivia Religion]]
+	- how religion works, devotion, afterlife, favor, etc
+- [ ] Terra-Oblivia Great Spirits
+	- reference table of great spirits, domains, etc
+
+
+## Magic
+
 - [ ] [[Terra-Oblivia Magic]]
 - [ ] [[Abyssal Storm]]
+- [ ] [[Terra-Oblivia/Magic/Spirits|Spirits]]
 
 
 ## The Triarch / 3 Cities
@@ -51,6 +67,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false]}
 ```
 %%
