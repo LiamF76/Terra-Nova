@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "38c1c368b50833c0",
+            "id": "b855b9b77e4d8be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,12 +192,14 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "38c1c368b50833c0",
+  "active": "b855b9b77e4d8be8",
   "lastOpenFiles": [
+    "Templates/Diety Template.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Dashboard.md",
     "Terra-Oblivia/Reshaping WIP/Reshaped Gods.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia Timeline.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
     "Terra-Oblivia/Magic/Spirits.md",
@@ -211,7 +213,6 @@
     "Writing Tips/Writing Fantasy History.md",
     "Terra-Oblivia/History & Lore/Historu.md",
     "Terra-Oblivia/History & Lore",
-    "Dashboard.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Rocan Empire/The Rocan Empire.md",
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "luther.md",
@@ -220,7 +221,6 @@
     "Terra-Nova/Terra-Nova Wiki Homepage.md",
     "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
     "Arkfall/Arkfall Magic/Vector.md",
-    "conflict-files-obsidian-git.md",
     "Arkfall/Cosmology/Core Worlds/Mercury",
     "Arkfall/Cosmology/Core Worlds/Mars",
     "Arkfall/Cosmology/Arkfall Map.canvas",
