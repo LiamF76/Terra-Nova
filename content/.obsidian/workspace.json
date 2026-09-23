@@ -24,8 +24,9 @@
             }
           },
           {
-            "id": "1da5eab22713c035",
+            "id": "e1d1ad6e9cc07fb4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -42,6 +43,7 @@
                   ]
                 }
               },
+              "pinned": true,
               "icon": "lucide-trello",
               "title": "Terra-Oblivia Kanban"
             }
@@ -175,12 +177,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1da5eab22713c035",
+  "active": "e1d1ad6e9cc07fb4",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
     "Templates/Diety Template.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Reshaping WIP/Reshaped Gods.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia Timeline.md",
