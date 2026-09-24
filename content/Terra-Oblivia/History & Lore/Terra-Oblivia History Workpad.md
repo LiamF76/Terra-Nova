@@ -6,8 +6,6 @@ tags:
   - Terra-Oblivia
 ---
 
-These are my notes on this video: https://youtu.be/l9b-Pey9DC0
-
 # Ancient History
 
 - Years of Reckoning: Wars with the abyss and the world is dark and dangerous. 
