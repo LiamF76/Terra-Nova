@@ -24,28 +24,17 @@
             }
           },
           {
-            "id": "e1d1ad6e9cc07fb4",
+            "id": "a527cf303e21dc21",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Writing Tips/How to Write a Western.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Terra-Oblivia Kanban"
+              "icon": "lucide-file",
+              "title": "How to Write a Western"
             }
           }
         ],
@@ -177,8 +166,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e1d1ad6e9cc07fb4",
+  "active": "a527cf303e21dc21",
   "lastOpenFiles": [
+    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
+    "Writing Tips/How to Write a Western.md",
     "Dashboard.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
@@ -204,8 +195,6 @@
     "index.md",
     "Theme Test Note.md",
     "Terra-Nova/Terra-Nova Wiki Homepage.md",
-    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
-    "Arkfall/Arkfall Magic/Vector.md",
     "Arkfall/Cosmology/Core Worlds/Mercury",
     "Arkfall/Cosmology/Core Worlds/Mars",
     "Arkfall/Cosmology/Arkfall Map.canvas",
