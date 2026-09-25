@@ -81,5 +81,6 @@
   "obsidian-velocity@@enable-special-text": true,
   "obsidian-velocity@@enable-special-code": true,
   "obsidian-velocity@@theme-paint-dark": "bronze",
-  "obsidian-velocity-config@@disable-title-h1": true
+  "obsidian-velocity-config@@disable-title-h1": true,
+  "ulu-theme-settings@@ulu-callouts": "ulu-gummy-callouts"
 }
