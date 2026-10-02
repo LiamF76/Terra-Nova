@@ -17,7 +17,7 @@ aliases:
 	- The Last Gunslinger in Marineris
 	- Dust over Marineris
 	- Red Frontier
-	- Lattice & Dust
+	- **Lattice & Dust**
 - Line idea for when Lincoln's backstory is revealed: "When the rampage had ended, all that remained of the town was Lattice and dust."
 - 
 
