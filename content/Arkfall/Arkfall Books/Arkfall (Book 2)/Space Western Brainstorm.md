@@ -18,7 +18,7 @@ aliases:
 # Characters
 
 - Lincoln Grae: AKA 'The Grey', the main character. Former sheriff / lawman. Old Vector who harbors guilt he cannot overcome. The hero, fights through his guilt, recognizes his evils, and chooses to save those he can still save. Deep down he wants to protect people, but his guilt makes him fearful to accept that responsibility so he stays isolated.
-- Meridian: Lincoln's Sprite, Lattice spirit formed and with a nature tied to justice. She and Lincoln are close, but even they have drifted apart the last few years, and she is the only thing holding his mind together on fleeting reserves of Lattice.
+- Buck: Lincoln's Sprite, Lattice spirit formed and with a nature tied to justice. He and Lincoln are close, but even they have drifted apart the last few years, and he is the only thing holding his mind together on fleeting reserves of Lattice.
 - 
 
 # Story
