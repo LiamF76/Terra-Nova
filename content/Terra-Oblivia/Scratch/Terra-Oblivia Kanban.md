@@ -13,6 +13,7 @@ tags:
 - [ ] [[Reshaping Workpad.canvas]]
 - [ ] [[Terra-Oblivia History Workpad]]
 - [ ] [[Terra-Oblivia Timeline]]
+- [ ] Terra-Oblivia Campaign Brainstorm
 
 
 ## Major Factors
