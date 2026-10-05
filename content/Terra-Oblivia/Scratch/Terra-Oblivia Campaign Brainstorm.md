@@ -17,6 +17,7 @@ Scratch for campaign ideas in Terra-Oblivia.
 - Warlord harnessing Arkonil's power from the petrified / sealed Kairos who was holding Arkonil. The seal is breaking.
 - Breaking the seal / some other trigger, awakens a dormant protocol of Ivys, to prevent Arkonil from being freed.
 - The Warlord is using his new powers to attack the Triarch for an unknown reason (is there something or someone the warlord needs in the Triarch?)
+- Party is assembled to stop the Warlord. Their goal is to venture into Ashkarad and defeat him, and stop his armies from destroying the last bastion of freedom.
 
 ### Question & Answer
 - The Warlord is attacking the Triarch, why?
@@ -24,7 +25,7 @@ Scratch for campaign ideas in Terra-Oblivia.
 - The Warlord has magical powers, they need to figure out how / where they come from to stop them. Knowledge is power.
 	- Drawing power from an ancient artifact, 'The Bloodstone'. This is a piece of the sealed Arkonil / Kairos. Grants him demonic powers. Maybe some time magic as well to hint at Kairos?
 - Ivys's dormant protocol, a new star shines in the sky, Ivys's space station fortress. What does it do to stop Arkonil being free?
-	- Ivys's protocol is set to ???
+	- Ivys's protocol is set to awaken a powerful Temporal Spirit called Graveglass, who would destroy Kairos / Arkonil permanently before they could be freed. Graveglass goes outside its original directive set by Ivys, and believes it must rule the world to ensure peace.
 - Kairos awakening within the Bloodstone alongside Arkonil, what is his motive, actions, and feeling now?
 	- ???
 - Who are our bad guys?
