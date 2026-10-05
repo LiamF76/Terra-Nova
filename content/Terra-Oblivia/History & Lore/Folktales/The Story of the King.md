@@ -3,8 +3,12 @@ publish: false
 title:
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-04
 ---
+
+## The Story of the King
+*A story passed down from the ancient past.*
 
 Once in the days before the shadows, there was a King. This king did not rule land and throne, but over magics and great moments all throughout the world. All things knew him, and he reflected through them.
 
