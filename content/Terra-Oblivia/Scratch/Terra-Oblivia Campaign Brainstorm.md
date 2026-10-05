@@ -22,5 +22,6 @@ Scratch for campaign ideas in Terra-Oblivia.
 - The Warlord is attacking the Triarch, why?
 - The Warlord has magical powers, they need to figure out how / where they come from to stop them. Knowledge is power.
 - Ivys's dormant protocol, a new star shines in the sky, Ivys's space station fortress. What does it do to stop Arkonil being free?
+	- Ivys's protocol is set to 
 - Kairos awakening within
 
