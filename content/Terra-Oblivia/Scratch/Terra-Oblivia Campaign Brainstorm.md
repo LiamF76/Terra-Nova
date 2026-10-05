@@ -9,9 +9,9 @@ Created: 2026-10-04
 
 Scratch for campaign ideas in Terra-Oblivia.
 
+---
 
 # A War of Shadow and Time
-
 
 ### Setup
 - Warlord harnessing Arkonil's power from the petrified / sealed Kairos who was holding Arkonil. The seal is breaking.
@@ -22,5 +22,5 @@ Scratch for campaign ideas in Terra-Oblivia.
 - The Warlord is attacking the Triarch, why?
 - The Warlord has magical powers, they need to figure out how / where they come from to stop them. Knowledge is power.
 - Ivys's dormant protocol, a new star shines in the sky, Ivys's space station fortress. What does it do to stop Arkonil being free?
-- 
+- Kairos awakening within
 
