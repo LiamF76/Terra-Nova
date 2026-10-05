@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/History & Lore/The Story of the King.md",
+                "file": "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
                 "mode": "source",
                 "source": false
               },
@@ -166,10 +166,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1efa4b5a9c39c19b",
+  "active": "e34a2393bb44142e",
   "lastOpenFiles": [
+    "Terra-Oblivia/History & Lore/Folktales",
     "Dashboard.md",
-    "Terra-Oblivia/History & Lore/The Story of the King.md",
+    "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Campaign Brainstorm.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia PbtA.md",
@@ -196,7 +197,6 @@
     "Terra-Oblivia/Magic/Spirits.md",
     "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
-    "Terra-Oblivia/Species/Terra-Oblivia Dragons.md",
     "Terra-Oblivia/History & Lore",
     "Arkfall/Cosmology/Core Worlds/Mercury",
     "Arkfall/Cosmology/Core Worlds/Mars",
