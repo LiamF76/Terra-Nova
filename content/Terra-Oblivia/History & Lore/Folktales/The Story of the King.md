@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: The Story of the King
 aliases:
 tags:
   - Terra-Oblivia
