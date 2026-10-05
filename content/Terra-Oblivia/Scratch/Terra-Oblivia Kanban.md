@@ -16,6 +16,12 @@ tags:
 - [ ] [[Terra-Oblivia Campaign Brainstorm]]
 
 
+## PbtA
+
+- [ ] [[Terra-Oblivia PbtA]]
+- [ ] Runbooks
+
+
 ## Major Factors
 
 - [ ] [[Terra-Oblivia Characters]]
@@ -68,6 +74,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,null,false,false,false,false]}
 ```
 %%

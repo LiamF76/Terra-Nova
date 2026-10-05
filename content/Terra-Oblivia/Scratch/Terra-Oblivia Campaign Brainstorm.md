@@ -22,10 +22,11 @@ Scratch for campaign ideas in Terra-Oblivia.
 ### Question & Answer
 - The Warlord is attacking the Triarch, why?
 	- Got the Bloodstone from a cunning dragon, the dragon demands the Warlord use his powers to invade the Triarch as payment.
-- The Warlord has magical powers, they need to figure out how / where they come from to stop them. Knowledge is power.
+- The Warlord has magical powers, they need to figure out how / where they come from to stop them. Knowledge is power. Where does this power come from and how can it be defeated?
 	- Drawing power from an ancient artifact, 'The Bloodstone'. This is a piece of the sealed Arkonil / Kairos. Grants him demonic powers. Maybe some time magic as well to hint at Kairos?
+	- Power is tied to the Bloodstone, meaning if the Warlord no longer possesses it, they lose their power, and if it is destroyed they can remove it permanently.
 - Ivys's dormant protocol, a new star shines in the sky, Ivys's space station fortress. What does it do to stop Arkonil being free?
-	- Ivys's protocol is set to awaken a powerful Temporal Spirit called Graveglass, who would destroy Kairos / Arkonil permanently before they could be freed. Graveglass goes outside its original directive set by Ivys, and believes it must rule the world to ensure peace.
+	- Ivys's protocol is set to awaken a powerful Temporal Spirit called Graveglass within the fortress, who would destroy Kairos / Arkonil permanently before they could be freed. Graveglass goes outside its original directive set by Ivys, and believes it must rule the world to ensure peace.
 - Kairos awakening within the Bloodstone alongside Arkonil, what is his motive, actions, and feeling now?
 	- ???
 - Who are our bad guys?

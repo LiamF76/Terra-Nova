@@ -12,6 +12,7 @@ tags:
 	- *Cinder*: Mages who use fire magic, negative in some areas positive in others.
 	- *Scarred*: Mages who have Demonic / Abyssal connections or use Demonic / Abyssal magic like blood magic.
 	- *Stormseer*: Mages who can navigate Abyssal Storms, essential to long distance travel.
+	- *Blessed*: Mages who carry heavenly magic in any capacity, healing, smiting, or anything like that. Respected. 
 	- *Mystic*: Term of ultimate respect for a Mage. To call one Mystic is to assign them the title of a great master of magic, one who is supremely powerful.
 - Fire magic is considered dangerous in many areas outside of the Empire. The Empire respects and uses fire magic. Empire holds a powerful Phoenix Spirit that they use to control fire magic, giving their mages Phoenix Feathers to channel it through. Fire is also part of the empire's religion. While fire magic is feared outside the Rocan Empire, it is not illegal.
 - Abyssal magic is outlawed and actively persecuted except in the Empire, which recently has allowed it. They recently started to accept Scarred who are willing to join the military in exchange for assistance furthering their studies of the Abyss. In any other nation on Escharra Scarred are arrested or hunted down. This choice was influenced by the newest Arch-Mystic of the Rocan Empire, a Scarborn.
