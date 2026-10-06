@@ -50,38 +50,21 @@
             }
           },
           {
-            "id": "b4630f8035b6fc58",
+            "id": "0dc415dedf03d4ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
+                "file": "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Oblivia Characters"
-            }
-          },
-          {
-            "id": "a84767005d1eb4fb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Oblivia/Groups/Ashkarad Government.canvas",
-                "viewState": {
-                  "x": -66.7307812499999,
-                  "y": -186.89,
-                  "zoom": -0.0648609237869581
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ashkarad Government"
+              "title": "Terra-Oblivia Skills"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,16 +192,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a84767005d1eb4fb",
+  "active": "0dc415dedf03d4ba",
   "lastOpenFiles": [
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia PbtA Runbooks.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Skills.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/Groups/Ashkarad Government.canvas",
     "Terra-Oblivia/Scratch/Terra-Oblivia Campaign Brainstorm.md",
     "Terra-Oblivia/Groups",
-    "Terra-Oblivia/Terra-Oblivia PbtA/Terra-Oblivia PbtA Runbooks.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
-    "Terra-Oblivia/Terra-Oblivia PbtA",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game",
     "Terra-Oblivia/Characters/Spirits",
     "Terra-Nova/Characters/Spirits/Graveglass.md",
     "Terra-Nova/Characters/Spirits/Oxidian.md",
@@ -236,7 +220,7 @@
     "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
     "Terra-Oblivia/History & Lore/Folktales",
-    "Terra-Oblivia/Terra-Oblivia PbtA/Terra-Oblivia PbtA.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia PbtA.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Lattice and Dust Brainstorm.md",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Lattice and Dust Kanban.md",
