@@ -20,7 +20,7 @@ tags:
 
 - [ ] [[Terra-Oblivia Tabletop Overview]]
 - [ ] [[Terra-Oblivia Tabletop Classes]]
-- [ ] [[Terra-Oblivia Tabletop Skills]]
+- [ ] [[Terra-Oblivia Tabletop Stats and Skills]]
 
 
 ## Major Factors

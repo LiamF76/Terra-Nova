@@ -7,6 +7,24 @@ tags:
 Created: 2026-10-06
 ---
 
+## Stats
+
+This is a list of all the stats in the Terra-Oblivia Tabletop game. This game uses the core stats found in Dungeons & Dragons 5th edition, mapped to newly streamlined skills.
+
+|Stat|Skills|
+|---|---|
+|**Strength**|Combat|
+|**Dexterity**|Stealth|
+|**Constitution**|Survival|
+|**Intelligence**|Lore, Craft|
+|**Wisdom**|Devotion, Insight|
+|**Charisma**|Influence|
+
+---
+
+## Skills
+
+
 This is a list and description of all the skills in the Terra-Oblivia Tabletop game.
 
 - **Survival**  
