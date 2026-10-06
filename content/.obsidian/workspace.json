@@ -50,17 +50,17 @@
             }
           },
           {
-            "id": "0dc415dedf03d4ba",
+            "id": "7418b598832abbe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Skills.md",
+                "file": "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Oblivia Skills"
+              "title": "Terra-Oblivia Tabletop Skills"
             }
           }
         ],
@@ -192,11 +192,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0dc415dedf03d4ba",
+  "active": "7418b598832abbe8",
   "lastOpenFiles": [
-    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia PbtA Runbooks.md",
-    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Skills.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Overview.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Classes.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Skills.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/Groups/Ashkarad Government.canvas",
     "Terra-Oblivia/Scratch/Terra-Oblivia Campaign Brainstorm.md",
@@ -220,12 +221,11 @@
     "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
     "Terra-Oblivia/History & Lore/Folktales",
-    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia PbtA.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/OLD Terra-Oblivia PbtA.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Lattice and Dust Brainstorm.md",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Lattice and Dust Kanban.md",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Space Western Storyboard.canvas",
-    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
     "Arkfall/Cosmology/Arkfall Map.canvas",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust",
     "Terra-Oblivia/History & Lore",

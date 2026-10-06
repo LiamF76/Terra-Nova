@@ -7,7 +7,7 @@ tags:
 Created: 2026-10-06
 ---
 
-This is a list and description of all the skills in the Terra-Oblivia Tabletop Roleplay Game.
+This is a list and description of all the skills in the Terra-Oblivia Tabletop game.
 
 - **Survival**  
 	Enduring and navigating hostile conditions, reading terrain, finding food and shelter, tracking, and withstanding environmental hardship. Covers travel through Ashkarad's wasteland, overland Abyssal Storm exposure, and general wilderness competence.

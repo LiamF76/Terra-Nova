@@ -16,10 +16,11 @@ tags:
 - [ ] [[Terra-Oblivia Campaign Brainstorm]]
 
 
-## PbtA
+## Tabletop Game
 
-- [ ] [[Terra-Oblivia PbtA]]
-- [ ] [[Terra-Oblivia PbtA Runbooks]]
+- [ ] [[Terra-Oblivia Tabletop Overview]]
+- [ ] [[Terra-Oblivia Tabletop Classes]]
+- [ ] [[Terra-Oblivia Tabletop Skills]]
 
 
 ## Major Factors
