@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"b602ac3b40bb34a4","x":-460,"y":-188,"width":250,"height":60,"type":"text","text":"Lasini"},
+		{"id":"46a84d30c2dab631","x":-460,"y":-60,"width":250,"height":60,"type":"text","text":"Hartwyn"},
+		{"id":"dd70b94219785a85","x":-180,"y":-188,"width":250,"height":60,"type":"text","text":"Hunger-of-Kings"},
+		{"id":"02cf746e110d122f","x":-180,"y":-60,"width":250,"height":60,"type":"text","text":"Daegel Lathir"}
+	],
+	"edges":[
+		{"id":"f399ef7f50a02488","fromNode":"b602ac3b40bb34a4","fromSide":"bottom","toNode":"46a84d30c2dab631","toSide":"top"},
+		{"id":"f314f6424a1c8b09","fromNode":"dd70b94219785a85","fromSide":"bottom","toNode":"02cf746e110d122f","toSide":"top"}
+	]
+}
