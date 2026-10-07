@@ -32,8 +32,18 @@ Scratch for campaign ideas in Terra-Oblivia.
 	- ???
 - Who are our bad guys?
 	- The Warlord: front facing BBEG
-		- **Hartwyn Syros**
+		- **Hartwyn Syros** 
+			- the Demon Warlord, wielder of the Bloodstone. He has demonic powers and blood magic, and small amounts of time magic. He has a curse of demonic greed, and wants to amass power and riches for himself through conquering the Triarch.
 	- Cunning Dragon: hidden BBEG
-		- 
-- 
+
+## Factions / Forces at Play
+
+| Name            | Allegiance | Goal | Method |
+| --------------- | ---------- | ---- | ------ |
+| Hartwyn Syros   |            |      |        |
+| Hunger-of-Kings |            |      |        |
+| Lord Dastan     |            |      |        |
+| Graveglass      |            |      |        |
+
+
 
