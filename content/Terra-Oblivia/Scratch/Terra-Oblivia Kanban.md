@@ -71,10 +71,16 @@ tags:
 	- Ashlord, title given to leader of the armies. Title is considered a burden to be removed by completing your goal assigned by the Emperor.
 
 
+## Lore
+
+- [ ] Dastan childhood attack
+- [ ] Hartwyn and Ayla backstory
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,null,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,null,false,false,false,false,false]}
 ```
 %%

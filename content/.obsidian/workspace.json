@@ -40,6 +40,7 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -78,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,11 +207,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2be92e3c8172851f",
+  "active": "6f47b78ce7089566",
   "lastOpenFiles": [
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Campaign Brainstorm.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Stats and Skills.md",
     "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Overview.md",
     "Dashboard.md",
