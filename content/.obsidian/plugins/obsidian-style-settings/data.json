@@ -82,5 +82,12 @@
   "obsidian-velocity@@enable-special-code": true,
   "obsidian-velocity@@theme-paint-dark": "bronze",
   "obsidian-velocity-config@@disable-title-h1": true,
-  "ulu-theme-settings@@ulu-callouts": "ulu-gummy-callouts"
+  "ulu-theme-settings@@ulu-callouts": "ulu-gummy-callouts",
+  "halftone@@hf-paper": "hf-paper-sage",
+  "halftone@@hf-window": "hf-window-grey",
+  "halftone@@hf-pixel-files": false,
+  "halftone@@hf-centre-title": true,
+  "halftone@@hf-gaps": true,
+  "halftone@@hf-no-dots": false,
+  "halftone@@hf-no-crop-marks": false
 }

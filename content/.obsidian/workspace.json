@@ -49,7 +49,8 @@
               "title": "Terra-Oblivia Kanban"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,15 +178,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0ee93d4e7b13a7ad",
   "lastOpenFiles": [
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Stats and Skills.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Overview.md",
+    "Dashboard.md",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Tabletop Systems",
     "Writing Tips/Untitled",
-    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Stats and Skills.md",
     "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Classes.md",
-    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Overview.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/Groups/Ashkarad Government.canvas",
     "Terra-Oblivia/Scratch/Terra-Oblivia Campaign Brainstorm.md",
@@ -202,7 +204,6 @@
     "Terra-Nova/Characters/Spirits/Akicita.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
     "Terra-Oblivia/Scratch/TO Idea Dump.md",
-    "Dashboard.md",
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "index.md",
     "Terra-Nova/Terra-Nova Wiki Homepage.md",
