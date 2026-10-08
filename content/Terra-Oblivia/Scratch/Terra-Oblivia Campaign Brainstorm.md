@@ -53,7 +53,7 @@ These are still bullets, bear with me Daraan, it's how we work.
 - A Priest of Kasayt leads the Warlords, and has promised each Warlord something in exchange for their worship of Kasayt, the Priest is the one who believes the Stone King can turn Kasayt into a living God. The Priest leads the Warlords.
 - Warlord Powers:
 	- *Warlord 1*: Elf, Demon powers / Bloodstone, can turn followers into blood magic mutants. Bloodstone amulet gives them the Demon Powers.
-		- **Mye-Naak Blood-Ear**
+		- **Sana Blood-Ear**
 	- *Warlord 2*: Human, Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
 		- **Bellum Grail**
 	- *Warlord 3*: Dragonborn, Dragon Knight with fire powers. Bonded with the power of Kasayt. Enchanted weapon gives them the Dragon powers.
