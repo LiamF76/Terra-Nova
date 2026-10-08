@@ -50,6 +50,7 @@ These are still bullets, bear with me Daraan, it's how we work.
 
 #### Campaign Premise
 
+- Long ago Kasayt the Red Dragon attacked the early Triarch valley, and was thwarted by a Great Spirit. This battle between the Great Spirit and Kasayt caused both the Dragon and Spirit to be weakened, and lost a great deal of their power.
 - Kasayt the Red Dragon has 3 Warlord followers. These warlords worship Kasayt as their God, and want to make Kasayt a God. Kasayt sends them to find the Stone King, a relic said to hold the power of an ancient Demon. Kasayt's followers believe they can make Kasayt become a God using the Stone King.
 - 
 
