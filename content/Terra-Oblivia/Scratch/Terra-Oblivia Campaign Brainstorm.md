@@ -11,12 +11,12 @@ Scratch for campaign ideas in Terra-Oblivia.
 
 ---
 
-# A War of Shadow and Time
+# A War of Shadow and Time Brainstorm
 
 ### Setup
 - Warlord harnessing Arkonil's power from the petrified / sealed Kairos who was holding Arkonil. The seal is breaking.
+- A Red Dragon, Kasayt, has 3 Warlord followers. Kasayt is sending their followers to attack the Triarch. The Red Dragon seeks an artifact known as the Stone King, with demonic powers. The Warlords who follow Kasayt worship them as a God, and believe they can make Kasayt a new God using the Stone King's powers. 
 - Breaking the seal / some other trigger, awakens a dormant protocol of Ivys, to prevent Arkonil from being freed.
-- The Warlord is using his new powers to attack the Triarch for an unknown reason (is there something or someone the warlord needs in the Triarch?)
 - Party is assembled to stop the Warlord. Their goal is to venture into Ashkarad and defeat him, and stop his armies from destroying the last bastion of freedom.
 
 ### Question & Answer
@@ -39,15 +39,12 @@ Scratch for campaign ideas in Terra-Oblivia.
 
 - **Kasayt the Red Dragon**: Powerful Red Dragon of Ashkarad. 
 	- *Hartwyn Syros*: the Demon Warlord, wielder of the Bloodstone. He has demonic powers and blood magic, and small amounts of time magic. He has a curse of demonic greed, and wants to amass power and riches for himself through conquering the Triarch.
-	- 
+	- Warlord 2: 
+	- Warlord 3: 
 
 ---
 
-## Factions / Forces at Play
+## Finalized Info
 
-| Name        | Allegiance      | Goal                          | Method |
-| ----------- | --------------- | ----------------------------- | ------ |
-| Kasayt      | Self            | Power of the Stone King       |        |
-| Graveglass  | Ivys's Protocol |                               |        |
-| The Triarch | Justice, Order  | Protect the 3 Cities & Valley |        |
+#### Campaign Premise
 
