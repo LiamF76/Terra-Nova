@@ -52,14 +52,14 @@ These are still bullets, bear with me Daraan, it's how we work.
 - Kasayt the Red Dragon has 3 Warlord followers. These warlords worship Kasayt as their God, and want to make Kasayt a God. Kasayt sends them to find the Stone King, a relic said to hold the power of an ancient Demon. Kasayt's followers believe they can make Kasayt become a God using the Stone King.
 - A Priest of Kasayt leads the Warlords, and has promised each Warlord something in exchange for their worship of Kasayt, the Priest is the one who believes the Stone King can turn Kasayt into a living God. The Priest leads the Warlords.
 - Warlord Powers:
-	- *Warlord 1*: Demon powers / Bloodstone, can turn followers into blood magic mutants. Bloodstone amulet gives them the Demon Powers.
-		- 
-	- *Warlord 2*: Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
-		- 
-	- *Warlord 3*: Dragon Knight with fire powers. Bonded with the power of Kasayt. Enchanted weapon gives them the Dragon powers.
-		- 
+	- *Warlord 1*: Elf, Demon powers / Bloodstone, can turn followers into blood magic mutants. Bloodstone amulet gives them the Demon Powers.
+		- **Mye-Naak Blood-Ear**
+	- *Warlord 2*: Human, Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
+		- **Bellum Grail**
+	- *Warlord 3*: Dragonborn, Dragon Knight with fire powers. Bonded with the power of Kasayt. Enchanted weapon gives them the Dragon powers.
+		- **Lord Ryuu Doran**
 - This makes the Priest our effective BBEG, with Kasayt the Dragon being the impending monster / threat. The party is trying to stop the Priest from creating the Demon Dragon God from Kasayt, not trying to kill Kasayt once he has already been summoned.
-	- *Priest Character:* 
+	- *Priest Character:* Hartwyn and Ayla are the Syros siblings. They act as foils of one another, both raised in religion and tradition, one being with a God, divine and forgiving, peaceful traditions. One being raised in a violent cult dedicated to a vengeful Dragon.
 		- **Hartwyn Syros**: Human Priest of Kasayt in Ashkarad. Brother of Ayla Syros. Serves Kasayt having been kidnapped from the Triarch in a raid as a child, and raised to worship Kasayt. Staunch believer in Dragon Supremacy.
 - Kasayt is sealed within a magical orb that grants the Priest his powers, general cleric of a fire dragon stuff. Bonded with Kasayt for power like a warlock. Kasayt was sealed inside the Orb by a past Priest to protect him and allow the dragon to heal until Kasayt can use the Stone King to do his demon stuff.
 - The Great Spirit is alive but stuck somewhere tied to their magical domain, healing slowly since the battle. They are still weakened by the Warlord who has stolen their powers.

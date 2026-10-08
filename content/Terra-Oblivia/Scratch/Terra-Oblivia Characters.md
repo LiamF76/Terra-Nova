@@ -12,5 +12,10 @@ tags:
 - **Ayla Syros**: (Secret: Descendant of Elena Syrell + Lukas) Human mage, Priestess of Krokha Inam and the Moons. Member of the Devout Assembly, a group of religious leaders who rule the Triarch city of Citadel. Ayla is a believer in isolation, and that if the rest of the world wants to destroy itself the Triarch should let it, but the Triarch must be protected. Ayla is a faithful follower of Krokha Inam and the Moons of Terra-Oblivia. Sister of Hartwyn Syros.
 - **Luther Scorn**: Human warrior, big guy with a bald head and huge beard. Luther is a former monster hunter who became famous for his defense of the Triarch during the Surge Wars. He was nominated to the position of General in Bastion for his competence in battle, strategy, and leadership.
 - **Roccius Crane**: Ashlord of the Rocan Empire, Roccius was appointed Ashlord as recognition of his success in battle against the forces of Ashkarad. Roccius is a controversial figure in the Empire, during his younger years as a scholar in the military academy he proposed using Warlords to fight their battles against the 3 Cities, which is heretical to the Rocan sense of honor. He considers Daegel to be a rival, Daegel does not share that sentiment.
-- **Hartwyn Syros**: 
 - **Kasayt**: Ancient Red Dragon of Ashkarad. Fused her power with an Abyssal Storm and led that storm towards the 3 Cities long ago, attempted to lay ruin to the 3 Cities, but failed.
+- **Hartwyn Syros**: 
+- **Mye-Naak Blood-Ear**: 
+- **Bellum Grail**: 
+- **Lord Ryuu Doran**: 
+- 
+
