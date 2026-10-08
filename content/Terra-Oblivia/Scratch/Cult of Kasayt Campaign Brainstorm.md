@@ -63,5 +63,5 @@ These are still bullets, bear with me Daraan, it's how we work.
 		- **Hartwyn Syros**: Human Priest of Kasayt in Ashkarad. Brother of Ayla Syros. Serves Kasayt having been kidnapped from the Triarch in a raid as a child, and raised to worship Kasayt. Staunch believer in Dragon Supremacy.
 - Kasayt is sealed within a magical orb that grants the Priest his powers, general cleric of a fire dragon stuff. Bonded with Kasayt for power like a warlock. Kasayt was sealed inside the Orb by a past Priest to protect him and allow the dragon to heal until Kasayt can use the Stone King to do his demon stuff.
 - The Great Spirit is alive but stuck somewhere tied to their magical domain, healing slowly since the battle. They are still weakened by the Warlord who has stolen their powers.
-- **INCITING INCIDENT**: 
+- **INCITING INCIDENT**: The forces of Kasayt, a group of monsters like a big ogre and some smaller monsters attack a caravan carrying an important magical artifact on the road to Gate. 
 
