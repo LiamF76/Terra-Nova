@@ -46,5 +46,10 @@ Scratch for campaign ideas in Terra-Oblivia.
 
 ## Finalized Info
 
+These are still bullets, bear with me Daraan, it's how we work.
+
 #### Campaign Premise
+
+- Kasayt the Red Dragon has 3 Warlord followers. These warlords worship Kasayt as their God, and want to make Kasayt a God. Kasayt sends them to find the Stone King, a relic said to hold the power of an ancient Demon. Kasayt's followers believe they can make Kasayt become a God using the Stone King.
+- 
 
