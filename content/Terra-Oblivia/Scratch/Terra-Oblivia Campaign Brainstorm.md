@@ -26,26 +26,28 @@ Scratch for campaign ideas in Terra-Oblivia.
 	- Drawing power from an ancient artifact, 'The Bloodstone'. This is a piece of the sealed Arkonil / Kairos. Grants him demonic powers. Maybe some time magic as well to hint at Kairos?
 	- Power is tied to the Bloodstone, meaning if the Warlord no longer possesses it, they lose their power, and if it is destroyed they can remove it permanently.
 	- Mutating his followers using blood magic, turning them into vicious monsters and beasts. They are dangerous, and powerful.
-- Hartwyn was given the Bloodstone by a cunning dragon, where is the rest of the bloodstone?
-	- The rest of the artifact, Kairos / Arkonil sealed in stone, is actually in the Triarch, underground after centuries of change in the land. He wants to return the artifact and reform Arkonil, becoming its host once again. This artifact is known as 'The Stone King'.
+- Hartwyn was given the Bloodstone by Kasayt
+	- The rest of the artifact, Kairos / Arkonil sealed in stone, is actually in the Triarch, underground after centuries of change in the land. This artifact is known as 'The Stone King'.
 - Ivys's dormant protocol, a new star shines in the sky, Ivys's space station fortress. What does it do to stop Arkonil being free?
 	- Ivys's protocol is set to awaken a powerful Temporal Spirit called Graveglass within the fortress, who would destroy Kairos / Arkonil permanently before they could be freed. Graveglass goes outside its original directive set by Ivys, and believes it must rule the world to ensure peace.
 - Kairos awakening within the Bloodstone alongside Arkonil, what is his motive, actions, and feeling now?
-	- ???
-- Who are our bad guys?
-	- The Warlord: front facing BBEG
-		- **Hartwyn Syros** 
-			- the Demon Warlord, wielder of the Bloodstone. He has demonic powers and blood magic, and small amounts of time magic. He has a curse of demonic greed, and wants to amass power and riches for himself through conquering the Triarch.
-	- Cunning Dragon: hidden BBEG
+	- 
+
+---
+
+## BBEG & Lieutenants
+
+- **Kasayt the Red Dragon**: Powerful Red Dragon of Ashkarad. 
+	- *Hartwyn Syros*: the Demon Warlord, wielder of the Bloodstone. He has demonic powers and blood magic, and small amounts of time magic. He has a curse of demonic greed, and wants to amass power and riches for himself through conquering the Triarch.
+	- 
+
+---
 
 ## Factions / Forces at Play
 
-| Name            | Allegiance      | Goal                                            | Method |
-| --------------- | --------------- | ----------------------------------------------- | ------ |
-| Hartwyn Syros   | Self            | Rule, Riches, Greed                             |        |
-| Hunger-of-Kings | Self            | Sustain self via Wishes, see wish-makers suffer |        |
-| Lord Dastan     | The Triarch     |                                                 |        |
-| Graveglass      | Ivys's Protocol |                                                 |        |
-
-
+| Name        | Allegiance      | Goal                          | Method |
+| ----------- | --------------- | ----------------------------- | ------ |
+| Kasayt      | Self            | Power of the Stone King       |        |
+| Graveglass  | Ivys's Protocol |                               |        |
+| The Triarch | Justice, Order  | Protect the 3 Cities & Valley |        |
 
