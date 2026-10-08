@@ -48,9 +48,14 @@ Scratch for campaign ideas in Terra-Oblivia.
 
 These are still bullets, bear with me Daraan, it's how we work.
 
-#### Campaign Premise
-
 - Long ago Kasayt the Red Dragon attacked the early Triarch valley, and was thwarted by a Great Spirit. This battle between the Great Spirit and Kasayt caused both the Dragon and Spirit to be weakened, and lost a great deal of their power.
 - Kasayt the Red Dragon has 3 Warlord followers. These warlords worship Kasayt as their God, and want to make Kasayt a God. Kasayt sends them to find the Stone King, a relic said to hold the power of an ancient Demon. Kasayt's followers believe they can make Kasayt become a God using the Stone King.
-- 
+- A Priest of Kasayt leads the Warlords, and has promised each Warlord something in exchange for their worship of Kasayt, the Priest is the one who believes the Stone King can turn Kasayt into a living God. The Priest leads the Warlords.
+- Warlord Powers:
+	- Demon powers / Bloodstone, can turn followers into blood magic mutants.
+	- Spirit Powers stolen from the Great Spirit who defended the Triarch.
+	- Dragon Knight with fire powers. Bonded with the power of Kasayt.
+- This makes the Priest our effective BBEG, with Kasayt the Dragon being the impending monster / threat. The party is trying to stop the Priest from creating the Demon Dragon God from Kasayt, not trying to kill Kasayt once he has already been summoned.
+- Kasayt is sealed within a magical orb that grants the Priest his powers, general cleric of a fire dragon stuff. Bonded with Kasayt for power like a warlock. Kasayt was sealed inside the Orb by the Priest to protect him and allow the dragon to hea until the Priest can use the Stone King to do his demon stuff.
+- The Great Spirit is alive but stuck somewhere tied to their magical domain, healing slowly since the battle.
 
