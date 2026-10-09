@@ -24,16 +24,23 @@
             }
           },
           {
-            "id": "e4925f1c2b73cdd0",
+            "id": "93171442cdd875c9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    null,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
                     false,
                     false
                   ]
@@ -41,21 +48,21 @@
               },
               "pinned": true,
               "icon": "lucide-trello",
-              "title": "CoK Kanban"
+              "title": "Terra-Oblivia Kanban"
             }
           },
           {
-            "id": "2e425cb28c7655e5",
+            "id": "b131384908916385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
+                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CoK Campaign Brainstorm"
+              "title": "Terra-Oblivia Characters"
             }
           }
         ],
@@ -187,15 +194,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2e425cb28c7655e5",
+  "active": "b131384908916385",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Dashboard.md",
-    "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
+    "Dashboard.md",
+    "ayla.md",
+    "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Characters/Mortals/Sana Blood-Ear.md",
     "Terra-Oblivia/Characters/Dragons/Kasayt.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Untitled",
@@ -209,8 +218,7 @@
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Characters/Mortals/Bellum Grail.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
-    "Bellum Grail-1791501043654.webp",
+    "z Images/Bellum Grail-1791501043654.webp",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Scratch/TO Idea Dump.md",
     "z Images/Sana Blood-Ear-1791499894989.webp",

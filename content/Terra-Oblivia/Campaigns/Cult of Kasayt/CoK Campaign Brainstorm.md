@@ -71,3 +71,9 @@ These are still bullets, bear with me Daraan, it's how we work.
 	- *2. Party returns it to Gate*: The party stops the raiders before they get the artifact, and can return it to Gate. 
 	- *3. Party keeps it*: Alternatively they can keep it for themselves, and use its power for their own goals.
 
+## Party Roles
+
+Each player will choose a party role to fulfill.
+
+- **Risen Dead**: In a long abandoned tradition, you have been raised from the dead in service to the High Priestess of Krokha Inam. You are the champion of Ayla, and have been sent out into Triarch territory to enforce her will and protect the land.
+- **Council's Chosen**: You have been chosen by the Council of the 3 Cities to represent their interests as an agent of the Triarch.
