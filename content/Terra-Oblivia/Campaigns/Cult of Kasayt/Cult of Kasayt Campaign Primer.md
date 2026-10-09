@@ -30,4 +30,13 @@ Other lands such as Zarus and Drokon lie across the sea, but they will not be th
 
 As you may know, Terra-Nova and Terra-Oblivia are both creations of Daraan. You may feel a sense of deja-vu exploring this world. Follow that feeling, a large part of playing in this world (for those who have played in Terra-Nova), will be about understanding the new order of the world.
 
-How did we get here?
+> [!note]
+> How did we get here? Why is the world this way? What influence did we have on this?
+
+It will be encouraged to hunt for information. You will need to travel and *think carefully* about who you are, and what you are willing to do. Understanding will not be free, and all information comes at a price. This campaign is brutal. Character deaths are a real possibility, and the best way to prevent that is to *learn* and *explore*. You will not be able to defeat great threats without understanding them, this is not a button mash hit point battle, figure out what you're up against or you stand little change.
+
+We will be having fun. We will be dungeon delving, exploring, solving mysteries and puzzles, talking to interesting NPCs, and dealing with some serious topics. We will have player safety tools such as consent sheets, none of your boundaries / consent will be breached.
+
+The tone of this campaign will be nearly identical to Terra-Nova for player attitude. We can have jokes and fun, everybody's character does not have to be grumpy and moody all the time. The tone is more serious though, I enjoy a focused game, let's try and have the right energy for gameplay!
+
+
