@@ -53,19 +53,19 @@ In this change the Gods took the form of Dragons, many strange and mutated by th
 
 ---
 
-## The Gods Domain
+## Heaven: The Gods Plane
 
-
+The Gods of Terra-Oblivia reside within the plane of the Heavens. This plane is divided between each of the Gods, where each one possesses a near endless domain shaped in their own image. For more information see [[The Heavens]]. Each God has their own domain, when Gods meet they agree on which God's domain to travel to, and when all Gods meet they do so in the domain of Krokha Inam.
 
 ---
 
 ## The Divine Hierarchy
 
-tbd
+The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods recieve more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair.
 
 ---
 
-## Heaven and Mortals
+## Gods and Mortals
 
 tbd
 
