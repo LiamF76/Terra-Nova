@@ -61,7 +61,7 @@ The Gods of Terra-Oblivia reside within the plane of the Heavens. This plane is 
 
 ## The Divine Hierarchy
 
-The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods recieve more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair.
+The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods recieve more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair. These Gods are generally independent, though some maintain more contact with each other than others do. It is entirely within the nature of Gods to be silent, or highly communicative amongst themselves.
 
 When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must determine it to be a fair challenge in comparison to the reason for the disagreement.
 
