@@ -15,19 +15,19 @@ tags:
 
 ## Gods & Domains Overview
 
-| God                | Titles                                   | Domain        | *Subsumes*                                                                           |
-| ------------------ | ---------------------------------------- | ------------- | ------------------------------------------------------------------------------------ |
-| **Lumena**         | Face of Dawn, Proud Mother               | *Light*       | Light, life, hierarchy, and nature, superiority.                                     |
-| **Balthazaar**     | He Who Slithers                          | *Darkness*    | Darkness, chaos, the occult.                                                         |
-| **Erasaad**        | Lord of Twilight                         | *Death*       | Death, the dead, sleep, dreams.                                                      |
-| **Oa Maton**       | Ever-Balanced                            | *Balance*     | Balance, justice, revenge, punishment, penance, extremity.                           |
-| **Rocan Ashar**    | Ceaseless Flame                          | *War*         | War, fire, victory, wisdom, strategy, bravery, legacy.                               |
-| **Vespar Telarum** | Verdant Trickster                        | *Knowledge*   | Knowledge, wisdom, strategy, also magic (in the study/cunning sense).                |
-| **Krokha Inam**    | Endless Hourglass, Keeper of the Sundial | *Time*        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis. |
-| **Datura Ferhaus** | Turning Head, Craft Perfected            | *Art / Labor* | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession.   |
-| **Miragrim Ysor**  | Unceasing Torrent, Howling Pathfinder    | *Sea*         | Storms, oceans, freedom, travelers, explorers, detachment.                           |
-| **Aevarus**        | Wild One, Spirit's Guide                 | *Beasts*      | Monsters, wild animals, trickery, shape-changing, sky.                               |
-| **Kamara Desos**   | She Who is Not, Weaver                   | *Fate*        | Destiny / Freedom, predetermination, a divine plan.                                  |
+| God            | Titles                                     | Domain          | Subsumes                                                                             |
+| -------------- | ------------------------------------------ | --------------- | ------------------------------------------------------------------------------------ |
+| Lumena         | *Face of Dawn, Proud Mother*               | **Light**       | Light, life, hierarchy, and nature, superiority.                                     |
+| Balthazaar     | *He Who Slithers*                          | **Darkness**    | Darkness, chaos, the occult.                                                         |
+| Erasaad        | *Lord of Twilight*                         | **Death**       | Death, the dead, sleep, dreams.                                                      |
+| Oa Maton       | *Ever-Balanced*                            | **Balance**     | Balance, justice, revenge, punishment, penance, extremity.                           |
+| Rocan Ashar    | *Ceaseless Flame*                          | **War**         | War, fire, victory, wisdom, strategy, bravery, legacy.                               |
+| Vespar Telarum | *Verdant Trickster*                        | **Knowledge**   | Knowledge, wisdom, strategy, also magic (in the study/cunning sense).                |
+| Krokha Inam    | *Endless Hourglass, Keeper of the Sundial* | **Time**        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis. |
+| Datura Ferhaus | *Turning Head, Craft Perfected*            | **Art / Labor** | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession.   |
+| Miragrim Ysor  | *Unceasing Torrent, Howling Pathfinder*    | **Sea**         | Storms, oceans, freedom, travelers, explorers, detachment.                           |
+| Aevarus        | *Wild One, Spirit's Guide*                 | **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky.                               |
+| Kamara Desos   | *She Who is Not, Weaver*                   | **Fate**        | Destiny / Freedom, predetermination, a divine plan.                                  |
 
 ---
 
@@ -47,7 +47,7 @@ tags:
 
 ## Birth of the Dragon Gods
 
-The Gods of Terra-Oblivia were born from conflict, when great and powerful Dragons rose into the heavens, devoured the souls of the Old, and drank the Abyssal magics that poisoned Terra-Oblivia. A Great Spirit, a Lioness of war and courage, lured the Old Gods down to the world, and as she tricked them they were subsumed. This brave and heroic action restored the balance that had been eroded over ages of war and strife between the Abyss and Heavens. In this act, known as The Dawn, the world was saved from entropy, and its inevitable slow and violent end. 
+The Gods of Terra-Oblivia were born from conflict, when great and powerful [[Terra-Oblivia Dragons|Dragons]] rose into the heavens, devoured the souls of the Old, and drank the Abyssal magics that poisoned Terra-Oblivia. A Great Lioness [[Terra-Oblivia/Magic/Spirits|Spirit]] schemed alongside the Dragons. She lured the Old Gods down to the world, and tricked them into being devoured. This brave and heroic action restored the balance that had been eroded over ages of war and strife between the Abyss and Heavens. In this act, known as The Dawn, the world was saved from entropy, and its inevitable slow and violent end. 
 
 In this change the Gods took the form of Dragons, many strange and mutated by the nature of their birth. Being a fusion of Dragons, Abyssal corruption, and the Old Gods, they are often frightening, and possess natures that are not entirely benevolent. They are vastly powerful, can influence the world and mortal lives, and must be respected.
 
@@ -63,13 +63,17 @@ The Gods of Terra-Oblivia reside within the plane of the Heavens. This plane is 
 
 The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods recieve more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair. These Gods are generally independent, though some maintain more contact with each other than others do. It is entirely within the nature of Gods to be silent, or highly communicative amongst themselves.
 
-When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must determine it to be a fair challenge in comparison to the reason for the disagreement.
+When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must vote on it being a fair challenge in comparison to the reason for the disagreement.
 
 ---
 
 ## Gods and Mortals
 
-Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly to their followers. 
+Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly to their followers. Communication is most commonly done directly to Champions and Great Spirits, and occasionally to Minor Spirits as well. It is nearly unheard of for a God to speak to a regular mortal follower, and never before seen for a God to talk to a regular mortal who does not worship them.
+
+Nearly all Mortals worship the Gods in some manner, even if that worship is not reverent and respectful, they recognize the immense divine power, and influence on the world that the Gods have. There is no ambiguity about the Gods existence, those who do not worship or care for the Gods usually harbor anger towards them for being so uninvolved in mortal affairs.
+
+Gods are often given offerings as bargains. One example is the Warlords of Ashkarad, many of whom pay a blood tithe to 
 
 ---
 

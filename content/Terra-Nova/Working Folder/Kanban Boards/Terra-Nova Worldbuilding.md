@@ -31,7 +31,7 @@ kanban-plugin: list
 	This has been backlogged due to being depreciated after The Reshaping.
 - [ ] [[Primordials]]
 	This has been backlogged due to needing an overhaul after The Reshaping
-- [ ] [[Divine Champions]]
+- [ ] [[Terra-Nova/Organizations/Divine Groups/Divine Champions]]
 - [ ] Great Spirits
 
 
