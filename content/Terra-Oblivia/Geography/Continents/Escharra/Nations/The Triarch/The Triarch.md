@@ -14,15 +14,20 @@ What makes it unique:
 
 ## 1. Geography & Environment
 
-Location on the continent: 
-Climate & biomes: 
+Location on the continent: Central
+Climate & biomes: Continental, warm summers, cold winters, all 4 seasons.
 
 Major natural features:
-- Mountains: 
+- Mountains:
+	- Cloud-Cutter Peaks: tall mountain range that surrounds the entire valley. 
 - Rivers: 
+	- Sky's Tear River: Largest river in the valley, runs from the Cloud-Cutter Peaks of ever melting snow down into the heart of the valley.
 - Forests: 
+	- 
 - Deserts / Wastes: 
+	- 
 - Magical anomalies: 
+	- 
 
 Environmental magic (if any):
 - Mana-rich zones or ley-like effects: 

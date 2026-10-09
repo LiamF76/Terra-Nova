@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## Misc
 
-- [ ] [[Cult of Kasayt Campaign Primer]]
 - [ ] [[CoK Campaign Brainstorm]]
+- [ ] [[Cult of Kasayt Campaign Primer]]
 
 
 ## Characters
@@ -17,10 +17,16 @@ kanban-plugin: board
 - [ ] [[Kasayt]]
 
 
+## Places
+
+- [ ] [[The Triarch]]
+- [ ] Gate
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

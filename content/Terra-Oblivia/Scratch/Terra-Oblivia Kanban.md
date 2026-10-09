@@ -44,6 +44,7 @@ tags:
 
 ## The Triarch / 3 Cities
 
+- [ ] [[The Triarch]]
 - [ ] Bastion
 	- fortified military base, was once a massive stronghold for a fallen empire
 	- city exists within fortified sections of the ruins, some parts are still ruins / unexplored and contain monsters
