@@ -1,10 +1,10 @@
 ---
-publish: false
+publish: true
 title: Cult of Kasayt Campaign Primer
 aliases:
 tags:
   - Terra-Oblivia
-Created: 2026-10-08
+Created: 2026-10-09
 ---
 
 Welcome to Cult of Kasayt! The first campaign to be run in Terra-Oblivia. If you are reading this you're probably playing in it, and I hope you are as excited as I am!
@@ -43,6 +43,19 @@ In terms of content specifics, there will be combat against monsters and mortals
 
 ---
 
+## Our Quest
+
+Here is a very brief overview of our quest. This is brief on purpose, you will learn more as you build characters, ask questions, explore the Wiki, and adventure through the world!
+
+> [!note] The Cult of Kasayt
+> Long ago, in the infancy of the 3 Cities, the Red Dragon Kasayt attacked the peaceful valley. Using his terrible fire magic, Kasayt fused his breath with an Abyssal Storm, creating a hellish typhoon of demonic fire, and led that typhoon to the Valleys edge. There Kasayt was halted by the great bird Spirit and protector of the Valley, Astor. Kasayt and Astor battled, and both were greatly weakened, but Astor diverted the Storm from the Valley's edge, and saved the people of the Triarch.
+> 
+> That was over a hundred years ago, and the Spirit and Dragon who battled for the fate of the 3 Cities have faded, but are slowly returning. Scouts of the Triarch who make their way into Ashkarad have heard rumor that the fallen Cult of Kasayt, fanatical worshippers of the Red Dragon, carry the essence of their master. For reasons unknown, they are amassing a great army once again, and are making their way towards the Valley of the 3 Cities. Now the Triarch must once again face their ancient enemy, and defend their Valley against the violent Ashkari barbarians, who bathe in blood across their vast wastelands.
+
+Your quest begins in the Triarch. You will travel the continent of Escharra, seeking to understand your enemy, why they are moving on the 3 Cities, and how Kasayt survived the battle against Astor.
+
+---
+
 ## Party Roles
 
 For this campaign we will be trying something new. Party roles inspired by the runbooks from Powered by the Apocalypse. Each player will be required to select one of these to build their character and backstory around. Multiple players cannot select the same role. This will also factor in the 'Knives' backstory system for character creation. Both will be outlined below.
@@ -69,8 +82,8 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 
 ### The Triarch's Chosen
 
-> [!quote] Source - 
-> *"Quote"*
+> [!quote] Lord Dastan of Bastion- 
+> *"By the Authority of the Council of the Triarch, you are now appointed as Chosen of the 3 Cities. Go forth into the Valley and beyond, protect this land, and adhere to the Council's will. You are the hand of the Lords, be strong, and be fearless."*
 
 **Description**: You have been chosen by the Council of the 3 Cities to represent their interests as an agent of the Triarch. You have been given a small amount of authority similar to a Noble, able to get away with small infractions in the name of protecting the Valley.
 
@@ -95,7 +108,7 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 - Tireless. You don't need to eat, sleep, or breathe, and you are hard to wound.
 
 **Bonds**: 
--  You carry a dormant directive. The GM decides when it awakens.
+- You carry a dormant directive. The GM decides when it awakens.
 - Some people will try to claim, sell, or dismantle you.
 
 ### The Hunted
@@ -114,10 +127,44 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 - If you display a dangerous nature, Triarch law will hunt you. 
 - The Empire has made you an offer, and it's a temptation.
 
-### TBD
+### Spirit-Touched
 
-> [!quote] Source - 
-> *"Quote"*
+> [!quote] Your Bonded Spirit - 
+> *"I grant you my power, my blessing, and my mission. Tie yourself to my purpose, and I will leash my abilities to you. Go forth, with my divinity, and make your will manifest with my magic."*
+
+**Description**: You are bonded to a [[Terra-Oblivia/Magic/Spirits|Spirit]] of Terra-Oblivia. It grants you magic in exchange for your service to it. You may choose the Spirit from those who already exist in the world, or work with the GM to create one. You may have been a worshipper of this Spirit, a pilgrim to their shrine, or a child whose parents asked for their blessing.
+
+**Questions to Answer**: When did the Spirit first reach you? What can its gift do? What does it want from you? Does the Spirit travel alongside you, or does it travel on its own journey?
+
+**Boons**: 
+- Spirit's Spark. You sense when it is in danger, and when other Spirits are near.
+- Blessed. You are respected and revered by those who worship your Spirit's Divine parent, akin to a Disciple of the Heavens.
+
+**Bonds**: 
+- As the Spirit weakens, so do you. If it dies, the gift dies with them. 
+- You feel it whenever the Spirit uses its power. 
+
+
+### The Cult Defector
+
+> [!quote] You - 
+> *"I Knelt before Kasayt every dawn. I can hear the lies on the Priest's tongue, there were no gifts awaiting his followers, only death... and Kasayt's fire."*
+
+**Description**: You were raised or recruited into Kasayt's cult in Ashkarad, and you got out. You know the symbols, the rites, and some of the faces, and the cult remembers you too.
+
+**Questions to Answer**: Why did you join? Why did you leave? Who did you leave behind? Did you know the Priest? Do you still believe, even a little?
+
+**Boons**: 
+- Inside Knowledge. You recognize cult signs, rituals, and ranks, and you can pass among cultists for a short time.
+
+**Bonds**: 
+- The cult hunts you as a heretic. 
+- Someone still in the cult knows you, and you owe them a great debt. They may call you back or call in a favor.
+
+### Ruin Delver
+
+> [!quote] You - 
+> *"The dead don't need riches, they just left them there for us to take. What's the harm? Besides, there's more than pretty jewels down there... the ruins are where the old world left its secrets."*
 
 **Description**: 
 
