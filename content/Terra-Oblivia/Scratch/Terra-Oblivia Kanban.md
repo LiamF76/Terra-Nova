@@ -12,7 +12,6 @@ tags:
 - [ ] [[TO Idea Dump]]
 - [ ] [[Reshaping Workpad.canvas]]
 - [ ] [[Terra-Oblivia History]]
-- [ ] [[Cult of Kasayt Campaign Brainstorm]]
 
 
 ## Major Factors

@@ -6,7 +6,7 @@ tags:
   - Terra-Oblivia
 ---
 
-This is an overview of Terra-Oblivia's history.
+This is an overview of Terra-Oblivia's history. Events are ordered chronologically, but specific years are not assigned here, just a general outline of the world's major events.
 
 # Ancient History
 

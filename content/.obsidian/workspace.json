@@ -50,19 +50,9 @@
               "icon": "lucide-trello",
               "title": "Terra-Oblivia Kanban"
             }
-          },
-          {
-            "id": "bb14e7848a0760bc",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,12 +180,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bb14e7848a0760bc",
+  "active": "54cf9fd56dc23ed6",
   "lastOpenFiles": [
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
+    "Dashboard.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Untitled",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt",
+    "Terra-Oblivia/Campaigns",
     "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
-    "Terra-Oblivia/Scratch/Cult of Kasayt Campaign Brainstorm.md",
     "Terra-Oblivia/Characters/Dragons",
     "Terra-Oblivia/History & Lore/Terra-Oblivia Timeline.md",
     "Terra-Oblivia/Geography/Terra-Oblivia Places Brainstorm.md",
@@ -204,7 +200,6 @@
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Characters/Mortals/Bellum Grail.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
-    "Dashboard.md",
     "Bellum Grail-1791501043654.webp",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Scratch/TO Idea Dump.md",
@@ -230,12 +225,8 @@
     "Terra-Nova/Characters/Spirits/Morwyn.md",
     "Terra-Nova/Characters/Spirits/Kehtoh.md",
     "Terra-Nova/Characters/Spirits/Chrysalith.md",
-    "Terra-Nova/Characters/Spirits/Bark.md",
-    "Terra-Oblivia/History & Lore/Folktales",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Space Western Storyboard.canvas",
     "Arkfall/Cosmology/Arkfall Map.canvas",
-    "Arkfall/Arkfall Books/Arkfall - Lattice and Dust",
-    "Terra-Oblivia/History & Lore",
     "z Images/The Fallen Star Coalition-1788725607437.webp",
     "Arkfall/Timeline/Arkfall Timeline V2.canvas",
     "Arkfall/Cosmology/Old Arkfall Map.canvas",
