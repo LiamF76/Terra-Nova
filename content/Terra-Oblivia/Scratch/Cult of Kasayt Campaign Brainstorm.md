@@ -54,14 +54,20 @@ These are still bullets, bear with me Daraan, it's how we work.
 - Warlord Powers:
 	- *Warlord 1*: Elf, Demon powers / Bloodstone, can turn followers into blood magic mutants. Bloodstone amulet gives them the Demon Powers.
 		- **Sana Blood-Ear**
+			- Hartwyn Promise: 
 	- *Warlord 2*: Human, Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
 		- **Bellum Grail**
+			- Hartwyn Promise: 
 	- *Warlord 3*: Dragonborn, Dragon Knight with fire powers. Bonded with the power of Kasayt. Enchanted weapon gives them the Dragon powers.
 		- **Lord Ryuu Doran**
+			- Hartwyn Promise: 
 - This makes the Priest our effective BBEG, with Kasayt the Dragon being the impending monster / threat. The party is trying to stop the Priest from creating the Demon Dragon God from Kasayt, not trying to kill Kasayt once he has already been summoned.
 	- *Priest Character:* Hartwyn and Ayla are the Syros siblings. They act as foils of one another, both raised in religion and tradition, one being with a God, divine and forgiving, peaceful traditions. One being raised in a violent cult dedicated to a vengeful Dragon.
 		- **Hartwyn Syros**: Human Priest of Kasayt in Ashkarad. Brother of Ayla Syros. Serves Kasayt having been kidnapped from the Triarch in a raid as a child, and raised to worship Kasayt. Staunch believer in Dragon Supremacy.
 - Kasayt is sealed within a magical orb that grants the Priest his powers, general cleric of a fire dragon stuff. Bonded with Kasayt for power like a warlock. Kasayt was sealed inside the Orb by a past Priest to protect him and allow the dragon to heal until Kasayt can use the Stone King to do his demon stuff.
 - The Great Spirit is alive but stuck somewhere tied to their magical domain, healing slowly since the battle. They are still weakened by the Warlord who has stolen their powers.
-- **INCITING INCIDENT**: The forces of Kasayt, a group of monsters like a big ogre and some smaller monsters attack a caravan carrying an important magical artifact on the road to Gate. 
+- **INCITING INCIDENT**: The forces of Kasayt, a group of monsters like a big ogre and some smaller monsters attack a caravan carrying an important magical artifact on the road to Gate. The party is caught up in the attack, either riding with the caravan or being nearby at the time, and they get involved. The artifact is a (broken) magical hourglass. Outcomes:
+	- *1. Raiders steal it*: Raiders escape with the artifact, fleeing towards the last shrine of the Great Spirit, planning to use the artifact to kill the Spirit permanently.
+	- *2. Party returns it to Gate*: The party stops the raiders before they get the artifact, and can return it to Gate. 
+	- *3. Party keeps it*: Alternatively they can keep it for themselves, and use its power for their own goals.
 
