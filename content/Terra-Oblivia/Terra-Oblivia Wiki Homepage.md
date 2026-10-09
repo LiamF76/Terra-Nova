@@ -14,7 +14,7 @@ Welcome to Terra-Oblivia.
 
 Terra-Oblivia is the third world in my series of "Daraan's Worlds" following behind Terra-Nova, and Arkfall.
 
-If you have previously read or played within the world of Terra-Nova, many things may feel familiar in tone, setting, theme, or even name. They may feel so similar that they seem to be the same world. They are not. Terra-Oblivia stands alone, even if it feels quite the same in many ways, it is its own world with its own history. 
+If you have previously read or played within the world of Terra-Nova, many things may feel familiar in tone, setting, theme, or even name. They may feel so similar that they seem to be the same world. That is up to you to understand and discover as you explore my world.
 
 ### Terra-Oblivia's Tone
 
