@@ -11,7 +11,7 @@ tags:
 - [ ] [[TO Workpad.canvas]]
 - [ ] [[TO Idea Dump]]
 - [ ] [[Reshaping Workpad.canvas]]
-- [ ] [[Terra-Oblivia History Workpad]]
+- [ ] [[Terra-Oblivia History]]
 - [ ] [[Cult of Kasayt Campaign Brainstorm]]
 
 
