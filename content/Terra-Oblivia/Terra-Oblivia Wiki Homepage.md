@@ -27,9 +27,15 @@ Terra-Oblivia has a unique tone I describe using a few terms:
 
 Terra-Oblivia is rife with magic, but not in the traditional sense of massive schools teaching every cantrip they can find. Magic is the world, and mortals can only wield small parts of it, often times requiring help. This world is shadowed and dangerous, far past its glory days, barely holding on. These shadows that have been cast only show the light around them brighter, and this world has many opportunities for triumph in the face of this darkness. Heroes still exist, and are needed now more than ever to lead the world into tomorrow with hope and bravery.
 
+![[Terra-Oblivia Wiki Homepage-1791521591276.webp|300x215]]
+
+---
+
 ## Terra-Oblivia's Inspirations
 
+- Malazan Book of the Fallen
 - Lord of the Rings / The Hobbit
 - The Dark Crystal
 - The Forgotten Realms
-- 
+- God of War (Modern Games)
+
