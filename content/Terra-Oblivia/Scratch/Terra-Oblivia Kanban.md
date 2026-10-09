@@ -12,6 +12,7 @@ tags:
 - [ ] [[TO Idea Dump]]
 - [ ] [[Reshaping Workpad.canvas]]
 - [ ] [[Terra-Oblivia History]]
+- [ ] [[Terra-Oblivia Wiki Homepage]]
 
 
 ## Major Factors
@@ -30,7 +31,7 @@ tags:
 - [ ] [[Terra-Oblivia Dragons]]
 - [ ] [[Terra-Oblivia Religion]]
 	- how religion works, devotion, afterlife, favor, etc
-- [ ] Terra-Oblivia Great Spirits
+- [ ] [[Terra-Oblivia Great Spirits]]
 	- reference table of great spirits, domains, etc
 
 
