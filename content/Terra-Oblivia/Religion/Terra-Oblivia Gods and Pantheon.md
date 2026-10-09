@@ -73,7 +73,7 @@ Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly t
 
 Nearly all Mortals worship the Gods in some manner, even if that worship is not reverent and respectful, they recognize the immense divine power, and influence on the world that the Gods have. There is no ambiguity about the Gods existence, those who do not worship or care for the Gods usually harbor anger towards them for being so uninvolved in mortal affairs.
 
-Gods are often given offerings as bargains. One example is the Warlords of Ashkarad, many of whom pay a blood tithe to 
+Gods are often given offerings as bargains. One example is the Warlords of Ashkarad, many of whom pay a blood tithe to Rocan Ashar and his war Spirits.
 
 ---
 
