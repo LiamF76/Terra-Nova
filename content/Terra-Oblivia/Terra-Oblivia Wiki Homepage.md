@@ -40,6 +40,8 @@ I hope to create a wide and open campaign setting where we can play multiple yea
 
 ---
 
+![[Terra-Oblivia Wiki Homepage-1791576104844.webp|300x392]]
+
 ## Terra-Oblivia's Inspirations
 
 - Malazan Book of the Fallen
