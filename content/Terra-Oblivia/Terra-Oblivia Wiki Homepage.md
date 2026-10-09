@@ -29,6 +29,15 @@ Terra-Oblivia is rife with magic, but not in the traditional sense of massive sc
 
 ![[Terra-Oblivia Wiki Homepage-1791521591276.webp|300x215]]
 
+This world is the center of a cosmic conflict that the mortals and often times those beyond mortals are not aware of. The idea of ending vs continuing. This conflict was inspired by my own inability to continue to develop one setting, as opposed to simply creating new ones. But how does this manifest?
+
+That is where the fantasy of Terra-Oblivia comes in. If i Imagine it, it goes in Terra-Oblivia. No matter how far out of scope, I adapt it, and insert it. Space ideas? Added. Funny little creatures for cozy fantasy? Added. That is why different areas of the world will feel vastly different.
+
+> [!info] Example
+> Imagine Middle-Earth. The adventures of some adorable Hobbits within the Shire would be very different from those being had by the Fellowship during the Lord of the Rings movies, even if they took place on the exact same dates. The world has an overall tone, but it it vast, and not all places experience the same vibes even during the same time periods.
+
+I hope to create a wide and open campaign setting where we can play multiple years long adventures together, without me going crazy and resetting the world over and over again. This is where we stay. Terra-Oblivia is my world, and now it is yours as well.
+
 ---
 
 ## Terra-Oblivia's Inspirations
