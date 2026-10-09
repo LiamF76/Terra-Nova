@@ -52,17 +52,17 @@
             }
           },
           {
-            "id": "585b02e6b490c2b8",
+            "id": "cb2c6c398fe0fca0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Oblivia Wiki Homepage"
+              "title": "Cult of Kasayt Campaign Primer"
             }
           }
         ],
@@ -194,12 +194,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "585b02e6b490c2b8",
+  "active": "cb2c6c398fe0fca0",
   "lastOpenFiles": [
-    "Terra-Oblivia Wiki Homepage-1791521591276.webp",
-    "z Images/Terra-Oblivia Wiki Homepage-1791520368247.webp",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
+    "Terra-Oblivia Wiki Homepage-1791521591276.webp",
+    "z Images/Terra-Oblivia Wiki Homepage-1791520368247.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
@@ -209,7 +210,6 @@
     "Terra-Oblivia/Cosmology/Planes/The Heavens.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/Geography/Terra-Oblivia Places Brainstorm.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Dashboard.md",
     "ayla.md",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
@@ -250,7 +250,6 @@
     "z Images/Lowell-1786535775977.webp",
     "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
     "z Images/Woven-1785375846466.webp",
-    "z Images/Woven-1785164095336.webp",
-    "z Images/Kairothrax-1785121499338.webp"
+    "z Images/Woven-1785164095336.webp"
   ]
 }
