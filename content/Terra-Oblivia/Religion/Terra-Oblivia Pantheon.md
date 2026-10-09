@@ -37,12 +37,38 @@ tags:
 
 ## Overview
 
-- **Origin myth:** How did the gods come to be? (self-created, born of primordial forces, ascended mortals, etc.)
-- **Cosmological seat:** Where do they reside? (a sky realm, the world itself, another plane, scattered across it)
-- **Structure:** Is there a hierarchy (king/queen of gods), a ruling council, or are they fully independent?
-- **Relationship to mortals:** Distant and unknowable? Actively involved? Worshipped, feared, bargained with?
-- **Universality:** Is this pantheon known and accepted everywhere, or do different regions/cultures interpret, name, or emphasize the gods differently despite it being the one true pantheon?
+- [x] **Origin myth:** How did the gods come to be? (self-created, born of primordial forces, ascended mortals, etc.)
+- [ ] **Cosmological seat:** Where do they reside? (a sky realm, the world itself, another plane, scattered across it)
+- [ ] **Structure:** Is there a hierarchy (king/queen of gods), a ruling council, or are they fully independent?
+- [ ] **Relationship to mortals:** Distant and unknowable? Actively involved? Worshipped, feared, bargained with?
+- [ ] **Universality:** Is this pantheon known and accepted everywhere, or do different regions/cultures interpret, name, or emphasize the gods differently despite it being the one true pantheon?
 
-The Gods of Terra-Oblivia were born from conflict, when great and powerful Dragons rose into the heavens, devoured the souls of the Old, and drank the Abyssal magics that poisoned Terra-Oblivia. This brave and heroic action restored the balance that had been eroded over ages of war and strife between the Abyss and Heavens. In this act, known as The Dawn, the world was saved from entropy, and its inevitable slow and violent end. 
+---
 
-In this change the Gods took the form of Dragons, many strange and mutated by the nature of their birth. Being a fusion of Dragons, Abyssal corruption, and former Gods, they are often frightening, and possess natures that are not entirely benevolent. 
+## Birth of the Dragon Gods
+
+The Gods of Terra-Oblivia were born from conflict, when great and powerful Dragons rose into the heavens, devoured the souls of the Old, and drank the Abyssal magics that poisoned Terra-Oblivia. A Great Spirit, a Lioness of war and courage, lured the Old Gods down to the world, and as she tricked them they were subsumed. This brave and heroic action restored the balance that had been eroded over ages of war and strife between the Abyss and Heavens. In this act, known as The Dawn, the world was saved from entropy, and its inevitable slow and violent end. 
+
+In this change the Gods took the form of Dragons, many strange and mutated by the nature of their birth. Being a fusion of Dragons, Abyssal corruption, and the Old Gods, they are often frightening, and possess natures that are not entirely benevolent. They are vastly powerful, can influence the world and mortal lives, and must be respected.
+
+---
+
+## The Gods Domain
+
+
+
+---
+
+## The Divine Hierarchy
+
+tbd
+
+---
+
+## Heaven and Mortals
+
+tbd
+
+---
+
+
