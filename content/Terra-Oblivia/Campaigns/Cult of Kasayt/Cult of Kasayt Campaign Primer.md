@@ -166,12 +166,12 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 > [!quote] You - 
 > *"The dead don't need riches, they just left them there for us to take. What's the harm? Besides, there's more than pretty jewels down there... the ruins are where the old world left its secrets."*
 
-**Description**: 
+**Description**: You are an adventurer, you have explored deep caves and ruins, high hills, and tall forests.
 
-**Questions to Answer**: 
+**Questions to Answer**: What was your first big find? What did you see that you can't explain? Which section do you most want to open?
 
 **Boons**: 
-- 
+- Delver's Eye. You can read ruins for traps, hidden doors, and old inscriptions.
 
 **Bonds**: 
 - 
