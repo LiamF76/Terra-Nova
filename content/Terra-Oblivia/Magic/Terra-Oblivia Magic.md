@@ -6,6 +6,12 @@ tags:
   - Terra-Oblivia
 ---
 
+## Magic
+
+Magic is the lifeblood of Terra-Oblivia. Magic is how the Gods of this world were born, and how the Old world ended. It is the foundation of the building, and the hammer that tears it down. As magic faded from the world, the future faded, but now Magic has reached a somewhat stable point.
+
+
+
 - Names for Mages
 	- *Magus* (plural; Magi): term for mages who are respected / accepted.
 	- *Thaum*: Mages who are not respected / outcast.

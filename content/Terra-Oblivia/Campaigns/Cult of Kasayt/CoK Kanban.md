@@ -10,6 +10,11 @@ kanban-plugin: board
 - [ ] [[Cult of Kasayt Campaign Primer]]
 
 
+## rules
+
+- [ ] [[Death and Ressurection]]
+
+
 ## Characters
 
 - [ ] [[Sana Blood-Ear]]
@@ -27,6 +32,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
