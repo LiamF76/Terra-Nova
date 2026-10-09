@@ -82,3 +82,13 @@ There are no other Gods in Terra-Oblivia. Many Gods were absorbed to form the Dr
 Many cultures worship the Gods differently, give more worship to specific Gods or sets of Gods, but they share the same names and domains across all cultures. The difference in depiction, attitude, and importance is shown across the continents.
 
 The largest representation of this is which Spirits are worshipped, as most Spirits, even Great ones, are only worshipped over certain distances. No one Spirit of a God dominates worship across the Globe.
+
+---
+
+## Links
+
+```dataview
+LIST WITHOUT ID link
+WHERE file.path = this.file.path
+FLATTEN file.outlinks AS link
+```
