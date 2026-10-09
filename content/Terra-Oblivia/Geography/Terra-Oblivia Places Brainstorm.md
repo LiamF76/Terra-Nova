@@ -8,10 +8,11 @@ tags:
 
 ## Continents
 
-| *Continent*  | *Ideas*                                         |
-| ------------ | ----------------------------------------------- |
-| **Escharra** | Contains the Triarch, The Rocan Empire, Liberos |
-| Vivarus      |                                                 |
+| *Continent*  | *Ideas*                                                                                             |
+| ------------ | --------------------------------------------------------------------------------------------------- |
+| **Escharra** | Contains the Triarch, The Rocan Empire, Liberos. Warring Kingdoms, fantasy, adventure and legend.   |
+| **Zarus**    | Cursed land, mostly consumed by cursed ruins of ancient Kingdoms. 2 Small nations along the coasts. |
+| TBD          | TBD                                                                                                 |
 
 ## Escharra Nations
 
