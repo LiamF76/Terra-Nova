@@ -39,7 +39,7 @@ tags:
 
 - [x] **Origin myth:** How did the gods come to be? (self-created, born of primordial forces, ascended mortals, etc.)
 - [x] **Cosmological seat:** Where do they reside? (a sky realm, the world itself, another plane, scattered across it)
-- [ ] **Structure:** Is there a hierarchy (king/queen of gods), a ruling council, or are they fully independent?
+- [x] **Structure:** Is there a hierarchy (king/queen of gods), a ruling council, or are they fully independent?
 - [ ] **Relationship to mortals:** Distant and unknowable? Actively involved? Worshipped, feared, bargained with?
 - [ ] **Universality:** Is this pantheon known and accepted everywhere, or do different regions/cultures interpret, name, or emphasize the gods differently despite it being the one true pantheon?
 
@@ -69,7 +69,7 @@ When the New Gods were born, they instituted a strict law, that Gods will not fi
 
 ## Gods and Mortals
 
-tbd
+Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly to their followers. 
 
 ---
 
