@@ -40,10 +40,8 @@ tags:
 - [x] **Origin myth:** How did the gods come to be? (self-created, born of primordial forces, ascended mortals, etc.)
 - [x] **Cosmological seat:** Where do they reside? (a sky realm, the world itself, another plane, scattered across it)
 - [x] **Structure:** Is there a hierarchy (king/queen of gods), a ruling council, or are they fully independent?
-- [ ] **Relationship to mortals:** Distant and unknowable? Actively involved? Worshipped, feared, bargained with?
+- [x] **Relationship to mortals:** Distant and unknowable? Actively involved? Worshipped, feared, bargained with?
 - [ ] **Universality:** Is this pantheon known and accepted everywhere, or do different regions/cultures interpret, name, or emphasize the gods differently despite it being the one true pantheon?
-
----
 
 ## Birth of the Dragon Gods
 
@@ -73,8 +71,14 @@ Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly t
 
 Nearly all Mortals worship the Gods in some manner, even if that worship is not reverent and respectful, they recognize the immense divine power, and influence on the world that the Gods have. There is no ambiguity about the Gods existence, those who do not worship or care for the Gods usually harbor anger towards them for being so uninvolved in mortal affairs.
 
-Gods are often given offerings as bargains. One example is the Warlords of Ashkarad, many of whom pay a blood tithe to Rocan Ashar and his war Spirits.
+Gods are often given offerings as bargains. One example is the Warlords of Ashkarad, many of whom pay a blood tithe to Rocan Ashar and his war Spirits. In exchange for great deeds dedicated to the domain of War, Rocan or his Spirits may grant boons, strength, or insight to the faithful. Gods never give something for nothing though, all gifts have a price.
 
 ---
 
+## The Only Pantheon
 
+There are no other Gods in Terra-Oblivia. Many Gods were absorbed to form the Dragon Gods. The original number of Old Gods is unknown, but a great number were lost. In that loss they were condensed, and there are no other Gods in this world that remain to challenge the Dragon Gods.
+
+Many cultures worship the Gods differently, give more worship to specific Gods or sets of Gods, but they share the same names and domains across all cultures. The difference in depiction, attitude, and importance is shown across the continents.
+
+The largest representation of this is which Spirits are worshipped, as most Spirits, even Great ones, are only worshipped over certain distances. No one Spirit of a God dominates worship across the Globe.
