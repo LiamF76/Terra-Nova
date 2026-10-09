@@ -13,7 +13,7 @@ tags:
 
 # Pantheon: The Dragon Gods of Terra-Oblivia
 
-## Domains Overview
+## Gods & Domains Overview
 
 | God                | Titles                                   | Domain        | *Subsumes*                                                                           |
 | ------------------ | ---------------------------------------- | ------------- | ------------------------------------------------------------------------------------ |
@@ -26,19 +26,19 @@ tags:
 | **Krokha Inam**    | Endless Hourglass, Keeper of the Sundial | *Time*        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis. |
 | **Datura Ferhaus** | Turning Head, Craft Perfected            | *Art / Labor* | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession.   |
 | **Miragrim Ysor**  | Unceasing Torrent, Howling Pathfinder    | *Sea*         | Storms, oceans, freedom, travelers, explorers, detachment.                           |
-| **Aevarus**        | Wild One,                                | *Beasts*      | Monsters, wild animals, trickery, shape-changing, sky.                               |
+| **Aevarus**        | Wild One, Spirit's Guide                 | *Beasts*      | Monsters, wild animals, trickery, shape-changing, sky.                               |
 | **Kamara Desos**   | She Who is Not, Weaver                   | *Fate*        | Destiny / Freedom, predetermination, a divine plan.                                  |
 
 ---
 
 # The Dragon Gods of Terra-Oblivia
 
-> [!summary] The Gods are the fundamental forces of the world. They were born from the fusion of the Abyssal poison across Terra-Oblivia and the spirits of Old Gods who had fallen from their thrones. Now they are Dragons, and their rule is unassailable.
+> [!summary] The Gods are the fundamental forces of the world. They were born from the fusion of the Abyssal poison across Terra-Oblivia, the dying spirits of Old Gods who had fallen from their thrones, and the souls of Great Dragons who rose and assumed the divine thrones. Now they are Dragon Gods, and their rule is unassailable. The power of the Dragon is law.
 
 ## Overview
 
 - [x] **Origin myth:** How did the gods come to be? (self-created, born of primordial forces, ascended mortals, etc.)
-- [ ] **Cosmological seat:** Where do they reside? (a sky realm, the world itself, another plane, scattered across it)
+- [x] **Cosmological seat:** Where do they reside? (a sky realm, the world itself, another plane, scattered across it)
 - [ ] **Structure:** Is there a hierarchy (king/queen of gods), a ruling council, or are they fully independent?
 - [ ] **Relationship to mortals:** Distant and unknowable? Actively involved? Worshipped, feared, bargained with?
 - [ ] **Universality:** Is this pantheon known and accepted everywhere, or do different regions/cultures interpret, name, or emphasize the gods differently despite it being the one true pantheon?
@@ -62,6 +62,8 @@ The Gods of Terra-Oblivia reside within the plane of the Heavens. This plane is 
 ## The Divine Hierarchy
 
 The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods recieve more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair.
+
+When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must determine it to be a fair challenge in comparison to the reason for the disagreement.
 
 ---
 

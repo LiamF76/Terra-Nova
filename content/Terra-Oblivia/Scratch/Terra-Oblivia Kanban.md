@@ -25,7 +25,7 @@ tags:
 ## Religion
 
 - [x] [[Reshaped Gods]]
-- [ ] [[Terra-Oblivia Pantheon]]
+- [ ] [[Terra-Oblivia Gods and Pantheon]]
 	- reference table of Gods, domains, etc
 - [ ] [[Terra-Oblivia Dragons]]
 - [ ] [[Terra-Oblivia Religion]]
