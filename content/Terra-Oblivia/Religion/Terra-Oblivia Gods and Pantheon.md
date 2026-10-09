@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Gods and Religion
+title: Terra-Oblivia Gods and Pantheon
 aliases:
   - Gods
   - Religion
