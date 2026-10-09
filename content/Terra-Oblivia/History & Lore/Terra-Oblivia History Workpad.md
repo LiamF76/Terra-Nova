@@ -18,7 +18,7 @@ tags:
 # Recent History
 
 - *3 Fronts War*: In the protected valley of the Triarch, the 3 Cities were born. In a struggle for ruling power between the 3 young cities, a new order was born. In the wake of a many years long war between the 3 settlements, a council was formed to combat the impending cataclysm of Kasayt, the Red Dragon of Ashkarad. The leaders of the Triarch chose to work together to face a shared problem instead of fighting amongst themselves. This council still rules the Triarch to this day.
-- *Kasayt's Storm*: A Red Dragon called Kasayt fused her fire with an Abyssal Storm, and led that storm towards the Triarch, hoping to destroy it and establish her new domain there. Through the allied leaders of the Triarch, combined with the magic of the Storm Seers, they diverted the storm. The magic used to protect the Valley still lingers, considered a blessing of Krokha Inam.
+- *Kasayt's Storm*: A Red Dragon called Kasayt fused her fire with an Abyssal Storm, and led that storm towards the Triarch, hoping to destroy it and establish her new domain there. Through the allied leaders of the Triarch, combined with the magic of the Storm Seers, they diverted the storm. Kasayt was deterred by the efforts of a Great Spirit, a bird who took to the skies and fought Kasayt, but died, and their name was lost.
 - 
 
 ---

@@ -12,9 +12,7 @@ tags:
 - [ ] [[TO Idea Dump]]
 - [ ] [[Reshaping Workpad.canvas]]
 - [ ] [[Terra-Oblivia History Workpad]]
-- [ ] [[Terra-Oblivia Timeline]]
 - [ ] [[Cult of Kasayt Campaign Brainstorm]]
-- [ ] [[Terra-Oblivia Map (WIP).canvas]]
 
 
 ## Major Factors
@@ -22,6 +20,7 @@ tags:
 - [ ] [[Terra-Oblivia Characters]]
 - [ ] [[Terra-Oblivia Mortals]]
 - [ ] [[Terra-Oblivia Places Brainstorm]]
+- [ ] [[Terra-Oblivia Map (WIP).canvas]]
 
 
 ## Religion

@@ -11,7 +11,7 @@ tags:
 | *Continent*  | *Ideas*                                         |
 | ------------ | ----------------------------------------------- |
 | **Escharra** | Contains the Triarch, The Rocan Empire, Liberos |
-| TBD          | TBD                                             |
+| Vivarus      |                                                 |
 
 ## Escharra Nations
 

@@ -52,34 +52,17 @@
             }
           },
           {
-            "id": "3ad88ef3f9a84cc6",
+            "id": "3fabf6fb396c5946",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
+                "file": "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Triarch"
-            }
-          },
-          {
-            "id": "81a66d06332afaff",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
-                "viewState": {
-                  "x": -112.49668162119677,
-                  "y": 73.19210358070403,
-                  "zoom": -0.7200107307235402
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Terra-Oblivia Map (WIP)"
+              "title": "Terra-Oblivia History Workpad"
             }
           }
         ],
@@ -211,13 +194,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3ad88ef3f9a84cc6",
+  "active": "3fabf6fb396c5946",
   "lastOpenFiles": [
+    "Terra-Oblivia/Scratch/Cult of Kasayt Campaign Brainstorm.md",
+    "Terra-Oblivia/Characters/Dragons",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
+    "Terra-Oblivia/History & Lore/Terra-Oblivia Timeline.md",
     "Terra-Oblivia/Geography/Terra-Oblivia Places Brainstorm.md",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
-    "Terra-Oblivia/Scratch/Cult of Kasayt Campaign Brainstorm.md",
     "Terra-Oblivia/Characters/Mortals/Bellum Grail.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Dashboard.md",
@@ -228,10 +215,8 @@
     "z Images/Sana Blood-Ear-1791499894989.webp",
     "Terra-Oblivia/Characters/Mortals",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Terra-Oblivia/History & Lore/Terra-Oblivia History Workpad.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
     "Terra-Oblivia/Reshaping WIP/Reshaped Gods.md",
-    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
     "Writing Tips/Writing Fantasy History.md",
     "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Stats and Skills.md",
     "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Overview.md",
@@ -250,13 +235,11 @@
     "Terra-Nova/Characters/Spirits/Kehtoh.md",
     "Terra-Nova/Characters/Spirits/Chrysalith.md",
     "Terra-Nova/Characters/Spirits/Bark.md",
-    "Terra-Nova/Characters/Spirits/Akicita.md",
     "Terra-Oblivia/History & Lore/Folktales",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Space Western Storyboard.canvas",
     "Arkfall/Cosmology/Arkfall Map.canvas",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust",
     "Terra-Oblivia/History & Lore",
-    "Arkfall/Cosmology/Core Worlds/Mercury",
     "z Images/The Fallen Star Coalition-1788725607437.webp",
     "Arkfall/Timeline/Arkfall Timeline V2.canvas",
     "Arkfall/Cosmology/Old Arkfall Map.canvas",
