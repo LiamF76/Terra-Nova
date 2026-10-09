@@ -3,8 +3,9 @@
 		{"id":"c13738284dd6ccda","type":"text","text":"The Material Plane","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"3a748c8c042da10f","type":"text","text":"The Abyss","x":-125,"y":80,"width":250,"height":60},
 		{"id":"d4adb311562eca3b","type":"text","text":"The Heavens","x":-125,"y":-140,"width":250,"height":60},
-		{"id":"daee151dd70ab24d","x":-420,"y":-30,"width":250,"height":60,"type":"text","text":"The Ascendant Plane"},
-		{"id":"8af786ae916b850f","x":180,"y":-30,"width":250,"height":60,"type":"text","text":"The Dream Plane"}
+		{"id":"daee151dd70ab24d","type":"text","text":"The Ascendant Plane","x":-420,"y":-30,"width":250,"height":60},
+		{"id":"8af786ae916b850f","type":"text","text":"The Dream Plane","x":180,"y":-30,"width":250,"height":60},
+		{"id":"d0580a2b86ea95bc","type":"text","text":"The Temporal Plane","x":-125,"y":-280,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"c12ab6b577d39284","fromNode":"c13738284dd6ccda","fromSide":"bottom","toNode":"3a748c8c042da10f","toSide":"top"},

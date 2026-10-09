@@ -14,13 +14,7 @@ tags:
 - [ ] [[Terra-Oblivia History Workpad]]
 - [ ] [[Terra-Oblivia Timeline]]
 - [ ] [[Cult of Kasayt Campaign Brainstorm]]
-
-
-## Tabletop Game
-
-- [ ] [[Terra-Oblivia Tabletop Overview]]
-- [ ] [[Terra-Oblivia Tabletop Classes]]
-- [ ] [[Terra-Oblivia Tabletop Stats and Skills]]
+- [ ] [[Terra-Oblivia Map (WIP).canvas]]
 
 
 ## Major Factors
@@ -83,10 +77,17 @@ tags:
 - [ ] Hartwyn and Ayla backstory
 
 
+## Tabletop Game
+
+- [ ] [[Terra-Oblivia Tabletop Overview]]
+- [ ] [[Terra-Oblivia Tabletop Classes]]
+- [ ] [[Terra-Oblivia Tabletop Stats and Skills]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,null,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false]}
 ```
 %%
