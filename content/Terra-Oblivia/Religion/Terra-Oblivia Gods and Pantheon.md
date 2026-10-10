@@ -57,6 +57,8 @@ The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some
 
 When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must vote on it being a fair challenge in comparison to the reason for the disagreement.
 
+This divine hierarchy deeply involves Spirits, through a system called the Tithe. Gods are not all powerful, and they are tied to their worship in addition to their domains. Should a God fail to recieve any worship, and be forgotten, they will die forever. Some scholars theorize this is how the Old Gods died, forgotten, and abandoned.
+
 ---
 
 ## Gods and Mortals
@@ -77,7 +79,7 @@ There are no other Gods in Terra-Oblivia. Many Gods were absorbed to form the Dr
 
 Many cultures worship the Gods differently, give more worship to specific Gods or sets of Gods, but they share the same names and domains across all cultures. The difference in depiction, attitude, and importance is shown across the continents.
 
-The largest representation of this is which Spirits are worshipped, as most Spirits, even Great ones, are only worshipped over certain distances. No one Spirit of a God dominates worship across the Globe.
+The largest representation of this is which Spirits are worshipped, as most Spirits, even Great ones, are only worshipped in specific regions they call home. No one Spirit of a God dominates worship across the world.
 
 Worship of the Old Gods, who have no names, is heretical in all places and all religions. To invoke the dead Gods is to speak to the Deep, the forgotten and dangerous forces of the world that are beyond mortal comprehension. The Old Gods are not Gods, they are dead, and deserve their fate.
 

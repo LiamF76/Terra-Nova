@@ -30,6 +30,7 @@ tags:
 	- reference table of Gods, domains, etc
 - [ ] [[Terra-Oblivia Religion]]
 	- how religion works, devotion, afterlife, favor, etc
+- [ ] [[Tithe]]
 - [ ] [[Terra-Oblivia Dragons]]
 - [ ] [[Terra-Oblivia Great Spirits]]
 	- reference table of great spirits, domains, etc
