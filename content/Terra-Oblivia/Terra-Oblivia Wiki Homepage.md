@@ -13,7 +13,7 @@ Welcome to Terra-Oblivia.
 
 ![[Terra-Oblivia Wiki Homepage-1791520368247.webp|300x356]]
 
-Terra-Oblivia is the third world in my series of "Daraan's Worlds" following behind Terra-Nova, and Arkfall.
+Terra-Oblivia is the third world in my series of "Daraan's Worlds" following behind [[Terra-Nova Wiki Homepage|Terra-Nova]], and Arkfall.
 
 If you have previously read or played within the world of Terra-Nova, many things may feel familiar in tone, setting, theme, or even name. They may feel so similar that they seem to be the same world. That is up to you to understand and discover as you explore my world.
 
@@ -59,11 +59,9 @@ write here
 
 ## Links
 
-<!-- QueryToSerialize: LIST WITHOUT ID link WHERE file.path = this.file.path FLATTEN file.outlinks AS link -->
-<!-- SerializedQuery: LIST WITHOUT ID link WHERE file.path = this.file.path FLATTEN file.outlinks AS link -->
-- ![[Terra-Oblivia Wiki Homepage-1791520368247.webp|300x356]]
-- ![[Terra-Oblivia Wiki Homepage-1791521591276.webp|300x215]]
-- ![[Terra-Oblivia Wiki Homepage-1791577298140.webp|300x486]]
-- ![[Terra-Oblivia Wiki Homepage-1791576104844.webp|300x392]]
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Terra-Nova Wiki Homepage|Terra-Nova]]
 
 <!-- SerializedQuery END -->

@@ -64,6 +64,20 @@
               "icon": "lucide-file",
               "title": "Terra-Oblivia Wiki Homepage"
             }
+          },
+          {
+            "id": "24cd7e902aa1eccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terra-Oblivia Gods and Pantheon"
+            }
           }
         ],
         "currentTab": 2
@@ -196,8 +210,9 @@
   },
   "active": "0305b4a736da4a05",
   "lastOpenFiles": [
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "Templates/Basic Template.md",
     "Dashboard.md",
     "Terra-Oblivia/Religion/Divine Champions.md",
@@ -206,7 +221,6 @@
     "Terra-Oblivia/Characters/Spirits/test guy.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Gate.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities",
-    "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "z Images/Terra-Oblivia Wiki Homepage-1791577298140.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
