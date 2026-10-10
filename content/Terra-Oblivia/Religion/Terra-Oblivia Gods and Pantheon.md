@@ -87,8 +87,10 @@ The largest representation of this is which Spirits are worshipped, as most Spir
 
 ## Links
 
-```dataview
-LIST WITHOUT ID link
-WHERE file.path = this.file.path
-FLATTEN file.outlinks AS link
-```
+<!-- QueryToSerialize: LIST WITHOUT ID link WHERE file.path = this.file.path FLATTEN file.outlinks AS link -->
+<!-- SerializedQuery: LIST WITHOUT ID link WHERE file.path = this.file.path FLATTEN file.outlinks AS link -->
+- [[Terra-Oblivia Dragons|Dragons]]
+- [[Terra-Oblivia/Magic/Spirits.md|Spirit]]
+- [[The Heavens]]
+
+<!-- SerializedQuery END -->
