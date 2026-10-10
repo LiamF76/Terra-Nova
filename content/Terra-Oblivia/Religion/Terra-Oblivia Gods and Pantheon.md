@@ -83,6 +83,8 @@ Many cultures worship the Gods differently, give more worship to specific Gods o
 
 The largest representation of this is which Spirits are worshipped, as most Spirits, even Great ones, are only worshipped over certain distances. No one Spirit of a God dominates worship across the Globe.
 
+Worship of the Old Gods, who have no names, is heretical in all places and all religions. To invoke the dead Gods is to speak to the Deep, the forgotten and dangerous forces of the world that are beyond mortal comprehension. The Old Gods are not Gods, they are dead, and deserve their fate.
+
 ---
 
 ## Links

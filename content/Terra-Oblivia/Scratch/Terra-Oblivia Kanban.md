@@ -46,6 +46,9 @@ tags:
 ## The Triarch / 3 Cities
 
 - [ ] [[The Triarch]]
+	- Knights are bound to noble houses or cities
+	- Free Knights are unbound, and can do as they please
+	- 4 Seasonal festivals / 5 Spirits culture (1 for time)
 - [ ] [[Gate]]
 	- Only road entrance to the Triarch
 	- Frontier town, most dangerous, lots of monsters to deal with
