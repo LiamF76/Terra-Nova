@@ -87,16 +87,10 @@ The largest representation of this is which Spirits are worshipped, as most Spir
 
 ## Links
 
-<!-- QueryToSerialize: LIST WITHOUT ID link WHERE file.path = this.file.path FLATTEN file.outlinks AS link -->
-<!-- SerializedQuery: LIST WITHOUT ID link WHERE file.path = this.file.path FLATTEN file.outlinks AS link -->
-- [[Terra-Oblivia Dragons|Dragons]]
-- [[Terra-Oblivia/Magic/Spirits.md|Spirit]]
-- [[The Heavens]]
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 - [[Terra-Oblivia Dragons|Dragons]]
 - [[Terra-Oblivia/Magic/Spirits.md|Spirit]]
 - [[The Heavens]]
 
 <!-- SerializedQuery END -->
-<!-- SerializedQuery: LIST WITHOUT ID link WHERE file.path = this.file.path FLATTEN file.outlinks AS link -->
-
-<!-- SerializedQuery END 

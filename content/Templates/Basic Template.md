@@ -12,4 +12,4 @@ write here
 
 ## Links
 
-<!-- QueryToSerialize: LIST WITHOUT ID link WHERE file.path = this.file.path FLATTEN file.outlinks AS link -->
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
