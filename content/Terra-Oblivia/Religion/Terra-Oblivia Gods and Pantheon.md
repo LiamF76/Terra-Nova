@@ -33,19 +33,13 @@ tags:
 
 # The Dragon Gods of Terra-Oblivia
 
-> [!summary] The Gods are the fundamental forces of the world. They were born from the fusion of the Abyssal poison across Terra-Oblivia, the dying spirits of Old Gods who had fallen from their thrones, and the souls of Great Dragons who rose and assumed the divine thrones. Now they are Dragon Gods, and their rule is unassailable. The power of the Dragon is law.
-
 ## Overview
 
-- [x] **Origin myth:** How did the gods come to be? (self-created, born of primordial forces, ascended mortals, etc.)
-- [x] **Cosmological seat:** Where do they reside? (a sky realm, the world itself, another plane, scattered across it)
-- [x] **Structure:** Is there a hierarchy (king/queen of gods), a ruling council, or are they fully independent?
-- [x] **Relationship to mortals:** Distant and unknowable? Actively involved? Worshipped, feared, bargained with?
-- [ ] **Universality:** Is this pantheon known and accepted everywhere, or do different regions/cultures interpret, name, or emphasize the gods differently despite it being the one true pantheon?
+> [!summary] The Gods are the fundamental forces of the world. They were born from the fusion of the Abyssal poison across Terra-Oblivia, the dying spirits of Old Gods who had fallen from their thrones, and the souls of Great Dragons who rose and assumed the divine thrones. Now they are Dragon Gods, and their rule is unassailable. The power of the Dragon is law.
 
 ## Birth of the Dragon Gods
 
-The Gods of Terra-Oblivia were born from conflict, when great and powerful [[Terra-Oblivia Dragons|Dragons]] rose into the heavens, devoured the souls of the Old, and drank the Abyssal magics that poisoned Terra-Oblivia. A Great Lioness [[Terra-Oblivia/Magic/Spirits|Spirit]] schemed alongside the Dragons. She lured the Old Gods down to the world, and tricked them into being devoured. This brave and heroic action restored the balance that had been eroded over ages of war and strife between the Abyss and Heavens. In this act, known as The Dawn, the world was saved from entropy, and its inevitable slow and violent end. 
+The Gods of Terra-Oblivia were born from conflict, when great and powerful [[Terra-Oblivia Dragons|Dragons]] rose, devoured the souls of the Old, and drank the Abyssal magics that poisoned Terra-Oblivia. A Great Lioness [[Terra-Oblivia/Magic/Spirits|Spirit]] schemed alongside the Dragons. She lured the Old Gods down to the world, and tricked them into being devoured. This brave and heroic action restored the balance that had been eroded over ages of war and strife between the Abyss and Heavens. In this act, known as The Dawn, the world was saved from entropy, and its inevitable slow and violent end. 
 
 In this change the Gods took the form of Dragons, many strange and mutated by the nature of their birth. Being a fusion of Dragons, Abyssal corruption, and the Old Gods, they are often frightening, and possess natures that are not entirely benevolent. They are vastly powerful, can influence the world and mortal lives, and must be respected.
 
@@ -53,13 +47,13 @@ In this change the Gods took the form of Dragons, many strange and mutated by th
 
 ## Heaven: The Gods Plane
 
-The Gods of Terra-Oblivia reside within the plane of the Heavens. This plane is divided between each of the Gods, where each one possesses a near endless domain shaped in their own image. For more information see [[The Heavens]]. Each God has their own domain, when Gods meet they agree on which God's domain to travel to, and when all Gods meet they do so in the domain of Krokha Inam.
+The Gods of Terra-Oblivia reside within the plane of [[The Heavens]]. This plane is divided between each of the Gods, where each one possesses a near endless domain shaped in their own image. For more information see the Heavens. Each God has their own domain, when Gods meet they agree on which God's domain to travel to, and when all Gods meet they do so in the domain of Krokha Inam.
 
 ---
 
 ## The Divine Hierarchy
 
-The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods recieve more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair. These Gods are generally independent, though some maintain more contact with each other than others do. It is entirely within the nature of Gods to be silent, or highly communicative amongst themselves.
+The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods receive more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair. These Gods are generally independent, though some maintain more contact with each other than others do. It is entirely within the nature of Gods to be silent, or highly communicative amongst themselves.
 
 When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must vote on it being a fair challenge in comparison to the reason for the disagreement.
 
@@ -67,7 +61,7 @@ When the New Gods were born, they instituted a strict law, that Gods will not fi
 
 ## Gods and Mortals
 
-Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly to their followers. Communication is most commonly done directly to Champions and Great Spirits, and occasionally to Minor Spirits as well. It is nearly unheard of for a God to speak to a regular mortal follower, and never before seen for a God to talk to a regular mortal who does not worship them.
+Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly to their followers. Communication is most commonly done directly to [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]] and Great Spirits, and occasionally to Minor Spirits as well. It is nearly unheard of for a God to speak to a regular mortal follower, and never before has a God to spoken to a regular mortal who does not worship them.
 
 Nearly all Mortals worship the Gods in some manner, even if that worship is not reverent and respectful, they recognize the immense divine power, and influence on the world that the Gods have. There is no ambiguity about the Gods existence, those who do not worship or care for the Gods usually harbor anger towards them for being so uninvolved in mortal affairs.
 
