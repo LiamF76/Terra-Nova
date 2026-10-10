@@ -64,6 +64,20 @@
               "icon": "lucide-file",
               "title": "Terra-Oblivia Gods and Pantheon"
             }
+          },
+          {
+            "id": "82492babe5c509e4",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://developassion.gitbook.io/obsidian-dataview-serializer/usage",
+                "title": "Usage | Obsidian Dataview Serializer",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Usage | Obsidian Dataview Serializer"
+            }
           }
         ],
         "currentTab": 2
@@ -115,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.60546875
+    "width": 308.08984375
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -196,9 +210,9 @@
   },
   "active": "590eb465a337fc47",
   "lastOpenFiles": [
+    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Dashboard.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Religion/Divine Champions.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
