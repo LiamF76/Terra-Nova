@@ -67,6 +67,8 @@ Nearly all Mortals worship the Gods in some manner, even if that worship is not 
 
 Gods are often given offerings as bargains. One example is the Warlords of Ashkarad, many of whom pay a blood tithe to Rocan Ashar and his war Spirits. In exchange for great deeds dedicated to the domain of War, Rocan or his Spirits may grant boons, strength, or insight to the faithful. Gods never give something for nothing though, all gifts have a price.
 
+For more informations on specific worship practices and groups, see [[Terra-Oblivia Gods and Pantheon|Religion]].
+
 ---
 
 ## The Only Pantheon
