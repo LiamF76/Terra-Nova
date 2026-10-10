@@ -92,8 +92,8 @@ The largest representation of this is which Spirits are worshipped, as most Spir
 - [[Terra-Oblivia Dragons|Dragons]]
 - [[Terra-Oblivia/Magic/Spirits.md|Spirit]]
 - [[The Heavens]]
-- [[Terra-Oblivia Dragons|Dragons]]
-- [[Terra-Oblivia/Magic/Spirits.md|Spirit]]
-- [[The Heavens]]
+
+<!-- SerializedQuery END -->
+<!-- SerializedQuery: LIST WITHOUT ID link WHERE file.path = this.file.path FLATTEN file.outlinks AS link -->
 
 <!-- SerializedQuery END 
