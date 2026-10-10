@@ -22,8 +22,51 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "8683c6d3c0ee56f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Terra-Oblivia Kanban"
+            }
+          },
+          {
+            "id": "590eb465a337fc47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terra-Oblivia Gods and Pantheon"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,10 +194,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "590eb465a337fc47",
   "lastOpenFiles": [
-    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Dashboard.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Religion/Divine Champions.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
@@ -168,7 +212,6 @@
     "Terra-Oblivia/Terra-Oblivia Tabletop Game/Death and Ressurection.md",
     "z Images/Terra-Oblivia Wiki Homepage-1791576104844.webp",
     "Theme Test Note.md",
-    "Dashboard.md",
     "Templates/Party Role Template.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
