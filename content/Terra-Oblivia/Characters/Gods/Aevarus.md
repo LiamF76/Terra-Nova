@@ -7,11 +7,13 @@ Created: 2026-10-11
 ---
 
 # Aevarus
-#### Titles: Wild One, Spirit's Guide
+#### Titles: Wild One, Spirit's Guide, King of Beasts, Feathered Crown
 **Domain**: Beasts, monsters, wild animals, trickery, shape-changing, sky.
-**One-line summary**: Aevarus is 
+**One-line summary**: Aevarus, 
 
 ---
+
+![[Aevarus-1791752837120.webp|300x420]]
 
 ## Nature
 Dragon form: (what they look like, and how their birth mutated them)

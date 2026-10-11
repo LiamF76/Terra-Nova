@@ -26,7 +26,7 @@ tags:
 | Krokha Inam    | *Endless Hourglass, Keeper of the Sundial* | **Time**        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis. |
 | Datura Ferhaus | *Turning Head, Craft Perfected*            | **Art / Labor** | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession.   |
 | Miragrim Ysor  | *Unceasing Torrent, Howling Pathfinder*    | **Sea**         | Storms, oceans, freedom, travelers, explorers, detachment.                           |
-| Aevarus        | *Wild One, Spirit's Guide*                 | **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky.                               |
+| Aevarus        |                                            | **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky.                               |
 | Kamara Desos   | *She Who is Not, Weaver*                   | **Fate**        | Destiny / Freedom, predetermination, a divine plan.                                  |
 
 ---
