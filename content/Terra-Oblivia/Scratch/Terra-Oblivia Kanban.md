@@ -37,12 +37,26 @@ tags:
 - [ ] [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]]
 
 
+## Gods
+
+- [ ] [[Aevarus]]
+- [ ] [[Terra-Oblivia/Characters/Gods/Balthazaar|Balthazaar]]
+- [ ] [[Datura Ferhaus]]
+- [ ] [[Erasaad]]
+- [ ] [[Kamara Desos]]
+- [ ] [[Krokha Inam]]
+- [ ] [[Lumena]]
+- [ ] [[Miragrim Ysor]]
+- [ ] [[Oa Maton]]
+- [ ] [[Rocan Ashar]]
+- [ ] [[Vespar Telarum]]
+
+
 ## Magic
 
 - [ ] [[Terra-Oblivia Magic]]
 - [ ] [[Abyssal Storm]]
 - [ ] [[Terra-Oblivia/Magic/Spirits|Spirits]]
-- [ ] [[Terra-Oblivia Planes.canvas]]
 
 
 ## The Triarch / 3 Cities
@@ -90,10 +104,22 @@ tags:
 - [ ] [[Terra-Oblivia Tabletop Stats and Skills]]
 
 
+## Planes
+
+- [ ] [[Terra-Oblivia Planes.canvas]]
+- [ ] [[The Material Plane]]
+- [ ] [[The Abyss]]
+- [ ] [[The Ascendant Plane]]
+- [ ] [[The Dream Plane]]
+- [ ] [[The Heavens]]
+- [ ] [[The Primordium]]
+- [ ] [[Temporal Plane]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false]}
 ```
 %%

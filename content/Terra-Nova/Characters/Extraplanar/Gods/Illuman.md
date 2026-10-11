@@ -42,5 +42,5 @@ When he does show his face, it is a falsehood, created to serve a purpose. He of
 ## Important Info
 - God of Light
 - Embodiment of the Sun, Nova Magnus, and Keeper of Elysium, the city of the afterlife built on Nova Magnus's surface.
-- Twin brother of [[Balthazaar]].
+- Twin brother of [[Terra-Nova/Characters/Extraplanar/Gods/Balthazaar]].
 - 

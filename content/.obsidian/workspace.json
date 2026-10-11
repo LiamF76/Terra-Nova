@@ -42,6 +42,8 @@
                     false,
                     false,
                     false,
+                    false,
+                    false,
                     false
                   ]
                 }
@@ -52,22 +54,17 @@
             }
           },
           {
-            "id": "9775cea8ff21050f",
+            "id": "8ae645ab5a9193d3",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
-                "viewState": {
-                  "x": 58.01,
-                  "y": -19.780000000000022,
-                  "zoom": 0
-                }
+                "file": "Terra-Oblivia/Characters/Gods/Aevarus.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Terra-Oblivia Planes"
+              "icon": "lucide-file",
+              "title": "Aevarus"
             }
           }
         ],
@@ -199,40 +196,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9775cea8ff21050f",
+  "active": "8ae645ab5a9193d3",
   "lastOpenFiles": [
-    "Terra-Oblivia/Cosmology/Planes/The Abyss.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Templates/God Template.md",
+    "Terra-Oblivia/Characters/Gods/Aevarus.md",
+    "Templates/Insert Statblock.md",
+    "Templates/Homebrew Spell Template.md",
+    "Templates/Divine Pantheon Template.md",
+    "Templates/Basic Template.md",
+    "Templates/Character Template.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+    "Terra-Oblivia/Characters/Gods/Kamara Desos.md",
+    "Terra-Oblivia/Characters/Gods/Miragrim Ysor.md",
+    "Terra-Oblivia/Characters/Gods/Datura Ferhaus.md",
+    "Terra-Oblivia/Characters/Gods/Krokha Inam.md",
+    "Terra-Oblivia/Characters/Gods/Vespar Telarum.md",
+    "Terra-Oblivia/Characters/Gods/Rocan Ashar.md",
+    "Terra-Oblivia/Characters/Gods/Oa Maton.md",
+    "Terra-Oblivia/Characters/Gods/Erasaad.md",
+    "Terra-Oblivia/Characters/Gods/Balthazaar.md",
+    "Terra-Oblivia/Characters/Gods/Lumena.md",
+    "Terra-Oblivia/Characters/Gods",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
+    "Terra-Oblivia/Cosmology/Planes/The Primordium.md",
+    "Terra-Oblivia/Cosmology/Planes/The Material Plane.md",
+    "Terra-Oblivia/Cosmology/Planes/The Abyss.md",
     "Terra-Oblivia/Cosmology/Planes/The Dream Plane.md",
     "Terra-Oblivia/Cosmology/Planes/The Ascendant Plane.md",
     "Terra-Oblivia/Cosmology/Planes/Temporal Plane.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
-    "Terra-Oblivia/Magic/Tithe.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
-    "Dashboard.md",
-    "Templates/Basic Template.md",
-    "Terra-Oblivia/Religion/Divine Champions.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
-    "Terra-Oblivia/Characters/Spirits/test guy.md",
-    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Gate.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities",
     "z Images/Terra-Oblivia Wiki Homepage-1791577298140.webp",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
-    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Death and Ressurection.md",
     "z Images/Terra-Oblivia Wiki Homepage-1791576104844.webp",
-    "Theme Test Note.md",
-    "Templates/Party Role Template.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
-    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
-    "Terra-Oblivia/Geography/Terra-Oblivia Places Brainstorm.md",
     "Terra-Oblivia/Campaigns/Untitled",
     "z Images/Terra-Oblivia Wiki Homepage-1791521591276.webp",
     "z Images/Terra-Oblivia Wiki Homepage-1791520368247.webp",
-    "Terra-Oblivia/Species/Terra-Oblivia Dragons.md",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Untitled",
     "Terra-Oblivia/Campaigns/Cult of Kasayt",
@@ -246,7 +245,6 @@
     "Tabletop Systems",
     "Writing Tips/Untitled",
     "Terra-Oblivia/Groups/Ashkarad Government.canvas",
-    "Terra-Oblivia/Groups",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Space Western Storyboard.canvas",
     "Arkfall/Cosmology/Arkfall Map.canvas",
     "z Images/The Fallen Star Coalition-1788725607437.webp",

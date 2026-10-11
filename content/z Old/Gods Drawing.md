@@ -11,7 +11,7 @@ tags: [excalidraw]
 ## Text Elements
 Illuman ^8ibYDOzv
 
-[[Balthazaar]] ^ZBhnbBGe
+[[Terra-Nova/Characters/Extraplanar/Gods/Balthazaar]] ^ZBhnbBGe
 
 Shao Daraan ^pTENDg3T
 

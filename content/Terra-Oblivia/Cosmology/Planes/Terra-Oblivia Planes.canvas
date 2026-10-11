@@ -5,8 +5,8 @@
 		{"id":"8af786ae916b850f","type":"text","text":"The Dream Plane","x":180,"y":-140,"width":250,"height":60},
 		{"id":"daee151dd70ab24d","type":"text","text":"The Ascendant Plane","x":-420,"y":-140,"width":250,"height":60},
 		{"id":"3a748c8c042da10f","type":"text","text":"The Abyss","x":-125,"y":180,"width":250,"height":60},
-		{"id":"c74d3cabf82c2ac1","x":-125,"y":80,"width":250,"height":60,"type":"text","text":"The Primordial Plane"},
-		{"id":"d0580a2b86ea95bc","type":"text","text":"The Temporal Plane","x":-125,"y":-240,"width":250,"height":60}
+		{"id":"d0580a2b86ea95bc","type":"text","text":"The Temporal Plane","x":-295,"y":-240,"width":250,"height":60},
+		{"id":"c74d3cabf82c2ac1","x":55,"y":-240,"width":250,"height":60,"type":"text","text":"The Primordium"}
 	],
 	"edges":[
 		{"id":"8ec2f44f64df22ac","fromNode":"c13738284dd6ccda","fromSide":"top","toNode":"d4adb311562eca3b","toSide":"bottom"},
