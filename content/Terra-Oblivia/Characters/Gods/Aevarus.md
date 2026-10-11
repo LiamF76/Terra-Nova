@@ -7,9 +7,9 @@ Created: 2026-10-11
 ---
 
 # Aevarus
-#### Titles: 
-**Domain**: 
-**One-line summary**: 
+#### Titles: Wild One, Spirit's Guide
+**Domain**: Beasts, monsters, wild animals, trickery, shape-changing, sky.
+**One-line summary**: Aevarus is 
 
 ---
 

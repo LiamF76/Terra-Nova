@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "Terra-Oblivia/Characters/Gods/Aevarus.md",
-      "timestamp": 1791746483868
+      "timestamp": 1791747414027
+    },
+    {
+      "filepath": "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+      "timestamp": 1791747412279
     },
     {
       "filepath": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-      "timestamp": 1791746482583
+      "timestamp": 1791747089740
     },
     {
       "filepath": "Templates/God Template.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Templates/Insert Statblock.md",
       "timestamp": 1791746241923
-    },
-    {
-      "filepath": "Templates/Homebrew Spell Template.md",
-      "timestamp": 1791746241421
     }
   ],
   "bookmarkedFileStore": [],
