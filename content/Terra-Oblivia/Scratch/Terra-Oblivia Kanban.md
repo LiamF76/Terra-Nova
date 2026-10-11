@@ -42,6 +42,7 @@ tags:
 - [ ] [[Terra-Oblivia Magic]]
 - [ ] [[Abyssal Storm]]
 - [ ] [[Terra-Oblivia/Magic/Spirits|Spirits]]
+- [ ] [[Terra-Oblivia Planes.canvas]]
 
 
 ## The Triarch / 3 Cities

@@ -52,17 +52,22 @@
             }
           },
           {
-            "id": "ef36402d213fa794",
+            "id": "9775cea8ff21050f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
-                "mode": "source",
-                "source": false
+                "file": "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
+                "viewState": {
+                  "x": 58.01,
+                  "y": -19.780000000000022,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Terra-Oblivia Wiki Homepage"
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Terra-Oblivia Planes"
             }
           }
         ],
@@ -194,15 +199,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ef36402d213fa794",
+  "active": "9775cea8ff21050f",
   "lastOpenFiles": [
+    "Terra-Oblivia/Cosmology/Planes/The Abyss.md",
+    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
+    "Terra-Oblivia/Cosmology/Planes/The Dream Plane.md",
+    "Terra-Oblivia/Cosmology/Planes/The Ascendant Plane.md",
+    "Terra-Oblivia/Cosmology/Planes/Temporal Plane.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+    "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "Terra-Oblivia/Magic/Tithe.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Dashboard.md",
     "Templates/Basic Template.md",
-    "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "Terra-Oblivia/Religion/Divine Champions.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
@@ -223,18 +233,12 @@
     "z Images/Terra-Oblivia Wiki Homepage-1791521591276.webp",
     "z Images/Terra-Oblivia Wiki Homepage-1791520368247.webp",
     "Terra-Oblivia/Species/Terra-Oblivia Dragons.md",
-    "Terra-Oblivia/Cosmology/Planes/The Heavens.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
-    "ayla.md",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
-    "Terra-Oblivia/Characters/Mortals/Sana Blood-Ear.md",
-    "Terra-Oblivia/Characters/Dragons/Kasayt.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Untitled",
     "Terra-Oblivia/Campaigns/Cult of Kasayt",
     "Terra-Oblivia/Campaigns",
     "Terra-Oblivia/Characters/Dragons",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
-    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "z Images/Bellum Grail-1791501043654.webp",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "z Images/Sana Blood-Ear-1791499894989.webp",
