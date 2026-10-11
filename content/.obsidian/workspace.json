@@ -52,17 +52,17 @@
             }
           },
           {
-            "id": "4929a456f530c074",
+            "id": "ef36402d213fa794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+                "file": "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Oblivia Gods and Pantheon"
+              "title": "Terra-Oblivia Wiki Homepage"
             }
           }
         ],
@@ -194,11 +194,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4929a456f530c074",
+  "active": "ef36402d213fa794",
   "lastOpenFiles": [
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Magic/Tithe.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+    "Terra-Oblivia/Magic/Tithe.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Dashboard.md",
     "Templates/Basic Template.md",
