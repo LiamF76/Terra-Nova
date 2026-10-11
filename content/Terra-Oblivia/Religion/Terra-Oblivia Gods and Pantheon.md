@@ -17,7 +17,7 @@ tags:
 
 | God            | Titles                                     | Domain          | Subsumes                                                                             |
 | -------------- | ------------------------------------------ | --------------- | ------------------------------------------------------------------------------------ |
-| Lumena         | *Face of Dawn, Proud Mother*               | **Light**       | Light, life, hierarchy, and nature, superiority.                                     |
+| Lumena         | *Face of Dawn, Green Mother*               | **Light**       | Light, life, hierarchy, and nature, superiority.                                     |
 | Balthazaar     | *He Who Slithers*                          | **Darkness**    | Darkness, chaos, the occult.                                                         |
 | Erasaad        | *Lord of Twilight*                         | **Death**       | Death, the dead, sleep, dreams.                                                      |
 | Oa Maton       | *Ever-Balanced*                            | **Balance**     | Balance, justice, revenge, punishment, penance, extremity.                           |
