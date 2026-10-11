@@ -10,7 +10,7 @@ tags:
 ### AKA: The 3 Cities, The Valley
 
 **One-sentence summary**: The Triarch is a defensive alliance of three fortress cities: Bastion, Citadel, and Gate, sharing council rule over a mountain-locked valley, built on caution and survival rather than conquest or glory.
-**What makes it unique**: 
+**What makes it unique**: The Triarch is entirely within a massive Valley, and protected by both Mortals and Spirits alike. The mountains that line the entire valley are nearly impossible to traverse, making the entrance at Gate a crucial defense point.
 
 ---
 
