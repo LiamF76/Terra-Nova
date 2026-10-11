@@ -9,7 +9,7 @@ Created: 2026-10-11
 # Aevarus
 #### Titles: Wild One, Spirit's Guide, King of Beasts, Feathered Crown
 **Domain**: Beasts, monsters, wild animals, trickery, shape-changing, sky.
-**One-line summary**: Aevarus, 
+**One-line summary**: Aevarus, with wings as wide as the sky and a heart as wild as a beast, this beastly-dragon shepards the creatures of the land and the blue expanse above them.
 
 ---
 
