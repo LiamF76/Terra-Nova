@@ -7,103 +7,107 @@ tags:
 ---
 
 # The Triarch
-### AKA: The 3 Cities
+### AKA: The 3 Cities, The Valley
 
-One-sentence summary: **The Triarch** is a defensive alliance of three fortress cities: Bastion, Citadel, and Gate, sharing council rule over a mountain-locked valley, built on caution and survival rather than conquest or glory.
-What makes it unique: 
+**One-sentence summary**: The Triarch is a defensive alliance of three fortress cities: Bastion, Citadel, and Gate, sharing council rule over a mountain-locked valley, built on caution and survival rather than conquest or glory.
+**What makes it unique**: 
 
-## 1. Geography & Environment
+---
 
-Location on the continent: Central
-Climate & biomes: Continental, warm summers, cold winters, all 4 seasons.
+## Geography & Environment
 
-Major natural features:
-- Mountains:
+**Location on the continent**: Central, entirely contained within the Triarch Valley
+**Climate & biomes**: Continental, warm summers, cold winters, all 4 seasons.
+
+**Major natural features**:
+- *Mountains*: 
 	- Cloud-Cutter Peaks: tall mountain range that surrounds the entire valley. 
-- Rivers: 
+- *Rivers*: 
 	- Sky's Tear River: Largest river in the valley, runs from the Cloud-Cutter Peaks of ever melting snow down into the heart of the valley.
-- Forests: 
-	- 
-- Deserts / Wastes: 
-	- 
-- Magical anomalies: 
-	- 
+- *Forests*: 
+- *Deserts / Wastes*: 
+- *Magical anomalies*: 
 
-Environmental magic (if any):
-- Mana-rich zones or ley-like effects: 
-- Spirit presence: 
-- Abyssal / Scarred zones: 
+**Environmental magic (if any)**:
+- *Mana-rich zones or leyline effects*: 
+- *Spirit presence*: 
+- *Abyssal / Scarred zones*: 
 
-## 2. History
+---
 
-Founding myth / origin: 
-Major eras (rise, golden age, decline, present): 
-Key historical events: 
-Relationship to the Reshaping: 
+## History
 
-## 3. Government & Power Structure
+**Founding myth / origin**: 
+**Major eras (rise, golden age, decline, present)**: 
+**Key historical events**: 
+**Relationship to the Reshaping**: 
 
-Government type: 
-Ruling body / leader(s): 
-Noble houses / power factions: 
-How magic influences politics: 
-Foreign relations: 
+---
 
-## 4. Culture & Society
+## Government & Power Structure
 
-Population makeup (races present, ratios, notable minorities): 
-Values & ideals: 
-Religion & spiritual beliefs (which God/Great Spirit, if any): 
-Traditions & festivals: 
-Art, music, aesthetics: 
-Education & magic training: 
-Attitudes toward outsiders: 
+**Government type**: 
+**Ruling body / leader(s)**: 
+**Noble houses / power factions**: 
+**How magic influences politics**: 
+**Foreign relations**: 
 
-## 5. Economy
+---
 
-Primary resources: 
-Magical resources: 
-Trade partners: 
-Currency / wealth systems: 
-Industries & crafts: 
+## Culture & Society
 
-## 6. Magic & Supernatural Elements
+**Population makeup (races present, ratios, notable minorities)**: 
+**Values & ideals**: 
+**Religion & spiritual beliefs (which God/Great Spirit, if any)**: 
+**Traditions & festivals**: 
+**Art, music, aesthetics**: 
+**Education & magic training**: 
+**Attitudes toward outsiders**: 
 
-How common is magic here: 
-Dominant magic origins (Pact / Ancestry / Artifice / Old Rites): 
-Dominant mage specialties (Cinder / Scarred / Stormseer / etc.): 
-Magical infrastructure: 
-Forbidden magic: 
+---
 
-## 7. Military & Defense
+## Economy
 
-Military structure: 
-Elite units: 
-Magical warfare: 
-Defensive infrastructure: 
-Threats (internal & external): 
+**Primary resources**: 
+**Magical resources**: 
+**Trade partners**: 
+**Currency / wealth systems**: 
+**Industries & crafts**: 
 
-## 8. Cities & Regions
+---
 
-Capital / seat of power: 
-Major cities: 
-Unique regions (ruins, adventure sites, dangerous zones): 
+## Magic & Supernatural Elements
 
-## 9. Notable People
+**How common is magic here**: 
+**Dominant magic origins (Pact / Ancestry / Artifice / Old Rites)**: 
+**Dominant mage specialties (Cinder / Scarred / Stormseer / etc.)**: 
+**Magical infrastructure**: 
+**Forbidden magic**: 
 
-Rulers: 
-Faction leaders: 
-Heroes / villains: 
-Scholars / mages: 
-Legends / mythic figures: 
+---
 
-## 10. Adventure Hooks
+## Military & Defense
 
-Political: 
-Magical: 
-Exploration: 
-Cultural: 
-Threat: 
+**Military structure**: 
+**Elite units**: 
+**Magical warfare**: 
+**Defensive infrastructure**: 
+**Threats (internal & external)**: 
 
-## Open Questions
-- 
+---
+
+## Cities & Regions
+
+**Capital / seat of power**: 
+**Major cities**: 
+**Unique regions (ruins, adventure sites, dangerous zones)**: 
+
+---
+
+## Notable People
+
+**Rulers**: 
+**Faction leaders**: 
+**Heroes / villains**: 
+**Scholars / mages**: 
+**Legends / mythic figures**: 

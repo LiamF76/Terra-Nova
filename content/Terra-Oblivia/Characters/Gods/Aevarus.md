@@ -3,6 +3,7 @@ publish: false
 title: Aevarus
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-11
 ---
 

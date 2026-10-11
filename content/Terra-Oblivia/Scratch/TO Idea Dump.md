@@ -12,5 +12,6 @@ tags:
 - Surge Wars. 2 Wars between twin Blue Dragon Siblings and their armies vs the Triarch. Important piece of history as it showed the Dragons are not invincible and that they are willing to attack the Triarch if they can pull themselves from Ashkarad's conflicts.
 - Where do Ashkarad's Warlords get supplies / weapons from?
 - Legion of Two Deaths: Necromancer Warlord who raises soldiers who fall in battle to fight again
+- Pilgrim Knights, Knights who serve no noble house, city, or king. They serve the people and the land as protectors and keepers of the peace.
 - 
 
