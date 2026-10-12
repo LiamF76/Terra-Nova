@@ -57,6 +57,7 @@ tags:
 - [ ] [[Terra-Oblivia Magic]]
 - [ ] [[Abyssal Storm]]
 - [ ] [[Terra-Oblivia/Magic/Spirits|Spirits]]
+- [ ] [[Storm-Seer]]
 
 
 ## Planes

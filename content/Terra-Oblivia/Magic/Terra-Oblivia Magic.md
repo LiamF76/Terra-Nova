@@ -6,7 +6,7 @@ tags:
   - Terra-Oblivia
 ---
 
-## Magic
+# Magic
 
 Magic is the lifeblood of Terra-Oblivia. Magic is how the Gods of this world were born, and how the Old world ended. It is the foundation of the building, and the hammer that tears it down. As magic faded from the world, the future faded, but now Magic has reached a somewhat stable point.
 
@@ -19,6 +19,7 @@ Magic is the lifeblood of Terra-Oblivia. Magic is how the Gods of this world wer
 	- *Thaum*: Mages who are not respected / outcast.
 	- *Cinder*: Mages who use fire magic, negative in some areas positive in others.
 	- *Scarred*: Mages who have Demonic / Abyssal connections or use Demonic / Abyssal magic like blood magic.
+	- *???*: Term for users of Old Rites
 	- *Stormseer*: Mages who can navigate Abyssal Storms, essential to long distance travel.
 	- *Blessed*: Mages who carry heavenly magic in any capacity, healing, smiting, or anything like that. Respected. 
 	- *Mystic*: Term of ultimate respect for a Mage. To call one Mystic is to assign them the title of a great master of magic, one who is supremely powerful.
