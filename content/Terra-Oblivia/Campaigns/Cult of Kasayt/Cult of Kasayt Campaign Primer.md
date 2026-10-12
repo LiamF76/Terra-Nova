@@ -64,7 +64,11 @@ For this campaign we will be trying something new. Party roles inspired by the r
 
 ### Backstory Knives
 
-tbd
+Backstory knives, in my own words, are unresolved pieces of your character's life that can be used in the future. There is a clear outline available [here](https://www.reddit.com/r/DnD/comments/775caq/my_friends_and_i_have_something_called_knife/) in text, and [here](https://youtu.be/jWtDBHYl06E) in video format. Please use this to develop your character's backstory, and maintain it / send it to me somehow. This can be done in a google doc, a discord dm, or any other form of shareable text.
+
+For reference, I feel 7 knives is best, if you have more that's ok, just understand I may not get to use all of them, and if you have less that's ok, just understand your character may not be as involved with their backstory if I have less to work on.
+
+I save these backstories and knives when you tell me they are finished in my Obsidian vault, and I reference them frequently to develop sessions and the story. If you make updates or changes, let me know. if you need help making updates or changes, talk to me! We can do it together.
 
 ---
 
