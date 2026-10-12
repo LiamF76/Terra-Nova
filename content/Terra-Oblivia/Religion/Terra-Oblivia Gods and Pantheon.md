@@ -53,11 +53,13 @@ The Gods of Terra-Oblivia reside within the plane of [[The Heavens]]. This plane
 
 ## The Divine Hierarchy
 
-| Divine Hierarchy Reference Image |
-| -------------------------------- |
-|                                  |
+| Divine Hierarchy Reference Image                             |
+| ------------------------------------------------------------ |
+| ![[Terra-Oblivia Gods and Pantheon-1791837762827.webp\|600]] |
 
 The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods receive more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair. These Gods are generally independent, though some maintain more contact with each other than others do. It is entirely within the nature of Gods to be silent, or highly communicative amongst themselves.
+
+Between the Gods, Spirits, and Divine Champions there is a strict order. Spirits govern dealings between the Gods and their followers, and are strictly forbidden from interfering in mortal affairs. Divine Champions however are encouraged to use their blessings to sway mortal affairs. They fight in wars, rule nations, and spread their Gods religion across the land freely. Spirits are akin to saints, and Champions are like missionaries. See these links for more information on how [[Terra-Oblivia Dragons|Dragons]] and [[Dragonborn]] fit into this system.
 
 When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses their Divine Champion or one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must vote on it being a fair challenge in comparison to the reason for the disagreement.
 
@@ -107,6 +109,8 @@ Worship of the Old Gods, who have no names, is heretical in all places and all r
 - [[Terra-Oblivia Dragons|Dragons]]
 - [[Terra-Oblivia/Magic/Spirits.md|Spirit]]
 - [[The Heavens]]
+- [[Terra-Oblivia Dragons|Dragons]]
+- [[Dragonborn]]
 - [[Tithe]]
 - [[Terra-Oblivia/Religion/Divine Champions.md|Divine Champions]]
 - [[The Law of Oblivion]]

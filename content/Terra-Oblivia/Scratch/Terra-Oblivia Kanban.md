@@ -33,10 +33,11 @@ tags:
 	- how religion works, devotion, afterlife, favor, etc
 - [ ] [[Tithe]]
 - [ ] [[The Law of Oblivion]]
-- [ ] [[Terra-Oblivia Dragons]]
 - [ ] [[Terra-Oblivia Great Spirits]]
 	- reference table of great spirits, domains, etc
 - [ ] [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]]
+- [ ] [[Terra-Oblivia Dragons]]
+- [ ] [[Dragonborn]]
 
 
 ## Gods
