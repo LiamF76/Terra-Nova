@@ -2,6 +2,9 @@
 publish: true
 title: Terra-Oblivia Wiki Homepage
 aliases:
+  - Terra-Oblivia
+  - Home
+  - Homepage
 tags:
   - Terra-Oblivia
 Created: 2026-09-20
