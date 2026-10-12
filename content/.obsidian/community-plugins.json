@@ -11,5 +11,6 @@
   "dataview",
   "obsidian-git",
   "obsidian-languagetool-plugin",
-  "dataview-serializer"
+  "dataview-serializer",
+  "obsidian-excalidraw-plugin"
 ]

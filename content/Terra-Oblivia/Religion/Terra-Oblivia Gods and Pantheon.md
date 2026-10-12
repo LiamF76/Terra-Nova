@@ -57,7 +57,7 @@ The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some
 
 When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must vote on it being a fair challenge in comparison to the reason for the disagreement.
 
-This divine hierarchy deeply involves Spirits, through a system called the [[Tithe]]. Gods are not all powerful, and they are tied to their worship in addition to their domains. Should a God fail to recieve any worship, and be forgotten, they will die forever. Some scholars theorize this is how the Old Gods died, forgotten, and abandoned.
+This divine hierarchy deeply involves Spirits, through a system called the [[Tithe]]. Gods are not all powerful, and they are tied to their worship in addition to their domains. Should a God fail to receive any worship, and be forgotten, they will die forever. Some scholars theorize this is how the Old Gods died, forgotten, and abandoned.
 
 ---
 
