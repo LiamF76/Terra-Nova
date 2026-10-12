@@ -1,8 +1,9 @@
 ---
 publish: false
-title:
+title: The Infinite Road
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-11
 ---
 
