@@ -45,7 +45,7 @@ Created: 2026-10-11
 ---
 
 ## Worship and the Tithe
-**Health of their worship**: (thriving, fading, or at risk of being forgotten)
+**Health of their worship**: Aevarus's worship is an overflowing wellspring. He is not a God worshipped in prayer and temples, but in living, which animals and monsters do with no instruction. What shrines his more intelligent monster followers erect receive ample worship. 
 **What they ask of the faithful**: 
 **Gifts they grant, and the price of each**: 
 **Why people turn to them**: (circumstance and need, not race)
