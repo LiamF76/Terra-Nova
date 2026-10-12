@@ -7,7 +7,7 @@ tags:
 Created: 2026-10-11
 ---
 
-# God Name
+# Lumena
 #### Titles: Face of Dawn, Green Mother
 **Domain**: 
 **One-line summary**: 
