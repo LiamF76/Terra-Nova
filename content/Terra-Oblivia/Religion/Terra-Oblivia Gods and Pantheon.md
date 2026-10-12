@@ -53,13 +53,13 @@ The Gods of Terra-Oblivia reside within the plane of [[The Heavens]]. This plane
 
 ## The Divine Hierarchy
 
-| Divine Hierarchy Reference Image                             |
-| ------------------------------------------------------------ |
-| ![[Terra-Oblivia Gods and Pantheon-1791837022691.webp\|600]] |
+| Divine Hierarchy Reference Image |
+| -------------------------------- |
+|                                  |
 
 The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods receive more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair. These Gods are generally independent, though some maintain more contact with each other than others do. It is entirely within the nature of Gods to be silent, or highly communicative amongst themselves.
 
-When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must vote on it being a fair challenge in comparison to the reason for the disagreement.
+When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses their Divine Champion or one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must vote on it being a fair challenge in comparison to the reason for the disagreement.
 
 This divine hierarchy deeply involves Spirits, through a system called the [[Tithe]]. Gods are not all powerful, and they are tied to their worship in addition to their domains. Should a God fail to receive any worship, and be forgotten, they will die forever. Some scholars theorize this is how the Old Gods died, forgotten, and abandoned.
 

@@ -53,9 +53,21 @@
               "icon": "lucide-trello",
               "title": "Terra-Oblivia Kanban"
             }
+          },
+          {
+            "id": "44731232a2dcc803",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Terra-Oblivia/Religion/Terra-Oblivia Divine Heirarchy.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Terra-Oblivia Divine Heirarchy"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,14 +196,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8683c6d3c0ee56f3",
+  "active": "44731232a2dcc803",
   "lastOpenFiles": [
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Divine Heirarchy.md",
     "z Images/Terra-Oblivia Gods and Pantheon-1791837022691.webp",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Terra-Oblivia/Religion/The Law of Oblivion.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
