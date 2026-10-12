@@ -15,7 +15,9 @@ Brainstorm:
 
 # Religion in Terra-Oblivia
 
-In Terra-Oblivia, the Gods are an absent force for order, than remains powerful due to their immense involvement with mortal affairs through mediums such as Spirits and Divine Champions.
+In Terra-Oblivia, the Gods are an absent force for order, than remains powerful due to their immense involvement with mortal affairs through mediums such as [[Terra-Oblivia/Magic/Spirits|Spirits]] and [[Terra-Oblivia/Religion/Divine Champions|Divine Champion]]. In Terra-Oblivia, religion is not a speculation or faith, it is a transaction between proven divine forces and mortals. It is offering faith and gifts to the Gods in exchange for their blessing and protection, Mortals need the Gods, and the Gods need mortals.
+
+Why worship the Gods? Because mortals need them. In a world of dark magics, arcane disasters, and endless monsters, mortals cannot survive against these forces alone. The Gods and Spirits are protectors, and mortals pay for that protection in faith. 
 
 ---
 
@@ -35,7 +37,7 @@ In Terra-Oblivia, the Gods are an absent force for order, than remains powerful 
 |        | [[Aevarus]]                                              | **Beasts**      |
 |        | [[Kamara Desos]]                                         | **Fate**        |
 
-Churches in Terra-Oblivia are organized by God, each Church being run locally by Great Spirits tied to that God. There are no strict rules for membership, only that you follow that God's rules and give offerings in action and prayer.
+Churches in Terra-Oblivia are organized by God, each Church being run locally by Great Spirit and a Divine Champion tied to that God. There are no strict rules for membership, only that you follow that God's rules and give offerings in action and prayer. 
 
 ---
 
@@ -51,7 +53,7 @@ Devotion to a God takes time, but can bring great benefits. To live by the tenet
 
 ## Devotion and the Afterlife
 
-tbd
+A devoted soul is one that worships honestly and follows the laws of their church. 
 
 ---
 
@@ -61,7 +63,7 @@ tbd
 
 ---
 
-## TBD
+## Heresy and Forbidden Worship
 
 tbd
 
@@ -81,8 +83,6 @@ tbd
 - [ ] Clergy and institutions: how religious authority is organized and where it overlaps with government
 - [ ] Spirits and Champions: one short paragraph, linking to their own notes
 - [ ] Religion and magic: faith and Pact magic, Blessed mages, how faiths treat Cinder, Scarred, and Old Rites magic
-- [ ] List of religions by region: Triarch, Empire, Ashkarad, Liberos
-- [ ] Heresy and forbidden worship: short pointer to the Pantheon note
 
 ### Priority first
 - [ ] How worship works
