@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
-      "timestamp": 1791757544533
+      "timestamp": 1791763531984
+    },
+    {
+      "filepath": "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+      "timestamp": 1791763479057
     },
     {
       "filepath": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-      "timestamp": 1791757533887
+      "timestamp": 1791763476139
     },
     {
       "filepath": "Terra-Oblivia/Cosmology/Planes/The Infinite Road.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Templates/Nation Outline Template.md",
       "timestamp": 1791756953017
-    },
-    {
-      "filepath": "Templates/God Template.md",
-      "timestamp": 1791756732142
     }
   ],
   "bookmarkedFileStore": [],

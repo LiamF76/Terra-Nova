@@ -15,19 +15,19 @@ tags:
 
 ## Gods & Domains Overview
 
-| God            | Titles                                     | Domain          | Subsumes                                                                             |
-| -------------- | ------------------------------------------ | --------------- | ------------------------------------------------------------------------------------ |
-| Lumena         | *Face of Dawn, Green Mother*               | **Light**       | Light, life, hierarchy, and nature, superiority.                                     |
-| Balthazaar     | *He Who Slithers*                          | **Darkness**    | Darkness, chaos, the occult.                                                         |
-| Erasaad        | *Lord of Twilight*                         | **Death**       | Death, the dead, sleep, dreams.                                                      |
-| Oa Maton       | *Ever-Balanced*                            | **Balance**     | Balance, justice, revenge, punishment, penance, extremity.                           |
-| Rocan Ashar    | *Ceaseless Flame*                          | **War**         | War, fire, victory, wisdom, strategy, bravery, legacy.                               |
-| Vespar Telarum | *Verdant Trickster*                        | **Knowledge**   | Knowledge, wisdom, strategy, also magic (in the study/cunning sense).                |
-| Krokha Inam    | *Endless Hourglass, Keeper of the Sundial* | **Time**        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis. |
-| Datura Ferhaus | *Turning Head, Craft Perfected*            | **Art / Labor** | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession.   |
-| Miragrim Ysor  | *Unceasing Torrent, Howling Pathfinder*    | **Sea**         | Storms, oceans, freedom, travelers, explorers, detachment.                           |
-| Aevarus        |                                            | **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky.                               |
-| Kamara Desos   | *She Who is Not, Weaver*                   | **Fate**        | Destiny / Freedom, predetermination, a divine plan.                                  |
+| God                                                      | Titles                                     | Domain          | Subsumes                                                                             |
+| -------------------------------------------------------- | ------------------------------------------ | --------------- | ------------------------------------------------------------------------------------ |
+| [[Lumena]]                                               | *Face of Dawn, Green Mother*               | **Light**       | Light, life, hierarchy, and nature, superiority.                                     |
+| [[Terra-Oblivia/Characters/Gods/Balthazaar\|Balthazaar]] | *He Who Slithers*                          | **Darkness**    | Darkness, chaos, the occult.                                                         |
+| [[Erasaad]]                                              | *Lord of Twilight*                         | **Death**       | Death, the dead, sleep, dreams.                                                      |
+| [[Oa Maton]]                                             | *Ever-Balanced*                            | **Balance**     | Balance, justice, revenge, punishment, penance, extremity.                           |
+| [[Rocan Ashar]]                                          | *Ceaseless Flame*                          | **War**         | War, fire, victory, wisdom, strategy, bravery, legacy.                               |
+| [[Vespar Telarum]]                                       | *Verdant Trickster*                        | **Knowledge**   | Knowledge, wisdom, strategy, also magic (in the study/cunning sense).                |
+| [[Krokha Inam]]                                          | *Endless Hourglass, Keeper of the Sundial* | **Time**        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis. |
+| [[Datura Ferhaus]]                                       | *Turning Head, Craft Perfected*            | **Art / Labor** | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession.   |
+| [[Miragrim Ysor]]                                        | *Unceasing Torrent, Howling Pathfinder*    | **Sea**         | Storms, oceans, freedom, travelers, explorers, detachment.                           |
+| [[Aevarus]]                                              |                                            | **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky.                               |
+| [[Kamara Desos]]                                         | *She Who is Not, Weaver*                   | **Fate**        | Destiny / Freedom, predetermination, a divine plan.                                  |
 
 ---
 
