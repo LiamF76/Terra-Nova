@@ -53,9 +53,25 @@
               "icon": "lucide-trello",
               "title": "Terra-Oblivia Kanban"
             }
+          },
+          {
+            "id": "dc40f945745c24d3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Cult of Kasayt Campaign Primer"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +199,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8683c6d3c0ee56f3",
+  "active": "dc40f945745c24d3",
   "lastOpenFiles": [
-    "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
     "z Images/The Triarch-1791831754527.webp",

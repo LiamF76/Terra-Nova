@@ -60,8 +60,18 @@ Your quest begins in the Triarch. You will travel the continent of Escharra, see
 
 For this campaign we will be trying something new. Party roles inspired by the runbooks from Powered by the Apocalypse. Each player will be required to select one of these to build their character and backstory around. Multiple players cannot select the same role. This will also factor in the 'Knives' backstory system for character creation. Both will be outlined below.
 
+---
+
+### Backstory Knives
+
+tbd
+
+---
+
 > [!note] On Party Roles
 > These roles are not classes or jobs, they are just predetermined story hook starters, meant to help you ceate characters connected to the world, and better suited to the story & setting.
+
+---
 
 ### The Risen Dead
 
@@ -80,6 +90,8 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 - You are tied to Ayla Syros. If she dies, you die. 
 - If Ayla commands you, you are compelled to obey. To disobey may incur a toll upon your being.
 
+---
+
 ### The Triarch's Chosen
 
 > [!quote] Lord Dastan of Bastion- 
@@ -94,6 +106,8 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 
 **Bonds**: 
 - You are beholden to the Council, and must report your actions to them when asked. Council members may disagree on what you should do.
+
+---
 
 ### The Made 
 
@@ -111,6 +125,8 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 - You carry a dormant directive. The GM decides when it awakens.
 - Some people will try to claim, sell, or dismantle you.
 
+---
+
 ### The Hunted
 
 > [!quote] You - 
@@ -126,6 +142,8 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 **Bonds**: 
 - If you display a dangerous nature, Triarch law will hunt you. 
 - The Empire has made you an offer, and it's a temptation.
+
+---
 
 ### Spirit-Touched
 
@@ -144,6 +162,7 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 - As the Spirit weakens, so do you. If it dies, the gift dies with them. 
 - You feel it whenever the Spirit uses its power. 
 
+---
 
 ### The Cult Defector
 
@@ -161,6 +180,8 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 - The cult hunts you as a heretic. 
 - Someone still in the cult knows you, and you owe them a great debt. They may call you back or call in a favor.
 
+---
+
 ### Ruin Delver
 
 > [!quote] You - 
@@ -175,3 +196,5 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 
 **Bonds**: 
 - 
+
+---
