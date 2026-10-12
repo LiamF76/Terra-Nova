@@ -14,6 +14,7 @@ Created: 2026-10-11
 
 ---
 
+![[Lumena-1791784379080.webp|300x375]]
 ## Nature
 **Dragon form**: (what they look like, and how their birth mutated them)
 **Temperament**: 
