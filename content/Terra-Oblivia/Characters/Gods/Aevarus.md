@@ -14,7 +14,9 @@ Created: 2026-10-11
 
 ---
 
-![[Aevarus-1791752837120.webp|248x347]]
+| Aevarus (Dragon)                     | Aevarus (Humanoid)                   |
+| ------------------------------------ | ------------------------------------ |
+| ![[Aevarus-1791752837120.webp\|300]] | ![[Aevarus-1791779730957.webp\|300]] |
 
 ## Nature
 **Dragon form**: Aevarus takes many forms, he is known to appear as a Lion with the horns and wings of a dragon, fur spotted and painted like a tapestry. This form often looks nearly as monstrous as those monsters he calls children on the Material world.
