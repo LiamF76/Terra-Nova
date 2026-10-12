@@ -63,7 +63,7 @@ This divine hierarchy deeply involves Spirits, through a system called the [[Tit
 
 ## Gods and Mortals
 
-Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly to their followers. Communication is most commonly done directly to [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]] and Great Spirits, and occasionally to Minor Spirits as well. It is nearly unheard of for a God to speak to a regular mortal follower, and never before has a God to spoken to a regular mortal who does not worship them.
+Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly to their followers. Communication is most commonly done directly to [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]] and Great Spirit. Gods do not speak directly to Mortals outside of the Heavens in accordance [[The Law of Oblivion]]. This law extends to their direct intervention in the world, which is entirely forbidden. 
 
 Nearly all Mortals worship the Gods in some manner, even if that worship is not reverent and respectful, they recognize the immense divine power, and influence on the world that the Gods have. There is no ambiguity about the Gods existence, those who do not worship or care for the Gods usually harbor anger towards them for being so uninvolved in mortal affairs.
 
@@ -89,11 +89,23 @@ Worship of the Old Gods, who have no names, is heretical in all places and all r
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Lumena]]
+- [[Terra-Oblivia/Characters/Gods/Balthazaar.md|Balthazaar]]
+- [[Erasaad]]
+- [[Oa Maton]]
+- [[Rocan Ashar]]
+- [[Vespar Telarum]]
+- [[Krokha Inam]]
+- [[Datura Ferhaus]]
+- [[Miragrim Ysor]]
+- [[Aevarus]]
+- [[Kamara Desos]]
 - [[Terra-Oblivia Dragons|Dragons]]
 - [[Terra-Oblivia/Magic/Spirits.md|Spirit]]
 - [[The Heavens]]
 - [[Tithe]]
 - [[Terra-Oblivia/Religion/Divine Champions.md|Divine Champions]]
+- [[The Law of Oblivion]]
 - [[Terra-Oblivia Gods and Pantheon|Religion]]
 
 <!-- SerializedQuery END -->
