@@ -12,6 +12,7 @@ tags:
 - [ ] [[TO Idea Dump]]
 - [ ] [[Reshaping Workpad.canvas]]
 - [ ] [[Terra-Oblivia History]]
+	- event involving fire magic, reason it is outlawed and feared?
 - [ ] [[Terra-Oblivia Wiki Homepage]]
 
 
