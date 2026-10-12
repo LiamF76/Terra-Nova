@@ -1,7 +1,11 @@
 ---
 publish: false
-title:
+title: Terra-Oblivia Religion
 aliases:
+  - Religion
+  - Church
+  - Worship
+  - Devotion
 tags:
   - Terra-Oblivia
 Created: 2026-09-21
@@ -23,19 +27,19 @@ Why worship the Gods? Because mortals need them. In a world of dark magics, arca
 
 ## Churches of Terra-Oblivia
 
-| Church | God                                                      | Domain          |
-| ------ | -------------------------------------------------------- | --------------- |
-|        | [[Lumena]]                                               | **Light**       |
-|        | [[Terra-Oblivia/Characters/Gods/Balthazaar\|Balthazaar]] | **Darkness**    |
-|        | [[Erasaad]]                                              | **Death**       |
-|        | [[Oa Maton]]                                             | **Balance**     |
-|        | [[Rocan Ashar]]                                          | **War**         |
-|        | [[Vespar Telarum]]                                       | **Knowledge**   |
-|        | [[Krokha Inam]]                                          | **Time**        |
-|        | [[Datura Ferhaus]]                                       | **Art / Labor** |
-|        | [[Miragrim Ysor]]                                        | **Sea**         |
-|        | [[Aevarus]]                                              | **Beasts**      |
-|        | [[Kamara Desos]]                                         | **Fate**        |
+| Church                      | God                                                      | Domain          |
+| --------------------------- | -------------------------------------------------------- | --------------- |
+| The House of Light and Life | [[Lumena]]                                               | **Light**       |
+| The Fanged Shadow           | [[Terra-Oblivia/Characters/Gods/Balthazaar\|Balthazaar]] | **Darkness**    |
+| The Final Twilight          | [[Erasaad]]                                              | **Death**       |
+| The Shifting Scales         | [[Oa Maton]]                                             | **Balance**     |
+| The Burning Anvil           | [[Rocan Ashar]]                                          | **War**         |
+| The House of Cunning        | [[Vespar Telarum]]                                       | **Knowledge**   |
+| The Endless Hourglass       | [[Krokha Inam]]                                          | **Time**        |
+| The Duality                 | [[Datura Ferhaus]]                                       | **Art / Labor** |
+| The Free Faithful           | [[Miragrim Ysor]]                                        | **Sea**         |
+| The Wild Flock              | [[Aevarus]]                                              | **Beasts**      |
+| The Threadkeepers           | [[Kamara Desos]]                                         | **Fate**        |
 
 Churches in Terra-Oblivia are organized by God, each Church being run locally by Great Spirit and a Divine Champion tied to that God. There are no strict rules for membership, only that you follow that God's rules and give offerings in action and prayer. 
 
