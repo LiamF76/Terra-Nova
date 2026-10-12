@@ -46,8 +46,8 @@ tags:
 
 ## Government & Power Structure
 
-**Government type**: 
-**Ruling body / leader(s)**: 
+**Government type**: Republic
+**Ruling body / leader(s)**: The Triarch Council
 **Noble houses / power factions**: 
 **How magic influences politics**: 
 **Foreign relations**: 

@@ -88,8 +88,17 @@ tags:
 	- city exists within fortified sections of the ruins, some parts are still ruins / unexplored and contain monsters
 	- has protection by mountains and cliffs
 	- knights ride and raise Griffins as mounts, tradition started to combat Dragons
-- [ ] Citadel
+- [ ] [[Citadel]]
 	- Religious, ruled by Devout Assembly of Priests
+
+
+## Triarch Culture / Groups
+
+- [ ] [[Pilgrim Knights]]
+- [ ] [[Ironwing Order]]
+	- Griffin Knights
+	- 'Ironwings'
+- [ ] [[The Devout Assembly]]
 
 
 ## The Rocan Empire
@@ -122,6 +131,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false,false]}
 ```
 %%

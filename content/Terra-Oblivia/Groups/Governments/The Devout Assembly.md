@@ -1,10 +1,9 @@
 ---
 publish: false
-title: Pilgrim Knight
+title:
 aliases:
 tags:
-  - Terra-Oblivia
-Created: 2026-10-11
+Created: 2026-10-12
 ---
 
 write here

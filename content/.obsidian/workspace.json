@@ -44,6 +44,7 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -52,9 +53,23 @@
               "icon": "lucide-trello",
               "title": "Terra-Oblivia Kanban"
             }
+          },
+          {
+            "id": "114dc9d02f628322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Triarch"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,10 +197,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8683c6d3c0ee56f3",
+  "active": "114dc9d02f628322",
   "lastOpenFiles": [
-    "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Citadel.md",
+    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
+    "Terra-Oblivia/Groups/Governments/The Devout Assembly.md",
+    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Gate.md",
+    "Terra-Oblivia/Groups/Knight Orders",
+    "Terra-Oblivia/Groups/Governments",
+    "Terra-Oblivia/Groups/Knight Orders/Pilgrim Knights.md",
+    "Terra-Oblivia/Groups/Knight Orders/Ironwing Order.md",
+    "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
@@ -208,13 +231,6 @@
     "Terra-Oblivia/Characters/Gods/Vespar Telarum.md",
     "Terra-Oblivia/Characters/Gods/Rocan Ashar.md",
     "Terra-Oblivia/Characters/Gods/Oa Maton.md",
-    "Terra-Oblivia/Characters/Gods/Erasaad.md",
-    "Terra-Oblivia/Characters/Gods/Balthazaar.md",
-    "Terra-Oblivia/Cosmology/Planes/Temporal Plane.md",
-    "Terra-Oblivia/Cosmology/Planes/The Abyss.md",
-    "Terra-Oblivia/Cosmology/Planes/The Ascendant Plane.md",
-    "Terra-Oblivia/Cosmology/Planes/The Dream Plane.md",
-    "Terra-Oblivia/Cosmology/Planes/The Infinite Road.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Cu",
     "Aevarus-1791752837120.webp",
     "Terra-Oblivia/Characters/Gods",
@@ -232,9 +248,7 @@
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "z Images/Bellum Grail-1791501043654.webp",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
-    "Terra-Oblivia/Characters/Mortals",
-    "Tabletop Systems",
-    "Terra-Oblivia/Groups/Ashkarad Government.canvas",
+    "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Space Western Storyboard.canvas",
     "Arkfall/Cosmology/Arkfall Map.canvas",
     "Arkfall/Timeline/Arkfall Timeline V2.canvas",
