@@ -27,8 +27,7 @@ Created: 2026-10-11
 ---
 
 ## Domain
-**What it covers in practice**: (beyond the one-line summary in the Pantheon table)
-**Edge cases and contradictions**: (what falls between this domain and another)
+**What it covers in practice**: Beasts, monsters, wild animals, trickery, shape-changing, sky. Aevarus is the protector of monsters and animals alike, and the keeper of their forms. Shape-changers, druids, and all how transform are considered his children. x
 **Symbols and omens**: 
 
 ---
