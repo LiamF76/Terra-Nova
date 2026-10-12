@@ -27,20 +27,20 @@ Created: 2026-10-11
 ---
 
 ## Domain
-**What it covers in practice**: Beasts, monsters, wild animals, trickery, shape-changing, sky. Aevarus is the protector of monsters and animals alike, and the keeper of their forms. Shape-changers, druids, and all how transform are considered his children. x
-**Symbols and omens**: 
+**What it covers in practice**: Beasts, monsters, wild animals, trickery, shape-changing, sky. Aevarus is the protector of monsters and animals alike, and the keeper of their forms. Shape-changers, druids, and all how transform are considered his children. He leads creatures of the land and sea, but his domain is the sky, and Aevarus is master to the clouds and great blue expanse, the winds answer his call.
+**Symbols and omens**: Aevarus's symbols are a winged horse, and a paw print. An omen in the worship of Aevarus is animals vacating the land, or monsters acting strangely. Additionally Aevarus is known to be more likely to appear under the light of a full-moon, thought to be tied to the shape-changers who shift under the same conditions.
 
 ---
 
 ## Realm
-**Their domain in the Heavens**: (what it looks like, and what rules it runs on)
-**Who they let in**: 
+**Their domain in the Heavens**: Aevarus's domain is the Heartlands, an endless expanse of wilderness under a blue sky, where all manner of monsters and animals make their home. At lease one of every creature that has existed inhabits the Heartlands.
+**Who they let in**: Those who worship Aevarus faithfully pass into the Heartlands when they die. Their soul manifests and changes into the form that suits them, and they join Aevarus's eternal hunting party.
 
 ---
 
 ## Relationships
-**Other Gods**: (one line each, such as allies, rivals, or those they defer to)
-Role in divine disputes: (how they behave when a dispute is settled by Spirits)
+**Other Gods**: Aevarus holds a respectful rivalry with Rocan Ashar over whose children, beasts or warriors, holds greater strength.
+**Role in divine disputes**: (how they behave when a dispute is settled by Spirits)
 
 ---
 

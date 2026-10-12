@@ -59,6 +59,19 @@ tags:
 - [ ] [[Terra-Oblivia/Magic/Spirits|Spirits]]
 
 
+## Planes
+
+- [ ] [[Terra-Oblivia Planes.canvas]]
+- [ ] [[The Infinite Road]]
+- [ ] [[The Material Plane]]
+- [ ] [[The Abyss]]
+- [ ] [[The Ascendant Plane]]
+- [ ] [[The Dream Plane]]
+- [ ] [[The Heavens]]
+- [ ] [[The Primordium]]
+- [ ] [[Temporal Plane]]
+
+
 ## The Triarch / 3 Cities
 
 - [ ] [[The Triarch]]
@@ -102,19 +115,6 @@ tags:
 - [ ] [[Terra-Oblivia Tabletop Overview]]
 - [ ] [[Terra-Oblivia Tabletop Classes]]
 - [ ] [[Terra-Oblivia Tabletop Stats and Skills]]
-
-
-## Planes
-
-- [ ] [[Terra-Oblivia Planes.canvas]]
-- [ ] [[The Infinite Road]]
-- [ ] [[The Material Plane]]
-- [ ] [[The Abyss]]
-- [ ] [[The Ascendant Plane]]
-- [ ] [[The Dream Plane]]
-- [ ] [[The Heavens]]
-- [ ] [[The Primordium]]
-- [ ] [[Temporal Plane]]
 
 
 
