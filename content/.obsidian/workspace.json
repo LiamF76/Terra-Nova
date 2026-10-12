@@ -54,37 +54,21 @@
             }
           },
           {
-            "id": "4d4921d8b068da4e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Terra-Oblivia Gods and Pantheon"
-            }
-          },
-          {
-            "id": "97a6d8c6fbbf04ed",
+            "id": "92d1a720ce0cca20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Characters/Gods/Aevarus.md",
+                "file": "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aevarus"
+              "title": "Terra-Oblivia Magic"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,13 +196,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97a6d8c6fbbf04ed",
+  "active": "92d1a720ce0cca20",
   "lastOpenFiles": [
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+    "Terra-Oblivia/Characters/Gods/Aevarus.md",
     "Terra-Oblivia/Characters/Gods/Lumena.md",
     "Lumena-1791784640899.webp",
-    "Terra-Oblivia/Characters/Gods/Aevarus.md",
     "Lumena-1791784379080.webp",
     "Lumena-1791784204869.webp",
     "Terra-Oblivia/Cosmology/Planes/The Heavens.md",
