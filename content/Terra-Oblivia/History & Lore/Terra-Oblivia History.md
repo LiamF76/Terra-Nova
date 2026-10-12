@@ -30,3 +30,4 @@ This is an overview of Terra-Oblivia's history. Events are ordered chronological
 - *Ember-Flag Massacre*: Ember-Flag was a small settlement of Scarborn established under the rule of a weak Warlord who claimed to be a protector of the Scarborn people. It was obliterated by Lord Dastan and Bastion forces. Thousands of people died. Scarborn often refer to Dastan as 'The Butcher' or 'Flag-burner'. Many Scarborn refugees fled to the Triarch, where they face adversity. Dastan called it a preemptive strike to protect the Triarch.
 - *Surge Wars*: Series of wars between the Triarch and Ashkarad. Young Blue Dragon children of the Ashkari Dragon, Lasini, and her Warlord minions invaded the Triarch. Luther Scorn rose as a hero and defeated a Blue Dragon with his forces, saving the valley. 
 - 
+
