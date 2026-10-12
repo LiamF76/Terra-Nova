@@ -66,9 +66,26 @@
               "icon": "lucide-file",
               "title": "Terra-Oblivia Magic"
             }
+          },
+          {
+            "id": "ae49ba6160499788",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
+                "viewState": {
+                  "x": 5.93,
+                  "y": 46.49999999999999,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Terra-Oblivia Planes"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,9 +213,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "92d1a720ce0cca20",
+  "active": "ae49ba6160499788",
   "lastOpenFiles": [
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Characters/Gods/Aevarus.md",
     "Terra-Oblivia/Characters/Gods/Lumena.md",

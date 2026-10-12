@@ -36,5 +36,6 @@ Magic is the lifeblood of Terra-Oblivia. Magic is how the Gods of this world wer
 		- Ambient / Physical: The divine remains have spread their mana through the land, spawning mana-rich ores and highly magical locations. This is also true for many unique magical materials like enchanted plant species and monster remains. Additionally artifacts from before the Reshaping, and fossilized remains of the Old Gods. 
 		- Bloodline / Pact (stated previously)
 	- *How does it work*: 
+		- 
 - 
 
