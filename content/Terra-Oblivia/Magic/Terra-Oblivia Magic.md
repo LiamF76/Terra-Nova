@@ -10,7 +10,9 @@ tags:
 
 Magic is the lifeblood of Terra-Oblivia. Magic is how the Gods of this world were born, and how the Old world ended. It is the foundation of the building, and the hammer that tears it down. As magic faded from the world, the future faded, but now Magic has reached a somewhat stable point.
 
+---
 
+## Brainstorm
 
 - Names for Mages
 	- *Magus* (plural; Magi): term for mages who are respected / accepted.
@@ -24,11 +26,11 @@ Magic is the lifeblood of Terra-Oblivia. Magic is how the Gods of this world wer
 - Abyssal magic is outlawed and actively persecuted except in the Empire, which recently has allowed it. They recently started to accept Scarred who are willing to join the military in exchange for assistance furthering their studies of the Abyss. In any other nation on Escharra Scarred are arrested or hunted down. This choice was influenced by the newest Arch-Mystic of the Rocan Empire, a Scarborn.
 - Old Rites magic is outlawed and actively persecuted everywhere. It involves human sacrifices, torture, and dark magic rituals that commune with violently heretical forces. All Religions and Governments recognize its danger, and seek to destroy those who use it with extreme prejudice.
 - Magic is known as the divine language and the dragon's breath. Magic is tied to dragons at its core, its origins being connected to dragons who slew the old Gods, using their remains to sustain the world, and breeding with mortals to give them magic. It is believed Dragons are the first source of mortal magic, Elves dispute this and believe they were born with magic Dragons stole.
-- Stormseers learn their trade (navigating Abyssal Storms) in Liberos, the Free Cities. Abyssal Storms are more common at sea than on land, but both happen. Liberos holds Seer-Star where the Stormseer Guild has its headquarters. That is where Stormseers are trained in the magic arts. Stormseers are not trained in any magic other than Storm Navigation and basic magics, no combat or any other magic types.
+- Stormseers learn their trade (navigating Abyssal Storms) in Liberos, the Free Cities. Abyssal Storms are more common at sea than on land, but both happen. Liberos holds Seer's-Star where the Stormseer Guild has its headquarters. That is where Stormseers are trained in the magic arts. Stormseers are not trained in any magic other than Storm Navigation and basic magics, no combat or any other magic types.
 - Where does magic come from?
 	- **Divine Bonding (Pact)**: Deal with a divine or spirit. Can be religious, a contract, shared goals, or even a genuine friendship / love. Whatever it is grants you magic in an exchange of services or loyalty. Mage is granted access to mana and spells from the divine or spirit. Nature of pact magic is based on who you bond with. 
 	- **Divine blood (Ancestry)**: Born with innate magical ability to draw upon a specific domain related to your ancestry. Most status-dependent magic, hoarded to noble bloodlines and cults. Most common magical origin. 
-	- **Artifice (Alchemy / Wizardry)**: Requires use of mana rich materials, formulas and transmutations to create magical effects. Mages pay full price either entirely in mana or in their own life force to cast every spell as they have no other source to draw from. Takes dedicated study and understanding of magical spells and materials to do safely.
+	- **Artifice (Alchemy / Wizardry)**: Requires use of mana rich materials, formulas and transmutations to create magical effects. Mages pay full price either entirely in mana or in their own life force to cast every spell as they have no other source to draw from. Takes dedicated study and understanding of magical spells and materials to do safely. 
 	- **Old Rites (Forbidden / Relic)**: Magic drawn from rituals to forgotten deities and ancient relics that predate the Reshaping.
 - Mana: 
 	- *What is it*: The source and fuel of magic in Terra-Oblivia. Once in Terra-Oblivia there was abundant natural magic that the world created and circulated naturally like the tides, but that was poisoned. The Reshaping removed the poison from the world, but also most of the poisoned magic. Now the magic that flows through Terra-Oblivia comes from the remains of the arcane and divine of the past, mingled into an unrecognizable new form.

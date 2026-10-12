@@ -66,26 +66,9 @@
               "icon": "lucide-file",
               "title": "Terra-Oblivia Magic"
             }
-          },
-          {
-            "id": "ae49ba6160499788",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
-                "viewState": {
-                  "x": 5.93,
-                  "y": 46.49999999999999,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Terra-Oblivia Planes"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +196,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ae49ba6160499788",
+  "active": "92d1a720ce0cca20",
   "lastOpenFiles": [
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
+    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Characters/Gods/Aevarus.md",
     "Terra-Oblivia/Characters/Gods/Lumena.md",
@@ -244,11 +228,9 @@
     "Terra-Oblivia/Cosmology/Planes/The Infinite Road.md",
     "Terra-Oblivia/Cosmology/Planes/The Material Plane.md",
     "Terra-Oblivia/Cosmology/Planes/The Primordium.md",
-    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Cu",
     "Aevarus-1791752837120.webp",
     "Terra-Oblivia/Characters/Gods",
-    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities",
     "z Images/Terra-Oblivia Wiki Homepage-1791577298140.webp",
     "z Images/Terra-Oblivia Wiki Homepage-1791576104844.webp",
