@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Terra-Oblivia Wiki Homepage
 aliases:
 tags:
@@ -51,9 +51,12 @@ I hope to create a wide and open campaign setting where we can play multiple yea
 - The Dark Crystal
 - The Forgotten Realms
 - God of War (Modern Games)
+## Helpful Links
 
-
-write here
+> [!faq]
+> - [[Terra-Oblivia Gods and Pantheon]]
+> - [[Terra-Oblivia Magic]]
+> - 
 
 ---
 
