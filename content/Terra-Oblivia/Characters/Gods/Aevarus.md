@@ -22,7 +22,7 @@ Created: 2026-10-11
 **Dragon form**: Aevarus takes many forms, he is known to appear as a Lion with the horns and wings of a dragon, fur spotted and painted like a tapestry. This form often looks nearly as monstrous as those monsters he calls children on the Material world.
 **Temperament**: Aevarus is as wild as his domain, often flipping between periods of great calm and violent rampages and rage. If you find Aevarus in a good mood, he is likely to grant your wishes, but catch him in a hunt, and you will likely be hunted next. His mood is often influenced by those around him, especially his children. When surrounded by his monstrous sons like the Hydra and Trolls, he will be quick to anger. When laying in the sun with the horses and rabbits, he will have not an ounce of energy to do anything but bask.
 **Manner of speech**: Aevarus speaks with a whisper and a roar, a scream and a sob all at once. His voice is ever changing in tone, pitch, gender, and pattern. Nothing is consistent, and all are terrifying.
-**What their birth left in them**: (traits from the Dragon, the Abyssal poison, and the Old Gods fused into them)
+**What their birth left in them**: Aevarus golds the poison of the Abyss and Old Gods in his bones. All animals are the world's children, and monsters are born from the fusion of Abyssal corruption and the Old Gods influence. His body is twisted and shows that corruption in his monstrous forms.
 
 ---
 
@@ -40,7 +40,7 @@ Created: 2026-10-11
 
 ## Relationships
 **Other Gods**: Aevarus holds a respectful rivalry with Rocan Ashar over whose children, beasts or warriors, holds greater strength.
-**Role in divine disputes**: (how they behave when a dispute is settled by Spirits)
+**Role in divine disputes**: Aevarus often serves as an instigator, pushing both sides of a disagreement further towards the extremes. He is known to be a hold-out and push shorter deadlines for deeds required to settle disagreements.
 
 ---
 
