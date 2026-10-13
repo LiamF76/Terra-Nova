@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Cult of Kasayt Campaign Primer
 aliases:
 tags:
@@ -206,3 +206,35 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 - You are obsessed with a specific treasure from your past, and will put yourself or others in harms way to obtain it.
 
 ---
+
+### The Pilgrim Knight
+
+> [!quote] Source - 
+> *"Quote"*
+
+**Description**: 
+
+**Questions to Answer**: 
+
+**Boons**: 
+- 
+
+**Bonds**: 
+- 
+
+---
+
+### The Noble Descendant
+
+> [!quote] Source - 
+> *"Quote"*
+
+**Description**: 
+
+**Questions to Answer**: 
+
+**Boons**: 
+- 
+
+**Bonds**: 
+- 
