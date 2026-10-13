@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Sana Blood-Ear
+title: Sana Black-Sky
 aliases:
 tags:
   - Terra-Oblivia
@@ -8,14 +8,15 @@ tags:
 Created: 2026-10-08
 ---
 
-# Sana Blood-Ear
+# Sana Black-Sky
 
-![[Sana Blood-Ear-1791499894989.webp|300x453]]
+![[Sana Black-Sky-1791913574987.webp|300x312]]
 
 ---
 
 ## Name
 **Sana Blood-Ear**, The Blood Queen, Red Maiden
+*Pronouns*: 
 
 ---
 

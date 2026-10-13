@@ -17,7 +17,7 @@ kanban-plugin: board
 
 ## Characters
 
-- [ ] [[Sana Blood-Ear]]
+- [ ] [[Sana Black-Sky]]
 - [ ] [[Bellum Grail]]
 - [ ] [[Kasayt]]
 
