@@ -6,18 +6,23 @@ tags:
 
 ---
 
-## core
+## Questions
 
-- [ ] [[TO Workpad.canvas]]
-- [ ] [[TO Idea Dump]]
-- [ ] [[Reshaping Workpad.canvas]]
-- [ ] [[Terra-Oblivia History]]
-	- event involving fire magic, reason it is outlawed and feared?
 - [ ] [[Terra-Oblivia Wiki Homepage]]
+- [ ] [[TO Idea Dump]]
+- [ ] [[Terra-Oblivia GRAPES]]
+- [ ] Where do mortal races come from?
+	- elves were created to protect magic
+	- dwarves created to protect the earth
+	- humans created to evolve and face challenges they couldnt predict
+	- dragonborn created to rule
+	- Scarborn created as a warning
 
 
 ## Major Factors
 
+- [ ] [[Terra-Oblivia History]]
+	- event involving fire magic, reason it is outlawed and feared?
 - [ ] [[Terra-Oblivia Characters]]
 - [ ] [[Terra-Oblivia Mortals]]
 - [ ] [[Terra-Oblivia Places Brainstorm]]
