@@ -16,7 +16,7 @@ Act 1:
 - *Goal*: 
 	- Locate the Stone King in the Triarch, then find out how to unseal the demon within. 
 	- Free their brother. The brother was a defector who tried to join another Dragon's warband, now held captive by the Cult.
-- *Timeline*: Sana have been given 1 year to locate the Stone King by Hartwyn. 
+- *Timeline*: Hartwyn has given Sana 2 years to locate the Stone King. 
 - *What is stopping them*: 
 	- Location of the Stone King has been lost, only recorded by an extinct Knightly Order called the Green Knights.
 	- Ritual tied to the Stone King is forbidden, Abyssal magics. Lost to time. Have to get (buy) the knowledge from a Scarred or a demon.
