@@ -43,6 +43,22 @@ Churches in Terra-Oblivia are organized by God, each Church being run locally by
 
 The tenets and lessons set by the Gods are imparted to mortals through many means. Spirits are most common, acting as religious guides and teaches, distributing the teachings of the Gods directly. Outside Spirits, there are many ancient artifacts, scrolls, tomes, and stories that give lessons and laws for living within the Gods faith.
 
+### Primary Tenets
+
+| God            | Tenets |
+| -------------- | ------ |
+| Lumena         |        |
+| Balthazaar     |        |
+| Erasaad        |        |
+| Oa Maton       |        |
+| Rocan Ashar    |        |
+| Vespar Telarum |        |
+| Krokha Inam    |        |
+| Datura Ferhaus |        |
+| Miragrim Ysor  |        |
+| Aevarus        |        |
+| Kamara Desos   |        |
+
 ---
 
 ## Worship and Devotion

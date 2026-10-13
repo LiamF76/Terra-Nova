@@ -59,11 +59,15 @@ The Gods of Terra-Oblivia reside within the plane of [[The Heavens]]. This plane
 
 The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods receive more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair. These Gods are generally independent, though some maintain more contact with each other than others do. It is entirely within the nature of Gods to be silent, or highly communicative amongst themselves.
 
-Between the Gods, Spirits, and Divine Champions there is a strict order. Spirits govern dealings between the Gods and their followers, and are strictly forbidden from interfering in mortal affairs. Divine Champions however are encouraged to use their blessings to sway mortal affairs. They fight in wars, rule nations, and spread their Gods religion across the land freely. Spirits are akin to saints, and Champions are like missionaries. See these links for more information on how [[Terra-Oblivia Dragons|Dragons]] and [[Dragonborn]] fit into this system.
+When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses their Divine Champion or one Spirit of their descent, and the opposing God determines a quest or goal that Spirit must achieve. The other Gods must vote on it being a fair challenge in comparison to the reason for the disagreement.
 
-When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses their Divine Champion or one Spirit of their descent, and the opposing God determines a quest or goal that Spirit mush achieve. The other Gods must vote on it being a fair challenge in comparison to the reason for the disagreement.
+Gods are not all powerful, and they are tied to their worship in addition to their domains. Should a God fail to receive any worship, and be forgotten, they will die forever. Some scholars theorize this is how the Old Gods died, forgotten, and abandoned.
 
-This divine hierarchy deeply involves Spirits, through a system called the [[Tithe]]. Gods are not all powerful, and they are tied to their worship in addition to their domains. Should a God fail to receive any worship, and be forgotten, they will die forever. Some scholars theorize this is how the Old Gods died, forgotten, and abandoned.
+### Involvement of Spirits and Dragons
+
+Between the Gods, Spirits, and Divine Champions there is a strict order. Spirits govern dealings between the Gods and their followers, and are strictly forbidden from interfering in mortal affairs. Divine Champions however are encouraged to use their blessings to sway mortal affairs. They fight in wars, rule nations, and spread their Gods religion across the land freely. Spirits are akin to saints, and Champions are like missionaries. Where Spirits and Champions represent the heavenly side of the Gods, Dragons are the other half.
+
+They are known as the 2 Faces of the Gods, Dragons and Spirits, the 2 pieces that formed the New Gods when Terra-Oblivia was cleansed. Dragons are violent, powerful, and prone to action. Instead of carrying teachings, Dragons distribute physical lessons, they serve as a reminder of the Gods strength should they be angered. It is the duty of Dragons to be true to their nature, and to enforce their will, be it for good or evil, upon the world.
 
 ---
 
@@ -73,7 +77,7 @@ Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly t
 
 Nearly all Mortals worship the Gods in some manner, even if that worship is not reverent and respectful, they recognize the immense divine power, and influence on the world that the Gods have. There is no ambiguity about the Gods existence, those who do not worship or care for the Gods usually harbor anger towards them for being so uninvolved in mortal affairs.
 
-Gods are often given offerings as bargains. One example is the Warlords of Ashkarad, many of whom pay a blood tithe to Rocan Ashar and his war Spirits. In exchange for great deeds dedicated to the domain of War, Rocan or his Spirits may grant boons, strength, or insight to the faithful. Gods never give something for nothing though, all gifts have a price.
+Gods are often given offerings as bargains. One example is the Warlords of Ashkarad, many of whom pay a blood tithe to Rocan Ashar and his war Spirits. In exchange for great deeds dedicated to the domain of War, Rocan or his Spirits may grant boons, strength, or insight to the faithful. Gods never give something for nothing though, all gifts have a price. This system is known as [[Tithe]].
 
 For more informations on specific worship practices and groups, see [[Terra-Oblivia Gods and Pantheon|Religion]].
 
@@ -95,25 +99,5 @@ Worship of the Old Gods, who have no names, is heretical in all places and all r
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
-- [[Lumena]]
-- [[Terra-Oblivia/Characters/Gods/Balthazaar.md|Balthazaar]]
-- [[Erasaad]]
-- [[Oa Maton]]
-- [[Rocan Ashar]]
-- [[Vespar Telarum]]
-- [[Krokha Inam]]
-- [[Datura Ferhaus]]
-- [[Miragrim Ysor]]
-- [[Aevarus]]
-- [[Kamara Desos]]
-- [[Terra-Oblivia Dragons|Dragons]]
-- [[Terra-Oblivia/Magic/Spirits.md|Spirit]]
-- [[The Heavens]]
-- [[Terra-Oblivia Dragons|Dragons]]
-- [[Dragonborn]]
-- [[Tithe]]
-- [[Terra-Oblivia/Religion/Divine Champions.md|Divine Champions]]
-- [[The Law of Oblivion]]
-- [[Terra-Oblivia Gods and Pantheon|Religion]]
 
 <!-- SerializedQuery END -->

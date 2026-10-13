@@ -6,7 +6,10 @@ tags:
 Created: 2026-10-12
 ---
 
-write here
+- law that says Gods cannot interact directly through mortal world outside of limited communication
+- history of Old Gods, couldn't stop meddling with the material plane and their actions caused disasters
+- Dragons rose to establish Tithe, became new Gods, restored order, saved the world from ending
+- 
 
 ---
 
