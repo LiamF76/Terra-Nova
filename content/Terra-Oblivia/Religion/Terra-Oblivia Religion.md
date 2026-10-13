@@ -76,6 +76,23 @@ tbd
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Terra-Oblivia/Magic/Spirits.md|Spirits]]
+- [[Terra-Oblivia/Religion/Divine Champions.md|Divine Champions]]
+- [[Lumena]]
+- [[Terra-Oblivia/Characters/Gods/Balthazaar.md|Balthazaar]]
+- [[Erasaad]]
+- [[Oa Maton]]
+- [[Rocan Ashar]]
+- [[Vespar Telarum]]
+- [[Krokha Inam]]
+- [[Datura Ferhaus]]
+- [[Miragrim Ysor]]
+- [[Aevarus]]
+- [[Kamara Desos]]
+- [[Tithe]]
+
+<!-- SerializedQuery END -->
 
 
 ## Religion Note Checklist

@@ -7,6 +7,8 @@ tags:
 Created: 2026-10-09
 ---
 
+# The Cult of Kasayt
+
 Welcome to Cult of Kasayt! The first campaign to be run in Terra-Oblivia. If you are reading this you're probably playing in it, and I hope you are as excited as I am!
 
 If you haven't already please feel free to browse the Terra-Oblivia Wiki or DM Liam with more questions about our setting, but everything you need to 'create a character' should already be available. There will not be as much info about the entire world already available as you may be used to in the past with Terra-Nova. Apologies, I am still building this setting out and being 100% honest Terra-Nova was pretty half baked when you guys made your first characters too, so don't worry about it.
@@ -201,6 +203,6 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 - Delver's Eye. You can read ruins for traps, hidden doors, and old inscriptions.
 
 **Bonds**: 
-- 
+- You are obsessed with a specific treasure from your past, and will put yourself or others in harms way to obtain it.
 
 ---
