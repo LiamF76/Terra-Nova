@@ -16,7 +16,7 @@ Created: 2026-10-08
 
 ## Name
 **Sana Blood-Ear**, The Blood Queen, Red Maiden
-*Pronouns*: 
+*Pronouns*: they/them
 
 ---
 

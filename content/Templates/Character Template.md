@@ -14,6 +14,7 @@ tags:
 
 ## Name
 **Name**, titles, epithets
+*Pronouns*: 
 
 ---
 
