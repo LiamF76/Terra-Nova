@@ -63,7 +63,7 @@ A devoted soul is one that worships honestly and follows the laws of their churc
 
 ## Religion and Magic
 
-tbd
+Magic is an integral part of the church in Terra-Oblivia. Those who are dedicated worshippers and obtain magic through divine means are known as Blessed. Spirits are known to grant magic through bonding pacts to devout followers, often in answer to prayers. It is quite rare, but not out of the realm of possibility. These blessings are usually granted on a condition of their use, and the completion of a. quest in exchange for the magic in the first place.
 
 ---
 
