@@ -38,9 +38,10 @@ Scratch for campaign ideas in Terra-Oblivia.
 ## BBEG & Lieutenants
 
 - **Kasayt the Red Dragon**: Powerful Red Dragon of Ashkarad. 
-	- *Hartwyn Syros*: the Demon Warlord, wielder of the Bloodstone. He has demonic powers and blood magic, and small amounts of time magic. He has a curse of demonic greed, and wants to amass power and riches for himself through conquering the Triarch.
-	- Warlord 2: 
-	- Warlord 3: 
+- *Priest*: **Hartwyn Syros**. Human Priest of Kasayt in Ashkarad. Brother of Ayla Syros. Serves Kasayt having been kidnapped from the Triarch in a raid as a child, and raised to worship Kasayt. Staunch believer in Dragon Supremacy. Hartwyn wants to revive and mantle Kasayt because Kasayt has promised his sister can be with him again and join the Cult if he is loyal.
+- *Warlord 1*: **Sana Blood-Ear**. Elf, Demon powers / Bloodstone, can turn followers into blood magic mutants. Bloodstone amulet gives them the Demon Powers.
+- *Warlord 2*: **Bellum Grail**. Human, Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
+- *Warlord 3*: **Lord Ryuu Doran**. Dragonborn, Dragon Knight with fire powers. Bonded with the power of Kasayt. Enchanted weapon gives them the Dragon powers.
 
 ---
 
@@ -52,18 +53,8 @@ These are still bullets, bear with me Daraan, it's how we work.
 - Kasayt the Red Dragon has 3 Warlord followers. These warlords worship Kasayt as their God, and want to make Kasayt a God. Kasayt sends them to find the Stone King, a relic said to hold the power of an ancient Demon. Kasayt's followers believe they can make Kasayt become a God using the Stone King.
 - A Priest of Kasayt leads the Warlords, and has promised each Warlord something in exchange for their worship of Kasayt, the Priest is the one who believes the Stone King can turn Kasayt into a living God. The Priest leads the Warlords.
 - Warlord Powers:
-	- *Warlord 1*: Elf, Demon powers / Bloodstone, can turn followers into blood magic mutants. Bloodstone amulet gives them the Demon Powers.
-		- **Sana Blood-Ear**
-			- Hartwyn Promise: 
-	- *Warlord 2*: Human, Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
-		- **Bellum Grail**
-			- Hartwyn Promise: 
-	- *Warlord 3*: Dragonborn, Dragon Knight with fire powers. Bonded with the power of Kasayt. Enchanted weapon gives them the Dragon powers.
-		- **Lord Ryuu Doran**
-			- Hartwyn Promise: 
 - This makes the Priest our effective BBEG, with Kasayt the Dragon being the impending monster / threat. The party is trying to stop the Priest from creating the Demon Dragon God from Kasayt, not trying to kill Kasayt once he has already been summoned.
 	- *Priest Character:* Hartwyn and Ayla are the Syros siblings. They act as foils of one another, both raised in religion and tradition, one being with a God, divine and forgiving, peaceful traditions. One being raised in a violent cult dedicated to a vengeful Dragon.
-		- **Hartwyn Syros**: Human Priest of Kasayt in Ashkarad. Brother of Ayla Syros. Serves Kasayt having been kidnapped from the Triarch in a raid as a child, and raised to worship Kasayt. Staunch believer in Dragon Supremacy.
 - Kasayt is sealed within a magical orb that grants the Priest his powers, general cleric of a fire dragon stuff. Bonded with Kasayt for power like a warlock. Kasayt was sealed inside the Orb by a past Priest to protect him and allow the dragon to heal until Kasayt can use the Stone King to do his demon stuff.
 - The Great Spirit is alive but stuck somewhere tied to their magical domain, healing slowly since the battle. They are still weakened by the Warlord who has stolen their powers.
 	- The Great Spirit's name is: Wings of Green, a great bird who defended the skies against Kasayt.
@@ -71,10 +62,3 @@ These are still bullets, bear with me Daraan, it's how we work.
 	- *1. Raiders steal it*: Raiders escape with the artifact, fleeing towards the last shrine of the Great Spirit, planning to use the artifact to kill the Spirit permanently.
 	- *2. Party returns it to Gate*: The party stops the raiders before they get the artifact, and can return it to Gate. 
 	- *3. Party keeps it*: Alternatively they can keep it for themselves, and use its power for their own goals.
-
-## Party Roles
-
-Each player will choose a party role to fulfill.
-
-- **Risen Dead**: In a long abandoned tradition, you have been raised from the dead in service to the High Priestess of Krokha Inam. You are the champion of Ayla, and have been sent out into Triarch territory to enforce her will and protect the land.
-- **Council's Chosen**: You have been chosen by the Council of the 3 Cities to represent their interests as an agent of the Triarch.
