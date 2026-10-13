@@ -96,16 +96,6 @@ A short paragraph describing the city at a glance. What is it known for? What is
 
 ---
 
-## Key NPCs
-
-| Name | Role | Notes |
-| ---- | ---- | ----- |
-|      |      |       |
-|      |      |       |
-|      |      |       |
-
----
-
 ## History
 
 Brief notes on the city's founding and major historical events. Link to timeline entries where relevant.

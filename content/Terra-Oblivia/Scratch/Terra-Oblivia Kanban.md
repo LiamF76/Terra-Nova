@@ -82,6 +82,8 @@ tags:
 	- Knights are bound to noble houses or cities
 	- Free Knights are unbound, and can do as they please
 	- 4 Seasonal festivals / 5 Spirits culture (1 for time)
+- [ ] [[Citadel]]
+	- Religious, ruled by Devout Assembly of Priests
 - [ ] [[Gate]]
 	- Only road entrance to the Triarch
 	- Frontier town, most dangerous, lots of monsters to deal with
@@ -91,8 +93,6 @@ tags:
 	- city exists within fortified sections of the ruins, some parts are still ruins / unexplored and contain monsters
 	- has protection by mountains and cliffs
 	- knights ride and raise Griffins as mounts, tradition started to combat Dragons
-- [ ] [[Citadel]]
-	- Religious, ruled by Devout Assembly of Priests
 
 
 ## Triarch Culture / Groups

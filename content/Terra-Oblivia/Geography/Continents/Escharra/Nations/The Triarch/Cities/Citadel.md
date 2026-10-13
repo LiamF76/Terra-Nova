@@ -8,11 +8,12 @@ Created: 2026-10-12
 
 # Citadel
 
-*One line that captures the city's essence — what it feels, smells, or sounds like*
+*Citadel, home of the Devout Assembly, most holy of the Triarch cities, this place is the center of divinity and worship in the 3 Cities.*
 
 ## Overview
 
 A short paragraph describing the city at a glance. What is it known for? What is the first impression a traveler gets arriving here? What makes it distinct from every other city in Terra-Nova?
+Citadel is a hub for religion. There are 
 
 ---
 

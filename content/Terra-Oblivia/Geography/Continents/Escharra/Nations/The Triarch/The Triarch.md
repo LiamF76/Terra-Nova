@@ -49,8 +49,8 @@ tags:
 **Government type**: Republic
 **Ruling body / leader(s)**: The Triarch Council
 **Noble houses / power factions**: 
-- House Petrivos, Noble house carrying the blood of the Basilisk.
-- House Rokin, Noble house carrying the blood of Giants.
+- [[Noble Houses of the Triarch]]
+- 
 **How magic influences politics**: 
 **Foreign relations**: 
 
