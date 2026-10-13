@@ -63,11 +63,15 @@ When the New Gods were born, they instituted a strict law, that Gods will not fi
 
 Gods are not all powerful, and they are tied to their worship in addition to their domains. Should a God fail to receive any worship, and be forgotten, they will die forever. Some scholars theorize this is how the Old Gods died, forgotten, and abandoned.
 
-### Involvement of Spirits and Dragons
+---
+
+## Involvement of Spirits and Dragons
 
 Between the Gods, Spirits, and Divine Champions there is a strict order. Spirits govern dealings between the Gods and their followers, and are strictly forbidden from interfering in mortal affairs. Divine Champions however are encouraged to use their blessings to sway mortal affairs. They fight in wars, rule nations, and spread their Gods religion across the land freely. Spirits are akin to saints, and Champions are like missionaries. Where Spirits and Champions represent the heavenly side of the Gods, Dragons are the other half.
 
-They are known as the 2 Faces of the Gods, Dragons and Spirits, the 2 pieces that formed the New Gods when Terra-Oblivia was cleansed. Dragons are violent, powerful, and prone to action. Instead of carrying teachings, Dragons distribute physical lessons, they serve as a reminder of the Gods strength should they be angered. It is the duty of Dragons to be true to their nature, and to enforce their will, be it for good or evil, upon the world.
+They are known as the 2 Faces of the Gods, Dragons and Spirits, the 2 pieces that formed the New Gods when Terra-Oblivia was cleansed. Dragons are violent, powerful, and prone to action. Instead of carrying teachings, Dragons distribute physical lessons, they serve as a reminder of the Gods strength should they be angered. It is the duty of Dragons to be true to their nature, and to enforce their will, be it for good or evil, upon the world. Dragons do not have Divine Champions, but their Dragonborn children serve essentially the same purpose.
+
+Spirits and Dragons clash often, and the Gods leave these conflicts to be settled by those involved. Gods are forbidden from acting against the Dragons or Spirits, as to do so would be to deny part of their nature, choosing one over another. The being with greater might will win, as the Dragon Gods won over the Old Gods, and this is intended law of the Gods.
 
 ---
 
@@ -99,5 +103,23 @@ Worship of the Old Gods, who have no names, is heretical in all places and all r
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Lumena]]
+- [[Terra-Oblivia/Characters/Gods/Balthazaar.md|Balthazaar]]
+- [[Erasaad]]
+- [[Oa Maton]]
+- [[Rocan Ashar]]
+- [[Vespar Telarum]]
+- [[Krokha Inam]]
+- [[Datura Ferhaus]]
+- [[Miragrim Ysor]]
+- [[Aevarus]]
+- [[Kamara Desos]]
+- [[Terra-Oblivia Dragons|Dragons]]
+- [[Terra-Oblivia/Magic/Spirits.md|Spirit]]
+- [[The Heavens]]
+- [[Terra-Oblivia/Religion/Divine Champions.md|Divine Champions]]
+- [[The Law of Oblivion]]
+- [[Tithe]]
+- [[Terra-Oblivia Gods and Pantheon|Religion]]
 
 <!-- SerializedQuery END -->
