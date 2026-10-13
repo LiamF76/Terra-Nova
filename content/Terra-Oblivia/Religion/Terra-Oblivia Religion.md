@@ -11,12 +11,6 @@ tags:
 Created: 2026-09-21
 ---
 
-Brainstorm:
-- 1 religion per God, the pantheon is all recognized but people direct worship to a specific god
-- worship path Worshipper -> Priest / Shrine -> Spirit -> God
-- simple religion, teachings come from Spirits, relics, ancient texts, divine champions, and tradition
-- 
-
 # Religion in Terra-Oblivia
 
 In Terra-Oblivia, the Gods are an absent force for order, than remains powerful due to their immense involvement with mortal affairs through mediums such as [[Terra-Oblivia/Magic/Spirits|Spirits]] and [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]]. In Terra-Oblivia, religion is not a speculation or faith, it is a transaction between proven divine forces and mortals. It is offering faith and gifts to the Gods in exchange for their blessing and protection, Mortals need the Gods, and the Gods need mortals.
@@ -42,6 +36,12 @@ Why worship the Gods? Because mortals need them. In a world of dark magics, arca
 | The Threadkeepers           | [[Kamara Desos]]                                         | **Fate**        |
 
 Churches in Terra-Oblivia are organized by God, each Church being run locally by a Great Spirit and a Divine Champion tied to that God. There are no strict rules for membership, only that you follow that God's laws and give offerings in action and prayer. 
+
+---
+
+## Religious Teachings
+
+The tenets and lessons set by the Gods are imparted to mortals through many means. Spirits are most common, acting as religious guides and teaches, distributing the teachings of the Gods directly. Outside Spirits, there are many ancient artifacts, scrolls, tomes, and stories that give lessons and laws for living within the Gods faith.
 
 ---
 
