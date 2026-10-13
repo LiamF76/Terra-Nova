@@ -40,8 +40,8 @@ Act 1:
 ### Session 1:
 - mention TBD Name good NPC priest a few times, as someone the party has been sent to meet. Show they are faithful, and good.
 - A caravan is bringing an artifact of the Green Knights to Citadel for study *BUT* they are ambushed on the road by Sana's minions **THEREFORE** the party has to stop the ambush somehow (fight, grab artifact and flee, help escort of artifact escape, etc).
-- The party was invited to meet with TBD Name good NPC *BUT* they find TBD Name dead with a massive battleaxe having cut them in half (weapon still there) **THEREFORE** the party has to decipher why they were killed by looking their their notes.
-- The party finds the TBD Name's research on the Green Knights and a demonic tome *BUT* the location of both are incomplete **THEREFORE** they have to go to some ruins TBD Name thought would hold the location of either option.
+- The party was invited to meet with Rowan *BUT* they find TBD Name dead with a massive battleaxe having cut them in half (weapon still there) **THEREFORE** the party has to decipher why they were killed by looking their their notes.
+- The party finds the Rowan's research on the Green Knights and a demonic tome *BUT* the location of both are incomplete **THEREFORE** they have to go to some ruins Rowan thought would hold the location of either option.
 
 ---
 

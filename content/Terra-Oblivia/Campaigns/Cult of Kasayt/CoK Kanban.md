@@ -25,7 +25,7 @@ kanban-plugin: board
 	- citadel NPC of note
 	- traitor, working for Hartwyn
 	- told Sana about the artifact being sent to Citadel
-- [ ] TBD NAME
+- [ ] Rowan
 	- citadel NPC of note
 	- member of Devout assembly
 	- genuine good person
@@ -34,8 +34,10 @@ kanban-plugin: board
 
 ## Places
 
+- [ ] Triarch Map
 - [ ] [[Citadel]]
 - [ ] [[The Triarch]]
+	- Regions, mountains, forests, river, places things can be. MAP MAP MAP!
 - [ ] [[Gate]]
 
 
