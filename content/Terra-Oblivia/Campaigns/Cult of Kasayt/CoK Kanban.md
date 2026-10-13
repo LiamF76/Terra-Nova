@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[CoK Campaign Brainstorm]]
 - [ ] [[Cult of Kasayt Campaign Primer]]
+- [ ] [[CoK Act 1]]
 
 
 ## rules
@@ -24,8 +25,9 @@ kanban-plugin: board
 
 ## Places
 
+- [ ] [[Citadel]]
 - [ ] [[The Triarch]]
-- [ ] Gate
+- [ ] [[Gate]]
 
 
 
