@@ -19,7 +19,7 @@ Brainstorm:
 
 # Religion in Terra-Oblivia
 
-In Terra-Oblivia, the Gods are an absent force for order, than remains powerful due to their immense involvement with mortal affairs through mediums such as [[Terra-Oblivia/Magic/Spirits|Spirits]] and [[Terra-Oblivia/Religion/Divine Champions|Divine Champion]]. In Terra-Oblivia, religion is not a speculation or faith, it is a transaction between proven divine forces and mortals. It is offering faith and gifts to the Gods in exchange for their blessing and protection, Mortals need the Gods, and the Gods need mortals.
+In Terra-Oblivia, the Gods are an absent force for order, than remains powerful due to their immense involvement with mortal affairs through mediums such as [[Terra-Oblivia/Magic/Spirits|Spirits]] and [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]]. In Terra-Oblivia, religion is not a speculation or faith, it is a transaction between proven divine forces and mortals. It is offering faith and gifts to the Gods in exchange for their blessing and protection, Mortals need the Gods, and the Gods need mortals.
 
 Why worship the Gods? Because mortals need them. In a world of dark magics, arcane disasters, and endless monsters, mortals cannot survive against these forces alone. The Gods and Spirits are protectors, and mortals pay for that protection in faith. 
 
@@ -41,7 +41,7 @@ Why worship the Gods? Because mortals need them. In a world of dark magics, arca
 | The Wild Flock              | [[Aevarus]]                                              | **Beasts**      |
 | The Threadkeepers           | [[Kamara Desos]]                                         | **Fate**        |
 
-Churches in Terra-Oblivia are organized by God, each Church being run locally by Great Spirit and a Divine Champion tied to that God. There are no strict rules for membership, only that you follow that God's rules and give offerings in action and prayer. 
+Churches in Terra-Oblivia are organized by God, each Church being run locally by a Great Spirit and a Divine Champion tied to that God. There are no strict rules for membership, only that you follow that God's laws and give offerings in action and prayer. 
 
 ---
 
@@ -51,7 +51,7 @@ Worship comes from material and action. Each God prefers their worship in differ
 
 People follow Gods based on multiple factors such as profession, lineage, and location. Some Gods are worshipped more in some areas than others, and the political and geographical location can influence which God you worship heavily.
 
-Devotion to a God takes time, but can bring great benefits. To live by the tenets set forth by your God, and faithful worship brings favor with the Great Spirits of their domain. A devoted follower with many years of dedicated worship is much more likely to have prayers answered and blessings given from their Spirits. It is crucial to the Gods that mortals worship them, so their churches stress the importance of doing so consistently and  with dedication. If a follower has not given faithfully enough to meet their request, Spirits are known to turn them away, and demand further offerings before their prayers can be answered. This is a highly transactional relationship in which the Spirits dispense when paid fairly in faith.
+Devotion to a God takes time, but can bring great benefits. To live by the tenets set forth by your God, and faithful worship brings favor with the Great Spirits of their domain. A devoted follower with many years of dedicated worship is much more likely to have prayers answered and blessings given from their Spirits. It is crucial to the Gods that mortals worship them, so their churches stress the importance of doing so consistently and with dedication. If a follower has not given faithfully enough to meet their request, Spirits are known to turn them away, and demand further offerings before their prayers can be answered. This is a highly transactional relationship in which the Spirits dispense when paid fairly in faith.
 
 ---
 
