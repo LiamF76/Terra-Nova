@@ -38,6 +38,6 @@ They always carry a massive weapon, rotating between the largest thing they can 
 ---
 
 ## Important Info
-- Warlord / Cultist of Kasayt
+- Warlord / Cultist of [[Kasayt]]
 - Follower of [[Hartwyn]]
 - 
