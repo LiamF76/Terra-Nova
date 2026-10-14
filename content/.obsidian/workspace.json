@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 46.48337595907928,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -62,6 +63,59 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "e2dc50db63bb8100",
+        "type": "tabs",
+        "dimension": 53.51662404092071,
+        "children": [
+          {
+            "id": "a768f903cfde9b56",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Terra-Oblivia Kanban"
+            }
+          },
+          {
+            "id": "73a757f966cdb985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terra-Oblivia Religion"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +246,13 @@
   },
   "active": "67a1f01bd20cc92e",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Terra-Oblivia/Characters/Mortals/Hartwyn Syros.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Characters/Mortals/Rowan August.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Dashboard.md",
+    "z Images/Rowan August-1792018785782.webp",
+    "Terra-Oblivia/Characters/Mortals/Hartwyn Syros.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sana Toolkit.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Act 1/CoK Act 1.md",
     "Terra-Oblivia/Characters/Mortals/Sana Black-Sky.md",
@@ -203,13 +260,11 @@
     "Writing Tips/The 3 Clue Rule.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
     "Templates/BUT THEREFORE template.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Templates/Character Template.md",
     "z Images/Sana Black-Sky-1791913574987.webp",
     "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia GRAPES.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Terra-Oblivia/Characters/Gods/Miragrim Ysor.md",
     "Terra-Oblivia/Religion/The Law of Oblivion.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
@@ -220,7 +275,6 @@
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
     "Terra-Oblivia/Groups/Noble Families",
     "Terra-Oblivia/Cosmology/Constellations.md",
-    "Terra-Oblivia/Characters/Gods/Lumena.md",
     "z Images/Terra-Oblivia Gods and Pantheon-1791837762827.webp",
     "z Images/Terra-Oblivia Gods and Pantheon-1791837022691.webp",
     "z Images/The Triarch-1791831754527.webp",
@@ -235,7 +289,6 @@
     "z Images/Aevarus-1791752837120.webp",
     "Terra-Oblivia/Characters/Gods",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities",
-    "z Images/Terra-Oblivia Wiki Homepage-1791577298140.webp",
     "Terra-Oblivia/Campaigns/Untitled",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Campaigns/Cult of Kasayt",

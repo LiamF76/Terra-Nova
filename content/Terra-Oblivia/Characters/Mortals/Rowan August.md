@@ -9,29 +9,29 @@ Created: 2026-10-14
 
 # Rowan August
 
-![[image.png|300]]
+![[Rowan August-1792018785782.webp|300x424]]
 
 ---
 
 ## Rowan August
-titles, epithets
+High Priest of Lumena, Gold-heart
 *Pronouns*: he/him
 
 ---
 
 ## Voice
-How they speak/communicate
+Rowan is soft spoken, kind, and patient. He speaks slowly not because he is slow, but because he is careful with his words.
 
 > [!quote]
-> "Quote"
+> "Being pitted against good men does not make you evil, but you must always ask yourself when faced with good men, if you too are aligned with good."
 
 > [!quote]
-> "Quote"
+> "Lumena teaches that life is scared, and light is the giver of life, so light must be quite sacred as well."
 
 ---
 
 ## Description
-Physical forms and appearance
+6'1 dark skinned human. Rowan wears a combination of armor plating and priests robes. He always wears his blessed symbol of Lumena, 
 
 ---
 
