@@ -43,12 +43,16 @@ Ideas:
 
 BUT THEREFORE:
 - A caravan is bringing an artifact of the Green Knights to Citadel for study *BUT* they are ambushed on the road by Sana's minions **THEREFORE** the party has to stop the ambush somehow (fight, grab artifact and flee, help escort of artifact escape, etc).
-- The party was invited to meet with Rowan *BUT* they find TBD Name dead with a massive battleaxe having cut them in half (weapon still there) **THEREFORE** the party has to decipher why they were killed by looking their their notes.
+- The party was invited to meet with Rowan *BUT* they find Rowan dead with a massive battleaxe having cut them in half (curse magic weapon still there) **THEREFORE** the party has to decipher why they were killed by looking their their notes.
 	- *Green Knights*. 3 Clues in notes:
-		- 1. Ancient scroll states: 'The tablet lies where the mountain's shadow is invisible' 
-		- 2. Notes reference the wooded fortress
+		- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
+		- 2. Notes reference the wooden fortress
 		- 3. Logbook shows he gathered supplies regularly at a small town outside a TBD NAME forest
-- The party finds the Rowan's research on the Green Knights and a demonic tome *BUT* the location of both are incomplete **THEREFORE** they have to go to some ruins Rowan thought would hold the location of either option.
+	- *Demonic Tome*. 3 Clues in notes:
+		- The door is physical, the key is not
+		- The door rests within a building made to be like a mountain
+		- A reminder that wizards take security very seriously
+- The party finds the Rowan's research on the Green Knights and a demonic tome *BUT* the location of both are incomplete **THEREFORE** they have to follow either the Green Knights woodland fortress lead or the Demonic Tome tower lead.
 
 ---
 
