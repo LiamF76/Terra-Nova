@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] [[CoK Campaign Brainstorm]]
 - [ ] [[Cult of Kasayt Campaign Primer]]
 - [ ] [[CoK Act 1]]
+- [ ] [[Sana Toolkit]]
 
 
 ## rules
