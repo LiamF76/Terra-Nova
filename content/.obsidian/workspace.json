@@ -24,26 +24,17 @@
             }
           },
           {
-            "id": "844f660d25151c13",
+            "id": "a7b7ac29433ed36e",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Act 1/CoK Act 1.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
+              "icon": "lucide-file",
+              "title": "CoK Act 1"
             }
           }
         ],
@@ -176,16 +167,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "844f660d25151c13",
+  "active": "a7b7ac29433ed36e",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sana Toolkit.md",
     "Terra-Oblivia/Characters/Mortals/Sana Black-Sky.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Act 1",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Act 1/CoK Act 1.md",
     "Writing Tips/The 3 Clue Rule.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
-    "Dashboard.md",
     "Templates/BUT THEREFORE template.md",
     "Terra-Oblivia/Characters/Mortals/Hartwyn.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",

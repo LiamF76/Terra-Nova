@@ -53,6 +53,7 @@ BUT THEREFORE:
 		- The door rests within a building made to be like a mountain
 		- A reminder that wizards take security very seriously
 - The party finds the Rowan's research on the Green Knights and a demonic tome *BUT* the location of both are incomplete **THEREFORE** they have to follow either the Green Knights woodland fortress lead or the Demonic Tome tower lead.
+- The party wants to investigate *BUT* the Devout Assembly is missing a member and BAD NPC SPY won't vote in the party's favor **THEREFORE** they need to find away around his approval or earn his favor.
 
 ---
 
@@ -60,7 +61,5 @@ BUT THEREFORE:
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
-- [[Sana Black-Sky]]
-- [[Kasayt]]
 
 <!-- SerializedQuery END -->
