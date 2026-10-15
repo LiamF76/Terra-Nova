@@ -23,7 +23,7 @@ Why worship the Gods? Because mortals need them. In a world of dark magics, arca
 
 | Church                | God                                                      | Domain          |
 | --------------------- | -------------------------------------------------------- | --------------- |
-|                       | [[Lumena]]                                               | **Light**       |
+| The Sunlight Grove    | [[Lumena]]                                               | **Light**       |
 | The Fanged Shadow     | [[Terra-Oblivia/Characters/Gods/Balthazaar\|Balthazaar]] | **Darkness**    |
 | The Final Twilight    | [[Erasaad]]                                              | **Death**       |
 | The Shifting Scales   | [[Oa Maton]]                                             | **Balance**     |

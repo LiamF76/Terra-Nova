@@ -9,7 +9,9 @@ Created: 2026-10-14
 
 # Rowan August
 
-![[Rowan August-1792018785782.webp|300x424]]
+| Character                                     | Necklace                                      |
+| --------------------------------------------- | --------------------------------------------- |
+| ![[Rowan August-1792018785782.webp\|300x424]] | ![[Rowan August-1792022757105.webp\|300x400]] |
 
 ---
 
@@ -36,9 +38,8 @@ Rowan is soft spoken, kind, and patient. He speaks slowly not because he is slow
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
+- High Priest of [[Lumena]], earned his position as a healer during The Surge Wars
+- Member of the [[The Devout Assembly]] in [[Citadel]]
 - 
 
 ---
