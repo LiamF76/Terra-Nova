@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -43,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -135,8 +137,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -149,19 +151,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false,
       "canvas:Create new canvas": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Dashboard.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+    "Arkfall/Groups/Organizations/The Fallen Star Coalition.md",
+    "conflict-files-obsidian-git.md",
     "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/History & Lore/Folktales",
@@ -192,14 +199,9 @@
     "Terra-Oblivia/Scratch/Terra-Oblivia GRAPES.md",
     "Terra-Oblivia/Reshaping WIP/Reshaped Gods.md",
     "Terra-Oblivia/Religion/The Law of Oblivion.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Divine Heirarchy.md",
     "Terra-Oblivia/Religion/Dragonborn.md",
-    "Terra-Oblivia/Cosmology/Planes/The Material Plane.md",
-    "Terra-Oblivia/Cosmology/Planes/The Infinite Road.md",
-    "Terra-Oblivia/Cosmology/Planes/The Heavens.md",
     "Terra-Oblivia/Characters/Mortals",
     "Terra-Oblivia/Characters/Gods",
     "Arkfall/Cosmology/Old Arkfall Map.canvas",
