@@ -23,7 +23,7 @@ TBD
 | God         | Champion |
 | ----------- | -------- |
 | [[Illuman]] | [[Maro]] |
-| [[Balthazaar]]  |          |
+| [[Terra-Nova/Characters/Extraplanar/Gods/Balthazaar]]  |          |
 | Mani        |          |
 | Malos       |          |
 

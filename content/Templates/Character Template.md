@@ -13,7 +13,8 @@ tags:
 ---
 
 ## Name
-**Name**, titles, epithets
+titles, epithets
+*Pronouns*: 
 
 ---
 

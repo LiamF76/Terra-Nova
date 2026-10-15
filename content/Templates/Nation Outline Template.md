@@ -7,96 +7,103 @@ aliases:
 # Nation Name
 ### AKA: Nicknames / Epithets
 
-One-sentence summary: 
-What makes it unique: 
+**One-sentence summary**: 
+**What makes it unique**: 
 
-## 1. Geography & Environment
+---
 
-Location on the continent: 
-Climate & biomes: 
+## Geography & Environment
 
-Major natural features:
-- Mountains: 
-- Rivers: 
-- Forests: 
-- Deserts / Wastes: 
-- Magical anomalies: 
+**Location on the continent**: 
+**Climate & biomes**: 
 
-Environmental magic (if any):
-- Mana-rich zones or ley-like effects: 
-- Spirit presence: 
-- Abyssal / Scarred zones: 
+**Major natural features**:
+- *Mountains*: 
+- *Rivers*: 
+- *Forests*: 
+- *Deserts / Wastes*: 
+- *Magical anomalies*: 
 
-## 2. History
+**Environmental magic (if any)**:
+- *Mana-rich zones or leyline effects*: 
+- *Spirit presence*: 
+- *Abyssal / Scarred zones*: 
 
-Founding myth / origin: 
-Major eras (rise, golden age, decline, present): 
-Key historical events: 
-Relationship to the Reshaping: 
+---
 
-## 3. Government & Power Structure
+## History
 
-Government type: 
-Ruling body / leader(s): 
-Noble houses / power factions: 
-How magic influences politics: 
-Foreign relations: 
+**Founding myth / origin**: 
+**Major eras (rise, golden age, decline, present)**: 
+**Key historical events**: 
+**Relationship to the Reshaping**: 
 
-## 4. Culture & Society
+---
 
-Population makeup (races present, ratios, notable minorities): 
-Values & ideals: 
-Religion & spiritual beliefs (which God/Great Spirit, if any): 
-Traditions & festivals: 
-Art, music, aesthetics: 
-Education & magic training: 
-Attitudes toward outsiders: 
+## Government & Power Structure
 
-## 5. Economy
+**Government type**: 
+**Ruling body / leader(s)**: 
+**Noble houses / power factions**: 
+**How magic influences politics**: 
+**Foreign relations**: 
 
-Primary resources: 
-Magical resources: 
-Trade partners: 
-Currency / wealth systems: 
-Industries & crafts: 
+---
 
-## 6. Magic & Supernatural Elements
+## Culture & Society
 
-How common is magic here: 
-Dominant magic origins (Pact / Ancestry / Artifice / Old Rites): 
-Dominant mage specialties (Cinder / Scarred / Stormseer / etc.): 
-Magical infrastructure: 
-Forbidden magic: 
+**Population makeup (races present, ratios, notable minorities)**: 
+**Values & ideals**: 
+**Religion & spiritual beliefs (which God/Great Spirit, if any)**: 
+**Traditions & festivals**: 
+**Art, music, aesthetics**: 
+**Education & magic training**: 
+**Attitudes toward outsiders**: 
 
-## 7. Military & Defense
+---
 
-Military structure: 
-Elite units: 
-Magical warfare: 
-Defensive infrastructure: 
-Threats (internal & external): 
+## Economy
 
-## 8. Cities & Regions
+**Primary resources**: 
+**Magical resources**: 
+**Trade partners**: 
+**Currency / wealth systems**: 
+**Industries & crafts**: 
 
-Capital / seat of power: 
-Major cities: 
-Unique regions (ruins, adventure sites, dangerous zones): 
+---
 
-## 9. Notable People
+## Magic & Supernatural Elements
 
-Rulers: 
-Faction leaders: 
-Heroes / villains: 
-Scholars / mages: 
-Legends / mythic figures: 
+**How common is magic here**: 
+**Dominant magic origins (Pact / Ancestry / Artifice / Old Rites)**: 
+**Dominant mage specialties (Cinder / Scarred / Stormseer / etc.)**: 
+**Magical infrastructure**: 
+**Forbidden magic**: 
 
-## 10. Adventure Hooks
+---
 
-Political: 
-Magical: 
-Exploration: 
-Cultural: 
-Threat: 
+## Military & Defense
 
-## Open Questions
-- 
+**Military structure**: 
+**Elite units**: 
+**Magical warfare**: 
+**Defensive infrastructure**: 
+**Threats (internal & external)**: 
+
+---
+
+## Cities & Regions
+
+**Capital / seat of power**: 
+**Major cities**: 
+**Unique regions (ruins, adventure sites, dangerous zones)**: 
+
+---
+
+## Notable People
+
+**Rulers**: 
+**Faction leaders**: 
+**Heroes / villains**: 
+**Scholars / mages**: 
+**Legends / mythic figures**: 

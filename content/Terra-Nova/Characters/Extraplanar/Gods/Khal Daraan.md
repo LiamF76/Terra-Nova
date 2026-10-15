@@ -29,7 +29,7 @@ Khal's voice is deep and rumbling, it sounds like the great waves of the ocean t
 > "Mortals cannot comprehend reality, what is real is beyond you. I am real, and you do not exist."
 
 > [!quote]
-> "Mortals fear the dark... my child the Night Serpent. [[Balthazaar]] is but a small and fleeting adder. Before there was darkness, there was I, and I am Nothing."
+> "Mortals fear the dark... my child the Night Serpent. [[Terra-Nova/Characters/Extraplanar/Gods/Balthazaar]] is but a small and fleeting adder. Before there was darkness, there was I, and I am Nothing."
 
 ---
 

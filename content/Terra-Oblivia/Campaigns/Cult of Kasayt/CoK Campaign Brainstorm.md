@@ -1,0 +1,70 @@
+---
+publish: false
+title:
+aliases:
+tags:
+  - Terra-Oblivia
+Created: 2026-10-04
+---
+
+Scratch for campaign ideas in Terra-Oblivia.
+
+---
+
+# Brainstorm (Not finalized)
+
+### Setup
+- Warlord harnessing Arkonil's power from the petrified / sealed Kairos who was holding Arkonil. The seal is breaking.
+- A Red Dragon, Kasayt, has 3 Warlord followers. Kasayt is sending their followers to attack the Triarch. The Red Dragon seeks an artifact known as the Stone King, with demonic powers. The Warlords who follow Kasayt worship them as a God, and believe they can make Kasayt a new God using the Stone King's powers. 
+- Breaking the seal / some other trigger, awakens a dormant protocol of Ivys, to prevent Arkonil from being freed.
+- Party is assembled to stop the Warlord. Their goal is to venture into Ashkarad and defeat him, and stop his armies from destroying the last bastion of freedom.
+
+### Question & Answer
+- The Warlord is attacking the Triarch, why?
+	- Got the Bloodstone from a cunning dragon, the dragon demands the Warlord use his powers to invade the Triarch as payment.
+- The Warlord has magical powers, they need to figure out how / where they come from to stop them. Knowledge is power. Where does this power come from and how can it be defeated?
+	- Drawing power from an ancient artifact, 'The Bloodstone'. This is a piece of the sealed Arkonil / Kairos. Grants him demonic powers. Maybe some time magic as well to hint at Kairos?
+	- Power is tied to the Bloodstone, meaning if the Warlord no longer possesses it, they lose their power, and if it is destroyed they can remove it permanently.
+	- Mutating his followers using blood magic, turning them into vicious monsters and beasts. They are dangerous, and powerful.
+- Hartwyn was given the Bloodstone by Kasayt
+	- The rest of the artifact, Kairos / Arkonil sealed in stone, is actually in the Triarch, underground after centuries of change in the land. This artifact is known as 'The Stone King'.
+- Ivys's dormant protocol, a new star shines in the sky, Ivys's space station fortress. What does it do to stop Arkonil being free?
+	- Ivys's protocol is set to awaken a powerful Temporal Spirit called Graveglass within the fortress, who would destroy Kairos / Arkonil permanently before they could be freed. Graveglass goes outside its original directive set by Ivys, and believes it must rule the world to ensure peace.
+- Kairos awakening within the Bloodstone alongside Arkonil, what is his motive, actions, and feeling now?
+	- 
+
+---
+
+## BBEG & Lieutenants
+
+Levels of Play / BBEGs:
+- *1-5*: **[[Sana Black-Sky]]**
+- *5-8*: **Lord Ryuu Doran**
+- *8-12*: **Bellum Grail**
+- *12+*: **[[Hartwyn Syros]]/ Kasayt**
+
+- **Kasayt the Red Dragon**: Powerful Red Dragon of Ashkarad. 
+- *Priest*: **[[Hartwyn Syros]]**. Human Priest of Kasayt in Ashkarad. Brother of Ayla Syros. Serves Kasayt having been kidnapped from the Triarch in a raid as a child, and raised to worship Kasayt. Staunch believer in Dragon Supremacy. Hartwyn wants to revive and mantle Kasayt because Kasayt has promised his sister can be with him again and join the Cult if he is loyal.
+- *Warlord 1*: **[[Sana Black-Sky]]**. Elf, Demon powers / Bloodstone, can turn followers into blood magic mutants. Bloodstone amulet gives them the Demon Powers.
+- *Warlord 2*: **Bellum Grail**. Human, Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
+- *Warlord 3*: **Lord Ryuu Doran**. Dragonborn, Dragon Knight with fire powers. Bonded with the power of Kasayt. Enchanted weapon gives them the Dragon powers.
+
+---
+
+## Finalized Info
+
+These are still bullets, bear with me Daraan, it's how we work.
+
+- Long ago Kasayt the Red Dragon attacked the early Triarch valley, and was thwarted by a Great Spirit. This battle between the Great Spirit and Kasayt caused both the Dragon and Spirit to be weakened, and lost a great deal of their power.
+- Kasayt the Red Dragon has 3 Warlord followers. These warlords worship Kasayt as their God, and want to make Kasayt a God. Kasayt sends them to find the Stone King, a relic said to hold the power of an ancient Demon. Kasayt's followers believe they can make Kasayt become a God using the Stone King.
+- A Priest of Kasayt leads the Warlords, and has promised each Warlord something in exchange for their worship of Kasayt, the Priest is the one who believes the Stone King can turn Kasayt into a living God. The Priest leads the Warlords.
+- Warlord Powers:
+- This makes the Priest our effective BBEG, with Kasayt the Dragon being the impending monster / threat. The party is trying to stop the Priest from creating the Demon Dragon God from Kasayt, not trying to kill Kasayt once he has already been summoned.
+	- *Priest Character:* Hartwyn and Ayla are the Syros siblings. They act as foils of one another, both raised in religion and tradition, one being with a God, divine and forgiving, peaceful traditions. One being raised in a violent cult dedicated to a vengeful Dragon.
+- Kasayt is sealed within a magical orb that grants the Priest his powers, general cleric of a fire dragon stuff. Bonded with Kasayt for power like a warlock. Kasayt was sealed inside the Orb by a past Priest to protect him and allow the dragon to heal until Kasayt can use the Stone King to do his demon stuff.
+- The Great Spirit is alive but stuck somewhere tied to their magical domain, healing slowly since the battle. They are still weakened by the Warlord who has stolen their powers.
+	- The Great Spirit's name is: Wings of Green, a great bird who defended the skies against Kasayt.
+- **INCITING INCIDENT**: The forces of Kasayt, a group of monsters like a big ogre and some smaller monsters attack a caravan carrying an important magical artifact on the road to Gate. The party is caught up in the attack, either riding with the caravan or being nearby at the time, and they get involved. The artifact is a (broken) magical hourglass. Outcomes:
+	- *1. Raiders steal it*: Raiders escape with the artifact, fleeing towards the last shrine of the Great Spirit, planning to use the artifact to kill the Spirit permanently.
+	- *2. Party returns it to Gate*: The party stops the raiders before they get the artifact, and can return it to Gate. 
+	- *3. Party keeps it*: Alternatively they can keep it for themselves, and use its power for their own goals.

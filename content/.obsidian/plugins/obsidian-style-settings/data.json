@@ -74,5 +74,20 @@
   "fancy-a-story@@fas-opposite-bg": false,
   "fancy-a-story@@rainbow-brightness": 1,
   "fancy-a-story@@rainbow-saturation": 1,
-  "fancy-a-story@@fas-accessibility": false
+  "fancy-a-story@@fas-accessibility": false,
+  "ulu-theme-settings@@ulu-color-accent": "ulu-green",
+  "obsidian-velocity@@ss-section-news": true,
+  "obsidian-velocity@@color-highlight-rgb": "var(--highlight-green-rgb)",
+  "obsidian-velocity@@enable-special-text": true,
+  "obsidian-velocity@@enable-special-code": true,
+  "obsidian-velocity@@theme-paint-dark": "bronze",
+  "obsidian-velocity-config@@disable-title-h1": true,
+  "ulu-theme-settings@@ulu-callouts": "ulu-gummy-callouts",
+  "halftone@@hf-paper": "hf-paper-sage",
+  "halftone@@hf-window": "hf-window-grey",
+  "halftone@@hf-pixel-files": false,
+  "halftone@@hf-centre-title": true,
+  "halftone@@hf-gaps": true,
+  "halftone@@hf-no-dots": false,
+  "halftone@@hf-no-crop-marks": false
 }

@@ -29,7 +29,7 @@ Here are some helpful links to get you started.
 
 > [!info] [[Primordials]]
 
-> [!info] [[Spirits]]
+> [!info] [[Terra-Nova/Bestiary/Celestials/Spirits]]
 
 > [!info] [[Dragons]]
 

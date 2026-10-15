@@ -1,0 +1,125 @@
+---
+publish: true
+title: Terra-Oblivia Gods and Pantheon
+aliases:
+  - Gods
+  - Religion
+  - Church
+  - Pantheon
+  - 
+tags:
+  - Terra-Oblivia
+---
+
+# Pantheon: The Dragon Gods of Terra-Oblivia
+
+## Gods & Domains Overview
+
+| God                                                      | Domain          | Subsumes                                                                             |
+| -------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------ |
+| [[Lumena]]                                               | **Light**       | Light, life, hierarchy, and nature, superiority.                                     |
+| [[Terra-Oblivia/Characters/Gods/Balthazaar\|Balthazaar]] | **Darkness**    | Darkness, chaos, the occult.                                                         |
+| [[Erasaad]]                                              | **Death**       | Death, the dead, sleep, dreams.                                                      |
+| [[Oa Maton]]                                             | **Balance**     | Balance, justice, revenge, punishment, penance, extremity.                           |
+| [[Rocan Ashar]]                                          | **War**         | War, fire, victory, wisdom, strategy, bravery, legacy.                               |
+| [[Vespar Telarum]]                                       | **Knowledge**   | Knowledge, wisdom, strategy, also magic (in the study/cunning sense).                |
+| [[Krokha Inam]]                                          | **Time**        | Time, space, celestial elements, the natural order and flow of things, sloth/stasis. |
+| [[Datura Ferhaus]]                                       | **Art / Labor** | Two-faced domain — both sides of effort: work vs. play, crafts, poetry, obsession.   |
+| [[Miragrim Ysor]]                                        | **Sea**         | Storms, oceans, freedom, travelers, explorers, detachment.                           |
+| [[Aevarus]]                                              | **Beasts**      | Monsters, wild animals, trickery, shape-changing, sky.                               |
+| [[Kamara Desos]]                                         | **Fate**        | Destiny / Freedom, predetermination, a divine plan.                                  |
+
+---
+
+# The Dragon Gods of Terra-Oblivia
+
+## Overview
+
+> [!summary] The Gods are the fundamental forces of the world. They were born from the fusion of the Abyssal poison across Terra-Oblivia, the dying spirits of Old Gods who had fallen from their thrones, and the souls of Great Dragons who rose and assumed the divine thrones. Now they are Dragon Gods, and their rule is unassailable. The power of the Dragon is law.
+
+## Birth of the Dragon Gods
+
+The Gods of Terra-Oblivia were born from conflict, when great and powerful [[Terra-Oblivia Dragons|Dragons]] rose, devoured the souls of the Old, and drank the Abyssal magics that poisoned Terra-Oblivia. A Great Lioness [[Terra-Oblivia/Magic/Spirits|Spirit]] schemed alongside the Dragons. She lured the Old Gods down to the world, and tricked them into being devoured. This brave and heroic action restored the balance that had been eroded over ages of war and strife between the Abyss and Heavens. In this act, known as The Dawn, the world was saved from entropy, and its inevitable slow and violent end. 
+
+In this change the Gods took the form of Dragons, many strange and mutated by the nature of their birth. Being a fusion of Dragons, Abyssal corruption, and the Old Gods, they are often frightening, and possess natures that are not entirely benevolent. They are vastly powerful, can influence the world and mortal lives, and must be respected.
+
+---
+
+## Heaven: The Gods Plane
+
+The Gods of Terra-Oblivia reside within the plane of [[The Heavens]]. This plane is divided between each of the Gods, where each one possesses a near endless domain shaped in their own image. For more information see the Heavens. Each God has their own domain, when Gods meet they agree on which God's domain to travel to, and when all Gods meet they do so in the domain of Krokha Inam.
+
+---
+
+## The Divine Hierarchy
+
+| Divine Hierarchy Reference Image                             |
+| ------------------------------------------------------------ |
+| ![[Terra-Oblivia Gods and Pantheon-1791837762827.webp\|600]] |
+
+The Gods of Terra-Oblivia hold no strict hierarchy over one another, though some Gods receive more deference or respect between one another than others do. When measuring disputes, no God will close themselves off to the advice of Vespar Telarum or Krokha Inam, as they are considered most wise and fair. These Gods are generally independent, though some maintain more contact with each other than others do. It is entirely within the nature of Gods to be silent, or highly communicative amongst themselves.
+
+When the New Gods were born, they instituted a strict law, that Gods will not fight one another. When there are disputes, they are settled between the children of the disputing Gods. Each God chooses their Divine Champion or one Spirit of their descent, and the opposing God determines a quest or goal that Spirit must achieve. The other Gods must vote on it being a fair challenge in comparison to the reason for the disagreement.
+
+Gods are not all powerful, and they are tied to their worship in addition to their domains. Should a God fail to receive any worship, and be forgotten, they will die forever. Some scholars theorize this is how the Old Gods died, forgotten, and abandoned.
+
+---
+
+## Involvement of Spirits and Dragons
+
+Between the Gods, Spirits, and Divine Champions there is a strict order. Spirits govern dealings between the Gods and their followers, and are strictly forbidden from interfering in mortal affairs. Divine Champions however are encouraged to use their blessings to sway mortal affairs. They fight in wars, rule nations, and spread their Gods religion across the land freely. Spirits are akin to saints, and Champions are like missionaries. Where Spirits and Champions represent the heavenly side of the Gods, Dragons are the other half.
+
+They are known as the 2 Faces of the Gods, Dragons and Spirits, the 2 pieces that formed the New Gods when Terra-Oblivia was cleansed. Dragons are violent, powerful, and prone to action. Instead of carrying teachings, Dragons distribute physical lessons, they serve as a reminder of the Gods strength should they be angered. It is the duty of Dragons to be true to their nature, and to enforce their will, be it for good or evil, upon the world. Dragons do not have Divine Champions, but their Dragonborn children serve essentially the same purpose.
+
+Spirits and Dragons clash often, and the Gods leave these conflicts to be settled by those involved. Gods are forbidden from acting against the Dragons or Spirits, as to do so would be to deny part of their nature, choosing one over another. The being with greater might will win, as the Dragon Gods won over the Old Gods, and this is intended law of the Gods.
+
+---
+
+## Gods and Mortals
+
+Gods in Terra-Oblivia are not entirely distant, but they rarely speak directly to their followers. Communication is most commonly done directly to [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]] and Great Spirit. Gods do not speak directly to Mortals outside of the Heavens in accordance [[The Law of Oblivion]]. This law extends to their direct intervention in the world, which is entirely forbidden. 
+
+Nearly all Mortals worship the Gods in some manner, even if that worship is not reverent and respectful, they recognize the immense divine power, and influence on the world that the Gods have. There is no ambiguity about the Gods existence, those who do not worship or care for the Gods usually harbor anger towards them for being so uninvolved in mortal affairs.
+
+Gods are often given offerings as bargains. One example is the Warlords of Ashkarad, many of whom pay a blood tithe to Rocan Ashar and his war Spirits. In exchange for great deeds dedicated to the domain of War, Rocan or his Spirits may grant boons, strength, or insight to the faithful. Gods never give something for nothing though, all gifts have a price. This system is known as [[Tithe]].
+
+For more informations on specific worship practices and groups, see [[Terra-Oblivia Gods and Pantheon|Religion]].
+
+---
+
+## The Only Pantheon
+
+There are no other Gods in Terra-Oblivia. Many Gods were absorbed to form the Dragon Gods. The original number of Old Gods is unknown, but a great number were lost. In that loss they were condensed, and there are no other Gods in this world that remain to challenge the Dragon Gods.
+
+Many cultures worship the Gods differently, give more worship to specific Gods or sets of Gods, but they share the same names and domains across all cultures. The difference in depiction, attitude, and importance is shown across the continents.
+
+The largest representation of this is which Spirits are worshipped, as most Spirits, even Great ones, are only worshipped in specific regions they call home. No one Spirit of a God dominates worship across the world.
+
+Worship of the Old Gods, who have no names, is heretical in all places and all religions. To invoke the dead Gods is to speak to the Deep, the forgotten and dangerous forces of the world that are beyond mortal comprehension. The Old Gods are not Gods, they are dead, and deserve their fate.
+
+---
+
+## Links
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Lumena]]
+- [[Terra-Oblivia/Characters/Gods/Balthazaar.md|Balthazaar]]
+- [[Erasaad]]
+- [[Oa Maton]]
+- [[Rocan Ashar]]
+- [[Vespar Telarum]]
+- [[Krokha Inam]]
+- [[Datura Ferhaus]]
+- [[Miragrim Ysor]]
+- [[Aevarus]]
+- [[Kamara Desos]]
+- [[Terra-Oblivia Dragons|Dragons]]
+- [[Terra-Oblivia/Magic/Spirits.md|Spirit]]
+- [[The Heavens]]
+- [[Terra-Oblivia/Religion/Divine Champions.md|Divine Champions]]
+- [[The Law of Oblivion]]
+- [[Tithe]]
+- [[Terra-Oblivia Gods and Pantheon|Religion]]
+
+<!-- SerializedQuery END -->

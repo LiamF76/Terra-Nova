@@ -32,7 +32,7 @@ The principal Gods, this pantheon represents light and darkness, good and evil, 
 | God            | Domain    |
 | -------------- | --------- |
 | [[Illuman]]    | Light     |
-| [[Balthazaar]] | Darkness  |
+| [[Terra-Nova/Characters/Extraplanar/Gods/Balthazaar]] | Darkness  |
 | [[Mani]]       | The Moons |
 | [[Malos]]      | Balance   |
 

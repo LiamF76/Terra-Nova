@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ce13b6e58aaaf53d","x":-605,"y":-120,"width":1015,"height":360,"type":"group","label":"Escharra"},
+		{"id":"a42be8c965a6a9d4","type":"text","text":"Triarch","x":-180,"y":0,"width":250,"height":60},
+		{"id":"2788812e44bd8db2","type":"text","text":"Ashkarad","x":-180,"y":-100,"width":250,"height":60},
+		{"id":"39a972329a345a80","type":"text","text":"Ashkarad","x":-460,"y":0,"width":250,"height":60},
+		{"id":"782fb2d6351c51f8","type":"text","text":"Ashkarad","x":-180,"y":100,"width":250,"height":60},
+		{"id":"fcbb912a16f0ef33","x":140,"y":0,"width":250,"height":60,"type":"text","text":"Rocan Empire"},
+		{"id":"0dc22166d007d3c7","x":-585,"y":160,"width":250,"height":60,"type":"text","text":"Liberos"}
+	],
+	"edges":[
+		{"id":"06d4bfd1b9ae24ce","fromNode":"a42be8c965a6a9d4","fromSide":"top","toNode":"2788812e44bd8db2","toSide":"bottom"},
+		{"id":"4229f736bb6c4761","fromNode":"a42be8c965a6a9d4","fromSide":"bottom","toNode":"782fb2d6351c51f8","toSide":"top"},
+		{"id":"5b88a66bbf592716","fromNode":"39a972329a345a80","fromSide":"right","toNode":"a42be8c965a6a9d4","toSide":"left"},
+		{"id":"730850cb097aee52","fromNode":"39a972329a345a80","fromSide":"bottom","toNode":"0dc22166d007d3c7","toSide":"top"},
+		{"id":"70ede58f5a456efe","fromNode":"782fb2d6351c51f8","fromSide":"bottom","toNode":"0dc22166d007d3c7","toSide":"right"},
+		{"id":"48c7984d9beeca92","fromNode":"a42be8c965a6a9d4","fromSide":"right","toNode":"fcbb912a16f0ef33","toSide":"left"}
+	]
+}

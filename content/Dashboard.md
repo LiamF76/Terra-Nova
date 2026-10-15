@@ -10,9 +10,11 @@ tags:
   - Arkfall
   - PentiumRealm
   - Terra-Nova
+  - Terra-Oblivia
+Created: 2026-08-26
 ---
 
-# :LiCalendar: `$= dv.date("today").toFormat("EEEE, MMMM d, yyyy")`
+# `$= dv.date("today").toFormat("EEEE, MMMM d, yyyy")`
 
 Welcome to my worlds! This is my Cloud stored Obsidian vault for all things Terra-Nova, Terra-Oblivia, Arkfall, and Pentium realm, my homebrew Dungeons & Dragons settings / worldbuilding projects.
 
@@ -20,20 +22,20 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 
 ---
 
+# Terra-Oblivia
+
+> [!note] Terra-Oblivia Worldbuilding
+> ## [[CoK Kanban]] | [[Terra-Oblivia Kanban]] | [[TO Idea Dump]]
+
+> [!note] Encounter Ideas
+> ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
+
+---
+
 # Arkfall
 
 > [!note] Arkfall
 > ## [[Arkfall Worldbuilding Kanban]] | [[Arkfall Brainstorm]] | [[Arkfall Timeline]] | 
-
----
-
-# Terra-Oblivia
-
-> [!note] Terra-Oblivia Worldbuilding
-> ## [[TO Workpad.canvas]] | [[Terra-Oblivia Kanban]] | [[TO Idea Dump]]
-
-> [!note] Encounter Ideas
-> ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
 
 ---
 

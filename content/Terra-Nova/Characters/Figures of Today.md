@@ -20,5 +20,5 @@ Figures of today are notable individuals in current times. They could be powerfu
 
 [[The Wizard Council]]
 
-[[Divine Champions]]
+[[Terra-Nova/Organizations/Divine Groups/Divine Champions]]
 
