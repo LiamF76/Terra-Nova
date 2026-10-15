@@ -137,10 +137,15 @@ tags:
 - [ ] [[Terra-Oblivia Tabletop Stats and Skills]]
 
 
+## Spirits
+
+- [ ] [[Astor]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false,false,false]}
 ```
 %%

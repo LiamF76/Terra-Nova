@@ -45,6 +45,7 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -55,8 +56,9 @@
             }
           },
           {
-            "id": "e524b3660856c95a",
+            "id": "5b5d7ecdd8a63ed0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,6 +66,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Terra-Oblivia Great Spirits"
             }
@@ -198,11 +201,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e524b3660856c95a",
+  "active": "5b5d7ecdd8a63ed0",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
+    "Terra-Oblivia/Characters/Spirits/Astor.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
     "Terra-Oblivia/Religion/The Law of Oblivion.md",
     "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Intro Script.md",
@@ -230,7 +234,6 @@
     "Writing Tips/The 3 Clue Rule.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
     "Templates/BUT THEREFORE template.md",
-    "Templates/Character Template.md",
     "z Images/Sana Black-Sky-1791913574987.webp",
     "Terra-Oblivia/Groups/Noble Families",
     "z Images/Terra-Oblivia Gods and Pantheon-1791837762827.webp",
