@@ -74,6 +74,15 @@ For reference, I feel 7 knives is best, if you have more that's ok, just underst
 
 I save these backstories and knives when you tell me they are finished in my Obsidian vault, and I reference them frequently to develop sessions and the story. If you make updates or changes, let me know. if you need help making updates or changes, talk to me! We can do it together.
 
+Additionally, as a REQUIREMENT for character creation, I need your character to have a goal. What do they want? Examples:
+- Revenge
+- Redemption
+- Power
+- Validation for a mistake
+- Justice for being framed
+
+What is this character chasing? Do they want treasure, to kill a former mentor? This should tie into your knives, give me threads to pull on.
+
 ---
 
 > [!note] On Party Roles
@@ -209,32 +218,34 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 
 ### The Pilgrim Knight
 
-> [!quote] Source - 
-> *"Quote"*
+> [!quote] You - 
+> *"I kneel to no lord and no city. My oath is to the road, and to any soul who needs a sword when no one else will lift one."*
 
-**Description**: 
+**Description**: You are a free knight of the Pilgrim Knights, sworn to no noble family and no city. You travel the valley and beyond, carrying a knight's code without a lord's banner. Some see you as a hero, others as a sword for hire in better armor. You may have given up a noble house, been born into the road, or earned your spurs by serving the people the great houses ignore.
 
-**Questions to Answer**: 
+**Questions to Answer**: Why did you take the pilgrim's road? Who, if anyone, did you leave behind? What oath do you hold to above all others? What deed made you known, and who remembers it? Which lord or city would most like to claim you?
 
 **Boons**: 
-- 
+- Right of the Road. Common folk, innkeepers, and many lords will offer you shelter and a fair hearing on the strength of your knightly standing.
 
 **Bonds**: 
-- 
+- You hold to a code of aid. When someone in real need asks for your help, you are compelled to answer, and breaking that code costs you your standing. 
+- You have no house or city to protect or avenge you. Powerful people may try to recruit you or remove you.
 
 ---
 
 ### The Noble Descendant
 
-> [!quote] Source - 
-> *"Quote"*
+> [!quote] The Head of Your House - 
+> *"You carry more than a name. You carry everything we were, and everything we owe. Do not let it be buried with us."*
 
-**Description**: 
+**Description**: You are born of a noble house with a long history in Terra-Oblivia. Your family name opens doors, and your bloodline may carry the old magic hoarded by great houses. You are away from the family seat, whether by choice, duty, exile, or secret purpose, and your house still expects something of you. You decide whether your house is thriving, fallen, or hiding something.
 
-**Questions to Answer**: 
+**Questions to Answer**: Which house are you from, and where does it stand now? Does your bloodline carry magic, and what does it draw on? Why are you away from home? What does your family want from you? What did your house do that its enemies have not forgotten?
 
 **Boons**: 
-- 
+- Name and Blood. Your family name carries weight with nobles, officials, and those who owe your house. If your bloodline carries magic, you can draw on a small measure of it.
 
 **Bonds**: 
-- 
+- Your house can call on you for a favor, a marriage, or a service, and refusing may cost you your family. 
+- A rival house, an old debt, or an old feud follows your name, and enemies of your house may treat you as its heir.

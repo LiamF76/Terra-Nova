@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Terra-Oblivia Religion
 aliases:
   - Religion
@@ -11,7 +11,7 @@ tags:
 Created: 2026-09-21
 ---
 
-# Religion in Terra-Oblivia
+# Terra-Oblivia Religion
 
 In Terra-Oblivia, the Gods are an absent force for order, than remains powerful due to their immense involvement with mortal affairs through mediums such as [[Terra-Oblivia/Magic/Spirits|Spirits]] and [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]]. In Terra-Oblivia, religion is not a speculation or faith, it is a transaction between proven divine forces and mortals. It is offering faith and gifts to the Gods in exchange for their blessing and protection, Mortals need the Gods, and the Gods need mortals.
 
@@ -45,6 +45,7 @@ The tenets and lessons set by the Gods are imparted to mortals through many mean
 
 ### Primary Tenets
 
+<<<<<<< HEAD
 | God            | Tenets                                           |
 | -------------- | ------------------------------------------------ |
 | Lumena         | Leadership, Nurturing Life                       |
@@ -58,6 +59,21 @@ The tenets and lessons set by the Gods are imparted to mortals through many mean
 | Miragrim Ysor  | Travel,                                          |
 | Aevarus        | Tricks, The Wilds, Harmony with Nature           |
 | Kamara Desos   | Predetermined Destiny, Freedom of Choice         |
+=======
+| God            | Tenets                                                   |
+| -------------- | -------------------------------------------------------- |
+| Lumena         | Leadership, Nurturing Life                               |
+| Balthazaar     | Lies, Forbidden Knowledge                                |
+| Erasaad        | Peaceful Rest, Respect for the Dead                      |
+| Oa Maton       | Truth, Justice, Live a Balanced Life                     |
+| Rocan Ashar    | Glory, Combat, Victory, Bravery                          |
+| Vespar Telarum | Learning, Magical Study                                  |
+| Krokha Inam    | Living in the Moment, Working Towards the Future         |
+| Datura Ferhaus | Skill, Mastery of a Craft, Dedication to an Art or Labor |
+| Miragrim Ysor  | Travel, Navigate Storms, Explore New Places              |
+| Aevarus        | Tricks, The Wilds, Harmony with Nature                   |
+| Kamara Desos   | Predetermined Destiny, Freedom of Choice                 |
+>>>>>>> origin/Main
 
 ---
 
@@ -73,7 +89,7 @@ Devotion to a God takes time, but can bring great benefits. To live by the tenet
 
 ## Devotion and the Afterlife
 
-A devoted soul is one that worships honestly and follows the laws of their church. 
+A devoted soul is one that worships honestly and follows the laws of their church. Devoted souls are tied to their Gods, and upon death will pass on to their Gods realm to live on. Each God holds their followers souls in the afterlife within their respective realm in the Heavens.
 
 ---
 
@@ -85,7 +101,7 @@ Magic is an integral part of the church in Terra-Oblivia. Those who are dedicate
 
 ## Heresy and Forbidden Worship
 
-tbd
+Worship of the Old Gods is heretical and forbidden by all Gods and Spirits. To commune with the Dead Gods is to speak directly to the deep, to oblivion, and that incurs danger. Anyone caught worshipping the Old Gods will be punished with the utmost severity and no mercy, for the safety of the world.
 
 ---
 
@@ -109,6 +125,7 @@ tbd
 - [[Tithe]]
 
 <!-- SerializedQuery END -->
+<<<<<<< HEAD
 
 
 ## Religion Note Checklist
@@ -126,3 +143,5 @@ tbd
 - [ ] Devotion and the afterlife
 - [ ] List of religions
 
+=======
+>>>>>>> origin/Main

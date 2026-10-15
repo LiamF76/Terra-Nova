@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: Terra-Oblivia History
 aliases:
 tags:
   - Terra-Oblivia
@@ -10,7 +10,7 @@ This is an overview of Terra-Oblivia's history. Events are ordered chronological
 
 # Ancient History
 
-- *Time of Reckoning*: Wars with the abyss and the world is dark and dangerous. 
+- *Time of Reckoning*: Wars with the Abyss and the world is dark and dangerous. 
 - *Dawn of the Dragon Gods*: New Gods are born as the Terra-Oblivia and the Abyss are torn apart after having been fused together. The Old Gods die, and their ways are forgotten.
 - *Last Great Kings*: The Last era of great Kings from empires of the past. Their magical power and martial authority fades as the world is in turmoil, their lands and monuments fall into ruin, leaving secrets and treasures to be found.
 - 

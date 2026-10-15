@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## Misc
 
+- [x] [[Cult of Kasayt Campaign Primer]]
 - [ ] [[CoK Campaign Brainstorm]]
-- [ ] [[Cult of Kasayt Campaign Primer]]
 - [ ] [[CoK Act 1]]
 - [ ] [[Sana Toolkit]]
 
@@ -35,11 +35,6 @@ kanban-plugin: board
 
 ## Places
 
-- [ ] Triarch Map
-- [ ] [[Citadel]]
-- [ ] [[The Triarch]]
-	- Regions, mountains, forests, river, places things can be. MAP MAP MAP!
-- [ ] [[Gate]]
 
 
 

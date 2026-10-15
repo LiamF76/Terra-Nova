@@ -34,9 +34,9 @@ tags:
 - [x] [[Reshaped Gods]]
 - [x] [[Terra-Oblivia Gods and Pantheon]]
 	- reference table of Gods, domains, etc
-- [ ] [[Terra-Oblivia Religion]]
+- [x] [[Terra-Oblivia Religion]]
 	- how religion works, devotion, afterlife, favor, etc
-- [ ] [[Tithe]]
+- [x] [[Tithe]]
 - [ ] [[The Law of Oblivion]]
 - [ ] [[Terra-Oblivia Great Spirits]]
 	- reference table of great spirits, domains, etc
@@ -71,7 +71,6 @@ tags:
 ## Planes
 
 - [ ] [[Terra-Oblivia Planes.canvas]]
-- [ ] 
 - [ ] [[The Infinite Road]]
 - [ ] [[The Material Plane]]
 - [ ] [[The Abyss]]
@@ -84,6 +83,7 @@ tags:
 
 ## The Triarch / 3 Cities
 
+- [ ] Triarch Map
 - [ ] [[The Triarch]]
 	- Knights are bound to noble houses or cities
 	- Free Knights are unbound, and can do as they please

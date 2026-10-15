@@ -1,8 +1,8 @@
 {
-  "logoType": "imagePath",
+  "logoType": "default",
   "logo": {
     "lucideIcon": "",
-    "imagePath": "z Images/fantasy.png",
+    "imagePath": "",
     "imageLink": ""
   },
   "logoScale": 1.2,
@@ -24,8 +24,28 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
+      "timestamp": 1792084808508
+    },
+    {
+      "filepath": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+      "timestamp": 1792084804607
+    },
+    {
       "filepath": "Dashboard.md",
+<<<<<<< HEAD
       "timestamp": 1792085536483
+=======
+      "timestamp": 1792084800294
+    },
+    {
+      "filepath": "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
+      "timestamp": 1792084592756
+    },
+    {
+      "filepath": "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+      "timestamp": 1792084548750
+>>>>>>> origin/Main
     }
   ],
   "bookmarkedFileStore": [],
@@ -33,6 +53,6 @@
   "replaceNewTabs": true,
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
-  "omnisearch": true,
+  "omnisearch": false,
   "showOmnisearchExcerpt": true
 }
