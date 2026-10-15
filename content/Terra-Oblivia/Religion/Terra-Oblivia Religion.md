@@ -109,19 +109,3 @@ Worship of the Old Gods is heretical and forbidden by all Gods and Spirits. To c
 - [[Tithe]]
 
 <!-- SerializedQuery END -->
-
-
-## Religion Note Checklist
-
-- [x] Overview: short paragraph and one-line summary
-- [x] How worship works: devotion as personal choice, what favor means, casual versus formal worship
-- [ ] Devotion and the afterlife: what devotion does for a soul, the undevoted, changing or losing devotion
-- [ ] Worship in practice: prayers, offerings, shrines, rites of passage, death rites, holy days
-- [ ] Clergy and institutions: how religious authority is organized and where it overlaps with government
-- [ ] Spirits and Champions: one short paragraph, linking to their own notes
-- [ ] Religion and magic: faith and Pact magic, Blessed mages, how faiths treat Cinder, Scarred, and Old Rites magic
-
-### Priority first
-- [ ] How worship works
-- [ ] Devotion and the afterlife
-- [ ] List of religions
