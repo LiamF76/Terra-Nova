@@ -45,19 +45,19 @@ The tenets and lessons set by the Gods are imparted to mortals through many mean
 
 ### Primary Tenets
 
-| God            | Tenets                                           |
-| -------------- | ------------------------------------------------ |
-| Lumena         | Leadership, Nurturing Life                       |
-| Balthazaar     | Lies, Forbidden Knowledge                        |
-| Erasaad        | Peaceful Rest, Respect for the Dead              |
-| Oa Maton       | Truth, Justice, Live a Balanced Life             |
-| Rocan Ashar    | Glory, Combat, Victory, Bravery                  |
-| Vespar Telarum | Learning, Magical Study                          |
-| Krokha Inam    | Living in the Moment, Working Towards the Future |
-| Datura Ferhaus |                                                  |
-| Miragrim Ysor  | Travel                                           |
-| Aevarus        | Tricks, The Wilds, Harmony with Nature           |
-| Kamara Desos   | Predetermined Destiny, Freedom of Choice         |
+| God            | Tenets                                                   |
+| -------------- | -------------------------------------------------------- |
+| Lumena         | Leadership, Nurturing Life                               |
+| Balthazaar     | Lies, Forbidden Knowledge                                |
+| Erasaad        | Peaceful Rest, Respect for the Dead                      |
+| Oa Maton       | Truth, Justice, Live a Balanced Life                     |
+| Rocan Ashar    | Glory, Combat, Victory, Bravery                          |
+| Vespar Telarum | Learning, Magical Study                                  |
+| Krokha Inam    | Living in the Moment, Working Towards the Future         |
+| Datura Ferhaus | Skill, Mastery of a Craft, Dedication to an Art or Labor |
+| Miragrim Ysor  | Travel, Navigate Storms, Explore New Places              |
+| Aevarus        | Tricks, The Wilds, Harmony with Nature                   |
+| Kamara Desos   | Predetermined Destiny, Freedom of Choice                 |
 
 ---
 
