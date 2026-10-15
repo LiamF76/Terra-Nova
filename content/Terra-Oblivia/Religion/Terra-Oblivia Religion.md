@@ -11,7 +11,7 @@ tags:
 Created: 2026-09-21
 ---
 
-# Religion in Terra-Oblivia
+# Terra-Oblivia Religion
 
 In Terra-Oblivia, the Gods are an absent force for order, than remains powerful due to their immense involvement with mortal affairs through mediums such as [[Terra-Oblivia/Magic/Spirits|Spirits]] and [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]]. In Terra-Oblivia, religion is not a speculation or faith, it is a transaction between proven divine forces and mortals. It is offering faith and gifts to the Gods in exchange for their blessing and protection, Mortals need the Gods, and the Gods need mortals.
 
