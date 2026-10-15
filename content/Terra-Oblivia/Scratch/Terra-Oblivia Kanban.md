@@ -140,6 +140,7 @@ tags:
 ## Spirits
 
 - [ ] [[Astor]]
+- [ ] [[Paga]]
 
 
 
