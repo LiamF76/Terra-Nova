@@ -74,6 +74,15 @@ For reference, I feel 7 knives is best, if you have more that's ok, just underst
 
 I save these backstories and knives when you tell me they are finished in my Obsidian vault, and I reference them frequently to develop sessions and the story. If you make updates or changes, let me know. if you need help making updates or changes, talk to me! We can do it together.
 
+Additionally, as a REQUIREMENT for character creation, I need your character to have a goal. What do they want? Examples:
+- Revenge
+- Redemption
+- Power
+- Validation for a mistake
+- Justice for being framed
+
+What is this character chasing? Do they want treasure, to kill a former mentor? This should tie into your knives, give me threads to pull on.
+
 ---
 
 > [!note] On Party Roles

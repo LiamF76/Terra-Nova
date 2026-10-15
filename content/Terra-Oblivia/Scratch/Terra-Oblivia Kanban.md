@@ -71,7 +71,6 @@ tags:
 ## Planes
 
 - [ ] [[Terra-Oblivia Planes.canvas]]
-- [ ] 
 - [ ] [[The Infinite Road]]
 - [ ] [[The Material Plane]]
 - [ ] [[The Abyss]]
@@ -84,6 +83,7 @@ tags:
 
 ## The Triarch / 3 Cities
 
+- [ ] Triarch Map
 - [ ] [[The Triarch]]
 	- Knights are bound to noble houses or cities
 	- Free Knights are unbound, and can do as they please

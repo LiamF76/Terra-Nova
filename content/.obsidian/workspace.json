@@ -6,7 +6,6 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 46.48337595907928,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -25,38 +24,7 @@
             }
           },
           {
-            "id": "f9687553cf6b8fb9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e2dc50db63bb8100",
-        "type": "tabs",
-        "dimension": 53.51662404092071,
-        "children": [
-          {
-            "id": "a768f903cfde9b56",
+            "id": "4f7d5177655f973a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -87,21 +55,35 @@
             }
           },
           {
-            "id": "388a114ce01fe043",
+            "id": "9d9a9879510247bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
+                "file": "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Oblivia Religion"
+              "title": "The Triarch"
+            }
+          },
+          {
+            "id": "22bd221f69ac890b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cult of Kasayt Campaign Primer"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,18 +212,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "388a114ce01fe043",
+  "active": "22bd221f69ac890b",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
+    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Dashboard.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Terra-Oblivia/Characters/Mortals/Rowan August.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Act 1/CoK Act 1.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/Characters/Mortals/Sana Black-Sky.md",
     "z Images/Sana Blood-Ear-1791499894989.webp",
     "z Images/Rowan August-1792022757105.webp",
-    "Dashboard.md",
     "z Images/Rowan August-1792018785782.webp",
     "Terra-Oblivia/Characters/Mortals/Hartwyn Syros.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sana Toolkit.md",
@@ -261,7 +244,6 @@
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Gate.md",
     "Templates/Locations/City Template.md",
     "Terra-Oblivia/Groups/Noble Families/Noble Houses of the Triarch.md",
-    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
     "Terra-Oblivia/Groups/Noble Families",
     "Terra-Oblivia/Cosmology/Constellations.md",
     "z Images/Terra-Oblivia Gods and Pantheon-1791837762827.webp",

@@ -35,11 +35,6 @@ kanban-plugin: board
 
 ## Places
 
-- [ ] Triarch Map
-- [ ] [[Citadel]]
-- [ ] [[The Triarch]]
-	- Regions, mountains, forests, river, places things can be. MAP MAP MAP!
-- [ ] [[Gate]]
 
 
 
