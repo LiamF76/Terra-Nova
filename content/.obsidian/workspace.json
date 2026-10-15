@@ -15,13 +15,14 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+<<<<<<< HEAD
           },
           {
             "id": "4f7d5177655f973a",
@@ -70,35 +71,37 @@
           }
         ],
         "currentTab": 2
+=======
+          }
+        ]
+>>>>>>> origin/Main
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "40cd9bebaab35c97",
+    "id": "b7fd963d1fb72649",
     "type": "split",
     "children": [
       {
-        "id": "49a13abadf283971",
+        "id": "f67b9d3ed94c60db",
         "type": "tabs",
         "children": [
           {
-            "id": "e34a2393bb44142e",
+            "id": "a20b8c888495672e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "7b55cf23085505ad",
+            "id": "dbf3a6fd19f04ab1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -118,18 +121,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.08984375
+    "width": 328.0110321044922
   },
   "right": {
-    "id": "c25d59f363de0017",
+    "id": "edfa255f6987f8f9",
     "type": "split",
     "children": [
       {
-        "id": "05048378f5cdb68e",
+        "id": "9d2b1980da109ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "82e16e8204e136ee",
+            "id": "0d5e71c731e094b8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,60 +147,69 @@
             }
           },
           {
-            "id": "fd2368f395de2c2b",
+            "id": "73217a1df8b8d6fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HOK Brainstorm"
+            }
+          },
+          {
+            "id": "1fb9bc83ab9ff58b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
+                "file": "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Third Lesson"
             }
           },
           {
-            "id": "61f1c54cff9f68f2",
+            "id": "ef6c3d700eed3977",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 309,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "canvas:Create new canvas": false,
       "calendarium:Open Calendarium": false
     }
   },
+<<<<<<< HEAD
   "active": "9d9a9879510247bb",
   "lastOpenFiles": [
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
@@ -230,31 +242,65 @@
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Gate.md",
     "Templates/Locations/City Template.md",
     "Terra-Oblivia/Groups/Noble Families/Noble Houses of the Triarch.md",
+=======
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Dashboard.md",
+    "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
+    "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
+    "Terra-Oblivia/History & Lore/Folktales",
+    "Terra-Oblivia/History & Lore",
+    "Terra-Oblivia/Groups/Noble Families/Noble Houses of the Triarch.md",
+    "Terra-Oblivia/Groups/Knight Orders/Ironwing Order.md",
+    "Terra-Oblivia/Groups/Knight Orders/Pilgrim Knights.md",
+    "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
+    "Terra-Oblivia/Groups/Governments/The Devout Assembly.md",
+>>>>>>> origin/Main
     "Terra-Oblivia/Groups/Noble Families",
-    "Terra-Oblivia/Cosmology/Constellations.md",
-    "z Images/Terra-Oblivia Gods and Pantheon-1791837762827.webp",
-    "z Images/Terra-Oblivia Gods and Pantheon-1791837022691.webp",
-    "z Images/The Triarch-1791831754527.webp",
     "Terra-Oblivia/Groups/Knight Orders",
     "Terra-Oblivia/Groups/Governments",
-    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
-    "z Images/Lumena-1791784640899.webp",
-    "z Images/Lumena-1791784379080.webp",
-    "z Images/Lumena-1791784204869.webp",
-    "Terra-Oblivia/Geography/Continents/Escharra/Cu",
-    "Terra-Oblivia/Characters/Gods",
+    "Terra-Oblivia/Groups",
+    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Citadel.md",
+    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Gate.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities",
-    "Terra-Oblivia/Campaigns/Untitled",
-    "Terra-Oblivia/Scratch/TO Workpad.canvas",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt",
-    "Terra-Oblivia/Campaigns",
-    "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
-    "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
-    "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
-    "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Space Western Storyboard.canvas",
-    "Arkfall/Cosmology/Arkfall Map.canvas",
-    "Arkfall/Timeline/Arkfall Timeline V2.canvas",
+    "z Images/The Triarch-1791831754527.webp",
+    "z Images/Terra-Oblivia Wiki Homepage-1791577298140.webp",
+    "z Images/Terra-Oblivia Wiki Homepage-1791576104844.webp",
+    "z Images/Terra-Oblivia Wiki Homepage-1791521591276.webp",
+    "z Images/Terra-Oblivia Wiki Homepage-1791520368247.webp",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Stats and Skills.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Overview.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Classes.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/OLD Terra-Oblivia PbtA.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Death and Ressurection.md",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game",
+    "Terra-Oblivia/Scratch/Terra-Oblivia GRAPES.md",
+    "Terra-Oblivia/Reshaping WIP/Reshaped Gods.md",
+    "Terra-Oblivia/Religion/The Law of Oblivion.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Divine Heirarchy.md",
+    "Terra-Oblivia/Religion/Dragonborn.md",
+    "Terra-Oblivia/Cosmology/Planes/The Material Plane.md",
+    "Terra-Oblivia/Cosmology/Planes/The Infinite Road.md",
+    "Terra-Oblivia/Cosmology/Planes/The Heavens.md",
+    "Terra-Oblivia/Characters/Mortals",
+    "Terra-Oblivia/Characters/Gods",
     "Arkfall/Cosmology/Old Arkfall Map.canvas",
-    "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas"
+    "Arkfall/Cosmology/Arkfall Map.canvas",
+    "z Images/The Fallen Star Coalition-1788725607437.webp",
+    "Arkfall/Cosmology/Arkfall Map V2.canvas",
+    "Arkfall/Cosmology/Arkfall Map Old.canvas",
+    "Terra-Oblivia/Scratch/TO Workpad.canvas",
+    "z Images/Pasted image 20260829153915.png",
+    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
+    "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
+    "z Images/The Hydren-1786536605794.webp",
+    "z Images/Lowell-1786535775977.webp",
+    "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
+    "z Images/Woven-1785375846466.webp",
+    "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas"
   ]
 }
