@@ -13,5 +13,6 @@ tags:
 - Where do Ashkarad's Warlords get supplies / weapons from?
 - Legion of Two Deaths: Necromancer Warlord who raises soldiers who fall in battle to fight again
 - Pilgrim Knights, Knights who serve no noble house, city, or king. They serve the people and the land as protectors and keepers of the peace.
+- Balthazaar church order of night who protect from beasts / monsters of the night like vampires and werewolves
 - 
 
