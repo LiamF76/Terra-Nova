@@ -22,35 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "48b0b9423e2b464b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Arkfall Worldbuilding Kanban"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +151,6 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
@@ -186,8 +158,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "48b0b9423e2b464b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
     "Dashboard.md",
     "conflict-files-obsidian-git.md",
     "Arkfall/Groups/Alien Species/The Swarm/Swarm.md",
@@ -206,7 +179,6 @@
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Old Chapters/Arkfall Chapter 1.md",
     "Arkfall/Arkfall Books/Arkfall (Book 1)/Old Chapters",
     "Arkfall/Arkfall Magic/Decoherence Sickness.md",
-    "Arkfall/Scratch/Arkfall Worldbuilding Kanban.md",
     "Arkfall/Groups/Organizations/The Fallen Star Coalition.md",
     "Arkfall/Scratch/Arkfall Character Ideas.md",
     "Arkfall/Cosmology/Core Worlds/Earth/Earth.md",
