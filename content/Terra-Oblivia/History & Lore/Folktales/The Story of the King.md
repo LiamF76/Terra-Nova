@@ -8,7 +8,7 @@ Created: 2026-10-04
 ---
 
 ## The Story of the King
-*A story passed down from the ancient past.*
+*A story passed down from the ancient past. Held in memory through oral tradition, it is said the King ruled in the time of the Old Gods, and his son shall return in the time of the New Gods.*
 
 Once in the days before the shadows, there was a King. This king did not rule land and throne, but over magics and great moments all throughout the world. All things knew him, and he reflected through them.
 
