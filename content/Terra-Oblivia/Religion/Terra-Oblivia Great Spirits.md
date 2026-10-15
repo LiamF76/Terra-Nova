@@ -1,7 +1,12 @@
 ---
 publish: false
-title:
+title: Terra-Oblivia Great Spirits
 aliases:
+  - Spirits
+  - Great Spirits
+tags:
+  - Terra-Oblivia
+Created: 2026-09-21
 ---
 
 # Terra-Oblivia Great Spirits
@@ -22,3 +27,25 @@ Some Spirits may not be added to this list, see the Spirits folder under Terra-O
 - **[[Towca]]**, *The One Who Casts*: A Spirit of [[Vespar Telarum]], 
 - **[[The Horseman]]**, *Headless Rider*: A Spirit of [[Erasaad]], The Horseman is a captor of souls, often appearing when a mortal escapes death through unacceptable methods. The Horseman rides headless, as his many faces float about his shoulders and search for the escaped dead.
 - 
+
+---
+
+## Links
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Terra-Oblivia Gods and Pantheon|Gods]]
+- [[Terra-Oblivia Religion|Religious]]
+- [[Tithe]]
+- [[Astor]]
+- [[Lumena]]
+- [[Paga]]
+- [[Aevarus]]
+- [[Tayox]]
+- [[Oa Maton]]
+- [[Towca]]
+- [[Vespar Telarum]]
+- [[The Horseman]]
+- [[Erasaad]]
+
+<!-- SerializedQuery END -->

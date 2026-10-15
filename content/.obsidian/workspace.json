@@ -56,25 +56,8 @@
             }
           },
           {
-            "id": "91eb608da786f159",
+            "id": "4cf60d7707de8da3",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Terra-Oblivia Gods and Pantheon"
-            }
-          },
-          {
-            "id": "5b5d7ecdd8a63ed0",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,13 +65,12 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Terra-Oblivia Great Spirits"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,11 +199,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5b5d7ecdd8a63ed0",
+  "active": "4cf60d7707de8da3",
   "lastOpenFiles": [
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Characters/Spirits/Towca.md",
     "Terra-Oblivia/Characters/Spirits/The Horseman.md",
     "z Images/The Horseman-1792103979451.webp",
