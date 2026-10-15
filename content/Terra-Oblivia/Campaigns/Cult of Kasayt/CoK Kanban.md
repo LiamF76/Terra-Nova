@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## Misc
 
+- [x] [[Cult of Kasayt Campaign Primer]]
 - [ ] [[CoK Campaign Brainstorm]]
-- [ ] [[Cult of Kasayt Campaign Primer]]
 - [ ] [[CoK Act 1]]
 - [ ] [[Sana Toolkit]]
 
