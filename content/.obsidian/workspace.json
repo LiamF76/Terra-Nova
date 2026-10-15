@@ -22,8 +22,40 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "23bf1114e39f4179",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Terra-Oblivia Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,10 +184,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e34a2393bb44142e",
+  "active": "23bf1114e39f4179",
   "lastOpenFiles": [
+    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Dashboard.md",
+    "Terra-Oblivia/Cosmology/Planes/The Deep.md",
+    "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Religion/The Law of Oblivion.md",
@@ -166,7 +201,6 @@
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/The Triarch.md",
     "Terra-Oblivia/Characters/Mortals/Rowan August.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Act 1/CoK Act 1.md",
-    "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/Characters/Mortals/Sana Black-Sky.md",
     "z Images/Sana Blood-Ear-1791499894989.webp",
     "z Images/Rowan August-1792022757105.webp",
@@ -183,15 +217,12 @@
     "Terra-Oblivia/Scratch/Terra-Oblivia GRAPES.md",
     "Terra-Oblivia/Characters/Gods/Miragrim Ysor.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Citadel.md",
-    "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Gate.md",
-    "Templates/Locations/City Template.md",
     "Terra-Oblivia/Groups/Noble Families",
     "z Images/Terra-Oblivia Gods and Pantheon-1791837762827.webp",
     "z Images/Terra-Oblivia Gods and Pantheon-1791837022691.webp",
     "z Images/The Triarch-1791831754527.webp",
     "Terra-Oblivia/Groups/Knight Orders",
     "Terra-Oblivia/Groups/Governments",
-    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "z Images/Lumena-1791784640899.webp",
     "z Images/Lumena-1791784379080.webp",
     "z Images/Lumena-1791784204869.webp",

@@ -71,14 +71,15 @@ tags:
 ## Planes
 
 - [ ] [[Terra-Oblivia Planes.canvas]]
+- [ ] [[Temporal Plane]]
 - [ ] [[The Infinite Road]]
+- [ ] [[The Primordium]]
+- [ ] [[The Heavens]]
+- [ ] [[The Dream Plane]]
+- [ ] [[The Ascendant Plane]]
 - [ ] [[The Material Plane]]
 - [ ] [[The Abyss]]
-- [ ] [[The Ascendant Plane]]
-- [ ] [[The Dream Plane]]
-- [ ] [[The Heavens]]
-- [ ] [[The Primordium]]
-- [ ] [[Temporal Plane]]
+- [ ] [[The Deep]]
 
 
 ## The Triarch / 3 Cities
