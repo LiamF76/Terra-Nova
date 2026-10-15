@@ -1,12 +1,45 @@
 ---
 publish: false
-title:
+title: Astor
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-15
 ---
 
-write here
+# Astor
+
+![[Astor-1792103525074.webp|300x260]]
+
+---
+
+## Name
+titles, epithets
+*Pronouns*: 
+
+---
+
+## Voice
+How they speak/communicate
+
+> [!quote]
+> "Quote"
+
+> [!quote]
+> "Quote"
+
+---
+
+## Description
+Physical forms and appearance
+
+---
+
+## Important Info
+- Domain/role
+- Origin, purpose, or key lore
+- Relationships or cosmological significance
+- 
 
 ---
 
