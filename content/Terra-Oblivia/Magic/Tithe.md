@@ -10,7 +10,10 @@ Created: 2026-10-10
 
 # Tithe
 
-write here
+> [!Quote] An Unnamed Spirit of War, Child of Rocan Ashar
+> *"You kill in my father's name, and offer the heads of your enemies at my shrine. You pay in prayer and offerings, and I drink from that gift. I take what I need to live and a bit more to grow. The rest flows upwards to Rocan Ashar, and thus the Tithe is paid."*
+
+Tithe is the divine law of worship, the system that dictates how religion flows into the [[Terra-Oblivia/Magic/Spirits|Spirits]], and how that flows from the Spirits to the [[Terra-Oblivia Gods and Pantheon|Gods]].
 
 ---
 

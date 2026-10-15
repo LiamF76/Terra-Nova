@@ -34,7 +34,7 @@ tags:
 - [x] [[Reshaped Gods]]
 - [x] [[Terra-Oblivia Gods and Pantheon]]
 	- reference table of Gods, domains, etc
-- [ ] [[Terra-Oblivia Religion]]
+- [x] [[Terra-Oblivia Religion]]
 	- how religion works, devotion, afterlife, favor, etc
 - [ ] [[Tithe]]
 - [ ] [[The Law of Oblivion]]
