@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Terra-Oblivia Religion
 aliases:
   - Religion
@@ -73,7 +73,7 @@ Devotion to a God takes time, but can bring great benefits. To live by the tenet
 
 ## Devotion and the Afterlife
 
-A devoted soul is one that worships honestly and follows the laws of their church. 
+A devoted soul is one that worships honestly and follows the laws of their church. Devoted souls are tied to their Gods, and upon death will pass on to their Gods realm to live on. Each God holds their followers souls in the afterlife within their respective realm in the Heavens.
 
 ---
 
@@ -85,7 +85,7 @@ Magic is an integral part of the church in Terra-Oblivia. Those who are dedicate
 
 ## Heresy and Forbidden Worship
 
-tbd
+Worship of the Old Gods is heretical and forbidden by all Gods and Spirits. To commune with the Dead Gods is to speak directly to the deep, to oblivion, and that incurs danger. Anyone caught worshipping the Old Gods will be punished with the utmost severity and no mercy, for the safety of the world.
 
 ---
 
