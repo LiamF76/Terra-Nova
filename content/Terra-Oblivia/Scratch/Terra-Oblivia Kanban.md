@@ -24,7 +24,7 @@ tags:
 - [ ] [[Terra-Oblivia History]]
 	- event involving fire magic, reason it is outlawed and feared?
 - [ ] [[Terra-Oblivia Characters]]
-- [ ] [[Terra-Oblivia Mortals]]
+- [ ] [[Terra-Oblivia Mortals Lineages]]
 - [ ] [[Terra-Oblivia Places Brainstorm]]
 - [ ] [[Terra-Oblivia Map (WIP).canvas]]
 
