@@ -19,6 +19,6 @@ Some Spirits may not be added to this list, see the Spirits folder under Terra-O
 - **[[Astor]]**, *The Summer Eagle*: A Spirit of [[Lumena]], Astor was a great guardian of the valley that houses the Triarch kingdom for centuries. He guarded those lands long before battling a Red Dragon Kasayt, which weakened him greatly. Now Astor resides in the valley, his worship and legend fade as his shrines slowly become forgotten.
 - **[[Paga]]**, *The Winter Bear*: A spirit of [[Aevarus]], Paga is a great bear who awakens during the winter, protecting those animals that hibernate and sleep during the cold times. It is said he is the largest bear in the world, and he has the horns of a reindeer.
 - **[[Tayox]]**, *The Golden Bull*: A Spirit of [[Oa Maton]], Tayox is a solid gold bull bearing feathered wings. Tayox serves as a judge between Spiritual disagreements, and is known to have a deep love for mortal children who ask him for aid when parents institute unfair bedtimes.
-- **TBD**, *The One Who Casts*: A Spirit of [[Vespar Telarum]], 
+- **[[Towca]]**, *The One Who Casts*: A Spirit of [[Vespar Telarum]], 
 - **[[The Horseman]]**, *Headless Rider*: A Spirit of [[Erasaad]], The Horseman is a captor of souls, often appearing when a mortal escapes death through unacceptable methods. The Horseman rides headless, as his many faces float about his shoulders and search for the escaped dead.
 - 

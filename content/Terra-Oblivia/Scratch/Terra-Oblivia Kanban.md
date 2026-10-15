@@ -142,6 +142,8 @@ tags:
 - [ ] [[Astor]]
 - [ ] [[Paga]]
 - [ ] [[Tayox]]
+- [ ] [[The Horseman]]
+- [ ] [[Towca]]
 
 
 
