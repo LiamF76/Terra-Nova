@@ -1,17 +1,24 @@
 {
 	"nodes":[
 		{"id":"ce13b6e58aaaf53d","type":"group","x":-605,"y":-120,"width":1015,"height":360,"label":"Escharra"},
-		{"id":"249204bfebea3c83","x":720,"y":-120,"width":290,"height":300,"type":"group","label":"Kageron"},
+		{"id":"753ac24b96502775","x":-1560,"y":240,"width":590,"height":212,"type":"group","label":"Zarus"},
+		{"id":"4b98a2417ca1a36e","x":-1560,"y":240,"width":590,"height":212,"type":"group"},
+		{"id":"249204bfebea3c83","type":"group","x":720,"y":-120,"width":290,"height":300,"label":"Kageron"},
 		{"id":"a42be8c965a6a9d4","type":"text","text":"Triarch","x":-180,"y":0,"width":250,"height":60},
 		{"id":"2788812e44bd8db2","type":"text","text":"Ashkarad","x":-180,"y":-100,"width":250,"height":60},
 		{"id":"39a972329a345a80","type":"text","text":"Ashkarad","x":-460,"y":0,"width":250,"height":60},
 		{"id":"782fb2d6351c51f8","type":"text","text":"Ashkarad","x":-180,"y":100,"width":250,"height":60},
 		{"id":"fcbb912a16f0ef33","type":"text","text":"Rocan Empire","x":140,"y":0,"width":250,"height":60},
 		{"id":"0dc22166d007d3c7","type":"text","text":"Liberos","x":-585,"y":160,"width":250,"height":60},
-		{"id":"3b6edb201ce94f47","x":440,"y":0,"width":250,"height":60,"type":"text","text":"Kondu Straight"},
-		{"id":"32f45074d800d075","x":740,"y":100,"width":250,"height":60,"type":"text","text":"Walima"},
-		{"id":"9c20976062f5555a","x":740,"y":0,"width":250,"height":60,"type":"text","text":"Osh-Akha"},
-		{"id":"051e43d99d6c1b81","x":740,"y":-100,"width":250,"height":60,"type":"text","text":"Agamar"}
+		{"id":"3b6edb201ce94f47","type":"text","text":"Kondu Straight","x":440,"y":0,"width":250,"height":60},
+		{"id":"32f45074d800d075","type":"text","text":"Walima","x":740,"y":100,"width":250,"height":60},
+		{"id":"9c20976062f5555a","type":"text","text":"Osh-Akha","x":740,"y":0,"width":250,"height":60},
+		{"id":"051e43d99d6c1b81","type":"text","text":"Agamar","x":740,"y":-100,"width":250,"height":60},
+		{"id":"1b7cd82e654ea66d","type":"text","text":"The Wahellian Wilds","x":-1540,"y":260,"width":250,"height":60},
+		{"id":"d5cd8303f88a2ae6","x":-1365,"y":372,"width":250,"height":60,"type":"text","text":"Big Inland Sea"},
+		{"id":"51018cec584665f6","type":"text","text":"Argos","x":-1240,"y":260,"width":250,"height":60},
+		{"id":"3a5322b84d8b17ac","x":-920,"y":190,"width":250,"height":60,"type":"text","text":"Ocean"},
+		{"id":"c697fba383f382b2","x":-620,"y":480,"width":250,"height":60,"type":"text","text":"Iramo"}
 	],
 	"edges":[
 		{"id":"06d4bfd1b9ae24ce","fromNode":"a42be8c965a6a9d4","fromSide":"top","toNode":"2788812e44bd8db2","toSide":"bottom"},
@@ -23,6 +30,11 @@
 		{"id":"8ed63e4a5ebd0318","fromNode":"9c20976062f5555a","fromSide":"top","toNode":"051e43d99d6c1b81","toSide":"bottom"},
 		{"id":"2ebea0bb9293b247","fromNode":"9c20976062f5555a","fromSide":"bottom","toNode":"32f45074d800d075","toSide":"top"},
 		{"id":"06cadd1acf7e3621","fromNode":"3b6edb201ce94f47","fromSide":"right","toNode":"9c20976062f5555a","toSide":"left"},
-		{"id":"39934f15c1795a61","fromNode":"3b6edb201ce94f47","fromSide":"left","toNode":"fcbb912a16f0ef33","toSide":"right"}
+		{"id":"39934f15c1795a61","fromNode":"3b6edb201ce94f47","fromSide":"left","toNode":"fcbb912a16f0ef33","toSide":"right"},
+		{"id":"db1820318a3ed137","fromNode":"51018cec584665f6","fromSide":"left","toNode":"1b7cd82e654ea66d","toSide":"right"},
+		{"id":"24b01a3d78930723","fromNode":"51018cec584665f6","fromSide":"bottom","toNode":"d5cd8303f88a2ae6","toSide":"top"},
+		{"id":"02c42f5ad6d8999e","fromNode":"0dc22166d007d3c7","fromSide":"left","toNode":"3a5322b84d8b17ac","toSide":"right"},
+		{"id":"0176de1e6c9bef08","fromNode":"3a5322b84d8b17ac","fromSide":"left","toNode":"51018cec584665f6","toSide":"right"},
+		{"id":"873806713cce8b34","fromNode":"0dc22166d007d3c7","fromSide":"bottom","toNode":"c697fba383f382b2","toSide":"top"}
 	]
 }

@@ -67,9 +67,26 @@
               "icon": "lucide-file",
               "title": "Terra-Oblivia Wiki Homepage"
             }
+          },
+          {
+            "id": "f989c789f0e386e5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
+                "viewState": {
+                  "x": -195.86038545167781,
+                  "y": 385.10903398926655,
+                  "zoom": -0.6681175004880323
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Terra-Oblivia Map (WIP)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,11 +215,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7d76f3d7fa66d0aa",
+  "active": "f989c789f0e386e5",
   "lastOpenFiles": [
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Act 1/CoK Act 1.md",
     "Terra-Oblivia/Characters/Mortals/Sana Black-Sky.md",
