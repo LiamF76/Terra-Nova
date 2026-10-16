@@ -11,5 +11,6 @@
   "obsidian-languagetool-plugin",
   "dataview-serializer",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]
