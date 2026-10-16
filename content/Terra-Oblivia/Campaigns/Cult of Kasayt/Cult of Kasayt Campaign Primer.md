@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Cult of Kasayt Campaign Primer
 aliases:
 tags:
