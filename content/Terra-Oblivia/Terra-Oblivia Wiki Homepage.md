@@ -59,7 +59,9 @@ I hope to create a wide and open campaign setting where we can play multiple yea
 
 ## Geography
 
-This is a very brief overview of Terra-Oblivia's geography. The 'central' continent is Escharra. Escharra is a vast land, the second largest on the planet.
+This is a very brief overview of Terra-Oblivia's geography. The 'central' continent is Escharra. Escharra is a vast land, the second largest on the planet. Escharra is continental, having a cold northern regions, warmer south coasts, and forested mountain ranges. It holds the valley nation of the Triarch, the violent wasteland of Ashkarad, the empire of Rocan, and the coastal free cities of Liberos.
+
+To the West of Escharra is Kageron, a tall continent across the Kondu Straight.  The south of Kageron is the largest desert on Terra-Oblivia called Walima. North of Walima are the mountain tribes of Ohs-Akha, their hills divide the thin continent into two distinct regions. North of that is Agamar, the jungle and forested ancestral homeland of the Elves.
 
 ---
 

@@ -124,6 +124,18 @@ tags:
 - [ ] dwarf mountain kingdom
 
 
+## Kageron
+
+- [ ] Kageron Continent
+- [ ] Agamar
+	- elven kingdom
+- [ ] Osh-Akha
+	- mountain tribes
+- [ ] Walima
+	- desert land, south
+	- my father's sand in elvish
+
+
 ## Lore
 
 - [ ] Dastan childhood attack
@@ -144,15 +156,6 @@ tags:
 - [ ] [[Tayox]]
 - [ ] [[The Horseman]]
 - [ ] [[Towca]]
-
-
-## Ikarth
-
-- [ ] Ikarth
-- [ ] Walima
-	- desert land, south
-- [ ] Agamar
-	- elven kingdom
 
 
 
