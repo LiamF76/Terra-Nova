@@ -23,7 +23,7 @@ This is a temporary list of characters in Terra-Oblivia. This list is not comple
 - [[Sana Black-Sky]]
 - [[Bellum Grail]]
 - **Lord Ryuu Doran**: 
-- **Hamza Al-Graui**: Elf warrior. Hamza is considered the greatest swordsman / sword master in Terra-Oblivia. Native of the desert land Walima, to the West of Escharra. 
+- **Hamza Al-Graui**: Elf warrior. Hamza is considered the greatest swordsman / sword master in Terra-Oblivia. Native of the desert land Walima, to the West of Escharra. He has trained many students in his long life, but very few in the last century. To be trained by Hamza is the greatest honor a swordsman can achieve.
 
 ---
 
