@@ -45,6 +45,14 @@ tags:
 - [ ] [[Dragonborn]]
 
 
+## Magic
+
+- [ ] [[Terra-Oblivia Magic]]
+- [ ] [[Abyssal Storm]]
+- [ ] [[Terra-Oblivia/Magic/Spirits|Spirits]]
+- [ ] [[Storm-Seer]]
+
+
 ## Gods
 
 - [ ] [[Aevarus]]
@@ -58,14 +66,6 @@ tags:
 - [ ] [[Oa Maton]]
 - [ ] [[Rocan Ashar]]
 - [ ] [[Vespar Telarum]]
-
-
-## Magic
-
-- [ ] [[Terra-Oblivia Magic]]
-- [ ] [[Abyssal Storm]]
-- [ ] [[Terra-Oblivia/Magic/Spirits|Spirits]]
-- [ ] [[Storm-Seer]]
 
 
 ## Planes
