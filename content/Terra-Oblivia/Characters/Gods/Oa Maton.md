@@ -7,7 +7,7 @@ tags:
 Created: 2026-10-11
 ---
 
-# God Name
+# Oa Maton
 #### Titles: Ever-Balanced, Lord of the Scales
 **Domain**: 
 **One-line summary**: 
