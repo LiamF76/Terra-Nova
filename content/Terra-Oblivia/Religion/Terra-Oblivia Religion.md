@@ -45,6 +45,21 @@ The tenets and lessons set by the Gods are imparted to mortals through many mean
 
 ### Primary Tenets
 
+<<<<<<< HEAD
+| God            | Tenets                                           |
+| -------------- | ------------------------------------------------ |
+| Lumena         | Leadership, Nurturing Life                       |
+| Balthazaar     | Lies, Forbidden Knowledge                        |
+| Erasaad        | Peaceful Rest, Respect for the Dead              |
+| Oa Maton       | Truth, Justice, Live a Balance Life              |
+| Rocan Ashar    | Glory, Combat, Victory, Bravery                  |
+| Vespar Telarum | Learning, Magical Study                          |
+| Krokha Inam    | Living in the Moment, Working Towards the Future |
+| Datura Ferhaus |                                                  |
+| Miragrim Ysor  | Travel,                                          |
+| Aevarus        | Tricks, The Wilds, Harmony with Nature           |
+| Kamara Desos   | Predetermined Destiny, Freedom of Choice         |
+=======
 | God            | Tenets                                                   |
 | -------------- | -------------------------------------------------------- |
 | Lumena         | Leadership, Nurturing Life                               |
@@ -58,6 +73,7 @@ The tenets and lessons set by the Gods are imparted to mortals through many mean
 | Miragrim Ysor  | Travel, Navigate Storms, Explore New Places              |
 | Aevarus        | Tricks, The Wilds, Harmony with Nature                   |
 | Kamara Desos   | Predetermined Destiny, Freedom of Choice                 |
+>>>>>>> origin/Main
 
 ---
 
@@ -109,3 +125,23 @@ Worship of the Old Gods is heretical and forbidden by all Gods and Spirits. To c
 - [[Tithe]]
 
 <!-- SerializedQuery END -->
+<<<<<<< HEAD
+
+
+## Religion Note Checklist
+
+- [x] Overview: short paragraph and one-line summary
+- [x] How worship works: devotion as personal choice, what favor means, casual versus formal worship
+- [x] Devotion and the afterlife: what devotion does for a soul, the undevoted, changing or losing devotion
+- [x] Worship in practice: prayers, offerings, shrines, rites of passage, death rites, holy days
+- [ ] Clergy and institutions: how religious authority is organized and where it overlaps with government
+- [ ] Spirits and Champions: one short paragraph, linking to their own notes
+- [ ] Religion and magic: faith and Pact magic, Blessed mages, how faiths treat Cinder, Scarred, and Old Rites magic
+
+### Priority first
+- [ ] How worship works
+- [ ] Devotion and the afterlife
+- [ ] List of religions
+
+=======
+>>>>>>> origin/Main

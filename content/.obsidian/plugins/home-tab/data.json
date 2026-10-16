@@ -1,8 +1,8 @@
 {
-  "logoType": "default",
+  "logoType": "imagePath",
   "logo": {
     "lucideIcon": "",
-    "imagePath": "",
+    "imagePath": "z Images/fantasy.png",
     "imageLink": ""
   },
   "logoScale": 1.2,
@@ -24,12 +24,21 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+<<<<<<< HEAD
       "filepath": "Dashboard.md",
       "timestamp": 1792155010535
     },
     {
       "filepath": "Terra-Oblivia/Magic/Abyssal Storm.md",
       "timestamp": 1792155010464
+=======
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
+      "timestamp": 1792123361500
+    },
+    {
+      "filepath": "Dashboard.md",
+      "timestamp": 1792123357457
+>>>>>>> origin/Main
     }
   ],
   "bookmarkedFileStore": [],
@@ -37,6 +46,6 @@
   "replaceNewTabs": true,
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
-  "omnisearch": false,
+  "omnisearch": true,
   "showOmnisearchExcerpt": true
 }

@@ -22,22 +22,42 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+<<<<<<< HEAD
           }
         ]
+=======
+          },
+          {
+            "id": "888a921c0281af68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cult of Kasayt Campaign Primer"
+            }
+          }
+        ],
+        "currentTab": 1
+>>>>>>> origin/Main
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "40cd9bebaab35c97",
+    "id": "b7fd963d1fb72649",
     "type": "split",
     "children": [
       {
-        "id": "49a13abadf283971",
+        "id": "f67b9d3ed94c60db",
         "type": "tabs",
         "children": [
           {
-            "id": "e34a2393bb44142e",
+            "id": "a20b8c888495672e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +72,7 @@
             }
           },
           {
-            "id": "7b55cf23085505ad",
+            "id": "dbf3a6fd19f04ab1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,18 +92,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.08984375
+    "width": 328.0110321044922
   },
   "right": {
-    "id": "c25d59f363de0017",
+    "id": "edfa255f6987f8f9",
     "type": "split",
     "children": [
       {
-        "id": "05048378f5cdb68e",
+        "id": "9d2b1980da109ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "82e16e8204e136ee",
+            "id": "0d5e71c731e094b8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -98,117 +118,142 @@
             }
           },
           {
-            "id": "fd2368f395de2c2b",
+            "id": "73217a1df8b8d6fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HOK Brainstorm"
+            }
+          },
+          {
+            "id": "1fb9bc83ab9ff58b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
+                "file": "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Third Lesson"
             }
           },
           {
-            "id": "61f1c54cff9f68f2",
+            "id": "ef6c3d700eed3977",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Terra-Oblivia/Religion/Terra-Oblivia Pantheon.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 309,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
+      "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "calendarium:Open Calendarium": false
     }
   },
+<<<<<<< HEAD
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Terra-Oblivia/Magic/Abyssal Storm.md",
+=======
+  "active": "888a921c0281af68",
+  "lastOpenFiles": [
+    "Dashboard.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
+>>>>>>> origin/Main
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
-    "Terra-Oblivia/Characters/Spirits/Towca.md",
-    "Terra-Oblivia/Characters/Spirits/The Horseman.md",
-    "z Images/The Horseman-1792103979451.webp",
-    "Terra-Oblivia/Characters/Spirits/Paga.md",
-    "z Images/Paga-1792103570555.webp",
-    "Terra-Oblivia/Characters/Spirits/Astor.md",
-    "z Images/Astor-1792103525074.webp",
-    "Terra-Oblivia/Characters/Dragons/Kasayt.md",
-    "Terra-Oblivia/Characters/Gods/Aevarus.md",
-    "Terra-Oblivia/Characters/Gods/Balthazaar.md",
-    "Terra-Oblivia/Characters/Gods/Datura Ferhaus.md",
-    "Terra-Oblivia/Characters/Gods/Erasaad.md",
-    "Terra-Oblivia/Characters/Gods/Kamara Desos.md",
-    "Terra-Oblivia/Characters/Gods/Krokha Inam.md",
-    "Terra-Oblivia/Characters/Gods/Lumena.md",
-    "Terra-Oblivia/Characters/Gods/Miragrim Ysor.md",
     "Terra-Oblivia/Characters/Gods/Oa Maton.md",
-    "Terra-Oblivia/Characters/Gods/Rocan Ashar.md",
-    "Terra-Oblivia/Characters/Gods/Vespar Telarum.md",
-    "Terra-Oblivia/Characters/Mortals/Bellum Grail.md",
-    "Terra-Oblivia/Characters/Mortals/Hartwyn Syros.md",
-    "Terra-Oblivia/Characters/Mortals/Rowan August.md",
-    "Terra-Oblivia/Characters/Mortals/Sana Black-Sky.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
+    "Terra-Oblivia/Religion/Divine Champions.md",
+    "Terra-Oblivia/Characters/Spirits/The Horseman.md",
     "Terra-Oblivia/Characters/Spirits/Tayox.md",
-    "Templates/Character Template.md",
+    "Terra-Oblivia/Characters/Spirits/Towca.md",
+    "Terra-Oblivia/Characters/Spirits/Paga.md",
+    "Terra-Oblivia/Characters/Spirits/Astor.md",
+    "Terra-Oblivia/Characters/Spirits",
+    "z Images/The Horseman-1792103979451.webp",
     "z Images/Tayox-1792103234243.webp",
+<<<<<<< HEAD
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "z Images/Sana Blood-Ear-1791499894989.webp",
     "z Images/Rowan August-1792022757105.webp",
     "z Images/Rowan August-1792018785782.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Act 1",
     "z Images/Sana Black-Sky-1791913574987.webp",
+=======
+    "z Images/Paga-1792103570555.webp",
+    "z Images/Astor-1792103525074.webp",
+    "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Intro Script.md",
+    "Templates/Ancestry Template.md",
+    "Terra-Oblivia/Religion/The Law of Oblivion.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+    "Arkfall/Groups/Organizations/The Fallen Star Coalition.md",
+    "conflict-files-obsidian-git.md",
+    "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
+    "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
+    "Terra-Oblivia/History & Lore/Folktales",
+    "Terra-Oblivia/History & Lore",
+    "Terra-Oblivia/Groups/Noble Families/Noble Houses of the Triarch.md",
+    "Terra-Oblivia/Groups/Knight Orders/Ironwing Order.md",
+    "Terra-Oblivia/Groups/Knight Orders/Pilgrim Knights.md",
+    "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
+    "Terra-Oblivia/Groups/Governments/The Devout Assembly.md",
+>>>>>>> origin/Main
     "Terra-Oblivia/Groups/Noble Families",
-    "z Images/Terra-Oblivia Gods and Pantheon-1791837762827.webp",
-    "z Images/Terra-Oblivia Gods and Pantheon-1791837022691.webp",
     "Terra-Oblivia/Groups/Knight Orders",
     "Terra-Oblivia/Groups/Governments",
-    "Terra-Oblivia/Geography/Continents/Escharra/Cu",
-    "Terra-Oblivia/Characters/Gods",
+    "Terra-Oblivia/Groups",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities",
-    "Terra-Oblivia/Campaigns/Untitled",
-    "Terra-Oblivia/Scratch/TO Workpad.canvas",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt",
-    "Terra-Oblivia/Campaigns",
-    "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
-    "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
-    "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
-    "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Space Western Storyboard.canvas",
-    "Arkfall/Cosmology/Arkfall Map.canvas",
-    "Arkfall/Timeline/Arkfall Timeline V2.canvas",
+    "z Images/The Triarch-1791831754527.webp",
+    "z Images/Terra-Oblivia Wiki Homepage-1791577298140.webp",
+    "z Images/Terra-Oblivia Wiki Homepage-1791576104844.webp",
+    "z Images/Terra-Oblivia Wiki Homepage-1791521591276.webp",
+    "z Images/Terra-Oblivia Wiki Homepage-1791520368247.webp",
+    "Terra-Oblivia/Terra-Oblivia Tabletop Game",
+    "Terra-Oblivia/Characters/Mortals",
     "Arkfall/Cosmology/Old Arkfall Map.canvas",
-    "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas"
+    "Arkfall/Cosmology/Arkfall Map.canvas",
+    "z Images/The Fallen Star Coalition-1788725607437.webp",
+    "Arkfall/Cosmology/Arkfall Map V2.canvas",
+    "Arkfall/Cosmology/Arkfall Map Old.canvas",
+    "Terra-Oblivia/Scratch/TO Workpad.canvas",
+    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
+    "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
+    "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
+    "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas"
   ]
 }

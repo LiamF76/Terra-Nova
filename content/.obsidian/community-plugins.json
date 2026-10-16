@@ -2,15 +2,15 @@
   "obsidian-style-settings",
   "calendarium",
   "better-word-count",
-  "templater-obsidian",
   "obsidian-kanban",
   "obsidian-icon-folder",
   "homepage",
   "home-tab",
   "image-converter",
   "dataview",
-  "obsidian-git",
   "obsidian-languagetool-plugin",
   "dataview-serializer",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "obsidian-git"
 ]
