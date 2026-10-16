@@ -65,6 +65,8 @@ To the West of Escharra is Kageron, a tall continent across the Kondu Straight. 
 
 To the East of Escharra is Zarus, the second largest continent and the land that holds the largest inland sea. Zarus has only one nation, known as Argos. It is a smaller nation on the western coast, while the rest of the continent is dominated by the Wahellian Wilds. The Wilds are enchanted by an ancient empire's curse, making them impossible to inhabit.
 
+Far to the south is the island of Iramo. 
+
 ---
 
 
