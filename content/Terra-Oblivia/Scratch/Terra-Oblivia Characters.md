@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Terra-Oblivia Characters
 aliases:
 tags:
@@ -24,7 +24,7 @@ This is a temporary list of characters in Terra-Oblivia. This list is not comple
 - [[Sana Black-Sky]]
 - [[Bellum Grail]]
 - **Lord Ryuu Doran**: 
-- 
+- **Hamza Al-Graui**: 
 
 ---
 
