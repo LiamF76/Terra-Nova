@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: The Law of Oblivion
 aliases:
 tags:
@@ -23,7 +23,6 @@ The essence of the Law of Oblivion is that the [[Terra-Oblivia Gods and Pantheon
 ## History of the Law
 
 When the [[Terra-Oblivia Dragons|Dragons]] rose up and devoured the Old Gods, they brought with them the might to rule, and the Law. The Old Gods meddled and walked upon Terra-Oblivia, and it brought ruin everywhere they stepped. Now the Gods are distant, and the world lives on because of that.
-
 
 ---
 

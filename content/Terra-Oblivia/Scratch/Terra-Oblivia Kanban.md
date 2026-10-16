@@ -24,7 +24,7 @@ tags:
 - [ ] [[Terra-Oblivia History]]
 	- event involving fire magic, reason it is outlawed and feared?
 - [ ] [[Terra-Oblivia Characters]]
-- [ ] [[Terra-Oblivia Mortals]]
+- [ ] [[Terra-Oblivia Mortals Lineages]]
 - [ ] [[Terra-Oblivia Places Brainstorm]]
 - [ ] [[Terra-Oblivia Map (WIP).canvas]]
 
@@ -37,12 +37,20 @@ tags:
 - [x] [[Terra-Oblivia Religion]]
 	- how religion works, devotion, afterlife, favor, etc
 - [x] [[Tithe]]
-- [ ] [[The Law of Oblivion]]
-- [ ] [[Terra-Oblivia Great Spirits]]
+- [x] [[The Law of Oblivion]]
+- [x] [[Terra-Oblivia Great Spirits]]
 	- reference table of great spirits, domains, etc
 - [ ] [[Terra-Oblivia/Religion/Divine Champions|Divine Champions]]
 - [ ] [[Terra-Oblivia Dragons]]
 - [ ] [[Dragonborn]]
+
+
+## Magic
+
+- [ ] [[Terra-Oblivia Magic]]
+- [ ] [[Abyssal Storm]]
+- [ ] [[Terra-Oblivia/Magic/Spirits|Spirits]]
+- [ ] [[Storm-Seer]]
 
 
 ## Gods
@@ -60,25 +68,18 @@ tags:
 - [ ] [[Vespar Telarum]]
 
 
-## Magic
-
-- [ ] [[Terra-Oblivia Magic]]
-- [ ] [[Abyssal Storm]]
-- [ ] [[Terra-Oblivia/Magic/Spirits|Spirits]]
-- [ ] [[Storm-Seer]]
-
-
 ## Planes
 
 - [ ] [[Terra-Oblivia Planes.canvas]]
+- [ ] [[Temporal Plane]]
 - [ ] [[The Infinite Road]]
+- [ ] [[The Primordium]]
+- [ ] [[The Heavens]]
+- [ ] [[The Dream Plane]]
+- [ ] [[The Ascendant Plane]]
 - [ ] [[The Material Plane]]
 - [ ] [[The Abyss]]
-- [ ] [[The Ascendant Plane]]
-- [ ] [[The Dream Plane]]
-- [ ] [[The Heavens]]
-- [ ] [[The Primordium]]
-- [ ] [[Temporal Plane]]
+- [ ] [[The Deep]]
 
 
 ## The Triarch / 3 Cities
@@ -136,10 +137,19 @@ tags:
 - [ ] [[Terra-Oblivia Tabletop Stats and Skills]]
 
 
+## Spirits
+
+- [ ] [[Astor]]
+- [ ] [[Paga]]
+- [ ] [[Tayox]]
+- [ ] [[The Horseman]]
+- [ ] [[Towca]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false,false,false]}
 ```
 %%

@@ -3,7 +3,7 @@ publish: false
 title: Bellum Grail
 aliases:
 tags:
-  - Terra-Nova
+  - Terra-Oblivia
 Created: 2026-10-08
 ---
 

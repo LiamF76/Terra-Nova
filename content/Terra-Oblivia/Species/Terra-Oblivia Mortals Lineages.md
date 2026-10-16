@@ -4,6 +4,7 @@ title:
 aliases:
 tags:
   - Terra-Oblivia
+Created: 2026-08-29
 ---
 
 - **Constructs**: 
@@ -23,3 +24,14 @@ tags:
 - **Humans**: Numerous and adaptable. Humans are the most common race. They are the least likely to be born with magic, even those born to magical bloodlines have a chance to be without it. Humans have risen to power in the Age of Dragons, often acting as puppet Kings for the Dragons and Dragonborn, and as such they have an inflated sense of self importance and ego. Most though exist in poor conditions fighting to survive.
 - **Scarborn**: 
 
+
+# Mortal Ancestries
+
+This is a list of the mortal ancestires in Terra-Oblivia. This is a WIP, a rough list is available at the bottom of this note with any that have not been added yet.
+
+---
+
+
+## Links
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
