@@ -146,10 +146,19 @@ tags:
 - [ ] [[Towca]]
 
 
+## Ikarth
+
+- [ ] Ikarth
+- [ ] Walima
+	- desert land, south
+- [ ] Agamar
+	- elven kingdom
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false,false,false,false]}
 ```
 %%

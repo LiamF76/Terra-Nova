@@ -54,6 +54,16 @@ I hope to create a wide and open campaign setting where we can play multiple yea
 - The Dark Crystal
 - The Forgotten Realms
 - God of War (Modern Games)
+
+---
+
+## Geography
+
+This is a very brief overview of Terra-Oblivia's geography. The 'central' continent is Escharra. Escharra is a vast land, the second largest on the planet.
+
+---
+
+
 ## Helpful Links
 
 > [!faq]
@@ -68,5 +78,7 @@ I hope to create a wide and open campaign setting where we can play multiple yea
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 - [[Terra-Nova Wiki Homepage|Terra-Nova]]
+- [[Terra-Oblivia Gods and Pantheon]]
+- [[Terra-Oblivia Magic]]
 
 <!-- SerializedQuery END -->
