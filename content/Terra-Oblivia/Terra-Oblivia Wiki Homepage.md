@@ -31,7 +31,7 @@ Terra-Oblivia has a unique tone I describe using a few terms:
 
 Terra-Oblivia is rife with magic, but not in the traditional sense of massive schools teaching every cantrip they can find. Magic is the world, and mortals can only wield small parts of it, often times requiring help. This world is shadowed and dangerous, far past its glory days, barely holding on. These shadows that have been cast only show the light around them brighter, and this world has many opportunities for triumph in the face of this darkness. Heroes still exist, and are needed now more than ever to lead the world into tomorrow with hope and bravery.
 
-![[Terra-Oblivia Wiki Homepage-1791521591276.webp|300x215]]
+![[Terra-Oblivia Wiki Homepage-1791521591276.webp|500]]
 
 This world is the center of a cosmic conflict that the mortals and often times those beyond mortals are not aware of. The idea of ending vs continuing. This conflict was inspired by my own inability to continue to develop one setting, as opposed to simply creating new ones. But how does this manifest?
 
@@ -44,8 +44,8 @@ I hope to create a wide and open campaign setting where we can play multiple yea
 
 ---
 
-| ![[Terra-Oblivia Wiki Homepage-1791577298140.webp\|300x486]] | ![[Terra-Oblivia Wiki Homepage-1791576104844.webp\|300x392]] |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![[Terra-Oblivia Wiki Homepage-1791577298140.webp\|400]] | ![[Terra-Oblivia Wiki Homepage-1791576104844.webp\|400]] |
+| -------------------------------------------------------- | -------------------------------------------------------- |
 
 ## Terra-Oblivia's Inspirations
 
