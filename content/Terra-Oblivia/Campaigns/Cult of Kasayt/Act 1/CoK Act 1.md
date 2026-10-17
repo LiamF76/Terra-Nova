@@ -53,7 +53,7 @@ Ideas:
 		- The door rests within a building made to be like a mountain
 		- A reminder that wizards take security very seriously
 	- *Rowan's Amulet*. Magical locket, a note tied to the chain says the locket is the key, it is the only way to stop Kasayt, but it cannot stay in Citadel, because Kasayt's minions will be hunting for it.
-	- A letter to TBD
+	- *A letter to Arzen*: A letter to someone named Arzen who appears to be a scholar on the occult. Never heard of this person before, it's an eastern name, possibly an elf from Walima. They appear to have been corresponding for quite some time, and Rowan was asking for more information about a 'Stone King'.
 
 ---
 
@@ -61,5 +61,7 @@ Ideas:
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Sana Black-Sky]]
+- [[Kasayt]]
 
 <!-- SerializedQuery END -->

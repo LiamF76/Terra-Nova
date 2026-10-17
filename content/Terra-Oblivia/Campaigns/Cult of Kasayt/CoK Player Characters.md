@@ -6,7 +6,27 @@ tags:
 Created: 2026-10-16
 ---
 
+## Finch
+
 Backstory / Knives: https://docs.google.com/document/d/1cq2B456nO8AYB-jVD3L-Iu6QOg3yEOGY_45I_tVy3CQ/edit?tab=t.0
+
+**Ideas**:
+- l
+
+---
+
+## TBD
+
+Backstory / Knives: 
+
+**Ideas**:
+- 
+
+---
+
+## TBD
+
+Backstory / Knives: 
 
 **Ideas**:
 - 

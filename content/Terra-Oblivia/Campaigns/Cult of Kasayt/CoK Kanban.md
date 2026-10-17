@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Player Characters
 
-- [ ] [[Finch]]
+- [ ] [[CoK Player Characters]]
 
 
 ## Misc
