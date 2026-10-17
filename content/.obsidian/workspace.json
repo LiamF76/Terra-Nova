@@ -79,37 +79,9 @@
               "icon": "lucide-trello",
               "title": "CoK Kanban"
             }
-          },
-          {
-            "id": "137aa644223e5f87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CoK Player Characters"
-            }
-          },
-          {
-            "id": "66335622e7917ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Session Notes/Act 1/Session 0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 0"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,11 +210,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "137aa644223e5f87",
+  "active": "2496e1ecc3185678",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Session Notes/Act 1/Session 0.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
