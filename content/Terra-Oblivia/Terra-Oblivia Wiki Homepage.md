@@ -77,6 +77,7 @@ Far to the south is the island of Iramo. Iramo is not a naturally formed island,
 > - [[Terra-Oblivia Magic]]
 > - [[Terra-Oblivia History]]
 > - [[Terra-Oblivia Characters]]
+> - [[Terra-Oblivia Mortals Lineages]]
 
 ---
 
@@ -87,5 +88,8 @@ Far to the south is the island of Iramo. Iramo is not a naturally formed island,
 - [[Terra-Nova Wiki Homepage|Terra-Nova]]
 - [[Terra-Oblivia Gods and Pantheon]]
 - [[Terra-Oblivia Magic]]
+- [[Terra-Oblivia History]]
+- [[Terra-Oblivia Characters]]
+- [[Terra-Oblivia Mortals Lineages]]
 
 <!-- SerializedQuery END -->
