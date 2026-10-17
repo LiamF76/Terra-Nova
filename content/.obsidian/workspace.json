@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "4036145e373f5aaf",
+            "id": "3f3dab69fc526c22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,23 +93,9 @@
               "icon": "lucide-file",
               "title": "The Stone King"
             }
-          },
-          {
-            "id": "28cd95814cd04929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Characters/Mortals/Arzen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arzen"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,14 +224,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "28cd95814cd04929",
+  "active": "3f3dab69fc526c22",
   "lastOpenFiles": [
-    "z Images/Arzen-1792257248840.webp",
-    "Terra-Oblivia/Items/Artifacts/The Stone King.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/audrey consent form CoK.pdf",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/grey consent form CoK.pdf",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/hunter consent form CoK.pdf",
+    "Terra-Oblivia/Items/Artifacts/The Stone King.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms",
+    "Terra-Oblivia/Characters/Mortals/Arzen.md",
+    "z Images/Arzen-1792257248840.webp",
     "Terra-Oblivia/Items/Artifacts",
     "Terra-Oblivia/Items",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Session Notes",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
@@ -253,7 +244,6 @@
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Intro Script.md",
     "Dashboard.md",
-    "Terra-Oblivia/Characters/Mortals/Arzen.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Characters",
     "Terra-Oblivia/Scratch/TO Idea Dump.md",
     "pathfinder cheat sheet.png",
@@ -283,11 +273,6 @@
     "z Images/Rowan August-1792018785782.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Session Notes/Act 1",
     "z Images/Sana Black-Sky-1791913574987.webp",
-    "Terra-Oblivia/Groups/Noble Families",
-    "z Images/Terra-Oblivia Gods and Pantheon-1791837762827.webp",
-    "Terra-Oblivia/Groups/Knight Orders",
-    "Terra-Oblivia/Groups/Governments",
-    "Terra-Oblivia/Geography/Continents/Escharra/Cu",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
