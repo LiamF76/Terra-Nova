@@ -16,6 +16,7 @@ kanban-plugin: board
 
 - [ ] [[CoK Player Characters]]
 - [x] [[Cult of Kasayt Campaign Primer]]
+- [x] [[The Cult of Kasayt Story Introduction]]
 - [ ] [[CoK Brainstorm]]
 
 
