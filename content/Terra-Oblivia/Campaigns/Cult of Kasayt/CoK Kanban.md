@@ -4,9 +4,10 @@ kanban-plugin: board
 
 ---
 
-## Player Characters
+## Session Prepping
 
 - [ ] [[CoK Player Characters]]
+- [ ] Session 1
 
 
 ## Misc

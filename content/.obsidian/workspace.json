@@ -81,6 +81,20 @@
             }
           },
           {
+            "id": "137aa644223e5f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CoK Player Characters"
+            }
+          },
+          {
             "id": "66335622e7917ade",
             "type": "leaf",
             "state": {
@@ -93,37 +107,9 @@
               "icon": "lucide-file",
               "title": "Session 0"
             }
-          },
-          {
-            "id": "3b308209bf1b036d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terra-Oblivia Mortals Lineages"
-            }
-          },
-          {
-            "id": "2168f72746391b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terra-Oblivia Wiki Homepage"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -252,12 +238,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2168f72746391b47",
+  "active": "137aa644223e5f87",
   "lastOpenFiles": [
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Session Notes/Act 1/Session 0.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
+    "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "Terra-Oblivia/Items/Artifacts/The Stone King.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
@@ -272,7 +260,6 @@
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Session Notes",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Campaign Brainstorm.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Intro Script.md",
     "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Characters",
@@ -288,7 +275,6 @@
     "Terra-Nova/Characters/People/Alabaster.md",
     "ironhawk.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
-    "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/Characters/Mortals/Sana Black-Sky.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
