@@ -1,20 +1,20 @@
 {
-  "logoType": "imagePath",
+  "logoType": "default",
   "logo": {
     "lucideIcon": "",
-    "imagePath": "z Images/fantasy.png",
+    "imagePath": "",
     "imageLink": ""
   },
   "logoScale": 1.2,
   "iconColorType": "default",
-  "wordmark": "Daraan's Canvas",
+  "wordmark": "Obsidian",
   "customFont": "interfaceFont",
   "fontSize": "4em",
   "fontColorType": "default",
   "fontWeight": 600,
   "maxResults": 5,
   "showbookmarkedFiles": true,
-  "showRecentFiles": true,
+  "showRecentFiles": false,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
   "showPath": true,
@@ -24,38 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-<<<<<<< HEAD
-      "filepath": "Terra-Oblivia/Scratch/TO Idea Dump.md",
-      "timestamp": 1792211167471
-=======
-      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/Act 1/CoK Act 1.md",
-      "timestamp": 1792209105747
-    },
-    {
-      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-      "timestamp": 1792209102895
->>>>>>> origin/Main
-    },
-    {
       "filepath": "Dashboard.md",
-      "timestamp": 1792204035718
+      "timestamp": 1792254051351
     },
     {
-      "filepath": "pathfinder cheat sheet.png",
-      "timestamp": 1792204032081
-    },
-    {
-<<<<<<< HEAD
-      "filepath": "Terra-Nova/World Codex/Lore Documents/Story of Maple Celestia.md",
-      "timestamp": 1792184925429
-    },
-    {
-      "filepath": "z Old/OLD GAMES/Campaigns/The Reckoner's Wrath/Events/Tourney Fights/Maple fight stuff.md",
-      "timestamp": 1792184921828
-=======
-      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/Characters/Finch.md",
-      "timestamp": 1792203522096
->>>>>>> origin/Main
+      "filepath": "Terra-Oblivia/Scratch/TO Idea Dump.md",
+      "timestamp": 1792254051277
     }
   ],
   "bookmarkedFileStore": [],
@@ -63,6 +37,6 @@
   "replaceNewTabs": true,
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
-  "omnisearch": true,
+  "omnisearch": false,
   "showOmnisearchExcerpt": true
 }
