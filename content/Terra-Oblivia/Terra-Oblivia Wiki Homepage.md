@@ -10,7 +10,7 @@ tags:
 Created: 2026-09-20
 ---
 
-## Terra-Oblivia Wiki Homepage
+# Terra-Oblivia Wiki Homepage
 
 Welcome to Terra-Oblivia. 
 
@@ -20,7 +20,7 @@ Terra-Oblivia is the third world in my series of "Daraan's Worlds" following beh
 
 If you have previously read or played within the world of Terra-Nova, many things may feel familiar in tone, setting, theme, or even name. They may feel so similar that they seem to be the same world. That is up to you to understand and discover as you explore my world.
 
-### Terra-Oblivia's Tone
+## Terra-Oblivia's Tone
 
 Terra-Oblivia has a unique tone I describe using a few terms:
 - Medium Fantasy (This means magic being at the power and effect of high fantasy, but being so uncommon, or not controlled by mortal actors such as wizards, that is does not display as high fantasy IMO)
@@ -68,7 +68,6 @@ To the East of Escharra is Zarus, the second largest continent and the land that
 Far to the south is the island of Iramo. Iramo is not a naturally formed island, thought to be built in an era even older than the Old Gods. The entire island is covered by a 300 foot tall maze of obsidian and stone walls. It stretches high into the sky and deep into the earth, and is thought to be endless. 
 
 ---
-
 
 ## Helpful Links
 
