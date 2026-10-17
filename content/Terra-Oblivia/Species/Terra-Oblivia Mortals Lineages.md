@@ -1,11 +1,18 @@
 ---
-publish: false
-title:
+publish: true
+title: Terra-Oblivia Mortals Lineages
 aliases:
+  - Mortal
+  - Races
+  - Lineages
 tags:
   - Terra-Oblivia
 Created: 2026-08-29
 ---
+
+# Mortal Ancestries
+
+This is a list of the mortal ancestires in Terra-Oblivia. This is a WIP, a rough list is available at the bottom of this note with any that have not been added yet.
 
 - **Constructs**: 
 - **Dragonborn**: Revered and respected (or reviled by Elves), Dragonborn are the literal children of Dragons. Bred specifically to rule and enact the will of Dragons, these people are powerful, strong with might and magic, they command respect and fear in mage craft, warfare, and government. Which dragon fathered or mothered them, and why, is often a matter of political or religious importance in itself. They inherit some trait or motif of their dragon parent (a color, an element, a temperament) but not full draconic power. All people recognize Dragonborn, either respectfully or otherwise, their power and status is undeniable, and their presence in a city is always of note.
@@ -23,11 +30,6 @@ Created: 2026-08-29
 	- 
 - **Humans**: Numerous and adaptable. Humans are the most common race. They are the least likely to be born with magic, even those born to magical bloodlines have a chance to be without it. Humans have risen to power in the Age of Dragons, often acting as puppet Kings for the Dragons and Dragonborn, and as such they have an inflated sense of self importance and ego. Most though exist in poor conditions fighting to survive.
 - **Scarborn**: 
-
-
-# Mortal Ancestries
-
-This is a list of the mortal ancestires in Terra-Oblivia. This is a WIP, a rough list is available at the bottom of this note with any that have not been added yet.
 
 ---
 
