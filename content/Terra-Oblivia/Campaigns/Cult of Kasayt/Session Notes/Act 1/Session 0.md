@@ -10,12 +10,18 @@ Created: 2026-10-17
 
 Grey: 
 - Mystery, Gods
+- 
 
 Hunter:
 - Adventure, help people across Triarch
+- monster hunt, kill big monster
+- 
 
 Audrey:
 - Sidequests, see stuff do stuff along the way, random fun things
+- dungeons
+- see a tower, go to the tower
+- 
 
 ---
 
