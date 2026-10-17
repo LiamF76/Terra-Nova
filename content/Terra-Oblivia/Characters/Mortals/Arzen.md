@@ -3,16 +3,17 @@ publish: false
 title: Arzen
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-17
 ---
 
-# Name
+# Arzen
 
-![[image.png|300]]
+![[Arzen-1792257248840.webp|500]]
 
 ---
 
-## Name
+## Arzen
 titles, epithets
 *Pronouns*: 
 
