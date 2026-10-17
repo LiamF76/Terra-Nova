@@ -54,12 +54,29 @@ I hope to create a wide and open campaign setting where we can play multiple yea
 - The Dark Crystal
 - The Forgotten Realms
 - God of War (Modern Games)
+
+---
+
+## Geography
+
+This is a very brief overview of Terra-Oblivia's geography. The 'central' continent is Escharra. Escharra is a vast land, the second largest on the planet. Escharra is continental, having a cold northern regions, warmer south coasts, and forested mountain ranges. It holds the valley nation of the Triarch, the violent wasteland of Ashkarad, the empire of Rocan, and the coastal free cities of Liberos.
+
+To the West of Escharra is Kageron, a tall continent across the Kondu Straight.  The south of Kageron is the largest desert on Terra-Oblivia called Walima. North of Walima are the mountain tribes of Ohs-Akha, their hills divide the thin continent into two distinct regions. North of that is Agamar, the jungle and forested ancestral homeland of the Elves.
+
+To the East of Escharra is Zarus, the second largest continent and the land that holds the largest inland sea. Zarus has only one nation, known as Argos. It is a smaller nation on the western coast, while the rest of the continent is dominated by the Wahellian Wilds. The Wilds are enchanted by an ancient empire's curse, making them impossible to inhabit.
+
+Far to the south is the island of Iramo. Iramo is not a naturally formed island, thought to be built in an era even older than the Old Gods. The entire island is covered by a 300 foot tall maze of obsidian and stone walls. It stretches high into the sky and deep into the earth, and is thought to be endless. 
+
+---
+
+
 ## Helpful Links
 
 > [!faq]
 > - [[Terra-Oblivia Gods and Pantheon]]
 > - [[Terra-Oblivia Magic]]
-> - 
+> - [[Terra-Oblivia History]]
+> - [[Terra-Oblivia Characters]]
 
 ---
 
@@ -68,5 +85,7 @@ I hope to create a wide and open campaign setting where we can play multiple yea
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 - [[Terra-Nova Wiki Homepage|Terra-Nova]]
+- [[Terra-Oblivia Gods and Pantheon]]
+- [[Terra-Oblivia Magic]]
 
 <!-- SerializedQuery END -->

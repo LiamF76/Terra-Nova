@@ -1,7 +1,8 @@
 ---
-publish: false
+publish: true
 title: Sana Black-Sky
 aliases:
+  - The Blood Sovereign
 tags:
   - Terra-Oblivia
 Created: 2026-10-08
@@ -31,8 +32,7 @@ Deep androgynous voice, often uses flower effeminate language to describe how th
 ---
 
 ## Description
-Sana is a 6'10 dark skinned Elf with blood red eyes and pure white hair. They are muscular, wear little bits of armor and fur. They are known for their gold skull belt, said to have been forged from golden Giant bones.
-They always carry a massive weapon, rotating between the largest thing they can find and swing.
+Sana is a 6'10 dark skinned Elf with blood red eyes and pure white hair. They are muscular, wear little bits of armor and fur. They are known for their gold skull belt, said to have been forged from golden Giant bones. They always carry a massive weapon, rotating between the largest thing they can find and swing.
 
 ---
 

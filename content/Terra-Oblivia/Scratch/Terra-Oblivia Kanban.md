@@ -124,6 +124,18 @@ tags:
 - [ ] dwarf mountain kingdom
 
 
+## Kageron
+
+- [ ] Kageron Continent
+- [ ] Agamar
+	- elven kingdom
+- [ ] Osh-Akha
+	- mountain tribes
+- [ ] Walima
+	- desert land, south
+	- my father's sand in elvish
+
+
 ## Lore
 
 - [ ] Dastan childhood attack
@@ -150,6 +162,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false,false,false,false]}
 ```
 %%

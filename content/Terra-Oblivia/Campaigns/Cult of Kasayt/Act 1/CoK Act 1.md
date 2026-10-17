@@ -41,9 +41,9 @@ Ideas:
 - mention Rowan good NPC priest a few times, as someone the party has been sent to meet. Show they are faithful, and good. Someone they should meet with soon, and can trust.
 - As fall begins, people are calling it a peace time, as there have been significantly less monsters in the valley over this summer
 
-BUT THEREFORE:
+#### BUT THEREFORE:
 - A caravan is bringing an artifact of the Green Knights to Citadel for study *BUT* they are ambushed on the road by Sana's minions **THEREFORE** the party has to stop the ambush somehow (fight, grab artifact and flee, help escort of artifact escape, etc).
-- The party was invited to meet with Rowan *BUT* they find Rowan dead with a massive battleaxe having cut them in half (curse magic weapon still there, his locket still around his neck) **THEREFORE** the party has to decipher why they were killed by looking their their notes.
+- The party was invited to meet with Rowan *BUT* they find Rowan dead with a massive battleaxe having cut them in half (curse magic weapon still there, his locket still around his neck) **THEREFORE** the party has to decipher why they were killed by looking their their notes. Stuff they learn from Rowan
 	- *Green Knights*. 3 Clues in notes:
 		- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
 		- 2. Notes reference the wooden fortress
@@ -52,8 +52,7 @@ BUT THEREFORE:
 		- The door is physical, the key is not
 		- The door rests within a building made to be like a mountain
 		- A reminder that wizards take security very seriously
-- The party finds the Rowan's research on the Green Knights and a demonic tome *BUT* the location of both are incomplete **THEREFORE** they have to follow either the Green Knights woodland fortress lead or the Demonic Tome tower lead.
-- The party wants to investigate *BUT* the Devout Assembly is missing a member and BAD NPC SPY won't vote in the party's favor **THEREFORE** they need to find away around his approval or earn his favor.
+	- *Rowan's Amulet*. Magical locket, a note tied to the chain says the locket is the key, it is the only way to stop Kasayt, but it cannot stay in Citadel, because Kasayt's minions will be hunting for it.
 
 ---
 
