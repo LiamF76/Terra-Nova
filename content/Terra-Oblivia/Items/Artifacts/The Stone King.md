@@ -1,21 +1,15 @@
 ---
 publish: false
-title:
+title: The Stone King
 aliases:
 tags:
-Created: 2026-10-13
+  - Terra-Oblivia
+Created: 2026-10-17
 ---
 
-What does Sana Black-Sky have to work with?
+# The Stone King
 
-Personel:
-- blood magic lieutenants
-- bandit goons
-- 
-Equipment:
-- The Bloodstone
-Information:
-- Spy, 
+The Stone King is a timeless artifact. 
 
 ---
 
