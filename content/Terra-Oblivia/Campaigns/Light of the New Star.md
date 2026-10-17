@@ -13,8 +13,8 @@ Created: 2026-10-17
 - **BBEG**: Orzul-Dara, Voice of the Deep
 - Lieutenants:
 	- Arzen
-	- Sav-Dara, Mind of the Deep
-	- Xiv-Dara, Sword of the Deep
+	- Sathu-Dara, Mind of the Deep
+	- Kharn-Dara, Sword of the Deep
 - 
 
 ---
