@@ -4,6 +4,11 @@ kanban-plugin: board
 
 ---
 
+## Player Characters
+
+- [ ] [[Finch]]
+
+
 ## Misc
 
 - [x] [[Cult of Kasayt Campaign Primer]]
@@ -43,6 +48,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
