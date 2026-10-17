@@ -71,6 +71,8 @@ Ideas:
 
 #### BUT THEREFORE:
 - A caravan is bringing an artifact of the Green Knights to Citadel for study *BUT* they are ambushed on the road by Sana's minions **THEREFORE** the party has to stop the ambush somehow (fight, grab artifact and flee, help escort of artifact escape, etc).
+- Artifact: Brass ring with cared jade around it, about 1ft diameter tail to tail.
+![[CoK Brainstorm-1792262927848.webp|300x300]]
 - The party was invited to meet with Rowan *BUT* they find Rowan dead with a massive battleaxe having cut them in half (curse magic weapon still there, his locket still around his neck) **THEREFORE** the party has to decipher why they were killed by looking their their notes. Stuff they learn from Rowan
 	- *Green Knights*. 3 Clues in notes:
 		- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 

@@ -6,6 +6,14 @@ tags:
 
 ---
 
+## PRIORITY
+
+- [ ] [[Terra-Oblivia History]]
+	- event involving fire magic, reason it is outlawed and feared?
+- [ ] [[Terra-Oblivia Mortals Lineages]]
+- [ ] [[Terra-Oblivia Magic]]
+
+
 ## Questions
 
 - [ ] [[Terra-Oblivia Wiki Homepage]]
@@ -21,10 +29,7 @@ tags:
 
 ## Major Factors
 
-- [ ] [[Terra-Oblivia History]]
-	- event involving fire magic, reason it is outlawed and feared?
 - [ ] [[Terra-Oblivia Characters]]
-- [ ] [[Terra-Oblivia Mortals Lineages]]
 - [ ] [[Terra-Oblivia Places Brainstorm]]
 - [ ] [[Terra-Oblivia Map (WIP).canvas]]
 
@@ -47,7 +52,6 @@ tags:
 
 ## Magic
 
-- [ ] [[Terra-Oblivia Magic]]
 - [ ] [[Abyssal Storm]]
 - [ ] [[Terra-Oblivia/Magic/Spirits|Spirits]]
 - [ ] [[Storm-Seer]]
@@ -162,6 +166,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,null,false,false,false,false,false,false,false,false,false,false,false,false]}
 ```
 %%

@@ -35,6 +35,7 @@
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
+                    false,
                     null,
                     false,
                     false,
@@ -81,31 +82,31 @@
             }
           },
           {
-            "id": "a4495f9dec86abe8",
+            "id": "d1e1abe86db70c71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Oblivia Magic"
+              "title": "CoK Brainstorm"
             }
           },
           {
-            "id": "791f2f9b7f95dc29",
+            "id": "31964ab881b698a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
+                "file": "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra-Oblivia Mortals Lineages"
+              "title": "Terra-Oblivia History"
             }
           }
         ],
@@ -238,18 +239,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "791f2f9b7f95dc29",
+  "active": "31964ab881b698a2",
   "lastOpenFiles": [
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
     "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
+    "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
+    "z Images/CoK Brainstorm-1792262927848.webp",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Session Notes/Act 1/Session 0.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "Terra-Oblivia/Items/Artifacts/The Stone King.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/audrey consent form CoK.pdf",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/grey consent form CoK.pdf",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/hunter consent form CoK.pdf",
@@ -277,7 +279,6 @@
     "ironhawk.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Characters.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
-    "Terra-Oblivia/Characters/Mortals/Sana Black-Sky.md",
     "z Images/The Horseman-1792103979451.webp",
     "z Images/Paga-1792103570555.webp",
     "z Images/Astor-1792103525074.webp",
@@ -287,7 +288,6 @@
     "z Images/Rowan August-1792022757105.webp",
     "z Images/Rowan August-1792018785782.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Session Notes/Act 1",
-    "z Images/Sana Black-Sky-1791913574987.webp",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
