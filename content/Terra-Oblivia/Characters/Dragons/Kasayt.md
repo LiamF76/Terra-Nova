@@ -1,7 +1,8 @@
 ---
-publish: false
+publish: true
 title: Kasayt
 aliases:
+  - The Lord of Shadowed-Flame
 tags:
   - Terra-Oblivia
 Created: 2026-10-08
@@ -16,7 +17,7 @@ Created: 2026-10-08
 ---
 
 ## Kasayt
-The Scarlet King
+**The Lord of Shadowed-Flame**
 *Pronouns*: he/him
 
 ---
@@ -25,10 +26,10 @@ The Scarlet King
 How they speak/communicate
 
 > [!quote]
-> "Quote"
+> "Mine is the fire of the Abyss, burn here, burn in hell, BURN FOREVER!"
 
 > [!quote]
-> "Quote"
+> "My faithful, my warlords, my children, my cattle and slaves. Hear my voice through my emissary. I have fallen, and been sealed, take from me power, and seek to raise me from this feeble state. Free me. Any wish you hold shall be granted, and my fire will raze Terra-Oblivia once more."
 
 ---
 
