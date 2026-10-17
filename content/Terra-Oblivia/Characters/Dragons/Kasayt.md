@@ -15,9 +15,9 @@ Created: 2026-10-08
 
 ---
 
-## Name
-titles, epithets
-*Pronouns*: 
+## Kasayt
+The Scarlet King
+*Pronouns*: he/him
 
 ---
 
