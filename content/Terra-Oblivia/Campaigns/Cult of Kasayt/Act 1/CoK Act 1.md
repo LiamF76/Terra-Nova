@@ -53,6 +53,7 @@ Ideas:
 		- The door rests within a building made to be like a mountain
 		- A reminder that wizards take security very seriously
 	- *Rowan's Amulet*. Magical locket, a note tied to the chain says the locket is the key, it is the only way to stop Kasayt, but it cannot stay in Citadel, because Kasayt's minions will be hunting for it.
+	- A letter to TBD
 
 ---
 
