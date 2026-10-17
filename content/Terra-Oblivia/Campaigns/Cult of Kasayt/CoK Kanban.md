@@ -4,14 +4,17 @@ kanban-plugin: board
 
 ---
 
-## Session Prepping
+## Session 1
 
-- [ ] [[CoK Player Characters]]
-- [ ] Session 1
+- [ ] Green Knight artifact
+- [ ] Caravan ambush
+- [ ] Rowan murder / investigation
+- [ ] Rowan research
 
 
 ## Misc
 
+- [ ] [[CoK Player Characters]]
 - [x] [[Cult of Kasayt Campaign Primer]]
 - [ ] [[CoK Brainstorm]]
 
