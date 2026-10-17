@@ -17,6 +17,7 @@
 	- [[TWOTTS Brainstorm]]
 - *The Reshaping*: Vesponous has a deep and cunning plan, one that somewhat aligns with the goals of the heroes. There are too many Gods, Scars along the world, and the chaos of Melantha and Ivar's actions have left the world slowly collapsing. the Dragon seeks to use her harnessed power to enact a Reshaping, in which the Gods will be fused into a smaller number of domains, using the Scars as power sources. This will rid the world of the Scars and the overpopulated Gods.
 	- The Reshaping will leave the world with only 11 Gods, forged from the Scars and fused old Gods / domains.
+- *Light of the New Star*: Aldred reborn, Arzen. He holds ancient power of the Old Gods, and leads a group trying to commune with the Old Gods and understand what happened. he discovered the Deep, and communed with Khal, learning the truth of what happened. He wants to take the heavens back, and be reunited with his lover. He wants to use Ivys' Chronovaults to reach the Temporal Plane and reset time to prevent this.
 
 ---
 
