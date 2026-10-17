@@ -11,7 +11,14 @@ Scratch for campaign ideas in Terra-Oblivia.
 
 ---
 
-# Brainstorm (Not finalized)
+## Brainstorm (Not finalized)
+
+- Aldred is an old God cultist trying to get back what he lost / understand himself, TIE IN TO HUNTER'S CHARACTER MEET HIM AND HE IS AN ALLY BUT A SKETCHY ONE
+- 
+
+---
+
+## Working Board
 
 ### Setup
 - Warlord harnessing Arkonil's power from the petrified / sealed Kairos who was holding Arkonil. The seal is breaking.
