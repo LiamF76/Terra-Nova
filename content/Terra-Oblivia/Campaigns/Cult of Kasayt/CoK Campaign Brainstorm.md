@@ -13,6 +13,13 @@ Scratch for campaign ideas in Terra-Oblivia.
 
 # Brainstorm (Not finalized)
 
+- Aldred is an old God cultist trying tog et back what he lost, TIE IN TO HUNTER'S CHARACTER MEET HIM AND HE IS AN ALLY BUT A SKETCHY ONE
+- 
+
+---
+
+## Working Board
+
 ### Setup
 - Warlord harnessing Arkonil's power from the petrified / sealed Kairos who was holding Arkonil. The seal is breaking.
 - A Red Dragon, Kasayt, has 3 Warlord followers. Kasayt is sending their followers to attack the Triarch. The Red Dragon seeks an artifact known as the Stone King, with demonic powers. The Warlords who follow Kasayt worship them as a God, and believe they can make Kasayt a new God using the Stone King's powers. 

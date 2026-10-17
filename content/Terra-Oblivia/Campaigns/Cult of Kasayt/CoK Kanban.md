@@ -31,6 +31,8 @@ kanban-plugin: board
 	- told Sana about the artifact being sent to Citadel
 - [ ] [[Kasayt]]
 - [ ] [[Bellum Grail]]
+- [ ] Aldred
+	- Aldred is an old God cultist trying tog et back what he lost, TIE IN TO HUNTER'S CHARACTER MEET HIM AND HE IS AN ALLY BUT A SKETCHY ONE
 
 
 ## Places
