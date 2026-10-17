@@ -19,7 +19,7 @@ Backstory / Knives: https://docs.google.com/document/d/1cq2B456nO8AYB-jVD3L-Iu6Q
 
 ## Aren Kaen
 
-Backstory / Knives: 
+Backstory / Knives: https://docs.google.com/document/d/16sfEzS4wff4BA4m2UhWxcN0WbdNq3NYI5m5nMXG7vSI/edit?usp=sharing
 
 **Ideas**:
 - 
