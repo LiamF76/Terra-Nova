@@ -29,13 +29,22 @@ TBD
 
 ## Room 2: Puzzle or Roleplaying Challenge
 
-#### **TBD**
+#### **Rowan's Study**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Rowan's assistant invites the party with Finch to Rowan's study, as he was waiting for Finch to return with urgent news and wasn't to be disturbed until Finch was back.
 
 *Set the Scene*: TBD
 
 TBD
+
+- *Thread A*: **The Green Knights**
+	- 
+- *Thread B*: **The Demonic Tome**
+	- 
+- *Thread C*: **Rowan's Amulet**
+	- 
+- *Thread D*: **Letter to Arzen** (The name Arzen triggers Finch)
+	- 
 
 ---
 
