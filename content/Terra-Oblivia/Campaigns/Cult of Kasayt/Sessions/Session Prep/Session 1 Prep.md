@@ -3,6 +3,7 @@ publish: false
 title:
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-17
 Session Date:
 ---
@@ -16,7 +17,7 @@ Session Date:
 
 #### **Ambush on the Road**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Party is traveling back to Citadel after getting an artifact and doing a healing mission near Bastion. Less than half a day's ride from the Capital, they are ambushed on the road.
 
 *Set the Scene*: TBD
 
