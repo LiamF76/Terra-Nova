@@ -122,9 +122,23 @@
               "icon": "lucide-file",
               "title": "Citadel"
             }
+          },
+          {
+            "id": "88fd4067ae5fec1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Groups/Governments/The Devout Assembly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Devout Assembly"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,10 +267,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0ee9230daf57d20f",
+  "active": "88fd4067ae5fec1b",
   "lastOpenFiles": [
-    "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Citadel.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/Session 1 Prep.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Items/Magic Items/The Orichalcum Hourglass.md",
