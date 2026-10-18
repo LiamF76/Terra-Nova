@@ -17,7 +17,7 @@ The Council makes choices for the entire nation, so its members hold a great dea
 
 #### Bastion Councilor: Lord Dastan, General
 #### [[Citadel]] Councilor: [[Rowan August]], Arch-Priest
-#### [[Gate]] Councilor: Kifrag Beast-Bane, High Pilgrim
+#### [[Gate]] Councilor: [[Kifrag Beast-Bane]], High Pilgrim
 
 ---
 

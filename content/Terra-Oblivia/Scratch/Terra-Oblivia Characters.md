@@ -35,3 +35,5 @@ This is a temporary list of characters in Terra-Oblivia. This list is not comple
 - [[Bellum Grail]]
 
 <!-- SerializedQuery END -->
+
+#Terra-Oblivia

@@ -23,3 +23,5 @@ tags:
 | [[Ashkarad]] (AKA: The Wastes)             | Lawless wasteland ruled by competing Warlords and Dragons. No central authority just a patchwork of disputed territories. Warlords serve or pay tribute to Dragons. Dragons and Warlords are in constant conflict with one another, never unify enough to war against other Nations.                                                                       |
 | [[Liberos]] (AKA: The Free Cities)         | Collection off 2 cities + territory along the south-western coast that are allies. Were once part of a larger nation conquered by the Empire, but rebelled and became free. (city names: Sovereign & Seer's-Star) They are port cities governed by trading companies.                                                                                      |
 
+
+#Terra-Oblivia

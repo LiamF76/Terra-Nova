@@ -44,3 +44,5 @@ They are entirely new. They do not hold memories, grudges, or anything from thei
 
 > [!note] Old Gods
 > The Old Gods entirely lost their identities during the Reshaping — see notes below. No individual Old God names survive per-domain; they are grouped only under the general lore of "Old Gods."
+
+#Terra-Oblivia

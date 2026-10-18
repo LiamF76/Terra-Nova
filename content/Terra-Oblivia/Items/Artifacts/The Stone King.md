@@ -16,3 +16,5 @@ The Stone King is a timeless artifact. A 6ft tall stone statue of an elderly hum
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+
+#Terra-Oblivia

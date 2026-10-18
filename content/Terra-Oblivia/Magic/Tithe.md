@@ -36,3 +36,5 @@ Mortal mages who are Spirit Bonded gain magic through this Tithe. If their Spiri
 - [[Terra-Oblivia Magic|Magic]]
 
 <!-- SerializedQuery END -->
+
+#Terra-Oblivia

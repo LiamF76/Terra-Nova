@@ -30,3 +30,5 @@ The prevailing wisdom is not to fight or oppose dragons, and to seek to appease 
 | **Chromatic Dragons** | Rare                                  | Powerful, violent, rulers       |
 | **Metallic Dragons**  | Super rare                            | Powerful, honorable, protectors |
 | **Wish Dragons**      | Nearly non-existent (1 per continent) | Secretive, tricksters           |
+
+#Terra-Oblivia

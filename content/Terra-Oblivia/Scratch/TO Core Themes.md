@@ -13,3 +13,5 @@ tags:
 5. Rare magic is important magic. It is a sought out and valuable resource, not an abundant power source. The world is highly magical, but not as time traveling wizards or fireball casting randoms. Great mages are rare, and significant.
 6. Ambiguous agents. Servants of Khal and Shao do not always know what they serve or which side, and that confusion is a playground for writing.
 7. There are endless adventures to be had. Monsters to be hunted, dungeons to delve, and nations to destroy, save, or rule.
+
+#Terra-Oblivia

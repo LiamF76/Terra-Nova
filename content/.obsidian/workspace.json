@@ -53,6 +53,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Terra-Oblivia/Groups/Governments/The Triarch Council.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Triarch Council"
+            }
+          },
+          {
+            "id": "0eea2774c0087c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Terra-Oblivia/Characters/Mortals/Kifrag Beast-Bane.md",
                 "mode": "source",
                 "source": false
@@ -62,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,11 +205,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5329b3468b0a6df",
+  "active": "0eea2774c0087c8f",
   "lastOpenFiles": [
-    "z Images/Kifrag Beast-Bane-1792346454601.webp",
     "Terra-Oblivia/Groups/Governments/The Triarch Council.md",
     "Terra-Oblivia/Characters/Mortals/Kifrag Beast-Bane.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Cosmology/Constellations.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/Session 0 Notes.md",
+    "z Images/Kifrag Beast-Bane-1792346454601.webp",
     "Terra-Oblivia/Groups/Governments/The Devout Assembly.md",
     "Terra-Oblivia/Characters/Mortals/Ayla Syros.md",
     "z Images/Ayla Syros-1792345717887.webp",
@@ -203,7 +221,6 @@
     "Terra-Oblivia/Characters/Gods/Krokha Inam.md",
     "Terra-Oblivia/Items/Magic Items/The Orichalcum Hourglass.md",
     "Templates/Magic Item Template.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "z Images/The Orichalcum Hourglass-1792345045037.webp",
     "z Images/The Orichalcum Hourglass-1792345039611.webp",
     "Dashboard.md",
@@ -221,18 +238,15 @@
     "Terra-Oblivia/Campaigns/Light of the New Star/LotNS Brainstorm.md",
     "Terra-Oblivia/Characters/Ur-Daraan",
     "Templates/Character Template.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/Session 0 Notes.md",
     "Terra-Oblivia/Characters/Mortals/Rowan August.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Death Knight.png",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
     "Terra-Oblivia/Geography/Continents/Escharra/Nations/The Triarch/Cities/Citadel.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
     "Terra-Oblivia/Items/Magic Items",
     "z Images/Jade of Two Rivers-1792282777069.webp",
     "z Images/Vespar Telarum-1792282273319.webp",
-    "z Images/Kasayt-1792281718587.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions",
     "Terra-Oblivia/Campaigns/Light of the New Star",
