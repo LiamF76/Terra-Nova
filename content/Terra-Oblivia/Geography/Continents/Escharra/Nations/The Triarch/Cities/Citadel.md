@@ -13,7 +13,8 @@ Created: 2026-10-12
 ## Overview
 
 A short paragraph describing the city at a glance. What is it known for? What is the first impression a traveler gets arriving here? What makes it distinct from every other city in Terra-Nova?
-Citadel is a hub for religion. There are 
+
+Citadel is a hub for religion. There are places of worship for each of the [[Terra-Oblivia Gods and Pantheon|Gods]], and all Gods are respected here. 
 
 ---
 

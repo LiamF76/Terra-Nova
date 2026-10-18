@@ -6,7 +6,9 @@ tags:
 Created: 2026-10-12
 ---
 
-write here
+# The Devout Assembly
+
+The Devout Assembly governs Citadel, the C
 
 ---
 

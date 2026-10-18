@@ -42,7 +42,9 @@ TBD
 	- 2. Notes reference the wooden fortress
 	- 3. Logbook shows he gathered supplies regularly at a small town outside Silver Spruce Forest (forest that has a silver spruce tree)
 - *Thread B*: **The Demonic Tome**
-	- 
+	- The door is physical, the key is not
+	- The door rests within a building made to be like a mountain
+	- A reminder that wizards take security very seriously
 - *Thread C*: **Rowan's Amulet**
 	- 
 - *Thread D*: **Letter to Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)

@@ -36,9 +36,8 @@ Physical forms and appearance
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
+- High Priest of [[Vespar Telarum]]
+- Member of [[The Devout Assembly]]
 - 
 
 ---
