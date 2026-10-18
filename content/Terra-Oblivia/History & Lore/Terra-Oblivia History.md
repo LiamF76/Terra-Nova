@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Terra-Oblivia History
 aliases:
 tags:
