@@ -32,7 +32,7 @@ TBD
 
 #### **Rowan's Bedroom**
 
-DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead with a massive battleaxe having cut him in half (cursed magic weapon still there, his locket still around his neck with a note attatched)
+DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead with a massive battleaxe having cut him in half (cursed magic weapon still there, his locket still around his neck with a note attached)
 
 *Set the Scene*: TBD
 
