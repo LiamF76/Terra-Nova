@@ -33,7 +33,7 @@ kanban-plugin: board
 	- genuine good person
 	- murdered before the party meets them
 - [ ] [[Sana Black-Sky]]
-- [ ] TBD NAME
+- [ ] [[Lysander]]
 	- citadel NPC of note
 	- traitor, working for Hartwyn
 	- told Sana about the artifact being sent to Citadel

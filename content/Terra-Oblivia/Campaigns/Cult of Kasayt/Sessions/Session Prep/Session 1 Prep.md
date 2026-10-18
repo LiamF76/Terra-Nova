@@ -38,12 +38,14 @@ DM NOTE: Rowan's assistant invites the party with Finch to Rowan's study, as he 
 TBD
 
 - *Thread A*: **The Green Knights**
-	- 
+	- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
+	- 2. Notes reference the wooden fortress
+	- 3. Logbook shows he gathered supplies regularly at a small town outside Silver Spruce Forest (forest that has a silver spruce tree)
 - *Thread B*: **The Demonic Tome**
 	- 
 - *Thread C*: **Rowan's Amulet**
 	- 
-- *Thread D*: **Letter to Arzen** (The name Arzen triggers Finch)
+- *Thread D*: **Letter to Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
 	- 
 
 ---
