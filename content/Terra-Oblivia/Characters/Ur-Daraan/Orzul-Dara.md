@@ -23,7 +23,7 @@ Created: 2026-10-17
 How they speak/communicate
 
 > [!quote]
-> "If I am destroyed, then I deserve extinction."
+> "Shao laments and writhes designing laws. Limiting the power of his children. Khal has given us only one law. Ruthless violence. The strong devour the weak. We are not chained to rules and feelings. That is why we will devour your Gods, New and Old."
 
 > [!quote]
 > "THERE WILL BE SILENCE! I AM ORZUL-DARA, FIRST CHAMPION OF KHAL DARAAN! KING OF THE UR-DARAAN! I WILL DRINK THE TITHE OF DEATH AND DEVASTATION, AND MY THIRST SHALL BE QUENCHED WHEN THE UNIVERSE IS EMPTY!"
