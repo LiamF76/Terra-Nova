@@ -110,17 +110,31 @@
             }
           },
           {
-            "id": "24f04f1738ddd210",
+            "id": "9246e015e8f9e8e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Characters/Mortals/Rowan August.md",
+                "file": "Terra-Oblivia/Characters/Ur-Daraan/Orzul-Dara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rowan August"
+              "title": "Orzul-Dara"
+            }
+          },
+          {
+            "id": "5640518c72040006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Characters/Mortals/Arzen Osiris.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arzen Osiris"
             }
           }
         ],
@@ -253,9 +267,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "24f04f1738ddd210",
+  "active": "9246e015e8f9e8e2",
   "lastOpenFiles": [
+    "z Images/Orzul-Dara-1792295197193.webp",
+    "z Images/Orzul-Dara-1792295083631.webp",
+    "Terra-Oblivia/Characters/Mortals/Arzen Osiris.md",
+    "Terra-Oblivia/Characters/Ur-Daraan/Orzul-Dara.md",
+    "Terra-Oblivia/Campaigns/Light of the New Star/LotNS Brainstorm.md",
+    "Terra-Oblivia/Characters/Ur-Daraan",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/Session 1 Prep.md",
+    "Templates/Character Template.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/Session 0 Notes.md",
+    "Terra-Oblivia/Characters/Mortals/Rowan August.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
@@ -273,35 +296,26 @@
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",
-    "Terra-Oblivia/Characters/Mortals/Arzen.md",
     "Dashboard.md",
     "z Images/Jade of Two Rivers-1792282777069.webp",
     "Terra-Oblivia/Characters/Dragons/Kasayt.md",
     "Terra-Oblivia/Characters/Gods/Vespar Telarum.md",
-    "Terra-Oblivia/Campaigns/Light of the New Star/LotNS Brainstorm.md",
     "z Images/Vespar Telarum-1792282273319.webp",
     "z Images/Kasayt-1792281718587.webp",
     "z Images/Kasayt-1792281715723.webp",
     "z Images/Kasayt-1792281713355.webp",
     "z Images/Kasayt-1792279383911.webp",
     "z Images/Kasayt-1792279349846.webp",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/Session 0 Notes.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/The Cult of Kasayt Story Introduction.md",
     "Terra-Oblivia/Campaigns/Light of the New Star",
-    "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
     "z Images/CoK Brainstorm-1792262927848.webp",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/audrey consent form CoK.pdf",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/grey consent form CoK.pdf",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/hunter consent form CoK.pdf",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms",
-    "z Images/Arzen-1792257248840.webp",
     "Terra-Oblivia/Items/Artifacts",
-    "Terra-Oblivia/Items",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",

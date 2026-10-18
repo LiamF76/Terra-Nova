@@ -10,9 +10,9 @@ Created: 2026-10-17
 
 *Light of the New Star*: Aldred reborn, Arzen. He holds ancient power of the Old Gods, and leads a group trying to commune with the Old Gods and understand what happened. he discovered the Deep, and communed with Khal, learning the truth of what happened. He wants to take the heavens back, and be reunited with his lover. He wants to use Ivys' Chronovaults to reach the Temporal Plane and reset time to prevent this. Arzen has allied with the Ur-Daraan, a species born in the deep created by Khal Daraan.
 
-- **BBEG**: Orzul-Dara, Voice of the Deep
+- **BBEG**: [[Orzul-Dara]]
 - Lieutenants:
-	- Arzen
+	- [[Arzen Osiris]]
 	- Sathu-Dara, Mind of the Deep
 	- Kharn-Dara, Sword of the Deep
 - Ur-Daraan: Species of insect humanoid monsters created by Khal Daraan to devour the world. 

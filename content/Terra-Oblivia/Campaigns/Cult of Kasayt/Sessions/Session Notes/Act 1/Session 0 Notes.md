@@ -3,6 +3,8 @@ publish: false
 title:
 aliases:
 tags:
+  - Terra-Oblivia
+  - Session-Notes
 Created: 2026-10-17
 ---
 

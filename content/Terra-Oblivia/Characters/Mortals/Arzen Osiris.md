@@ -1,21 +1,21 @@
 ---
 publish: false
-title: Arzen
+title: Arzen Osiris
 aliases:
 tags:
   - Terra-Oblivia
 Created: 2026-10-17
 ---
 
-# Arzen
+# Arzen Osiris
 
 ![[Arzen-1792257248840.webp|500]]
 
 ---
 
-## Arzen
-titles, epithets
-*Pronouns*: 
+## Arzen Osiris
+**The Heretic**
+*Pronouns*: he/him
 
 ---
 
@@ -23,10 +23,10 @@ titles, epithets
 How they speak/communicate
 
 > [!quote]
-> "Quote"
+> "In all the histories, even before the New Gods, beneath the Abyss was Nothing. The end of reality. That's what was written. What was written, is wrong. I found something, something alive. They call themselves self, Ur-Daraan."
 
 > [!quote]
-> "Quote"
+> "They have stolen from me. They have stolen my love, my life, MY MANTLE! It is debt, a debt owed to me and to the universe. We will be compensated fairly, with their death. It seems an endless cycle, the Gods must die."
 
 ---
 
