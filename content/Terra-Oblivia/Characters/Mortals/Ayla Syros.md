@@ -31,7 +31,7 @@ How they speak/communicate
 ---
 
 ## Description
-Elf female, 5'9, slender build. Ayla wears a vast set of Priestess robes almost like a gown of silk, it holds a mystical shine of gold and silver, and appears to twinkle in moonlight. To commune better with the Spirits of the Stars and space, she wears a mask to cover her physical eyes and force her spiritual eye open. She has deep black hair and striking facial features.
+Elf female, 5'9, slender build. Ayla wears a vast set of Priestess robes almost like a gown of silk, it holds a mystical shine of gold and silver, and appears to twinkle in moonlight. To commune better with the Spirits of the Stars and space, she wears a mask to cover her physical eyes and force her spiritual eye open. She has deep black hair and striking facial features. It is said while wearing her mask she can see into the very near future.
 
 ---
 
@@ -45,3 +45,8 @@ Elf female, 5'9, slender build. Ayla wears a vast set of Priestess robes almost 
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Krokha Inam]]
+- [[The Devout Assembly]]
+
+<!-- SerializedQuery END -->
