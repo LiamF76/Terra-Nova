@@ -11,6 +11,8 @@ Created: 2026-10-12
 
 The Devout Assembly governs Citadel, the capital city of [[The Triarch]]. The Assembly controls all form of religious, judicial, and legislative government in the Citadel and its territories.
 
+Assembly members are determined by current members, when one member dies or leaves, the two remaining elect a replacement from the leaders of the churches in Citadel. If they cannot agree, they will consult the Great Spirits available to break a tie or veto a decision.
+
 ## Assembly Members
 
 #### Arch-Priest: [[Rowan August]]
