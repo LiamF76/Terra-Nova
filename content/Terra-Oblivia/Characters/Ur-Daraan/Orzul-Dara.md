@@ -23,6 +23,9 @@ Created: 2026-10-17
 How they speak/communicate
 
 > [!quote]
+> "If I am destroyed, then I deserve extinction."
+
+> [!quote]
 > "THERE WILL BE SILENCE! I AM ORZUL-DARA, FIRST CHAMPION OF KHAL DARAAN! KING OF THE UR-DARAAN! I WILL DRINK THE TITHE OF DEATH AND DEVASTATION, AND MY THIRST SHALL BE QUENCHED WHEN THE UNIVERSE IS EMPTY!"
 
 > [!quote]
