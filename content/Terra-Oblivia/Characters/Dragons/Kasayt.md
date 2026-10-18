@@ -23,7 +23,7 @@ Created: 2026-10-08
 ---
 
 ## Voice
-How they speak/communicate
+Kasayt's voice is violent, rising from a flicker to an inferno as he grows louder and more angry. He shakes the very being of those who hear him speak, low and roaring as a Dragon King does.
 
 > [!quote]
 > "Mine is the fire of the Abyss, burn here, burn in hell, BURN FOREVER!"
@@ -34,7 +34,10 @@ How they speak/communicate
 ---
 
 ## Description
-Physical forms and appearance
+
+| Sealed Form                                                                                                                                                                                       | Dragon Form                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sealed within a glass orb, Kasayt appears as an eye of shadow and flame, swirling within his arcane prison. his very essence reflects his mood, showing his emotions through the heat of his orb. | As a Dragon, Kasayt was massive. With a wingspan of 360 feet, and a length of 427 feet, Kasayt was one of the largest dragons. His body is draconic with wings of shadow and flame, he has 6 clawed limbs, and a neck lined with flaming vents. |
 
 ---
 
