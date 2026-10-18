@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Ayla Syros
 aliases:
 tags:
@@ -20,13 +20,13 @@ Created: 2026-10-17
 ---
 
 ## Voice
-How they speak/communicate
+Ayla has a wispy voice, like stardust carried across the night sky. She speaks with a strange sadness, like an ancient soul within her has never forgotten their lost love.
 
 > [!quote]
-> "Quote"
+> "Time heals all wounds. The wounded forget, or are forgotten."
 
 > [!quote]
-> "Quote"
+> "Do not follow the hands across the clock unless you are willing to reach the most important moments. Do not follow the stars across the sky if you are not willing to reach the correct place. Do both, and you will find yourself exactly where Krokha Inam means for you to be, as I do."
 
 ---
 

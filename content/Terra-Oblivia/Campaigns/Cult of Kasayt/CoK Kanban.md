@@ -18,7 +18,7 @@ kanban-plugin: board
 	- member of Devout assembly
 	- genuine good person
 	- murdered before the party meets them
-- [ ] [[Lysander Grave]]
+- [x] [[Lysander Grave]]
 	- citadel NPC of note
 	- traitor, working for Hartwyn
 	- told Sana about the artifact being sent to Citadel
