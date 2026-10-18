@@ -22,95 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "71d83cea70fc7da7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    null,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Terra-Oblivia Kanban"
-            }
-          },
-          {
-            "id": "2496e1ecc3185678",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
-          },
-          {
-            "id": "86e611a0d89be41d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CoK Brainstorm"
-            }
-          },
-          {
-            "id": "4a48c401b2e35ab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/Session 1 Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 1 Prep"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,10 +152,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4a48c401b2e35ab2",
+  "active": "e34a2393bb44142e",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
+    "Outside Worlds/Deadlock",
+    "Outside Worlds",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/Session 1 Prep.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Characters/Mortals/Arzen Osiris.md",
     "Terra-Oblivia/Characters/Ur-Daraan/Orzul-Dara.md",
     "z Images/Orzul-Dara-1792295846247.webp",
@@ -286,7 +201,6 @@
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/grey consent form CoK.pdf",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/hunter consent form CoK.pdf",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms",
-    "Terra-Oblivia/Items/Artifacts",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
