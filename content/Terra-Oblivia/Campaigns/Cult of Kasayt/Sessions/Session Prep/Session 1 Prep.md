@@ -45,7 +45,7 @@ TBD
 	- The door is physical, the key is not
 	- The door rests within a building made to be like a mountain
 	- A reminder that wizards take security very seriously
-- *Thread C*: **Rowan's Amulet**
+- *Thread C*: **[[Rowan August|August]]'s Amulet**
 	- 
 - *Thread D*: **Letter to Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
 	- 

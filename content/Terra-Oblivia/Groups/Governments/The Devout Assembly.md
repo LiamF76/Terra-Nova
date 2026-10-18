@@ -14,7 +14,7 @@ The Devout Assembly governs Citadel, the capital city of [[The Triarch]]. The As
 ## Assembly Members
 
 #### Arch-Priest: [[Rowan August]]
-#### High Priest: Ayla Syros
+#### High Priest: [[Ayla Syros]]
 #### High Priest: [[Lysander Grave]]
 
 ---
@@ -22,3 +22,10 @@ The Devout Assembly governs Citadel, the capital city of [[The Triarch]]. The As
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[The Triarch]]
+- [[Rowan August]]
+- [[Ayla Syros]]
+- [[Lysander Grave]]
+
+<!-- SerializedQuery END -->
