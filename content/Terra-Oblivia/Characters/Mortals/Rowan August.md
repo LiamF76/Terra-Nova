@@ -36,7 +36,7 @@ Rowan is soft spoken, kind, and patient. He speaks slowly not because he is slow
 ---
 
 ## Description
-6'1 dark skinned human. Rowan wears a combination of armor plating and priests robes. He always wears his blessed symbol of Lumena, 
+6'1 dark skinned human. Rowan wears a combination of armor plating and priests robes. He always wears his blessed symbol of Lumena. He is in his mid 40s.
 
 ---
 
