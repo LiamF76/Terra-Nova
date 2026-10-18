@@ -1,19 +1,19 @@
 ---
 publish: false
-title: Lysander
+title: Lysander Grave
 aliases:
 tags:
   - Terra-Oblivia
 Created: 2026-10-17
 ---
 
-# Lysander
+# Lysander Grave
 
 ![[image.png|300]]
 
 ---
 
-## Name
+## Lysander Grave
 titles, epithets
 *Pronouns*: 
 

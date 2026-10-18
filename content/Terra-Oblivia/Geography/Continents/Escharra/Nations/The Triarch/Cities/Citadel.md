@@ -1,8 +1,9 @@
 ---
-publish: false
-title:
+publish: true
+title: Citadel
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-12
 ---
 
