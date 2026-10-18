@@ -2,6 +2,8 @@
 publish: true
 title: Ayla Syros
 aliases:
+  - Stargazer
+  - The Blind Seer
 tags:
   - Terra-Oblivia
 Created: 2026-10-17
