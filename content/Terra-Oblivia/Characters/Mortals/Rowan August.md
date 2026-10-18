@@ -16,7 +16,7 @@ Created: 2026-10-14
 ---
 
 ## Rowan August
-High Priest of Lumena, Gold-heart
+**High Priest of Lumena, Gold-Heart**
 *Pronouns*: he/him
 
 ---
@@ -50,3 +50,9 @@ Rowan is soft spoken, kind, and patient. He speaks slowly not because he is slow
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Lumena]]
+- [[The Devout Assembly]]
+- [[Citadel]]
+
+<!-- SerializedQuery END -->
