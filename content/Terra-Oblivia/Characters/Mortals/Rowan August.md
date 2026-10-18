@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Rowan August
 aliases:
 tags:
@@ -29,6 +29,9 @@ Rowan is soft spoken, kind, and patient. He speaks slowly not because he is slow
 
 > [!quote]
 > "Lumena teaches that life is scared, and light is the giver of life, so light must be quite sacred as well."
+
+> [!quote]
+> "You are not your feelings. Feelings are the weather, you are the sky. It will pass, we may even get a rainbow."
 
 ---
 
