@@ -9,13 +9,13 @@ Created: 2026-10-17
 
 # Ayla Syros
 
-![[image.png|300]]
+![[Ayla Syros-1792345717887.webp|300x472]]
 
 ---
 
 ## Ayla Syros
-titles, epithets
-*Pronouns*: 
+**Stargazer, The Blind Seer**
+*Pronouns*: she/her
 
 ---
 
@@ -31,7 +31,7 @@ How they speak/communicate
 ---
 
 ## Description
-Physical forms and appearance
+Elf female, 5'9, slender build. Ayla wears a vast set of Priestess robes almost like a gown of silk, it holds a mystical shine of gold and silver, and appears to twinkle in moonlight. To commune better with the Spirits of the Stars and space, she wears a mask to cover her physical eyes and force her spiritual eye open. She has deep black hair and striking facial features.
 
 ---
 

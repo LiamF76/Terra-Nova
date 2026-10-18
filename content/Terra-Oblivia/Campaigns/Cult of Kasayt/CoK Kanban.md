@@ -6,10 +6,23 @@ kanban-plugin: board
 
 ## Session 1
 
-- [ ] Green Knight artifact
+- [ ] [[CoK Session 1 Prep]]
+- [ ] [[CoK Session 1 Notes]]
+- [ ] [[Jade of Two Rivers]]
+- [ ] [[The Orichalcum Hourglass]]
 - [ ] Caravan ambush
 - [ ] Rowan murder / investigation
 - [ ] Rowan research
+- [ ] [[Rowan August]]
+	- citadel NPC of note
+	- member of Devout assembly
+	- genuine good person
+	- murdered before the party meets them
+- [ ] [[Lysander Grave]]
+	- citadel NPC of note
+	- traitor, working for Hartwyn
+	- told Sana about the artifact being sent to Citadel
+- [ ] [[Ayla Syros]]
 
 
 ## Misc
@@ -27,20 +40,9 @@ kanban-plugin: board
 
 ## Characters
 
-- [ ] [[Rowan August]]
-	- citadel NPC of note
-	- member of Devout assembly
-	- genuine good person
-	- murdered before the party meets them
 - [ ] [[Sana Black-Sky]]
-- [ ] [[Lysander Grave]]
-	- citadel NPC of note
-	- traitor, working for Hartwyn
-	- told Sana about the artifact being sent to Citadel
 - [ ] [[Kasayt]]
 - [ ] [[Bellum Grail]]
-- [ ] Aldred
-	- Aldred is an old God cultist trying tog et back what he lost, TIE IN TO HUNTER'S CHARACTER MEET HIM AND HE IS AN ALLY BUT A SKETCHY ONE
 
 
 ## Places
