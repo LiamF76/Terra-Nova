@@ -1,7 +1,9 @@
 ---
-publish: false
+publish: true
 title: Kifrag Beast-Bane
 aliases:
+  - High Pilgrim
+  - Low Pilgrim
 tags:
   - Terra-Oblivia
 Created: 2026-10-18
