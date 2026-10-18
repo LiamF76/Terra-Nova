@@ -49,5 +49,3 @@ Some Spirits may not be added to this list, see the Spirits folder under Terra-O
 - [[Erasaad]]
 
 <!-- SerializedQuery END -->
-
-#Terra-Oblivia

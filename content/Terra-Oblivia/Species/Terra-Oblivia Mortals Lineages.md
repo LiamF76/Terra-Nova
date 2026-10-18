@@ -34,5 +34,3 @@ This is a list of the mortal ancestires in Terra-Oblivia. This is a WIP, a rough
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
-
-#Terra-Oblivia

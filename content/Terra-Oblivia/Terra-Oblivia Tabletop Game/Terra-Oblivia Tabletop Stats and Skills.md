@@ -50,4 +50,3 @@ This is a list and description of all the skills in the Terra-Oblivia Tabletop g
 
 - **Insight**  
 	Perceiving what isn't obvious, reading people's intentions, sensing danger or deception, and noticing details others miss.
-#Terra-Oblivia

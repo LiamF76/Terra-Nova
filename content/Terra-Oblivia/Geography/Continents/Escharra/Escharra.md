@@ -5,7 +5,3 @@ aliases:
 tags:
   - Terra-Oblivia
 ---
-
-
-
-#Terra-Oblivia

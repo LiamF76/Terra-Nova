@@ -249,5 +249,3 @@ When playing the Risen Dead, ask yourself what your motive will be, and how that
 **Bonds**: 
 - Your house can call on you for a favor, a marriage, or a service, and refusing may cost you your family. 
 - A rival house, an old debt, or an old feud follows your name, and enemies of your house may treat you as its heir.
-
-#Terra-Oblivia

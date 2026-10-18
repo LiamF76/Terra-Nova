@@ -42,7 +42,3 @@ It is not known how these beasts are pulled to the Material Plane from the Abyss
 - [[Storm-Seer]]
 
 <!-- SerializedQuery END -->
-
-
-
-#Terra-Oblivia

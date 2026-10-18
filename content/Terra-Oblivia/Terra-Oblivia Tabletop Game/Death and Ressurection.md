@@ -8,5 +8,3 @@ Created: 2026-10-09
 ---
 
 These are the homebrew rules for death and resurrection in Terra-Oblivia.
-
-#Terra-Oblivia

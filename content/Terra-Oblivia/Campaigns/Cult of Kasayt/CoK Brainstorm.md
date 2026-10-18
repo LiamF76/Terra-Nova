@@ -82,5 +82,3 @@ Ideas:
 - [[Kasayt]]
 
 <!-- SerializedQuery END -->
-
-#Terra-Oblivia

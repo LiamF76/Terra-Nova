@@ -56,5 +56,3 @@ Rowan is soft spoken, kind, and patient. He speaks slowly not because he is slow
 - [[Citadel]]
 
 <!-- SerializedQuery END -->
-
-#Terra-Oblivia

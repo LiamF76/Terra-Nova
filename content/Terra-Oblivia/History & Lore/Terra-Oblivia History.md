@@ -52,5 +52,3 @@ This is an overview of Terra-Oblivia's history. Events are ordered chronological
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
-
-#Terra-Oblivia

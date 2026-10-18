@@ -36,5 +36,3 @@ When the [[Terra-Oblivia Dragons|Dragons]] rose up and devoured the Old Gods, th
 - [[Terra-Oblivia Dragons|Dragons]]
 
 <!-- SerializedQuery END -->
-
-#Terra-Oblivia

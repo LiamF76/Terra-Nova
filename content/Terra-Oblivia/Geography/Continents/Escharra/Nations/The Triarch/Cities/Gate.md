@@ -103,6 +103,3 @@ Brief notes on the city's founding and major historical events. Link to timeline
 - **Founded:** 
 - **Notable Historical Events:** 
 - **Current Era:** 
-
-
-#Terra-Oblivia
