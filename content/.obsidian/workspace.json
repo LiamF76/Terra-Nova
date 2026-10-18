@@ -108,9 +108,23 @@
               "icon": "lucide-file",
               "title": "Kasayt"
             }
+          },
+          {
+            "id": "9c7f2de39be5d954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Characters/Gods/Vespar Telarum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vespar Telarum"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -239,10 +253,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b3214262790d982f",
+  "active": "9c7f2de39be5d954",
   "lastOpenFiles": [
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
+    "z Images/Vespar Telarum-1792282273319.webp",
     "Terra-Oblivia/Characters/Dragons/Kasayt.md",
+    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "z Images/Kasayt-1792281718587.webp",
     "z Images/Kasayt-1792281715723.webp",
@@ -285,7 +300,6 @@
     "z Old/OLD GAMES/Campaigns/The Reckoner's Wrath/Events/Tourney Fights/Maple fight stuff.md",
     "z Old/OLD GAMES/Campaigns/Campfire Sessions/Ivys and the Verdant Portal.md",
     "z Old/OLD GAMES/long term prep/Final Battle Setup.md",
-    "Terra-Nova/Characters/People/Alabaster.md",
     "z Images/The Horseman-1792103979451.webp",
     "z Images/Paga-1792103570555.webp",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",

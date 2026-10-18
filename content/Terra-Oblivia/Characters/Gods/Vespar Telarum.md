@@ -7,12 +7,14 @@ tags:
 Created: 2026-10-11
 ---
 
-# God Name
-#### Titles: Verdant Trickster
+# Vespar Telarum
+#### Titles: The Verdant Trickster
 **Domain**: 
 **One-line summary**: 
 
 ---
+
+![[Vespar Telarum-1792282273319.webp|400]]
 
 ## Nature
 **Dragon form**: (what they look like, and how their birth mutated them)
