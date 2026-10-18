@@ -27,7 +27,19 @@ TBD
 
 ---
 
-## Room 2: Puzzle or Roleplaying Challenge
+## Room 2: Trick or Setback
+
+#### **Rowan's Bedroom**
+
+DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead with a massive battleaxe having cut him in half (cursed magic weapon still there, his locket still around his neck with a note attatched)
+
+*Set the Scene*: TBD
+
+TBD
+
+---
+
+## Room 3: Puzzle or Roleplaying Challenge
 
 #### **Rowan's Study**
 
@@ -51,18 +63,6 @@ TBD
 - *Thread D*: **Letter to Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
 	- A letter to someone named Arzen who appears to be a scholar on the occult. Never heard of this person before, it's an eastern name, possibly an elf from Walima. They appear to have been corresponding for quite some time.
 	- Rowan was asking for more information about a 'Stone King'. They had been studying accounts if its whereabouts, scattered through history, rumor, and stories. Arzen's last communication indicates if the Stone King is anywhere on Escharra, it is likely in the Triarch.
-
----
-
-## Room 3: Trick or Setback
-
-#### **Rowan's Bedroom**
-
-DM NOTE: Rowan is found dead in his bedroom.
-
-*Set the Scene*: TBD
-
-TBD
 
 ---
 
