@@ -9,7 +9,7 @@ Created: 2026-10-17
 
 # Orzul-Dara
 
-![[Orzul-Dara-1792295197193.webp|500]]
+![[Orzul-Dara-1792295846247.webp|500]]
 
 ---
 

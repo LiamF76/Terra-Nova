@@ -14,7 +14,7 @@ Created: 2026-10-17
 ---
 
 ## Arzen Osiris
-**The Heretic**
+**The Heretic, Emissary of the Destroyer**
 *Pronouns*: he/him
 
 ---
@@ -36,9 +36,9 @@ Physical forms and appearance
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
+- Emissary of Khal Daraan
+- Ally of the Ur-Daraan
+- Advisor of [[Orzul-Dara]]
 - 
 
 ---
