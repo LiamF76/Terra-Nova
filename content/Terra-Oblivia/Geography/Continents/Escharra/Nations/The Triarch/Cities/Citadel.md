@@ -13,9 +13,7 @@ Created: 2026-10-12
 
 ## Overview
 
-A short paragraph describing the city at a glance. What is it known for? What is the first impression a traveler gets arriving here? What makes it distinct from every other city in Terra-Nova?
-
-Citadel is a hub for religion. There are places of worship for each of the [[Terra-Oblivia Gods and Pantheon|Gods]], and all Gods are respected here. 
+Citadel is a hub for religion. There are places of worship for each of the [[Terra-Oblivia Gods and Pantheon|Gods]], and all Gods are respected here. Citadel is known for its churches, holy sites, and often being visited by [[Terra-Oblivia Great Spirits|Great Spirits]] to gather worship. Travelers who come to Citadel would be in awe of the temples architecture and general high quality of living people enjoy, alongside their devotion to the Gods. Citadel is distinct because it is explicitly weak in military strength, essentially defenseless outside its Spirits and what magic its priests carry.
 
 ---
 
