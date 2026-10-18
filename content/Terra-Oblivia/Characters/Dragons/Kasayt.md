@@ -42,9 +42,9 @@ Kasayt's voice is violent, rising from a flicker to an inferno as he grows loude
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
+- Dragon King of [[Ashkarad]]
+- Master and God of The Cult of Kasayt
+- Battled with the ancient Spirit [[Astor]]
 - 
 
 ---
@@ -52,3 +52,8 @@ Kasayt's voice is violent, rising from a flicker to an inferno as he grows loude
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Ashkarad]]
+- [[Astor]]
+
+<!-- SerializedQuery END -->
