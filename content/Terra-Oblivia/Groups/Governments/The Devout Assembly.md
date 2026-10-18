@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: The Devout Assembly
 aliases:
 tags:
