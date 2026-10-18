@@ -32,7 +32,7 @@ Session Date:
 
 DM NOTE: Party is traveling back to Citadel after getting an artifact and doing a healing mission near Bastion. Less than half a day's ride from the Capital, they are ambushed on the road.
 
-*Set the Scene*: TBD
+*Set the Scene*: Cold wind blows through the valley in mid fall as you return to Citadel.
 
 TBD
 
