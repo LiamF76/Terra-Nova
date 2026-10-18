@@ -14,7 +14,7 @@ Created: 2026-10-17
 ---
 
 ## Lysander Grave
-titles, epithets
+**Book-Keeper**
 *Pronouns*: 
 
 ---
@@ -45,3 +45,8 @@ Physical forms and appearance
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Vespar Telarum]]
+- [[The Devout Assembly]]
+
+<!-- SerializedQuery END -->

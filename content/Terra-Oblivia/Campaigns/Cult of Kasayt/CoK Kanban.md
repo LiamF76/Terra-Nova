@@ -13,7 +13,7 @@ kanban-plugin: board
 - [ ] Caravan ambush
 - [ ] Rowan murder / investigation
 - [ ] Rowan research
-- [ ] [[Rowan August]]
+- [x] [[Rowan August]]
 	- citadel NPC of note
 	- member of Devout assembly
 	- genuine good person
@@ -56,4 +56,3 @@ kanban-plugin: board
 {"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
-#Terra-Oblivia
