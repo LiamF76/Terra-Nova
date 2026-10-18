@@ -15,6 +15,8 @@ Created: 2026-10-17
 	- Arzen
 	- Sathu-Dara, Mind of the Deep
 	- Kharn-Dara, Sword of the Deep
+- Ur-Daraan: Species of insect humanoid monsters created by Khal Daraan to devour the world. 
+	- Ur-Daraan Pinterest board. https://pin.it/46s2vcLTT
 - 
 
 ---

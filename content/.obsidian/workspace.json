@@ -108,23 +108,9 @@
               "icon": "lucide-file",
               "title": "Kasayt"
             }
-          },
-          {
-            "id": "9c7f2de39be5d954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Characters/Gods/Vespar Telarum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vespar Telarum"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,8 +239,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9c7f2de39be5d954",
+  "active": "b3214262790d982f",
   "lastOpenFiles": [
+    "Terra-Oblivia/Characters/Gods/Vespar Telarum.md",
+    "Terra-Oblivia/Campaigns/Light of the New Star/LotNS Brainstorm.md",
     "z Images/Vespar Telarum-1792282273319.webp",
     "Terra-Oblivia/Characters/Dragons/Kasayt.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
@@ -271,7 +259,6 @@
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/The Cult of Kasayt Story Introduction.md",
-    "Terra-Oblivia/Campaigns/Light of the New Star/LotNS Brainstorm.md",
     "Terra-Oblivia/Campaigns/Light of the New Star",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
@@ -301,7 +288,6 @@
     "z Old/OLD GAMES/Campaigns/Campfire Sessions/Ivys and the Verdant Portal.md",
     "z Old/OLD GAMES/long term prep/Final Battle Setup.md",
     "z Images/The Horseman-1792103979451.webp",
-    "z Images/Paga-1792103570555.webp",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
