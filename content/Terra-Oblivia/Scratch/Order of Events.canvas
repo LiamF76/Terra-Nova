@@ -15,7 +15,8 @@
 		{"id":"284c2a6b65bc9c1c","x":-335,"y":205,"width":250,"height":160,"type":"text","text":"Sathu-Dara communes to Arzen secrets on how to see his true soul"},
 		{"id":"f1ef9194173108be","x":-15,"y":169,"width":250,"height":232,"type":"text","text":"Arzen finds ancient prison of Kronos beneath Walima, uses the power there to do the Sacrament of Oblivion"},
 		{"id":"579accfe14ca0394","x":1545,"y":-275,"width":250,"height":364,"type":"text","text":"Graveglass and Arzen are connected by Sathu-Dara, making Arzen believe they were both contacted by Khal Daraan. Arzen travels to a Chronovault in Walima and meets with Graveglass"},
-		{"id":"6ce3f167657f0da2","x":1865,"y":-225,"width":333,"height":265,"type":"text","text":"Graveglass and Arzen study Kairos's life together, and make a pact. Arzen gets time magic and Graveglass vows to work together to set the world back to the way it was supposed to be, and undo the Reshaping."}
+		{"id":"6ce3f167657f0da2","x":1865,"y":-225,"width":333,"height":265,"type":"text","text":"Graveglass and Arzen study Kairos's life together, and make a pact. Arzen gets time magic and Graveglass vows to work together to set the world back to the way it was supposed to be, and undo the Reshaping."},
+		{"id":"3e078e10f3ed678d","x":1260,"y":-439,"width":250,"height":119,"type":"text","text":"Cult of Kasayt Campaign begins here!"}
 	],
 	"edges":[
 		{"id":"0a41d50cc082e80e","fromNode":"c38f5bb94bac830d","fromSide":"right","toNode":"2cb939f002e0d161","toSide":"left"},
@@ -35,6 +36,7 @@
 		{"id":"1042998e53dd0cb4","fromNode":"4c6ad9ceff6888fe","fromSide":"right","toNode":"21c860d21ac0c0cf","toSide":"left"},
 		{"id":"61dc2a58332f21d3","fromNode":"3db1e65bee7a9fa7","fromSide":"right","toNode":"579accfe14ca0394","toSide":"left"},
 		{"id":"21b873115c92a545","fromNode":"21c860d21ac0c0cf","fromSide":"right","toNode":"579accfe14ca0394","toSide":"left"},
-		{"id":"30ac432bca51f0b3","fromNode":"579accfe14ca0394","fromSide":"right","toNode":"6ce3f167657f0da2","toSide":"left"}
+		{"id":"30ac432bca51f0b3","fromNode":"579accfe14ca0394","fromSide":"right","toNode":"6ce3f167657f0da2","toSide":"left"},
+		{"id":"0c30b5c6ac629d91","fromNode":"4c6ad9ceff6888fe","fromSide":"right","toNode":"3e078e10f3ed678d","toSide":"left"}
 	]
 }
