@@ -20,7 +20,8 @@
 		{"id":"34c02a7bf2f17ec0","x":-1106,"y":480,"width":401,"height":232,"type":"text","text":"The Ur-Daraan are born, for thousands of years they war with all creations that have stopped existing. The devour and grow strong. They are trapped in the Deep with Khal Daraan, unable to escape"},
 		{"id":"7f0db8787407666f","x":141,"y":480,"width":309,"height":232,"type":"text","text":"Arzen's communion + Sacrament of Oblivion opens a rift in the Infinite Road, which the Ur-Daraan invade, ending up on the Moon Nysria"},
 		{"id":"835af6b23613d2f2","x":769,"y":517,"width":232,"height":159,"type":"text","text":"The Ur-Daraan make war on the Star-Elves, clashing for control of the Moon"},
-		{"id":"4febdc7fdf1254f4","x":1060,"y":537,"width":250,"height":119,"type":"text","text":"Orzul slays Nysria, ending the Star-Elves and kil"}
+		{"id":"9680041741273c90","x":1085,"y":567,"width":250,"height":60,"type":"text","text":"Sathu-Dara"},
+		{"id":"4febdc7fdf1254f4","x":1420,"y":538,"width":250,"height":119,"type":"text","text":"Orzul slays Nysria, ending the Star-Elves and kil"}
 	],
 	"edges":[
 		{"id":"0a41d50cc082e80e","fromNode":"c38f5bb94bac830d","fromSide":"right","toNode":"2cb939f002e0d161","toSide":"left"},
@@ -45,6 +46,7 @@
 		{"id":"bf3e8bb9d8b8a2a6","fromNode":"34c02a7bf2f17ec0","fromSide":"right","toNode":"7f0db8787407666f","toSide":"left"},
 		{"id":"60a35c7380a69ebc","fromNode":"f1ef9194173108be","fromSide":"bottom","toNode":"7f0db8787407666f","toSide":"left"},
 		{"id":"35ca2e44569d757b","fromNode":"7f0db8787407666f","fromSide":"right","toNode":"835af6b23613d2f2","toSide":"left"},
-		{"id":"0edc3fa205c9f57c","fromNode":"835af6b23613d2f2","fromSide":"right","toNode":"4febdc7fdf1254f4","toSide":"left"}
+		{"id":"e25b2ce7642dd935","fromNode":"835af6b23613d2f2","fromSide":"right","toNode":"9680041741273c90","toSide":"left"},
+		{"id":"144f9b924a547abb","fromNode":"9680041741273c90","fromSide":"right","toNode":"4febdc7fdf1254f4","toSide":"left"}
 	]
 }
