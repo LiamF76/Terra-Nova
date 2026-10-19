@@ -22,8 +22,33 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "99546f25b2b954ae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "CoK Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,17 +177,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "99546f25b2b954ae",
   "lastOpenFiles": [
-    "Terra-Oblivia/Characters/Mortals/Lysander Grave.md",
-    "Dashboard.md",
+    "Terra-Oblivia/Characters/Mortals/Ayla Syros.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Dashboard.md",
+    "Terra-Oblivia/Characters/Mortals/Lysander Grave.md",
     "Lysander Grave.md",
     "Terra-Oblivia/Items/Magic Items/The Orichalcum Hourglass.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Characters/Mortals/Sana Black-Sky.md",
-    "Terra-Oblivia/Characters/Mortals/Ayla Syros.md",
     "z Images/Lysander Grave-1792350992570.webp",
     "Terra-Oblivia/Characters/Ur-Daraan/Orzul-Dara.md",
     "Terra-Oblivia/Characters/Mortals/Kifrag Beast-Bane.md",
