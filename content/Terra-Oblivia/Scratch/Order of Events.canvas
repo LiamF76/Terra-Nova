@@ -18,7 +18,9 @@
 		{"id":"3e078e10f3ed678d","x":1260,"y":-439,"width":250,"height":119,"type":"text","text":"Cult of Kasayt Campaign begins here!"},
 		{"id":"b5ce14071fe893ae","x":615,"y":-436,"width":250,"height":232,"type":"text","text":"The Acolyte (Hartwyn) / Cult of Kasayt hunt the Stone King to make Kasayt a new God using its demonic power"},
 		{"id":"34c02a7bf2f17ec0","x":-1106,"y":480,"width":401,"height":232,"type":"text","text":"The Ur-Daraan are born, for thousands of years they war with all creations that have stopped existing. The devour and grow strong. They are trapped in the Deep with Khal Daraan, unable to escape"},
-		{"id":"7f0db8787407666f","x":141,"y":480,"width":309,"height":232,"type":"text","text":"Arzen's communion + Sacrament of Oblivion opens a rift in the Infinite Road, which the Ur-Daraan invade, ending up on the Moon Nysria"}
+		{"id":"7f0db8787407666f","x":141,"y":480,"width":309,"height":232,"type":"text","text":"Arzen's communion + Sacrament of Oblivion opens a rift in the Infinite Road, which the Ur-Daraan invade, ending up on the Moon Nysria"},
+		{"id":"835af6b23613d2f2","x":769,"y":517,"width":232,"height":159,"type":"text","text":"The Ur-Daraan make war on the Star-Elves, clashing for control of the Moon"},
+		{"id":"4febdc7fdf1254f4","x":1060,"y":537,"width":250,"height":119,"type":"text","text":"Orzul slays Nysria, ending the Star-Elves and kil"}
 	],
 	"edges":[
 		{"id":"0a41d50cc082e80e","fromNode":"c38f5bb94bac830d","fromSide":"right","toNode":"2cb939f002e0d161","toSide":"left"},
@@ -41,6 +43,8 @@
 		{"id":"30ac432bca51f0b3","fromNode":"579accfe14ca0394","fromSide":"right","toNode":"6ce3f167657f0da2","toSide":"left"},
 		{"id":"0c30b5c6ac629d91","fromNode":"4c6ad9ceff6888fe","fromSide":"right","toNode":"3e078e10f3ed678d","toSide":"left"},
 		{"id":"bf3e8bb9d8b8a2a6","fromNode":"34c02a7bf2f17ec0","fromSide":"right","toNode":"7f0db8787407666f","toSide":"left"},
-		{"id":"60a35c7380a69ebc","fromNode":"f1ef9194173108be","fromSide":"bottom","toNode":"7f0db8787407666f","toSide":"left"}
+		{"id":"60a35c7380a69ebc","fromNode":"f1ef9194173108be","fromSide":"bottom","toNode":"7f0db8787407666f","toSide":"left"},
+		{"id":"35ca2e44569d757b","fromNode":"7f0db8787407666f","fromSide":"right","toNode":"835af6b23613d2f2","toSide":"left"},
+		{"id":"0edc3fa205c9f57c","fromNode":"835af6b23613d2f2","fromSide":"right","toNode":"4febdc7fdf1254f4","toSide":"left"}
 	]
 }
