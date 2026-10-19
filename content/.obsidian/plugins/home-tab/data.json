@@ -1,20 +1,20 @@
 {
-  "logoType": "default",
+  "logoType": "imagePath",
   "logo": {
     "lucideIcon": "",
-    "imagePath": "",
+    "imagePath": "z Images/fantasy.png",
     "imageLink": ""
   },
   "logoScale": 1.2,
   "iconColorType": "default",
-  "wordmark": "Obsidian",
+  "wordmark": "Daraan's Canvas",
   "customFont": "interfaceFont",
   "fontSize": "4em",
   "fontColorType": "default",
   "fontWeight": 600,
   "maxResults": 5,
   "showbookmarkedFiles": true,
-  "showRecentFiles": false,
+  "showRecentFiles": true,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
   "showPath": true,
@@ -24,12 +24,25 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+<<<<<<< HEAD
       "filepath": "Dashboard.md",
       "timestamp": 1792439889334
     },
     {
       "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
       "timestamp": 1792439889251
+=======
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
+      "timestamp": 1792390586946
+    },
+    {
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+      "timestamp": 1792390584569
+    },
+    {
+      "filepath": "Dashboard.md",
+      "timestamp": 1792386968951
+>>>>>>> origin/Main
     }
   ],
   "bookmarkedFileStore": [],
@@ -37,6 +50,6 @@
   "replaceNewTabs": true,
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
-  "omnisearch": false,
+  "omnisearch": true,
   "showOmnisearchExcerpt": true
 }
