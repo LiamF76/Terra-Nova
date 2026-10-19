@@ -25,7 +25,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 # Terra-Oblivia
 
 > [!note] Terra-Oblivia Worldbuilding
-> ## [[CoK Kanban]] | [[Terra-Oblivia Kanban]] | [[TO Idea Dump]]
+> ## [[CoK Kanban]] | [[Terra-Oblivia Kanban]] | [[TO Idea Dump]] | [[Order of Events.canvas]]
 
 > [!note] Encounter Ideas
 > ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]

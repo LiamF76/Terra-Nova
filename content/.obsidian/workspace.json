@@ -48,6 +48,22 @@
             }
           },
           {
+            "id": "75a909adcfe0f6c8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "CoK Brainstorm"
+            }
+          },
+          {
             "id": "2d4e44c6e50984ba",
             "type": "leaf",
             "state": {
@@ -60,9 +76,25 @@
               "icon": "lucide-file",
               "title": "The Acolyte"
             }
+          },
+          {
+            "id": "1ae33c9e1915ad69",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Oblivia/Scratch/Order of Events.canvas",
+                "viewState": {
+                  "x": -10.620624999999905,
+                  "y": 159.30859375,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Order of Events"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,16 +223,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2d4e44c6e50984ba",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Oblivia/Characters/Mortals/Hartwyn Syros.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Scratch/Order of Events.canvas",
+    "Terra-Oblivia/Campaigns/Light of the New Star/LotNS Brainstorm.md",
+    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
+    "Terra-Oblivia/Magic/The Sacrament of Oblivion.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
+    "Terra-Nova/Characters/Spirits/Graveglass.md",
+    "Terra-Nova/Characters/Spirits/Oxidian.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "z Images/The Acolyte-1792442936415.webp",
+    "Terra-Oblivia/Characters/Mortals/Hartwyn Syros.md",
     "Terra-Oblivia/Characters/Dragons/Kasayt.md",
     "Terra-Oblivia/Characters/Mortals/Arzen Osiris.md",
-    "Terra-Oblivia/Campaigns/Light of the New Star/LotNS Brainstorm.md",
     "Terra-Oblivia/Campaigns/Untitled",
-    "Terra-Nova/Characters/Spirits/Graveglass.md",
     "Dashboard.md",
     "Terra-Oblivia/Characters/Mortals/Ayla Syros.md",
     "Terra-Oblivia/Characters/Mortals/Lysander Grave.md",
@@ -216,11 +254,6 @@
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Stats and Skills.md",
     "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Overview.md",
-    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Classes.md",
-    "Terra-Oblivia/Terra-Oblivia Tabletop Game/OLD Terra-Oblivia PbtA.md",
-    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Death and Ressurection.md",
-    "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
-    "Terra-Oblivia/Species/Terra-Oblivia Dragons.md",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
@@ -238,7 +271,6 @@
     "Terra-Oblivia/Characters/Ur-Daraan",
     "Terra-Nova/Resources/Statblocks/Old Statblocks/Death Knight.png",
     "Terra-Oblivia/Items/Magic Items",
-    "z Images/Jade of Two Rivers-1792282777069.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions",
     "Terra-Oblivia/Campaigns/Light of the New Star",
@@ -247,7 +279,6 @@
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Space Western Storyboard.canvas",
     "Arkfall/Cosmology/Arkfall Map.canvas",
     "Arkfall/Timeline/Arkfall Timeline V2.canvas",
-    "Arkfall/Cosmology/Old Arkfall Map.canvas",
-    "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas"
+    "Arkfall/Cosmology/Old Arkfall Map.canvas"
   ]
 }

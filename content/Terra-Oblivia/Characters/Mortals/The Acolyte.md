@@ -7,13 +7,13 @@ tags:
 Created: 2026-10-19
 ---
 
-# Name
+# The Acolyte
 
-![[image.png|300]]
+![[The Acolyte-1792442936415.webp|300x422]]
 
 ---
 
-## Name
+## The Acolyte
 **titles, epithets**
 *Pronouns*: 
 
@@ -36,9 +36,7 @@ Physical forms and appearance
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
+- Servant of [[Kasayt]], and Leader of The Cult of Kasayt
 - 
 
 ---

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"2cb939f002e0d161","x":-213,"y":-100,"width":250,"height":119,"type":"text","text":"Arzen gives fragment Bloodstone to Kasayt's Cult"},
+		{"id":"c38f5bb94bac830d","x":-520,"y":-70,"width":250,"height":60,"type":"text","text":"Kasayt sealed"},
+		{"id":"4cf17e5adf4f4cb3","x":100,"y":-100,"width":250,"height":119,"type":"text","text":"Use of Bloodstone begins to awaken the Stone King"},
+		{"id":"52a16d04b6930308","x":420,"y":-120,"width":250,"height":160,"type":"text","text":"Stone King awakening triggers Ivys' defense, and activated Graveglass"},
+		{"id":"4f89eaaea05622b1","x":-520,"y":160,"width":250,"height":199,"type":"text","text":"Khal Daraan whispers in Arzen's ear about the location of the Bloodstone, Arzen follows the visions"},
+		{"id":"284c2a6b65bc9c1c","x":-150,"y":180,"width":250,"height":160,"type":"text","text":"Khal Daraan communes to Arzen secrets on how to see his true soul"},
+		{"id":"f1ef9194173108be","x":170,"y":144,"width":250,"height":232,"type":"text","text":"Arzen finds ancient prison of Kronos beneath Walima, uses the power there to do the Sacrament of Oblivion"}
+	],
+	"edges":[
+		{"id":"0a41d50cc082e80e","fromNode":"c38f5bb94bac830d","fromSide":"right","toNode":"2cb939f002e0d161","toSide":"left"},
+		{"id":"f4fb70449de9df5f","fromNode":"2cb939f002e0d161","fromSide":"right","toNode":"4cf17e5adf4f4cb3","toSide":"left"},
+		{"id":"4734dc0bc5f7c6b4","fromNode":"4cf17e5adf4f4cb3","fromSide":"right","toNode":"52a16d04b6930308","toSide":"left"},
+		{"id":"aedea967d909ed81","fromNode":"4f89eaaea05622b1","fromSide":"right","toNode":"2cb939f002e0d161","toSide":"bottom"},
+		{"id":"76b0b763a7f0b794","fromNode":"4f89eaaea05622b1","fromSide":"right","toNode":"284c2a6b65bc9c1c","toSide":"left"},
+		{"id":"3b32d09271bac5fa","fromNode":"284c2a6b65bc9c1c","fromSide":"right","toNode":"f1ef9194173108be","toSide":"left"}
+	]
+}
