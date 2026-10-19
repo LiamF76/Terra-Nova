@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"2cb939f002e0d161","x":-213,"y":-100,"width":250,"height":119,"type":"text","text":"Arzen gives fragment Bloodstone to Kasayt's Cult"},
-		{"id":"c38f5bb94bac830d","x":-520,"y":-70,"width":250,"height":60,"type":"text","text":"Kasayt sealed"},
 		{"id":"4cf17e5adf4f4cb3","x":100,"y":-100,"width":250,"height":119,"type":"text","text":"Use of Bloodstone begins to awaken the Stone King"},
 		{"id":"52a16d04b6930308","x":420,"y":-120,"width":250,"height":160,"type":"text","text":"Stone King awakening triggers Ivys' defense, and activated Graveglass"},
 		{"id":"3db1e65bee7a9fa7","x":760,"y":-172,"width":250,"height":265,"type":"text","text":"Graveglass within Ivys' fortress, studies the Stone King and Kairos, starts to agree with Kairos after seeing the state of the world post Reshaping"},
@@ -17,11 +16,12 @@
 		{"id":"6ce3f167657f0da2","x":1865,"y":-225,"width":333,"height":265,"type":"text","text":"Graveglass and Arzen study Kairos's life together, and make a pact. Arzen gets time magic and Graveglass vows to work together to set the world back to the way it was supposed to be, and undo the Reshaping."},
 		{"id":"3e078e10f3ed678d","x":1260,"y":-439,"width":250,"height":119,"type":"text","text":"Cult of Kasayt Campaign begins here!"},
 		{"id":"b5ce14071fe893ae","x":615,"y":-436,"width":250,"height":232,"type":"text","text":"The Acolyte (Hartwyn) / Cult of Kasayt hunt the Stone King to make Kasayt a new God using its demonic power"},
-		{"id":"34c02a7bf2f17ec0","x":-1106,"y":480,"width":401,"height":232,"type":"text","text":"The Ur-Daraan are born, for thousands of years they war with all creations that have stopped existing. The devour and grow strong. They are trapped in the Deep with Khal Daraan, unable to escape"},
 		{"id":"7f0db8787407666f","x":141,"y":480,"width":309,"height":232,"type":"text","text":"Arzen's communion + Sacrament of Oblivion opens a rift in the Infinite Road, which the Ur-Daraan invade, ending up on the Moon Nysria"},
-		{"id":"835af6b23613d2f2","x":769,"y":517,"width":232,"height":159,"type":"text","text":"The Ur-Daraan make war on the Star-Elves, clashing for control of the Moon"},
-		{"id":"9680041741273c90","x":1085,"y":567,"width":250,"height":60,"type":"text","text":"Sathu-Dara"},
-		{"id":"4febdc7fdf1254f4","x":1420,"y":538,"width":250,"height":119,"type":"text","text":"Orzul slays Nysria, ending the Star-Elves and kil"}
+		{"id":"835af6b23613d2f2","x":670,"y":517,"width":232,"height":159,"type":"text","text":"The Ur-Daraan make war on the Star-Elves, clashing for control of the Moon"},
+		{"id":"9680041741273c90","x":865,"y":712,"width":359,"height":232,"type":"text","text":"Sathu-Dara builds Ur-Mesharan, The Spire of Whispers, a tower that was built by Ivys for Nysria, claimed by the Ur-Daraan. Her fortress where she projects her tricks and lies to the mortals of Terra-Oblivia"},
+		{"id":"4febdc7fdf1254f4","x":1210,"y":537,"width":250,"height":119,"type":"text","text":"Orzul slays Nysria, ending the Star-Elves and kil"},
+		{"id":"34c02a7bf2f17ec0","x":-1320,"y":481,"width":401,"height":232,"type":"text","text":"The Ur-Daraan are born, for thousands of years they war with all creations that have stopped existing. The devour and grow strong. They are trapped in the Deep with Khal Daraan, unable to escape"},
+		{"id":"c38f5bb94bac830d","x":-520,"y":-100,"width":220,"height":119,"type":"text","text":"Kasayt sealed (This was the first point in this note lol)"}
 	],
 	"edges":[
 		{"id":"0a41d50cc082e80e","fromNode":"c38f5bb94bac830d","fromSide":"right","toNode":"2cb939f002e0d161","toSide":"left"},
@@ -46,7 +46,8 @@
 		{"id":"bf3e8bb9d8b8a2a6","fromNode":"34c02a7bf2f17ec0","fromSide":"right","toNode":"7f0db8787407666f","toSide":"left"},
 		{"id":"60a35c7380a69ebc","fromNode":"f1ef9194173108be","fromSide":"bottom","toNode":"7f0db8787407666f","toSide":"left"},
 		{"id":"35ca2e44569d757b","fromNode":"7f0db8787407666f","fromSide":"right","toNode":"835af6b23613d2f2","toSide":"left"},
-		{"id":"e25b2ce7642dd935","fromNode":"835af6b23613d2f2","fromSide":"right","toNode":"9680041741273c90","toSide":"left"},
-		{"id":"144f9b924a547abb","fromNode":"9680041741273c90","fromSide":"right","toNode":"4febdc7fdf1254f4","toSide":"left"}
+		{"id":"aae8d5e2e6437f73","fromNode":"835af6b23613d2f2","fromSide":"right","toNode":"4febdc7fdf1254f4","toSide":"left"},
+		{"id":"8217ed34e908c55d","fromNode":"835af6b23613d2f2","fromSide":"bottom","toNode":"9680041741273c90","toSide":"left"},
+		{"id":"49f7b3624cff896e","fromNode":"284c2a6b65bc9c1c","fromSide":"bottom","toNode":"7f0db8787407666f","toSide":"left"}
 	]
 }
