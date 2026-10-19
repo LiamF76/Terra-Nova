@@ -41,6 +41,7 @@ kanban-plugin: board
 ## Bad Guys
 
 - [ ] [[Kasayt]]
+- [ ] [[The Acolyte]]
 - [ ] [[Hartwyn Syros]]
 - [x] [[Sana Black-Sky]]
 - [ ] [[Bellum Grail]]

@@ -48,17 +48,17 @@
             }
           },
           {
-            "id": "5bea9407729e3889",
+            "id": "2d4e44c6e50984ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Characters/Mortals/Hartwyn Syros.md",
+                "file": "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hartwyn Syros"
+              "title": "The Acolyte"
             }
           }
         ],
@@ -191,9 +191,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5bea9407729e3889",
+  "active": "2d4e44c6e50984ba",
   "lastOpenFiles": [
+    "Terra-Oblivia/Characters/Mortals/Hartwyn Syros.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
     "Terra-Oblivia/Characters/Dragons/Kasayt.md",
     "Terra-Oblivia/Characters/Mortals/Arzen Osiris.md",
     "Terra-Oblivia/Campaigns/Light of the New Star/LotNS Brainstorm.md",
@@ -220,8 +222,6 @@
     "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
     "Terra-Oblivia/Species/Terra-Oblivia Dragons.md",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
-    "Terra-Oblivia/Scratch/TO Idea Dump.md",
-    "Terra-Oblivia/Scratch/TO Core Themes.md",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",

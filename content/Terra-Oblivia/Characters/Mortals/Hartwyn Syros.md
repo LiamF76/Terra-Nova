@@ -2,7 +2,7 @@
 publish: false
 title: Hartwyn Syros
 aliases:
-  - Herald of Kasayt
+  - The Acolyte
 tags:
   - Terra-Oblivia
 Created: 2026-10-13
@@ -15,7 +15,7 @@ Created: 2026-10-13
 ---
 
 ## Hartwyn
-**Herald of Kasayt**
+**The Acolyte**
 *Pronouns*: he/him
 
 ---
@@ -37,9 +37,9 @@ Physical forms and appearance
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
+- Brother of [[Ayla Syros]]
+- Kidnapped during a Warlord raid on the Triarch in his youth, he was presumed dead
+- True identity of [[The Acolyte]]
 - 
 
 ---
@@ -47,3 +47,8 @@ Physical forms and appearance
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Ayla Syros]]
+- [[The Acolyte]]
+
+<!-- SerializedQuery END -->
