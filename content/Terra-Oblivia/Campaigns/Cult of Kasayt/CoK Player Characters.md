@@ -13,6 +13,7 @@ Backstory / Knives: https://docs.google.com/document/d/1cq2B456nO8AYB-jVD3L-Iu6Q
 **Ideas**:
 - Dreams
 	- Figure calls out to you in a sandstorm. You cannot make out their voice, they are a silhouette of shadow, you cover your eyes as the storm rages around you. You move forwards and your feet sink into the sand as you step, dragging you down. The air burns, the sun is blotted out.
+- Finch is 'Min Jadid' meaning the Reborn in celestial. Arzen Osiris is searching for this 'Min Jadid' as he believes it to be connected to his soul which is also 'Min Jadid'.
 - 
 
 ---
