@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Rowan August
 aliases:
 tags:
@@ -16,7 +16,7 @@ Created: 2026-10-14
 ---
 
 ## Rowan August
-High Priest of Lumena, Gold-heart
+**High Priest of Lumena, Gold-Heart**
 *Pronouns*: he/him
 
 ---
@@ -30,10 +30,13 @@ Rowan is soft spoken, kind, and patient. He speaks slowly not because he is slow
 > [!quote]
 > "Lumena teaches that life is scared, and light is the giver of life, so light must be quite sacred as well."
 
+> [!quote]
+> "You are not your feelings. Feelings are the weather, you are the sky. It will pass, we may even get a rainbow."
+
 ---
 
 ## Description
-6'1 dark skinned human. Rowan wears a combination of armor plating and priests robes. He always wears his blessed symbol of Lumena, 
+6'1 dark skinned human. Rowan wears a combination of armor plating and priests robes. He always wears his blessed symbol of Lumena. He is in his mid 40s.
 
 ---
 
@@ -47,3 +50,9 @@ Rowan is soft spoken, kind, and patient. He speaks slowly not because he is slow
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Lumena]]
+- [[The Devout Assembly]]
+- [[Citadel]]
+
+<!-- SerializedQuery END -->

@@ -1,0 +1,34 @@
+---
+publish: false
+title:
+aliases:
+tags:
+  - Terra-Oblivia
+  - Session-Notes
+Created: 2026-10-17
+---
+
+### Campaign Wants:
+
+Grey: 
+- Mystery, Gods
+- 
+
+Hunter:
+- Adventure, help people across Triarch
+- monster hunt, kill big monster
+- 
+
+Audrey:
+- Sidequests, see stuff do stuff along the way, random fun things
+- dungeons
+- see a tower, go to the tower
+- 
+
+---
+
+## Links
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+
+#Terra-Oblivia

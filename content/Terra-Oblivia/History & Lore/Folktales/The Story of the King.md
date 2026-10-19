@@ -21,3 +21,9 @@ The King admonished his Son's wayward hopes, and vowed that if he fell he would 
 The King fell a final time, and the Son built his own castle in the stars, hidden in darkness, waiting for the day the King would return, to stop his father once again. 
 
 When the King returns, so too will the Son, under the light of a new star.
+
+---
+
+## Links
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->

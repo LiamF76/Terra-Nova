@@ -10,7 +10,7 @@ tags:
 Created: 2026-09-20
 ---
 
-## Terra-Oblivia Wiki Homepage
+# Terra-Oblivia Wiki Homepage
 
 Welcome to Terra-Oblivia. 
 
@@ -20,7 +20,7 @@ Terra-Oblivia is the third world in my series of "Daraan's Worlds" following beh
 
 If you have previously read or played within the world of Terra-Nova, many things may feel familiar in tone, setting, theme, or even name. They may feel so similar that they seem to be the same world. That is up to you to understand and discover as you explore my world.
 
-### Terra-Oblivia's Tone
+## Terra-Oblivia's Tone
 
 Terra-Oblivia has a unique tone I describe using a few terms:
 - Medium Fantasy (This means magic being at the power and effect of high fantasy, but being so uncommon, or not controlled by mortal actors such as wizards, that is does not display as high fantasy IMO)
@@ -31,7 +31,7 @@ Terra-Oblivia has a unique tone I describe using a few terms:
 
 Terra-Oblivia is rife with magic, but not in the traditional sense of massive schools teaching every cantrip they can find. Magic is the world, and mortals can only wield small parts of it, often times requiring help. This world is shadowed and dangerous, far past its glory days, barely holding on. These shadows that have been cast only show the light around them brighter, and this world has many opportunities for triumph in the face of this darkness. Heroes still exist, and are needed now more than ever to lead the world into tomorrow with hope and bravery.
 
-![[Terra-Oblivia Wiki Homepage-1791521591276.webp|300x215]]
+![[Terra-Oblivia Wiki Homepage-1791521591276.webp|500]]
 
 This world is the center of a cosmic conflict that the mortals and often times those beyond mortals are not aware of. The idea of ending vs continuing. This conflict was inspired by my own inability to continue to develop one setting, as opposed to simply creating new ones. But how does this manifest?
 
@@ -44,8 +44,8 @@ I hope to create a wide and open campaign setting where we can play multiple yea
 
 ---
 
-| ![[Terra-Oblivia Wiki Homepage-1791577298140.webp\|300x486]] | ![[Terra-Oblivia Wiki Homepage-1791576104844.webp\|300x392]] |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![[Terra-Oblivia Wiki Homepage-1791577298140.webp\|400]] | ![[Terra-Oblivia Wiki Homepage-1791576104844.webp\|400]] |
+| -------------------------------------------------------- | -------------------------------------------------------- |
 
 ## Terra-Oblivia's Inspirations
 
@@ -69,7 +69,6 @@ Far to the south is the island of Iramo. Iramo is not a naturally formed island,
 
 ---
 
-
 ## Helpful Links
 
 > [!faq]
@@ -77,6 +76,7 @@ Far to the south is the island of Iramo. Iramo is not a naturally formed island,
 > - [[Terra-Oblivia Magic]]
 > - [[Terra-Oblivia History]]
 > - [[Terra-Oblivia Characters]]
+> - [[Terra-Oblivia Mortals Lineages]]
 
 ---
 
@@ -87,5 +87,8 @@ Far to the south is the island of Iramo. Iramo is not a naturally formed island,
 - [[Terra-Nova Wiki Homepage|Terra-Nova]]
 - [[Terra-Oblivia Gods and Pantheon]]
 - [[Terra-Oblivia Magic]]
+- [[Terra-Oblivia History]]
+- [[Terra-Oblivia Characters]]
+- [[Terra-Oblivia Mortals Lineages]]
 
 <!-- SerializedQuery END -->

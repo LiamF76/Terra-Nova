@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDoorOpen",
       "LiOrbit",
       "LiPen",
       "LiStars",
-      "LiCat",
-      "LiSword"
+      "LiCat"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,6 @@
   "Terra-Nova/World Codex": "LiBookOpenText",
   "Terra-Nova/Creatures": "LiCat",
   "Writing Tips": "LiPen",
-  "Terra-Oblivia": "LiOrbit"
+  "Terra-Oblivia": "LiOrbit",
+  "Outside Worlds": "LiDoorOpen"
 }

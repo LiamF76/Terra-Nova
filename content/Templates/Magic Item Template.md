@@ -4,11 +4,14 @@ title:
 aliases:
 tags:
 ---
-# {{title}}
+
+# Name
 
 **Type**, *Rarity* (attunement note if any)
 
 IMAGE HERE
+
+---
 
 ## Description
 
@@ -17,6 +20,8 @@ IMAGE HERE
 **Physical Appearance:**
 
 **History / Lore:**
+
+---
 
 ## Mechanics
 
@@ -29,9 +34,13 @@ IMAGE HERE
 
 ### Attunement Requirements *(if any)*
 
+---
+
 ## Curse / Drawback *(if any)*
 
 > [!danger] Curse
+
+---
 
 ## Sentience *(if applicable)*
 

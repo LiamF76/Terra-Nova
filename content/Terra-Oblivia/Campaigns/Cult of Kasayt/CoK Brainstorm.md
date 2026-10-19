@@ -3,8 +3,37 @@ publish: false
 title:
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-13
 ---
+
+# Brainstorm
+
+- Aldred -> Arzen is an old God cultist trying to get back what he lost / understand himself, He runs a group called the Emissaries of Opus Dei, 'Emissaries of God's Work', in Walima. He is researching the Old Gods in secret, and has communicated with Rowan on multiple occasions. They were both researching the Stone King.
+- 
+
+---
+
+# BBEGs & Loyal Lieutenants
+
+## Levels of Play / BBEGs:
+
+- *1-5*: **[[Sana Black-Sky]]**
+- *5-8*: **Lord Ryuu Doran**
+- *8-12*: **[[Bellum Grail]]**
+- *12+*: **[[Hartwyn Syros]]/ Kasayt**
+
+## BBEGs
+
+- **Kasayt the Red Dragon**: Powerful Red Dragon of Ashkarad. 
+- *Priest*: **[[Hartwyn Syros]]**. Human Priest of Kasayt in Ashkarad. Brother of Ayla Syros. Serves Kasayt having been kidnapped from the Triarch in a raid as a child, and raised to worship Kasayt. Staunch believer in Dragon Supremacy. Hartwyn wants to revive and mantle Kasayt because Kasayt has promised his sister can be with him again and join the Cult if he is loyal.
+- *Warlord 1*: **[[Sana Black-Sky]]**. Elf, Demon powers / Bloodstone, can turn followers into blood magic mutants. Bloodstone amulet gives them the Demon Powers.
+- *Warlord 2*: **Bellum Grail**. Human, Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
+- *Warlord 3*: **Lord Ryuu Doran**. Dragonborn, Dragon Knight with fire powers. Bonded with the po
+
+---
+
+# Act 1
 
 Act 1:
 - Levels 1-5
@@ -42,18 +71,6 @@ Ideas:
 - As fall begins, people are calling it a peace time, as there have been significantly less monsters in the valley over this summer
 
 #### BUT THEREFORE:
-- A caravan is bringing an artifact of the Green Knights to Citadel for study *BUT* they are ambushed on the road by Sana's minions **THEREFORE** the party has to stop the ambush somehow (fight, grab artifact and flee, help escort of artifact escape, etc).
-- The party was invited to meet with Rowan *BUT* they find Rowan dead with a massive battleaxe having cut them in half (curse magic weapon still there, his locket still around his neck) **THEREFORE** the party has to decipher why they were killed by looking their their notes. Stuff they learn from Rowan
-	- *Green Knights*. 3 Clues in notes:
-		- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
-		- 2. Notes reference the wooden fortress
-		- 3. Logbook shows he gathered supplies regularly at a small town outside a TBD NAME forest
-	- *Demonic Tome*. 3 Clues in notes:
-		- The door is physical, the key is not
-		- The door rests within a building made to be like a mountain
-		- A reminder that wizards take security very seriously
-	- *Rowan's Amulet*. Magical locket, a note tied to the chain says the locket is the key, it is the only way to stop Kasayt, but it cannot stay in Citadel, because Kasayt's minions will be hunting for it.
-	- A letter to TBD
 
 ---
 
@@ -61,5 +78,7 @@ Ideas:
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Sana Black-Sky]]
+- [[Kasayt]]
 
 <!-- SerializedQuery END -->

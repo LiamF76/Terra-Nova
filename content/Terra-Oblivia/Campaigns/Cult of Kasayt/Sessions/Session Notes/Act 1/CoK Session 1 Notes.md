@@ -1,24 +1,19 @@
 ---
 publish: false
-title:
+title: CoK Session 1 Notes
 aliases:
 tags:
-Created: 2026-10-13
+  - Terra-Oblivia
+  - Session-Notes
+Created: 2026-10-18
 ---
 
-What does Sana Black-Sky have to work with?
-
-Personel:
-- blood magic lieutenants
-- bandit goons
-- 
-Equipment:
-- The Bloodstone
-Information:
-- Spy, 
+write here
 
 ---
 
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+
+#Terra-Oblivia

@@ -21,7 +21,7 @@ Created: 2026-10-08
 ---
 
 ## Voice
-Deep androgynous voice, often uses flower effeminate language to describe how they will brutally murder someone.
+Deep androgynous voice, often uses flowery effeminate language to describe how they will brutally murder someone.
 
 > [!quote]
 > "Cut them to pieces, boil them in the oil. The children of Kasayt shall feast tonight."

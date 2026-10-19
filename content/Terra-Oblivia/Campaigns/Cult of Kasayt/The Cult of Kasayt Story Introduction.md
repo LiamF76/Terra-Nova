@@ -1,22 +1,21 @@
 ---
-publish: false
-title:
+publish: true
+title: The Cult of Kasayt Story Introduction
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-15
 ---
 
 Long ago, the Triarch faced a divine enemy. The Red Dragon Kasayt, melding his fire with the Abyssal Storms that plague our world. He brought his demon-flame to bear on the 3 Cities, but united we stood strong under the wings of our Spirit protectors.
 
-The menace was defeated, but not forever. His faithful gathered the evil essence of his soul, and now they carry it, a relic of darkness.
+The menace was defeated, but not forever. His faithful gathered the evil essence of his soul, and now they carry it, a relic of shadow and flame.
 
-The Red Dragon Kasayt lives, and he thirsts for the Triarch's blood once more.
-
-A century has passed.
+The Red Dragon Kasayt lives, and he thirsts for the Triarch's blood once more. More than a century has passed.
 
 The great Spirit Astor has faded into legend. The scars of the Abyss remain, buried beneath the sands of Ashkarad. And the people of the Three Cities have grown comfortable beneath the mountains that shield them.
 
-They believe the war is over.
+They believe the war with Kasayt is over.
 
 **They are wrong.**
 
@@ -24,7 +23,9 @@ Far beyond the Valley, in a land where warlords kneel before dragons and the wea
 
 The Cult of Kasayt has returned.
 
-They gather beneath crimson banners. They march through the blighted lands. And in their possession lies a fragment of something that should have perished a hundred years ago.
+They gather beneath crimson banners. They march through the blighted lands. And in their possession lies a fragment of something that should have perished a many years ago.
+
+They carry the soul of their master, and hunt for something within the Triarch, power, riches, or something older... 
 
 Beyond the borders of the Triarch, empires expand. Ancient powers awaken. And in the shadows, forces far older than this war begin to stir.
 
@@ -45,4 +46,10 @@ And the world has no intention of letting them survive.
 **THE CULT OF KASAYT**
 
 _A Terra-Oblivia Campaign._
+
+---
+
+## Links
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 
