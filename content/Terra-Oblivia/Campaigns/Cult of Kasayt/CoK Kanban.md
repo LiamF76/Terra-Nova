@@ -40,7 +40,7 @@ kanban-plugin: board
 
 ## Characters
 
-- [ ] [[Sana Black-Sky]]
+- [x] [[Sana Black-Sky]]
 - [ ] [[Kasayt]]
 - [ ] [[Bellum Grail]]
 
