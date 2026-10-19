@@ -6,9 +6,14 @@
 		{"id":"52a16d04b6930308","x":420,"y":-120,"width":250,"height":160,"type":"text","text":"Stone King awakening triggers Ivys' defense, and activated Graveglass"},
 		{"id":"4f89eaaea05622b1","x":-520,"y":160,"width":250,"height":232,"type":"text","text":"Khal Daraan (through Sathu-Dara) whispers in Arzen's ear about the location of the Bloodstone, Arzen follows the visions"},
 		{"id":"284c2a6b65bc9c1c","x":-150,"y":196,"width":250,"height":160,"type":"text","text":"Sathu-Dara communes to Arzen secrets on how to see his true soul"},
-		{"id":"b5ce14071fe893ae","x":420,"y":-360,"width":250,"height":199,"type":"text","text":"Hartwyn / Cult of Kasayt hunt the Stone King to make Kasayt a new God using its demonic power"},
 		{"id":"f1ef9194173108be","x":170,"y":160,"width":250,"height":232,"type":"text","text":"Arzen finds ancient prison of Kronos beneath Walima, uses the power there to do the Sacrament of Oblivion"},
-		{"id":"b49b2ab1b68f7db5","x":480,"y":177,"width":250,"height":199,"type":"text","text":"Arzen hunts for Emrys (doesn't know who Finch is), his lover which he calls Min Jadid, The Reborn"}
+		{"id":"b49b2ab1b68f7db5","x":480,"y":177,"width":250,"height":199,"type":"text","text":"Arzen hunts for Emrys (doesn't know who Finch is), his lover which he calls Min Jadid, The Reborn"},
+		{"id":"3db1e65bee7a9fa7","x":760,"y":-172,"width":250,"height":265,"type":"text","text":"Graveglass within Ivys' fortress, studies the Stone King and Kairos, starts to agree with Kairos after seeing the state of the world post Reshaping"},
+		{"id":"73650ea3ce1553b1","x":800,"y":161,"width":250,"height":232,"type":"text","text":"Arzen reaches out to Rowan (old friend) to ask bout Min Jadid, Rowan knows something but won't tell Arzen"},
+		{"id":"90a30c984c7b764b","x":1120,"y":128,"width":250,"height":298,"type":"text","text":"In anger Arzen is manipulated by Sathu-Dara. Arzen tells The Acolyte of Kasayt where to find Rowan and that Rowan his information on the Stone King"},
+		{"id":"b5ce14071fe893ae","x":605,"y":-420,"width":250,"height":199,"type":"text","text":"Hartwyn / Cult of Kasayt hunt the Stone King to make Kasayt a new God using its demonic power"},
+		{"id":"4c6ad9ceff6888fe","x":960,"y":-400,"width":250,"height":160,"type":"text","text":"The Acolyte sends Sana to kill Rowan, and get the information on the Stone King"},
+		{"id":"21c860d21ac0c0cf","x":1560,"y":112,"width":250,"height":331,"type":"text","text":"The Acolyte turns on Arzen, revealing his location to a group of heretic hunters. Arzen is forced to flee into the desert with his Old Rites magic and heretical practices made public"}
 	],
 	"edges":[
 		{"id":"0a41d50cc082e80e","fromNode":"c38f5bb94bac830d","fromSide":"right","toNode":"2cb939f002e0d161","toSide":"left"},
@@ -18,6 +23,13 @@
 		{"id":"3b32d09271bac5fa","fromNode":"284c2a6b65bc9c1c","fromSide":"right","toNode":"f1ef9194173108be","toSide":"left"},
 		{"id":"48028b61eadafd7b","fromNode":"4cf17e5adf4f4cb3","fromSide":"top","toNode":"b5ce14071fe893ae","toSide":"left"},
 		{"id":"b577f3a8a862bbdc","fromNode":"4f89eaaea05622b1","fromSide":"top","toNode":"2cb939f002e0d161","toSide":"bottom"},
-		{"id":"211bf0b906719aaf","fromNode":"f1ef9194173108be","fromSide":"right","toNode":"b49b2ab1b68f7db5","toSide":"left"}
+		{"id":"211bf0b906719aaf","fromNode":"f1ef9194173108be","fromSide":"right","toNode":"b49b2ab1b68f7db5","toSide":"left"},
+		{"id":"4c370602cce3ebea","fromNode":"52a16d04b6930308","fromSide":"right","toNode":"3db1e65bee7a9fa7","toSide":"left"},
+		{"id":"9c524cecdb7cabdc","fromNode":"b49b2ab1b68f7db5","fromSide":"right","toNode":"73650ea3ce1553b1","toSide":"left"},
+		{"id":"89649794f413db31","fromNode":"73650ea3ce1553b1","fromSide":"right","toNode":"90a30c984c7b764b","toSide":"left"},
+		{"id":"91054d6747a26822","fromNode":"90a30c984c7b764b","fromSide":"top","toNode":"4c6ad9ceff6888fe","toSide":"bottom"},
+		{"id":"629ad6aa5754d67f","fromNode":"b5ce14071fe893ae","fromSide":"right","toNode":"4c6ad9ceff6888fe","toSide":"left"},
+		{"id":"1c78d7fbd47eedf8","fromNode":"90a30c984c7b764b","fromSide":"right","toNode":"21c860d21ac0c0cf","toSide":"left"},
+		{"id":"1042998e53dd0cb4","fromNode":"4c6ad9ceff6888fe","fromSide":"right","toNode":"21c860d21ac0c0cf","toSide":"left"}
 	]
 }

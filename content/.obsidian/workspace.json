@@ -85,9 +85,9 @@
               "state": {
                 "file": "Terra-Oblivia/Scratch/Order of Events.canvas",
                 "viewState": {
-                  "x": 84.3871875000001,
-                  "y": 281.484375,
-                  "zoom": 0
+                  "x": 1377.179447990592,
+                  "y": 80.2527063580336,
+                  "zoom": -0.6666666666666669
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,8 +238,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2d4e44c6e50984ba",
+  "active": "1ae33c9e1915ad69",
   "lastOpenFiles": [
+    "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
     "z Images/The Acolyte-1792445137329.webp",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
@@ -249,7 +250,6 @@
     "Dashboard.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Magic/The Sacrament of Oblivion.md",
-    "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
     "Terra-Nova/Characters/Spirits/Graveglass.md",
     "Terra-Nova/Characters/Spirits/Oxidian.md",
     "z Images/The Acolyte-1792442936415.webp",
@@ -285,7 +285,6 @@
     "z Images/Orzul-Dara-1792295197193.webp",
     "z Images/Orzul-Dara-1792295083631.webp",
     "Terra-Oblivia/Characters/Ur-Daraan",
-    "Terra-Nova/Resources/Statblocks/Old Statblocks/Death Knight.png",
     "Terra-Oblivia/Items/Magic Items",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions",
