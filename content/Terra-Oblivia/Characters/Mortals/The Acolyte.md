@@ -2,6 +2,7 @@
 publish: false
 title: The Acolyte
 aliases:
+  - Kasayt's Chosen
 tags:
   - Terra-Oblivia
 Created: 2026-10-19
@@ -9,13 +10,13 @@ Created: 2026-10-19
 
 # The Acolyte
 
-![[The Acolyte-1792442936415.webp|300x422]]
+![[The Acolyte-1792445137329.webp|400]]
 
 ---
 
 ## The Acolyte
-**titles, epithets**
-*Pronouns*: 
+**Kasayt's Chosen**
+*Pronouns*: it/its
 
 ---
 
