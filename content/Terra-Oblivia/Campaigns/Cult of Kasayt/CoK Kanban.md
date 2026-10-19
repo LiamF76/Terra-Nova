@@ -38,10 +38,11 @@ kanban-plugin: board
 - [ ] [[Death and Ressurection]]
 
 
-## Characters
+## Bad Guys
 
-- [x] [[Sana Black-Sky]]
 - [ ] [[Kasayt]]
+- [ ] [[Hartwyn Syros]]
+- [x] [[Sana Black-Sky]]
 - [ ] [[Bellum Grail]]
 
 

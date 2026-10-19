@@ -1,7 +1,8 @@
 ---
 publish: false
-title:
+title: Hartwyn Syros
 aliases:
+  - Herald of Kasayt
 tags:
   - Terra-Oblivia
 Created: 2026-10-13
@@ -13,9 +14,9 @@ Created: 2026-10-13
 
 ---
 
-## Name
-titles, epithets
-*Pronouns*: 
+## Hartwyn
+**Herald of Kasayt**
+*Pronouns*: he/him
 
 ---
 
