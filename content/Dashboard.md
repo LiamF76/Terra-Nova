@@ -42,7 +42,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 # Pentium Realm
 
 > [!note] Pentium Realm
-> ##  [[Pentium Realm Kanban]] | 
+> ##  [[Pentium Realm Kanban]] | [[Pentium Realm Brainstorm]]
 
 ---
 

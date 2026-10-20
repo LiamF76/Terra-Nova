@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Early Brainstorm
 
-- [ ] [[Pentium Brainstorm]]
+- [ ] [[Pentium Realm Brainstorm]]
 - [ ] [[What is Pentium Realm]]
 
 

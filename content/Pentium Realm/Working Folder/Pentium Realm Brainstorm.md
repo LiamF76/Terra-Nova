@@ -2,9 +2,23 @@
 publish: false
 title:
 aliases:
+tags:
+  - PentiumRealm
+Created: 2026-07-29
 ---
 
 ## Ideas Dump
+
+- Pentium realm is a high tech / sci-fi future in which humanity has transitioned to a digital existence through uploading 
+- Setting inspirations: Pantheon, Cyberpunk 2077, real life
+- There are vastly less people due to historical events, climate collapse and war and such, so a smaller population of a few million people in the digital world
+- Players are first generation of humans born digitally, through a process of combining the code of 2 uploaded people to create a new being.
+- Players created by a company called Telos Industries the project was known as 'Gemini Forge'
+- Telos Industries is a hardware company, they use robots and physical infrastructure to distribute processing powers and abilities for a price to people. Founded by 
+
+---
+
+## OLD!!! Ideas Dump
 
 - Pentium Realm, digital world within computers where the campaign takes place.
 - People are paid to do jobs, play as college / semi-pro players, and spend much of their time within the Pentium Realm.
@@ -19,3 +33,8 @@ aliases:
 - Daemons: Malicious programs / AIs. "Monsters" are daemons, they come in many forms but are generally unintelligent
 - 
 
+---
+
+## Links
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
