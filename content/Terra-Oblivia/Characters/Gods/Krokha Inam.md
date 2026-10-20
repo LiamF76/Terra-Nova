@@ -7,12 +7,14 @@ tags:
 Created: 2026-10-11
 ---
 
-# God Name
+# Krokha Inam
 #### Titles: Endless Hourglass, Keeper of the Sundial
 **Domain**: 
 **One-line summary**: 
 
 ---
+
+![[Krokha Inam-1792461850828.webp|400]]
 
 ## Nature
 **Dragon form**: (what they look like, and how their birth mutated them)
