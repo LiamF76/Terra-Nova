@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[Pentium Realm Brainstorm]]
 - [ ] [[What is Pentium Realm]]
+- [ ] [[Pentium Realm Wiki Homepage]]
 
 
 

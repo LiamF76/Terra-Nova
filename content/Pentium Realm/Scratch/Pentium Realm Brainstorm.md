@@ -16,8 +16,9 @@ Created: 2026-07-29
 - Players created by a company called Telos Industries the project was known as 'Gemini Forge'
 - Telos Industries is a hardware company, they use robots and physical infrastructure to distribute processing powers and abilities for a price to people. Founded by Marcus Telos. Telos Industries blazed the frontier of computer intelligence in the 2050s, and was at the forefront of the Uploading campaigns to save humanity
 - Marcus has hidden himself away in a private partition to work on and lead Project: Gemini Forge, as his next step in humanity's evolution
-- The digital west, much of the the world was built and networked for a gigantic population of humans, with so many dead before they could upload, there are vast wastelands and empty digital spaces to explore
-- 
+- **An empty world**: much of the the world was built and networked for a gigantic population of humans, with so many dead before they could upload, there are vast wastelands and empty digital spaces to explore
+- **The Digital Frontier**: most of the digital world wasn't hand crafted but generated through procedural systems, simulation engines, and abandoned software left running without oversight. Over decades the processes kept evolving, so there are strange alien regions and corrupted areas
+- [ ] 
 
 ---
 
