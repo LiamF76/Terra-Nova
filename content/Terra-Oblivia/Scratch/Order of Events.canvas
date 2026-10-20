@@ -8,7 +8,6 @@
 		{"id":"f1ef9194173108be","type":"text","text":"Arzen finds ancient prison of Kronos beneath Walima, uses the power there to do the Sacrament of Oblivion","x":-15,"y":169,"width":250,"height":232},
 		{"id":"b5ce14071fe893ae","type":"text","text":"The Acolyte (Hartwyn) / Cult of Kasayt hunt the Stone King to make Kasayt a new God using its demonic power","x":615,"y":-436,"width":250,"height":232},
 		{"id":"835af6b23613d2f2","type":"text","text":"The Ur-Daraan make war on the Star-Elves, clashing for control of the Moon","x":670,"y":517,"width":232,"height":159},
-		{"id":"9680041741273c90","type":"text","text":"Sathu-Dara builds Ur-Mesharan, The Spire of Whispers, a tower that was built by Ivys for Nysria, claimed by the Ur-Daraan. Her fortress where she projects her tricks and lies to the mortals of Terra-Oblivia","x":1081,"y":712,"width":359,"height":232},
 		{"id":"4febdc7fdf1254f4","type":"text","text":"Orzul slays Nysria, ending the leaving all Star-Elves on Nysria dead.","x":1565,"y":516,"width":210,"height":160},
 		{"id":"3e078e10f3ed678d","type":"text","text":"Cult of Kasayt Campaign begins here!","x":1740,"y":-555,"width":250,"height":119},
 		{"id":"1d875e8cdeff154e","type":"text","text":"- Where was the bloodstone?\n- How did it get there?\n- What did The Acolyte get that let him bond with Kasayt","x":-1320,"y":-204,"width":274,"height":244},
@@ -23,7 +22,8 @@
 		{"id":"284c2a6b65bc9c1c","type":"text","text":"Sathu-Dara communes to Arzen secrets on how to see his true soul, plants seeds of Sacrament of Oblivion","x":-333,"y":319,"width":240,"height":232},
 		{"id":"4cf17e5adf4f4cb3","type":"text","text":"Use of Bloodstone begins to awaken the Stone King, Acolyte gives Bloodstone to Sana Back-Sky","x":110,"y":-139,"width":250,"height":199},
 		{"id":"2cb939f002e0d161","type":"text","text":"Arzen gives fragment  of Prison + Bloodstone to Kasayt's Cult","x":-218,"y":-99,"width":250,"height":119},
-		{"id":"c38f5bb94bac830d","type":"text","text":"Kasayt sealed (This was the first point in this note lol)","x":-520,"y":-99,"width":220,"height":119}
+		{"id":"c38f5bb94bac830d","type":"text","text":"Kasayt sealed (This was the first point in this note lol)","x":-520,"y":-99,"width":220,"height":119},
+		{"id":"9680041741273c90","type":"text","text":"Sathu-Dara builds Ur-Mesharan, The Spire of Whispers, a tower that was built by Ivys for Nysria, claimed by the Ur-Daraan. Her fortress where she projects her tricks and lies to the mortals of Terra-Oblivia","x":935,"y":676,"width":359,"height":232}
 	],
 	"edges":[
 		{"id":"0a41d50cc082e80e","fromNode":"c38f5bb94bac830d","fromSide":"right","toNode":"2cb939f002e0d161","toSide":"left"},
