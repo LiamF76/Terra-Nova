@@ -22,7 +22,7 @@
 		{"id":"21c860d21ac0c0cf","x":1360,"y":121,"width":250,"height":331,"type":"text","text":"The Acolyte turns on Arzen, revealing his location to a group of heretic hunters. Arzen is forced to flee into the desert with his Old Rites magic and heretical practices made public"},
 		{"id":"4c6ad9ceff6888fe","x":1360,"y":-575,"width":250,"height":160,"type":"text","text":"The Acolyte sends Sana to kill Rowan, and get the information on the Stone King"},
 		{"id":"6ce3f167657f0da2","x":2080,"y":-50,"width":333,"height":265,"type":"text","text":"Graveglass and Arzen study Kairos's life together, and make a pact. Arzen gets time magic and Graveglass vows to work together to set the world back to the way it was supposed to be, and undo the Reshaping."},
-		{"id":"2430335d476d9207","x":-645,"y":169,"width":235,"height":232,"type":"text","text":"Arzen goes to the chronocault that holds the Bloodstone (in Escharra), also finds a shard of Kronos's prison"},
+		{"id":"2430335d476d9207","x":-645,"y":169,"width":235,"height":232,"type":"text","text":"Arzen goes to the Chronovault that holds the Bloodstone (in Escharra), also finds a shard of Kronos's prison"},
 		{"id":"4f89eaaea05622b1","x":-960,"y":169,"width":250,"height":232,"type":"text","text":"Khal Daraan (through Sathu-Dara) whispers in Arzen's ear about the location of the Bloodstone, Arzen follows the visions"}
 	],
 	"edges":[
