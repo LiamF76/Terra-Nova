@@ -34,6 +34,8 @@ DM NOTE: Party is traveling back to Citadel after getting an artifact and doing 
 
 *Set the Scene*: Cold wind blows through the valley in mid fall as you return to Citadel.
 
+The Artifact: [[Jade of Two Rivers]]
+
 TBD
 
 **Enemies**: 

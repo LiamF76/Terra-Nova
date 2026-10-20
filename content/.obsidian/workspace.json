@@ -4,20 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "b74bc0af058bfa57",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ee8ca8e90234bc3f",
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "d653a5ed08aaaa54",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "CoK Kanban"
+            }
+          },
+          {
+            "id": "79cc9e7a563331c7",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CoK Session 1 Prep"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,14 +191,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ee8ca8e90234bc3f",
+  "active": "79cc9e7a563331c7",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Nova/World Codex/Lore Books/Drowning Worm/To Read You Must be Blind.md",
+    "Dashboard.md",
+    "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
-    "Terra-Oblivia/Scratch/Order of Events.canvas",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Characters/Gods/Rocan Ashar.md",
     "z Images/Rocan Ashar-1792462191322.webp",
     "Terra-Oblivia/Characters/Gods/Krokha Inam.md",
@@ -179,7 +226,6 @@
     "Terra-Oblivia/Characters/Ur-Daraan/Orzul-Dara.md",
     "Terra-Oblivia/Characters/Mortals/Kifrag Beast-Bane.md",
     "Terra-Oblivia/Characters/Mortals/Rowan August.md",
-    "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
