@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] Caravan ambush
 - [ ] Rowan murder / investigation
 - [ ] Rowan research
+- [ ] Arzen / Rowan Letters on Canva
 - [x] [[Rowan August]]
 	- citadel NPC of note
 	- member of Devout assembly

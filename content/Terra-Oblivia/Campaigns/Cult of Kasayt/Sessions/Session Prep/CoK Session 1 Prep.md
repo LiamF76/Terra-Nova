@@ -10,19 +10,7 @@ Session Date:
 ---
 
 ### Brainstorm:
-- A caravan is bringing an artifact of the Green Knights to Citadel for study *BUT* they are ambushed on the road by Sana's minions **THEREFORE** the party has to stop the ambush somehow (fight, grab artifact and flee, help escort of artifact escape, etc).
-- Artifact: Brass ring with cared jade around it, about 1ft diameter tail to tail.
-- The party was invited to meet with Rowan *BUT* they find Rowan dead with a massive battleaxe having cut them in half (curse magic weapon still there, his locket still around his neck) **THEREFORE** the party has to decipher why they were killed by looking their their notes. Stuff they learn from Rowan
-	- *Green Knights*. 3 Clues in notes:
-		- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
-		- 2. Notes reference the wooden fortress
-		- 3. Logbook shows he gathered supplies regularly at a small town outside a TBD NAME forest
-	- *Demonic Tome*. 3 Clues in notes:
-		- The door is physical, the key is not
-		- The door rests within a building made to be like a mountain
-		- A reminder that wizards take security very seriously
-	- *Rowan's Amulet*. Magical locket, a note tied to the chain says the locket is the key, it is the only way to stop Kasayt, but it cannot stay in Citadel, because Kasayt's minions will be hunting for it.
-	- *A letter to Arzen*: A letter to someone named Arzen who appears to be a scholar on the occult. Never heard of this person before, it's an eastern name, possibly an elf from Walima. They appear to have been corresponding for quite some time, and Rowan was asking for more information about a 'Stone King'.
+- 
 
 ---
 
@@ -74,8 +62,8 @@ TBD
 	- A reminder that wizards take security very seriously
 - *Thread C*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
 	- Magical locket, a note tied to the chain says the locket is the key, it is the only way to stop Kasayt, but it cannot stay in Citadel, because Kasayt's minions will be hunting for it. 
-	- "This amulet is the key Finch. Protect it, do not let it remain in Citadel, they will be hunting for it. Let the light of the new star guide you home. I am sorry. Remember, the sun will rise tomorrow, and we will try again."
-- *Thread D*: **Letter to Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
+	- "This amulet is the key to everything Finch. Protect it, do not let it remain in Citadel, they will be hunting for it. You are in danger. Let the light of the new star guide you home. I am sorry. Remember, the sun will rise tomorrow, and we will try again."
+- *Thread D*: **Letters to/from Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
 	- A letter to someone named Arzen who appears to be a scholar on the occult. Never heard of this person before, it's an eastern name, possibly an elf from Walima. They appear to have been corresponding for quite some time.
 	- Rowan was asking for more information about a 'Stone King'. They had been studying accounts if its whereabouts, scattered through history, rumor, and stories. Arzen's last communication indicates if the Stone King is anywhere on Escharra, it is likely in the Triarch.
 	- Arzen appears to DEMAND the location of something called 'Min Jadid' (translates to Reborn, this is in Celestial, it's Finch), which Rowan promised previously but so far has not delivered. 
