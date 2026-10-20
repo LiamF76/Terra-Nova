@@ -74,7 +74,7 @@ TBD
 	- A reminder that wizards take security very seriously
 - *Thread C*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
 	- Magical locket, a note tied to the chain says the locket is the key, it is the only way to stop Kasayt, but it cannot stay in Citadel, because Kasayt's minions will be hunting for it. 
-	  'This amulet is the key Finch. Protect it, do not let it remain in Citadel, they will be hunting for it. Let the light of the new star guide you home.'
+	- "This amulet is the key Finch. Protect it, do not let it remain in Citadel, they will be hunting for it. Let the light of the new star guide you home. I am sorry. Remember, the sun will rise tomorrow, and we will try again."
 - *Thread D*: **Letter to Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
 	- A letter to someone named Arzen who appears to be a scholar on the occult. Never heard of this person before, it's an eastern name, possibly an elf from Walima. They appear to have been corresponding for quite some time.
 	- Rowan was asking for more information about a 'Stone King'. They had been studying accounts if its whereabouts, scattered through history, rumor, and stories. Arzen's last communication indicates if the Stone King is anywhere on Escharra, it is likely in the Triarch.
