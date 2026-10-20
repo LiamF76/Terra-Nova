@@ -109,17 +109,17 @@
             }
           },
           {
-            "id": "6e179c813a4b6983",
+            "id": "ce46559e15c6e6d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Characters/Gods/Krokha Inam.md",
+                "file": "Terra-Oblivia/Characters/Gods/Rocan Ashar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Krokha Inam"
+              "title": "Rocan Ashar"
             }
           }
         ],
@@ -252,11 +252,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6e179c813a4b6983",
+  "active": "ce46559e15c6e6d2",
   "lastOpenFiles": [
+    "z Images/Rocan Ashar-1792462191322.webp",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+    "Terra-Oblivia/Characters/Gods/Krokha Inam.md",
     "z Images/Krokha Inam-1792461850828.webp",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
     "z Images/The Acolyte-1792445137329.webp",
@@ -284,7 +286,6 @@
     "Terra-Oblivia/Characters/Mortals/Rowan August.md",
     "Terra-Oblivia/Terra-Oblivia Wiki Homepage.md",
     "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Stats and Skills.md",
-    "Terra-Oblivia/Terra-Oblivia Tabletop Game/Terra-Oblivia Tabletop Overview.md",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
@@ -298,7 +299,6 @@
     "Outside Worlds",
     "z Images/Orzul-Dara-1792295846247.webp",
     "z Images/Orzul-Dara-1792295197193.webp",
-    "z Images/Orzul-Dara-1792295083631.webp",
     "Terra-Oblivia/Characters/Ur-Daraan",
     "Terra-Oblivia/Items/Magic Items",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep",
