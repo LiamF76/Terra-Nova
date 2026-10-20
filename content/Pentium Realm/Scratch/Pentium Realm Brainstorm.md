@@ -17,7 +17,7 @@ Created: 2026-07-29
 - Telos Industries is a hardware company, they use robots and physical infrastructure to distribute processing powers and abilities for a price to people. Founded by Marcus Telos. Telos Industries blazed the frontier of computer intelligence in the 2050s, and was at the forefront of the Uploading campaigns to save humanity
 - Marcus has hidden himself away in a private partition to work on and lead Project: Gemini Forge, as his next step in humanity's evolution
 	- **Endymion**: Home of Project: Gemini Forge, and where Marcus Telos hides. Located on a Lunar data center built by Telos Industries. 
-- Marcus is obsessed with 
+- Marcus is obsessed with Greek mythology, believing himself to be Prometheus. Stealing fire from the Gods and creating digital souls. He wants to be the father of a new race of purely digital minds.
 - **An Empty World**: much of the the world was built and networked for a gigantic population of humans, with so many dead before they could upload, there are vast wastelands and empty digital spaces to explore
 - **The Digital Frontier**: most of the digital world wasn't hand crafted but generated through procedural systems, simulation engines, and abandoned software left running without oversight. Over decades the processes kept evolving, so there are strange alien regions and corrupted areas
 - 
