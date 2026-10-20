@@ -14,7 +14,9 @@ Created: 2026-07-29
 - There are vastly less people due to historical events, climate collapse and war and such, so a smaller population of a few million people in the digital world
 - Players are first generation of humans born digitally, through a process of combining the code of 2 uploaded people to create a new being.
 - Players created by a company called Telos Industries the project was known as 'Gemini Forge'
-- Telos Industries is a hardware company, they use robots and physical infrastructure to distribute processing powers and abilities for a price to people. Founded by TBD Telos
+- Telos Industries is a hardware company, they use robots and physical infrastructure to distribute processing powers and abilities for a price to people. Founded by Marcus Telos. Telos Industries blazed the frontier of computer intelligence in the 2050s, and was at the forefront of the Uploading campaigns to save humanity
+- Marcus has hidden himself away in a private partition to work on and lead Project: Gemini Forge, as his next step in humanity's evolution
+- The digital west, much of the the world was built and networked for a gigantic population of humans, with so many dead before they could upload, there are vast wastelands and empty digital spaces to explore
 - 
 
 ---
