@@ -36,12 +36,14 @@ TBD
 
 DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead with a massive battleaxe having cut him in half (cursed magic weapon still there, his locket still around his neck with a note attached)
 
-*Set the Scene*: TBD
+*Set the Scene*: Rowan's study awaits down the hall, but before you reach the stone archway that opens to the High Priest's library, another door catches your eye. Slightly open, the door to Rowan's room beckons you inside, no light, but a faint trail of liquid running out from a pool under the door. It is blood. 
+Inside his simple priestly accommodations are stained with horror, as you see his body collapsed leaning against the back wall, his head cleaved from his shoulders and laying beside his body, and a massive battleaxe still embedded in the bricks behind where his neck used to be.
 
 TBD
 
 - *Thread A*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
-	- Magical locket, a note tied to the chain says the locket is the key, it is the only way to stop Kasayt, but it cannot stay in Citadel, because Kasayt's minions will be hunting for it. 
+	- Rowan's Amulet of Lumena, it is a small gold locket with a sun design on it. He always wears it.
+	- There is a small piece of paper tied around the necklace, barely peaking over his shirt collar.
 	- "This amulet is the key to everything Finch. Protect it, do not let it remain in Citadel, they will be hunting for it. You are in danger. Let the light of the new star guide you home. I am sorry. Remember, the sun will rise tomorrow, and we will try again."
 
 ---

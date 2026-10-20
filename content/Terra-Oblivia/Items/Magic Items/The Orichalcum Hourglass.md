@@ -11,7 +11,7 @@ Created: 2026-10-17
 
 # The Orichalcum Hourglass
 
-**Type**, *Rarity* (attunement note if any)
+**Wondrous Item**, *Artifact* (attunement note if any)
 
 | Locket Form                                               | Hourglass Form                                            |
 | --------------------------------------------------------- | --------------------------------------------------------- |
@@ -23,9 +23,9 @@ Created: 2026-10-17
 
 > [!quote] Flavor Text A one or two sentence evocative description of the item's appearance, feel, or reputation.
 
-**Physical Appearance:**
+**Physical Appearance:** Small golden locket with a sun design on the front.
 
-**History / Lore:**
+**History / Lore:** 
 
 ---
 
