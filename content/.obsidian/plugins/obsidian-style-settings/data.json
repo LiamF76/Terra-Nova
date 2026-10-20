@@ -89,5 +89,11 @@
   "halftone@@hf-centre-title": true,
   "halftone@@hf-gaps": true,
   "halftone@@hf-no-dots": false,
-  "halftone@@hf-no-crop-marks": false
+  "halftone@@hf-no-crop-marks": false,
+  "ulu-theme-settings@@ulu-font-general": "satoshi",
+  "ulu-theme-settings@@ulu-accent-bold-italic": true,
+  "ulu-theme-settings@@ulu-serif-italic": true,
+  "ulu-theme-settings@@ulu-duo-tag": false,
+  "ulu-theme-settings@@ulu-rough-highlight": true,
+  "ulu-theme-settings@@ulu-colorfo-headings": true
 }
