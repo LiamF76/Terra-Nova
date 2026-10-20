@@ -70,6 +70,8 @@ TBD
 	- A letter to someone named Arzen who appears to be a scholar on the occult. Never heard of this person before, it's an eastern name, possibly an elf from Walima. They appear to have been corresponding for quite some time.
 	- Rowan was asking for more information about a 'Stone King'. They had been studying accounts if its whereabouts, scattered through history, rumor, and stories. Arzen's last communication indicates if the Stone King is anywhere on Escharra, it is likely in the Triarch.
 	- Arzen appears to DEMAND the location of something called 'Min Jadid' (translates to Reborn, this is in Celestial, it's Finch), which Rowan promised previously but so far has not delivered. 
+- *Thread E*: **What is missing**
+	- Despite all of the foundational information, the location of the Tome, and the Green Knights, is mysteriously missing. If it was here, it has been taken.
 
 ---
 
