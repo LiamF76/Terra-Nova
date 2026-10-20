@@ -14,7 +14,8 @@ Created: 2026-07-29
 - There are vastly less people due to historical events, climate collapse and war and such, so a smaller population of a few million people in the digital world
 - Players are first generation of humans born digitally, through a process of combining the code of 2 uploaded people to create a new being.
 - Players created by a company called Telos Industries the project was known as 'Gemini Forge'
-- Telos Industries is a hardware company, they use robots and physical infrastructure to distribute processing powers and abilities for a price to people. Founded by 
+- Telos Industries is a hardware company, they use robots and physical infrastructure to distribute processing powers and abilities for a price to people. Founded by TBD Telos
+- 
 
 ---
 
