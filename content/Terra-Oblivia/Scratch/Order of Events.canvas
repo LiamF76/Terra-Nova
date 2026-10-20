@@ -1,13 +1,12 @@
 {
 	"nodes":[
-		{"id":"2cb939f002e0d161","x":-213,"y":-100,"width":250,"height":119,"type":"text","text":"Arzen gives fragment Bloodstone to Kasayt's Cult"},
+		{"id":"2cb939f002e0d161","x":-213,"y":-100,"width":250,"height":119,"type":"text","text":"Arzen gives fragment  of Prison + Bloodstone to Kasayt's Cult"},
 		{"id":"4cf17e5adf4f4cb3","x":100,"y":-100,"width":250,"height":119,"type":"text","text":"Use of Bloodstone begins to awaken the Stone King"},
 		{"id":"52a16d04b6930308","x":420,"y":-120,"width":250,"height":160,"type":"text","text":"Stone King awakening triggers Ivys' defense, and activated Graveglass"},
 		{"id":"3db1e65bee7a9fa7","x":760,"y":-172,"width":250,"height":265,"type":"text","text":"Graveglass within Ivys' fortress, studies the Stone King and Kairos, starts to agree with Kairos after seeing the state of the world post Reshaping"},
 		{"id":"90a30c984c7b764b","x":935,"y":137,"width":250,"height":298,"type":"text","text":"In anger Arzen is manipulated by Sathu-Dara. Arzen tells The Acolyte of Kasayt where to find Rowan and that Rowan his information on the Stone King"},
 		{"id":"b49b2ab1b68f7db5","x":295,"y":186,"width":250,"height":199,"type":"text","text":"Arzen hunts for Emrys (doesn't know who Finch is), his lover which he calls Min Jadid, The Reborn"},
 		{"id":"73650ea3ce1553b1","x":615,"y":170,"width":250,"height":232,"type":"text","text":"Arzen reaches out to Rowan (old friend) to ask bout Min Jadid, Rowan knows something but won't tell Arzen"},
-		{"id":"4f89eaaea05622b1","x":-705,"y":169,"width":250,"height":232,"type":"text","text":"Khal Daraan (through Sathu-Dara) whispers in Arzen's ear about the location of the Bloodstone, Arzen follows the visions"},
 		{"id":"284c2a6b65bc9c1c","x":-335,"y":205,"width":250,"height":160,"type":"text","text":"Sathu-Dara communes to Arzen secrets on how to see his true soul"},
 		{"id":"f1ef9194173108be","x":-15,"y":169,"width":250,"height":232,"type":"text","text":"Arzen finds ancient prison of Kronos beneath Walima, uses the power there to do the Sacrament of Oblivion"},
 		{"id":"b5ce14071fe893ae","x":615,"y":-436,"width":250,"height":232,"type":"text","text":"The Acolyte (Hartwyn) / Cult of Kasayt hunt the Stone King to make Kasayt a new God using its demonic power"},
@@ -17,21 +16,21 @@
 		{"id":"c38f5bb94bac830d","x":-520,"y":-100,"width":220,"height":119,"type":"text","text":"Kasayt sealed (This was the first point in this note lol)"},
 		{"id":"9680041741273c90","x":1081,"y":712,"width":359,"height":232,"type":"text","text":"Sathu-Dara builds Ur-Mesharan, The Spire of Whispers, a tower that was built by Ivys for Nysria, claimed by the Ur-Daraan. Her fortress where she projects her tricks and lies to the mortals of Terra-Oblivia"},
 		{"id":"4febdc7fdf1254f4","x":1565,"y":516,"width":210,"height":160,"type":"text","text":"Orzul slays Nysria, ending the leaving all Star-Elves on Nysria dead."},
-		{"id":"1d875e8cdeff154e","x":-1000,"y":-33,"width":217,"height":170,"type":"text","text":"- Where was the bloodstone?\n- How did it get there?"},
 		{"id":"3e078e10f3ed678d","x":1740,"y":-555,"width":250,"height":119,"type":"text","text":"Cult of Kasayt Campaign begins here!"},
+		{"id":"1d875e8cdeff154e","x":-1320,"y":-204,"width":274,"height":244,"type":"text","text":"- Where was the bloodstone?\n- How did it get there?\n- What did The Acolyte get that let him bond with Kasayt"},
+		{"id":"579accfe14ca0394","x":1740,"y":-100,"width":250,"height":364,"type":"text","text":"Graveglass and Arzen are connected by Sathu-Dara, making Arzen believe they were both contacted by Khal Daraan. Arzen travels to a Chronovault in Walima and meets with Graveglass"},
+		{"id":"21c860d21ac0c0cf","x":1360,"y":121,"width":250,"height":331,"type":"text","text":"The Acolyte turns on Arzen, revealing his location to a group of heretic hunters. Arzen is forced to flee into the desert with his Old Rites magic and heretical practices made public"},
 		{"id":"4c6ad9ceff6888fe","x":1360,"y":-575,"width":250,"height":160,"type":"text","text":"The Acolyte sends Sana to kill Rowan, and get the information on the Stone King"},
-		{"id":"21c860d21ac0c0cf","x":1235,"y":121,"width":250,"height":331,"type":"text","text":"The Acolyte turns on Arzen, revealing his location to a group of heretic hunters. Arzen is forced to flee into the desert with his Old Rites magic and heretical practices made public"},
-		{"id":"6ce3f167657f0da2","x":1920,"y":154,"width":333,"height":265,"type":"text","text":"Graveglass and Arzen study Kairos's life together, and make a pact. Arzen gets time magic and Graveglass vows to work together to set the world back to the way it was supposed to be, and undo the Reshaping."},
-		{"id":"579accfe14ca0394","x":1565,"y":105,"width":250,"height":364,"type":"text","text":"Graveglass and Arzen are connected by Sathu-Dara, making Arzen believe they were both contacted by Khal Daraan. Arzen travels to a Chronovault in Walima and meets with Graveglass"}
+		{"id":"6ce3f167657f0da2","x":2080,"y":-50,"width":333,"height":265,"type":"text","text":"Graveglass and Arzen study Kairos's life together, and make a pact. Arzen gets time magic and Graveglass vows to work together to set the world back to the way it was supposed to be, and undo the Reshaping."},
+		{"id":"2430335d476d9207","x":-645,"y":169,"width":235,"height":232,"type":"text","text":"Arzen goes to the chronocault that holds the Bloodstone (in Escharra), also finds a shard of Kronos's prison"},
+		{"id":"4f89eaaea05622b1","x":-960,"y":169,"width":250,"height":232,"type":"text","text":"Khal Daraan (through Sathu-Dara) whispers in Arzen's ear about the location of the Bloodstone, Arzen follows the visions"}
 	],
 	"edges":[
 		{"id":"0a41d50cc082e80e","fromNode":"c38f5bb94bac830d","fromSide":"right","toNode":"2cb939f002e0d161","toSide":"left"},
 		{"id":"f4fb70449de9df5f","fromNode":"2cb939f002e0d161","fromSide":"right","toNode":"4cf17e5adf4f4cb3","toSide":"left"},
 		{"id":"4734dc0bc5f7c6b4","fromNode":"4cf17e5adf4f4cb3","fromSide":"right","toNode":"52a16d04b6930308","toSide":"left"},
-		{"id":"76b0b763a7f0b794","fromNode":"4f89eaaea05622b1","fromSide":"right","toNode":"284c2a6b65bc9c1c","toSide":"left"},
 		{"id":"3b32d09271bac5fa","fromNode":"284c2a6b65bc9c1c","fromSide":"right","toNode":"f1ef9194173108be","toSide":"left"},
 		{"id":"48028b61eadafd7b","fromNode":"4cf17e5adf4f4cb3","fromSide":"top","toNode":"b5ce14071fe893ae","toSide":"left"},
-		{"id":"b577f3a8a862bbdc","fromNode":"4f89eaaea05622b1","fromSide":"top","toNode":"2cb939f002e0d161","toSide":"bottom"},
 		{"id":"211bf0b906719aaf","fromNode":"f1ef9194173108be","fromSide":"right","toNode":"b49b2ab1b68f7db5","toSide":"left"},
 		{"id":"4c370602cce3ebea","fromNode":"52a16d04b6930308","fromSide":"right","toNode":"3db1e65bee7a9fa7","toSide":"left"},
 		{"id":"9c524cecdb7cabdc","fromNode":"b49b2ab1b68f7db5","fromSide":"right","toNode":"73650ea3ce1553b1","toSide":"left"},
@@ -39,7 +38,6 @@
 		{"id":"91054d6747a26822","fromNode":"90a30c984c7b764b","fromSide":"top","toNode":"4c6ad9ceff6888fe","toSide":"bottom"},
 		{"id":"629ad6aa5754d67f","fromNode":"b5ce14071fe893ae","fromSide":"right","toNode":"4c6ad9ceff6888fe","toSide":"left"},
 		{"id":"1c78d7fbd47eedf8","fromNode":"90a30c984c7b764b","fromSide":"right","toNode":"21c860d21ac0c0cf","toSide":"left"},
-		{"id":"1042998e53dd0cb4","fromNode":"4c6ad9ceff6888fe","fromSide":"right","toNode":"21c860d21ac0c0cf","toSide":"left"},
 		{"id":"61dc2a58332f21d3","fromNode":"3db1e65bee7a9fa7","fromSide":"right","toNode":"579accfe14ca0394","toSide":"left"},
 		{"id":"21b873115c92a545","fromNode":"21c860d21ac0c0cf","fromSide":"right","toNode":"579accfe14ca0394","toSide":"left"},
 		{"id":"30ac432bca51f0b3","fromNode":"579accfe14ca0394","fromSide":"right","toNode":"6ce3f167657f0da2","toSide":"left"},
@@ -48,6 +46,10 @@
 		{"id":"35ca2e44569d757b","fromNode":"7f0db8787407666f","fromSide":"right","toNode":"835af6b23613d2f2","toSide":"left"},
 		{"id":"aae8d5e2e6437f73","fromNode":"835af6b23613d2f2","fromSide":"right","toNode":"4febdc7fdf1254f4","toSide":"left"},
 		{"id":"8217ed34e908c55d","fromNode":"835af6b23613d2f2","fromSide":"bottom","toNode":"9680041741273c90","toSide":"left"},
-		{"id":"49f7b3624cff896e","fromNode":"284c2a6b65bc9c1c","fromSide":"bottom","toNode":"7f0db8787407666f","toSide":"left"}
+		{"id":"49f7b3624cff896e","fromNode":"284c2a6b65bc9c1c","fromSide":"bottom","toNode":"7f0db8787407666f","toSide":"left"},
+		{"id":"16649a8627a43464","fromNode":"b5ce14071fe893ae","fromSide":"right","toNode":"21c860d21ac0c0cf","toSide":"left"},
+		{"id":"9199888932c2a1a8","fromNode":"4f89eaaea05622b1","fromSide":"right","toNode":"2430335d476d9207","toSide":"left"},
+		{"id":"e5477935904a291c","fromNode":"2430335d476d9207","fromSide":"right","toNode":"284c2a6b65bc9c1c","toSide":"left"},
+		{"id":"eba2efedc0353351","fromNode":"2430335d476d9207","fromSide":"top","toNode":"2cb939f002e0d161","toSide":"bottom"}
 	]
 }
