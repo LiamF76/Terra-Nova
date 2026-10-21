@@ -22,8 +22,26 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "dfeb45b48d2d4b22",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Oblivia/Scratch/Order of Events.canvas",
+                "viewState": {
+                  "x": 2092.5159258366675,
+                  "y": 441.5811140442986,
+                  "zoom": -0.773760348198927
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Order of Events"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,10 +170,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dfeb45b48d2d4b22",
   "lastOpenFiles": [
-    "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
     "Dashboard.md",
+    "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Theme Test Note.md",
     "Pentium Realm/Pentium Realm Wiki Homepage.md",
