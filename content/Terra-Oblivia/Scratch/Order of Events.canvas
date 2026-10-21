@@ -29,7 +29,7 @@
 		{"id":"81704fcc172b6804","type":"text","text":"Nysria desperately reaches out to the Temporal Plane, and accidentally awakens The Woven","x":1626,"y":418,"width":228,"height":199},
 		{"id":"7fbdfd7159cb922a","type":"text","text":"The Woven, awakened, recognize the Ur-Daraan as a threat to the timeline, and begin a war against them across Nysria","x":2160,"y":517,"width":219,"height":265},
 		{"id":"d775583dd9b3c9cf","x":-1920,"y":-1320,"width":436,"height":934,"type":"file","file":"Terra-Oblivia/Scratch/What do they want.md"},
-		{"id":"c506bd8ffa4f6c8a","x":2500,"y":-67,"width":293,"height":298,"type":"text","text":"Ivys's conciousness, held within a Spirit called Oxidian, locks Graveglass out of controlling time using Ivys's station, Temporial's Elegy. Graveglass is forced to flee with Arzen to a Chronovault he controls"}
+		{"id":"c506bd8ffa4f6c8a","x":2500,"y":-100,"width":271,"height":364,"type":"text","text":"Ivys's conciousness, held within a Spirit called Oxidian, locks Graveglass out of controlling Temporial's Elegy (the space station), trapping Graveglass there while Arzen escaped, now Spirit-Bonded to Graveglass."}
 	],
 	"edges":[
 		{"id":"f4fb70449de9df5f","fromNode":"2cb939f002e0d161","fromSide":"right","toNode":"4cf17e5adf4f4cb3","toSide":"left"},
