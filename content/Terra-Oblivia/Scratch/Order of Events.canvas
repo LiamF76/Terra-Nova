@@ -8,10 +8,6 @@
 		{"id":"f1ef9194173108be","type":"text","text":"Arzen finds ancient prison of Kronos beneath Walima, uses the power there to do the Sacrament of Oblivion","x":-15,"y":169,"width":250,"height":232},
 		{"id":"b5ce14071fe893ae","type":"text","text":"The Acolyte (Hartwyn) / Cult of Kasayt hunt the Stone King to make Kasayt a new God using its demonic power","x":615,"y":-436,"width":250,"height":232},
 		{"id":"835af6b23613d2f2","type":"text","text":"The Ur-Daraan make war on the Star-Elves, clashing for control of the Moon","x":670,"y":517,"width":232,"height":159},
-		{"id":"3e078e10f3ed678d","type":"text","text":"Cult of Kasayt Campaign begins here!","x":1740,"y":-555,"width":171,"height":119},
-		{"id":"579accfe14ca0394","type":"text","text":"Graveglass and Arzen are connected by Sathu-Dara, making Arzen believe they were both contacted by Khal Daraan. Arzen travels to a Chronovault in Walima and meets with Graveglass","x":1740,"y":-100,"width":250,"height":364},
-		{"id":"4c6ad9ceff6888fe","type":"text","text":"The Acolyte sends Sana to kill Rowan, and get the information on the Stone King","x":1360,"y":-575,"width":250,"height":160},
-		{"id":"6ce3f167657f0da2","type":"text","text":"Graveglass and Arzen study Kairos's life together, and make a pact. Arzen gets time magic and Graveglass vows to work together to set the world back to the way it was supposed to be, and undo the Reshaping.","x":2080,"y":-50,"width":333,"height":265},
 		{"id":"2430335d476d9207","type":"text","text":"Arzen goes to the Chronovault that holds the Bloodstone (in Escharra), also finds a shard of Kronos's prison","x":-645,"y":169,"width":235,"height":232},
 		{"id":"4f89eaaea05622b1","type":"text","text":"Khal Daraan (through Sathu-Dara) whispers in Arzen's ear about the location of the Bloodstone, Arzen follows the visions","x":-960,"y":169,"width":250,"height":232},
 		{"id":"7f0db8787407666f","type":"text","text":"Arzen's communion + Sacrament of Oblivion opens a rift in the Infinite Road, which the Ur-Daraan invade, ending up on the Moon Nysria","x":141,"y":480,"width":309,"height":232},
@@ -22,14 +18,18 @@
 		{"id":"c38f5bb94bac830d","type":"text","text":"Kasayt sealed (This was the first point in this note lol)","x":-1339,"y":-159,"width":220,"height":119},
 		{"id":"5de36b5f08b9ac01","type":"text","text":"Bloodstone, Kairos's severed arm that was petrified but seperated from the Stone king Statue, is locked within Ivys's chronovault by Graveglass before he goes into statis to sleep","x":-1990,"y":120,"width":250,"height":331},
 		{"id":"34c02a7bf2f17ec0","type":"text","text":"The Ur-Daraan are born, for thousands of years they war with all creations that have stopped existing. The devour and grow strong. They are trapped in the Deep with Khal Daraan, unable to escape","x":-2680,"y":480,"width":401,"height":232},
-		{"id":"21c860d21ac0c0cf","type":"text","text":"Arzen is caught invoking Old Rites by Waliman priests, and is exiled to the desert + labeled a heretic.","x":1360,"y":120,"width":250,"height":199},
 		{"id":"9680041741273c90","type":"text","text":"Sathu-Dara builds Ur-Mesharan, The Spire of Whispers, a tower that was built by Ivys for Nysria, claimed by the Ur-Daraan. Her fortress where she projects her tricks and lies to the mortals of Terra-Oblivia","x":902,"y":840,"width":359,"height":232},
 		{"id":"4febdc7fdf1254f4","type":"text","text":"Orzul slays Nysria, ending the leaving all Star-Elves on Nysria dead.","x":1655,"y":712,"width":210,"height":160},
 		{"id":"af118cb3373f61a6","type":"text","text":"Nysria sends a message to Graveglass, asking for help as Ivys promised the Spirit would. Graveglass does not answer.","x":1300,"y":385,"width":215,"height":265},
 		{"id":"81704fcc172b6804","type":"text","text":"Nysria desperately reaches out to the Temporal Plane, and accidentally awakens The Woven","x":1626,"y":418,"width":228,"height":199},
 		{"id":"7fbdfd7159cb922a","type":"text","text":"The Woven, awakened, recognize the Ur-Daraan as a threat to the timeline, and begin a war against them across Nysria","x":2160,"y":517,"width":219,"height":265},
 		{"id":"d775583dd9b3c9cf","x":-1920,"y":-1320,"width":436,"height":934,"type":"file","file":"Terra-Oblivia/Scratch/What do they want.md"},
-		{"id":"c506bd8ffa4f6c8a","x":2500,"y":-100,"width":271,"height":364,"type":"text","text":"Ivys's conciousness, held within a Spirit called Oxidian, locks Graveglass out of controlling Temporial's Elegy (the space station), trapping Graveglass there while Arzen escaped, now Spirit-Bonded to Graveglass."}
+		{"id":"3e078e10f3ed678d","type":"text","text":"Cult of Kasayt Campaign begins here!","x":2415,"y":-554,"width":171,"height":119},
+		{"id":"4c6ad9ceff6888fe","type":"text","text":"The Acolyte sends Sana to kill Rowan, and get the information on the Stone King","x":1854,"y":-554,"width":250,"height":160},
+		{"id":"21c860d21ac0c0cf","type":"text","text":"Arzen is caught invoking Old Rites by Waliman priests, and is exiled to the desert + labeled a heretic.","x":1261,"y":87,"width":250,"height":199},
+		{"id":"579accfe14ca0394","type":"text","text":"Graveglass and Arzen are connected by Sathu-Dara, making Arzen believe they were both contacted by Khal Daraan. Arzen travels to a Chronovault in Walima and meets with Graveglass","x":1530,"y":-122,"width":250,"height":364},
+		{"id":"6ce3f167657f0da2","type":"text","text":"Graveglass and Arzen study Kairos's life together, and make a pact. Arzen gets time magic and Graveglass vows to work together to set the world back to the way it was supposed to be, and undo the Reshaping.","x":1813,"y":-72,"width":333,"height":265},
+		{"id":"c506bd8ffa4f6c8a","x":2180,"y":-121,"width":271,"height":364,"type":"text","text":"Ivys's conciousness, held within a Spirit called Oxidian, locks Graveglass out of controlling Temporial's Elegy (the space station), trapping Graveglass there while Arzen escaped, now Spirit-Bonded to Graveglass."}
 	],
 	"edges":[
 		{"id":"f4fb70449de9df5f","fromNode":"2cb939f002e0d161","fromSide":"right","toNode":"4cf17e5adf4f4cb3","toSide":"left"},
@@ -63,6 +63,6 @@
 		{"id":"103a5094b0dfaad2","fromNode":"af118cb3373f61a6","fromSide":"right","toNode":"81704fcc172b6804","toSide":"left"},
 		{"id":"487cd974e93f0adf","fromNode":"81704fcc172b6804","fromSide":"right","toNode":"7fbdfd7159cb922a","toSide":"left"},
 		{"id":"fed2eed1e118c1ad","fromNode":"4febdc7fdf1254f4","fromSide":"right","toNode":"7fbdfd7159cb922a","toSide":"left"},
-		{"id":"550b419fe4430ed7","fromNode":"6ce3f167657f0da2","fromSide":"right","toNode":"c506bd8ffa4f6c8a","toSide":"left"}
+		{"id":"3c1a9b95dad00580","fromNode":"6ce3f167657f0da2","fromSide":"right","toNode":"c506bd8ffa4f6c8a","toSide":"left"}
 	]
 }
