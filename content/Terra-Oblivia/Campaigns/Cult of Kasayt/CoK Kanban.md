@@ -23,7 +23,7 @@ kanban-plugin: board
 	- citadel NPC of note
 	- traitor, working for Hartwyn
 	- told Sana about the artifact being sent to Citadel
-- [ ] [[Ayla Syros]]
+- [x] [[Ayla Syros]]
 
 
 ## Misc

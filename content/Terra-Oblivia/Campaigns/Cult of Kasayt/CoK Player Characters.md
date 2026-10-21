@@ -3,6 +3,7 @@ publish: false
 title:
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-16
 ---
 
@@ -27,9 +28,9 @@ Backstory / Knives: https://docs.google.com/document/d/16sfEzS4wff4BA4m2UhWxcN0W
 
 ---
 
-## TBD
+## Kori Danzapoko
 
-Backstory / Knives: 
+Backstory / Knives: https://docs.google.com/document/d/1Cr4RivFX8pI7f6mMiI2wDV8aaZ_sXSd3ZTRhLoBm0XE/edit?usp=sharing
 
 **Ideas**:
 - 
