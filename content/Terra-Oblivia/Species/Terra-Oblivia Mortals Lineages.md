@@ -26,7 +26,7 @@ This is a list of the mortal ancestires in Terra-Oblivia. This is a WIP, a rough
 	- *Bugbears*: Large, hairy, and surprisingly stealthy, Bugbears are hunters and ambushers who live on the edges of Goblinoid society. They are often used by other Goblinoid groups as scouts and enforcers. Bugbears keep to themselves and are uncommon in cities, where their size and quiet nature tend to make others uneasy.
 - **Humans**: Numerous and adaptable. Humans are the most common race. They are the least likely to be born with magic, even those born to magical bloodlines have a chance to be without it. Humans have risen to power in the Age of Dragons, often acting as puppet Kings for the Dragons and Dragonborn, and as such they have an inflated sense of self importance and ego. Most though exist in poor conditions fighting to survive.
 - **Scarborn**: Mortals corrupted by the touch of the Abyssal Scars that covered Terra-Oblivia in the days of the Old Gods. They have many colors, reds oranges and even black, alongside demonic horns. They are viewed by others as cursed from birth, the product of evil and corruption in the world.
-- **Beastfolk**: 
+- **Beastfolk**: Beastfolk are peoples who carry the traits of animals, ranging from wolf and cat to boar, bird, and serpent. Their origins are argued over: some say they were blessed by the Old Gods, others that they were shaped by Elven magic in a cleaner age. Each kind of Beastfolk keeps its own customs, and many live in tribes or clans in the wild places of Terra-Oblivia. Their magic is often instinctive and tied to the land rather than to bloodlines. In cities they are common enough, but they often face suspicion and are treated as “lesser” by Humans and Dragonborn alike.
 
 ---
 
