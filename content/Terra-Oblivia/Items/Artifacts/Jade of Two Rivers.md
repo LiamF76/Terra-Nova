@@ -7,7 +7,11 @@ tags:
 Created: 2026-10-17
 ---
 
+# Jade of Two Rivers
+
 ![[Jade of Two Rivers-1792282777069.webp|300x300]]
+
+## History and Description
 
 The Jade of Two Rivers is an artifact of the Green Knights, an ancient order from the early days of the New Gods. It was said the Green Knights once guarded the land and a place known as the World's Heart, but the hearted ceased to beat, and the Knights faith failed as it died.
 
