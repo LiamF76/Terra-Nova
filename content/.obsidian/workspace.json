@@ -22,33 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "153490216e68fc8b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +152,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "153490216e68fc8b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
     "Dashboard.md",
     "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Velvet Ink",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/History & Lore/Lore Books",
     "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
     "z Images/The Acolyte-1792701908877.webp",
