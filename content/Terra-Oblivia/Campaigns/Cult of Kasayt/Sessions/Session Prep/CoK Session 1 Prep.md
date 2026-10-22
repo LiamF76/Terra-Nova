@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: CoK Session 1 Prep
 aliases:
 tags:
   - Terra-Oblivia
@@ -79,7 +79,7 @@ TBD
 
 #### **TBD**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Blood cube left behind to kill whoever found Rowan's body, it turns into a blood monster or something and attacks,
 
 *Set the Scene*: TBD
 
