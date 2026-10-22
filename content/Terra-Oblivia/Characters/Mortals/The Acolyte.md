@@ -10,7 +10,7 @@ Created: 2026-10-19
 
 # The Acolyte
 
-![[The Acolyte-1792445137329.webp|400]]
+![[The Acolyte-1792701908877.webp|400]]
 
 ---
 
