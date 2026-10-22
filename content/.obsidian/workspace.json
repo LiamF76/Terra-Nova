@@ -46,9 +46,37 @@
               "icon": "lucide-trello",
               "title": "CoK Kanban"
             }
+          },
+          {
+            "id": "ff155bef3e3c07de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CoK Session 1 Prep"
+            }
+          },
+          {
+            "id": "6d6118c785ebd6a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rowan's Note to Finch"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,10 +205,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3e8a4607ec69787e",
+  "active": "6d6118c785ebd6a6",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+    "z Images/Rowan's Note to Finch-1792634194170.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
+    "Terra-Oblivia/Items/Notes and Letters",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
@@ -209,8 +240,6 @@
     "Terra-Oblivia/Characters/Gods/Krokha Inam.md",
     "z Images/Krokha Inam-1792461850828.webp",
     "z Images/The Acolyte-1792445137329.webp",
-    "Terra-Oblivia/Campaigns/Light of the New Star/LotNS Brainstorm.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "z Images/The Acolyte-1792442936415.webp",
     "Terra-Oblivia/Campaigns/Untitled",
     "z Images/Lysander Grave-1792350992570.webp",
@@ -229,7 +258,6 @@
     "Terra-Oblivia/Characters/Ur-Daraan",
     "Terra-Oblivia/Items/Magic Items",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Space Western Storyboard.canvas",
     "Arkfall/Cosmology/Arkfall Map.canvas",
