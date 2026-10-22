@@ -44,7 +44,7 @@ TBD
 - *Thread A*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
 	- Rowan's Amulet of Lumena, it is a small gold locket with a sun design on it. He always wears it.
 	- There is a small piece of paper tied around the necklace, barely peaking over his shirt collar.
-	- "This amulet is the key to everything Finch. Protect it, do not let it remain in Citadel, they will be hunting for it. You are in danger. Let the light of the new star guide you home. I am sorry. Remember, the sun will rise tomorrow, and we will try again."
+	- [[Rowan's Note to Finch]]
 
 ---
 

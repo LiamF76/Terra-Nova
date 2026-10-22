@@ -60,23 +60,9 @@
               "icon": "lucide-file",
               "title": "CoK Session 1 Prep"
             }
-          },
-          {
-            "id": "6d6118c785ebd6a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rowan's Note to Finch"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,11 +191,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6d6118c785ebd6a6",
+  "active": "ff155bef3e3c07de",
   "lastOpenFiles": [
+    "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
     "z Images/Rowan's Note to Finch-1792634194170.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
     "Terra-Oblivia/Items/Notes and Letters",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
@@ -254,7 +240,6 @@
     "z Images/The Orichalcum Hourglass-1792345039611.webp",
     "Outside Worlds/Deadlock",
     "Outside Worlds",
-    "z Images/Orzul-Dara-1792295846247.webp",
     "Terra-Oblivia/Characters/Ur-Daraan",
     "Terra-Oblivia/Items/Magic Items",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep",
