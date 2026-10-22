@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: Pentium Realm Brainstorm
 aliases:
 tags:
   - PentiumRealm

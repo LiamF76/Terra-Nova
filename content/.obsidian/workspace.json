@@ -24,27 +24,20 @@
             }
           },
           {
-            "id": "3e8a4607ec69787e",
+            "id": "1005540185324c8f",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Terra-Oblivia/Scratch/Order of Events.canvas",
+                "viewState": {
+                  "x": -830.0069332800898,
+                  "y": 449.75781086963246,
+                  "zoom": -0.15147087301782927
                 }
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
+              "icon": "lucide-layout-dashboard",
+              "title": "Order of Events"
             }
           }
         ],
@@ -177,10 +170,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3e8a4607ec69787e",
+  "active": "1005540185324c8f",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
+    "Dashboard.md",
+    "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
     "z Images/Rowan's Note to Finch-1792634194170.webp",
@@ -188,14 +183,12 @@
     "Terra-Oblivia/Species/Terra-Oblivia Mortals Lineages.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Dashboard.md",
     "Terra-Oblivia/Characters/Mortals/Ayla Syros.md",
     "Terra-Oblivia/Characters/Mortals/Lysander Grave.md",
     "Terra-Oblivia/History & Lore/Terra-Oblivia History.md",
     "Terra-Oblivia/Scratch/What do they want.md",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Terra-Nova/Working Folder/WIP/Temporial's Elegy.md",
-    "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
     "Terra-Oblivia/Characters/Woven",
     "Pentium Realm/Scratch/What is Pentium Realm.md",
     "Pentium Realm/Scratch/Pentium Realm Kanban.md",
