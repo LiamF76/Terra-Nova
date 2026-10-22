@@ -16,7 +16,6 @@
 		{"id":"2cb939f002e0d161","type":"text","text":"Arzen gives fragment  of Prison + Bloodstone to Kasayt's Cult. Acolyte uses prison fragment to satbilize Kasayt's soul, and grants The Acolyte Kasayt's power.","x":-265,"y":-248,"width":250,"height":298},
 		{"id":"c38f5bb94bac830d","type":"text","text":"Kasayt sealed (This was the first point in this note lol)","x":-1339,"y":-159,"width":220,"height":119},
 		{"id":"34c02a7bf2f17ec0","type":"text","text":"The Ur-Daraan are born, for thousands of years they war with all creations that have stopped existing. The devour and grow strong. They are trapped in the Deep with Khal Daraan, unable to escape","x":-2680,"y":480,"width":401,"height":232},
-		{"id":"9680041741273c90","type":"text","text":"Sathu-Dara builds Ur-Mesharan, The Spire of Whispers, a tower that was built by Ivys for Nysria, claimed by the Ur-Daraan. Her fortress where she projects her tricks and lies to the mortals of Terra-Oblivia","x":902,"y":840,"width":359,"height":232},
 		{"id":"d775583dd9b3c9cf","type":"file","file":"Terra-Oblivia/Scratch/What do they want.md","x":-1920,"y":-1320,"width":436,"height":934},
 		{"id":"21c860d21ac0c0cf","type":"text","text":"Arzen is caught invoking Old Rites by Waliman priests, and is exiled to the desert + labeled a heretic.","x":1261,"y":87,"width":250,"height":199},
 		{"id":"579accfe14ca0394","type":"text","text":"Graveglass and Arzen are connected by Sathu-Dara, making Arzen believe they were both contacted by Khal Daraan. Arzen travels to a Chronovault in Walima and meets with Graveglass","x":1530,"y":-122,"width":250,"height":364},
@@ -28,7 +27,8 @@
 		{"id":"7f0db8787407666f","type":"text","text":"Arzen's communion + Sacrament of Oblivion opens a rift in the Infinite Road, which the Ur-Daraan invade, ending up on the Moon Nysria","x":141,"y":497,"width":309,"height":199},
 		{"id":"5de36b5f08b9ac01","type":"text","text":"Bloodstone, Kairos's severed arm that was petrified but seperated from the Stone king Statue, is locked within Ivys's chronovault by Graveglass before he goes into statis to sleep","x":-1589,"y":137,"width":250,"height":298},
 		{"id":"4c6ad9ceff6888fe","type":"text","text":"The Acolyte sends Sana to kill Rowan, and get the information on the Stone King","x":1530,"y":-553,"width":250,"height":160},
-		{"id":"3e078e10f3ed678d","type":"text","text":"Cult of Kasayt Campaign begins here!","x":1809,"y":-532,"width":171,"height":119}
+		{"id":"3e078e10f3ed678d","type":"text","text":"Cult of Kasayt Campaign begins here!","x":1809,"y":-532,"width":171,"height":119},
+		{"id":"9680041741273c90","type":"text","text":"Sathu-Dara builds Ur-Mesharan, The Spire of Whispers, a tower that was built by Ivys for Nysria, claimed by the Ur-Daraan. Her fortress where she projects her tricks and lies to the mortals of Terra-Oblivia","x":935,"y":676,"width":359,"height":232}
 	],
 	"edges":[
 		{"id":"f4fb70449de9df5f","fromNode":"2cb939f002e0d161","fromSide":"right","toNode":"4cf17e5adf4f4cb3","toSide":"left"},
