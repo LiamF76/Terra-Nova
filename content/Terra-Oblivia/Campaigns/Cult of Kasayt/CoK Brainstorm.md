@@ -13,6 +13,10 @@ Created: 2026-10-13
 - **The DM is a PC too.**
 	- Who am I playing as in this campaign? Hartwyn Syros / The Acolyte. He is the character I embody as the enemy of the heroes. I must react as he does, and learn as he does.
 - How did Hartwyn bond to the orb of Kasayt? He discovered / was given something by Arzen. Something of the ancient world. What is it, and what does it say about Arzen?
+	- Fragment of Kronos's temporal prison pyramid that allows The Acolyte tot maintain Kasayt's soul in stasis and not die
+- What does The Acolyte need to make Kasayt a God?
+	- The Stone King
+	- Kasayt's Orb / soul
 	- 
 
 ---
