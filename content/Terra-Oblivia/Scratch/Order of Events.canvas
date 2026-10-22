@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"52a16d04b6930308","type":"text","text":"Stone King awakening triggers Ivys' defense, and activated Graveglass","x":420,"y":-120,"width":250,"height":160},
 		{"id":"3db1e65bee7a9fa7","type":"text","text":"Graveglass within Ivys' fortress, studies the Stone King and Kairos, starts to agree with Kairos after seeing the state of the world post Reshaping","x":760,"y":-172,"width":250,"height":265},
-		{"id":"90a30c984c7b764b","type":"text","text":"In anger Arzen is manipulated by Sathu-Dara. Arzen tells The Acolyte of Kasayt where to find Rowan and that Rowan his information on the Stone King","x":935,"y":137,"width":250,"height":298},
 		{"id":"b49b2ab1b68f7db5","type":"text","text":"Arzen hunts for Emrys (doesn't know who Finch is), his lover which he calls Min Jadid, The Reborn","x":295,"y":186,"width":250,"height":199},
 		{"id":"73650ea3ce1553b1","type":"text","text":"Arzen reaches out to Rowan (old friend) to ask bout Min Jadid, Rowan knows something but won't tell Arzen","x":615,"y":170,"width":250,"height":232},
 		{"id":"f1ef9194173108be","type":"text","text":"Arzen finds ancient prison of Kronos beneath Walima, uses the power there to do the Sacrament of Oblivion","x":-15,"y":169,"width":250,"height":232},
@@ -28,7 +27,8 @@
 		{"id":"5de36b5f08b9ac01","type":"text","text":"Bloodstone, Kairos's severed arm that was petrified but seperated from the Stone king Statue, is locked within Ivys's chronovault by Graveglass before he goes into statis to sleep","x":-1589,"y":137,"width":250,"height":298},
 		{"id":"4c6ad9ceff6888fe","type":"text","text":"The Acolyte sends Sana to kill Rowan, and get the information on the Stone King","x":1530,"y":-553,"width":250,"height":160},
 		{"id":"3e078e10f3ed678d","type":"text","text":"Cult of Kasayt Campaign begins here!","x":1809,"y":-532,"width":171,"height":119},
-		{"id":"9680041741273c90","type":"text","text":"Sathu-Dara builds Ur-Mesharan, The Spire of Whispers, a tower that was built by Ivys for Nysria, claimed by the Ur-Daraan. Her fortress where she projects her tricks and lies to the mortals of Terra-Oblivia","x":935,"y":676,"width":359,"height":232}
+		{"id":"9680041741273c90","type":"text","text":"Sathu-Dara builds Ur-Mesharan, The Spire of Whispers, a tower that was built by Ivys for Nysria, claimed by the Ur-Daraan. Her fortress where she projects her tricks and lies to the mortals of Terra-Oblivia","x":935,"y":676,"width":359,"height":232},
+		{"id":"90a30c984c7b764b","type":"text","text":"In anger Arzen is manipulated by Sathu-Dara. Arzen tells The Acolyte of Kasayt where to find Rowan and that Rowan his information on the Stone King","x":935,"y":154,"width":250,"height":265}
 	],
 	"edges":[
 		{"id":"f4fb70449de9df5f","fromNode":"2cb939f002e0d161","fromSide":"right","toNode":"4cf17e5adf4f4cb3","toSide":"left"},
