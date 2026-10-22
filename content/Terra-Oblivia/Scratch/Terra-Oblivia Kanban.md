@@ -8,9 +8,9 @@ tags:
 
 ## PRIORITY
 
-- [ ] [[Terra-Oblivia History]]
+- [x] [[Terra-Oblivia History]]
 	- event involving fire magic, reason it is outlawed and feared?
-- [ ] [[Terra-Oblivia Mortals Lineages]]
+- [x] [[Terra-Oblivia Mortals Lineages]]
 - [ ] [[Terra-Oblivia Magic]]
 
 
@@ -166,7 +166,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,null,false,false,false,false,false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board"}
 ```
 %%
-#Terra-Oblivia
