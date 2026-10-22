@@ -95,5 +95,10 @@
   "ulu-theme-settings@@ulu-serif-italic": true,
   "ulu-theme-settings@@ulu-duo-tag": false,
   "ulu-theme-settings@@ulu-rough-highlight": true,
-  "ulu-theme-settings@@ulu-colorfo-headings": true
+  "ulu-theme-settings@@ulu-colorfo-headings": true,
+  "encore-settings@@encore-translucency-background": "encore-bg-image",
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-mobile-oled-mode": false,
+  "encore-settings@@encore-bright-accent": false,
+  "encore-settings@@encore-disable-logo-on-hr": true
 }
