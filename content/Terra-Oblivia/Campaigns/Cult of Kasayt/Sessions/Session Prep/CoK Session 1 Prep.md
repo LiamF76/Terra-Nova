@@ -73,7 +73,7 @@ TBD
 - *Thread E*: **What is missing**
 	- Despite all of the foundational information, the location of the Tome, and the Green Knights, is mysteriously missing. If it was here, it has been taken.
 
-GM Hooks: Leads them to look into either a wizard tower or some Green Knights ruins in Silver Spruce forest.
+**GM Hooks**: Leads them to look into either a wizard tower or some Green Knights ruins in Silver Spruce forest.
 
 ---
 
