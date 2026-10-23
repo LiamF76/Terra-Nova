@@ -26,7 +26,7 @@ The Artifact: [[Jade of Two Rivers]]
 
 TBD
 
-**Enemies**: 
+**Enemies**: 1x [Orc veteran](https://2e.aonprd.com/NPCs.aspx?ID=3130), 2x [Vampire bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=2848)
 
 ---
 
