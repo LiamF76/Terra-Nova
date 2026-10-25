@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: The Story of the King
 aliases:
 tags:

@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/History & Lore/Folktales/The Story of Wolves.md",
+                "file": "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Story of Wolves"
+              "title": "The Story of the King"
             }
           },
           {
@@ -205,10 +205,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bbc2599b9bd4fa84",
+  "active": "e34a2393bb44142e",
   "lastOpenFiles": [
-    "Terra-Oblivia/History & Lore/Folktales/The Light of a New Star.md",
     "Terra-Oblivia/History & Lore/Folktales/The Story of Wolves.md",
+    "Terra-Oblivia/History & Lore/Folktales/The Light of a New Star.md",
     "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
     "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
