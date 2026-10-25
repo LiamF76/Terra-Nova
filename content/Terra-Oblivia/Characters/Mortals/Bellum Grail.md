@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Bellum Grail
 aliases:
   - Winged-Spear
@@ -28,7 +28,7 @@ Bellum is calculated, willing to lie and cheat her way to any victory. She will 
 > "No masters but Kasayt. No Gods but Kasayt. Let those who would stand against the Shadowed-Flame face me, and I will show them the power of the Red King."
 
 > [!quote]
-> "Quote"
+> "My armies move like fire, burning, growing off the fuel of my dead enemies. Watch us grow and consume the weak, for Kasayt, and for the God he will become."
 
 ---
 
@@ -40,7 +40,7 @@ Bellum is a dark-skinned female human standing 6ft tall. She wears heavy metal a
 ## Important Info
 - Warlord / Cultist of [[Kasayt]], Follower of [[The Acolyte]]
 - Member of [[The Cult of Kasayt]]
-- Former Legionary of The Rocan Empire and student of Roccius Crane
+- Former Legionary of [[The Rocan Empire]] and student of Roccius Crane
 
 ---
 
@@ -51,5 +51,6 @@ Bellum is a dark-skinned female human standing 6ft tall. She wears heavy metal a
 - [[Kasayt]]
 - [[The Acolyte]]
 - [[The Cult of Kasayt]]
+- [[The Rocan Empire]]
 
 <!-- SerializedQuery END -->
