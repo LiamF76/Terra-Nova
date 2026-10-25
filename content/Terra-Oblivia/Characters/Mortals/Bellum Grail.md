@@ -2,6 +2,8 @@
 publish: false
 title: Bellum Grail
 aliases:
+  - Winged-Arrow
+  - Spirit-Slayer
 tags:
   - Terra-Oblivia
 Created: 2026-10-08
@@ -9,12 +11,13 @@ Created: 2026-10-08
 
 # Bellum Grail
 
-![[Bellum Grail-1791501043654.webp|300x410]]
+![[Bellum Grail-1792944349245.webp|300x375]]
 
 ---
 
-## Name
-**Bellum Grail**, titles, epithets
+## Bellum Grail
+**Winged-Arrow, Spirit-Slayer**
+*Pronouns*: she/her
 
 ---
 

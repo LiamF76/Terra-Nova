@@ -27,9 +27,8 @@ Created: 2026-10-13
 ## Levels of Play / BBEGs:
 
 - *1-5*: **[[Sana Black-Sky]]**
-- *5-8*: **Lord Ryuu Doran**
-- *8-12*: **[[Bellum Grail]]**
-- *12+*: **[[Hartwyn Syros]]/ Kasayt**
+- *5-8*: **[[Bellum Grail]]**
+- *8-12*: **[[Hartwyn Syros]]/ [[Kasayt]]**
 
 ## BBEGs
 
@@ -37,7 +36,6 @@ Created: 2026-10-13
 - *Priest*: **[[Hartwyn Syros]]**. Human Priest of Kasayt in Ashkarad. Brother of Ayla Syros. Serves Kasayt having been kidnapped from the Triarch in a raid as a child, and raised to worship Kasayt. Staunch believer in Dragon Supremacy. Hartwyn wants to revive and mantle Kasayt because Kasayt has promised his sister can be with him again and join the Cult if he is loyal.
 - *Warlord 1*: **[[Sana Black-Sky]]**. Elf, Demon powers / Bloodstone, can turn followers into blood magic mutants. Bloodstone amulet gives them the Demon Powers.
 - *Warlord 2*: **Bellum Grail**. Human, Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
-- *Warlord 3*: **Lord Ryuu Doran**. Dragonborn, Dragon Knight with fire powers. Bonded with the po
 
 ---
 
