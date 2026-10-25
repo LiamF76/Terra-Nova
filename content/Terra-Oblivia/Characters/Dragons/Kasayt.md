@@ -29,7 +29,7 @@ Kasayt's voice is violent, rising from a flicker to an inferno as he grows loude
 > "Mine is the fire of the Abyss, burn here, burn in hell, BURN FOREVER!"
 
 > [!quote]
-> "My faithful, my warlords, my children, my cattle and slaves. Hear my voice through my emissary. I have fallen, and been sealed, take from me power, and seek to raise me from this feeble state. Free me. Any wish you hold shall be granted, and my fire will raze Terra-Oblivia once more."
+> "My faithful, my warlords, my children, my cattle and slaves. Hear my voice through my Acolyte. I have fallen, and been sealed, take power from me, and seek to raise me from this feeble state. Free me. Any wish you hold shall be granted, and my fire will raze Terra-Oblivia once more."
 
 ---
 
