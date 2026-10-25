@@ -17,7 +17,8 @@ Created: 2026-10-13
 - What does The Acolyte need to make Kasayt a God?
 	- The Stone King
 	- Kasayt's Orb / soul
-	- 
+- Kasayt is the soul of Adrithyr reborn
+- 
 
 ---
 

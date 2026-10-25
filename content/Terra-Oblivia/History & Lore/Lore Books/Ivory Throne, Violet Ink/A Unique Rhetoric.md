@@ -3,10 +3,11 @@ publish: false
 title: A Unique Rhetoric
 aliases:
 tags:
-  - Terra-Nova
+  - Terra-Oblivia
+Created: 2026-08-02
 ---
-Ivys talks about creating Rhetoric
-## A Unique Rhetoric
+
+# A Unique Rhetoric
 
 The Replicants taught me more the less I listened to them. Their voices faded quickly after I got a new soul, and I guess I am a sucker for company.
 
@@ -23,3 +24,9 @@ Kairos. My demon soul's first replicant, using my left horn, was Kairos. What do
 You don't want to know what he called me when I asked, 'What's 2+2?'
 
 **Tempus omnia revelat.**
+
+---
+
+## Links
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
