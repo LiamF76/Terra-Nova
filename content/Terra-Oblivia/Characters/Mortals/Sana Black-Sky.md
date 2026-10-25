@@ -37,7 +37,7 @@ Sana is a 6'10 dark skinned Elf with blood red eyes and pure white hair. They ar
 ---
 
 ## Important Info
-- Warlord / Cultist of [[Kasayt]], Follower of [[Hartwyn Syros]]
+- Warlord / Cultist of [[Kasayt]], Follower of [[The Acolyte]]
 - Member of [[The Cult of Kasayt]]
 
 ---
