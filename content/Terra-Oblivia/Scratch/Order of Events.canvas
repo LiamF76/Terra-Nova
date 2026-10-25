@@ -13,8 +13,6 @@
 		{"id":"34c02a7bf2f17ec0","type":"text","text":"The Ur-Daraan are born, for thousands of years they war with all creations that have stopped existing. The devour and grow strong. They are trapped in the Deep with Khal Daraan, unable to escape","x":-2680,"y":480,"width":401,"height":232},
 		{"id":"21c860d21ac0c0cf","type":"text","text":"Arzen is caught invoking Old Rites by Waliman priests, and is exiled to the desert + labeled a heretic.","x":1261,"y":87,"width":250,"height":199},
 		{"id":"af118cb3373f61a6","type":"text","text":"Nysria sends a message to Graveglass, asking for help as Ivys promised the Spirit would. Graveglass does not answer. The desperation of Ivys's wife awakens Oxidian","x":1221,"y":401,"width":330,"height":232},
-		{"id":"81704fcc172b6804","type":"text","text":"Nysria activates the Woven, temporal machines created by Ivys to protect the Moon","x":1655,"y":497,"width":201,"height":199},
-		{"id":"7fbdfd7159cb922a","type":"text","text":"The Woven, awakened, recognize the Ur-Daraan as a threat to the timeline, and begin a war against them across Nysria","x":1927,"y":464,"width":219,"height":265},
 		{"id":"5de36b5f08b9ac01","type":"text","text":"Bloodstone, Kairos's severed arm that was petrified but seperated from the Stone king Statue, is locked within Ivys's chronovault by Graveglass before he goes into statis to sleep","x":-1589,"y":137,"width":250,"height":298},
 		{"id":"4c6ad9ceff6888fe","type":"text","text":"The Acolyte sends Sana to kill Rowan, and get the information on the Stone King","x":1530,"y":-553,"width":250,"height":160},
 		{"id":"3e078e10f3ed678d","type":"text","text":"Cult of Kasayt Campaign begins here!","x":1809,"y":-532,"width":171,"height":119},
@@ -22,13 +20,15 @@
 		{"id":"d775583dd9b3c9cf","type":"file","file":"Terra-Oblivia/Scratch/What do they want.md","x":-2379,"y":-1220,"width":1260,"height":926},
 		{"id":"c506bd8ffa4f6c8a","type":"text","text":"Ivys's conciousness, held within a Spirit called Oxidian, locks Graveglass out of controlling Temporial's Elegy (the space station), trapping Graveglass there while Arzen escaped, now Spirit-Bonded to Graveglass.","x":2220,"y":-122,"width":271,"height":364},
 		{"id":"6ce3f167657f0da2","type":"text","text":"Graveglass and Arzen study Kairos's life together, and make a pact. Arzen gets time magic and Graveglass vows to work together to set the world back to the way it was supposed to be, and undo the Reshaping.","x":1856,"y":-72,"width":333,"height":265},
-		{"id":"579accfe14ca0394","type":"text","text":"Graveglass and Arzen are connected by Sathu-Dara, making Arzen believe they were both contacted by Khal Daraan. Arzen travels to a Chronovault in Walima and meets with Graveglass","x":1559,"y":-105,"width":250,"height":331},
+		{"id":"579accfe14ca0394","type":"text","text":"Graveglass and Arzen are connected by Sathu-Dara, making Arzen believe they were both contacted by Khal Daraan. Arzen travels to a Chronovault in Walima and meets with Graveglass","x":1559,"y":-105,"width":250,"height":364},
 		{"id":"4cf17e5adf4f4cb3","type":"text","text":"Use of Bloodstone begins to awaken the Stone King, Acolyte gives Bloodstone to Sana Back-Sky","x":110,"y":-393,"width":250,"height":199},
 		{"id":"7f0db8787407666f","type":"text","text":"Arzen's communion + Sacrament of Oblivion opens a rift in the Infinite Road, which the Ur-Daraan invade, ending up on the Moon Nysria","x":111,"y":577,"width":309,"height":199},
 		{"id":"2cb939f002e0d161","type":"text","text":"Arzen gives fragment  of Prison + Bloodstone to Kasayt's Cult. Acolyte uses prison fragment to satbilize Kasayt's soul, and grants The Acolyte Kasayt's power.","x":-295,"y":-248,"width":250,"height":298},
 		{"id":"f1ef9194173108be","type":"text","text":"Arzen finds ancient prison of Kronos beneath Walima, uses the power there to do the Sacrament of Oblivion","x":-45,"y":169,"width":250,"height":232},
 		{"id":"284c2a6b65bc9c1c","type":"text","text":"Sathu-Dara communes to Arzen secrets on how to see his true soul, plants seeds of Sacrament of Oblivion","x":-360,"y":365,"width":240,"height":232},
-		{"id":"90a30c984c7b764b","type":"text","text":"In anger Arzen is manipulated by Sathu-Dara. Arzen tells The Acolyte of Kasayt where to find Rowan and that Rowan his information on the Stone King, and how to use the Stone King to make Kasayt a God","x":902,"y":104,"width":250,"height":364}
+		{"id":"90a30c984c7b764b","type":"text","text":"In anger Arzen is manipulated by Sathu-Dara. Arzen tells The Acolyte of Kasayt where to find Rowan and that Rowan his information on the Stone King, and how to use the Stone King to make Kasayt a God","x":902,"y":104,"width":250,"height":364},
+		{"id":"81704fcc172b6804","type":"text","text":"Nysria activates the Woven, temporal machines created by Ivys to protect the Moon","x":1640,"y":497,"width":272,"height":160},
+		{"id":"7fbdfd7159cb922a","type":"text","text":"The Woven, awakened, recognize the Ur-Daraan as a threat to the timeline, and begin a war against them across Nysria","x":1970,"y":445,"width":219,"height":265}
 	],
 	"edges":[
 		{"id":"f4fb70449de9df5f","fromNode":"2cb939f002e0d161","fromSide":"right","toNode":"4cf17e5adf4f4cb3","toSide":"left"},

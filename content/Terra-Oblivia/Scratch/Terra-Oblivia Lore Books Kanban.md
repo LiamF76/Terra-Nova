@@ -15,6 +15,10 @@ kanban-plugin: board
 
 ## Blood's Chronicle
 
+- [ ] [[Memory of Wings]]
+- [ ] [[O' Mother Mine]]
+- [ ] [[Scarlett Admonition]]
+- [ ] [[The Garden]]
 
 
 

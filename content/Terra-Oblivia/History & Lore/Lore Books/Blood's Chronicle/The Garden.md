@@ -35,3 +35,4 @@ Speak if you can, make him agree, the bargain must be struck, he must remain bou
 It laughs, laughter that could topple the sun and tear my history from my soul.
 
 `We agree, so now I have the final question, seal the bargain of our game for my brother, too afraid to come himself. Let us play again. Best two out of three?`
+

@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: The Acolyte
 aliases:
   - Kasayt's Chosen
@@ -37,7 +37,7 @@ The acolyte is a 7ft tall humanoid. He always wears his black robes and armor, d
 ---
 
 ## Important Info
-- Servant of [[Kasayt]], and Leader of The Cult of Kasayt
+- Servant of [[Kasayt]], and Leader of [[The Cult of Kasayt]]
 - 
 
 ---
@@ -47,5 +47,6 @@ The acolyte is a 7ft tall humanoid. He always wears his black robes and armor, d
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 - [[Kasayt]]
+- [[The Cult of Kasayt]]
 
 <!-- SerializedQuery END -->
