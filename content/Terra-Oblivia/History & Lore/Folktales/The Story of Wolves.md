@@ -8,7 +8,7 @@ Created: 2026-10-24
 ---
 
 # The Story of the Wolves
-*A story passed down from the ancient past. Held in memory through oral tradition, it is said that once when the world was in need, Wizards could summon a great army of wolves to protect the world and its people..*
+*A story passed down from the ancient past. Held in memory through oral tradition, it is said that once when the world was in need, Wizards could summon a great army of wolves to protect the world and its people.*
 
 It was said once that in the land of Escharra there stood a great many towers. Towers of beauty and color, and atop each tower was a Wizard. These Wizards were protectors, those who loved and cared for the land and it's people.
 
