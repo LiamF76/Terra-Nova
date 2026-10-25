@@ -43,7 +43,7 @@ Kasayt's voice is violent, rising from a flicker to an inferno as he grows loude
 
 ## Important Info
 - Dragon King of [[Ashkarad]]
-- Master and God of The Cult of Kasayt
+- Master and God of [[The Cult of Kasayt]]
 - Battled with the ancient Spirit [[Astor]]
 - 
 
