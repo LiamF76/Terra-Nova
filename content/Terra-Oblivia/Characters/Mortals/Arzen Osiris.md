@@ -37,9 +37,7 @@ Physical forms and appearance
 
 ## Important Info
 - Emissary of Khal Daraan
-- Ally of the Ur-Daraan
-- Advisor of [[Orzul-Dara]]
-- 
+- Leader of [[The Emissaries of Opus Dei]]
 
 ---
 

@@ -41,11 +41,11 @@ kanban-plugin: board
 
 ## Bad Guys
 
-- [x] [[Kasayt]]
-- [ ] [[The Acolyte]]
 - [ ] [[Hartwyn Syros]]
+- [x] [[Kasayt]]
+- [x] [[The Acolyte]]
 - [x] [[Sana Black-Sky]]
-- [ ] [[Bellum Grail]]
+- [x] [[Bellum Grail]]
 
 
 ## Places

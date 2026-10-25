@@ -40,6 +40,7 @@ Physical forms and appearance
 ## Important Info
 - Warlord / Cultist of [[Kasayt]], Follower of [[The Acolyte]]
 - Member of [[The Cult of Kasayt]]
+- Former Legionary of The Rocan Empire and student of Roccius Crane
 
 ---
 
