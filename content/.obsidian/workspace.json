@@ -22,49 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "c0d42bdcfafe0da3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
-          },
-          {
-            "id": "316946a8f8339f42",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "CoK Brainstorm"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +152,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "316946a8f8339f42",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Groups/Cults/The Emissaries of Opus Dei.md",
     "Terra-Oblivia/Characters/Mortals/Arzen Osiris.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Groups/Cults/Untitled",
     "Terra-Oblivia/Groups/Cults",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
