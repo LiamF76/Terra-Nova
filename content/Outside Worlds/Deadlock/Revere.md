@@ -116,6 +116,8 @@ tbd
 | **Kill Enemy Hero**  | *stuff* |
 | **Killstreak**       | *stuff* |
 
+- Against Bebop: "The scrap-coats are coming! The scrap-coats are coming!"
+
 ---
 
 ## Links
