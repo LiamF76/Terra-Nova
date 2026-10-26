@@ -158,9 +158,9 @@ tbd
 - *Onyx*: "She was a visionary, like myself. Not quite my mother, but almost. Almost."
 
 #### Billy
-- Billy: "I heard you killed 4 security guards and 10 cops on your way outta the Met. They had to wipe the blood off half the paintings."
-- Onyx: "It was 11 police officers. They shot first. I shot last."
-- Billy: "Oh look, its WardenThis ritual is gonna be a breeze."
+- **Billy**: "I heard you killed 4 security guards and 10 cops on your way outta the Met. They had to wipe the blood off half the paintings."
+- *Onyx*: "It was 11 police officers. They shot first. I shot last."
+- **Billy**: "Oh look, its Warden haha. This ritual is gonna be a breeze."
 
 ---
 
