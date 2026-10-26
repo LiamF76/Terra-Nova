@@ -24,53 +24,7 @@
             }
           },
           {
-            "id": "0868bee0314bad7c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
-          },
-          {
-            "id": "728a4f964cd70000",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Terra-Oblivia Lore Books Kanban"
-            }
-          },
-          {
-            "id": "ed82b5518bb7ce75",
+            "id": "8165aab767bff523",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,9 +167,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ed82b5518bb7ce75",
+  "active": "8165aab767bff523",
   "lastOpenFiles": [
     "Outside Worlds/Deadlock/Vibrato.md",
+    "Dashboard.md",
     "Outside Worlds/Deadlock/Revere.md",
     "z Images/Paul-1792981918672.webp",
     "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
@@ -226,7 +181,6 @@
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Shadow of Wings.md",
     "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink/A Unique Rhetoric.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blood's Chronicle/Memory of Wings.md",
-    "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn",
     "Terra-Oblivia/Items/Magic Items/The Orichalcum Hourglass.md",
