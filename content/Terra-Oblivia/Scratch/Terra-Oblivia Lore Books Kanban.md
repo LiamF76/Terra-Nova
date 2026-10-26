@@ -21,11 +21,11 @@ kanban-plugin: board
 - [ ] [[The Garden]]
 
 
-## Blessed to Burn
+## The Acolyte: Blessed to Burn
 
-- [ ] The First Flame
-- [ ] Shadow of Wings
-- [ ] Birthright
+- [ ] [[The First Flame]]
+- [ ] [[Shadow of Wings]]
+- [ ] [[Birthright]]
 
 
 
