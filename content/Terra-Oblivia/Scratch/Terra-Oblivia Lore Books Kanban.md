@@ -21,10 +21,17 @@ kanban-plugin: board
 - [ ] [[The Garden]]
 
 
+## Blessed to Burn
+
+- [ ] The First Flame
+- [ ] Shadow of Wings
+- [ ] Birthright
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

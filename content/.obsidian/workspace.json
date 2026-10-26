@@ -48,17 +48,23 @@
             }
           },
           {
-            "id": "30bd41433a6dfb41",
+            "id": "73d4bb64ff1c7e35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
-                "mode": "source",
-                "source": false
+                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "CoK Session 1 Prep"
+              "icon": "lucide-trello",
+              "title": "Terra-Oblivia Lore Books Kanban"
             }
           }
         ],
@@ -191,16 +197,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "30bd41433a6dfb41",
+  "active": "73d4bb64ff1c7e35",
   "lastOpenFiles": [
-    "Terra-Oblivia/Items/Magic Items/The Orichalcum Hourglass.md",
+    "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn",
+    "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+    "Terra-Oblivia/Items/Magic Items/The Orichalcum Hourglass.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
     "Terra-Oblivia/Characters/Mortals/Bellum Grail.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
-    "Dashboard.md",
     "z Images/Bellum Grail-1792959867901.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Groups/Cults/The Emissaries of Opus Dei.md",
@@ -229,7 +236,6 @@
     "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Velvet Ink",
     "Terra-Oblivia/History & Lore/Lore Books",
     "z Images/The Acolyte-1792701908877.webp",
-    "Terra-Oblivia/Characters/Mortals/Rowan August.md",
     "z Images/Rowan's Note to Finch-1792634194170.webp",
     "Terra-Oblivia/Items/Notes and Letters",
     "Terra-Oblivia/Characters/Woven",
