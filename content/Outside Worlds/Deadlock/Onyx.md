@@ -228,6 +228,11 @@ tbd
 - **Violet**: "I have a full ride to school, and I've been featured in multiple galleries."
 - *Onyx*: "It insists upon itself."
 
+#### Graves
+- "Only death can pay for life."
+- "Looks like you're going to make a big purchase."
+- "The last thing anyone in this world will buy. The Truth."
+
 ---
 
 ## Links
