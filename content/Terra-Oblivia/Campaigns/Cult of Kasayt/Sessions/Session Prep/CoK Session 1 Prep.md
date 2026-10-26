@@ -95,7 +95,7 @@ TBD
 
 #### **TBD**
 
-DM NOTE: Party meets with Ayla Syros, first to find them with the corpse of Rowan August. She does not assume they are guilty. 
+DM NOTE: Party meets with Ayla Syros, first to find them with the corpse of Rowan August. She does not assume they are guilty. She does have information:
 - Battle has begun at Bastion with the forces of a Warlord known as Bellum Grail, a follower of Kasayt.
 
 *Set the Scene*: TBD
