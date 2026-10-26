@@ -66,7 +66,7 @@ He is generally well mannered, but when upset he flies into uncontrollable fits 
 
 Onyx desires power and knowledge. He wants to understand magic and the eldritch more than anything, because those are the keys to learning his own origin. It will hunt and kill anyone that stands in its way. Many of the other heroes find Onyx to be tragic, as he was attacked and hated for nothing at birth. 
 
-Onyx despises the ritual, seeing the Patrons as puppeteers who deserve no worship. In granting his wish Onyx will gain the final understanding, and reach his apotheosis to grow beyond this plane. Onyx is so confident in his goal, he believes one day he will rule New York as a magical paradise for the arts, arcane and otherwise.
+While Onyx has appreciation for the arts, his magical visions lead him to the goal of painting the world black, and ending all life. He follows this goal reluctantly, but with dedication and effort. Apotheosis awaits him.
 
 ---
 
@@ -90,7 +90,7 @@ By the time the pressmen found him, he had a vocabulary, a taste for irony, and 
 
 He read it a dozen times. Then he laughed, because that was easier than understanding his own shame. For the first time, Onyx felt something that wasn't fear. He wanted to be taken seriously. If he'd been born from a joke, he would become the punchline nobody dared to repeat.
 
-Onyx grew brutal. He killed, he maimed, and he left a pitch-black trail wherever he went. Art is life, and love, and the greatest life and greatest love he can give the world is to paint it all black. In that darkness, he hopes to find apotheosis.
+Onyx grew brutal. He killed, he maimed, and he left a pitch-black trail wherever he went. Art is life, and love, and the greatest life and greatest love he can give the world is to paint it all black. Onyx has vivid dreams where he sees the world left covered in black ink, and all life ended. In that darkness, he hopes to find apotheosis.
 
 ---
 
