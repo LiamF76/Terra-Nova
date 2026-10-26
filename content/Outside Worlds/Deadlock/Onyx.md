@@ -98,8 +98,20 @@ tbd
 
 tbd
 
+---
 
-write here
+## Voicelines
+
+| **Event**            | *Line*  |
+| -------------------- | ------- |
+| **Hero Select**      | *stuff* |
+| **Unselect**         | *stuff* |
+| **Using Ability 1**  | *stuff* |
+| **Using Abilitiy 2** | *stuff* |
+| **Using Ability 3**  | *stuff* |
+| **Using Ability 4**  | *stuff* |
+| **Kill Enemy Hero**  | *stuff* |
+| **Killstreak**       | *stuff* |
 
 ---
 

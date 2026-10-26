@@ -99,16 +99,16 @@ tbd
 
 ## Voicelines
 
-| **Event**                 | *Line*  |
-| ------------------------- | ------- |
-| **Hero Select**           | *stuff* |
-| **Unselect**              | *stuff* |
-| **Using Nanchons Petwo**  | *stuff* |
-| **Using Universal Donor** | *stuff* |
-| **Using Forsaken Soul**   | *stuff* |
-| **Using Crise De Lwa**    | *stuff* |
-| **Kill Enemy Hero**       | *stuff* |
-| **Killstreak**            | *stuff* |
+| **Event**            | *Line*  |
+| -------------------- | ------- |
+| **Hero Select**      | *stuff* |
+| **Unselect**         | *stuff* |
+| **Using Ability 1**  | *stuff* |
+| **Using Abilitiy 2** | *stuff* |
+| **Using Ability 3**  | *stuff* |
+| **Using Ability 4**  | *stuff* |
+| **Kill Enemy Hero**  | *stuff* |
+| **Killstreak**       | *stuff* |
 
 ---
 

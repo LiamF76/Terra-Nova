@@ -103,6 +103,21 @@ tbd
 
 ---
 
+## Voicelines
+
+| **Event**            | *Line*  |
+| -------------------- | ------- |
+| **Hero Select**      | *stuff* |
+| **Unselect**         | *stuff* |
+| **Using Ability 1**  | *stuff* |
+| **Using Abilitiy 2** | *stuff* |
+| **Using Ability 3**  | *stuff* |
+| **Using Ability 4**  | *stuff* |
+| **Kill Enemy Hero**  | *stuff* |
+| **Killstreak**       | *stuff* |
+
+---
+
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
