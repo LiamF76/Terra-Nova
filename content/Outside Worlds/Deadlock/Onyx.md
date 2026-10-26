@@ -90,7 +90,7 @@ tbd
 
 ## Short Story
 
-tbd
+When mystic energy awoke on Earth, the world changed... anything was possible.
 
 ---
 
@@ -112,6 +112,14 @@ tbd
 | **Using Ability 4**  | *stuff*                                        |
 | **Kill Enemy Hero**  | *stuff*                                        |
 | **Killstreak**       | *stuff*                                        |
+
+### Conversations
+
+#### Seven
+- **Seven**: "You still wear the skull Onyx, you carry your own prison like a treasure."
+- *Onyx*: "I am still quite fond of it, Georgia took such care in it's creation."
+- **Seven**: "Sentiment. It was nothing more than ink to her."
+- *Onyx*: "I shall shed the skull the day you shed the jumpsuit. Until then, apotheosis escapes us both."
 
 ---
 
