@@ -141,6 +141,12 @@ tbd
 - **Seven**: "Sentiment. It was nothing more than ink to her."
 - *Onyx*: "I shall shed the skull the day you shed the jumpsuit. Until then, apotheosis escapes us both."
 
+- *Onyx*: "I dislike your methods."
+- **Seven**: "Weak stomach Onyx? Feeling pity for the mortals now?"
+- *Onyx*: "They need not suffer."
+- **Seven**: "You are so blessed and yet so blind. They fear you on principal, and you drink power from it. Is it so wrong to make them fear me too?"
+- *Onyx*: "Those who seek to be feared are often times afraid."
+
 #### Abrahams
 - **Abrams**: I see you eyeing it.
 - *Onyx*: "A shame you cannot fathom its secrets, the power it holds."
@@ -157,10 +163,44 @@ tbd
 - **Rem**: "Was Miss Georgia your mom?"
 - *Onyx*: "She was a visionary, like myself. Not quite my mother, but almost. Almost."
 
+- **Rem**: "Are we from the same place?"
+- *Onyx*: "I am not sure Rem, though we are technically a similar age. Perhaps I could share some of my writings with a kindred spirit."
+- **Rem**: "I can't read."
+- *Onyx*: "What a wonderful thing it will be to teach you. First lesson, Gilgamesh."
+
+- *Onyx*: "You ran away. I told you to stay by my side."
+- **Rem**: "I wanted to take a nap!"
+- *Onyx*: "Stay close now. I will get us to the world of dreams."
+- **Rem**: "Naps first!"
+- *Onyx*: "(laughing) Yes Rem, first we will make them *all* sleep."
+
 #### Billy
 - **Billy**: "I heard you killed 4 security guards and 10 cops on your way outta the Met. They had to wipe the blood off half the paintings."
 - *Onyx*: "It was 11 police officers. They shot first. I shot last."
 - **Billy**: "Oh look, its Warden haha. This ritual is gonna be a breeze."
+
+- **Billy**: "So are you the skull or the ink?"
+- *Onyx*: "Both and neither."
+- **Billy**: "People say you're supposed to be good with words but dude you are boring."
+- *Onyx*: "No reason to waste poetry on those who cannot fathom it."
+- **Billy**: "What the hell's that supposed to mean?"
+- *Onyx*: "Exactly."
+
+#### Venator
+- **Venator**: "Demon."
+- *Onyx*: "If you wish to insult me, you will have to do better."
+- **Venator**: "I will excise you when the ritual is done. It's the Lord's will."
+- *Onyx*: "If your God created all things, then he created me Father."
+- **Venator**: "Everyone makes mistakes."
+
+- *Onyx*: "There are a great many beautiful artworks in your church Father. Is there truly no room for me in your flock?"
+- **Venator:** "No. You are a thing of evil Onyx, an aspect of death itself."
+- *Onyx*: "(mmmm) An aspect of death? I quite like the sound of that."
+
+#### Doorman
+- **Doorman**: "A surprise to see you here Gura. You are always welcome at the Baroness."
+- *Onyx*: "I have no idea who you are."
+- **Doorman**: "Ah. Apologies, I mistook you for an old... colleague. Please consider staying with us at the Baroness soon."
 
 ---
 
