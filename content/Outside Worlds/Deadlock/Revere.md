@@ -1,8 +1,11 @@
 ---
-publish: false
+publish: true
 title: Revere
 aliases:
   - Paul Revere
+  - Midnight Rider
+  - Headless Horseman
+  - Silversmith
 tags:
   - Deadlock
 Created: 2026-10-25
@@ -17,7 +20,7 @@ Brainstorm:
 
 ![[Paul-1792981918672.webp|400]]
 
-## BY LAND - BY SEA - PATRIOT
+## BY LAND - BY SEA - PATRIOT 
 
 > [!Quote] 
 > "By land or sea I will light your ass up!"
@@ -54,7 +57,7 @@ Brainstorm:
 
 ## Appearance
 
-tbd
+Revere is 
 
 ---
 
