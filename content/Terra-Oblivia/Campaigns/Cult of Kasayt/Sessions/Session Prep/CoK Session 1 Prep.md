@@ -95,7 +95,8 @@ TBD
 
 #### **TBD**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Party meets with Ayla Syros, first to find them with the corpse of Rowan August. She does not assume they are guilty. 
+- Battle has begun at Bastion with the forces of a Warlord known as Bellum Grail, a follower of Kasayt.
 
 *Set the Scene*: TBD
 
@@ -106,5 +107,3 @@ TBD
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
-
-#Terra-Oblivia
