@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Templates/Deadlock OC Template.md",
+      "timestamp": 1792985590495
+    },
+    {
       "filepath": "Outside Worlds/Deadlock/Onyx.md",
       "timestamp": 1792984992113
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Dashboard.md",
       "timestamp": 1792984444140
-    },
-    {
-      "filepath": "Templates/Deadlock OC Template.md",
-      "timestamp": 1792984342171
     }
   ],
   "bookmarkedFileStore": [],

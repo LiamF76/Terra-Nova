@@ -97,6 +97,21 @@ tbd
 
 ---
 
+## Voicelines
+
+| **Event**                 | *Line*  |
+| ------------------------- | ------- |
+| **Hero Select**           | *stuff* |
+| **Unselect**              | *stuff* |
+| **Using Nanchons Petwo**  | *stuff* |
+| **Using Universal Donor** | *stuff* |
+| **Using Forsaken Soul**   | *stuff* |
+| **Using Crise De Lwa**    | *stuff* |
+| **Kill Enemy Hero**       | *stuff* |
+| **Killstreak**            | *stuff* |
+
+---
+
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->

@@ -8,6 +8,7 @@ Created: 2026-10-25
 ---
 
 Brainstorm:
+- Abilities / famous black inks: Iron Gall, Bulletproof, Higgins Eternal
 - 
 
 # Onyx
