@@ -22,12 +22,12 @@ Brainstorm:
 > [!Quote] 
 > "Quote here"
 
-| **Also known as** | *stuff* |
-| ----------------- | ------- |
-| **Gender**        | *stuff* |
-| **Nationality**   | *stuff* |
-| **Ethnicity**     | *stuff* |
-| **Species**       | *stuff* |
+| **Also known as** | *Ink Demon, The Blot* |
+| ----------------- | --------------------- |
+| **Gender**        | *Male*                |
+| **Nationality**   | *Painting*            |
+| **Ethnicity**     | *Painting*            |
+| **Species**       | *Spirit*              |
 
 ### Personal Details
 
@@ -102,6 +102,16 @@ tbd
 
 ## Skills and Abilities
 
+### Ability 1: 
+tbd
+
+### Ability 2: Iron Gall
+Fire an spiked orb of black ink that explodes on impact. 
+
+### Ability 3: Bulletproof
+tbd
+
+### Ability 4: Higgins Eternal
 tbd
 
 ---
@@ -124,7 +134,7 @@ tbd
 
 | **Event**            | *Line*                                         |
 | -------------------- | ---------------------------------------------- |
-| **Hero Select**      | *stuff*                                        |
+| **Hero Select**      | *I will silence them, forever.*                |
 | **Unselect**         | *Ah, a retraction. How very editorial of you.* |
 | **Using Ability 1**  | *stuff*                                        |
 | **Using Abilitiy 2** | *stuff*                                        |
@@ -186,6 +196,10 @@ tbd
 - **Billy**: "What the hell's that supposed to mean?"
 - *Onyx*: "Exactly."
 
+- **Billy**: "So... you read Marx?"
+- *Onyx*: "I will tear out your intestines and beat you to death with them."
+- **Billy**: "Ok then."
+
 #### Venator
 - **Venator**: "Demon."
 - *Onyx*: "If you wish to insult me, you will have to do better."
@@ -201,6 +215,18 @@ tbd
 - **Doorman**: "A surprise to see you here Gura. You are always welcome at the Baroness."
 - *Onyx*: "I have no idea who you are."
 - **Doorman**: "Ah. Apologies, I mistook you for an old... colleague. Please consider staying with us at the Baroness soon."
+
+#### Deadman Danny
+- **Danny**: "Ever thought about working for Fairfax Industries? We offer highly competitive salaries and company insurance!"
+- *Onyx*: "There is no being living or dead in all of history that I despise more than you."
+- **Danny**: "Rude! Though I do respect your honesty."
+
+#### Violet
+- *Onyx*: "(hmph) Unimpressive."
+- **Violet**: "Excuse me?"
+- *Onyx*: "Your work. It's derivative, uninspired."
+- **Violet**: "I have a full ride to school, and I've been featured in multiple galleries."
+- *Onyx*: "It insists upon itself."
 
 ---
 
