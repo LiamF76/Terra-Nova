@@ -102,13 +102,13 @@ tbd
 
 ## Skills and Abilities
 
-### Ability 1: 
+### Ability 1: Bulletproof
 tbd
 
 ### Ability 2: Iron Gall
 Fire an spiked orb of black ink that explodes on impact. 
 
-### Ability 3: Bulletproof
+### Ability 3: Ballpoint Talons
 tbd
 
 ### Ability 4: Higgins Eternal
@@ -237,6 +237,11 @@ tbd
 - *Onyx*: "Only death can pay for life."
 - **Graves**: "Looks like you're going to make a big purchase."
 - *Onyx*: "The last thing anyone in this world will buy. The Truth."
+
+#### Drifter
+- **Drifter**: "Always good to meet a fellow bloodthirsty maniac."
+- *Onyx*: "I am a killer with purpose, I am the pen. You are the sword."
+- **Drifter**: "Whatever helps you sleep at night."
 
 ---
 

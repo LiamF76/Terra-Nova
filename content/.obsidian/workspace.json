@@ -24,17 +24,27 @@
             }
           },
           {
-            "id": "d72aad5c000ba081",
+            "id": "e05fdf1670df7cb4",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Outside Worlds/Deadlock/Onyx.md",
-                "mode": "source",
-                "source": false
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Onyx"
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "CoK Kanban"
             }
           }
         ],
@@ -167,11 +177,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d72aad5c000ba081",
+  "active": "e05fdf1670df7cb4",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Outside Worlds/Deadlock/Revere.md",
     "Outside Worlds/Deadlock/Onyx.md",
-    "Dashboard.md",
     "Terra-Oblivia/Scratch/TO Idea Dump.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Magic/Terra-Oblivia Magic.md",
