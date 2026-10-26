@@ -184,6 +184,11 @@ tbd
 - **Rem**: "Naps first!"
 - *Onyx*: "(laughing) Yes Rem, first we will make them *all* sleep."
 
+- **Rem**: "You are my big brother."
+- *Onyx*: "Technically we are the same age Rem, but thank you."
+- **Rem**: "But you're big, so big brother."
+- *Onyx*: "I suppose you are right. Let's keep this between us though hm? Haze might not be so happy about it."
+
 #### Billy
 - **Billy**: "I heard you killed 4 security guards and 10 cops on your way outta the Met. They had to wipe the blood off half the paintings."
 - *Onyx*: "It was 11 police officers. They shot first. I shot last."
