@@ -234,9 +234,9 @@ tbd
 - *Onyx*: "It insists upon itself."
 
 #### Graves
-- "Only death can pay for life."
-- "Looks like you're going to make a big purchase."
-- "The last thing anyone in this world will buy. The Truth."
+- *Onyx*: "Only death can pay for life."
+- **Graves**: "Looks like you're going to make a big purchase."
+- *Onyx*: "The last thing anyone in this world will buy. The Truth."
 
 ---
 
