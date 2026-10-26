@@ -66,7 +66,7 @@ He is generally well mannered, but when upset he flies into uncontrollable fits 
 
 Onyx desires power and knowledge. He wants to understand magic and the eldritch more than anything, because those are the keys to learning his own origin. It will hunt and kill anyone that stands in its way. Many of the other heroes find Onyx to be tragic, as he was attacked and hated for nothing at birth. 
 
-While Onyx has appreciation for the arts, his magical visions lead him to the goal of painting the world black, and ending all life. He follows this goal reluctantly, but with dedication and effort. Apotheosis awaits him.
+While Onyx has appreciation for the arts, his magical visions lead him to the goal of painting the world black, and ending all life. Onyx is neutral to murder, enjoying killing those he deems evil while deeply regretting having to kill innocents. He follows this goal reluctantly, but with dedication and effort. Apotheosis awaits him.
 
 ---
 
@@ -115,6 +115,7 @@ tbd
 ## Trivia
 
 - Onyx's favorite book is The Wizard of OZ
+- Onyx does not believe in climate change
 - 
 
 ---
