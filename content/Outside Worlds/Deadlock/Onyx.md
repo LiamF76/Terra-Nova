@@ -53,7 +53,7 @@ Brainstorm:
 
 ## Appearance
 
-tbd
+Onyx is a body of pure black ink flowing from a cow's skull. The skull is bleached bone-white with faint hairline cracks. Behind and around it, thin bands of red, white, and blue flicker like the painting’s striped background, but only in his abilities and eye sockets. His body is monstrous with a defined spine and beastly features, looking almost like a werewolf. His arms end in pen-nib fingers, and calligraphic flourishes and half written sentences swirl through his body. When he moves, he leaves wet brushstroke trails that dry and fade.
 
 ---
 
