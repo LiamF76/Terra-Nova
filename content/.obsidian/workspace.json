@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "728a4f964cd70000",
+  "active": "b044c823fb46b463",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Outside Worlds/Deadlock/Vibrato.md",
+    "z Images/Ernest-1792980870558.webp",
     "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/The First Flame.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Birthright.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Shadow of Wings.md",
@@ -248,8 +250,6 @@
     "Terra-Oblivia/Groups/Warbands",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
     "Terra-Oblivia/History & Lore/Lore Books/Blood's Chronicle/The Garden.md",
-    "Terra-Oblivia/History & Lore/Folktales/The Story of the King.md",
-    "Terra-Oblivia/History & Lore/Folktales/The Story of Wolves.md",
     "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Velvet Ink",
     "Terra-Oblivia/History & Lore/Lore Books",
     "z Images/The Acolyte-1792701908877.webp",
@@ -262,7 +262,6 @@
     "z Images/The Acolyte-1792445137329.webp",
     "z Images/The Acolyte-1792442936415.webp",
     "Terra-Oblivia/Campaigns/Untitled",
-    "z Images/Lysander Grave-1792350992570.webp",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
