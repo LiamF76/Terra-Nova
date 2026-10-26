@@ -31,24 +31,24 @@ Brainstorm:
 
 ### Personal Details
 
-| **Born**         | *stuff* |
-| ---------------- | ------- |
-| **Died**         | *stuff* |
-| **Sexuality**    | *stuff* |
-| **Pronouns**     | *stuff* |
-| **Age**          | *stuff* |
-| **Height**       | *stuff* |
-| **Hair**         | *stuff* |
-| **Eyes**         | *stuff* |
-| **Occupation**   | *stuff* |
-| **Affiliations** | *stuff* |
-| **Religion**     | *stuff* |
+| **Born**         | *Within the last 10 years* |
+| ---------------- | -------------------------- |
+| **Died**         | *Not yet.*                 |
+| **Sexuality**    | *Art*                      |
+| **Pronouns**     | *he/it*                    |
+| **Age**          | *10?*                      |
+| **Height**       | *6'8*                      |
+| **Hair**         | *Ink*                      |
+| **Eyes**         | *Barely red / blue*        |
+| **Occupation**   | *Calligraphy*              |
+| **Affiliations** | *stuff*                    |
+| **Religion**     | *No.*                      |
 
 ### Misc
 
-| **Alignment** | *stuff* |
-| ------------- | ------- |
-| **Wish**      | *stuff* |
+| **Alignment** | *Chaotic Evil*                       |
+| ------------- | ------------------------------------ |
+| **Wish**      | *To know / understand why he exists* |
 
 ---
 
@@ -60,13 +60,37 @@ Onyx is a body of pure black ink flowing from a cow's skull. The skull is bleach
 
 ## Personality
 
-tbd
+Onyx is intelligent and thoughtful. He speaks with expertise on painting, music, and architecture. He holds a deep conviction that magic is the ultimate force in the world, and that his origin is tied to the source of all magic itself. He also believes that pursuit of mastery in your chosen field is the only goal, and those who are mediocre (or ok with becoming stagnant) are wastes of the life they have been given. Strive to be better, or die because you refused to grow.
+
+He is generally well mannered, but when upset he flies into uncontrollable fits of rage and violence, often triggered by other's disregard for the goals and purpose of life. He never allows an affront to the arts to go by without calling out the perpetrator. He holds disdain for those without art in their life, no matter your social or economic status. Those who can engage with honesty and artistic vision, are worth conversation and respect.
+
+Onyx desires power and knowledge. He wants to understand magic and the eldritch more than anything, because those are the keys to learning his own origin. It will hunt and kill anyone that stands in its way. Many of the other heroes find Onyx to be tragic, as he was attacked and hated for nothing at birth. 
+
+Onyx despises the ritual, seeing the Patrons as puppeteers who deserve no worship. In granting his wish Onyx will gain the final understanding, and reach his apotheosis to grow beyond this plane. Onyx is so confident in his goal, he believes one day he will rule New York as a magical paradise for the arts, arcane and otherwise.
 
 ---
 
 ## Biography
 
-tbd
+When mystic energy awoke on Earth, the world changed... anything was possible. In the halls of the Metropolitan Art Museum of New York hung a very special painting. 'Cow Skull' by Georgia O'Keefe.
+
+> [!Quote] Cow Skull
+> "This oil painting features a bleached white cow skull centered against a vertical black stripe, framed by blue-and-white accents and red stripes on the edges. O'Keeffe used it partly as a satirical nod to the search for the *Great American Painting*"
+
+In the dawn of magic, that painting was given something truly special. Life. The Skull crashed from the wall as the painting fell, and beneath that skull poured a form of pure black ink. Onyx was born. Unsure of his own true origins, or purpose, Onyx escaped the Museum in... brutal fashion. He had been born with no memory or predisposition to violence, but the bullets against his liquid body and screams of 'monster', had settled his opinion on law enforcement quickly.
+
+Onyx fled into the streets of New York with no name, no memory, and no idea what he was. The city offered him one lesson quickly: anything that bleeds black is something to be afraid of.
+
+He hid wherever the dark was deepest. For weeks he lived in the sewers and drainpipes, slipping through the cracks of the city like a stain nobody could scrub out. Hunger came strangely to him. He wasn't starving for food but for *ink*, and the first time he found it, in the basement of a printing house, he understood that it was more than a meal. He drank from the great presses, and with every drop came words: headlines, poems, advertisements, obituaries, love letters set in type. He learned to read the way other creatures learn to breathe. 
+
+By the time the pressmen found him, he had a vocabulary, a taste for irony, and a name. He had taken it from a label on a bottle of ink: **Onyx**. It sounded like something that was supposed to last.
+
+> [!quote] The Discovery
+> It was in a newspaper review, folded in the corner of a gallery's trash bin, that he found the truth about his creator's intentions. The painting he had been born from was, in part, a *joke*. A satire on the search for the Great American Painting.
+
+He read it a dozen times. Then he laughed, because that was easier than understanding his own shame. For the first time, Onyx felt something that wasn't fear. He wanted to be taken seriously. If he'd been born from a joke, he would become the punchline nobody dared to repeat.
+
+Onyx grew brutal. He killed, he maimed, and he left a pitch-black trail wherever he went. Art is life, and love, and the greatest life and greatest love he can give the world is to paint it all black. In that darkness, he hopes to find apotheosis.
 
 ---
 
@@ -88,15 +112,10 @@ tbd
 
 ---
 
-## Short Story
-
-When mystic energy awoke on Earth, the world changed... anything was possible.
-
----
-
 ## Trivia
 
-tbd
+- Onyx's favorite book is The Wizard of OZ
+- 
 
 ---
 
