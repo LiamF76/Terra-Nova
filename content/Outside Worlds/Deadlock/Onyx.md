@@ -187,7 +187,7 @@ tbd
 - **Rem**: "You are my big brother."
 - *Onyx*: "Technically we are the same age Rem, but thank you."
 - **Rem**: "But you're big, so big brother."
-- *Onyx*: "I suppose you are right. Let's keep this between us though hm? Haze might not be so happy about it."
+- *Onyx*: "I suppose you are right. Let's keep this between us though hm? Haze may not be pleased."
 
 #### Billy
 - **Billy**: "I heard you killed 4 security guards and 10 cops on your way outta the Met. They had to wipe the blood off half the paintings."
