@@ -141,6 +141,27 @@ tbd
 - **Seven**: "Sentiment. It was nothing more than ink to her."
 - *Onyx*: "I shall shed the skull the day you shed the jumpsuit. Until then, apotheosis escapes us both."
 
+#### Abrahams
+- **Abrams**: I see you eyeing it.
+- *Onyx*: "A shame you cannot fathom its secrets, the power it holds."
+- **Abrams**: "You know what this thing is, you can read it?"
+- *Onyx*: " It has nothing left to teach me. You would be wise to abandon it, and enjoy what time you have left, lest you follow that path and reach the same conclusion as I have."
+- **Abrams**: "I'd never turn out like you."
+- *Onyx*: "Of course not. You lack the conviction."
+
+#### Rem
+- **Rem**: "You have awful dreams Onyx."
+- *Onyx*: "I am sorry little one, do yourself a favor and stay far away from my mind."
+- **Rem**: "Do you ever have good dreams?"
+- *Onyx*: "Occasionally Miss Georgia finds me in sleep. It is fleeting, and bittersweet."
+- **Rem**: "Was Miss Georgia your mom?"
+- *Onyx*: "She was a visionary, like myself. Not quite my mother, but almost. Almost."
+
+#### Billy
+- Billy: "I heard you killed 4 security guards and 10 cops on your way outta the Met. They had to wipe the blood off half the paintings."
+- Onyx: "It was 11 police officers. They shot first. I shot last."
+- Billy: "Oh look, its WardenThis ritual is gonna be a breeze."
+
 ---
 
 ## Links
