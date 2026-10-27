@@ -37,7 +37,7 @@ kanban-plugin: board
 
 ## future prep
 
-- [ ] Woodland Rest
+- [ ] [[Woodland Rest]]
 	- green knights castle ruin
 	- knight armor with plants inside monsters
 	- Petlia, The Last Green Knight. Big green tree spirit final boss of the dungeon, spirit?
