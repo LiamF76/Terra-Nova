@@ -8,7 +8,8 @@ kanban-plugin: board
 
 - [ ] [[CoK Session 1 Prep]]
 - [ ] [[CoK Session 1 Notes]]
-- [ ] [[Jade of Two Rivers]]
+- [x] [[Jade of Two Rivers]]
+- [x] [[Rowan's Note to Finch]]
 - [ ] [[The Orichalcum Hourglass]]
 - [ ] Caravan ambush
 - [ ] Rowan murder / investigation
