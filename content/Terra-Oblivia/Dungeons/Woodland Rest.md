@@ -7,6 +7,13 @@ tags:
 Created: 2026-10-27
 ---
 
+Brainstorm:
+- green knights castle ruin
+- entrance guardian: Big stone golem covered in moss, placed there to guard the entrance
+- monster idea: knight armor with plants inside monsters
+- Final boss: Petlia, The Last Green Knight. Big green tree spirit final boss of the dungeon, spirit?
+- 
+
 ## Room 1: Entrance Guardian
 
 #### **TBD**

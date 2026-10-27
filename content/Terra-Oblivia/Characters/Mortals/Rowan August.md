@@ -43,7 +43,6 @@ Rowan is soft spoken, kind, and patient. He speaks slowly not because he is slow
 ## Important Info
 - High Priest of [[Lumena]], earned his position as a healer during The Surge Wars
 - Member of the [[The Devout Assembly]] in [[Citadel]]
-- 
 
 ---
 
