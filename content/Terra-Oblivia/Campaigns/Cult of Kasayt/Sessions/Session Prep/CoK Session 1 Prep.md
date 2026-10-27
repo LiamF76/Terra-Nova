@@ -97,6 +97,7 @@ TBD
 
 DM NOTE: Party meets with Ayla Syros, first to find them with the corpse of Rowan August. She does not assume they are guilty. She does have information:
 - Battle has begun at Bastion with the forces of a Warlord known as Bellum Grail, a follower of Kasayt.
+- The rest of Kasayt's forces are engaged in battle with Daegel Lathir, another warlord. This will either wipe out Kasayt's forces who are significantly weaker, or force them into the Triarch where they will try to hide from the other warlords.
 
 *Set the Scene*: TBD
 
@@ -107,3 +108,10 @@ TBD
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Jade of Two Rivers]]
+- [[Rowan August]]
+- [[The Orichalcum Hourglass]]
+- [[Rowan's Note to Finch]]
+
+<!-- SerializedQuery END -->
