@@ -32,6 +32,15 @@ kanban-plugin: board
 - [x] [[Cult of Kasayt Campaign Primer]]
 - [x] [[The Cult of Kasayt Story Introduction]]
 - [ ] [[CoK Brainstorm]]
+- [ ] [[Acolyte BBEG]]
+
+
+## future prep
+
+- [ ] Woodland Rest
+	- green knights castle ruin
+	- knight armor with plants inside monsters
+	- Petlia, The Last Green Knight. Big green tree spirit final boss of the dungeon, spirit?
 
 
 ## rules
@@ -56,6 +65,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
