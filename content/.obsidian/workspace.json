@@ -24,27 +24,17 @@
             }
           },
           {
-            "id": "e05fdf1670df7cb4",
+            "id": "7bf580cf3b84f880",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
+              "icon": "lucide-file",
+              "title": "The Acolyte"
             }
           }
         ],
@@ -177,9 +167,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e05fdf1670df7cb4",
+  "active": "7bf580cf3b84f880",
   "lastOpenFiles": [
+    "z Images/The Acolyte-1793112644382.webp",
     "Dashboard.md",
+    "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Outside Worlds/Deadlock/Revere.md",
     "Outside Worlds/Deadlock/Onyx.md",
     "Terra-Oblivia/Scratch/TO Idea Dump.md",
@@ -195,7 +188,6 @@
     "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/The First Flame.md",
     "z Images/Ernest-1792980870558.webp",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Birthright.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Shadow of Wings.md",
     "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink/A Unique Rhetoric.md",
@@ -214,8 +206,6 @@
     "Terra-Oblivia/Groups/Cults/Untitled",
     "Terra-Oblivia/Groups/Cults",
     "Terra-Oblivia/Characters/Mortals/Sana Black-Sky.md",
-    "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
-    "Terra-Oblivia/Characters/Dragons/Kasayt.md",
     "z Images/Bellum Grail-1792951453484.webp",
     "z Images/Bellum Grail-1792944349245.webp",
     "Terra-Oblivia/Groups/Warbands",

@@ -10,7 +10,9 @@ Created: 2026-10-19
 
 # The Acolyte
 
-![[The Acolyte-1792701908877.webp|400]]
+| The Acolyte                              | Aspect of the Acolyte                    |
+| ---------------------------------------- | ---------------------------------------- |
+| ![[The Acolyte-1792701908877.webp\|400]] | ![[The Acolyte-1793112644382.webp\|400]] |
 
 ---
 
@@ -28,6 +30,9 @@ The Acolyte whispers with the force of a Dragon's voice. He speaks with the powe
 
 > [!quote]
 > "So long as I carry Kasayt's flame, no man can kill me."
+
+> [!Quote]
+> "All power in this world belongs to those who can take it, and Kasayt shall have everything."
 
 ---
 
