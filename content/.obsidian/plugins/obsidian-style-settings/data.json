@@ -89,5 +89,19 @@
   "halftone@@hf-centre-title": true,
   "halftone@@hf-gaps": true,
   "halftone@@hf-no-dots": false,
-  "halftone@@hf-no-crop-marks": false
+  "halftone@@hf-no-crop-marks": false,
+  "ulu-theme-settings@@ulu-font-general": "satoshi",
+  "ulu-theme-settings@@ulu-accent-bold-italic": true,
+  "ulu-theme-settings@@ulu-serif-italic": true,
+  "ulu-theme-settings@@ulu-duo-tag": false,
+  "ulu-theme-settings@@ulu-rough-highlight": true,
+  "ulu-theme-settings@@ulu-colorfo-headings": true,
+  "encore-settings@@encore-translucency-background": "encore-bg-image",
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-mobile-oled-mode": false,
+  "encore-settings@@encore-bright-accent": false,
+  "encore-settings@@encore-disable-logo-on-hr": true,
+  "tela@@tela-distinct-sidebar": true,
+  "tela@@tela-dim-images": false,
+  "tela@@tela-tinted-italics": true
 }

@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: CoK Session 1 Prep
 aliases:
 tags:
   - Terra-Oblivia
@@ -10,19 +10,7 @@ Session Date:
 ---
 
 ### Brainstorm:
-- A caravan is bringing an artifact of the Green Knights to Citadel for study *BUT* they are ambushed on the road by Sana's minions **THEREFORE** the party has to stop the ambush somehow (fight, grab artifact and flee, help escort of artifact escape, etc).
-- Artifact: Brass ring with cared jade around it, about 1ft diameter tail to tail.
-- The party was invited to meet with Rowan *BUT* they find Rowan dead with a massive battleaxe having cut them in half (curse magic weapon still there, his locket still around his neck) **THEREFORE** the party has to decipher why they were killed by looking their their notes. Stuff they learn from Rowan
-	- *Green Knights*. 3 Clues in notes:
-		- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
-		- 2. Notes reference the wooden fortress
-		- 3. Logbook shows he gathered supplies regularly at a small town outside a TBD NAME forest
-	- *Demonic Tome*. 3 Clues in notes:
-		- The door is physical, the key is not
-		- The door rests within a building made to be like a mountain
-		- A reminder that wizards take security very seriously
-	- *Rowan's Amulet*. Magical locket, a note tied to the chain says the locket is the key, it is the only way to stop Kasayt, but it cannot stay in Citadel, because Kasayt's minions will be hunting for it.
-	- *A letter to Arzen*: A letter to someone named Arzen who appears to be a scholar on the occult. Never heard of this person before, it's an eastern name, possibly an elf from Walima. They appear to have been corresponding for quite some time, and Rowan was asking for more information about a 'Stone King'.
+- 
 
 ---
 
@@ -34,9 +22,11 @@ DM NOTE: Party is traveling back to Citadel after getting an artifact and doing 
 
 *Set the Scene*: Cold wind blows through the valley in mid fall as you return to Citadel.
 
+The Artifact: [[Jade of Two Rivers]]
+
 TBD
 
-**Enemies**: 
+**Enemies**: 1x [Orc veteran](https://2e.aonprd.com/NPCs.aspx?ID=3130), 2x [Vampire bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=2848)
 
 ---
 
@@ -46,9 +36,15 @@ TBD
 
 DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead with a massive battleaxe having cut him in half (cursed magic weapon still there, his locket still around his neck with a note attached)
 
-*Set the Scene*: TBD
+*Set the Scene*: Rowan's study awaits down the hall, but before you reach the stone archway that opens to the High Priest's library, another door catches your eye. Slightly open, the door to Rowan's room beckons you inside, no light, but a faint trail of liquid running out from a pool under the door. It is blood. 
+Inside his simple priestly accommodations are stained with horror, as you see his body collapsed leaning against the back wall, his head cleaved from his shoulders and laying beside his body, and a massive battleaxe still embedded in the bricks behind where his neck used to be.
 
 TBD
+
+- *Thread A*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
+	- Rowan's Amulet of Lumena, it is a small gold locket with a sun design on it. He always wears it.
+	- There is a small piece of paper tied around the necklace, barely peaking over his shirt collar.
+	- [[Rowan's Note to Finch]]
 
 ---
 
@@ -62,21 +58,22 @@ DM NOTE: Rowan's assistant invites the party with Finch to Rowan's study, as he 
 
 TBD
 
-- *Thread A*: **The Green Knights**
+- *Thread B*: **The Green Knights**
 	- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
 	- 2. Notes reference the wooden fortress
 	- 3. Logbook shows he gathered supplies regularly at a small town outside Silver Spruce Forest (forest that has a silver spruce tree)
-- *Thread B*: **The Demonic Tome**
+- *Thread C*: **The Demonic Tome**
 	- The door is physical, the key is not
 	- The door rests within a building made to be like a mountain
 	- A reminder that wizards take security very seriously
-- *Thread C*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
-	- Magical locket, a note tied to the chain says the locket is the key, it is the only way to stop Kasayt, but it cannot stay in Citadel, because Kasayt's minions will be hunting for it. 
-	  'This amulet is the key Finch. Protect it, do not let it remain in Citadel, they will be hunting for it. Let the light of the new star guide you home.'
-- *Thread D*: **Letter to Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
+- *Thread D*: **Letters to/from Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
 	- A letter to someone named Arzen who appears to be a scholar on the occult. Never heard of this person before, it's an eastern name, possibly an elf from Walima. They appear to have been corresponding for quite some time.
 	- Rowan was asking for more information about a 'Stone King'. They had been studying accounts if its whereabouts, scattered through history, rumor, and stories. Arzen's last communication indicates if the Stone King is anywhere on Escharra, it is likely in the Triarch.
 	- Arzen appears to DEMAND the location of something called 'Min Jadid' (translates to Reborn, this is in Celestial, it's Finch), which Rowan promised previously but so far has not delivered. 
+- *Thread E*: **What is missing**
+	- Despite all of the foundational information, the location of the Tome, and the Green Knights, is mysteriously missing. If it was here, it has been taken.
+
+**GM Hooks**: Leads them to look into either a wizard tower or some Green Knights ruins in Silver Spruce forest.
 
 ---
 
@@ -84,7 +81,7 @@ TBD
 
 #### **TBD**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Blood cube left behind to kill whoever found Rowan's body, it turns into a blood monster or something and attacks,
 
 *Set the Scene*: TBD
 
@@ -98,7 +95,9 @@ TBD
 
 #### **TBD**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: Party meets with Ayla Syros, first to find them with the corpse of Rowan August. She does not assume they are guilty. She does have information:
+- Battle has begun at Bastion with the forces of a Warlord known as Bellum Grail, a follower of Kasayt.
+- The rest of Kasayt's forces are engaged in battle with Daegel Lathir, another warlord. This will either wipe out Kasayt's forces who are significantly weaker, or force them into the Triarch where they will try to hide from the other warlords.
 
 *Set the Scene*: TBD
 
@@ -109,5 +108,10 @@ TBD
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Jade of Two Rivers]]
+- [[Rowan August]]
+- [[The Orichalcum Hourglass]]
+- [[Rowan's Note to Finch]]
 
-#Terra-Oblivia
+<!-- SerializedQuery END -->

@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: CoK Brainstorm
 aliases:
 tags:
   - Terra-Oblivia
@@ -9,7 +9,16 @@ Created: 2026-10-13
 
 # Brainstorm
 
-- Aldred -> Arzen is an old God cultist trying to get back what he lost / understand himself, He runs a group called the Emissaries of Opus Dei, 'Emissaries of God's Work', in Walima. He is researching the Old Gods in secret, and has communicated with Rowan on multiple occasions. They were both researching the Stone King.
+- ==BUT, THEREFORE==
+- Aldred -> Arzen is an old God cultist trying to get back what he lost / understand himself, He runs a group called [[The Emissaries of Opus Dei]], 'Emissaries of God's Work', in Walima. He is researching the Old Gods in secret, and has communicated with Rowan on multiple occasions. They were both researching the Stone King.
+- **The DM is a PC too.**
+	- Who am I playing as in this campaign? Hartwyn Syros / The Acolyte. He is the character I embody as the enemy of the heroes. I must react as he does, and learn as he does.
+- How did Hartwyn bond to the orb of Kasayt? He discovered / was given something by Arzen. Something of the ancient world. What is it, and what does it say about Arzen?
+	- Fragment of Kronos's temporal prison pyramid that allows The Acolyte tot maintain Kasayt's soul in stasis and not die
+- What does The Acolyte need to make Kasayt a God?
+	- The Stone King
+	- Kasayt's Orb / soul
+- Kasayt is the soul of Adrithyr reborn
 - 
 
 ---
@@ -19,17 +28,15 @@ Created: 2026-10-13
 ## Levels of Play / BBEGs:
 
 - *1-5*: **[[Sana Black-Sky]]**
-- *5-8*: **Lord Ryuu Doran**
-- *8-12*: **[[Bellum Grail]]**
-- *12+*: **[[Hartwyn Syros]]/ Kasayt**
+- *5-8*: **[[Bellum Grail]]**
+- *8-12*: **[[The Acolyte]]/ [[Kasayt]]**
 
 ## BBEGs
 
 - **Kasayt the Red Dragon**: Powerful Red Dragon of Ashkarad. 
-- *Priest*: **[[Hartwyn Syros]]**. Human Priest of Kasayt in Ashkarad. Brother of Ayla Syros. Serves Kasayt having been kidnapped from the Triarch in a raid as a child, and raised to worship Kasayt. Staunch believer in Dragon Supremacy. Hartwyn wants to revive and mantle Kasayt because Kasayt has promised his sister can be with him again and join the Cult if he is loyal.
+- *Priest*: **[[The Acolyte]]**. Human Priest of Kasayt in Ashkarad. Brother of Ayla Syros. Serves Kasayt having been kidnapped from the Triarch in a raid as a child, and raised to worship Kasayt. Staunch believer in Dragon Supremacy. Hartwyn wants to revive and mantle Kasayt because Kasayt has promised his sister can be with him again and join the Cult if he is loyal.
 - *Warlord 1*: **[[Sana Black-Sky]]**. Elf, Demon powers / Bloodstone, can turn followers into blood magic mutants. Bloodstone amulet gives them the Demon Powers.
-- *Warlord 2*: **Bellum Grail**. Human, Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
-- *Warlord 3*: **Lord Ryuu Doran**. Dragonborn, Dragon Knight with fire powers. Bonded with the po
+- *Warlord 2*: **[[Bellum Grail]]**. Human, Spirit Powers stolen from the Great Spirit who defended the Triarch. Magic ring gives them the Spirit powers.
 
 ---
 
@@ -42,7 +49,7 @@ Act 1:
 - uncover secrets of the Green Knights in relation to the Stone King
 - **Dramatic Question**: Can the heroes find the location of the Stone King, and protect / destroy the Formless Tower before Sana reaches both and obtains the demonic power of the Stone King?
 
-## BBEG Stuff
+## Sana Black-Sky Stuff
 
 - **BBEG**: [[Sana Black-Sky]]
 - **Additional Baddies**: [[Kasayt]], Hartwyn Syros
@@ -64,13 +71,9 @@ Act 1:
 
 ---
 
-## The Beginning
+# Act 2
 
-Ideas:
-- mention Rowan good NPC priest a few times, as someone the party has been sent to meet. Show they are faithful, and good. Someone they should meet with soon, and can trust.
-- As fall begins, people are calling it a peace time, as there have been significantly less monsters in the valley over this summer
 
-#### BUT THEREFORE:
 
 ---
 

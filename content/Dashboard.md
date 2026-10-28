@@ -25,7 +25,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 # Terra-Oblivia
 
 > [!note] Terra-Oblivia Worldbuilding
-> ## [[CoK Kanban]] | [[Terra-Oblivia Kanban]] | [[TO Idea Dump]]
+> ## [[CoK Kanban]] | [[Terra-Oblivia Kanban]] | [[TO Idea Dump]] | [[Order of Events.canvas]] | [[Terra-Oblivia Lore Books Kanban]]
 
 > [!note] Encounter Ideas
 > ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
@@ -42,7 +42,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 # Pentium Realm
 
 > [!note] Pentium Realm
-> ##  [[Pentium Realm Kanban]] | 
+> ##  [[Pentium Realm Kanban]] | [[Pentium Realm Brainstorm]]
 
 ---
 

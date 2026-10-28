@@ -40,7 +40,6 @@ Elf female, 5'9, slender build. Ayla wears a vast set of Priestess robes almost 
 ## Important Info
 - High Priestess of [[Krokha Inam]]
 - Member of [[The Devout Assembly]]
-- 
 
 ---
 

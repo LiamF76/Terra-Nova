@@ -25,3 +25,7 @@ Gravebinder Maro Illuman again!
 Obsidian has a bunch of built-in types beyond `[!note]`: `[!tip]`, `[!warning]`, `[!danger]`, `[!quote]`, `[!faq]`, `[!example]`, `[!abstract]`, `[!success]`, `[!question]`, `[!failure]`, `[!bug]`, `[!todo]`.
 
 They're **foldable**: `> [!note]- Title` (collapsed by default) or `> [!note]+ Title` (expanded). Great for spoiler-hiding or optional deep-lore asides.
+
+
+> [!note] Note
+> This is a note.

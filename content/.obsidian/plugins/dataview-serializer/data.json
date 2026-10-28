@@ -9,5 +9,7 @@
   "debugLogging": false,
   "addTrailingNewline": false,
   "linkFormat": "obsidian",
-  "enableDataviewJS": true
+  "enableDataviewJS": true,
+  "skipQueriesWithUnresolvedReferences": true,
+  "updateQueriesOnRename": true
 }

@@ -40,7 +40,6 @@ Lysander has a strange tone, speaking slowly to those he believes less intellige
 ## Important Info
 - High Priest of [[Vespar Telarum]]
 - Member of [[The Devout Assembly]]
-- 
 
 ---
 
