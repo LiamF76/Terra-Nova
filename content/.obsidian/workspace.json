@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "210cfbaafea35de0",
+            "id": "2b54f4936b8806cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -206,16 +206,17 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "210cfbaafea35de0",
+  "active": "2b54f4936b8806cd",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
-    "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Acolyte BBEG.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
+    "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Acolyte BBEG.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Dashboard.md",
     "z Images/The Acolyte-1793205839444.webp",
     "z Images/The Acolyte-1793205837163.webp",
