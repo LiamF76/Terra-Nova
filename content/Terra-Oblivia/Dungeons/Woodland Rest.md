@@ -15,7 +15,7 @@ Brainstorm:
 
 ## Room 1: Entrance Guardian
 
-#### **TBD**
+#### **The Golem Protector**
 
 ![[Woodland Rest-1793193652599.webp|400]]
 
