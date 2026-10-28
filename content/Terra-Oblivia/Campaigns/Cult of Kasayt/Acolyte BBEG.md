@@ -9,13 +9,15 @@ Created: 2026-10-27
 
 - **BBEG**: [[The Acolyte]] / [[Kasayt]]
 - *Goal*: 
-	- Make Kasayt a living God.
+	- Make Kasayt a living God. Steps / parts required
 		- Find the Stone King, need it's blood magic / demon soul to fuel Kasayt's ascension
-		- Restore Kasayt's essence before the ritual, requires the killing of a Great Spirit to absorb into Kasayt's orb
 		- Needs to find the demonic / abyssal ritual tome to learn how to make Kasayt a god (The Formless Tower)
+		- Restore Kasayt's essence before the ritual, requires the killing of a Great Spirit to absorb into Kasayt's orb
 - *Timeline*: 
 - *What is stopping them*: 
 	- Doesn't know where the Stone King is besides that it is somewhere in [[The Triarch]].
+	- Doesn't know where the ritual (The Formless Tower) demonic tome is
+	- Has to amass enough power to kill a Great Spirit
 - *What happens if they succeed*: 
 	- 
 - *What happens if they fail*: 
