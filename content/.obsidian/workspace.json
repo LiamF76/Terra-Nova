@@ -22,31 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "45832ac633d2120a",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +162,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "45832ac633d2120a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Lysander Grave.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Characters/Mortals/Lysander Grave.md",
+    "Lysander Grave.md",
     "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Characters/Mortals/Rowan August.md",
@@ -232,7 +210,6 @@
     "- Aldred is an old God cultist trying tog et back what he lost, TIE IN TO HUNTER'S CHARACTER MEET HIM AND HE IS AN ALLY BUT A SKETCHY ONE.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
     "Terra-Oblivia/Characters/Gods/Oa Maton.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
     "Arkfall/Cosmology/Old Arkfall Map.canvas",
     "Arkfall/Cosmology/Arkfall Map.canvas",
