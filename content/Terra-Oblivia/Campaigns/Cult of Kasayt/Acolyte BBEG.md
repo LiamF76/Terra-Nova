@@ -9,6 +9,8 @@ Created: 2026-10-27
 
 - **BBEG**: [[The Acolyte]] / [[Kasayt]]
 - *Goal*: 
+	- Make Kasayt a living God.
+	- Find the Stone King
 	- 
 - *Timeline*: 
 - *What is stopping them*: 
