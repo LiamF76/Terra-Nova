@@ -10,9 +10,9 @@ Created: 2026-10-19
 
 # The Acolyte
 
-| The Acolyte                              | Aspect of the Acolyte                    | Wyvern                                   |
+| The Acolyte                              | Aspect                                   | Wyvern                                   |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| ![[The Acolyte-1792701908877.webp\|400]] | ![[The Acolyte-1793112644382.webp\|400]] | ![[The Acolyte-1793201893099.webp\|400]] |
+| ![[The Acolyte-1792701908877.webp\|400]] | ![[The Acolyte-1793205839444.webp\|400]] | ![[The Acolyte-1793201893099.webp\|400]] |
 
 ---
 
