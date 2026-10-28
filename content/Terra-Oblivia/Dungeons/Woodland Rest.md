@@ -19,7 +19,7 @@ Brainstorm:
 
 ![[Woodland Rest-1793193652599.webp|400]]
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: The entrance to the ruins is guarded by an ancient golem.
 
 *Set the Scene*: TBD
 
