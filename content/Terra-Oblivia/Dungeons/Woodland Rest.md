@@ -31,9 +31,9 @@ TBD
 
 ## Room 2: Puzzle or Roleplaying Challenge
 
-#### **TBD**
+#### **The Tenian Oath**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: The way forward is blocked by a magical statue door. In order to pass by they must speak the Tenian Oath, the sacred oath of the Green Knights. The oath is somewhere in the room so they can find it.
 
 *Set the Scene*: TBD
 
@@ -55,7 +55,7 @@ TBD
 
 ## Room 4: Climax, Big Battle
 
-#### **TBD**
+#### **The Last Green Knight**
 
 ![[Woodland Rest-1793193681650.webp|400]]
 
