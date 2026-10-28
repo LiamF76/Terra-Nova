@@ -12,11 +12,12 @@ Brainstorm:
 - entrance guardian: Big stone golem covered in moss, placed there to guard the entrance
 - monster idea: knight armor with plants inside monsters
 - Final boss: Petlia, The Last Green Knight. Big green tree spirit final boss of the dungeon, spirit?
-- 
 
 ## Room 1: Entrance Guardian
 
 #### **TBD**
+
+![[Woodland Rest-1793193652599.webp|400]]
 
 DM NOTE: Describe the encounter / overview of the room
 
@@ -55,6 +56,8 @@ TBD
 ## Room 4: Climax, Big Battle
 
 #### **TBD**
+
+![[Woodland Rest-1793193681650.webp|400]]
 
 DM NOTE: Describe the encounter / overview of the room
 
