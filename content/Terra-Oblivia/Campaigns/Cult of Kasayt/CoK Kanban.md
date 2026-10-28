@@ -40,6 +40,7 @@ kanban-plugin: board
 
 - [ ] [[Woodland Rest]]
 - [ ] [[Calder]]
+- [ ] [[Astor]]
 
 
 ## rules

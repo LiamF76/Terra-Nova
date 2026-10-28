@@ -9,13 +9,13 @@ Created: 2026-10-15
 
 # Astor
 
-![[Astor-1792103525074.webp|300x260]]
+![[Astor-1793214359042.webp|400]]
 
 ---
 
-## Name
+## Astor
 titles, epithets
-*Pronouns*: 
+*Pronouns*: he/him
 
 ---
 
