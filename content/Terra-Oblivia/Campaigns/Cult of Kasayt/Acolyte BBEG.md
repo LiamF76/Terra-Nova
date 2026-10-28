@@ -18,6 +18,8 @@ Created: 2026-10-27
 - *What happens if they fail*: 
 	- 
 - *What power do they carry*: 
+	- Power of Kasayt, bonded to the orb that holds Kasayt's essence, carries the shadowed flame and draconic magics from Kasayt. Can summon spirits of shadow and flame, cast fire magics, enhanced strength and speed
+	- Rides a red wyvern that can breathe fire
 	- 
 
 ---
