@@ -2,6 +2,7 @@
 publish: true
 title: The Cult of Kasayt Story Introduction
 aliases:
+  - The Cult of Kasayt Trailer
 tags:
   - Terra-Oblivia
 Created: 2026-10-15

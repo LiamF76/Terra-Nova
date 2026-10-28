@@ -1,12 +1,24 @@
 ---
 publish: false
-title:
+title: Acolyte BBEG
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-10-27
 ---
 
-write here
+- **BBEG**: [[The Acolyte]] / [[Kasayt]]
+- *Goal*: 
+	- 
+- *Timeline*: 
+- *What is stopping them*: 
+	- 
+- *What happens if they succeed*: 
+	- 
+- *What happens if they fail*: 
+	- 
+- *What power do they carry*: 
+	- 
 
 ---
 

@@ -29,9 +29,9 @@ kanban-plugin: board
 
 ## Misc
 
-- [ ] [[CoK Player Characters]]
 - [x] [[Cult of Kasayt Campaign Primer]]
 - [x] [[The Cult of Kasayt Story Introduction]]
+- [ ] [[CoK Player Characters]]
 - [ ] [[CoK Brainstorm]]
 - [ ] [[Acolyte BBEG]]
 
