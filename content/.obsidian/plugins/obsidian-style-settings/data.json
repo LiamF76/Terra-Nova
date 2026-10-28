@@ -100,5 +100,8 @@
   "encore-settings@@encore-fancy-headers": true,
   "encore-settings@@encore-mobile-oled-mode": false,
   "encore-settings@@encore-bright-accent": false,
-  "encore-settings@@encore-disable-logo-on-hr": true
+  "encore-settings@@encore-disable-logo-on-hr": true,
+  "tela@@tela-distinct-sidebar": true,
+  "tela@@tela-dim-images": false,
+  "tela@@tela-tinted-italics": true
 }
