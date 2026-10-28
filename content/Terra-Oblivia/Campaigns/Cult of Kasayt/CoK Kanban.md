@@ -39,6 +39,7 @@ kanban-plugin: board
 ## future prep
 
 - [ ] [[Woodland Rest]]
+- [ ] [[Calder]]
 
 
 ## rules
