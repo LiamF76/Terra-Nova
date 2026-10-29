@@ -27,13 +27,13 @@ kanban-plugin: board
 - [x] [[Ayla Syros]]
 
 
-## Misc
+## Campaign Overview
 
 - [x] [[Cult of Kasayt Campaign Primer]]
 - [x] [[The Cult of Kasayt Story Introduction]]
+- [x] [[Acolyte BBEG]]
 - [ ] [[CoK Player Characters]]
 - [ ] [[CoK Brainstorm]]
-- [ ] [[Acolyte BBEG]]
 
 
 ## future prep
