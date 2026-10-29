@@ -62,7 +62,7 @@ TBD
 
 ![[Woodland Rest-1793282707754.webp|500]]
 
-DM NOTE: Boss battle against a spirit knight, [[Calder]]. Underground glade 
+DM NOTE: Boss battle against a spirit knight, [[Calder]]. Underground glade with a single sacred tree in ankle high water. 
 
 *Set the Scene*: TBD
 

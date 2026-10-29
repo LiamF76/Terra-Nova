@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Dungeons/Woodland Rest.md",
+                "file": "Terra-Oblivia/Characters/Spirits/Calder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Woodland Rest"
+              "title": "Calder"
             }
           }
         ],
@@ -195,6 +195,7 @@
   },
   "active": "616a3c2dd6151aa2",
   "lastOpenFiles": [
+    "Terra-Oblivia/Dungeons/Woodland Rest.md",
     "z Images/Woodland Rest-1793282707754.webp",
     "z Images/Woodland Rest-1793282595497.webp",
     "z Images/Woodland Rest-1793282491840.webp",
@@ -229,9 +230,7 @@
     "z Images/The Acolyte-1793201893099.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/The Cult of Kasayt Story Introduction.md",
     "Terra-Oblivia/Characters/Mortals/Hartwyn Syros.md",
-    "Terra-Oblivia/Dungeons/Woodland Rest.md",
     "z Images/Calder-1793198741773.webp",
-    "z Images/Woodland Rest-1793193681650.webp",
     "Terra-Oblivia/Dungeons",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn",
     "Terra-Oblivia/Groups/Cults/Untitled",
