@@ -38,7 +38,7 @@ TBD
 
 DM NOTE: The way forward is blocked by a magical statue door. In order to pass by they must speak the Tenian Oath, the sacred oath of the Green Knights. The oath is somewhere in the room so they can find it.
 
-*Set the Scene*: TBD
+*Set the Scene*: A round hall, its roof fallen in, with daylight and weeds pouring through the gap. At the far end stands a stone women clad in robes with both hands pressed to a sealed door, head bowed. Faded murals cover the walls, and moss has crept into the carved words beneath them.
 
 TBD
 

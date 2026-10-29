@@ -22,11 +22,16 @@ DM NOTE: Party is traveling back to Citadel after getting an artifact and doing 
 
 *Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. 
 
-The Artifact: [[Jade of Two Rivers]]
+Whurnoud, the stout and reliable Dwarf that has been accompanying you along the journey Finch, notices your gaze lazily wandering as the wagon rides along. 
+"Would you like to drive Sir? A holy and good thing it is to help an old Dwarf with tired hands." His eyes dart back and forth to you, wanting mostly to involve you and not really caring about his own hands.
 
-TBD
+As the wagon passes into a small ravine, the hills on either side feel dark, and the terrible shriek of beasts consumes your ears. Swarms of bats, glowing red eyes and gnashing teeth, alongside a well tested Orc warrior come crashing down around you! Roll initiative!
+
+As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel. A massive black battleaxe fixed to their back.
 
 **Enemies**: 1x [Orc veteran](https://2e.aonprd.com/NPCs.aspx?ID=3130), 2x [Vampire bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=2848)
+
+The Artifact: [[Jade of Two Rivers]]
 
 ---
 
