@@ -3,6 +3,7 @@ publish: false
 title:
 aliases:
 tags:
+  - Terra-Nova
 ---
 
 ## Raid Boss Ideas

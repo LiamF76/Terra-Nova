@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Also commonly referred to as Ascended Vampires, Elder Vampires are a subsection of regular Vampires, and they are only produced by very specific means. While anyone can become a vampire, you must be born from an Elder Vampire to become one.
 Elders are essentially just regular vampires with some exceptions:
 - Enhanced senses

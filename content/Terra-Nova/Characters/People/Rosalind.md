@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Rosalind Shadowfrost
 
 Voice: dark femme fatale

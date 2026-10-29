@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 27th October, Year 30301, Third Age
 Training progresses well, Zyrathia tells me the scar will soon open, and my augmentations can begin. Catherine is disloyal at best, and my reliance on her to survive must be rectified if Arkonil is to survive, should Catherine need to be removed. My skill with the blade has progressed father than I ever believed I was capable. As much as I despise its necessity, I would like to test myself against a worthy opponent soon. 

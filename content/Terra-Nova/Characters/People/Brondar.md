@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Brondar Silkhammer, "The Maker"
 
 Voice: typical dwarf, slightly more sophisticated, always scratching his beard, "If anyone can work that metal it's me. Give it here Lass I'll see what I can do."

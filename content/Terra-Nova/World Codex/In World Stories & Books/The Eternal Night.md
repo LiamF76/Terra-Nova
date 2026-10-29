@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 I can tell you of the great darkness. There is [[Terra-Nova/Characters/Extraplanar/Gods/Balthazaar]], the Night serpent, the God who fought his brothers and sisters and lost, imprisoned in the Abyss, but his power was not gone from this world. The greatest evil in history rose from the serpent's power, The Hand of Eternal Night. 
 
 Thaldrax the dark mage called out to the darkness, not the evil of [[Terra-Nova/Characters/Extraplanar/Gods/Balthazaar]], or the hatred of Arkonil, but to the deep. The pit beneath hell itself, and when Thaldrax called, it answered. The shadows and chaos called him down, down to the depths of creation, so he went.

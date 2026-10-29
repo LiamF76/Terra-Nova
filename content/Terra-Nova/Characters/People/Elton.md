@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Elton Stardust, (Stage name, real name is John), "The Star"
 
 Voice: Elton john little bit of the British accent, "Hey baby! Oh you look marvelous, simply stunning."

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 Antiques and Uniques is a magic item shop owned by Li Wei, an elf from Lazarus, the far eastern land. He is obsessed with golems and dungeons, believing the two to be the most wonderful things in the world! He got into the magic item game to deal with more adventurers who traverse dungeons. 
 

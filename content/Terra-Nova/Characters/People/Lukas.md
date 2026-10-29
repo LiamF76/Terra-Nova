@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Prince Lukas Realmcrest, The Thunderlord, He who walks with the storm
 
 Voice: typical medieval man, Jamie Lannister, very self confident and overexcited, but not rude, "If anyone can take him, it's us.", "The Storm is MINE to command! The Sky is MY DOMAIN!"

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 In the beginning there was Shao and Khal. Khal created the soul, the inner, the truth of life and emotion. Shao gave shape to everything that was shapeless. This enraged Khal, binding his soul to shapes, to matter, to flesh.
 Khal promised to set free his creation of soul. Shao promised to stop Khal, and in the ultimate heresy, Shao bound Khal's soul to the home of all mass, Terra-Nova. 
 Khal Invoked the last rule of their game of music, only known as "The Law of Ytragof". 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Vaior the Watcher, God of Time
 
 Voice: never speaks, communicates through pure telepathic thought

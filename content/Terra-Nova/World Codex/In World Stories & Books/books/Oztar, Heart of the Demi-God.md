@@ -1,1 +1,5 @@
+---
+tags:
+  - Terra-Nova
+---
 Once the heart of the demi-god son of Fulgrim, Giesor, now this magic artifact holds the power of the semi divine in its black husk. 

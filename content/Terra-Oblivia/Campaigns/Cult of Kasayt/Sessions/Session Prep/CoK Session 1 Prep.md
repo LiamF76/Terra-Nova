@@ -20,7 +20,7 @@ Session Date:
 
 DM NOTE: Party is traveling back to Citadel after getting an artifact and doing a healing mission near Bastion. Less than half a day's ride from the Capital, they are ambushed on the road.
 
-*Set the Scene*: Cold wind blows through the valley in mid fall as you return to Citadel.
+*Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. 
 
 The Artifact: [[Jade of Two Rivers]]
 

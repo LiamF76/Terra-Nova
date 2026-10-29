@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Lord Tlaloc of Redsong, the Red Warlock
 
 Voice: Saruman, high society and ingrained upper class person, "We push forward not because we can, but because we must. The limits of magic must not be respected, but tested, and broken."

@@ -2,6 +2,8 @@
 publish: true
 title: Zaltana
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ![[Zaltana Maram-1775958470488.webp|500x635]]

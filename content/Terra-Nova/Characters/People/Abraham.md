@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ![[image-11.webp|500x874]]

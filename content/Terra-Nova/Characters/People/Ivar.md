@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Ivar the Uncrowned
 
 Voice: gruff soldier type, "It's a war, people die, let's just try to make sure it's as little people as possible."

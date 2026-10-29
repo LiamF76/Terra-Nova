@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
  
  An ancient abyssal ritual said to be able to seal objects, creatures, and even souls in stone for eternity. Designed by the brilliant Abyss Mage, Qithtar the Black, known for his ability to walk the Abyss without mutation or corruption.
  

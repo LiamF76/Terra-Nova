@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: The One Who Casts, Towc (T-ow-k)
 
 Voice: inquisitive, almost like a child, slightly higher pitched, "What was that? A spell you cast? Can you do it again? Why? Why? Why?"

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "[\"publish\": false] tag:#Terra-Oblivia  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 384,
-  "scale": 1.0897025402541993,
-  "close": false
+  "scale": 0.2430917974114821,
+  "close": true
 }

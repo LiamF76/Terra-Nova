@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 In your sleep you begin to have a vivid dream.
 You see a village, a small town of simple people, and it is burning. You stand outside the village beside King Adrithyr. Before you there is a child, you cannot see it, yet you feel a hand around her, holding her tightly, a hug. The child looks up at you and says, "What is Elysium? My mother said I would get to go there one day."
 Adrithyr reaches his hand out and offers you his forces. As his hand reaches out you feel the hand around the child, a young girl, move from a hug to lightly holding her by the throat.

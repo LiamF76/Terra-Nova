@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ![[TBD-1776545101159.webp|500x630]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 ### The Game of Music: The Genesis of the World
 
 In the beginning, there was nothing but the void, an infinite expanse of emptiness. Within this void existed two primordial beings, the original minds: Shao Daraan, the Creator, and Khal Daraan, the Destroyer. These ancient entities were the embodiments of life and lifelessness, order and chaos, creation and destruction. They were the cosmic opposites, bound together in an eternal balance.

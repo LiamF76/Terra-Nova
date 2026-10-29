@@ -2,6 +2,8 @@
 publish: false
 title: Echo of the Guardian
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ![[Echo of the Guardian-1783729533068.webp|500x656]]

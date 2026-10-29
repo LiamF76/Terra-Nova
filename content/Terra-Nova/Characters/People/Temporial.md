@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Temporial Chronoscale, Son of Daraan
 
 Voice: wolf from league, disembodied angry beast, "The hunger never ends! Trapped TRAPPED HERE!"

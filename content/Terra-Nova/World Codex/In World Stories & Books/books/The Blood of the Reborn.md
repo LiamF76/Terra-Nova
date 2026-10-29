@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 By: **Sylvar Laethire**, First Mage of Atlas and Keeper of the Forbidden Tomes, Chief Demonologist of the Academy of Luminescent Words.
 
 When researching demons and their nature one must understand the difference between the born and reborn, that is to say, the difference between those creatures native to the Abyss, and those who have been molded to it. Voracia, once known as Iselene the Maiden of Healing, has heralded a process by which many have gone on to become demons, when their original state was not such.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 The Lightbearer, a demi-god grandson of Calina and Lazarus, the most legendary mortal in all of history. To say the bar was set high is a great understatement. Augustus was raised in Akash, one of the continents beyond Konduell. He inherited the throne from his late father Titus, who had ruled for approximately 60 years. His family tree is... compact. Calina married Lazarus, and had Titus, who married Titus, her own son, and gave birth to Augustus. People throughout the empire refer to her as the "God Empress", or "Eternal Mother". 
 
 Titus was not regarded in the same light as his father and son. He was an addict, he played cards, drank, and did all manner of other debaucheries. At the age of 14 Augustus found his father dead on the steps of the castle, many believe he did it, the official story is that Titus passed from an overdose of Sundrop. Augustus ascended to the Emperor's throne within the week, and was uncontested, a surprise to all. Even Calina, his mother who had the utmost faith in her son to receive the throne, believed Augustus' half brother Cyrus would challenge for the crown. He did not.

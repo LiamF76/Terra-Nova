@@ -5,6 +5,8 @@ aliases:
   - Wizard Council
   - Wizards
   - Council
+tags:
+  - Terra-Nova
 ---
 
 An ancient and important organization, these wizards inherit colored titles and towers. They help to maintain balance alongside the Ryfiri Druids of Escarth. They are considered leaders and innovators in the arcane world, but also protect the world from great threats and outside influence.  They protect from extra-magical threats, negotiatie and mediate between mortal nations, and serve as protectors and guides for the peoples of Terra-Nova.

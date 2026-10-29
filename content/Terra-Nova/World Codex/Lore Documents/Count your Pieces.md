@@ -2,6 +2,8 @@
 publish: false
 title: Count your Pieces
 aliases:
+tags:
+  - Terra-Nova
 ---
 lore about Xerathos, 12 bells forged from celestial gold, just to show the wealth of the nation
 3 major cities: Adamantos, Mythros, and Crystos

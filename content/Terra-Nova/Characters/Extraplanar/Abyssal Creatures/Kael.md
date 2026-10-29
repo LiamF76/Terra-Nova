@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 ![[Pasted image 20260224103314.png | 300]]
 
 Name: Kael

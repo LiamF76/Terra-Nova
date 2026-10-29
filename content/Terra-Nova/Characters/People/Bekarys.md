@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Bekarys, the Firefly
 
 Voice: friendly wizard, "Greetings young wolves, welcome to my shop!"

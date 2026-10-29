@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Do you hunt? It is a spiritual practice in my homeland, you aren't a man, cannot hold land or title and cannot fight unless you have experiences the kill. We have a great deal of respect for this pursuit, to become a man, a warrior, you must take life, and thank the life you take for its sacrifice.
 They give you a weapon, of your choice, bow and arrow, dagger, sword, whatever you choose from the armory, you must leave and not come back without meat. It can take a day, a week, some never return home. \
 I remember my hunt, my mother set me off, King couldn't be bothered. She handed me my dagger and bow, and told me to be brave. Carry the light in my heart and it would guide me. I searched for a while, it was so cold all I wanted to do was go home. I searched until I saw him, white fur, his horns were tall stretching up and grabbing hold of the sky itself in my young eyes. I stayed my breath and drew my arrow, but he was gone. 

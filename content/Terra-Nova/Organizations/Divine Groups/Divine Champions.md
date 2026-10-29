@@ -3,6 +3,8 @@ publish: true
 title: Divine Champions
 aliases:
   - Champions
+tags:
+  - Terra-Nova
 ---
 
 # Divine Champions 

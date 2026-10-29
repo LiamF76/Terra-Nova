@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 I do not remember what my idea was here. I had something, made this note, wrote them into Catherine Rex's dialogue with Antigone, and forgot, so here's something new!
 
 The Pact of Shattered Fate is an organization similar to the Dark Tribunal and Young Wolves, but they are not good or evil aligned, they represent a more neutral, albeit good, interest.

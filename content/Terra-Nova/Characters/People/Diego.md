@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Diego the Blessed, The Blue Scourge, Hero of The Million Siege
 
 Voice: Inigo Montoya, "My name is Diego the Blessed, I killed my father, prepare to die."

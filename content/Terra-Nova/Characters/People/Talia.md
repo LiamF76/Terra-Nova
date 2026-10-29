@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Talia Syrell
 
 Voice: cutesy girl, little bit sultry like jail bait, "Who me? Oh I'd be honored to dance with such a big strong man like you."

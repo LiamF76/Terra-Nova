@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Krieg, The Gamemaster, The Green Kraut, 
 
 Voice: Heimerdinger, "I'm the green wizard boy! A bit of respect for me, and a bit will be given back to you."

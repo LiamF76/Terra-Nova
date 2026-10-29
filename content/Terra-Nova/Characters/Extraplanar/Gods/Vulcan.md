@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Vulcan the Blade Master, God of War and Tactics
 
 Voice: Megatron but less angry, older Kratos vibes, "Fight or be forgotten!"

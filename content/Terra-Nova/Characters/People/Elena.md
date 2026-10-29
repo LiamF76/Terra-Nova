@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Lady Elena Syrell, The Crescent Queen, The Daughter of Moonlight
 
 Voice: respectful highborn lady, sansa stark, "Is this your plan Adrithyr? Hide and wait until the devil knocks on your door once again?"

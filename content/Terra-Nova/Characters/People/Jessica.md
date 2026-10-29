@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Queen Jessica, the Queen of Whores, Friend of the Kings Guard
 
 Voice: woman, highborn, kind of drunk all the time, hoe, "Ah look at you, come up to my room and show me what a rockslide is like honey."

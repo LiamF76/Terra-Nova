@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 (Believed Truth, learning more will update)
 Welcome to Terra-Nova, home of the Young Wolves, the crew of Fulgrim's arrow, and our stories. 
 We start at the very beginning, eons before recorded history, when there was no world to name, Shao Daraan began creation. The creatures origins are unknown, but his power is absolute to write his story upon the world, and with this power it created a world, chaotic and rumbling with the power of its birth.

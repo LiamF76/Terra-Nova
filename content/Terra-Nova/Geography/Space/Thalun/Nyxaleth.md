@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 The great city of Thalun, known as "Goloboye Oko Vse" (Go low boy, Oh Co, Vice), translated roughly to "The Eye of the Blue Everything". Their language is called Thaltongue, and is rooted in a guttural and aggressive version of Aelarian (it's Russian). 
 
 - ##### People and Politics:

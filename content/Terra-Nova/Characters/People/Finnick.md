@@ -2,6 +2,8 @@
 publish: false
 title: Finnick
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ![[image-7.webp|500x500]]

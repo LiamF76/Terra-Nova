@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Horus/Eisenhower Windsong
 
 Voice: kindly elf, strange voice, stutters, "Uhm well, I'm Horus and its a p-pleasure!"

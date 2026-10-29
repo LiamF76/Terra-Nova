@@ -3,6 +3,8 @@ publish: true
 title: Tirian
 aliases:
   - Dragonsong
+tags:
+  - Terra-Nova
 ---
 
 ![[image-13.webp|500x693]]

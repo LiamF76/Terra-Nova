@@ -3,6 +3,8 @@ publish: false
 title: Bark
 aliases:
   - Herald of the Wood
+tags:
+  - Terra-Nova
 ---
 
 ![[Bark-1776213958938.webp|500x625]]

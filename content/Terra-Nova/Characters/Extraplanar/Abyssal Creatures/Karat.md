@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 ![[Pasted image 20260224104903.png]]
 
 Name: Karat

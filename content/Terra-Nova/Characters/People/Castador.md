@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Castador Quill, Thirteenth Lorekeeper of the Ivory Spire Institute
 
 Voice: 

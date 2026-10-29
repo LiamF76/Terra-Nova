@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 Kheagon is a province of the nation [[Sovrentia]]. Kheagon is a monarchy. It is one of the largest provinces in [[Sovrentia]], and its ruling family is descended from Maple Celestia, a hero and warlord who helped found what became [[Sovrentia]]. The ruling family in Kheagon are the Ferrans.
 

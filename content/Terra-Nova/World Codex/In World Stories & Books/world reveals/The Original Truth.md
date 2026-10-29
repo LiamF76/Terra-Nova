@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Long thought to be lost to time and obscurity, there is a story. This story tells the truth of history, of creation, of magic, and it has been wiped from almost every record.
 
 The spur myth and origin of the world begins with the war in heaven, the battle between the gods and [[Terra-Nova/Characters/Extraplanar/Gods/Balthazaar]], but what came before is where this story begins. 

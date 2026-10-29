@@ -3,6 +3,8 @@ publish: true
 title: Zveksa
 aliases:
   - Purple Wizard
+tags:
+  - Terra-Nova
 ---
 
 ![[Purple Wizard-1775957538437.webp|500x500]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 This is a breakdown of the Rulers of Iramo.
 

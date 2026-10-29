@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Prince Argus, The Goldcloak
 
 Voice: young man, adventurer, wide eyes fun little boy, "You're the Young Wolves? You are the best adventurers in the kingdom! Champions and Wizards of all kinds!"
