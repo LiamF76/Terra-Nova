@@ -20,6 +20,7 @@ Created: 2026-07-29
 - Marcus is obsessed with Greek mythology, believing himself to be Prometheus. Stealing fire from the Gods and creating digital souls. He wants to be the father of a new race of purely digital minds.
 - **An Empty World**: much of the the world was built and networked for a gigantic population of humans, with so many dead before they could upload, there are vast wastelands and empty digital spaces to explore
 - **The Digital Frontier**: most of the digital world wasn't hand crafted but generated through procedural systems, simulation engines, and abandoned software left running without oversight. Over decades the processes kept evolving, so there are strange alien regions and corrupted areas
+- Crypto Miners that actually mine crypto coins in digital mineshafts, backbreaking manual labor, bottom of the food chain work
 - 
 
 ---
