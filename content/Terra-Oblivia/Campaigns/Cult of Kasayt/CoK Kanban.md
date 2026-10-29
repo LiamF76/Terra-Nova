@@ -50,7 +50,6 @@ kanban-plugin: board
 
 ## Bad Guys
 
-- [ ] [[Hartwyn Syros]]
 - [x] [[Kasayt]]
 - [x] [[The Acolyte]]
 - [x] [[Sana Black-Sky]]
