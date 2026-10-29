@@ -48,8 +48,9 @@
             }
           },
           {
-            "id": "500adf2a0afe9853",
+            "id": "7905971408a08e40",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -57,6 +58,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "CoK Session 1 Prep"
             }
@@ -192,11 +194,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "500adf2a0afe9853",
+  "active": "7905971408a08e40",
   "lastOpenFiles": [
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Dashboard.md",
+    "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
+    "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
+    "z Images/Rowan's Letter to Osiris-1793297672438.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+    "Terra-Oblivia/Characters/Spirits/Astor.md",
+    "Dashboard.md",
     "Terra-Oblivia/Dungeons/Woodland Rest.md",
     "Terra-Oblivia/Characters/Spirits/Calder.md",
     "z Images/Woodland Rest-1793282707754.webp",
@@ -214,7 +220,6 @@
     "Templates/5 Room Dungeon Template.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
-    "Terra-Oblivia/Characters/Spirits/Astor.md",
     "z Images/Astor-1793214359042.webp",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
@@ -228,8 +233,6 @@
     "Terra-Oblivia/Characters/Spirits/Towca.md",
     "z Images/The Acolyte-1793201893099.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/The Cult of Kasayt Story Introduction.md",
-    "Terra-Oblivia/Characters/Mortals/Hartwyn Syros.md",
-    "z Images/Calder-1793198741773.webp",
     "Terra-Oblivia/Dungeons",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn",
     "Terra-Oblivia/Groups/Cults/Untitled",
