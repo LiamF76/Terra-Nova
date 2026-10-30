@@ -51,6 +51,8 @@ TBD
 	- There is a small piece of paper tied around the necklace, barely peaking over his shirt collar.
 	- [[Rowan's Note to Finch]]
 
+Loot: **Cursed Battleaxe** (whoever picks it up cannot let it go, they become greedy and obsessed with it)
+
 ---
 
 ## Room 3: Puzzle or Roleplaying Challenge
@@ -75,7 +77,7 @@ TBD
 	- [[Rowan's Letter to Osiris]]
 	- On Rowan's desk, hand written
 - *Thread E*: **What is missing**
-	- Despite all of the foundational information, the location of the Tome, and the Green Knights, is mysteriously missing. If it was here, it has been taken.
+	- Despite all of the foundational information, the location of the Tome, and the Green Knights, is mysteriously missing. It appears Rowan had been there, but there is no written record of its exact location.
 
 **GM Hooks**: Leads them to look into either a wizard tower or some Green Knights ruins in Silver Spruce forest.
 
