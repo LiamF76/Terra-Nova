@@ -1,7 +1,9 @@
 ---
+
 kanban-plugin: board
 tags:
   - Terra-Oblivia
+
 ---
 
 ## Session 1
@@ -53,7 +55,7 @@ tags:
 - [x] [[Kasayt]]
 - [x] [[The Acolyte]]
 - [x] [[Sana Black-Sky]]
-- [x] [[Bellum Grail]]
+- [ ] [[Bellum Grail]]
 
 
 
