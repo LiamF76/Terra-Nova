@@ -13,10 +13,10 @@ tags:
 - [x] [[Jade of Two Rivers]]
 - [x] [[Rowan's Note to Finch]]
 - [ ] [[The Orichalcum Hourglass]]
-- [ ] Caravan ambush
-- [ ] Rowan murder / investigation
-- [ ] Rowan research
-- [ ] Arzen / Rowan Letters on Canva
+- [x] Caravan ambush
+- [x] Rowan murder / investigation
+- [x] Rowan research
+- [x] Arzen / Rowan Letters on Canva
 - [x] [[Rowan August]]
 	- citadel NPC of note
 	- member of Devout assembly
@@ -55,7 +55,7 @@ tags:
 - [x] [[Kasayt]]
 - [x] [[The Acolyte]]
 - [x] [[Sana Black-Sky]]
-- [ ] [[Bellum Grail]]
+- [x] [[Bellum Grail]]
 
 
 

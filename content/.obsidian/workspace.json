@@ -46,23 +46,9 @@
               "icon": "lucide-trello",
               "title": "CoK Kanban"
             }
-          },
-          {
-            "id": "ef08f5e2384d403d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Characters/Mortals/Bellum Grail.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bellum Grail"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +178,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ef08f5e2384d403d",
+  "active": "999789e67d2008bc",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Characters/Mortals/Bellum Grail.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Characters/Mortals/Goza Grail.md",
     "Terra-Oblivia/Characters/Mortals/The Acolyte.md",
     "Outside Worlds/Deadlock/Dredge.md",
