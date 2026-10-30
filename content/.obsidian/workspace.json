@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "2007763e9bfd0058",
+            "id": "999789e67d2008bc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -48,19 +48,17 @@
             }
           },
           {
-            "id": "7905971408a08e40",
+            "id": "47e8d3beb18bef6d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+                "file": "Terra-Oblivia/Items/Notes and Letters/Rowan's Notes on The Demonic Tome.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "CoK Session 1 Prep"
+              "title": "Rowan's Notes on The Demonic Tome"
             }
           }
         ],
@@ -194,16 +192,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7905971408a08e40",
+  "active": "47e8d3beb18bef6d",
   "lastOpenFiles": [
-    "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+    "Terra-Oblivia/Items/Notes and Letters/Rowan's Notes on The Demonic Tome.md",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Dashboard.md",
+    "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",
     "z Images/Rowan's Letter to Osiris-1793297672438.webp",
     "Terra-Oblivia/Characters/Spirits/Astor.md",
-    "Dashboard.md",
     "Terra-Oblivia/Dungeons/Woodland Rest.md",
     "Terra-Oblivia/Characters/Spirits/Calder.md",
     "z Images/Woodland Rest-1793282707754.webp",
@@ -231,7 +230,6 @@
     "Terra-Oblivia/Characters/Spirits/Paga.md",
     "Terra-Oblivia/Characters/Spirits/Tayox.md",
     "Terra-Oblivia/Characters/Spirits/The Horseman.md",
-    "Terra-Oblivia/Characters/Spirits/Towca.md",
     "z Images/The Acolyte-1793201893099.webp",
     "Terra-Oblivia/Dungeons",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn",

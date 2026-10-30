@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - Terra-Oblivia
 ---
 
 This is a reference note for the origins / reshaping of Gods, not to be published, only for reference.

@@ -1,9 +1,7 @@
 ---
-
 kanban-plugin: board
 tags:
   - Terra-Oblivia
-
 ---
 
 ## PRIORITY
