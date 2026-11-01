@@ -21,6 +21,8 @@ Created: 2026-07-29
 - **An Empty World**: much of the the world was built and networked for a gigantic population of humans, with so many dead before they could upload, there are vast wastelands and empty digital spaces to explore
 - **The Digital Frontier**: most of the digital world wasn't hand crafted but generated through procedural systems, simulation engines, and abandoned software left running without oversight. Over decades the processes kept evolving, so there are strange alien regions and corrupted areas
 - Crypto Miners that actually mine crypto coins in digital mineshafts, backbreaking manual labor, bottom of the food chain work
+- NULLs, uploaded minds who have lost their personality, just code mind slaves
+- Code Vampires, old uploaded minds who were uploaded before the process was perfected, they feed on other people to steal their code and processes to survive, this usually kills those fed upon.
 - 
 
 ---
