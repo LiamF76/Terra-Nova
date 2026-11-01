@@ -4,6 +4,7 @@ title: Welcome to Pentium Realm
 aliases:
 tags:
   - PentiumRealm
+  - Pentium-Realm
 ---
 
 ## What is Pentium Realm?

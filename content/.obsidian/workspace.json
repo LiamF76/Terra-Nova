@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "597b7cee9e429a99",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Pentium Realm Brainstorm"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,10 +170,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "597b7cee9e429a99",
   "lastOpenFiles": [
+    "Pentium Realm/Characters/Marcus Aeneas.md",
     "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
+    "Pentium Realm/Characters/Nvidius.md",
+    "Pentium Realm/Scratch/Helix Nodes.md",
+    "Pentium Realm/Scratch/Pentium Realm Kanban.md",
+    "Pentium Realm/Pentium Realm Wiki Homepage.md",
     "Dashboard.md",
+    "Pentium Realm/Characters/Helix.md",
+    "Pentium Realm/Characters/Austin.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "Outside Worlds/Deadlock/Dredge.md",
@@ -180,12 +204,6 @@
     "z Images/Woodland Rest-1793282491840.webp",
     "z Images/Woodland Rest-1793282339843.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Acolyte BBEG.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
-    "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Shadow of Wings.md",
-    "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/The First Flame.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
-    "Terra-Nova/Working Folder/WIP/Exploration Encounter Ideas.md",
-    "Templates/Session Prep Template.md",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
     "z Images/Astor-1793214359042.webp",
     "z Images/The Acolyte-1793205839444.webp",

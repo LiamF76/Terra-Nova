@@ -4,6 +4,7 @@ title:
 aliases:
 tags:
   - PentiumRealm
+  - Pentium-Realm
 ---
 
 ## The General Idea...

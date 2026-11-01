@@ -3,7 +3,7 @@ publish: false
 title:
 aliases:
 tags:
-  - PentiumRealm
+  - Pentium-Realm
 ---
 
 ![[image.png|300]]
