@@ -24,47 +24,6 @@
             }
           },
           {
-            "id": "999789e67d2008bc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
-          },
-          {
-            "id": "c8fcf4da937f6229",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
-                "viewState": {
-                  "x": 822.841098312044,
-                  "y": 98.87153512773716,
-                  "zoom": -0.9075924662333517
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Terra-Oblivia Map (WIP)"
-            }
-          },
-          {
             "id": "eb398d775f8b4fcb",
             "type": "leaf",
             "state": {
@@ -79,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.1484375
+    "width": 232.1953125
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -211,9 +170,10 @@
   },
   "active": "eb398d775f8b4fcb",
   "lastOpenFiles": [
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
     "Dashboard.md",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Outside Worlds/Deadlock/Dredge.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
     "Terra-Oblivia/Characters/Mortals/Bellum Grail.md",
@@ -240,7 +200,6 @@
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/The First Flame.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Nova/Working Folder/WIP/Exploration Encounter Ideas.md",
-    "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
     "Templates/Session Prep Template.md",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
     "z Images/Astor-1793214359042.webp",
