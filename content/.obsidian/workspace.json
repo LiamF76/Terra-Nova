@@ -22,8 +22,59 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "85699fa2b9331c58",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "CoK Kanban"
+            }
+          },
+          {
+            "id": "3573645ee76e61f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CoK Session 1 Prep"
+            }
+          },
+          {
+            "id": "d92328abd7dfd5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rowan's Letter to Osiris"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,12 +214,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d92328abd7dfd5b8",
   "lastOpenFiles": [
+    "z Images/Rowan's Letter to Osiris-1793586247061.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
-    "Rowan's Letter to Osiris.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Dashboard.md",
+    "Rowan's Letter to Osiris.md",
     "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
     "Pentium Realm/Scratch/Pentium Realm Kanban.md",
     "Pentium Realm/Characters/Marcus Aeneas.md",
@@ -195,7 +247,6 @@
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/The First Flame.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Shadow of Wings.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Birthright.md",
-    "Terra-Oblivia/History & Lore/Lore Books/Blood's Chronicle/The Garden.md",
     "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn",
     "Terra-Oblivia/History & Lore/Lore Books/Blood's Chronicle",
