@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 ![[Pasted image 20260227200357.png | 300]]
 
 Name: Delfine

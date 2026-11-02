@@ -5,6 +5,8 @@ aliases:
   - Escarth
   - Countries
   - Nations
+tags:
+  - Terra-Nova
 ---
 
 Escarth is known as 'The Land of Legends', and despite not being the fist land populated by mortals, it holds what is considered to be both the richest and most significant histories in Terra-Nova.

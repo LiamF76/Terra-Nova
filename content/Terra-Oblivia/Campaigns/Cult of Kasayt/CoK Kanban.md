@@ -1,6 +1,8 @@
 ---
 
 kanban-plugin: board
+tags:
+  - Terra-Oblivia
 
 ---
 
@@ -11,10 +13,10 @@ kanban-plugin: board
 - [x] [[Jade of Two Rivers]]
 - [x] [[Rowan's Note to Finch]]
 - [ ] [[The Orichalcum Hourglass]]
-- [ ] Caravan ambush
-- [ ] Rowan murder / investigation
-- [ ] Rowan research
-- [ ] Arzen / Rowan Letters on Canva
+- [x] Caravan ambush
+- [x] Rowan murder / investigation
+- [x] Rowan research
+- [x] Arzen / Rowan Letters on Canva
 - [x] [[Rowan August]]
 	- citadel NPC of note
 	- member of Devout assembly
@@ -27,13 +29,13 @@ kanban-plugin: board
 - [x] [[Ayla Syros]]
 
 
-## Misc
+## Campaign Overview
 
 - [x] [[Cult of Kasayt Campaign Primer]]
 - [x] [[The Cult of Kasayt Story Introduction]]
+- [x] [[Acolyte BBEG]]
 - [ ] [[CoK Player Characters]]
 - [ ] [[CoK Brainstorm]]
-- [ ] [[Acolyte BBEG]]
 
 
 ## future prep
@@ -50,21 +52,16 @@ kanban-plugin: board
 
 ## Bad Guys
 
-- [ ] [[Hartwyn Syros]]
 - [x] [[Kasayt]]
 - [x] [[The Acolyte]]
 - [x] [[Sana Black-Sky]]
 - [x] [[Bellum Grail]]
 
 
-## Places
-
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%

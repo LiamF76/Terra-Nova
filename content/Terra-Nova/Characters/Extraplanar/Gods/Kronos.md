@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Kronos the Forgotten, God of Time, Father Time!
 
 Voice: old man, slow speaking, low voice, “And so you think I am nothing? Ask yourself what kind of monster they would trap in a place like this.”, “They killed my memory a long time ago, now my children worship Vaior, the pretender.”

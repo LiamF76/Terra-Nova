@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 - She has notes stating that there have been Sylvaris sightings in the Caves of Seline Thrimai. 
 	- It states that they believe Oztar is being held within Chronovault Mythos in the Great Divide, Urak has been sent to find it.
 	- It has lots of notes on soul sealing rituals and a great deal of information about King Adrithyr Realmcrest including vague notes on how his bloodline, "commands the power of the Tiamat". 

@@ -2,6 +2,8 @@
 publish: false
 title: Ciro
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ![[image-4.webp|500]]

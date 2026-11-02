@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Mykoz Tythos
 
 Voice: mike tyson distinct lisp, a little high pitched, "Ahhh tho you come to my thity, you betta theck in wiff the kingpin motha phuckas"

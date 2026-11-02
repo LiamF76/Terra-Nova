@@ -5,6 +5,7 @@ aliases:
   - Swamp Troll
 tags:
   - Bestiary
+  - Terra-Nova
 ---
 
 # Bolugs

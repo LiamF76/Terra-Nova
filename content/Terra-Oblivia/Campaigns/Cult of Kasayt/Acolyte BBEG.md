@@ -13,7 +13,7 @@ Created: 2026-10-27
 		- Find the Stone King, need it's blood magic / demon soul to fuel Kasayt's ascension
 		- Needs to find the demonic / abyssal ritual tome to learn how to make Kasayt a god (The Formless Tower)
 		- Restore Kasayt's essence before the ritual, requires the killing of [[Astor]] to absorb the Great Spirit's essence into Kasayt's orb
-- *Timeline*: 
+- *Timeline*: As soon as possible. Every day Kasayt's essence weakens. The highest priority is preserving Kasayt, so killing Astor is PRIORITY 1! This must happen within 2 years because that is how long Kasayt has before he 'dies' for good.
 - *What is stopping them*: 
 	- Doesn't know where the Stone King is besides that it is somewhere in [[The Triarch]].
 	- Doesn't know where the ritual (The Formless Tower) demonic tome is

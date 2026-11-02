@@ -4,6 +4,8 @@ title: Thalanil
 aliases:
   - Realmcrest
   - Gilded
+tags:
+  - Terra-Nova
 ---
 
 ![[image-8.webp|500x693]]

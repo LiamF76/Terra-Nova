@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 **Plant Name:** Bloom of Renewal  
 **Type:** Abyssal Plant  
 **Appearance:** A rare, luminescent flower that grows on blackened vines in the Abyss. The petals shimmer with iridescent hues of green and gold, contrasting against the dark, gnarled terrain of its native environment. The center of the bloom emits a faint, golden glow, pulsing gently like a heartbeat.

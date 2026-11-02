@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Lord Dante, The Pale Titan
 
 Voice: Gregor Clegane, tuff dude, simple words, "Fuck the knights, fuck the king, and fuck the gods."

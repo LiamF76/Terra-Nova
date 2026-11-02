@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Hyperion Magnus Manson Bloodhorn, The Red Sun
 
 Voice: sly and evil undertone, snake energy, "Those who cannot see the sunrise, must be made to watch the sunset."

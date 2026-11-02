@@ -4,6 +4,7 @@ title: Pentium Realm Wiki Homepage
 aliases:
 tags:
   - PentiumRealm
+  - Pentium-Realm
 Created: 2026-10-20
 ---
 

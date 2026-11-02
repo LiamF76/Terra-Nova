@@ -22,7 +22,7 @@ Created: 2026-10-28
 ---
 
 ## Voice
-Calder is loud and proud, he has a deep masculine voice that echoes through every room he speaks in.
+Calder is loud and proud, he has a deep masculine voice that echoes through every room he speaks in. He is respectful and honorable, never threatening those who do not deserve it.
 
 > [!quote]
 > "My honor demands I protect this place. I shall redden the leaves with the blood of any intruders."

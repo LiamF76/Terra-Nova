@@ -6,6 +6,8 @@ aliases:
   - Constellations
   - Planets
   - Moons
+tags:
+  - Terra-Nova
 ---
 
 #### Stars:

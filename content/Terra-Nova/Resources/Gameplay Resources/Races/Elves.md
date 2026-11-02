@@ -2,6 +2,8 @@
 publish: true
 title: Elves
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ### Elves

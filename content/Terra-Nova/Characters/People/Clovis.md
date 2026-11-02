@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Clovis Whitefeather, the White Wizard
 
 Voice: Gandalf, old wizard, little silly, "I happen to think you are a wonderful wizard, or if you were one you would be!"

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 While there have not been many throughout Terra-Nova's history, those that have been, have been quite loud, powerful, and memorable. Namely, throughout the known history of our world, there have only been 3 instances of true dragons becoming vampires, thus the turn "Blood Dragon's."
 This term though leaves quite a bit of ambiguity. Each dragon is affected by the vampirism disease very differently, which will be discussed in detail here. 
 

@@ -1,7 +1,7 @@
 ---
-
 kanban-plugin: board
-
+tags:
+  - Terra-Oblivia
 ---
 
 ## Ivory Throne, Velvet Ink
@@ -23,7 +23,7 @@ kanban-plugin: board
 
 ## The Acolyte: Blessed to Burn
 
-- [ ] [[The First Flame]]
+- [x] [[The First Flame]]
 - [ ] [[Shadow of Wings]]
 - [ ] [[Birthright]]
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 The truth of Tena and Illuman. Illuman is not evil, prideful, or wrathful, in truth he is the Redeemer, the Guiding Light, the Dawnfather. He came to be angry, weak, and enraged, from the venom of [[Terra-Nova/Characters/Extraplanar/Gods/Balthazaar]], in his unhealing wounds sustained in their battle. 
 

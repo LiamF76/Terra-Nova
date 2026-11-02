@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Lisa, “Goggles”
 
 Voice: high pitched spamming voice lines, French accent, “Ah yes well you would think so, but when you assume, you fail to account for the impossible!”

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Maple Obliteros
 
 Voice: young girl, tough and full of vigor, "My name's Maple! Don't forget it, I am the daughter of the Obliterator!"

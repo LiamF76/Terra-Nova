@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Julius Carnthos, "The Mad Scientist"
 
 Voice: gruff orc, but sophisticated and educated, "Salutations and welcome, I am Julius Carnthos, Advisor to Prince Augustus and scholar, a pleasure.", "They were making me take Arcane Fundamentals and Runes 101, needless to say it wasn't worth my time.", "Can you believe, what year did you start? Oh ok so I left a couple years before you. They had KAELA teaching Ethics of Magic?"

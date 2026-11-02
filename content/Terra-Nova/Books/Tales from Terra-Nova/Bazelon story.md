@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 Story about Bazelon Duskfire, a wandering Tiefling warrior. He meets a strange traveler visiting their town, who tells him of a great monster a hero must slay. If Bazelon does his father will surely be proud of him. The monster and traveler are both a god in disguise.
 

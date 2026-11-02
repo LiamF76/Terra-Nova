@@ -1,7 +1,7 @@
 ---
-
 kanban-plugin: list
-
+tags:
+  - Terra-Nova
 ---
 
 ## ## Ivory Throne, Violet Ink

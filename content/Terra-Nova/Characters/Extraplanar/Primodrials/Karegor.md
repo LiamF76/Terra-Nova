@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Karegor, The Seeker of Knowledge, The Mind eater
 
 Voice: 

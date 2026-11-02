@@ -2,6 +2,8 @@
 publish: false
 title:
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 List of all Races: (check them off when they have an entry in Races of Terra-Nova completed.)

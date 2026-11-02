@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Geisor Axial
 
 Voice: Viking proud, Thor, all that stuff

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Vazzrick Cain, The Emerald Rapier
 
 Voice: 

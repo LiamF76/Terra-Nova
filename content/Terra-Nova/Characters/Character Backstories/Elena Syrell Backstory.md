@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 [[Elena]]'s strength is dwarfed only by her unyielding faith. She follows the Moon God Mani, bringing his teachings to all evildoers who see the night as their ally. She is there to remind them that the night belongs to the moons. It is said that her blade burns with cool blue light as if she holds Thalun her very hand. 
 
 Elena carries the noble name of Syrell, an ancient house of Estor whom has defended the legendary Lakefort since before almost anyone can remember. Built on the North-Eastern shores of the Moonlight Lake, Elena rules the region from her castle, a bastion of safety and justice for the people she protects.

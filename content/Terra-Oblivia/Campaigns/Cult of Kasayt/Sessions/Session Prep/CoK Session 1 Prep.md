@@ -20,13 +20,18 @@ Session Date:
 
 DM NOTE: Party is traveling back to Citadel after getting an artifact and doing a healing mission near Bastion. Less than half a day's ride from the Capital, they are ambushed on the road.
 
-*Set the Scene*: Cold wind blows through the valley in mid fall as you return to Citadel.
+*Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. 
 
-The Artifact: [[Jade of Two Rivers]]
+Whurnoud, the stout and reliable Dwarf that has been accompanying you along the journey Finch, notices your gaze lazily wandering as the wagon rides along. 
+"Would you like to drive Sir? A holy and good thing it is to help an old Dwarf with tired hands." His eyes dart back and forth to you, wanting mostly to involve you and not really caring about his own hands.
 
-TBD
+As the wagon passes into a small ravine, the hills on either side feel dark, and the terrible shriek of beasts consumes your ears. Swarms of bats, glowing red eyes and gnashing teeth, alongside a well tested Orc warrior come crashing down around you! Roll initiative!
+
+As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel. A massive black battleaxe fixed to their back.
 
 **Enemies**: 1x [Orc veteran](https://2e.aonprd.com/NPCs.aspx?ID=3130), 2x [Vampire bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=2848)
+
+The Artifact: [[Jade of Two Rivers]]
 
 ---
 
@@ -46,6 +51,8 @@ TBD
 	- There is a small piece of paper tied around the necklace, barely peaking over his shirt collar.
 	- [[Rowan's Note to Finch]]
 
+Loot: **Cursed Battleaxe** (whoever picks it up cannot let it go, they become greedy and obsessed with it)
+
 ---
 
 ## Room 3: Puzzle or Roleplaying Challenge
@@ -61,17 +68,16 @@ TBD
 - *Thread B*: **The Green Knights**
 	- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
 	- 2. Notes reference the wooden fortress
-	- 3. Logbook shows he gathered supplies regularly at a small town outside Silver Spruce Forest (forest that has a silver spruce tree)
+	- 3. Logbook shows he gathered supplies regularly at a trading post outside Silver Spruce Forest (forest that has a silver spruce tree)
 - *Thread C*: **The Demonic Tome**
 	- The door is physical, the key is not
 	- The door rests within a building made to be like a mountain
 	- A reminder that wizards take security very seriously
 - *Thread D*: **Letters to/from Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
-	- A letter to someone named Arzen who appears to be a scholar on the occult. Never heard of this person before, it's an eastern name, possibly an elf from Walima. They appear to have been corresponding for quite some time.
-	- Rowan was asking for more information about a 'Stone King'. They had been studying accounts if its whereabouts, scattered through history, rumor, and stories. Arzen's last communication indicates if the Stone King is anywhere on Escharra, it is likely in the Triarch.
-	- Arzen appears to DEMAND the location of something called 'Min Jadid' (translates to Reborn, this is in Celestial, it's Finch), which Rowan promised previously but so far has not delivered. 
+	- [[Rowan's Letter to Osiris]]
+	- On Rowan's desk, hand written
 - *Thread E*: **What is missing**
-	- Despite all of the foundational information, the location of the Tome, and the Green Knights, is mysteriously missing. If it was here, it has been taken.
+	- Despite all of the foundational information, the location of the Tome, and the Green Knights, is mysteriously missing. It appears Rowan had been there, but there is no written record of its exact location.
 
 **GM Hooks**: Leads them to look into either a wizard tower or some Green Knights ruins in Silver Spruce forest.
 

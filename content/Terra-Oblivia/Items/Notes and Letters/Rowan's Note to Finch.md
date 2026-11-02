@@ -7,6 +7,8 @@ tags:
 Created: 2026-10-21
 ---
 
+# Rowan's Note to Finch
+
 ![[Rowan's Note to Finch-1792634194170.webp|600]]
 
 ## Transcript:

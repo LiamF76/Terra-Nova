@@ -6,6 +6,8 @@ aliases:
   - Intro
   - Introduction
   - primer
+tags:
+  - Terra-Nova
 ---
 
 This is the primer / intro doc! 

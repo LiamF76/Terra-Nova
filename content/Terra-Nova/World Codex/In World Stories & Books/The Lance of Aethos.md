@@ -1,1 +1,5 @@
+---
+tags:
+  - Terra-Nova
+---
 Aethos was once the greatest enchanter in Terra-Nova, known to have guarded the artifacts of the Rose Spire and 

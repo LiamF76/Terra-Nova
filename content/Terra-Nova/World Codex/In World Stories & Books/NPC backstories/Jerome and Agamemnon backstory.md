@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Jerome and Agamemnon were born out of wedlock, twin brothers with an older sister. Their Mother was a chromatic dragonborn slave woman to the noble bloodline of Steel. Their father was Wilton Steel, a noble silver dragonborn. The Steel family was silver, yet they were honored with the name steel as being steel colored and proving their valor in battle.
 
 Their mother raised them as best she could but they too were slaves. When she passed and Wilton left the city of Dragonswatch they were thrown to the streets, left to fend for themselves at the age of just 7 years. They were half chromatic half metallic, taking the name Darksteel for themselves along with their sister. 

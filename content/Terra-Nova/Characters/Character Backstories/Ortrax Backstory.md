@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 Once known as Ortrax Stonecrown, now referred to only as "The Hollow General", Ortrax is a being of legendary power and determination. Ortrax was once the proud **High Marshal of Traxgate**, a legendary dwarf whose iron discipline, strategic genius, and indomitable will led the city to its greatest military triumphs. Revered by many, feared by all, he believed that freedom was weakness and that peace bred decay. His vision: a perfect society ruled by military hierarchy and forged in endless preparation for war. If the society was indominable, he could set Traxgate to rule the land for thousands of years and establish a legacy as the greatest warrior in history.
 

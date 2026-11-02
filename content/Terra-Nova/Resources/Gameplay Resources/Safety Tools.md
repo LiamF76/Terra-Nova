@@ -4,6 +4,8 @@ title: Safety Tools
 aliases:
   - Safety
   - Consent
+tags:
+  - Terra-Nova
 ---
 These are the safety tools we use at my table. Please make sure to fill them out and send them to maiLfps on discord before you play. Fai8lure to complete them will prevent you from gaming, sorry! No D&D is better than dangerous D&D!
 

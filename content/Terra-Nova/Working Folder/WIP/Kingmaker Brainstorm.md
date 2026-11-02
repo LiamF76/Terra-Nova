@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 This is a brainstorm document for my Kingmaker campaign idea. This is a potential campaign to run in Terra-Nova during the Age of Divines.
 

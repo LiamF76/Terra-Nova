@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 ![[Pasted image 20260224093807.png]]
 
 Name: Aaroosum, The Pitiful Djinn

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Azrael, The Angel of the End
 
 Voice: Wolf from puss in boots last wish, "I just love the smell of... *FEAR*.", "You've taken loans out on your life Ivys! And I have come to collect your DEBT!"

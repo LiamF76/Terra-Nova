@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 This document covers the Continent and Nation of Iramo, as the nations therein are all part of one system.
 

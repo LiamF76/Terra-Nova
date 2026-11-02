@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Once long ago, there was a young half elf man living in the town of Korun, a small hamlet in the deserts of Drok Shah. He worked as a carpenter and builder, but calling it work was a stretch. He was lazy and barely lifted finger whenever anyone asked him to work, he was a total freeloader. 
 One day the whole village came together to ask him to just do some work, the easiest job they could think of. There was an old shed built around a well, a well that had long run dry in the desert. The shed was old, the nails were rusted and the boards were falling to pieces. The people knew it was dangerous, and all it had to do was be torn down so none of the village children would get hurt there.
 The man, wanting the people to leave him alone so he could continue to laze around, promised to take care of it tomorrow, which overjoyed the people. They of course made him swear to Aestus, one of their most important deities, that he would. He did it with no hesitation, and no intention to actually do the work. 

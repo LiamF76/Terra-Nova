@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 ![[Pasted image 20260227184300.png | 300]]
 
 Name: Darjis, The Master's Chosen

@@ -4,6 +4,7 @@ title: Architect of my Soul
 aliases:
 tags:
   - Terra-Nova
+  - Terra-Oblivia
 ---
 Ivys talks about the Augur, the forge he created in an attempt to make his own replicants, based on the design of Kairos' and Horus' replicant creator devices.
 # Architect of my Soul

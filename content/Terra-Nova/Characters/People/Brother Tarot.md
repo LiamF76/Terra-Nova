@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: <mark style="background: #D2B3FFA6;">Brother Tarot</mark>, Korach Tarot, <mark style="background: #FF5582A6;">Korach Veyne</mark>
 
 Voice: Smooth, almost theatrically calm, with a metallic undercurrent—like a blade being slowly drawn from a sheath. His tone drips with mocking reverence, oscillating between a preacher’s cadence and the dry amusement of a predator toying with prey. Think **Ultron’s** chilling, philosophical sarcasm mixed with the gravitas of a dark evangelist.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 Solace is a warforged who escaped from Bourn Dorhul after Arkeron escaped the mines. He was inspired by the free constructs actions, and took to escaping through the undercity, paying off some Dwarves to smuggle him to Gembourne with gems he had found while working. He escaped to the prosperous city, but was alone and afraid, wandering the streets alone eventually he reached a building that gave a kind warm light, a small temple. He entered and knelt before the altar as he had seen the Dwarves do before shrines to Duraadin. He reached out to the lord of this temple, the beautifully carved statue atop the altar of a man with a sun for a face, a sun he had seen for the first time when he reached the surface of Terra-Nova, and he was overcome with a warm comfort in his soul.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Tyran Obliteras, The Obliterator, The Warlord
 
 Voice: rugged and slightly deeper Liam voice, "A chance to repent for what I did is more than what i deserve, but I'll make sure this life makes up for my last one.", "Yeah that was a good shot, but I knew a warforged that hit harder, you'll have to do better than that to knock me down."

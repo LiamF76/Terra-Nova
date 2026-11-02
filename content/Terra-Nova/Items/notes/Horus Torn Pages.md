@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 1. “I met Vaior, and he felt different, something quite mortal about him.”
     
 2. “Perhaps it was not the power, that was celestial no doubt, it was the anger.”

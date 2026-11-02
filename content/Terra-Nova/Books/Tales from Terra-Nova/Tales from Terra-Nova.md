@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 This is a compilation of short stories from throughout Terra-Nova. Most of these stories will pertain to the current Fourth Age, the Age of Divines. This helps me to world build and help Terra-Nova feel alive. Some of these stories will take place during pivotal moments in history, or other time periods at my discretion.
 

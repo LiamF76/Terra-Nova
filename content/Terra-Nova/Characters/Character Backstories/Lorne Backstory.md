@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Lorne grew up in the village of Westhollow, alongside Tyran. he was older but still they played as children. Lorne's father owned the Inn, the big hollowed out tree in town where he and the local kids played until Lorne's father reminded him to keep it down so the guests could have some peace. 
 
 Lorne always had a knack for getting himself intro trouble, fighting, stealing, pretty much anything you could think of for a kid to get up to, he did. Lorne wised up during his teenage years when his father got sick. He came down with a  bad fever that never really faded. He got his act together, learned the trade of Innkeeping, doing repairs (he's gotten quite decent with a little hammer), and even got some swordplay under his belt thanks to the Lord, Kenji.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 The Man and the Wolf:
 
 In the early days of Terra-Nova, a wanderer by the name of Toren, he traveled the land seeing all the beauty and sadness the world had to offer. He sought to understand the people of the world, seeing their culture, their songs and stories, seeking to see their hearts and their meanings. He wanted to learn the trade of blacksmithing, desiring the skill to create his own weapons, to better understand every part of them.

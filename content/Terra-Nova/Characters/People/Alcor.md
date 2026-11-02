@@ -2,6 +2,8 @@
 publish: false
 title: Alcor
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 ![[image.png|300]]

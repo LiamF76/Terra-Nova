@@ -5,6 +5,8 @@ aliases:
   - Astarielle Veil
   - Astar Arthur
   - Lady Spacetime
+tags:
+  - Terra-Nova
 ---
 
 

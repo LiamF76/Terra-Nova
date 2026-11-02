@@ -4,6 +4,8 @@ title: Exploration Encounter Ideas
 aliases:
 tags:
   - Terra-Nova
+  - Terra-Oblivia
+Created: 2026-07-16
 ---
 
 ## Exploration Encounter Ideas
@@ -20,4 +22,11 @@ tags:
 - Fork in the road with a single sign, arrow labeled pointing down, the sign is nailed in at the middle and can be spun around, meaning the sign could be pointing either direction. Makes a travel decision very hard
 - A ripped tent and stomped out campfire mark this clearing. It is the perfect place to rest, secluded from the road by thick trees, open and easy to guard, and high above the rivers and potential for flooding in rainfall. What happened to the last people who were here?
 - A bad of monsters (kobolds, goblins, etc.) and their dragonborn leader attack a caravan of people (refugees, merchants) do you intervene and risk your presence being known, or allow them to do their evil deed?
+- A glade along the roadside with a single glowing flower, A monster approaches and attempts to eat this flower. It is a sacred flower to the local religion and allowing it to be eaten is unacceptable to locals.
 - 
+
+---
+
+## Links
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->

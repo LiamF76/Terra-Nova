@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 The Codebreaker, Lennox takes his iconic red hat, Steel Defender Kali, and homunculus servant Ubuntu everywhere he goes. Lennox is an artificer, and uses his prowess and understanding for his own mechanical nature to masterfully interweave his technology with that of the Aelarians. His mind is sharp, and his weapons dangerous, especially his powerful Aelarian pulse cannon. 
 
 Lennox represents the Fractal Oath, a group of warforged who sought to understand their nature as constructs, who discovered that their first purpose was that of an army to protect the world. Now he may no longer be a slave, but he seeks to embody the purpose set for him by his creators, and defend the world of his own volition. 

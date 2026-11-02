@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Evander Descoteaux
 
 Voice: British accent, better than you Kairos type beat, a little flowy in speech pattern. "Ah yes, Ivys Arthur, the rogue replicant, you are well documented in my databases. Every breath you draw is an insult to us. Worry not, I shall cure you of your impurity post haste."

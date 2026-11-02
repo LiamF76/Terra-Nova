@@ -6,6 +6,8 @@ aliases:
   - Teya'ka
   - Phoenix
   - Emperor
+tags:
+  - Terra-Nova
 ---
 
 ![[Pasted image 20260104120251.png | 500]]

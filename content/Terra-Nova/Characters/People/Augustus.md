@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Augustus Amadeus Auranthor, the Lightbearer, Lumithiil, Child of Prophecy
 
 Voice: me, Paul Atreides, Anakin, "There is no man in this world that can stand against me.", "I banish you Arkonil, I cast you out, return to that foul pit you rose from, and when you see your master [[Terra-Nova/Characters/Extraplanar/Gods/Balthazaar]], it was Augustus Auranthor who sent you, and that I am coming for him next!"

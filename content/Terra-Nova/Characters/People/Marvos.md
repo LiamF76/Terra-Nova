@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 ![[Pasted image 20260224223745.png | 300]]
 
 Name: Marvos Ferran

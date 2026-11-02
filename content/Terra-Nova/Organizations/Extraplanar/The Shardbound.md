@@ -2,6 +2,8 @@
 publish: false
 title: The Shardbound
 aliases:
+tags:
+  - Terra-Nova
 ---
 
 The Shardbound are magically empowered individuals who follow Horus Hixs and the Paragon of Rebirth.

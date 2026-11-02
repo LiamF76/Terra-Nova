@@ -18,7 +18,7 @@ Brainstorm:
 
 #### **The Golem Protector**
 
-![[Woodland Rest-1793193652599.webp|400]]
+![[Woodland Rest-1793282339843.webp|500]]
 
 DM NOTE: The entrance to the ruins is guarded by an ancient golem.
 
@@ -34,11 +34,20 @@ TBD
 
 #### **The Tenian Oath**
 
+![[Woodland Rest-1793282491840.webp|400]]
+
 DM NOTE: The way forward is blocked by a magical statue door. In order to pass by they must speak the Tenian Oath, the sacred oath of the Green Knights. The oath is somewhere in the room so they can find it.
 
-*Set the Scene*: TBD
+*Set the Scene*: A round hall, its roof fallen in, with daylight and weeds pouring through the gap. At the far end stands a stone women clad in robes with both hands pressed to a sealed door, head bowed. Faded murals cover the walls, and moss has crept into the carved words beneath them.
 
 TBD
+
+- **The Tenian Oath**:
+	*“I keep the root and I keep the road.*  
+	*I bend to the wind but I do not break.*  
+	*What I cut, I will replant.*  
+	*What I guard, I will not own.*  
+	*Until the last leaf falls, I stand.”*
 
 ---
 
@@ -56,11 +65,11 @@ TBD
 
 ## Room 4: Climax, Big Battle
 
-#### **The Last Green Knight**
+#### **Calder's Glade**
 
-![[Woodland Rest-1793193681650.webp|400]]
+![[Woodland Rest-1793282707754.webp|500]]
 
-DM NOTE: Boss battle against a spirit knight, [[Calder]]. 
+DM NOTE: Boss battle against a spirit knight, [[Calder]]. Underground glade with a single sacred tree in ankle high water. 
 
 *Set the Scene*: TBD
 

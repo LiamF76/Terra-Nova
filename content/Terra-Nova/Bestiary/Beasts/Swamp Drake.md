@@ -4,6 +4,7 @@ title: Swamp Drake
 aliases:
 tags:
   - Bestiary
+  - Terra-Nova
 ---
 
 # Swamp Drakes

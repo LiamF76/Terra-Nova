@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 
 Known as "The Cradle of Infernal Might", and home to the longest standing and oldest Aelarian bloodline of house Duskfire, Malcrux is one of the strongest Tiefling settlements. While it is strong, compared to almost any Terra-Novan village its a shanty town. There are tall Abyssal Wood walls, and a few buildings inside, built with its back to the wall to the Labyrinth.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Adrithyr Realmcrest, the Red King
 
 Voice: royal voice, deeper with a sense of importance, "I am King of Estor, the most powerful nation on the continent, you are nothing.", "The War God's Champion will not be held at the door while I am King."

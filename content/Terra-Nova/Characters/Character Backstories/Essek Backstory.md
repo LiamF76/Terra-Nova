@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Essek Eyewright, born and raised in Terraven, comes from a poor and hard working family. His father was involved with the Redsong academy, working as a menial cleaner and occasional rune carver for the school. His mother was a dishwasher at a small local tavern. The struggled, often times the parents went without food so Essek could eat, but they did survive.
 
 Essek often spent time with his father at work, helping out around the academy. He was strictly instructed to stay at his father's side, not to bother the students, and to never go inside any of the rooms without permission. Essek obeyed, for months, every day enticed by the beauty of the magic around him, but he resisted against every fiber of his being, until he didn't. 

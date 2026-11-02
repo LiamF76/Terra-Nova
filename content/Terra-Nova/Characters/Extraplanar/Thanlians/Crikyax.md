@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra-Nova
+---
 Name: Crikyax, The Skell Seer, The one who Speaks with Stars
 
 Voice: 
