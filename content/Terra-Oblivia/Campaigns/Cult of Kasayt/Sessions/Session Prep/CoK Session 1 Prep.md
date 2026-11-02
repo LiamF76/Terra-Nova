@@ -24,13 +24,12 @@ DM NOTE: Party is traveling back to Citadel after getting an artifact and doing 
 *Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. 
 
 Whurnoud, the stout and reliable Dwarf that has been accompanying you along the journey Finch, notices your gaze lazily wandering as the wagon rides along. 
-"Would you like to drive Sir? A holy and good thing it is to help an old Dwarf with tired hands." His eyes dart back and forth to you, wanting mostly to involve you and not really caring about his own hands.
 
-As the wagon passes into a small ravine, the hills on either side feel dark, and the terrible shriek of beasts consumes your ears. Swarms of bats, glowing red eyes and gnashing teeth, alongside a well tested Orc warrior come crashing down around you! Roll initiative!
-
-As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel. A massive black battleaxe fixed to their back.
+**Combat Begins**: As the wagon passes into a small ravine, the hills on either side feel dark, and the terrible shriek of beasts consumes your ears. Swarms of bats, glowing red eyes and gnashing teeth, alongside a well tested Orc warrior come crashing down around you! Roll initiative!
 
 **Enemies**: 1x [Orc veteran](https://2e.aonprd.com/NPCs.aspx?ID=3130), 2x [Vampire bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=2848)
+
+**During combat**: As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel with the sound of a heavy metal battleaxe clanging on their back. 
 
 The Artifact: [[Jade of Two Rivers]]
 
@@ -42,8 +41,8 @@ The Artifact: [[Jade of Two Rivers]]
 
 DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead with a massive battleaxe having cut him in half (cursed magic weapon still there, his locket still around his neck with a note attached)
 
-*Set the Scene*: Rowan's study awaits down the hall, but before you reach the stone archway that opens to the High Priest's library, another door catches your eye. Slightly open, the door to Rowan's room beckons you inside, no light, but a faint trail of liquid running out from a pool under the door. It is blood. 
-Inside his simple priestly accommodations are stained with horror, as you see his body collapsed leaning against the back wall, his head cleaved from his shoulders and laying beside his body, and a massive battleaxe still embedded in the bricks behind where his neck used to be.
+*Set the Scene*: Rowan's study awaits down the hall through a stone archway that opens to the High Priest's library. The archway to Rowan's rooms beckons you inside, there is no light, but a faint trail of liquid running out from a pool under the door. It is blood. 
+The room ahead is stained with horror, as you see a body collapsed leaning against the back wall. A black battleaxe is impaled into the wall at the neck, and the body is headless. (Finch would recognize this as Rowan, whose head is gone.)
 
 TBD
 

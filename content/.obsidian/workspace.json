@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.05078125
+    "width": 227.05078125,
+    "collapsed": true
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -194,6 +195,8 @@
   },
   "active": "44b794d98cbbbba0",
   "lastOpenFiles": [
+    "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Shadow of Wings.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/The First Flame.md",
@@ -202,7 +205,6 @@
     "Terra-Oblivia/History & Lore/Lore Books/Blood's Chronicle/Scarlett Admonition.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blood's Chronicle/O' Mother Mine.md",
     "Dashboard.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blood's Chronicle/Memory of Wings.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
@@ -221,7 +223,6 @@
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "Outside Worlds/Deadlock/Dredge.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Terra-Oblivia/Characters/Mortals/Bellum Grail.md",
     "z Images/Rowan's Letter to Osiris-1793297672438.webp",
     "z Images/Woodland Rest-1793282707754.webp",
     "z Images/Woodland Rest-1793282595497.webp",
