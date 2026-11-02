@@ -10,6 +10,11 @@ Created: 2026-10-18
 
 write here
 
+## Session Threads
+
+- Min Jadid meaning / location / what is it?
+- 
+
 ---
 
 ## Links

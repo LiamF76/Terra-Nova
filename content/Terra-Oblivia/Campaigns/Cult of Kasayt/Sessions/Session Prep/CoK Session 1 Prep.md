@@ -119,5 +119,6 @@ TBD
 - [[Rowan August]]
 - [[The Orichalcum Hourglass]]
 - [[Rowan's Note to Finch]]
+- [[Rowan's Letter to Osiris]]
 
 <!-- SerializedQuery END -->
