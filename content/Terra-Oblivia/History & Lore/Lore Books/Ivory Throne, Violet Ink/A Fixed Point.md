@@ -17,13 +17,13 @@ I don't exactly know how this made it into my mind, but I know he wrote it, and 
 
 *It felt like I was doing something... wrong, because when I looked down from that tall tower I could still see him. No matter how far I flung myself forwards and back he was there. No matter how high I climbed towards the heavens he was there.*
 
-*Those stark purple robes, the sash, the horns. He had made it furthere than I had, he had survived my pain and worse, and he wasn't there to stop me. Time is a funny thing, because I knew my endpoint, and he was from beyond it. That meant no matter what... I had actually failed.*
+*Those flowing robes, the sash, the horns. He had made it further than I had, he had survived my pain and worse, and he wasn't there to stop me, because I had already been stopped. Time is a funny thing, because I knew my endpoint, and he was from beyond it. That meant no matter what... I had actually failed.*
 
 *I held time in my hand and squeezed it, but I couldn't bring myself to break it. When he climbed the tower to face me with his allies, I lost. My heart wasn't in it anymore, I had no heart left but him.*
 
 *I hadn't realized that in leaving my bloody trail across the world I have left a piece of myself out there. Horus had found a way to create someone... good. That was all he was, just good. Good was plenty to stop me.*
 
-*My boys. Ivys, Promise. I stained the world with my brush, but I know they will work wonders. I have made wonderful painters.*
+*My boys. Ivys, Promise.* 
 
 *Protect yourselves, do your very best, and remember who you are. There is nothing in the world beyond your reach. Do not make the same mistake I did when thinking that though. Just because nothing is beyond your reach, does not mean you will always reach far. The love you need may be right beside you already.*
 
