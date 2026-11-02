@@ -6,6 +6,7 @@ tags:
   - Terra-Oblivia
   - Session-Notes
 Created: 2026-10-18
+Session Date:
 ---
 
 write here
