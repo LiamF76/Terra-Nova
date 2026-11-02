@@ -87,7 +87,7 @@ TBD
 
 #### **TBD**
 
-DM NOTE: Blood cube left behind to kill whoever found Rowan's body, it turns into a blood monster or something and attacks,
+DM NOTE: 
 
 *Set the Scene*: TBD
 

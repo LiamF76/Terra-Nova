@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
-      "timestamp": 1793641735152
+      "timestamp": 1793641741575
+    },
+    {
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+      "timestamp": 1793641740823
     },
     {
       "filepath": "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink/A Fixed Point.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
       "timestamp": 1793640671249
-    },
-    {
-      "filepath": "Dashboard.md",
-      "timestamp": 1793640669654
     }
   ],
   "bookmarkedFileStore": [],
