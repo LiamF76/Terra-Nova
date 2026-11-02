@@ -15,32 +15,15 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "597b7cee9e429a99",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Pentium Realm Brainstorm"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,10 +153,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "597b7cee9e429a99",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Pentium Realm/Characters/Marcus Aeneas.md",
     "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
+    "Pentium Realm/Characters/Marcus Aeneas.md",
     "Pentium Realm/Characters/Nvidius.md",
     "Pentium Realm/Scratch/Helix Nodes.md",
     "Pentium Realm/Scratch/Pentium Realm Kanban.md",
