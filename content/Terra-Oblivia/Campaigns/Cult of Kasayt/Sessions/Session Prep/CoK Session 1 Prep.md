@@ -42,16 +42,17 @@ The Artifact: [[Jade of Two Rivers]]
 DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead with a massive battleaxe having cut him in half (cursed magic weapon still there, his locket still around his neck with a note attached)
 
 *Set the Scene*: Rowan's study awaits down the hall through a stone archway that opens to the High Priest's library. The archway to Rowan's rooms beckons you inside, there is no light, but a faint trail of liquid running out from a pool under the door. It is blood. 
+
 The room ahead is stained with horror, as you see a body collapsed leaning against the back wall. A black battleaxe is impaled into the wall at the neck, and the body is headless. (Finch would recognize this as Rowan, whose head is gone.)
 
-TBD
+The entire office is a mess, with his workbench, desk, and bookshelves are in chaos. Papers are strewn about the floor and tables, seeming to have been torn through.
 
 - *Thread A*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
 	- Rowan's Amulet of Lumena, it is a small gold locket with a sun design on it. He always wears it.
 	- There is a small piece of paper tied around the necklace, barely peaking over his shirt collar.
 	- [[Rowan's Note to Finch]]
 
-Loot: **Cursed Battleaxe** (whoever picks it up cannot let it go, they become greedy and obsessed with it)
+Loot: **Cursed Battleaxe** (whoever picks it up cannot let it go, they become greedy and obsessed with it, this weapon can grow and develop later)
 
 ---
 
@@ -59,16 +60,12 @@ Loot: **Cursed Battleaxe** (whoever picks it up cannot let it go, they become gr
 
 #### **Rowan's Study**
 
-DM NOTE: Rowan's assistant invites the party with Finch to Rowan's study, as he was waiting for Finch to return with urgent news and wasn't to be disturbed until Finch was back.
-
-*Set the Scene*: TBD
-
-TBD
+DM NOTE: Party can look through Rowan's office for information
 
 - *Thread B*: **The Green Knights**
 	- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
-	- 2. Notes reference the wooden fortress
-	- 3. Logbook shows he gathered supplies regularly at a trading post outside Silver Spruce Forest (forest that has a silver spruce tree)
+	- 2. Notes reference the wooded fortress
+	- 3. Logbook shows he gathered supplies regularly at a trading post outside Silver Spruce Forest (forest that has a famous silver spruce tree)
 - *Thread C*: **The Demonic Tome**
 	- The door is physical, the key is not
 	- The door rests within a building made to be like a mountain
