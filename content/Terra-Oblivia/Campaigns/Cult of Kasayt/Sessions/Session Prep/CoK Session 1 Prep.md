@@ -41,11 +41,10 @@ The Artifact: [[Jade of Two Rivers]]
 
 DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead with a massive battleaxe having cut him in half (cursed magic weapon still there, his locket still around his neck with a note attached)
 
-*Set the Scene*: Rowan's study awaits down the hall through a stone archway that opens to the High Priest's library. The archway to Rowan's rooms beckons you inside, there is no light, but a faint trail of liquid running out from a pool under the door. It is blood. 
+*Set the Scene*: Rowan's study awaits down the hall through a stone archway that opens to the High Priest's library. The archway to Rowan's rooms beckons you inside, there is no light, but a faint trail of liquid running out from a pool under the door. It is blood. The room is pitch black, and you can hardly see in front of your face.
 
-The room ahead is stained with horror, as you see a body collapsed leaning against the back wall. A black battleaxe is impaled into the wall at the neck, and the body is headless. (Finch would recognize this as Rowan, whose head is gone.)
-
-The entire office is a mess, with his workbench, desk, and bookshelves are in chaos. Papers are strewn about the floor and tables, seeming to have been torn through.
+Upon entering a body collapsed and leaning against the back wall becomes visible, their clothes stained dark red with blood. A black battleaxe is impaled into the wall above what remains of their neck, and the body is decapitated. (Finch would recognize this as Rowan, whose head is gone.)
+The entire office is a mess, with his workbench, desk, and bookshelves are in chaos. Papers are strewn about the floor and tables, seeming to have been hastily scoured through. 
 
 - *Thread A*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
 	- Rowan's Amulet of Lumena, it is a small gold locket with a sun design on it. He always wears it.
@@ -82,15 +81,15 @@ DM NOTE: Party can look through Rowan's office for information
 
 ## Room 4: Climax, Big Battle
 
-#### **TBD**
+#### **The Garden Snake**
 
-DM NOTE: 
+DM NOTE: Party is investigating Rowan's office / body, and hear a hiss as a snake leaps upwards. It steals Rowan's amulet, and escapes into Rowan's garden. They chase it and fight it.
 
 *Set the Scene*: TBD
 
 TBD
 
-**Enemies**: 
+**Enemies**: 1x [Weak Storm Snake](https://2e.aonprd.com/Monsters.aspx?ID=3314&Weak=true&NoRedirect=1)
 
 ---
 
@@ -98,7 +97,7 @@ TBD
 
 #### **TBD**
 
-DM NOTE: Party meets with Ayla Syros, first to find them with the corpse of Rowan August. She does not assume they are guilty. She does have information:
+DM NOTE: Ayla Syros arrives looking for Rowan, finds the party and Rowan's body. Questions them but trusts Finch and Aren due to their respective roles in the Triarch.
 - Battle has begun at Bastion with the forces of a Warlord known as Bellum Grail, a follower of Kasayt.
 - The rest of Kasayt's forces are engaged in battle with Daegel Lathir, another warlord. This will either wipe out Kasayt's forces who are significantly weaker, or force them into the Triarch where they will try to hide from the other warlords.
 
