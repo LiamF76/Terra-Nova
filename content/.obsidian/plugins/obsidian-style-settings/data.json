@@ -137,5 +137,7 @@
   "minimal-style@@h1-variant": "small-caps",
   "minimal-style@@h2-weight": 800,
   "minimal-style@@h3-weight": 700,
-  "minimal-style@@h4-weight": 600
+  "minimal-style@@h4-weight": 600,
+  "minimal-style@@active-line-on": true,
+  "minimal-style@@h1-l": true
 }
