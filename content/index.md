@@ -7,10 +7,10 @@ aliases:
   - Worlds
 tags:
   - Arkfall
-  - PentiumRealm
   - Terra-Nova
   - Terra-Oblivia
   - The-Sparrow-Knight
+  - Pentium-Realm
 ---
 # Daraan's Worlds
 

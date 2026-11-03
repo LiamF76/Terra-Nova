@@ -36,5 +36,5 @@ I love you all, and this world, our stories, our fantasy and wonder, it's cool I
 
 
 Use templates, I have them provisioned in a folder.
-Every not should automatically be populated with the [[Basic Template]], if not apply it to every note you create. The Publish checkbox is set to push it to the Quartz page for the Wiki.
+Every not should automatically be populated with the [[A Universal Template]], if not apply it to every note you create. The Publish checkbox is set to push it to the Quartz page for the Wiki.
 Tag things properly for their world and meaning, it helps you stay focused, and understand connections.

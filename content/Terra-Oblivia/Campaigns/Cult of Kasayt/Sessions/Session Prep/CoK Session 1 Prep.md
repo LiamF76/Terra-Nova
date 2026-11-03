@@ -9,7 +9,7 @@ Created: 2026-10-17
 Session Date:
 ---
 
-## Cold Open
+# Cold Open
 
 The cool black metal gauntlets run softly along the glass orb, filled with shadow. They scratch, and spark, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of shadow behind him, death has come for the valley.
 

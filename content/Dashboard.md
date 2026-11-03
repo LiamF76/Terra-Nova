@@ -8,9 +8,9 @@ aliases:
   - index
 tags:
   - Arkfall
-  - PentiumRealm
   - Terra-Nova
   - Terra-Oblivia
+  - Pentium-Realm
 Created: 2026-08-26
 ---
 

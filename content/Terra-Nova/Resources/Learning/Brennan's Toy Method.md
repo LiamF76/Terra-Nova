@@ -4,8 +4,8 @@ title:
 aliases:
 tags:
   - Arkfall
-  - PentiumRealm
   - Terra-Nova
+  - Pentium-Realm
 ---
 
 
