@@ -104,7 +104,7 @@ DM NOTE: [[Ayla Syros]] arrives looking for Rowan, finds the party and Rowan's b
 
 *Set the Scene*: TBD
 
-TBD
+**[[Ayla Syros]]**: *"If even one bit of this is true, then something far worse than I have ever seen is hunting you. You will depart this city immediately, before this madness can bring ruin to my city. Follow the path Rowan left for you, and uncover who killed him and why. For the Dragon Gods above."*
 
 ---
 
