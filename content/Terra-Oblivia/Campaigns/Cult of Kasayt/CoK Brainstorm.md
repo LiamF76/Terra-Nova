@@ -81,6 +81,15 @@ Act 1:
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[The Emissaries of Opus Dei]]
+- [[The Acolyte]]
+- [[Sana Black-Sky]]
+- [[Bellum Grail]]
+- [[The Acolyte]]
+- [[Kasayt]]
+- [[The Acolyte]]
+- [[Sana Black-Sky]]
+- [[Bellum Grail]]
 - [[Sana Black-Sky]]
 - [[Kasayt]]
 
