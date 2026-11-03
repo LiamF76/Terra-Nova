@@ -35,7 +35,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 > ##  [[Terra-Oblivia Kanban]] | [[TO Idea Dump]] | [[Terra-Oblivia Lore Books Kanban]]
 
 > [!note] Encounter Ideas
-> ##  [[Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
+> ##  [[Terra-Nova/Working Folder/WIP/Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
 
 ---
 
