@@ -11,7 +11,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "Templates/Basic Template.md"
+      "template": "Templates/A Universal Template.md"
     }
   ],
   "file_templates": [],

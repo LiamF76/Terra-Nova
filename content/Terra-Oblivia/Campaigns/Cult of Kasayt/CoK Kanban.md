@@ -12,7 +12,8 @@ tags:
 - [ ] [[CoK Session 1 Notes]]
 - [x] [[Jade of Two Rivers]]
 - [x] [[Rowan's Note to Finch]]
-- [ ] [[The Orichalcum Hourglass]]
+- [x] [[Rowan's Letter to Osiris]]
+- [x] [[The Orichalcum Hourglass]]
 - [x] Caravan ambush
 - [x] Rowan murder / investigation
 - [x] Rowan research

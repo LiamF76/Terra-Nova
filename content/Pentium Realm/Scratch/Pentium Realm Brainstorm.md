@@ -3,7 +3,7 @@ publish: false
 title: Pentium Realm Brainstorm
 aliases:
 tags:
-  - PentiumRealm
+  - Pentium-Realm
 Created: 2026-07-29
 ---
 

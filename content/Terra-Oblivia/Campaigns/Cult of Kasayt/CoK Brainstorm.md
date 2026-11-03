@@ -9,10 +9,10 @@ Created: 2026-10-13
 
 # Brainstorm
 
-- ==BUT, THEREFORE==
+- *BUT*, **THEREFORE**
 - Aldred -> Arzen is an old God cultist trying to get back what he lost / understand himself, He runs a group called [[The Emissaries of Opus Dei]], 'Emissaries of God's Work', in Walima. He is researching the Old Gods in secret, and has communicated with Rowan on multiple occasions. They were both researching the Stone King.
 - **The DM is a PC too.**
-	- Who am I playing as in this campaign? Hartwyn Syros / The Acolyte. He is the character I embody as the enemy of the heroes. I must react as he does, and learn as he does.
+	- Who am I playing as in this campaign? Hartwyn Syros, [[The Acolyte]]. He is the character I embody as the enemy of the heroes. I must react as he does, and learn as he does.
 - How did Hartwyn bond to the orb of Kasayt? He discovered / was given something by Arzen. Something of the ancient world. What is it, and what does it say about Arzen?
 	- Fragment of Kronos's temporal prison pyramid that allows The Acolyte tot maintain Kasayt's soul in stasis and not die
 - What does The Acolyte need to make Kasayt a God?
@@ -81,6 +81,15 @@ Act 1:
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[The Emissaries of Opus Dei]]
+- [[The Acolyte]]
+- [[Sana Black-Sky]]
+- [[Bellum Grail]]
+- [[The Acolyte]]
+- [[Kasayt]]
+- [[The Acolyte]]
+- [[Sana Black-Sky]]
+- [[Bellum Grail]]
 - [[Sana Black-Sky]]
 - [[Kasayt]]
 

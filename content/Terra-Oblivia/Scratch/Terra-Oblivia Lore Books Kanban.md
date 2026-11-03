@@ -1,7 +1,9 @@
 ---
+
 kanban-plugin: board
 tags:
   - Terra-Oblivia
+
 ---
 
 ## Ivory Throne, Velvet Ink
@@ -11,6 +13,7 @@ tags:
 - [ ] [[If You're Reading this it's too Early]]
 - [ ] [[The Beauty of Yellow Mist]]
 - [ ] [[Watcher of Wolves]]
+- [ ] A Fixed Point
 
 
 ## Blood's Chronicle

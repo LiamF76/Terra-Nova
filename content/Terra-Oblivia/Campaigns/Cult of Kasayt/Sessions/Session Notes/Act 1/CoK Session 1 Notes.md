@@ -6,9 +6,18 @@ tags:
   - Terra-Oblivia
   - Session-Notes
 Created: 2026-10-18
+Session Date:
 ---
 
-write here
+## Session Notes
+
+- 
+
+## Session Threads
+
+- Min Jadid meaning / location / what is it?
+- Cursed Battleaxe that decapitated Rowan
+- Rowan's skull, where did it go?
 
 ---
 

@@ -1,3 +1,10 @@
+---
+publish: false
+title:
+aliases:
+tags:
+Created: <% tp.file.creation_date("YYYY-MM-DD") %>
+---
 
 ## Room 1: Entrance Guardian
 
@@ -60,3 +67,9 @@ DM NOTE: Describe the encounter / overview of the room
 *Set the Scene*: TBD
 
 TBD
+
+---
+
+## Links
+
+<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->

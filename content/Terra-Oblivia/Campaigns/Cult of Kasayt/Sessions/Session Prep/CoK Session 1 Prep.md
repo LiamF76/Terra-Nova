@@ -9,8 +9,9 @@ Created: 2026-10-17
 Session Date:
 ---
 
-### Brainstorm:
-- 
+# Cold Open
+
+A pair of cool spiked black metal gauntlets run softly along the glass orb, filled with shadow. The metal scratches the glass every so lightly and spark, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of shadow behind him, death has come for the valley.
 
 ---
 
@@ -23,13 +24,12 @@ DM NOTE: Party is traveling back to Citadel after getting an artifact and doing 
 *Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. 
 
 Whurnoud, the stout and reliable Dwarf that has been accompanying you along the journey Finch, notices your gaze lazily wandering as the wagon rides along. 
-"Would you like to drive Sir? A holy and good thing it is to help an old Dwarf with tired hands." His eyes dart back and forth to you, wanting mostly to involve you and not really caring about his own hands.
 
-As the wagon passes into a small ravine, the hills on either side feel dark, and the terrible shriek of beasts consumes your ears. Swarms of bats, glowing red eyes and gnashing teeth, alongside a well tested Orc warrior come crashing down around you! Roll initiative!
-
-As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel. A massive black battleaxe fixed to their back.
+**Combat Begins**: As the wagon passes into a small ravine, the hills on either side feel dark, and the terrible shriek of beasts consumes your ears. Swarms of bats, glowing red eyes and gnashing teeth, alongside a well tested Orc warrior come crashing down around you! Roll initiative!
 
 **Enemies**: 1x [Orc veteran](https://2e.aonprd.com/NPCs.aspx?ID=3130), 2x [Vampire bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=2848)
+
+**During combat**: As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel with the sound of a heavy metal battleaxe clanging on their back. 
 
 The Artifact: [[Jade of Two Rivers]]
 
@@ -41,17 +41,17 @@ The Artifact: [[Jade of Two Rivers]]
 
 DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead with a massive battleaxe having cut him in half (cursed magic weapon still there, his locket still around his neck with a note attached)
 
-*Set the Scene*: Rowan's study awaits down the hall, but before you reach the stone archway that opens to the High Priest's library, another door catches your eye. Slightly open, the door to Rowan's room beckons you inside, no light, but a faint trail of liquid running out from a pool under the door. It is blood. 
-Inside his simple priestly accommodations are stained with horror, as you see his body collapsed leaning against the back wall, his head cleaved from his shoulders and laying beside his body, and a massive battleaxe still embedded in the bricks behind where his neck used to be.
+*Set the Scene*: Rowan's study awaits down the hall through a stone archway that opens to the High Priest's library. The archway to Rowan's rooms beckons you inside, there is no light, but a faint trail of liquid running out from a pool under the door. It is blood. The room is pitch black, and you can hardly see in front of your face.
 
-TBD
+Upon entering a body collapsed and leaning against the back wall becomes visible, their clothes stained dark red with blood. A black battleaxe is impaled into the wall above what remains of their neck, and the body is decapitated. (Finch would recognize this as Rowan, whose head is gone.)
+The entire office is a mess, with his workbench, desk, and bookshelves are in chaos. Papers are strewn about the floor and tables, seeming to have been hastily scoured through. 
 
 - *Thread A*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
 	- Rowan's Amulet of Lumena, it is a small gold locket with a sun design on it. He always wears it.
 	- There is a small piece of paper tied around the necklace, barely peaking over his shirt collar.
 	- [[Rowan's Note to Finch]]
 
-Loot: **Cursed Battleaxe** (whoever picks it up cannot let it go, they become greedy and obsessed with it)
+Loot: **Cursed Battleaxe** (whoever picks it up cannot let it go, they become greedy and obsessed with it, this weapon can grow and develop later)
 
 ---
 
@@ -59,16 +59,12 @@ Loot: **Cursed Battleaxe** (whoever picks it up cannot let it go, they become gr
 
 #### **Rowan's Study**
 
-DM NOTE: Rowan's assistant invites the party with Finch to Rowan's study, as he was waiting for Finch to return with urgent news and wasn't to be disturbed until Finch was back.
-
-*Set the Scene*: TBD
-
-TBD
+DM NOTE: Party can look through Rowan's office for information
 
 - *Thread B*: **The Green Knights**
 	- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
-	- 2. Notes reference the wooden fortress
-	- 3. Logbook shows he gathered supplies regularly at a trading post outside Silver Spruce Forest (forest that has a silver spruce tree)
+	- 2. Notes reference the wooded fortress
+	- 3. Logbook shows he gathered supplies regularly at a trading post outside Silver Spruce Forest (forest that has a famous silver spruce tree)
 - *Thread C*: **The Demonic Tome**
 	- The door is physical, the key is not
 	- The door rests within a building made to be like a mountain
@@ -85,29 +81,30 @@ TBD
 
 ## Room 4: Climax, Big Battle
 
-#### **TBD**
+#### **The Garden Snake**
 
-DM NOTE: Blood cube left behind to kill whoever found Rowan's body, it turns into a blood monster or something and attacks,
+DM NOTE: Party is investigating Rowan's office / body, and hear a hiss as a snake leaps upwards. It steals Rowan's amulet, and escapes into Rowan's garden. They chase it and fight it.
 
 *Set the Scene*: TBD
 
 TBD
 
-**Enemies**: 
+**Enemies**: 1x [Weak Storm Snake](https://2e.aonprd.com/Monsters.aspx?ID=3314&Weak=true&NoRedirect=1)
 
 ---
 
 ## Room 5: Reward, Revelation, Plot Twist
 
-#### **TBD**
+#### **Ayla Arrives**
 
-DM NOTE: Party meets with Ayla Syros, first to find them with the corpse of Rowan August. She does not assume they are guilty. She does have information:
+DM NOTE: [[Ayla Syros]] arrives looking for Rowan, finds the party and Rowan's body. Questions them but trusts Finch and Aren due to their respective roles in the Triarch.
 - Battle has begun at Bastion with the forces of a Warlord known as Bellum Grail, a follower of Kasayt.
 - The rest of Kasayt's forces are engaged in battle with Daegel Lathir, another warlord. This will either wipe out Kasayt's forces who are significantly weaker, or force them into the Triarch where they will try to hide from the other warlords.
+- Ayla knows nothing about a demon tome or a wizard tower, but does know about the Silver Spruce Forest. She believed Rowan had been going there because he liked it or to meditate.
 
 *Set the Scene*: TBD
 
-TBD
+**[[Ayla Syros]]**: *"If even one bit of this is true, then something far worse than I have ever seen is hunting you. You will depart this city immediately, before this madness can bring ruin to my city. Follow the path Rowan left for you, and uncover who killed him and why. For the Dragon Gods above."*
 
 ---
 
@@ -119,5 +116,7 @@ TBD
 - [[Rowan August]]
 - [[The Orichalcum Hourglass]]
 - [[Rowan's Note to Finch]]
+- [[Rowan's Letter to Osiris]]
+- [[Ayla Syros]]
 
 <!-- SerializedQuery END -->

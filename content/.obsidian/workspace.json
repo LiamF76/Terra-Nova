@@ -151,6 +151,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
@@ -165,11 +168,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Dashboard.md",
+    "Templates/A Universal Template.md",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
     "z Images/Rowan's Letter to Osiris-1793586247061.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Rowan's Letter to Osiris.md",
     "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
     "Pentium Realm/Scratch/Pentium Realm Kanban.md",
@@ -196,7 +200,6 @@
     "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink/A Unique Rhetoric.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/The First Flame.md",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Shadow of Wings.md",
-    "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/Birthright.md",
     "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn",
     "Terra-Oblivia/History & Lore/Lore Books/Blood's Chronicle",
