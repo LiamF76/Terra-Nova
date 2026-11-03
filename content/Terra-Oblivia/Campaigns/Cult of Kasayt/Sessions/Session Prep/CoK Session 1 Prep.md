@@ -95,11 +95,12 @@ TBD
 
 ## Room 5: Reward, Revelation, Plot Twist
 
-#### **TBD**
+#### **Ayla Arrives**
 
-DM NOTE: Ayla Syros arrives looking for Rowan, finds the party and Rowan's body. Questions them but trusts Finch and Aren due to their respective roles in the Triarch.
+DM NOTE: [[Ayla Syros]] arrives looking for Rowan, finds the party and Rowan's body. Questions them but trusts Finch and Aren due to their respective roles in the Triarch.
 - Battle has begun at Bastion with the forces of a Warlord known as Bellum Grail, a follower of Kasayt.
 - The rest of Kasayt's forces are engaged in battle with Daegel Lathir, another warlord. This will either wipe out Kasayt's forces who are significantly weaker, or force them into the Triarch where they will try to hide from the other warlords.
+- Ayla knows nothing about a demon tome or a wizard tower, but does know about the Silver Spruce Forest. She believed Rowan had been going there because he liked it or to meditate.
 
 *Set the Scene*: TBD
 
@@ -116,5 +117,6 @@ TBD
 - [[The Orichalcum Hourglass]]
 - [[Rowan's Note to Finch]]
 - [[Rowan's Letter to Osiris]]
+- [[Ayla Syros]]
 
 <!-- SerializedQuery END -->
