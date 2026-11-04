@@ -27,8 +27,8 @@ tags:
 ## The Acolyte: Blessed to Burn
 
 - [x] [[The First Flame]]
-- [ ] [[Shadow of Wings]]
-- [ ] [[Ember of the Gods]]
+- [x] [[Shadow of Wings]]
+- [x] [[Ember of the Gods]]
 - [ ] [[The Burning Throne]]
 
 
