@@ -16,6 +16,7 @@ Session Date:
 ## Session Threads
 
 - Min Jadid meaning / location / what is it?
+- Rowan's amulet, what does it do and why was the snake trying to steal it?
 - Cursed Battleaxe that decapitated Rowan
 - Rowan's skull, where did it go?
 - Black rider, who was it and why did they kill Rowan? Where did they go?

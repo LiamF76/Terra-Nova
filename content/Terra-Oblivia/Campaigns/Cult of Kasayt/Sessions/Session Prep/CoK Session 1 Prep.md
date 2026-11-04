@@ -93,7 +93,7 @@ DM NOTE: Party can look through Rowan's office for information
 
 DM NOTE: Party is investigating Rowan's office / body, and hear a hiss as a snake leaps upwards. It steals Rowan's amulet, and escapes into Rowan's garden. They chase it and fight it.
 
-*Set the Scene*: TBD
+*Set the Scene*: A sharp hiss cuts through the silence of the study. Something slick and scaled uncoils from the shadows of Rowan’s desk, a flash of pale blue-white that sparks faintly in the dark. Before anyone can react, it lunges across the body and snaps its jaws around the golden locket. The chain snaps with a _crack_, and the serpent is gone, a streak of crackling light slithering out through the cracked window shutters and into the night.
 
 TBD
 
@@ -112,7 +112,7 @@ DM NOTE: [[Ayla Syros]] arrives looking for Rowan, finds the party and Rowan's b
 
 *Set the Scene*: TBD
 
-**[[Ayla Syros]]**: *"If even one bit of this is true, then something far worse than I have ever seen is hunting you. You will depart this city immediately, before this madness can bring ruin to my city. Follow the path Rowan left for you, and uncover who killed him and why. For the Dragon Gods above."*
+**[[Ayla Syros]]**: *"If even one bit of this is true, then something far worse than I have ever seen is hunting you. You must depart this city immediately, before this madness can bring ruin to my city. Follow the path Rowan left for you, and uncover who killed him and why. For the Dragon Gods above. This is the beginning of a long journey."*
 
 ---
 

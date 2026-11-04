@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "7ba8fc2a900355b1",
+            "id": "da2030ce6f3dad6a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -48,31 +48,31 @@
             }
           },
           {
-            "id": "64656cc8f6b334a4",
+            "id": "dce0137fcc621828",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CoK Player Characters"
+              "title": "CoK Session 1 Prep"
             }
           },
           {
-            "id": "bc3d1e61827b0701",
+            "id": "00a75f7960397354",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://docs.google.com/document/d/16sfEzS4wff4BA4m2UhWxcN0WbdNq3NYI5m5nMXG7vSI/edit?tab=t.0",
-                "title": "Aren Kaen - Google Docs",
-                "mode": "webview"
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Aren Kaen - Google Docs"
+              "icon": "lucide-file",
+              "title": "CoK Session 1 Notes"
             }
           }
         ],
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.08984375,
-    "collapsed": true
+    "width": 264.08984375
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -211,23 +210,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "64656cc8f6b334a4",
+  "active": "dce0137fcc621828",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Templates/Session Prep Template.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Dashboard.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Campaign Ideas.md",
+    "Theme Test Note.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
+    "Templates/Session Prep Template.md",
     "z Old/OLD GAMES/one-shots/Mice, Dice, and Spice/MDS session prep.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Exploration Encounter Ideas.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
     "index.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Dungeon and Quest Ideas.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Raid Encounter Ideas.md",
-    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Campaign Ideas.md",
     "Outside Worlds/Deadlock/IDK!!!.md",
     "pathfinder cheat sheet.png",
-    "Theme Test Note.md",
     "Vault To-Do.md",
     "z Images/CoK Player Characters-1793764883793.webp",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
