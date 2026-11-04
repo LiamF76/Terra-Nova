@@ -29,7 +29,13 @@ Backstory / Knives: https://docs.google.com/document/d/1cq2B456nO8AYB-jVD3L-Iu6Q
 Backstory / Knives: https://docs.google.com/document/d/16sfEzS4wff4BA4m2UhWxcN0WbdNq3NYI5m5nMXG7vSI/edit?usp=sharing
 
 **Ideas**:
-- 
+- Where does Aren's divine power of the dead war god come from?
+	- Ancestral, one of Aren's ancestors drank the blood 
+- Blood rituals
+- Divination by entrails
+- Cast bones into fire
+	- bones crack in the fire, DM describes their meaning directly to the player
+	- 
 
 ---
 
