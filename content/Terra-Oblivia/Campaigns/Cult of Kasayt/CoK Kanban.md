@@ -42,8 +42,14 @@ tags:
 ## future prep
 
 - [ ] [[Woodland Rest]]
-- [ ] [[Calder]]
-- [ ] [[Astor]]
+
+
+## Triarch 4 Season Spirits
+
+- [ ] Spring:
+- [ ] Summer: [[Astor]]
+- [ ] Autumn: [[Calder]]
+- [ ] Winter: [[Pax]]
 
 
 ## rules
@@ -63,6 +69,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%

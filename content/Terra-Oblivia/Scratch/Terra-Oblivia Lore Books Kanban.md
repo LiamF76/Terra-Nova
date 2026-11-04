@@ -29,7 +29,7 @@ tags:
 - [x] [[The First Flame]]
 - [x] [[Shadow of Wings]]
 - [x] [[Ember of the Gods]]
-- [ ] [[The Burning Throne]]
+- [x] [[The Burning Throne]]
 
 
 ## Sand from the Hourglass
