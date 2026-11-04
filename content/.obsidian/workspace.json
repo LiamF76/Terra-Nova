@@ -24,8 +24,9 @@
             }
           },
           {
-            "id": "615dba64272ef36d",
+            "id": "7ba8fc2a900355b1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -41,36 +42,23 @@
                   ]
                 }
               },
+              "pinned": true,
               "icon": "lucide-trello",
               "title": "CoK Kanban"
             }
           },
           {
-            "id": "7e47b8956c2ea921",
+            "id": "2617b335f7af1e39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+                "file": "Templates/Session Prep Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CoK Session 1 Prep"
-            }
-          },
-          {
-            "id": "5b2c2217d1bf7b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CoK Session 1 Notes"
+              "title": "Session Prep Template"
             }
           }
         ],
@@ -204,18 +192,20 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "calendarium:Open Calendarium": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "7e47b8956c2ea921",
+  "active": "2617b335f7af1e39",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Dashboard.md",
+    "Templates/Session Prep Template.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
-    "index.md",
+    "Dashboard.md",
+    "z Old/OLD GAMES/one-shots/Mice, Dice, and Spice/MDS session prep.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Exploration Encounter Ideas.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
+    "index.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Dungeon and Quest Ideas.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Raid Encounter Ideas.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Campaign Ideas.md",
@@ -241,8 +231,6 @@
     "Terra-Nova/Resources/Learning/Brennan's Toy Method.md",
     "Pentium Realm/Pentium Realm Wiki Homepage.md",
     "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
-    "Pentium Realm/Scratch/Helix Nodes.md",
-    "Pentium Realm/Scratch/Pentium Realm Kanban.md",
     "z Images/Rowan's Letter to Osiris-1793586247061.webp",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "z Images/Rowan's Letter to Osiris-1793297672438.webp",
