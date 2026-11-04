@@ -11,7 +11,7 @@ Session Date:
 
 # CoK Session 1 Prep
 
-# Cold Open
+## Cold Open
 
 A pair of cool spiked black metal gauntlets run softly along the glass orb, filled with shadow. The metal scratches the glass every so lightly and spark, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of shadow behind him, death has come for the valley.
 
