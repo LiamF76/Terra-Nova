@@ -19,7 +19,7 @@ tags:
 ## Ideas
 
 - [ ] [[Campaign & Quest Ideas]]
-- [ ] [[Raid Encounter Ideas]]
+- [ ] [[Terra-Nova/Working Folder/WIP/Raid Encounter Ideas]]
 
 
 ## Worldbuilding
