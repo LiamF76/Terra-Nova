@@ -18,6 +18,7 @@ Session Date:
 - Min Jadid meaning / location / what is it?
 - Cursed Battleaxe that decapitated Rowan
 - Rowan's skull, where did it go?
+- Black rider, who was it and why did they kill Rowan? Where did they go?
 
 ---
 
