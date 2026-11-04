@@ -36,6 +36,7 @@ Backstory / Knives: https://docs.google.com/document/d/16sfEzS4wff4BA4m2UhWxcN0W
 Backstory / Knives: https://docs.google.com/document/d/1Cr4RivFX8pI7f6mMiI2wDV8aaZ_sXSd3ZTRhLoBm0XE/edit?usp=sharing
 
 **Ideas**:
+- likes treasures with monetary value, likes them to have them and are expensive, and because they can be sold for profit
 - 
 
 ---
