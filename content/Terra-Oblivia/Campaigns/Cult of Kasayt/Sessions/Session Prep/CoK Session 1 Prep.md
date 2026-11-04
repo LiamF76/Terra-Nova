@@ -9,6 +9,8 @@ Created: 2026-10-17
 Session Date:
 ---
 
+# CoK Session 1 Prep
+
 # Cold Open
 
 A pair of cool spiked black metal gauntlets run softly along the glass orb, filled with shadow. The metal scratches the glass every so lightly and spark, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of shadow behind him, death has come for the valley.
@@ -21,7 +23,7 @@ A pair of cool spiked black metal gauntlets run softly along the glass orb, fill
 
 DM NOTE: Party is traveling back to Citadel after getting an artifact and doing a healing mission near Bastion. Less than half a day's ride from the Capital, they are ambushed on the road.
 
-*Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. 
+*Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. The sky above is clear, but dark clouds loom from 
 
 Introduce characters! Tell me what you're doing as you travel the road.
 
