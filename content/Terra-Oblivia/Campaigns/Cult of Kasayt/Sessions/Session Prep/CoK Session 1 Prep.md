@@ -23,13 +23,18 @@ DM NOTE: Party is traveling back to Citadel after getting an artifact and doing 
 
 *Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. 
 
-Whurnoud, the stout and reliable Dwarf that has been accompanying you along the journey Finch, notices your gaze lazily wandering as the wagon rides along. 
+Introduce characters! Tell me what you're doing 
+
+Whurnoud, the stout and reliable Dwarf that has been accompanying you along the journey Finch, notices your gaze lazily wandering as the wagon rides along. Your eyes pan slowly backwards as you take in the sights of the valley and trees around you, and they pause for a moment as you scan over the large wooden chest in the back of the wagon. It holds an artifact unknown to you, obtained by another member of your convoy.
 
 **Combat Begins**: As the wagon passes into a small ravine, the hills on either side feel dark, and the terrible shriek of beasts consumes your ears. Swarms of bats, glowing red eyes and gnashing teeth, alongside a well tested Orc warrior come crashing down around you! Roll initiative!
 
 **Enemies**: 1x [Orc veteran](https://2e.aonprd.com/NPCs.aspx?ID=3130), 2x [Vampire bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=2848)
+- *Enemies Goal*: The orc warrior is there to steal the artifact from the chest in the back of the wagon. 
 
-**During combat**: As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel with the sound of a heavy metal battleaxe clanging on their back. 
+**During Combat**: As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel with the sound of a heavy metal battleaxe clanging on their back. 
+
+**After Combat**: As the road quiets when battle ends, the darkening sky becomes clouded. Droplets of rain begin to fall lightly, then quickly, and a storm begins. The hoof prints of the black rider who passed you slowly fade as the dirt turns to mud. The city of Citadel awaits nearly 2 hours down the road. 
 
 The Artifact: [[Jade of Two Rivers]]
 

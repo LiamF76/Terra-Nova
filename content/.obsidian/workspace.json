@@ -24,21 +24,43 @@
             }
           },
           {
-            "id": "534ece3981f6dfc0",
+            "id": "149e2c1aad7a06e5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "CoK Kanban"
+            }
+          },
+          {
+            "id": "7e47b8956c2ea921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "CoK Session 1 Prep"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,26 +194,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "534ece3981f6dfc0",
+  "active": "7e47b8956c2ea921",
   "lastOpenFiles": [
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Dashboard.md",
+    "index.md",
+    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Exploration Encounter Ideas.md",
+    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Dungeon and Quest Ideas.md",
+    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Raid Encounter Ideas.md",
+    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Campaign Ideas.md",
+    "Outside Worlds/Deadlock/IDK!!!.md",
     "pathfinder cheat sheet.png",
     "Theme Test Note.md",
     "Vault To-Do.md",
-    "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "z Images/CoK Player Characters-1793764883793.webp",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Exploration Encounter Ideas.md",
     "z Images/Exploration Encounter Ideas-1793757024938.webp",
-    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Dungeon and Quest Ideas.md",
     "z Images/Exploration Encounter Ideas-1793755358296.webp",
     "z Images/Exploration Encounter Ideas-1793755352525.webp",
     "Terra-Nova/Working Folder/WIP/Exploration Encounter Ideas.md",
-    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Campaign Ideas.md",
     "Terra-Nova/Working Folder/WIP/Campaign & Quest Ideas.md",
-    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Raid Encounter Ideas.md",
     "Untitled.base",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
@@ -199,7 +223,6 @@
     "Terra-Oblivia/Campaigns/Cult of Kasayt/The Cult of Kasayt Story Introduction.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Dashboard.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "index.md",
     "Terra-Nova/Resources/Learning/Brennan's Toy Method.md",
     "Pentium Realm/Pentium Realm Wiki Homepage.md",
     "Pentium Realm/Scratch/Pentium Realm Brainstorm.md",
@@ -212,7 +235,6 @@
     "z Images/Woodland Rest-1793282707754.webp",
     "z Images/Woodland Rest-1793282595497.webp",
     "z Images/Woodland Rest-1793282491840.webp",
-    "z Images/Woodland Rest-1793282339843.webp",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Terra-Oblivia/Dungeons",
     "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn",

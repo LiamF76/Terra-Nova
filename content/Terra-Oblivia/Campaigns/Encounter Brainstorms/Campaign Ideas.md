@@ -3,6 +3,7 @@ publish: false
 title: Campaign Ideas
 aliases:
 tags:
+  - Terra-Oblivia
 Created: 2026-11-03
 ---
 
