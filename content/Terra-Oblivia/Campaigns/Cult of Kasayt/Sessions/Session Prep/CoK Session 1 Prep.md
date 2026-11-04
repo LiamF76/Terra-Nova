@@ -23,9 +23,9 @@ DM NOTE: Party is traveling back to Citadel after getting an artifact and doing 
 
 *Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. 
 
-Introduce characters! Tell me what you're doing 
+Introduce characters! Tell me what you're doing as you travel the road.
 
-Whurnoud, the stout and reliable Dwarf that has been accompanying you along the journey Finch, notices your gaze lazily wandering as the wagon rides along. Your eyes pan slowly backwards as you take in the sights of the valley and trees around you, and they pause for a moment as you scan over the large wooden chest in the back of the wagon. It holds an artifact unknown to you, obtained by another member of your convoy.
+*Whurnoud*, the stout and reliable Dwarf that has been accompanying you along the journey Finch, notices your gaze lazily wandering as the wagon rides along. Your eyes pan slowly backwards as you take in the sights of the valley and trees around you, and they pause for a moment as you scan over the large wooden chest in the back of the wagon. It holds an artifact unknown to you, obtained by another member of your convoy.
 
 **Combat Begins**: As the wagon passes into a small ravine, the hills on either side feel dark, and the terrible shriek of beasts consumes your ears. Swarms of bats, glowing red eyes and gnashing teeth, alongside a well tested Orc warrior come crashing down around you! Roll initiative!
 

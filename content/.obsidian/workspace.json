@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "149e2c1aad7a06e5",
+            "id": "615dba64272ef36d",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -43,6 +43,20 @@
               },
               "icon": "lucide-trello",
               "title": "CoK Kanban"
+            }
+          },
+          {
+            "id": "5b2c2217d1bf7b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CoK Session 1 Notes"
             }
           },
           {
@@ -194,10 +208,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e47b8956c2ea921",
+  "active": "5b2c2217d1bf7b9c",
   "lastOpenFiles": [
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Dashboard.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "index.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Exploration Encounter Ideas.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Dungeon and Quest Ideas.md",
@@ -207,7 +222,6 @@
     "pathfinder cheat sheet.png",
     "Theme Test Note.md",
     "Vault To-Do.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "z Images/CoK Player Characters-1793764883793.webp",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
