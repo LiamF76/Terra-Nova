@@ -72,6 +72,7 @@ DM NOTE: Party can look through Rowan's office for information
 - *Thread D*: **Letters to/from Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
 	- [[Rowan's Letter to Osiris]]
 	- On Rowan's desk, hand written
+	- Min Jadid is Celestial for "The Reborn"
 - *Thread E*: **What is missing**
 	- Despite all of the foundational information, the location of the Tome, and the Green Knights, is mysteriously missing. It appears Rowan had been there, but there is no written record of its exact location.
 
