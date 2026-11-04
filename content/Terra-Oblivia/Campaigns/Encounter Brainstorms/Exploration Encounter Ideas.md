@@ -24,6 +24,8 @@ Created: 2026-11-03
 - A glade along the roadside with a single glowing flower, A monster approaches and attempts to eat this flower. It is a sacred flower to the local religion and allowing it to be eaten is unacceptable to locals.
 - A snake coiled around a skull. It can speak and understand common. It whispers about the location of treasure or something the party desires, promising to show them a secret path to it in exchange for a share of the profit.
   ![[Exploration Encounter Ideas-1793755358296.webp|300]]
+- A skull trapped within an old torch sconce like a cage. It speaks and can understand common. It asks the party to set it free, and to please not light it on fire again. If the skull is lit on fire, it is a torch that requires no fuel, burning until it is put out. This causes the skull immense pain but he only speaks when not lit. The more the party uses him as a torch the more he hates them, and if he ever escapes he will seek revenge. If they free him he will guide them to treasure.
+  ![[Exploration Encounter Ideas-1793757024938.webp|300x300]]
 - 
 
 ---
