@@ -28,13 +28,19 @@ tags:
 
 - [x] [[The First Flame]]
 - [ ] [[Shadow of Wings]]
-- [ ] [[Birthright]]
+- [ ] [[Ember of the Gods]]
+- [ ] [[The Burning Throne]]
+
+
+## Sand from the Hourglass
+
+- [ ] Arzen Osiris lore book
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
