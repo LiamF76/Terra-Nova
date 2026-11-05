@@ -22,8 +22,35 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "de277428efbba9e0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "CoK Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.08984375,
-    "collapsed": true
+    "width": 264.08984375
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -158,10 +184,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "de277428efbba9e0",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Kori Session.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Finch Session.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Aren Session.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions",
+    "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Characters/Spirits/Pax.md",
     "z Images/Pax-1793819908332.webp",
@@ -179,14 +210,11 @@
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Campaign Ideas.md",
     "Theme Test Note.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Templates/Session Prep Template.md",
     "z Old/OLD GAMES/one-shots/Mice, Dice, and Spice/MDS session prep.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Exploration Encounter Ideas.md",
     "index.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Dungeon and Quest Ideas.md",
-    "Terra-Oblivia/Campaigns/Encounter Brainstorms/Raid Encounter Ideas.md",
-    "Outside Worlds/Deadlock/IDK!!!.md",
     "pathfinder cheat sheet.png",
     "z Images/CoK Player Characters-1793764883793.webp",
     "z Images/Exploration Encounter Ideas-1793757024938.webp",
@@ -207,7 +235,6 @@
     "Terra-Oblivia/Groups/Warbands",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
     "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Velvet Ink",
-    "Terra-Oblivia/History & Lore/Lore Books",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
     "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",

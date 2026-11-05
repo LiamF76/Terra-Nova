@@ -6,6 +6,13 @@ tags:
 
 ---
 
+## Pre-Campaign Sessions
+
+- [ ] [[Finch Session]]
+- [ ] [[Aren Session]]
+- [ ] [[Kori Session]]
+
+
 ## Session 1
 
 - [ ] [[CoK Session 1 Prep]]
@@ -69,6 +76,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%
