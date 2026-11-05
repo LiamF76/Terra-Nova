@@ -7,6 +7,15 @@ tags:
 Created: 2026-11-04
 ---
 
+## Brainstorm
+
+- short dungeon
+- getting the artifact before campaign starts
+- opportunity to RP and do combat
+- 
+
+# Kori Session
+
 ---
 
 ## Links
