@@ -53,8 +53,8 @@ tags:
 
 ## Triarch 4 Season Spirits
 
-- [ ] Spring:
-- [ ] Summer: [[Astor]]
+- [ ] Spring: [[Astor]]
+- [ ] Summer:
 - [ ] Autumn: [[Calder]]
 - [ ] Winter: [[Pax]]
 
