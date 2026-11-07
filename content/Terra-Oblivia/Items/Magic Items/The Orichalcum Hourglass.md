@@ -11,7 +11,7 @@ Created: 2026-10-17
 
 # The Orichalcum Hourglass
 
-**Wondrous Item**, *Artifact* (attunement note if any)
+**Wondrous Item**, *Artifact* (not attuned)
 
 | Locket Form                                               | Hourglass Form                                            |
 | --------------------------------------------------------- | --------------------------------------------------------- |
@@ -21,7 +21,7 @@ Created: 2026-10-17
 
 ## Description
 
-> [!quote] Flavor Text A one or two sentence evocative description of the item's appearance, feel, or reputation.
+> [!quote] Memory, forever. Calcified and given form, every pivotal moment sealed here, if you are strong enough to manifest them that is.
 
 **Physical Appearance:** Small golden locket with a sun design on the front.
 
@@ -39,21 +39,6 @@ Created: 2026-10-17
 - **Recharge:** e.g. "regains 1d4 charges daily at dawn"
 
 ### Attunement Requirements *(if any)*
-
----
-
-## Curse / Drawback *(if any)*
-
-> [!danger] Curse
-
----
-
-## Sentience *(if applicable)*
-
-- **Alignment:** 
-- **Communication:** 
-- **Senses:** 
-- **Personality/Motivations:** 
 
 ---
 
