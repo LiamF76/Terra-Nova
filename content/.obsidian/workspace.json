@@ -22,8 +22,35 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "a38f9f684fd87400",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "CoK Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -166,8 +194,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a38f9f684fd87400",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Kori Session.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Finch Session.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Aren Session.md",
@@ -185,14 +216,12 @@
     "Terra-Oblivia/Characters/Mortals/Chim.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Raid Encounter Ideas.md",
     "Outside Worlds/Deadlock/IDK!!!.md",
-    "Dashboard.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Campaign Ideas.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Exploration Encounter Ideas.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms/Dungeon and Quest Ideas.md",
     "Terra-Oblivia/Campaigns/Encounter Brainstorms",
     "Theme Test Note.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Templates/A Universal Template.md",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
     "z Images/Rowan's Letter to Osiris-1793586247061.webp",
@@ -203,7 +232,6 @@
     "Pentium Realm/Characters/Marcus Aeneas.md",
     "Outside Worlds/Deadlock/Dredge.md",
     "Calder.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Pentium Realm/Scratch/depreciated",
     "Pentium Realm/Scratch",
     "Outside Worlds/Deadlock",

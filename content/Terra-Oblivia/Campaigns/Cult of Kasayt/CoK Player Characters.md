@@ -45,6 +45,14 @@ Backstory / Knives: https://docs.google.com/document/d/1Cr4RivFX8pI7f6mMiI2wDV8a
 
 **Ideas**:
 - likes treasures with monetary value, likes them to have them and are expensive, and because they can be sold for profit
+
+---
+
+## Shawn 
+
+Backstory / Knives: 
+
+**Ideas**: 
 - 
 
 ---

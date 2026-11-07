@@ -22,7 +22,20 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+      "timestamp": 1794093385894
+    },
+    {
+      "filepath": "Dashboard.md",
+      "timestamp": 1794093370214
+    },
+    {
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
+      "timestamp": 1794093297406
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
