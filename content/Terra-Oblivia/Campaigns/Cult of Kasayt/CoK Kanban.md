@@ -6,6 +6,13 @@ tags:
 
 ---
 
+## Pre-Campaign Sessions
+
+- [ ] [[Finch Session]]
+- [ ] [[Aren Session]]
+- [ ] [[Kori Session]]
+
+
 ## Session 1
 
 - [ ] [[CoK Session 1 Prep]]
@@ -42,8 +49,15 @@ tags:
 ## future prep
 
 - [ ] [[Woodland Rest]]
-- [ ] [[Calder]]
-- [ ] [[Astor]]
+- [ ] Chim
+
+
+## Triarch 4 Season Spirits
+
+- [ ] Spring: [[Astor]]
+- [ ] Summer:
+- [ ] Autumn: [[Calder]]
+- [ ] Winter: [[Pax]]
 
 
 ## rules
@@ -63,6 +77,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%

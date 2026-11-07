@@ -36,10 +36,8 @@ Physical forms and appearance
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
-- 
+- Spirit of Summer in [[The Triarch]]
+- Hawk Spirit, fought against [[Kasayt]] and brought the battle to a stand still long ago
 
 ---
 

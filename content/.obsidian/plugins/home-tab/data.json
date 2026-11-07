@@ -22,12 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "Dashboard.md",
-      "timestamp": 1794091448457
-    }
-  ],
+  "recentFilesStore": [],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

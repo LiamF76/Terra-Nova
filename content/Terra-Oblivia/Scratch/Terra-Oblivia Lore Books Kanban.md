@@ -27,14 +27,20 @@ tags:
 ## The Acolyte: Blessed to Burn
 
 - [x] [[The First Flame]]
-- [ ] [[Shadow of Wings]]
-- [ ] [[Birthright]]
+- [x] [[Shadow of Wings]]
+- [x] [[Ember of the Gods]]
+- [x] [[The Burning Throne]]
+
+
+## Sand from the Hourglass
+
+- [ ] Arzen Osiris lore book
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

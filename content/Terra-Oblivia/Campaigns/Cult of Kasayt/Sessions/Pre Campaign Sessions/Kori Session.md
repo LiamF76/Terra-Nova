@@ -1,13 +1,20 @@
 ---
 publish: false
-title:
+title: Kori Session
 aliases:
 tags:
   - Terra-Oblivia
-Created: 2026-10-25
+Created: 2026-11-04
 ---
 
-write here
+## Brainstorm
+
+- short dungeon
+- getting the artifact before campaign starts
+- opportunity to RP and do combat
+- 
+
+# Kori Session
 
 ---
 

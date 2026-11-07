@@ -27,15 +27,15 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 > [!note] Cult of Kasayt
 > ## [[CoK Kanban]] | [[CoK Brainstorm]] | [[CoK Player Characters]]
 
+> [!note] Encounter Ideas
+> ## [[Terra-Oblivia/Campaigns/Encounter Brainstorms/Exploration Encounter Ideas|Exploration Encounter Ideas]] | [[Dungeon and Quest Ideas]] | [[Terra-Oblivia/Campaigns/Encounter Brainstorms/Raid Encounter Ideas|Raid Encounter Ideas]] | [[Campaign Ideas]]
+
 ---
 
 # Terra-Oblivia
 
 > [!note] Terra-Oblivia Worldbuilding
 > ##  [[Terra-Oblivia Kanban]] | [[TO Idea Dump]] | [[Terra-Oblivia Lore Books Kanban]]
-
-> [!note] Encounter Ideas
-> ##  [[Terra-Nova/Working Folder/WIP/Exploration Encounter Ideas]] | [[Campaign & Quest Ideas]] | [[Raid Encounter Ideas]]
 
 ---
 

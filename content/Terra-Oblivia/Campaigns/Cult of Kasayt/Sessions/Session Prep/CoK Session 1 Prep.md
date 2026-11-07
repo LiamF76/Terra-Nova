@@ -9,7 +9,9 @@ Created: 2026-10-17
 Session Date:
 ---
 
-# Cold Open
+# CoK Session 1 Prep
+
+## Cold Open
 
 A pair of cool spiked black metal gauntlets run softly along the glass orb, filled with shadow. The metal scratches the glass every so lightly and spark, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of shadow behind him, death has come for the valley.
 
@@ -21,15 +23,20 @@ A pair of cool spiked black metal gauntlets run softly along the glass orb, fill
 
 DM NOTE: Party is traveling back to Citadel after getting an artifact and doing a healing mission near Bastion. Less than half a day's ride from the Capital, they are ambushed on the road.
 
-*Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. 
+*Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. The sky above is clear, but dark clouds loom from 
 
-Whurnoud, the stout and reliable Dwarf that has been accompanying you along the journey Finch, notices your gaze lazily wandering as the wagon rides along. 
+Introduce characters! Tell me what you're doing as you travel the road.
+
+*Whurnoud*, the stout and reliable Dwarf that has been accompanying you along the journey Finch, notices your gaze lazily wandering as the wagon rides along. Your eyes pan slowly backwards as you take in the sights of the valley and trees around you, and they pause for a moment as you scan over the large wooden chest in the back of the wagon. It holds an artifact unknown to you, obtained by another member of your convoy.
 
 **Combat Begins**: As the wagon passes into a small ravine, the hills on either side feel dark, and the terrible shriek of beasts consumes your ears. Swarms of bats, glowing red eyes and gnashing teeth, alongside a well tested Orc warrior come crashing down around you! Roll initiative!
 
 **Enemies**: 1x [Orc veteran](https://2e.aonprd.com/NPCs.aspx?ID=3130), 2x [Vampire bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=2848)
+- *Enemies Goal*: The orc warrior is there to steal the artifact from the chest in the back of the wagon. 
 
-**During combat**: As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel with the sound of a heavy metal battleaxe clanging on their back. 
+**During Combat**: As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel with the sound of a heavy metal battleaxe clanging on their back. 
+
+**After Combat**: As the road quiets when battle ends, the darkening sky becomes clouded. Droplets of rain begin to fall lightly, then quickly, and a storm begins. The hoof prints of the black rider who passed you slowly fade as the dirt turns to mud. The city of Citadel awaits nearly 2 hours down the road. 
 
 The Artifact: [[Jade of Two Rivers]]
 
@@ -72,6 +79,7 @@ DM NOTE: Party can look through Rowan's office for information
 - *Thread D*: **Letters to/from Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
 	- [[Rowan's Letter to Osiris]]
 	- On Rowan's desk, hand written
+	- Min Jadid is Celestial for "The Reborn"
 - *Thread E*: **What is missing**
 	- Despite all of the foundational information, the location of the Tome, and the Green Knights, is mysteriously missing. It appears Rowan had been there, but there is no written record of its exact location.
 
@@ -85,7 +93,7 @@ DM NOTE: Party can look through Rowan's office for information
 
 DM NOTE: Party is investigating Rowan's office / body, and hear a hiss as a snake leaps upwards. It steals Rowan's amulet, and escapes into Rowan's garden. They chase it and fight it.
 
-*Set the Scene*: TBD
+*Set the Scene*: A sharp hiss cuts through the silence of the study. Something slick and scaled uncoils from the shadows of Rowan’s desk, a flash of pale blue-white that sparks faintly in the dark. Before anyone can react, it lunges across the body and snaps its jaws around the golden locket. The chain snaps with a _crack_, and the serpent is gone, a streak of crackling light slithering out through the cracked window shutters and into the night.
 
 TBD
 
@@ -100,11 +108,12 @@ TBD
 DM NOTE: [[Ayla Syros]] arrives looking for Rowan, finds the party and Rowan's body. Questions them but trusts Finch and Aren due to their respective roles in the Triarch.
 - Battle has begun at Bastion with the forces of a Warlord known as Bellum Grail, a follower of Kasayt.
 - The rest of Kasayt's forces are engaged in battle with Daegel Lathir, another warlord. This will either wipe out Kasayt's forces who are significantly weaker, or force them into the Triarch where they will try to hide from the other warlords.
-- Ayla knows nothing about a demon tome or a wizard tower, but does know about the Silver Spruce Forest. She believed Rowan had been going there because he liked it or to meditate.
+- Ayla knows about the Silver Spruce Forest. She believed Rowan had been going there because he liked it or to meditate.
+- Ayla is aware of the demonic tome, which was once in a Wizard tower that was long destroyed. It was hidden away by a forgotten Kingdom in a dangerous ruin in the hills around the Valley. If they want to find more information they will need to speak to 
 
 *Set the Scene*: TBD
 
-**[[Ayla Syros]]**: *"If even one bit of this is true, then something far worse than I have ever seen is hunting you. You will depart this city immediately, before this madness can bring ruin to my city. Follow the path Rowan left for you, and uncover who killed him and why. For the Dragon Gods above."*
+**[[Ayla Syros]]**: *"If even one bit of this is true, then something far worse than I have ever seen is hunting you. You must depart this city immediately, before this madness can bring ruin to my city. Follow the path Rowan left for you, and uncover who killed him and why. For the Dragon Gods above. This is the beginning of a long journey."*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: Shadow of Wings
 aliases:
 tags:
   - Terra-Oblivia
