@@ -22,7 +22,6 @@ Created: 2026-10-17
 ## Description
 
 > [!quote] Memory, forever. Calcified and given form, every pivotal moment sealed here, if you are strong enough to manifest them that is.
-
 **Physical Appearance:** Small golden locket with a sun design on the front.
 
 **History / Lore:** 
