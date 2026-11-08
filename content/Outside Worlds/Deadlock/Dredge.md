@@ -12,7 +12,9 @@ Brainstorm:
 
 # Name
 
-IMAGE HERE
+| Normal                              | Ultimate                            |
+| ----------------------------------- | ----------------------------------- |
+| ![[Dredge-1794102173933.webp\|400]] | ![[Dredge-1794102189961.webp\|400]] |
 
 ## THING - THING - THING
 
