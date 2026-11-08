@@ -110,6 +110,7 @@ DM NOTE: [[Ayla Syros]] arrives looking for Rowan, finds the party and Rowan's b
 - The rest of Kasayt's forces are engaged in battle with Daegel Lathir, another warlord. This will either wipe out Kasayt's forces who are significantly weaker, or force them into the Triarch where they will try to hide from the other warlords.
 - Ayla knows about the Silver Spruce Forest. She believed Rowan had been going there because he liked it or to meditate.
 - Ayla is aware of the demonic tome, which was once in a Wizard tower that was long destroyed. It was hidden away by a forgotten Kingdom in a dangerous ruin in the hills around the Valley. If they want to find more information they will need to speak to 
+- Ayla tells the party to find the wandering Magus, Chim. He will know more about the artifact Rowan left and what is happening with the Triarch.
 
 *Set the Scene*: TBD
 
