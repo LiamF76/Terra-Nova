@@ -1,20 +1,20 @@
 {
-  "logoType": "imagePath",
+  "logoType": "default",
   "logo": {
     "lucideIcon": "",
-    "imagePath": "z Images/fantasy.png",
+    "imagePath": "",
     "imageLink": ""
   },
   "logoScale": 1.2,
   "iconColorType": "default",
-  "wordmark": "Daraan's Canvas",
+  "wordmark": "Obsidian",
   "customFont": "interfaceFont",
   "fontSize": "4em",
   "fontColorType": "default",
   "fontWeight": 600,
   "maxResults": 5,
   "showbookmarkedFiles": true,
-  "showRecentFiles": true,
+  "showRecentFiles": false,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
   "showPath": true,
@@ -24,20 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Outside Worlds/Deadlock/Dredge.md",
-      "timestamp": 1794102063249
-    },
-    {
-      "filepath": "Outside Worlds/Deadlock/IDK!!!.md",
-      "timestamp": 1794102061632
-    },
-    {
       "filepath": "Dashboard.md",
-      "timestamp": 1794101972464
+      "timestamp": 1794146708181
     },
     {
-      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-      "timestamp": 1794101972243
+      "filepath": "Terra-Oblivia/Characters/Mortals/Chim.md",
+      "timestamp": 1794146707890
     }
   ],
   "bookmarkedFileStore": [],
@@ -45,6 +37,6 @@
   "replaceNewTabs": true,
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
-  "omnisearch": true,
+  "omnisearch": false,
   "showOmnisearchExcerpt": true
 }
