@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Dredge
+title: Reef
 aliases:
 tags:
   - Deadlock
@@ -10,7 +10,7 @@ Created: 2026-10-25
 Brainstorm:
 - 
 
-# Name
+# Reef
 
 | Normal                              | Ultimate                            |
 | ----------------------------------- | ----------------------------------- |
