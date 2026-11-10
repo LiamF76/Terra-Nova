@@ -49,7 +49,7 @@ tags:
 ## future prep
 
 - [ ] [[Woodland Rest]]
-- [ ] Chim
+- [ ] [[Chim]]
 
 
 ## Triarch 4 Season Spirits
