@@ -11,6 +11,7 @@ tags:
 - [ ] [[Finch Session]]
 - [ ] [[Aren Session]]
 - [ ] [[Kori Session]]
+- [ ] Bael Sesion
 
 
 ## Session 1
@@ -49,7 +50,7 @@ tags:
 ## future prep
 
 - [ ] [[Woodland Rest]]
-- [ ] Chim
+- [ ] [[Chim]]
 
 
 ## Triarch 4 Season Spirits
