@@ -1,6 +1,6 @@
 ---
 publish: false
-title:
+title: CoK Player Characters
 aliases:
 tags:
   - Terra-Oblivia
