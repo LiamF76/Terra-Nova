@@ -43,7 +43,7 @@ DM NOTE: The way forward is blocked by a magical statue door. In order to pass b
 TBD
 
 - **The Tenian Oath**:
-	*“I keep the root and I keep the road.*  
+	*“I keep the root, I keep the road.*  
 	*I bend to the wind but I do not break.*  
 	*What I cut, I will replant.*  
 	*What I guard, I will not own.*  
