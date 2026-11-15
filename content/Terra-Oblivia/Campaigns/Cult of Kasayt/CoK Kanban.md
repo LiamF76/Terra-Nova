@@ -11,7 +11,7 @@ tags:
 - [ ] [[Finch Session]]
 - [ ] [[Aren Session]]
 - [ ] [[Kori Session]]
-- [ ] Bael Sesion
+- [ ] [[Bael Session]]
 
 
 ## Session 1

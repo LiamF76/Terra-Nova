@@ -13,7 +13,7 @@ Session Date:
 
 ## Cold Open
 
-A pair of cool spiked black metal gauntlets run softly along the glass orb, filled with shadow. The metal scratches the glass every so lightly and spark, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of shadow behind him, death has come for the valley.
+A shade is cast upon the pale grey sand of the Ashkarad wastes. Black smoke clouds block out the sun, and the shadow of a singular cloaked figure is cast miles long across the land. A pair of cool spiked black metal gauntlets run softly along a black glass orb, filled with shadow. The metal scratches the glass every so lightly and sparks, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of shadow behind him, death has come for the valley.
 
 ---
 
@@ -51,7 +51,6 @@ DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead wit
 *Set the Scene*: Rowan's study awaits down the hall through a stone archway that opens to the High Priest's library. The archway to Rowan's rooms beckons you inside, there is no light, but a faint trail of liquid running out from a pool under the door. It is blood. The room is pitch black, and you can hardly see in front of your face.
 
 Upon entering a body collapsed and leaning against the back wall becomes visible, their clothes stained dark red with blood. A black battleaxe is impaled into the wall above what remains of their neck, and the body is decapitated. (Finch would recognize this as Rowan, whose head is gone.)
-The entire office is a mess, with his workbench, desk, and bookshelves are in chaos. Papers are strewn about the floor and tables, seeming to have been hastily scoured through. 
 
 - *Thread A*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
 	- Rowan's Amulet of Lumena, it is a small gold locket with a sun design on it. He always wears it.
@@ -68,15 +67,17 @@ Loot: **Cursed Battleaxe** (whoever picks it up cannot let it go, they become gr
 
 DM NOTE: Party can look through Rowan's office for information
 
-- *Thread B*: **The Green Knights**
+*Set the Scene*: The entire office is a mess, with his workbench, desk, and bookshelves are in chaos. Papers are strewn about the floor and tables, seeming to have been hastily scoured through. There is a stack of unfurled scrolls on a bench, a large leatherbound notebook open on a lectern, and a stack of open letters on the desk.
+
+- *Thread B*: **The Green Knights** Bench Scrolls.
 	- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
 	- 2. Notes reference the wooded fortress
 	- 3. Logbook shows he gathered supplies regularly at a trading post outside Silver Spruce Forest (forest that has a famous silver spruce tree)
-- *Thread C*: **The Demonic Tome**
+- *Thread C*: **The Demonic Tome** Leatherbound Notebook Lectern.
 	- The door is physical, the key is not
 	- The door rests within a building made to be like a mountain
 	- A reminder that wizards take security very seriously
-- *Thread D*: **Letters to/from Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
+- *Thread D*: **Letters to/from Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch) Stack of Letters on Desk.
 	- [[Rowan's Letter to Osiris]]
 	- On Rowan's desk, hand written
 	- Min Jadid is Celestial for "The Reborn"
@@ -108,6 +109,7 @@ TBD
 DM NOTE: Ayla arrives looking for Rowan, finds the party and Rowan's body. Questions them but trusts Finch and Aren due to their respective roles in the Triarch.
 - Battle has begun at Bastion with the forces of a Warlord known as Bellum Grail, a follower of Kasayt.
 - The rest of Kasayt's forces are engaged in battle with Daegel Lathir, another warlord. This will either wipe out Kasayt's forces who are significantly weaker, or force them into the Triarch where they will try to hide from the other warlords.
+- TO BAEL: "A shadow has been cast upon the valley, dark forces are rising. Out bond is weakened, but I will reach you when I need to. Trust in me, my Risen."
 - Ayla knows about the Silver Spruce Forest. She believed Rowan had been going there because he liked it or to meditate.
 - Ayla is aware of the demonic tome, which was once in a Wizard tower that was long destroyed. It was hidden away by a forgotten Kingdom in a dangerous ruin in the hills around the Valley. If they want to find more information they will need to speak to 
 - Ayla tells the party to find the wandering Magus, [[Chim]]. He will know more about the artifact Rowan left and what is happening with the Triarch. He travels with Pilgrim Knights across The Triarch and beyond.
