@@ -13,7 +13,7 @@ Session Date:
 
 ## Cold Open
 
-A shade is cast upon the pale grey sand of the Ashkarad wastes. Black smoke clouds block out the sun, and the shadow of a singular cloaked figure is cast miles long across the land. A pair of cool spiked black metal gauntlets run softly along the glass orb, filled with shadow. The metal scratches the glass every so lightly and spark, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of shadow behind him, death has come for the valley.
+A shade is cast upon the pale grey sand of the Ashkarad wastes. Black smoke clouds block out the sun, and the shadow of a singular cloaked figure is cast miles long across the land. A pair of cool spiked black metal gauntlets run softly along a black glass orb, filled with shadow. The metal scratches the glass every so lightly and sparks, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of shadow behind him, death has come for the valley.
 
 ---
 
