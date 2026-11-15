@@ -23,7 +23,7 @@ A shade is cast upon the pale grey sand of the Ashkarad wastes. Black smoke clou
 
 DM NOTE: Party is traveling back to Citadel after getting an artifact and doing a healing mission near Bastion. Less than half a day's ride from the Capital, they are ambushed on the road.
 
-*Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. The sky above is clear, but dark clouds loom from 
+*Set the Scene*: Cold wind blows through the valley in mid fall as the caravan follows the road back to Citadel. Returning from your adventures has left you tired, but an honest tired from hard work. The breeze rustles the leaves, a colder day than you were expecting for this time of the season. The sky above is clear, but dark clouds loom from the western edge of the Cloud-Cutter Peaks
 
 Introduce characters! Tell me what you're doing as you travel the road.
 
