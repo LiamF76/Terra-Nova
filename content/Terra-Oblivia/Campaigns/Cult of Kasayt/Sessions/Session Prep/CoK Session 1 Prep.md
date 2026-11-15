@@ -51,7 +51,6 @@ DM NOTE: Rowan is found dead in his bedroom. They find [[Rowan August]] dead wit
 *Set the Scene*: Rowan's study awaits down the hall through a stone archway that opens to the High Priest's library. The archway to Rowan's rooms beckons you inside, there is no light, but a faint trail of liquid running out from a pool under the door. It is blood. The room is pitch black, and you can hardly see in front of your face.
 
 Upon entering a body collapsed and leaning against the back wall becomes visible, their clothes stained dark red with blood. A black battleaxe is impaled into the wall above what remains of their neck, and the body is decapitated. (Finch would recognize this as Rowan, whose head is gone.)
-The entire office is a mess, with his workbench, desk, and bookshelves are in chaos. Papers are strewn about the floor and tables, seeming to have been hastily scoured through. 
 
 - *Thread A*: **Rowan's Amulet** - [[The Orichalcum Hourglass]]
 	- Rowan's Amulet of Lumena, it is a small gold locket with a sun design on it. He always wears it.
@@ -68,15 +67,17 @@ Loot: **Cursed Battleaxe** (whoever picks it up cannot let it go, they become gr
 
 DM NOTE: Party can look through Rowan's office for information
 
-- *Thread B*: **The Green Knights**
+*Set the Scene*: The entire office is a mess, with his workbench, desk, and bookshelves are in chaos. Papers are strewn about the floor and tables, seeming to have been hastily scoured through. There is a stack of unfurled scrolls on a bench, a large leatherbound notebook open on a lectern, and a stack of open letters on the desk.
+
+- *Thread B*: **The Green Knights** Bench Scrolls.
 	- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
 	- 2. Notes reference the wooded fortress
 	- 3. Logbook shows he gathered supplies regularly at a trading post outside Silver Spruce Forest (forest that has a famous silver spruce tree)
-- *Thread C*: **The Demonic Tome**
+- *Thread C*: **The Demonic Tome** Leatherbound Notebook Lectern.
 	- The door is physical, the key is not
 	- The door rests within a building made to be like a mountain
 	- A reminder that wizards take security very seriously
-- *Thread D*: **Letters to/from Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch)
+- *Thread D*: **Letters to/from Arzen** (The name Arzen triggers Emrys's spirit to awaken in Finch) Stack of Letters on Desk.
 	- [[Rowan's Letter to Osiris]]
 	- On Rowan's desk, hand written
 	- Min Jadid is Celestial for "The Reborn"
