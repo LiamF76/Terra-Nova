@@ -5,6 +5,7 @@
   "showRefreshButton": true,
   "hideQueryText": false,
   "foldersToForceUpdate": [],
+  "forceUpdateTriggers": [],
   "showErrorNotifications": true,
   "debugLogging": false,
   "addTrailingNewline": false,
