@@ -163,17 +163,18 @@
       "homepage:Open homepage": false,
       "canvas:Create new canvas": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Dashboard.md",
     "Outside Worlds/Deadlock/Reef.md",
     "z Images/Dredge-1794102189961.webp",
     "z Images/Dredge-1794102173933.webp",
     "Outside Worlds/Deadlock/IDK!!!.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Items/Magic Items/The Orichalcum Hourglass.md",
     "pathfinder cheat sheet.png",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
