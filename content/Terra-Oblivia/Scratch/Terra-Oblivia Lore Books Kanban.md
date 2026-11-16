@@ -41,6 +41,7 @@ tags:
 
 - [ ] triarch general lorebook
 - [ ] [[Leave Coward]]
+- [ ] [[Moonlit Ivory]]
 
 
 
