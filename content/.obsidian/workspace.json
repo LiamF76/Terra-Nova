@@ -36,23 +36,9 @@
               "icon": "lucide-file",
               "title": "Pokemon Campaign ideas"
             }
-          },
-          {
-            "id": "75c168daa3d13aae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outside Worlds/Pokemon/Characters/Postman.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Postman"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +172,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "75c168daa3d13aae",
+  "active": "a99777d894f9ab08",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Outside Worlds/Pokemon/Characters/Postman.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Dashboard.md",
     "Outside Worlds/Pokemon/Pokemon Campaign ideas.md",
