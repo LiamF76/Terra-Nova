@@ -24,73 +24,21 @@
             }
           },
           {
-            "id": "4c616fc5faaa9d18",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
-          },
-          {
-            "id": "6bb4f98a85c7a5bd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Terra-Oblivia Lore Books Kanban"
-            }
-          },
-          {
-            "id": "eb3a1e1a08bd0046",
+            "id": "e168bbdd1aedf4c1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Outside Worlds/Pokemon/PTU Rulebooks/Pokemon Tabletop United 1.05 Core.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 323,
-                "zoom": 1.7071078431372548
+                "file": "Templates/PKMN Character Template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Pokemon Tabletop United 1.05 Core"
+              "icon": "lucide-file",
+              "title": "PKMN Character Template"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,8 +172,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "eb3a1e1a08bd0046",
+  "active": "e168bbdd1aedf4c1",
   "lastOpenFiles": [
+    "Templates/Character Template.md",
+    "Templates/PKMN Character Template.md",
+    "Templates/5 Room Dungeon Template.md",
+    "Dashboard.md",
     "Outside Worlds/Pokemon/PTU Rulebooks/Pokemon Tabletop United 1.05 Core.pdf",
     "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
     "Outside Worlds/Pokemon/PTU Rulebooks/Blessed and the Damned.pdf",
@@ -247,7 +199,6 @@
     "alya.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
-    "Dashboard.md",
     "Terra-Oblivia/Characters/Mortals/Amory Tau.md",
     "z Images/Amory Tau-1794787622293.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Bael Session.md",
@@ -265,8 +216,6 @@
     "Terra-Oblivia/Characters/Spirits/Astor.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Kori Session.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Aren Session.md",
     "z Images/Pax-1793819908332.webp",
     "pathfinder cheat sheet.png",
     "z Images/CoK Player Characters-1793764883793.webp",
