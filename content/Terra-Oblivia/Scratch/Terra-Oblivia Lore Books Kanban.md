@@ -13,7 +13,7 @@ tags:
 - [ ] [[If You're Reading this it's too Early]]
 - [ ] [[The Beauty of Yellow Mist]]
 - [ ] [[Watcher of Wolves]]
-- [ ] A Fixed Point
+- [ ] [[A Fixed Point]]
 
 
 ## Blood's Chronicle
@@ -42,6 +42,8 @@ tags:
 - [ ] triarch general lorebook
 - [ ] [[Leave Coward]]
 - [ ] [[Moonlit Ivory]]
+- [ ] [[Rising Son]]
+- [ ] [[Forge-Seeker]]
 
 
 

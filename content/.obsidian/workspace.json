@@ -72,9 +72,25 @@
               "icon": "lucide-trello",
               "title": "Terra-Oblivia Lore Books Kanban"
             }
+          },
+          {
+            "id": "94926cf8c5833347",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Outside Worlds/Pokemon/PTU 1/Pokemon Tabletop United 1.05 Core.pdf",
+                "page": 6,
+                "left": -9,
+                "top": 252,
+                "zoom": 1.7071078431372548
+              },
+              "icon": "lucide-file-text",
+              "title": "Pokemon Tabletop United 1.05 Core"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.08984375
+    "width": 288.078125
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -208,23 +224,33 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6bb4f98a85c7a5bd",
+  "active": "94926cf8c5833347",
   "lastOpenFiles": [
+    "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
+    "Outside Worlds/Pokemon/PTU 1/Pokemon Tabletop United 1.05 Core.pdf",
+    "Outside Worlds/Pokemon/PTU 1/Blessed and the Damned.pdf",
+    "Outside Worlds/Pokemon/PTU 1/Indices and Reference.pdf",
+    "Outside Worlds/Pokemon/PTU 1/Game of Throhs.pdf",
+    "Outside Worlds/Pokemon/PTU 1/Do Porygon Dream of Mareep.pdf",
+    "Outside Worlds/Pokemon/PTU 1/Useful Charts.pdf",
+    "Outside Worlds/Pokemon/PTU 1/PTU 1.05 Trainer Sheet.pdf",
+    "Outside Worlds/Pokemon/PTU 1/PTU 1.05 Pokemon Sheet.pdf",
+    "Outside Worlds/Pokemon/PTU 1/Pokedex 1.05.pdf",
+    "Outside Worlds/Pokemon/PTU 1/PTU changelog 1.05.txt",
+    "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Forge-Seeker.md",
+    "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Rising Son.md",
     "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Moonlit Ivory.md",
     "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Leave Coward.md",
     "Terra-Oblivia/Characters/Mortals/Ayla Syros.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
     "Terra-Oblivia/Characters/Gods/Krokha Inam.md",
     "alya.md",
-    "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Dashboard.md",
-    "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley",
     "Terra-Oblivia/Characters/Mortals/Amory Tau.md",
     "z Images/Amory Tau-1794787622293.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Bael Session.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Player Consent Forms/SHAWN CONSENT FORM.pdf",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Terra-Oblivia/Characters/Mortals/Chim.md",
     "Outside Worlds/Deadlock/Miss Ormolu.md",
@@ -241,23 +267,12 @@
     "Terra-Oblivia/Scratch/Terra-Oblivia Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Kori Session.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Aren Session.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Finch Session.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions",
-    "Terra-Oblivia/Characters/Spirits/Pax.md",
     "z Images/Pax-1793819908332.webp",
-    "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn/The Burning Throne.md",
-    "Terra-Oblivia/History & Lore/Lore Books/Sand from the Hourglass",
     "pathfinder cheat sheet.png",
     "z Images/CoK Player Characters-1793764883793.webp",
     "z Images/Exploration Encounter Ideas-1793757024938.webp",
-    "Untitled.base",
-    "Terra-Oblivia/Campaigns/Encounter Brainstorms",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
-    "Terra-Oblivia/Dungeons",
-    "Terra-Oblivia/History & Lore/Lore Books/Blessed to Burn",
-    "Terra-Oblivia/Groups/Cults/Untitled",
-    "Terra-Oblivia/Groups/Cults",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
