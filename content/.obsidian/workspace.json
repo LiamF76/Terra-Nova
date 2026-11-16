@@ -22,19 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "384d166a153d26e2",
-            "type": "leaf",
-            "state": {
-              "type": "dataview-serializer-whats-new",
-              "state": {},
-              "icon": "sparkles",
-              "title": "What's new: Dataview Serializer 3.8.0"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +167,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "384d166a153d26e2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.md",
     "z Images/Amory Tau-1794787622293.webp",
