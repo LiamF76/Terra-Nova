@@ -16,6 +16,7 @@ Created: 2026-11-15
 - There are no strict requirements, but the program is judged by Professor juniper, meaning if she feels you did not succeed at the end, you will not get the scholarship, so work hard at both
 - Main bad guys, Team Helix. Led by Colress, team helix is researching genetic enhancement of Pokemon, creating wild and rampaging alpha-like Pokemon, which are dangerous.
 	- Colress does this enhancement using a modified gene splicer from black and white 2. His ultimate goal is to use the genetic enhancer on Kyurem to recreate the Original Dragon Pokemon. he is searching for the final piece of DNA needed to mutate Kyurem, and realizes it needs genetic material from beyond earth, from Deoxys.
+	- Colress is researching Pokemon enhancement through mega evolution, gigantimax, and alpha. This results in his discovery of a 3rd ancient stone, the Ice Stone. This stone contains Kyurem's essence they way light and dark stones contained Reshiram and Zekrom. Colress wants to use the stone combined with his genetic enhancer to create Primal Kyurem.
 - Team Helix:
 	- *Strand*: Splicer Expert. 
 	- *Locus*: Team Enforcer. 
