@@ -51,6 +51,7 @@ tags:
 
 - [ ] [[Woodland Rest]]
 - [ ] [[Chim]]
+- [ ] [[Amory Tau]]
 
 
 ## Triarch 4 Season Spirits
