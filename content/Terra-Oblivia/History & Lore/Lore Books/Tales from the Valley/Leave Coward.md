@@ -5,6 +5,7 @@ aliases:
 tags:
 Created: 2026-11-15
 ---
+Amory Tau deserts Lord Dastan's attack on Ember-Flag
 
 ---
 
