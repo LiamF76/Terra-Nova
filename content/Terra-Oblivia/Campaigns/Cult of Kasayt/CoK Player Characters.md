@@ -50,14 +50,7 @@ Backstory / Knives: https://docs.google.com/document/d/1Cr4RivFX8pI7f6mMiI2wDV8a
 
 ## Bael Tann
 
-Backstory / Knives: 
-Bael Tann Human. With resurrection I do like George Martins take on it, where HOW you died plays a large role in how you come back. With Mr. Tann I imagine he died quite violently, I was going to do a Reaper Necromancer to kind of play into him being a guard or some sort of agent for the Triarch, which has turned a once chivalrous man, into a paranoid, hate filled wight (I imagine constantly at war with whats LEFT of himself). His whole reason for adventuring is so he can fulfill his obligations, and be put to rest, and a little of what remained of him driving him to do his duty. For the backstory knives I kinda got caught up in them, but I think I have them ironed out now.
-
-1. He got betrayed, so the group of people who killed him are a backstory knife, I was thinking whatever mercenary group he hired or worked with to protect pilgrims/a church/whatever you have it got bribed or simply felt like a mutiny was in order to protect themselves. Bundled up into one big knife.
-2. With his lapse in judgement, he failed to protect whatever he was supposed to protect for the church, which in death he considers to be one of his biggest failures.
-3. I think this makes him quite paranoid, and while he will trust Greys character, he will be very mindful and skeptical of the rest of the group. Something that I imagine will either be worsened or relieved throughout the campaign.
-4. With how long he was dead, and how he died accounted, I was thinking of bundling his family and friends up as a knife, as his memory of them is fading and fading quickly, and some part of him grapples with who and what his family and friends are.
-5. I think his attachment to the church would also be a knife, his desire to make up for his past deeds would push him into acting erratically, and could be used against him.
+Backstory / Knives: https://docs.google.com/document/d/1OhOQKxmsFjOYRjqZUi6zw-cEo531bH0crz-ySy-nsi8/edit?usp=sharing
 
 **Ideas**: 
 - 
