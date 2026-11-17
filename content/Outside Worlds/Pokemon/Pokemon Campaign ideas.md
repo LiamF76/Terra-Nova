@@ -24,8 +24,21 @@ Created: 2026-11-15
 - Rivals:
 	- *Axio*: Confident to the point of arrogance, naturally gifted, well connected, and always a step ahead of the party in the early game. Professor Juniper's young cousin.
 	- *Jun*: Trainer who was raised in the original Plasma, was around for the Plasma Frigate incident, and now runs rescue and rehabilitation work for abandoned and mistreated Pokémon. Wren isn’t in the scholarship, but keeps crossing paths with the party, often one step ahead of them at a crisis site. Member of Plasma Remnant, a group of reformed former Team Plasma members.
-- The Perfect Enhancement: One Pokemon that was enhanced with the splicer is not dangerous, and has great power while retaining its nature. The party finds it and has to decide wether to turn it in or keep it.
+- The Perfect Enhancement: One Pokemon that was enhanced with the splicer is not dangerous, and has great power while retaining its nature. The party finds it and has to decide whether to turn it in or keep it.
 - 
+
+## Campaign Breakdown
+
+| Element             | Your version                                               |
+| ------------------- | ---------------------------------------------------------- |
+| Hometown and mentor | Aspertia, Professor Juniper                                |
+| Goal                | Badges plus Pokédex, with the scholarship at stake         |
+| Rival               | Axio and Jun                                               |
+| Villain team        | Team Helix under Colress                                   |
+| Legendary           | Kyurem / Primal Kyurem                                     |
+| Moral question      | Where does progress end and exploitation begin?            |
+| Recurring flavor    | The Postman                                                |
+| Aged-up layer       | Scholarship pressure, moral grey, and cohort relationships |
 
 ---
 
