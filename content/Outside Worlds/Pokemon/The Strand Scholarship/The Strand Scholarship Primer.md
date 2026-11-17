@@ -22,10 +22,9 @@ You begin in **Aspertia City**, where Professor Juniper hands each of you a star
 
 ## The Program
 
-Founded by Professor Juniper and legendary trainer 
+Founded by Professor Juniper and legendary trainers Hilbert and Rosa, this scholarship was designed to give young aspiring trainers a chance to experience the world of Pokemon and the journey across many cultures and regions. Tte program struggled to obtain funding until a generous donation was made by Dr. Strand and the Strand Fellowship Group. With this funding, 2 years after the events of Pokemon Black & White 2, Professor Juniper will host her first cohort of trainers!
 
 The program has two core expectations:
-
 - **Compete in the Gym Challenge.** Earn your badges and prove yourself in battle.
 - **Work on the Pokédex.** Study, catalog, and understand the Pokémon of Unova.
 
