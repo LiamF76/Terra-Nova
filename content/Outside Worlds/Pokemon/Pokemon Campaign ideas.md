@@ -33,7 +33,7 @@ Created: 2026-11-15
 | ------------------- | ---------------------------------------------------------- |
 | Hometown and mentor | Aspertia, Professor Juniper                                |
 | Goal                | Badges plus Pokédex, with the scholarship at stake         |
-| Rival               | Axio, with the Plasma-splinter rival as a second view      |
+| Rival               | Axio and Jun                                               |
 | Villain team        | Team Helix under Colress                                   |
 | Legendary           | Kyurem / Primal Kyurem                                     |
 | Moral question      | Where does progress end and exploitation begin?            |
