@@ -25,6 +25,7 @@ Created: 2026-11-15
 	- *Colress*: Team Leader / Scientist. 
 - Rivals:
 	- *Axio*: Confident to the point of arrogance, naturally gifted, well connected, and always a step ahead of the party in the early game. Professor Juniper's young cousin.
+	- *Miri*: 
 	- *Jun*: Trainer who was raised in the original Plasma, was around for the Plasma Frigate incident, and now runs rescue and rehabilitation work for abandoned and mistreated Pokémon. Wren isn’t in the scholarship, but keeps crossing paths with the party, often one step ahead of them at a crisis site. Member of Plasma Remnant, a group of reformed former Team Plasma members.
 - The Perfect Enhancement: One Pokemon that was enhanced with the splicer is not dangerous, and has great power while retaining its nature. The party finds it and has to decide whether to turn it in or keep it.
 - 
