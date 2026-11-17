@@ -9,7 +9,7 @@ Created: 2026-11-15
 
 # Postman
 
-![[image.png|300]]
+IMAGE HERE
 
 ---
 
