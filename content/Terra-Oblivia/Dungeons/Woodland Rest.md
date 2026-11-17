@@ -89,6 +89,9 @@ DM NOTE: Describe the encounter / overview of the room
 
 TBD
 
+Loot:
+- Soot covered horn, looks to have been carved off cleanly and doused in soot. (Rhetoric)
+
 ---
 
 ## Links
