@@ -22,33 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "c9f0a918d1659909",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +167,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c9f0a918d1659909",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Oblivia/Dungeons/Woodland Rest.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Dungeons/Woodland Rest.md",
     "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Outside Worlds/Pokemon/Pokemon Campaign ideas.md",
