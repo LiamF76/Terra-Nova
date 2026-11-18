@@ -7,7 +7,7 @@ tags:
 Created: 2026-11-17
 ---
 
-# The Strand Scholarship
+# The Strand Scholarship Primer
 
 *A Pokémon Tabletop United campaign set in Unova*
 
@@ -23,7 +23,7 @@ You begin in **Aspertia City**, where Professor Juniper hands each of you a star
 
 ## The Program
 
-Founded by Professor Juniper and legendary trainers Hilbert and Rosa, this scholarship was designed to give young aspiring trainers a chance to experience the world of Pokemon and the journey across many cultures and regions. Tte program struggled to obtain funding until a generous donation was made by Dr. Strand and the Strand Fellowship Group. With this funding, 2 years after the events of Pokemon Black & White 2, Professor Juniper will host her first cohort of trainers!
+Founded by Professor Juniper and legendary trainers Hilbert and Rosa, this scholarship was designed to give young aspiring trainers a chance to experience the world of Pokemon and the journey across many cultures and regions. The program struggled to obtain funding until a generous donation was made by Dr. Strand and the Strand Fellowship Group. With this funding, 2 years after the events of Pokemon Black & White 2, Professor Juniper will host her first cohort of trainers!
 
 The program has two core expectations:
 - **Compete in the Gym Challenge.** Earn your badges and prove yourself in battle.
@@ -37,7 +37,7 @@ There are no hard quotas and no checklist. The program is not strictly graded an
 
 Something is wrong in Unova.
 
-The **Ice Chasm** where Kyurem and Ghetsis were defeated 2 years ago has been slowly expanding, and the land around it is changing. Winters linger longer, cold creeps into places it never reached before, and local climates are shifting. Along with it, a new kind of Pokémon has begun appearing: larger, wilder, and far more aggressive than normal. Locals and researchers call them **Enhanced Pokemon**.
+The **Ice Chasm** where Kyurem and Ghetsis were defeated 2 years ago has been slowly expanding, and the surrounding land is changing. Winters linger longer, cold creeps into places it never reached before, and local climates are shifting. Along with it, a new kind of Pokémon has begun appearing: larger, wilder, and far more aggressive than normal. Locals and researchers call them **Enhanced Pokemon**.
 
 Nobody is sure where they come from, and the authorities have been slow to say much. Trainers on the road are starting to talk.
 
@@ -51,9 +51,9 @@ Additionally, since the events of 2 years ago, more Pokemon have been seen in th
 
 **Dr. Strand.** Your sponsor throughout the scholarship. Genius, expert on Pokemon genetics, and very interested to see any Enhanced Pokemon you encounter. 
 
-**Axio.** Professor Juniper's young cousin. Confident to the point of arrogance, naturally gifted, and very well connected. He is usually a step ahead of you early on, and he knows it.
+**Axio.** Professor Juniper's young cousin. Confident to the point of arrogance, naturally gifted, and very well-connected. He is usually a step ahead of you early on, and he knows it.
 
-**Jun.** A trainer who isn't part of the scholarship but keeps crossing your path, often arriving at a crisis site before you do. Jun runs rescue and rehabilitation work for abandoned and mistreated Pokémon, and has a complicated past. Jun is part of the **Plasma Remnant**, a group of reformed former Team Plasma members.
+**Jun.** A trainer who isn't part of the scholarship but keeps crossing your path, often arriving at a crisis site before you do. Jun runs rescue and rehabilitation work for abandoned and mistreated Pokémon, and has a complicated past. She is part of the **Plasma Remnant**, a group of reformed former Team Plasma members.
 
 **Miri.** Another member of the scholarship. Miri arrived already owning a Pokémon and has never said where it came from. She is headstrong and believes in earning her place rather than being handed it, and she hates being compared to anyone. She is polite, sharp, and guarded about her family, and she changes the subject whenever it comes up. People who spend time with her notice she works harder than anyone in the cohort, as if she has something to prove.
 
@@ -68,11 +68,11 @@ Additionally, since the events of 2 years ago, more Pokemon have been seen in th
 This campaign takes the spirit of the anime, with its episodic adventures, memorable rivals, and Pokémon-of-the-week stories, and lets it grow up a little. Expect:
 
 - **Pressure.** The scholarship is real, and so are the stakes of falling short.
-- **Moral grey.** Not every problem has a clean answer, and not everyone who opposes you is simply wrong.
+- **Morally gray.** Not every problem has a clean answer, and not everyone who opposes you is simply wrong.
 - **Cohort relationships.** You are competing and cooperating with the same people. Friendship, rivalry, and trust all matter.
 - **A central question:** *Where does progress end and exploitation begin?*
 
-Battles are not always about knocking out the opponent. Rescue, protection, and clever problem solving are rewarded as often as raw power.
+Battles are not always about knocking out the opponent. Rescue, protection, and clever problem-solving are rewarded as often as raw power.
 
 ---
 
