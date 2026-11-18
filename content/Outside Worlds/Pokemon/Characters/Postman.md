@@ -9,7 +9,7 @@ Created: 2026-11-15
 
 # Postman
 
-![[image.png|300]]
+IMAGE HERE
 
 ---
 
@@ -41,10 +41,10 @@ Physical form and appearance: build, outfit, accessories, signature style, and h
 | ------- | ------------------ | ---- | ----- | ------- | --------- | ----------------- | ----- |
 | 1 (Ace) | Dragonite          |      |       |         |           | 1. / 2. / 3. / 4. |       |
 | 2       | Stoutland          |      |       |         |           | 1. / 2. / 3. / 4. |       |
-| 3       | Peliper            |      |       |         |           | 1. / 2. / 3. / 4. |       |
-| 4       | Litwick            |      |       |         |           | 1. / 2. / 3. / 4. |       |
-| 5       | Rotom              |      |       |         |           | 1. / 2. / 3. / 4. |       |
-| 6       |                    |      |       |         |           | 1. / 2. / 3. / 4. |       |
+| 3       | Corviknight        |      |       |         |           | 1. / 2. / 3. / 4. |       |
+| 4       | Peliper            |      |       |         |           | 1. / 2. / 3. / 4. |       |
+| 5       | Litwick            |      |       |         |           | 1. / 2. / 3. / 4. |       |
+| 6       | Rotom              |      |       |         |           | 1. / 2. / 3. / 4. |       |
 
 ---
 
