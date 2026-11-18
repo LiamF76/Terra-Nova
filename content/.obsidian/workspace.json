@@ -22,8 +22,35 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "41a222cb28cbd4b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "CoK Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,8 +184,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "41a222cb28cbd4b1",
   "lastOpenFiles": [
+    "Dashboard.md",
     "z Images/Unova Map-1794977429533.webp",
     "Outside Worlds/Pokemon/Unova/Unova Map.md",
     "Outside Worlds/Pokemon/Unova/Unova Gym Leaders.md",
@@ -167,7 +195,6 @@
     "Outside Worlds/Pokemon/PTU Rulebooks/Ability Revision.pdf",
     "Outside Worlds/Pokemon/The Strand Scholarship/The Strand Scholarship Primer.md",
     "Outside Worlds/Pokemon/The Strand Scholarship/TSS PKMN Brainstorm.md",
-    "Dashboard.md",
     "Outside Worlds/Pokemon/The Strand Scholarship",
     "Outside Worlds/Pokemon/Characters/Professor Juniper.md",
     "z Images/Professor Juniper-1794952029965.webp",
@@ -204,7 +231,6 @@
     "z Images/Chim-1793984619284.webp",
     "z Images/Chim-1793984604979.webp",
     "z Images/Pax-1793819908332.webp",
-    "pathfinder cheat sheet.png",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
