@@ -11,6 +11,8 @@ tags:
   - Terra-Oblivia
   - The-Sparrow-Knight
   - Pentium-Realm
+  - Pokemon
+  - Deadlock
 Created: 2026-08-26
 ---
 
@@ -21,9 +23,11 @@ Welcome to Daraan's Worlds. These are my creations.
 > [!note] Terra-Nova
 > ## [[Terra-Nova Wiki Homepage]]
 
-> [!danger] Terra-Oblivia
+> [!Note] Terra-Oblivia
 > ## [[Terra-Oblivia Wiki Homepage]]
 
+> [!Note] Pokemon
+> ## [[The Strand Scholarship Primer]]
 
 ---
 

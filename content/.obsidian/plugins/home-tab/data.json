@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "index.md",
+      "timestamp": 1794971362556
+    },
+    {
       "filepath": "Outside Worlds/Pokemon/The Strand Scholarship/The Strand Scholarship Primer.md",
-      "timestamp": 1794970910515
+      "timestamp": 1794971345943
     },
     {
       "filepath": "Outside Worlds/Pokemon/The Strand Scholarship/TSS PKMN Brainstorm.md",
-      "timestamp": 1794970842830
+      "timestamp": 1794971345055
+    },
+    {
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+      "timestamp": 1794971342546
     },
     {
       "filepath": "Dashboard.md",
-      "timestamp": 1794970635394
+      "timestamp": 1794971341529
     }
   ],
   "bookmarkedFileStore": [],
