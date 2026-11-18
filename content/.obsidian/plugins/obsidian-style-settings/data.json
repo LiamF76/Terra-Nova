@@ -43,11 +43,11 @@
   "Olivier-s-Theme@@OT-darkPalette": "darkPalette-beige",
   "obsidian-typewriter@@active-line-highlight": true,
   "fancy-a-story@@fas-adaptive-accent": false,
-  "primary-theme@@font-ui-smallest": 14,
-  "primary-theme@@font-ui-smaller": 16,
-  "primary-theme@@font-ui-small": 18,
-  "primary-theme@@font-ui-medium": 20,
-  "primary-theme@@font-ui-large": 22,
+  "primary-theme@@font-ui-smallest": 10,
+  "primary-theme@@font-ui-smaller": 12,
+  "primary-theme@@font-ui-small": 14,
+  "primary-theme@@font-ui-medium": 16,
+  "primary-theme@@font-ui-large": 18,
   "primary-theme@@colorful-folders_background": false,
   "primary-theme@@colorful-folders_text": false,
   "primary-theme@@colorful-folders_collapse-indicator": false,
@@ -147,5 +147,7 @@
   "minimal-style@@h3-size": "1.2em",
   "minimal-style@@base@@light": "#F3EFE6",
   "minimal-style@@bg1@@light": "#FAF7F0",
-  "minimal-style@@bg2@@light": "#EDE8DC"
+  "minimal-style@@bg2@@light": "#EDE8DC",
+  "primary-theme@@colorful-folders_inherit-color": false,
+  "primary-theme@@h1-text-transform": "normal"
 }
