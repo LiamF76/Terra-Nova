@@ -43,6 +43,12 @@ Nobody is sure where they come from, and the authorities have been slow to say m
 
 Additionally, since the events of 2 years ago, more Pokemon have been seen in the Unova region. New regional forms and variants, alternative evolutions, and seemingly alien Pokemon are wandering the land.
 
+#### Hiber Pokemon Example
+
+Commonly referred to as 'Diamond Knuckle' by trainers, this is a Hiber Pokemon believed to have spawned from a Sableye. It is far larger and much more aggressive than nearly any other wild Pokemon. Hiber Pokemon are dangerous and should be approached with extreme caution. While it has not been verified, there is a trainer in Unova that claims to have caught and be able to control a Hiber Pokemon in battle.
+
+![[The Strand Scholarship Primer-1795015943428.webp|Artist: im_Zzzeldo|500]]
+
 ---
 
 ## Who You'll Meet
@@ -53,13 +59,15 @@ Additionally, since the events of 2 years ago, more Pokemon have been seen in th
 
 **Axio.** Professor Juniper's young cousin. Confident to the point of arrogance, naturally gifted, and very well-connected. He is usually a step ahead of you early on, and he knows it.
 
-**Jun.** A trainer who isn't part of the scholarship but keeps crossing your path, often arriving at a crisis site before you do. Jun runs rescue and rehabilitation work for abandoned and mistreated Pokémon, and has a complicated past. She is part of the **Plasma Remnant**, a group of reformed former Team Plasma members.
+**Jun.** A trainer who isn't part of the scholarship but keeps crossing your path, often arriving at a crisis site before you do. Jun runs rescue and rehabilitation work for abandoned and mistreated Pokémon, and has a complicated past. She is part of the *Plasma Remnant*.
 
-**Miri.** Another member of the scholarship. Miri arrived already owning a Pokémon and has never said where it came from. She is headstrong and believes in earning her place rather than being handed it, and she hates being compared to anyone. She is polite, sharp, and guarded about her family, and she changes the subject whenever it comes up. People who spend time with her notice she works harder than anyone in the cohort, as if she has something to prove.
-
-**Team Helix.** A mysterious organization that has been appearing around the edges of the region. Their goals are unclear, and their methods are not gentle. Treat anything you learn about them as a thread worth pulling.
+**Miri.** Another member of the scholarship. Miri arrived already owning a Pokémon and has never said where it came from. She is headstrong and believes in earning her place rather than being handed it. People who spend time with her notice she works harder than anyone in the cohort, as if she has something to prove.
 
 **The Postman.** A recurring, oddly well-informed presence on the road. You'll see them more often than seems reasonable. Seriously, is he the only one delivering anything?
+
+**Plasma Remnant.** A group of reformed Team Plasma Members. Some Sages, grunts, and scientists brought together with the mission to fix their past evils. They reunite Pokemon stolen from their trainers, and work towards protecting people and Pokemon.
+
+**Team Helix.** A mysterious organization that has been appearing around the edges of the region. Their goals are unclear, and their methods are not gentle. Treat anything you learn about them as a thread worth pulling.
 
 ---
 

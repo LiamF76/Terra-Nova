@@ -24,29 +24,17 @@
             }
           },
           {
-            "id": "41a222cb28cbd4b1",
+            "id": "c66eb7aa8c79a8b5",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Outside Worlds/Pokemon/The Strand Scholarship/The Strand Scholarship Primer.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
+              "icon": "lucide-file",
+              "title": "The Strand Scholarship Primer"
             }
           }
         ],
@@ -184,25 +172,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "41a222cb28cbd4b1",
+  "active": "c66eb7aa8c79a8b5",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Outside Worlds/Pokemon/The Strand Scholarship/The Strand Scholarship Primer.md",
+    "Outside Worlds/Pokemon/Characters/Professor Juniper.md",
+    "Outside Worlds/Pokemon/Characters/Postman.md",
+    "Outside Worlds/Pokemon/Characters/Colress.md",
+    "Outside Worlds/Pokemon/Hiber Pokemon/Hiber Kyurem.md",
+    "Outside Worlds/Pokemon/PTU Rulebooks/Ability Revision.pdf",
+    "Outside Worlds/Pokemon/The Strand Scholarship/TSS PKMN Brainstorm.md",
+    "z Images/Hiber Kyurem-1795016071680.webp",
+    "Outside Worlds/Pokemon/Hiber Pokemon",
+    "z Images/The Strand Scholarship Primer-1795015943428.webp",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "z Images/Unova Map-1794977429533.webp",
     "Outside Worlds/Pokemon/Unova/Unova Map.md",
     "Outside Worlds/Pokemon/Unova/Unova Gym Leaders.md",
     "Outside Worlds/Pokemon/Unova",
     "Outside Worlds/Pokemon/PTU Rulebooks/Pokedex 1.05 Plus.pdf",
-    "Outside Worlds/Pokemon/PTU Rulebooks/Ability Revision.pdf",
-    "Outside Worlds/Pokemon/The Strand Scholarship/The Strand Scholarship Primer.md",
-    "Outside Worlds/Pokemon/The Strand Scholarship/TSS PKMN Brainstorm.md",
     "Outside Worlds/Pokemon/The Strand Scholarship",
-    "Outside Worlds/Pokemon/Characters/Professor Juniper.md",
     "z Images/Professor Juniper-1794952029965.webp",
-    "Outside Worlds/Pokemon/Characters/Postman.md",
-    "Outside Worlds/Pokemon/Characters/Colress.md",
     "z Images/Colress-1794854881192.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Outside Worlds/Pokemon/Characters",
     "Templates/PKMN Character Template.md",
     "Templates/Character Template.md",
@@ -212,7 +204,6 @@
     "Outside Worlds/Pokemon/PTU Rulebooks/Blessed and the Damned.pdf",
     "Outside Worlds/Pokemon/PTU Rulebooks/Indices and Reference.pdf",
     "Outside Worlds/Pokemon/PTU Rulebooks/Game of Throhs.pdf",
-    "Outside Worlds/Pokemon/PTU Rulebooks/Do Porygon Dream of Mareep.pdf",
     "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Forge-Seeker.md",
     "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Rising Son.md",
     "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Moonlit Ivory.md",
@@ -224,13 +215,10 @@
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Characters/Mortals/Amory Tau.md",
     "z Images/Amory Tau-1794787622293.webp",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Pre Campaign Sessions/Bael Session.md",
     "z Images/Widow Brass-1794160015750.webp",
     "z Images/Dredge-1794102189961.webp",
     "z Images/Dredge-1794102173933.webp",
     "z Images/Chim-1793984619284.webp",
-    "z Images/Chim-1793984604979.webp",
-    "z Images/Pax-1793819908332.webp",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
