@@ -13,6 +13,15 @@ This is a list of the known Hiber Pokemon in the Unova region.
 
 ---
 
+## Blazing Mane
+
+
+![[Hiber Pokemon-1795028334073.webp|500]]
+
+*The Malice Pokemon*, **Emboar**
+
+---
+
 ## Hiber Sableye / Diamond Knuckle
 
 | Hiber Sableye                              | Diamond Knuckle                            |
@@ -21,13 +30,7 @@ This is a list of the known Hiber Pokemon in the Unova region.
 
 *The Shatter Pokemon*, **Sableye**
 
----
-
-## Slashing Beast
-
-![[Hiber Pokemon-1795026977199.webp|500]]
-
-*The Apex Pokemon*, **Haxorus**
+The only Hiber Pokemon known to evolve.
 
 ---
 
@@ -36,6 +39,22 @@ This is a list of the known Hiber Pokemon in the Unova region.
 ![[Hiber Pokemon-1795027533861.webp|500]]
 
 *The Chief Pokemon*, **Weavile**
+
+---
+
+## Royal Dragon
+
+![[Hiber Pokemon-1795028519441.webp|500]]
+
+*The Crown Pokemon*, **Cobalion**
+
+---
+
+## Slashing Beast
+
+![[Hiber Pokemon-1795026977199.webp|500]]
+
+*The Apex Pokemon*, **Haxorus**
 
 ---
 
