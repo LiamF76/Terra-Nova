@@ -22,10 +22,13 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 
 ---
 
-# CURRENT CAMPAIGN: Cult of Kasayt
+# CURRENT CAMPAIGNS: Cult of Kasayt / The Strand Scholarship
 
 > [!note] Cult of Kasayt
 > ## [[CoK Kanban]] | [[CoK Brainstorm]] | [[CoK Player Characters]]
+
+> [!Note] Pokemon!
+> ## [[TSS PKMN Brainstorm]] | [[The Strand Scholarship Primer]]
 
 > [!note] Encounter Ideas
 > ## [[Terra-Oblivia/Campaigns/Encounter Brainstorms/Exploration Encounter Ideas|Exploration Encounter Ideas]] | [[Dungeon and Quest Ideas]] | [[Terra-Oblivia/Campaigns/Encounter Brainstorms/Raid Encounter Ideas|Raid Encounter Ideas]] | [[Campaign Ideas]]
