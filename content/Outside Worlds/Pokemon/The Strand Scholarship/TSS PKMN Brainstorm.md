@@ -11,9 +11,9 @@ Created: 2026-11-15
 
 ## Brainstorm
 
-- Party are new trainers in a program to earn a scholarship to study aboard in other regions, given a starter and pokedex
-- 2 requirements of the program are to compete in the gym challenge, and work on the pokedex
-- The scholarship is run by Professor Juniper and Dr. Strand. Funded by the Strand Fellowship Group (secretly Team Helix) who provides the Pokedexs for the group and collects data on their Pokemon and adventure. Dr. Strand is secretly part of Team Helix.
+- Party are new trainers in a program to earn a scholarship to study aboard in other regions, given a starter and Pokedex
+- 2 requirements of the program are to compete in the gym challenge, and work on the Pokedex
+- The scholarship is run by Professor Juniper and Dr. Strand. Funded by the Strand Fellowship Group (secretly Team Helix) who provides the Pokedex for the group and collects data on their Pokemon and adventure. Dr. Strand is secretly part of Team Helix.
 - There are no strict requirements, but the program is judged by Professor juniper, meaning if she feels you did not succeed at the end, you will not get the scholarship, so work hard at both
 - Main bad guys, Team Helix. Led by Colress, team helix is researching genetic enhancement of Pokemon, creating wild and rampaging alpha-like Pokemon, which are dangerous.
 	- Colress does this enhancement using a modified gene splicer from black and white 2. His ultimate goal is to use the genetic enhancer on Kyurem to recreate the Original Dragon Pokemon. he is searching for the final piece of DNA needed to mutate Kyurem, and realizes it needs genetic material from beyond earth, from Deoxys.
@@ -25,7 +25,7 @@ Created: 2026-11-15
 	- *Colress*: Team Leader / Scientist. 
 - Rivals:
 	- *Axio*: Confident to the point of arrogance, naturally gifted, well connected, and always a step ahead of the party in the early game. Professor Juniper's young cousin.
-	- *Miri*: 
+	- *Miri*: biological daughter of Gehtsis who wants to create the original dragon to prove to her father she was worth of being Queen of Unova, not N, who she envied and hates for being chosen by her father.
 	- *Jun*: Trainer who was raised in the original Plasma, was around for the Plasma Frigate incident, and now runs rescue and rehabilitation work for abandoned and mistreated Pokémon. Wren isn’t in the scholarship, but keeps crossing paths with the party, often one step ahead of them at a crisis site. Member of Plasma Remnant, a group of reformed former Team Plasma members.
 - The Perfect Enhancement: One Pokemon that was enhanced with the splicer is not dangerous, and has great power while retaining its nature. The party finds it and has to decide whether to turn it in or keep it.
 - 
