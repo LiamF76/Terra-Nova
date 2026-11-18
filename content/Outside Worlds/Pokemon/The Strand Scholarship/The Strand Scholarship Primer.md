@@ -37,7 +37,7 @@ There are no hard quotas and no checklist. The program is not strictly graded an
 
 Something is wrong in Unova.
 
-The **Ice Chasm** where Kyurem and Ghetsis were defeated 2 years ago has been slowly expanding, and the surrounding land is changing. Winters linger longer, cold creeps into places it never reached before, and local climates are shifting. Along with it, a new kind of Pokémon has begun appearing: larger, wilder, and far more aggressive than normal. Locals and researchers call them **Enhanced Pokemon**.
+The **Ice Chasm** where Kyurem and Ghetsis were defeated 2 years ago has been slowly expanding, and the surrounding land is changing. Winters linger longer, cold creeps into places it never reached before, and local climates are shifting. Along with it, a new kind of Pokémon has begun appearing: larger, wilder, and far more aggressive than normal. Locals and researchers call them **Hiber Pokemon**.
 
 Nobody is sure where they come from, and the authorities have been slow to say much. Trainers on the road are starting to talk.
 
