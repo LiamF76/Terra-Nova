@@ -34,6 +34,14 @@ The only Hiber Pokemon known to evolve.
 
 ---
 
+## Jagged Crest
+
+![[Hiber Pokemon-1795029069427.webp|500]]
+
+*The Maul Pokemon*, **Gigalith**
+
+---
+
 # Frozen Feathers
 
 ![[Hiber Pokemon-1795027533861.webp|500]]
