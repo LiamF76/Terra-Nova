@@ -1,12 +1,13 @@
 ---
-publish: false
-title:
+publish: true
+title: The Strand Scholarship Primer
 aliases:
 tags:
+  - Pokemon
 Created: 2026-11-17
 ---
 
-# The Strand Scholarship
+# The Strand Scholarship Primer
 
 *A Pokémon Tabletop United campaign set in Unova*
 
@@ -16,17 +17,17 @@ Created: 2026-11-17
 
 You are one of a handful of promising new trainers (ages 16-18) accepted into Professor Juniper's scholarship program. Complete it successfully and you earn a place to study abroad in other regions, alongside the doors that opens in research, training, and your future. 
 
-You begin in **Aspertia City**, where Professor Juniper hands each of you a starter Pokémon and a Pokédex. From there, the road will be yours!
+You begin in **Aspertia City**, where Professor Juniper hands each of you a starter Pokémon and a Pokedex. From there, the road will be yours!
 
 ---
 
 ## The Program
 
-Founded by Professor Juniper and legendary trainers Hilbert and Rosa, this scholarship was designed to give young aspiring trainers a chance to experience the world of Pokemon and the journey across many cultures and regions. Tte program struggled to obtain funding until a generous donation was made by Dr. Strand and the Strand Fellowship Group. With this funding, 2 years after the events of Pokemon Black & White 2, Professor Juniper will host her first cohort of trainers!
+Founded by Professor Juniper and legendary trainers Hilbert and Rosa, this scholarship was designed to give young aspiring trainers a chance to experience the world of Pokemon and the journey across many cultures and regions. The program struggled to obtain funding until a generous donation was made by Dr. Strand and the Strand Fellowship Group. With this funding, 2 years after the events of Pokemon Black & White 2, Professor Juniper will host her first cohort of trainers!
 
 The program has two core expectations:
 - **Compete in the Gym Challenge.** Earn your badges and prove yourself in battle.
-- **Work on the Pokédex.** Study, catalog, and understand the Pokémon of Unova.
+- **Work on the Pokedex.** Study, catalog, and understand the Pokémon of Unova.
 
 There are no hard quotas and no checklist. The program is not strictly graded and judged holistically by Professor Juniper and Dr. Strand, so putting your best effort and passion first can earn you just as much recognition as beating the gym challenge! Follow your hearts, battle, explore, and learn as much as you can. Bring that effort to the end of the program and show the two judges why you deserve to travel the world of Pokemon!
 
@@ -34,23 +35,31 @@ There are no hard quotas and no checklist. The program is not strictly graded an
 
 ## The World Right Now
 
-tbd
+Something is wrong in Unova.
+
+The **Ice Chasm** where Kyurem and Ghetsis were defeated 2 years ago has been slowly expanding, and the surrounding land is changing. Winters linger longer, cold creeps into places it never reached before, and local climates are shifting. Along with it, a new kind of Pokémon has begun appearing: larger, wilder, and far more aggressive than normal. Locals and researchers call them **Hiber Pokemon**.
+
+Nobody is sure where they come from, and the authorities have been slow to say much. Trainers on the road are starting to talk.
+
+Additionally, since the events of 2 years ago, more Pokemon have been seen in the Unova region. New regional forms and variants, alternative evolutions, and seemingly alien Pokemon are wandering the land.
 
 ---
 
 ## Who You'll Meet
 
-**Professor Juniper.** 
+**Professor Juniper.** Your mentor and your local Pokemon Professor. Warm, brilliant, a little scatterbrained, and far more observant than she lets on.
 
-**Axio.** 
+**Dr. Strand.** Your sponsor throughout the scholarship. Genius, expert on Pokemon genetics, and very interested to see any Enhanced Pokemon you encounter. 
 
-**Jun.** 
+**Axio.** Professor Juniper's young cousin. Confident to the point of arrogance, naturally gifted, and very well-connected. He is usually a step ahead of you early on, and he knows it.
 
-**TBD.**
+**Jun.** A trainer who isn't part of the scholarship but keeps crossing your path, often arriving at a crisis site before you do. Jun runs rescue and rehabilitation work for abandoned and mistreated Pokémon, and has a complicated past. She is part of the **Plasma Remnant**, a group of reformed former Team Plasma members.
 
-**Team Helix.** 
+**Miri.** Another member of the scholarship. Miri arrived already owning a Pokémon and has never said where it came from. She is headstrong and believes in earning her place rather than being handed it, and she hates being compared to anyone. She is polite, sharp, and guarded about her family, and she changes the subject whenever it comes up. People who spend time with her notice she works harder than anyone in the cohort, as if she has something to prove.
 
-**The Postman.** 
+**Team Helix.** A mysterious organization that has been appearing around the edges of the region. Their goals are unclear, and their methods are not gentle. Treat anything you learn about them as a thread worth pulling.
+
+**The Postman.** A recurring, oddly well-informed presence on the road. You'll see them more often than seems reasonable. Seriously, is he the only one delivering anything?
 
 ---
 
@@ -59,11 +68,11 @@ tbd
 This campaign takes the spirit of the anime, with its episodic adventures, memorable rivals, and Pokémon-of-the-week stories, and lets it grow up a little. Expect:
 
 - **Pressure.** The scholarship is real, and so are the stakes of falling short.
-- **Moral grey.** Not every problem has a clean answer, and not everyone who opposes you is simply wrong.
+- **Morally gray.** Not every problem has a clean answer, and not everyone who opposes you is simply wrong.
 - **Cohort relationships.** You are competing and cooperating with the same people. Friendship, rivalry, and trust all matter.
-- **A central question:** _Where does progress end and exploitation begin?_
+- **A central question:** *Where does progress end and exploitation begin?*
 
-Battles are not always about knocking out the opponent. Rescue, protection, and clever problem solving are rewarded as often as raw power.
+Battles are not always about knocking out the opponent. Rescue, protection, and clever problem-solving are rewarded as often as raw power.
 
 ---
 
@@ -72,7 +81,7 @@ Battles are not always about knocking out the opponent. Rescue, protection, and 
 Before session one, think about:
 
 - Why you want the scholarship, and what you'd do with it.
-- A reason you might clash with Axio, or get along with him.
+- A reason you might clash with Axio and Miri, or get along with them.
 - Something you care about that isn't winning.
 - How you feel about Team Plasma's history, since it will come up.
 
