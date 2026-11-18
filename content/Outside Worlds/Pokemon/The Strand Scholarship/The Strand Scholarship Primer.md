@@ -47,7 +47,8 @@ Additionally, since the events of 2 years ago, more Pokemon have been seen in th
 
 Commonly referred to as 'Diamond Knuckle' by trainers, this is a Hiber Pokemon believed to have spawned from a Sableye. It is far larger and much more aggressive than nearly any other wild Pokemon. Hiber Pokemon are dangerous and should be approached with extreme caution. While it has not been verified, there is a trainer in Unova that claims to have caught and be able to control a Hiber Pokemon in battle.
 
-![[The Strand Scholarship Primer-1795015943428.webp|Artist: im_Zzzeldo|500]]
+![[The Strand Scholarship Primer-1795015943428.webp|500]]
+Artist: im_Zzzeldo
 
 ---
 
