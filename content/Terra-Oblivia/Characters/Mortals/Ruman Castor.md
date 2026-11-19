@@ -17,7 +17,7 @@ Created: 2026-11-19
 
 ## Ruman Castor
 **Last Student of Tamora, The Wandering Magus**
-*Pronouns*: 
+*Pronouns*: he/him
 
 ---
 
@@ -39,6 +39,7 @@ Physical forms and appearance
 
 ## Important Info
 - Last Mage to study at the ancient magical vault of Tamora
+- Magus who travels the Triarch alongside different Pilgrim Knights
 - 
 
 ---
