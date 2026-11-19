@@ -60,6 +60,7 @@ tags:
 - [ ] [[Woodland Rest]]
 - [ ] [[Chim]]
 - [ ] [[Amory Tau]]
+- [ ] Ruman
 
 
 ## rules
