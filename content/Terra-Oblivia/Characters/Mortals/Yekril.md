@@ -9,7 +9,7 @@ Created: 2026-11-19
 
 # Yekril
 
-![[image.png|300]]
+![[Yekril-1795105411149.webp|400]]
 
 ---
 
@@ -36,9 +36,7 @@ Physical forms and appearance
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
+- [[The Acolyte]]'s personal bodyguard
 - 
 
 ---

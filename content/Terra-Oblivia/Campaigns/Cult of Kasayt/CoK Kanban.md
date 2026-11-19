@@ -74,7 +74,7 @@ tags:
 - [x] [[The Acolyte]]
 - [x] [[Sana Black-Sky]]
 - [x] [[Bellum Grail]]
-- [ ] Yekril
+- [ ] [[Yekril]]
 
 
 

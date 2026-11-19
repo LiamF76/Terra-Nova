@@ -55,20 +55,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Characters/Mortals/Ruman Castor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ruman Castor"
-            }
-          },
-          {
-            "id": "8b923972454ae28a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Terra-Oblivia/Characters/Mortals/Yekril.md",
                 "mode": "source",
                 "source": false
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,8 +198,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b923972454ae28a",
+  "active": "4b99d5fc5e28d173",
   "lastOpenFiles": [
+    "z Images/Yekril-1795105411149.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Characters/Mortals/Yekril.md",
     "Terra-Oblivia/Characters/Mortals/Ruman Castor.md",
@@ -259,7 +246,6 @@
     "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
     "Outside Worlds/Pokemon/PTU Rulebooks/Blessed and the Damned.pdf",
     "Outside Worlds/Pokemon/PTU Rulebooks/Indices and Reference.pdf",
-    "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Forge-Seeker.md",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
