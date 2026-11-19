@@ -38,9 +38,7 @@ Physical forms and appearance
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
+- Last Mage to study at the ancient magical vault of Tamora
 - 
 
 ---
