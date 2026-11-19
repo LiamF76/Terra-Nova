@@ -129,7 +129,7 @@ DM NOTE: Ayla arrives looking for Rowan, finds the party and Rowan's body. Quest
 - [[The Orichalcum Hourglass]]
 - [[Rowan's Note to Finch]]
 - [[Rowan's Letter to Osiris]]
-- [[Chim]]
+- [[Ruman Castor]]
 - [[Ayla Syros]]
 
 <!-- SerializedQuery END -->
