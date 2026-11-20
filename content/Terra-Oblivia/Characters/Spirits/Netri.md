@@ -28,7 +28,7 @@ Netri speaks as a serpent does, with drawn out hissing s's. They tend to lean an
 > "The summer sun warms my scales. I gather the warmth, and return to the caves below."
 
 > [!quote]
-> "Bring me your blessings, and I will share my own."
+> "I once challenged a child of Lumena to see who could bathe in the beating sun longer. He lasted 2 years, and I have lasted 2 hundred."
 
 ---
 
