@@ -38,7 +38,7 @@ Astor is commonly described as an eagle, but he is actually a hawk. He has feath
 ---
 
 ## Important Info
-- Spirit of Summer in [[The Triarch]]
+- Spirit of Spring in [[The Triarch]]
 - Hawk Spirit, fought against [[Kasayt]] and brought the battle to a stand still long ago
 
 ---

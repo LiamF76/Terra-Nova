@@ -22,25 +22,23 @@ Created: 2026-11-19
 ---
 
 ## Voice
-How they speak/communicate
+Netri speaks as a serpent does, with drawn out hissing s's. They tend to lean and hang over those they speak to, their voice rumbling through their neck and the earth below.
 
 > [!quote]
-> "The summer sun warms my scales. "
+> "The summer sun warms my scales. I gather the warmth, and return to the caves below."
 
 > [!quote]
-> "Quote"
+> "Bring me your blessings, and I will share my own."
 
 ---
 
 ## Description
-Physical forms and appearance
+Netri is a 100 ft long serpent with vibrant red scales. They have a pair of tail-like eyebrows that extend backwards along their face, and pure milky white eyes. They have pointed spikes along their back, raised from the spine that are sharp enough to cut flesh and bone.
 
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
+- Spirit of Summer in [[The Triarch]]
 - 
 
 ---
