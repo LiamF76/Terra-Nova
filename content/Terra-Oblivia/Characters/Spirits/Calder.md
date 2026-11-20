@@ -33,7 +33,7 @@ Calder is loud and proud, he has a deep masculine voice that echoes through ever
 ---
 
 ## Description
-Calder takes the form of a knight clad is leaves and armor. He wears a cape made of orange, red, yellow, and brown leaves. His helmet carries the horns of a great beast, and he wields an axe whose edge is carved from the setting sun itself.
+Calder takes the form of a 10 ft tall humanoid knight clad is leaves and armor. He wears a cape made of orange, red, yellow, and brown leaves. His helmet carries the horns of a great beast, and he wields an axe whose edge is carved from the setting sun itself.
 
 ---
 
