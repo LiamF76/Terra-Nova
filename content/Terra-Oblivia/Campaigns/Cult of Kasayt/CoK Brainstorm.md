@@ -19,6 +19,7 @@ Created: 2026-10-13
 	- The Stone King
 	- Kasayt's Orb / soul
 - Kasayt is the soul of Adrithyr reborn
+- Sobek, The Thunderlord: Sobek was Audrey's character, an artifact from Sobek the legendary Blue Dragonborn is out in the world. A magical lightning rune of power that imbues the wielder with power?
 - 
 
 ---
