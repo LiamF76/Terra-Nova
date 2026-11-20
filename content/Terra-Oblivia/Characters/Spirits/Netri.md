@@ -3,6 +3,7 @@ publish: false
 title: Netri
 aliases:
   - The Summer Serpent
+  - The Spirit of Summer
 tags:
   - Terra-Oblivia
 Created: 2026-11-19
@@ -15,7 +16,7 @@ Created: 2026-11-19
 ---
 
 ## Netri
-**Spirit of Summer, The Scarlet Snake**
+**The Spirit of Summer, The Scarlet Snake**
 *Pronouns*: they/them
 
 ---
@@ -24,7 +25,7 @@ Created: 2026-11-19
 How they speak/communicate
 
 > [!quote]
-> "Quote"
+> "The summer sun warms my scales. "
 
 > [!quote]
 > "Quote"
