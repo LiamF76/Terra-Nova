@@ -2,8 +2,8 @@
 publish: false
 title: Calder
 aliases:
-  - The Petal Knight
   - The Autumn Knight
+  - The Spirit of Autumn
 tags:
   - Terra-Oblivia
 Created: 2026-10-28
@@ -16,7 +16,7 @@ Created: 2026-10-28
 ---
 
 ## Calder
-**The Petal Knight, The Autumn Knight**
+**The Spirit of Autumn, The Autumn Knight**
 *Pronouns*: he/him
 
 ---
@@ -33,15 +33,12 @@ Calder is loud and proud, he has a deep masculine voice that echoes through ever
 ---
 
 ## Description
-Physical forms and appearance
+Calder takes the form of a knight clad is leaves and armor. He wears a cape made of orange, red, yellow, and brown leaves. His helmet carries the horns of a great beast, and he wields an axe whose edge is carved from the setting sun itself.
 
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
-- 
+- Spirit of Autumn in [[The Triarch]]
 
 ---
 

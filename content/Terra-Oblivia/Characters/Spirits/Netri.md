@@ -39,7 +39,6 @@ Netri is a 100 ft long serpent with vibrant red scales. They have a pair of tail
 
 ## Important Info
 - Spirit of Summer in [[The Triarch]]
-- 
 
 ---
 
