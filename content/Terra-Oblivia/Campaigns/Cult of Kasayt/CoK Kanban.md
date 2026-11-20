@@ -6,14 +6,6 @@ tags:
 
 ---
 
-## Pre-Campaign Sessions
-
-- [ ] [[Finch Session]]
-- [ ] [[Aren Session]]
-- [ ] [[Kori Session]]
-- [ ] [[Bael Session]]
-
-
 ## Session 1
 
 - [ ] [[CoK Session 1 Prep]]
@@ -47,19 +39,28 @@ tags:
 - [ ] [[CoK Brainstorm]]
 
 
+## Triarch 4 Season Spirits
+
+- [ ] Spring: [[Astor]]
+- [ ] Summer: [[Netri]]
+- [ ] Autumn: [[Calder]]
+- [ ] Winter: [[Pax]]
+
+
+## Pre-Campaign Sessions
+
+- [ ] [[Finch Session]]
+- [ ] [[Aren Session]]
+- [ ] [[Kori Session]]
+- [ ] [[Bael Session]]
+
+
 ## future prep
 
 - [ ] [[Woodland Rest]]
 - [ ] [[Chim]]
 - [ ] [[Amory Tau]]
-
-
-## Triarch 4 Season Spirits
-
-- [ ] Spring: [[Astor]]
-- [ ] Summer:
-- [ ] Autumn: [[Calder]]
-- [ ] Winter: [[Pax]]
+- [ ] [[Ruman Castor]]
 
 
 ## rules
@@ -73,6 +74,7 @@ tags:
 - [x] [[The Acolyte]]
 - [x] [[Sana Black-Sky]]
 - [x] [[Bellum Grail]]
+- [ ] [[Yekril]]
 
 
 
