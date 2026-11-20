@@ -2,7 +2,8 @@
 publish: false
 title: Pax
 aliases:
-  - Spirit of Winter
+  - The Spirit of Winter
+  - The White Mountain
 tags:
   - Terra-Oblivia
 Created: 2026-11-04
@@ -10,21 +11,21 @@ Created: 2026-11-04
 
 # Pax
 
-![[Pax-1793819908332.webp|300x438]]
+![[Pax-1795218389986.webp|300x450]]
 
 ---
 
 ## Pax
-**Spirit of Winter, The White Elk**
+**The Spirit of Winter, The White Mountain**
 *Pronouns*: he/him
 
 ---
 
 ## Voice
-How they speak/communicate
+Pax bellows, pushing words out like clouds drop snow, and the words singe your ears with cold before melting into speech. He does not speculate or wonder, he decrees winter has come, and speaks it outwards onto the world.
 
 > [!quote]
-> "Quote"
+> "I am Pax, the lord in snow, and my breath is long winter."
 
 > [!quote]
 > "Quote"
@@ -37,10 +38,7 @@ Physical forms and appearance
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
-- 
+- The Spirit of Winter in [[The Triarch]]
 
 ---
 
