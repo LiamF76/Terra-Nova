@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Calder
 aliases:
   - The Autumn Knight
@@ -39,6 +39,7 @@ Calder takes the form of a 10 ft tall humanoid knight clad is leaves and armor. 
 
 ## Important Info
 - Spirit of Autumn in [[The Triarch]]
+- Spirit of [[Rocan Ashar]]
 
 ---
 

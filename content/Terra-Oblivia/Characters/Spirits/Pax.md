@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Pax
 aliases:
   - The Spirit of Winter
@@ -22,23 +22,24 @@ Created: 2026-11-04
 ---
 
 ## Voice
-Pax bellows, pushing words out like clouds drop snow, and the words singe your ears with cold before melting into speech. He does not speculate or wonder, he decrees winter has come, and speaks it outwards onto the world.
+Pax bellows, pushing words out like clouds drop snow, and the words singe your ears with cold before melting into speech. He does not speculate or wonder, he decrees winter has come, and speaks it outwards onto the world. His voice reminds all who hear it of a respected paternal figure.
 
 > [!quote]
 > "I am Pax, the lord in snow, and my breath is long winter."
 
 > [!quote]
-> "Quote"
+> "I AM THE STORM!"
 
 ---
 
 ## Description
-Physical forms and appearance
+Pax is a great white bear whose eyes are blended with the sky. During night they take on the stars, and during the day they hold the sun. His exact size is not known, but it is said when he sleeps he can be mistaken for a mountain, and there are stories of villages being built unknowingly on his shoulders.
 
 ---
 
 ## Important Info
 - The Spirit of Winter in [[The Triarch]]
+- Spirit of [[Krokha Inam]]
 
 ---
 
