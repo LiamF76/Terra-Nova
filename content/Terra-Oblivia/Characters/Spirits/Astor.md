@@ -47,3 +47,9 @@ Astor is commonly described as an eagle, but he is actually a hawk. He has feath
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[The Triarch]]
+- [[Lumena]]
+- [[Kasayt]]
+
+<!-- SerializedQuery END -->
