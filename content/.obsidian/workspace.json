@@ -50,6 +50,22 @@
             }
           },
           {
+            "id": "5e88a38e8a839ee5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "CoK Session 1 Notes"
+            }
+          },
+          {
             "id": "de99741fe4438ada",
             "type": "leaf",
             "pinned": true,
@@ -66,19 +82,35 @@
             }
           },
           {
-            "id": "1844e00a5f743569",
+            "id": "e509987601e6f58d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "webviewer",
               "state": {
-                "file": "pathfinder cheat sheet.png"
+                "url": "https://2e.aonprd.com/Monsters.aspx?ID=2848",
+                "title": "Vampire Bat Swarm - Monsters - Archives of Nethys: Pathfinder 2nd Edition Database",
+                "mode": "webview"
               },
-              "icon": "lucide-image",
-              "title": "pathfinder cheat sheet"
+              "icon": "globe-2",
+              "title": "Vampire Bat Swarm - Monsters - Archives of Nethys: Pathfinder 2nd Edition Database"
+            }
+          },
+          {
+            "id": "4db826c9e72f6151",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2e.aonprd.com/NPCs.aspx?ID=3130",
+                "title": "Orc Veteran - NPCs - Archives of Nethys: Pathfinder 2nd Edition Database",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Orc Veteran - NPCs - Archives of Nethys: Pathfinder 2nd Edition Database"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.9114532470703
+    "width": 438.9114532470703,
+    "collapsed": true
   },
   "right": {
     "id": "edfa255f6987f8f9",
@@ -222,14 +255,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "de99741fe4438ada",
+  "active": "e509987601e6f58d",
   "lastOpenFiles": [
-    "pathfinder cheat sheet.png",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "pathfinder cheat sheet.png",
     "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Dashboard.md",
     "Terra-Oblivia/Characters/Mortals/Yekril.md",
     "Terra-Oblivia/Characters/Spirits/Pax.md",
@@ -253,14 +287,12 @@
     "z Images/Ruman-1795102742011.webp",
     "z Images/Netri-1795102076352.webp",
     "Terra-Oblivia/Characters/Mortals/Ruman Castor.md",
-    "Outside Worlds/Pokemon/Unova/New Pokemon/Hiber Pokemon.md",
     "z Images/Hiber Pokemon-1795029069427.webp",
     "z Images/Hiber Pokemon-1795028519441.webp",
     "z Images/Hiber Pokemon-1795028334073.webp",
     "z Images/The Strand Scholarship Primer-1795015943428.webp",
     "z Images/Hiber Kyurem-1795016071680.webp",
     "Outside Worlds/Pokemon/Hiber Pokemon",
-    "z Images/Unovan Regional Pokemon-1795028110235.webp",
     "Outside Worlds/Pokemon/Unova/New Pokemon",
     "Outside Worlds/Pokemon/Unova",
     "Outside Worlds/Pokemon/PTU Rulebooks/Pokedex 1.05 Plus.pdf",

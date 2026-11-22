@@ -11,6 +11,7 @@ Session Date:
 
 ## Session Notes
 
+- traditional Lumena hand motion: close your eyes and fingertips to lips, hands upward to the sun like you blow a kiss to the sun
 - 
 
 ## Session Threads
