@@ -64,6 +64,18 @@
               "icon": "lucide-file",
               "title": "CoK Session 1 Prep"
             }
+          },
+          {
+            "id": "1844e00a5f743569",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pathfinder cheat sheet.png"
+              },
+              "icon": "lucide-image",
+              "title": "pathfinder cheat sheet"
+            }
           }
         ],
         "currentTab": 2
@@ -212,8 +224,9 @@
   },
   "active": "de99741fe4438ada",
   "lastOpenFiles": [
-    "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",
+    "pathfinder cheat sheet.png",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+    "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
@@ -244,7 +257,6 @@
     "z Images/Hiber Pokemon-1795029069427.webp",
     "z Images/Hiber Pokemon-1795028519441.webp",
     "z Images/Hiber Pokemon-1795028334073.webp",
-    "Outside Worlds/Pokemon/Unova/Unova Map.md",
     "z Images/The Strand Scholarship Primer-1795015943428.webp",
     "z Images/Hiber Kyurem-1795016071680.webp",
     "Outside Worlds/Pokemon/Hiber Pokemon",
