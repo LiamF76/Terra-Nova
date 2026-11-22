@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Rowan's Note to Finch
 aliases:
 tags:

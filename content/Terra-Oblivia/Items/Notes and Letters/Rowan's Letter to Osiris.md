@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Rowan's Letter to Osiris
 aliases:
 tags:
