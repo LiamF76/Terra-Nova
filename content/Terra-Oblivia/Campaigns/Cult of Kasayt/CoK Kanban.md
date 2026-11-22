@@ -47,20 +47,20 @@ tags:
 - [x] Winter: [[Pax]]
 
 
-## Pre-Campaign Sessions
-
-- [ ] [[Finch Session]]
-- [ ] [[Aren Session]]
-- [ ] [[Kori Session]]
-- [ ] [[Bael Session]]
-
-
 ## future prep
 
 - [ ] [[Woodland Rest]]
 - [ ] [[Chim]]
 - [ ] [[Amory Tau]]
 - [ ] [[Ruman Castor]]
+
+
+## Pre-Campaign Sessions
+
+- [ ] [[Finch Session]]
+- [ ] [[Aren Session]]
+- [ ] [[Kori Session]]
+- [ ] [[Bael Session]]
 
 
 ## rules

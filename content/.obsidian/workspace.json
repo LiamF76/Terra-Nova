@@ -163,18 +163,18 @@
       "homepage:Open homepage": false,
       "canvas:Create new canvas": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Oblivia/Characters/Mortals/Yekril.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Dashboard.md",
-    "Terra-Oblivia/Characters/Spirits/Calder.md",
     "Terra-Oblivia/Characters/Spirits/Pax.md",
+    "Terra-Oblivia/Characters/Spirits/Calder.md",
     "Terra-Oblivia/Characters/Spirits/Netri.md",
     "Terra-Oblivia/Characters/Spirits/Astor.md",
+    "Dashboard.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
@@ -193,7 +193,6 @@
     "z Images/Yekril-1795105411149.webp",
     "z Images/Ruman-1795102742011.webp",
     "z Images/Netri-1795102076352.webp",
-    "Terra-Oblivia/Characters/Mortals/Yekril.md",
     "Terra-Oblivia/Characters/Mortals/Ruman Castor.md",
     "Outside Worlds/Pokemon/Unova/New Pokemon/Hiber Pokemon.md",
     "z Images/Hiber Pokemon-1795029069427.webp",
