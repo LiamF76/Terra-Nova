@@ -41,10 +41,10 @@ tags:
 
 ## Triarch 4 Season Spirits
 
-- [ ] Spring: [[Astor]]
-- [ ] Summer: [[Netri]]
-- [ ] Autumn: [[Calder]]
-- [ ] Winter: [[Pax]]
+- [x] Spring: [[Astor]]
+- [x] Summer: [[Netri]]
+- [x] Autumn: [[Calder]]
+- [x] Winter: [[Pax]]
 
 
 ## Pre-Campaign Sessions

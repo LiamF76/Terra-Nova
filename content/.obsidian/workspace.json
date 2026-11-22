@@ -22,35 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "6b3e44d2f8bb950b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +167,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6b3e44d2f8bb950b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Terra-Oblivia/Characters/Spirits/Calder.md",
+    "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Characters/Spirits/Calder.md",
     "Terra-Oblivia/Characters/Spirits/Pax.md",
     "Terra-Oblivia/Characters/Spirits/Netri.md",
     "Terra-Oblivia/Characters/Spirits/Astor.md",
@@ -215,7 +189,6 @@
     "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
     "Terra-Oblivia/Items/Magic Items/The Orichalcum Hourglass.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Cult of Kasayt Campaign Primer.md",
-    "Dashboard.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "z Images/Yekril-1795105411149.webp",
     "z Images/Ruman-1795102742011.webp",
