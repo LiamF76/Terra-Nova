@@ -22,8 +22,51 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "a5c09eecf8cb4112",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "CoK Kanban"
+            }
+          },
+          {
+            "id": "de99741fe4438ada",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "CoK Session 1 Prep"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,18 +206,19 @@
       "homepage:Open homepage": false,
       "canvas:Create new canvas": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "de99741fe4438ada",
   "lastOpenFiles": [
-    "Terra-Oblivia/Characters/Mortals/Yekril.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Dashboard.md",
+    "Terra-Oblivia/Characters/Mortals/Yekril.md",
     "Terra-Oblivia/Characters/Spirits/Pax.md",
     "Terra-Oblivia/Characters/Spirits/Calder.md",
     "Terra-Oblivia/Characters/Spirits/Netri.md",
     "Terra-Oblivia/Characters/Spirits/Astor.md",
-    "Dashboard.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
     "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
