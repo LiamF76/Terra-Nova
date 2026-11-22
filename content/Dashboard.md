@@ -11,6 +11,8 @@ tags:
   - Terra-Nova
   - Terra-Oblivia
   - Pentium-Realm
+  - Deadlock
+  - Pokemon
 Created: 2026-08-26
 ---
 
