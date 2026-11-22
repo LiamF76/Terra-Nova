@@ -6,7 +6,7 @@ tags:
   - Terra-Oblivia
   - Session-Prep
 Created: 2026-10-17
-Session Date:
+Session Date: 11/22/2026
 ---
 
 # CoK Session 1 Prep
