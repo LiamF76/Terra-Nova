@@ -22,14 +22,11 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-<<<<<<< HEAD
-          }
-        ]
-=======
           },
           {
-            "id": "59df4b478bde813b",
+            "id": "b969750cdd1e43d5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -47,27 +44,27 @@
                   ]
                 }
               },
+              "pinned": true,
               "icon": "lucide-trello",
               "title": "CoK Kanban"
             }
           }
         ],
         "currentTab": 1
->>>>>>> origin/Main
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b7fd963d1fb72649",
+    "id": "40cd9bebaab35c97",
     "type": "split",
     "children": [
       {
-        "id": "f67b9d3ed94c60db",
+        "id": "49a13abadf283971",
         "type": "tabs",
         "children": [
           {
-            "id": "a20b8c888495672e",
+            "id": "e34a2393bb44142e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -82,7 +79,7 @@
             }
           },
           {
-            "id": "dbf3a6fd19f04ab1",
+            "id": "7b55cf23085505ad",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -102,18 +99,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.9114532470703
+    "width": 288.078125
   },
   "right": {
-    "id": "edfa255f6987f8f9",
+    "id": "c25d59f363de0017",
     "type": "split",
     "children": [
       {
-        "id": "9d2b1980da109ea8",
+        "id": "05048378f5cdb68e",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5e71c731e094b8",
+            "id": "82e16e8204e136ee",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,148 +125,121 @@
             }
           },
           {
-            "id": "73217a1df8b8d6fb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Terra-Nova/Campaigns/Hunters of Kabir/HOK Brainstorm.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for HOK Brainstorm"
-            }
-          },
-          {
-            "id": "1fb9bc83ab9ff58b",
+            "id": "fd2368f395de2c2b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terra-Nova/History/Lore Documents/The Craved End/The Third Lesson.md",
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Third Lesson"
+              "title": "Outline"
             }
           },
           {
-            "id": "ef6c3d700eed3977",
+            "id": "61f1c54cff9f68f2",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "type": "backlink",
+              "state": {
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 309,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-<<<<<<< HEAD
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b969750cdd1e43d5",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "z Images/Pax-1795218389986.webp",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 2 Notes.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Characters/Mortals/Yekril.md",
     "z Images/Yekril-1795105411149.webp",
     "Terra-Oblivia/Characters/Mortals/Ruman Castor.md",
     "Terra-Oblivia/Characters/Mortals/Chim.md",
-=======
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "homepage:Open homepage": false,
-      "canvas:Create new canvas": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
-    }
-  },
-  "active": "59df4b478bde813b",
-  "lastOpenFiles": [
->>>>>>> origin/Main
     "Terra-Oblivia/Characters/Mortals/Amory Tau.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Dashboard.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 2 Notes.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
-    "Templates/Session Prep Template.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
-    "Terra-Oblivia/Characters/Mortals/Ayla Syros.md",
-    "z Images/Ayla Syros-1792345717887.webp",
-    "Terra-Oblivia/Items/Notes and Letters/Rowan's Letter to Osiris.md",
-    "Terra-Oblivia/Items/Notes and Letters/Rowan's Note to Finch.md",
-    "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",
-    "pathfinder cheat sheet.png",
-    "Terra-Oblivia/Characters/Mortals/Yekril.md",
-    "Terra-Oblivia/Characters/Spirits/Pax.md",
-    "Terra-Oblivia/Characters/Spirits/Calder.md",
-    "Terra-Oblivia/Characters/Spirits/Netri.md",
-    "Terra-Oblivia/Characters/Spirits/Astor.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Great Spirits.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Religion.md",
-    "Terra-Oblivia/Religion/Terra-Oblivia Gods and Pantheon.md",
-    "Terra-Oblivia/Characters/Gods/Vespar Telarum.md",
-    "Terra-Oblivia/Characters/Gods/Krokha Inam.md",
-    "Terra-Oblivia/Characters/Gods/Aevarus.md",
-    "Terra-Oblivia/Characters/Spirits/Towca.md",
-    "Terra-Oblivia/Characters/Spirits/Paga.md",
-    "z Images/Pax-1795218389986.webp",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
-    "z Images/Yekril-1795105411149.webp",
     "z Images/Ruman-1795102742011.webp",
+    "Terra-Oblivia/Characters/Spirits/Netri.md",
+    "Terra-Oblivia/Characters/Spirits/Pax.md",
     "z Images/Netri-1795102076352.webp",
+    "z Images/Unovan Regional Pokemon-1795028110235.webp",
+    "z Images/Unovan Regional Pokemon-1795028008638.webp",
     "z Images/Hiber Pokemon-1795029069427.webp",
     "z Images/Hiber Pokemon-1795028519441.webp",
     "z Images/Hiber Pokemon-1795028334073.webp",
-    "z Images/The Strand Scholarship Primer-1795015943428.webp",
-    "Outside Worlds/Pokemon/Hiber Pokemon",
+    "z Images/Hiber Pokemon-1795027833633.webp",
+    "Outside Worlds/Pokemon/Unova/New Pokemon/Unovan Regional Pokemon.md",
+    "Outside Worlds/Pokemon/Unova/New Pokemon/Hiber Pokemon.md",
     "Outside Worlds/Pokemon/Unova/New Pokemon",
+    "Outside Worlds/Pokemon/The Strand Scholarship/The Strand Scholarship Primer.md",
+    "Outside Worlds/Pokemon/Unova/Unova Pokemon League.md",
+    "Outside Worlds/Pokemon/Unova/Unova Gym Leaders.md",
+    "Outside Worlds/Pokemon/Characters/Professor Juniper.md",
+    "Outside Worlds/Pokemon/Characters/Postman.md",
+    "Outside Worlds/Pokemon/Characters/Colress.md",
+    "Outside Worlds/Pokemon/Hiber Pokemon/Hiber Kyurem.md",
+    "Outside Worlds/Pokemon/PTU Rulebooks/Ability Revision.pdf",
+    "Outside Worlds/Pokemon/The Strand Scholarship/TSS PKMN Brainstorm.md",
+    "Outside Worlds/Pokemon/Hiber Pokemon",
+    "Outside Worlds/Pokemon/Unova/Unova Map.md",
     "Outside Worlds/Pokemon/Unova",
     "Outside Worlds/Pokemon/PTU Rulebooks/Pokedex 1.05 Plus.pdf",
-    "Outside Worlds/Pokemon/PTU Rulebooks/Ability Revision.pdf",
-    "Outside Worlds/Pokemon/PTU Rulebooks/Pokedex 1.05.pdf",
     "Outside Worlds/Pokemon/The Strand Scholarship",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Outside Worlds/Pokemon/Characters",
-    "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley",
-    "Outside Worlds/Pokemon/PTU Rulebooks/Useful Charts.pdf",
+    "Templates/PKMN Character Template.md",
+    "Templates/Character Template.md",
+    "Outside Worlds/Pokemon/PTU Rulebooks/Pokemon Tabletop United 1.05 Core.pdf",
+    "Outside Worlds/Pokemon/PTU Rulebooks/Blessed and the Damned.pdf",
+    "Outside Worlds/Pokemon/PTU Rulebooks/Indices and Reference.pdf",
+    "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
+    "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
-    "Arkfall/Cosmology/Old Arkfall Map.canvas",
-    "Arkfall/Cosmology/Arkfall Map.canvas",
-    "Arkfall/Cosmology/Arkfall Map V2.canvas",
-    "Arkfall/Cosmology/Arkfall Map Old.canvas",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
-    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
-    "Terra-Nova/Books/An Oath of Spirit/An Oath of Spirit Canvas.canvas",
-    "Terra-Nova/Geography/Planes/Planes of Terra-Nova.canvas"
+    "Terra-Oblivia/Cosmology/Planes/Terra-Oblivia Planes.canvas",
+    "Arkfall/Arkfall Books/Arkfall - Lattice and Dust/Space Western Storyboard.canvas",
+    "Arkfall/Cosmology/Arkfall Map.canvas",
+    "Arkfall/Timeline/Arkfall Timeline V2.canvas",
+    "Arkfall/Cosmology/Old Arkfall Map.canvas"
   ]
 }
