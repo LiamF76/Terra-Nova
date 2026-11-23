@@ -82,21 +82,21 @@
             }
           },
           {
-            "id": "e509987601e6f58d",
+            "id": "a69a7d9a91f074e2",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2e.aonprd.com/Monsters.aspx?ID=2848",
-                "title": "Vampire Bat Swarm - Monsters - Archives of Nethys: Pathfinder 2nd Edition Database",
-                "mode": "webview"
+                "file": "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Vampire Bat Swarm - Monsters - Archives of Nethys: Pathfinder 2nd Edition Database"
+              "icon": "lucide-file",
+              "title": "Jade of Two Rivers"
             }
           },
           {
-            "id": "4db826c9e72f6151",
+            "id": "d7031991aa8e8c21",
             "type": "leaf",
             "state": {
               "type": "webviewer",
@@ -255,10 +255,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e509987601e6f58d",
+  "active": "a69a7d9a91f074e2",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 1 Notes.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "pathfinder cheat sheet.png",
     "Terra-Oblivia/Items/Artifacts/Jade of Two Rivers.md",

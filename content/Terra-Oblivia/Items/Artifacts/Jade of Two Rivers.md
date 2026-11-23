@@ -9,7 +9,9 @@ Created: 2026-10-17
 
 # Jade of Two Rivers
 
-![[Jade of Two Rivers-1792282777069.webp|300x300]]
+![[Jade of Two Rivers-1792282777069.webp|500]]
+
+---
 
 ## History and Description
 

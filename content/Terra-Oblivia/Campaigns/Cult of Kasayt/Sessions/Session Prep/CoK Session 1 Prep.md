@@ -34,7 +34,7 @@ Introduce characters! Tell me what you're doing as you travel the road.
 **Enemies**: 1x [Orc veteran](https://2e.aonprd.com/NPCs.aspx?ID=3130), 2x [Vampire bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=2848)
 - *Enemies Goal*: The orc warrior is there to steal the artifact from the chest in the back of the wagon. 
 
-**During Combat**: As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel with the sound of a heavy metal battleaxe clanging on their back. 
+**During Combat**: As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed goes forward, riding towards Citadel with the sound of a heavy metal battleaxe clanging on their back. 
 
 **After Combat**: As the road quiets when battle ends, the darkening sky becomes clouded. Droplets of rain begin to fall lightly, then quickly, and a storm begins. The hoof prints of the black rider who passed you slowly fade as the dirt turns to mud. The city of Citadel awaits nearly 2 hours down the road. 
 
