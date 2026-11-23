@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Calder
 aliases:
-  - The Petal Knight
   - The Autumn Knight
+  - The Spirit of Autumn
 tags:
   - Terra-Oblivia
 Created: 2026-10-28
@@ -16,7 +16,7 @@ Created: 2026-10-28
 ---
 
 ## Calder
-**The Petal Knight, The Autumn Knight**
+**The Spirit of Autumn, The Autumn Knight**
 *Pronouns*: he/him
 
 ---
@@ -33,18 +33,21 @@ Calder is loud and proud, he has a deep masculine voice that echoes through ever
 ---
 
 ## Description
-Physical forms and appearance
+Calder takes the form of a 10 ft tall humanoid knight clad is leaves and armor. He wears a cape made of orange, red, yellow, and brown leaves. His helmet carries the horns of a great beast, and he wields an axe whose edge is carved from the setting sun itself.
 
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
-- 
+- Spirit of Autumn in [[The Triarch]]
+- Spirit of [[Rocan Ashar]]
 
 ---
 
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[The Triarch]]
+- [[Rocan Ashar]]
+
+<!-- SerializedQuery END -->

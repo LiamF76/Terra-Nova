@@ -24,12 +24,25 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+<<<<<<< HEAD
       "filepath": "Dashboard.md",
       "timestamp": 1795474970572
     },
     {
       "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
       "timestamp": 1795474970490
+=======
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+      "timestamp": 1795473671100
+    },
+    {
+      "filepath": "Terra-Oblivia/Characters/Mortals/Amory Tau.md",
+      "timestamp": 1795473669442
+    },
+    {
+      "filepath": "Dashboard.md",
+      "timestamp": 1795470112476
+>>>>>>> origin/Main
     }
   ],
   "bookmarkedFileStore": [],

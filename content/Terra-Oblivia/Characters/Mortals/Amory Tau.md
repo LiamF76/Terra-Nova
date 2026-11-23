@@ -16,7 +16,7 @@ Created: 2026-11-15
 
 ## Amory Tau
 **Fencer**
-*Pronouns*: 
+*Pronouns*: he/him
 
 ---
 

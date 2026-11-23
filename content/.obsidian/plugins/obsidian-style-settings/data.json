@@ -116,7 +116,7 @@
   "soft-paper-dark-settings@@sp-compact-properties": true,
   "soft-paper-dark-settings@@sp-no-folder-colors": true,
   "soft-paper-dark-settings@@sp-rainbow-folders": false,
-  "minimal-style@@ax1@@light": "#A3CFAE",
+  "minimal-style@@ax1@@light": "#4A6250",
   "minimal-style@@bold-color@@light": "#E8A09A",
   "minimal-style@@bold-color@@dark": "#E8A09A",
   "minimal-style@@italic-color@@light": "#9DB9E8",
@@ -149,5 +149,12 @@
   "minimal-style@@bg2@@light": "#EDE8DC",
   "primary-theme@@colorful-folders_inherit-color": false,
   "primary-theme@@h1-text-transform": "normal",
-  "minimal-style@@h5-color@@dark": "#C9B2DE"
+  "minimal-style@@h5-color@@dark": "#C9B2DE",
+  "minimal-style@@ax2@@light": "#4A6250",
+  "minimal-style@@ax3@@light": "#4A6250",
+  "minimal-style@@sp1@@light": "#4A6250",
+  "minimal-style@@link-color@@light": "#4A6250",
+  "minimal-style@@link-color-hover@@light": "#4A6250",
+  "minimal-style@@link-external-color@@light": "#4A6250",
+  "minimal-style@@link-external-color-hover@@light": "#4A6250"
 }

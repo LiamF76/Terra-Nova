@@ -6,14 +6,14 @@ tags:
   - Terra-Oblivia
   - Session-Prep
 Created: 2026-10-17
-Session Date:
+Session Date: 11/22/2026
 ---
 
 # CoK Session 1 Prep
 
 ## Cold Open
 
-A shade is cast upon the pale grey sand of the Ashkarad wastes. Black smoke clouds block out the sun, and the shadow of a singular cloaked figure is cast miles long across the land. A pair of cool spiked black metal gauntlets run softly along a black glass orb, filled with shadow. The metal scratches the glass every so lightly and sparks, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of shadow behind him, death has come for the valley.
+A shade is cast upon the pale grey sand of the Ashkarad wastes. Black smoke clouds block out the sun, and the shadow of a singular cloaked figure is cast miles long across the land. A pair of cool spiked black metal gauntlets run softly along a black glass orb, filled with shadow. The metal scratches the glass every so lightly and sparks, causing the orb to come alight with vengeful red abyssal fire. The orb is alive, and angry, forming a blazing eye of hatred and malice. The gauntlets scoop it up gently, holding it up to the sky. It's gaze turns to see mountains stretching high into the clouds, and a city of towers and walls guarding the entrance. The orb's wielder steps forward, with an army of living shadows behind him, death has come for the valley.
 
 ---
 
@@ -34,7 +34,7 @@ Introduce characters! Tell me what you're doing as you travel the road.
 **Enemies**: 1x [Orc veteran](https://2e.aonprd.com/NPCs.aspx?ID=3130), 2x [Vampire bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=2848)
 - *Enemies Goal*: The orc warrior is there to steal the artifact from the chest in the back of the wagon. 
 
-**During Combat**: As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed go forward, riding towards Citadel with the sound of a heavy metal battleaxe clanging on their back. 
+**During Combat**: As you fight you hear the sound of hooves firing against the road, a rider clad in black on a mount of similar color comes racing through the battle. They ignore you all, and at breakneck speed goes forward, riding towards Citadel with the sound of a heavy metal battleaxe clanging on their back. 
 
 **After Combat**: As the road quiets when battle ends, the darkening sky becomes clouded. Droplets of rain begin to fall lightly, then quickly, and a storm begins. The hoof prints of the black rider who passed you slowly fade as the dirt turns to mud. The city of Citadel awaits nearly 2 hours down the road. 
 
@@ -70,7 +70,7 @@ DM NOTE: Party can look through Rowan's office for information
 *Set the Scene*: The entire office is a mess, with his workbench, desk, and bookshelves are in chaos. Papers are strewn about the floor and tables, seeming to have been hastily scoured through. There is a stack of unfurled scrolls on a bench, a large leatherbound notebook open on a lectern, and a stack of open letters on the desk.
 
 - *Thread B*: **The Green Knights** Bench Scrolls.
-	- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
+	- 1. Ancient scroll states: 'The tablet it hidden where the mountain's shadow is invisible' 
 	- 2. Notes reference the wooded fortress
 	- 3. Logbook shows he gathered supplies regularly at a trading post outside Silver Spruce Forest (forest that has a famous silver spruce tree)
 - *Thread C*: **The Demonic Tome** Leatherbound Notebook Lectern.
@@ -109,7 +109,7 @@ TBD
 DM NOTE: Ayla arrives looking for Rowan, finds the party and Rowan's body. Questions them but trusts Finch and Aren due to their respective roles in the Triarch.
 - Battle has begun at Bastion with the forces of a Warlord known as Bellum Grail, a follower of Kasayt.
 - The rest of Kasayt's forces are engaged in battle with Daegel Lathir, another warlord. This will either wipe out Kasayt's forces who are significantly weaker, or force them into the Triarch where they will try to hide from the other warlords.
-- TO BAEL: "A shadow has been cast upon the valley, dark forces are rising. Out bond is weakened, but I will reach you when I need to. Trust in me, my Risen."
+- TO BAEL: "A shadow has been cast upon the valley, dark forces are rising. Our bond is weakened, but I will reach you when I need to. Trust in me, my Risen."
 - Ayla knows about the Silver Spruce Forest. She believed Rowan had been going there because he liked it or to meditate.
 - Ayla is aware of the demonic tome, which was once in a Wizard tower that was long destroyed. It was hidden away by a forgotten Kingdom in a dangerous ruin in the hills around the Valley. If they want to find more information they will need to speak to 
 - Ayla tells the party to find the wandering Magus, [[Ruman Castor]]. He will know more about the artifact Rowan left and what is happening with the Triarch. He travels with Pilgrim Knights across The Triarch and beyond.
