@@ -10,6 +10,8 @@ tags:
 
 - [ ] [[CoK Session 2 Prep]]
 - [ ] [[CoK Session 2 Notes]]
+- [ ] Basilisk's Stone
+	- Pilgrim Knights castle / home base
 
 
 ## Campaign Overview
