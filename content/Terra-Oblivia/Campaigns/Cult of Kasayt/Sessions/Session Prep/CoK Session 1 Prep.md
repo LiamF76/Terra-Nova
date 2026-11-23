@@ -70,7 +70,7 @@ DM NOTE: Party can look through Rowan's office for information
 *Set the Scene*: The entire office is a mess, with his workbench, desk, and bookshelves are in chaos. Papers are strewn about the floor and tables, seeming to have been hastily scoured through. There is a stack of unfurled scrolls on a bench, a large leatherbound notebook open on a lectern, and a stack of open letters on the desk.
 
 - *Thread B*: **The Green Knights** Bench Scrolls.
-	- 1. Ancient scroll states: 'The tablet lis hidden where the mountain's shadow is invisible' 
+	- 1. Ancient scroll states: 'The tablet it hidden where the mountain's shadow is invisible' 
 	- 2. Notes reference the wooded fortress
 	- 3. Logbook shows he gathered supplies regularly at a trading post outside Silver Spruce Forest (forest that has a famous silver spruce tree)
 - *Thread C*: **The Demonic Tome** Leatherbound Notebook Lectern.
