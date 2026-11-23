@@ -6,28 +6,10 @@ tags:
 
 ---
 
-## Session 1
+## Next Session
 
-- [ ] [[CoK Session 1 Prep]]
-- [ ] [[CoK Session 1 Notes]]
-- [x] [[Jade of Two Rivers]]
-- [x] [[Rowan's Note to Finch]]
-- [x] [[Rowan's Letter to Osiris]]
-- [x] [[The Orichalcum Hourglass]]
-- [x] Caravan ambush
-- [x] Rowan murder / investigation
-- [x] Rowan research
-- [x] Arzen / Rowan Letters on Canva
-- [x] [[Rowan August]]
-	- citadel NPC of note
-	- member of Devout assembly
-	- genuine good person
-	- murdered before the party meets them
-- [x] [[Lysander Grave]]
-	- citadel NPC of note
-	- traitor, working for Hartwyn
-	- told Sana about the artifact being sent to Citadel
-- [x] [[Ayla Syros]]
+- [ ] [[CoK Session 2 Prep]]
+- [ ] [[CoK Session 2 Notes]]
 
 
 ## Campaign Overview
@@ -77,7 +59,30 @@ tags:
 - [ ] [[Yekril]]
 
 
+***
 
+## Archive
+
+- [x] [[CoK Session 1 Prep]]
+- [x] [[CoK Session 1 Notes]]
+- [x] [[Jade of Two Rivers]]
+- [x] [[Rowan's Note to Finch]]
+- [x] [[Rowan's Letter to Osiris]]
+- [x] [[The Orichalcum Hourglass]]
+- [x] Caravan ambush
+- [x] Rowan murder / investigation
+- [x] Rowan research
+- [x] Arzen / Rowan Letters on Canva
+- [x] [[Rowan August]]
+	- citadel NPC of note
+	- member of Devout assembly
+	- genuine good person
+	- murdered before the party meets them
+- [x] [[Lysander Grave]]
+	- citadel NPC of note
+	- traitor, working for Hartwyn
+	- told Sana about the artifact being sent to Citadel
+- [x] [[Ayla Syros]]
 
 %% kanban:settings
 ```
