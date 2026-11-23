@@ -11,7 +11,7 @@ Created: 2026-10-17
 
 # Ayla Syros
 
-![[Ayla Syros-1792345717887.webp|300x472]]
+![[Ayla Syros-1792345717887.webp|400]]
 
 ---
 
