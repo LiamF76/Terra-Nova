@@ -10,8 +10,7 @@ tags:
 
 - [ ] [[CoK Session 2 Prep]]
 - [ ] [[CoK Session 2 Notes]]
-- [ ] Basilisk's Stone
-	- Pilgrim Knights castle / home base
+- [ ] [[Iseul]]
 
 
 ## Campaign Overview
@@ -37,6 +36,8 @@ tags:
 - [ ] [[Chim]]
 - [ ] [[Amory Tau]]
 - [ ] [[Ruman Castor]]
+- [ ] Basilisk's Stone
+	- Pilgrim Knights castle / home base
 
 
 ## Pre-Campaign Sessions
