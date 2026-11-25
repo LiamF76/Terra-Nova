@@ -31,6 +31,7 @@ tags:
 - [ ] [[Ruman Castor]]
 - [ ] Basilisk's Stone
 	- Pilgrim Knights castle / home base
+- [ ] [[Promise Gates]]
 
 
 ## Pre-Campaign Sessions

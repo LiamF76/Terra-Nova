@@ -127,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.078125,
-    "collapsed": true
+    "width": 288.078125
   },
   "right": {
     "id": "c25d59f363de0017",
@@ -216,12 +215,15 @@
   "active": "ff18e89c6fbe5448",
   "lastOpenFiles": [
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Dashboard.md",
     "Terra-Oblivia/Characters/Spirits/Iseul.md",
+    "Terra-Oblivia/Magic/Promise Gates.md",
+    "z Images/Promise Gates-1795646273073.webp",
+    "z Images/Promise Gates-1795646255966.webp",
     "Terra-Oblivia/Characters/Mortals/Yekril.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
     "Terra-Oblivia/Characters/Spirits/Twig.md",
     "z Images/Twig-1795643776896.webp",
-    "Dashboard.md",
     "z Images/TBD Lady-1795487389604.webp",
     "z Images/Pax-1795218389986.webp",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 2 Notes.md",
@@ -236,8 +238,6 @@
     "z Images/Netri-1795102076352.webp",
     "z Images/Unovan Regional Pokemon-1795028110235.webp",
     "z Images/Unovan Regional Pokemon-1795028008638.webp",
-    "z Images/Hiber Pokemon-1795029069427.webp",
-    "z Images/Hiber Pokemon-1795028519441.webp",
     "Outside Worlds/Pokemon/Unova/New Pokemon/Unovan Regional Pokemon.md",
     "Outside Worlds/Pokemon/Unova/New Pokemon/Hiber Pokemon.md",
     "Outside Worlds/Pokemon/Unova/New Pokemon",
@@ -255,7 +255,6 @@
     "Outside Worlds/Pokemon/Unova",
     "Outside Worlds/Pokemon/PTU Rulebooks/Pokedex 1.05 Plus.pdf",
     "Outside Worlds/Pokemon/The Strand Scholarship",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
     "Outside Worlds/Pokemon/Characters",
     "Outside Worlds/Pokemon/PTU Rulebooks/Pokemon Tabletop United 1.05 Core.pdf",
     "Outside Worlds/Pokemon/PTU Rulebooks/Blessed and the Damned.pdf",
