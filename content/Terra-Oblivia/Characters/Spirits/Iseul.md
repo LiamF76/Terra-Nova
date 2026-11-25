@@ -25,10 +25,10 @@ Created: 2026-11-23
 How they speak/communicate
 
 > [!quote]
-> "Quote"
+> "I am mother to all who are sent off to war laden in laurels and freshly forged swords, and I am by their side as they rot in the ground."
 
 > [!quote]
-> "Quote"
+> "I am no keeper of boons and lady of blessings. My blades are a gift, and each gift has a cost."
 
 ---
 
@@ -38,8 +38,7 @@ Physical forms and appearance
 ---
 
 ## Important Info
-- Spirit of [[Rocan Ashar]]
-- Iseul is the Spirit of women who send men off to wars they are doomed to die in
+- Spirit of [[Rocan Ashar]], Spirit of women who send men off to wars they are doomed to die in
 - Mother of [[Twig]]
 
 ---
