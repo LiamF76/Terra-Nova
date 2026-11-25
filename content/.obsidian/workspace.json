@@ -63,8 +63,26 @@
               "icon": "lucide-file",
               "title": "CoK Session 2 Prep"
             }
+          },
+          {
+            "id": "c2b64591c51ccaa5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Terra-Oblivia/Scratch/Order of Events.canvas",
+                "viewState": {
+                  "x": 2143.6126454828136,
+                  "y": 232.9162065523724,
+                  "zoom": -0.9940692494236995
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Order of Events"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Terra-Oblivia/Scratch/Order of Events.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,12 +216,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff18e89c6fbe5448",
+  "active": "c2b64591c51ccaa5",
   "lastOpenFiles": [
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
-    "Terra-Oblivia/Characters/Spirits/Iseul.md",
+    "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Dashboard.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/Characters/Spirits/Iseul.md",
     "Terra-Oblivia/Magic/Promise Gates.md",
     "z Images/Promise Gates-1795646273073.webp",
     "z Images/Promise Gates-1795646255966.webp",
@@ -246,7 +265,6 @@
     "Outside Worlds/Pokemon/PTU Rulebooks/Blessed and the Damned.pdf",
     "Outside Worlds/Pokemon/PTU Rulebooks/Indices and Reference.pdf",
     "Terra-Oblivia/Geography/Terra-Oblivia Map (WIP).canvas",
-    "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Terra-Oblivia/Groups/Governments/Ashkarad Government.canvas",
     "Terra-Oblivia/Scratch/TO Workpad.canvas",
     "Terra-Oblivia/Reshaping WIP/Reshaping Workpad.canvas",
