@@ -28,12 +28,12 @@ How they speak/communicate
 > "I am mother to all who are sent off to war laden in laurels and freshly forged swords, and I am by their side as they rot in the ground."
 
 > [!quote]
-> "I am no keeper of boons and lady of blessings. My blades are a gift, and each gift has a cost."
+> "I am no keeper of boons and blessed Spirit. My blades are a gift to be sure, but each gift has a cost."
 
 ---
 
 ## Description
-Physical forms and appearance
+Iseul is 5'4 and takes the form of a spectral woman composed of green light. She has long hair and a nondescript face. She is adorned with a halo and around her float small fish and wisps of water.
 
 ---
 
