@@ -63,26 +63,9 @@
               "icon": "lucide-file",
               "title": "CoK Session 2 Prep"
             }
-          },
-          {
-            "id": "c2b64591c51ccaa5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Terra-Oblivia/Scratch/Order of Events.canvas",
-                "viewState": {
-                  "x": 2143.6126454828136,
-                  "y": 232.9162065523724,
-                  "zoom": -0.9940692494236995
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Order of Events"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Oblivia/Scratch/Order of Events.canvas",
+                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,12 +199,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2b64591c51ccaa5",
+  "active": "0a7b06664ddae4a2",
   "lastOpenFiles": [
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Dashboard.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Characters/Spirits/Iseul.md",
     "Terra-Oblivia/Magic/Promise Gates.md",
     "z Images/Promise Gates-1795646273073.webp",
