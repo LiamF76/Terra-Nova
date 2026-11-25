@@ -24,10 +24,10 @@ Created: 2026-11-25
 How they speak/communicate
 
 > [!quote]
-> "Quote"
+> "By the bark of my stick and the blade of my grass, I am Twig, and I am of the forest!"
 
 > [!quote]
-> "Quote"
+> "My mom has lots of swords."
 
 ---
 
@@ -37,10 +37,8 @@ Twig's 1'8 body is a thin stick covered in a vaguely humanoid shape of leaves. T
 ---
 
 ## Important Info
-- Domain/role
-- Origin, purpose, or key lore
-- Relationships or cosmological significance
-- 
+- Woodland Spirit, very distant descendant of [[Lumena]]
+- Child of [[Iseul]]
 
 ---
 
