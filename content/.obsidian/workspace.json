@@ -8,15 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "ff18e89c6fbe5448",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "home-tab-view",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
               "pinned": true,
-              "icon": "search",
-              "title": "Home tab"
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           },
           {
@@ -74,8 +78,7 @@
               "title": "Iseul"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra-Oblivia/Characters/Spirits/Iseul.md",
+                "file": "Dashboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,12 +213,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eadd315082e2732a",
+  "active": "ff18e89c6fbe5448",
   "lastOpenFiles": [
-    "Terra-Oblivia/Characters/Mortals/Yekril.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
     "Terra-Oblivia/Characters/Spirits/Iseul.md",
+    "Terra-Oblivia/Characters/Mortals/Yekril.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
     "Terra-Oblivia/Characters/Spirits/Twig.md",
     "z Images/Twig-1795643776896.webp",
     "Dashboard.md",
