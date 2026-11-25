@@ -15,13 +15,18 @@ Created: 2026-11-22
 - campfire talks about where they will go next, no matter which direction they pick on the road they'll head towards a tavern and such
 - Party travels away from Citadel, stops at a tavern / trading post to gather supplies and rest
 - During the night a little spirit visits the party, tells them their mother is a friend who can help them, but the little spirit is lost and says they should go to town, someone there will know how to find their mother
-- At the tavern they get information on a local spirit who would be able to help the party, a lady of the lake type spirit, [[Iseul]] (the little spirit's mother)
+- At the tavern they get information on a local spirit who would be able to help the party, a lady of the lake type spirit, Iseul (the little spirit's mother)
 - Iseul only comes out when the moon is up, and hides beneath the water of her lake until midnight
-- 
+- COLD OPEN BRAINSTORM
+	- 
 
 ## Cold Open
 
 TBD
+
+---
+
+write here
 
 ---
 
