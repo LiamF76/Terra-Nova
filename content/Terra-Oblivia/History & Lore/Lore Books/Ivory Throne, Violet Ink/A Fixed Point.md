@@ -27,9 +27,11 @@ I don't exactly know how this made it into my mind, but I know he wrote it, and 
 
 *Protect yourselves, do your very best, and remember who you are. There is nothing in the world beyond your reach. Do not make the same mistake I did when thinking that though. Just because nothing is beyond your reach, does not mean you will always reach far. The love you need may be right beside you already.*
 
-*I am very proud.*
+*I am very proud. The only thing I am sorry to say, is that this still isn't over.*
 
 **Amor aeternus.**
+
+*~~You didn't win.~~*
 
 ---
 
