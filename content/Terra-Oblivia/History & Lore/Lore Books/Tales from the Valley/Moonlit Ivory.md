@@ -7,6 +7,9 @@ tags:
 Created: 2026-11-15
 ---
 Ayla Syros makes a great offering to Krokha Inam, and is gifted an ivory mask of feathers that blocks her sight, allowing her to see the future.
+# Moonlit Ivory
+
+tbd
 
 ---
 
