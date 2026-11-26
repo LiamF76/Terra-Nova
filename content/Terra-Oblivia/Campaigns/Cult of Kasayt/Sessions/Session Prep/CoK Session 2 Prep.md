@@ -44,7 +44,7 @@ The leader of the cultists lifts his head to the sky, searching for the moon tha
 
 DM NOTE: Party is camping and Twig spirit comes sneaking into their camp. It's scared and lost and wants help finding its Mom but doesn't know where she lives, only that she is an important spirit, and that the houses nearby may know
 
-*Set the Scene*: TBD
+*Set the Scene*: Aren, your heart is thumping fast, beating out of your chest as you shoot awake, unable to return to sleep as the thumping subsides, you exit your tent and return to the campfire. The fire has burned low, and the night has gone very quiet. Only the sounds of crickets and owls occasionally breach the silence. A kettle above the campfire begins to bubble and boil as you ready a cup for coffee. The smell of burnt wood and the babble of a small brook just a bit away from your camp soothe your minds.
 
 TBD
 

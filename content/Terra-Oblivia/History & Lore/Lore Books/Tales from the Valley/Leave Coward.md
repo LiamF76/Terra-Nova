@@ -21,13 +21,13 @@ Dastan laughs from his belly. "Not much of one that is, but trust me [[Amory Tau
 
 I shrug, placing a hand on the pommel on the hilt of my rapier. "People can change."
 
-"Not killers." he responds matter of factly, as I eye his sword and armor, his maps of Ember-Flag and how to destroy the infant Scarborn city.
+"Not killers." he responds matter-of-factly, as I eye his sword and armor, his maps of Ember-Flag and how to destroy the infant Scarborn city.
 
 "Don't look at me like that Amory." He sounds slighted.
 
 "Like what?" I ask as I draw my blade, practicing my forms against a dummy.
 
-"Like you're better than I am. You're a wonderful swordsman but you lack the courage to do what is required of great men." He nods towards my blade. "That's why she gave you a magical sword, she didn't have to worry about its impact, gave it to a man with no will to use its power."
+"Like you're better than I am. You're a wonderful swordsman, but you lack the courage to do what is required of great men." He nods towards my blade. "That's why she gave you a magical sword, she didn't have to worry about its impact, gave it to a man with no will to use its power."
 
 "Lady [[Iseul]] is an honored Spirit and you should grant her far more respect." I sheath my weapon. "She decreed I would die in a war worth fighting, honorably."
 
@@ -35,7 +35,7 @@ I shrug, placing a hand on the pommel on the hilt of my rapier. "People can chan
 
 "No." I say as I turn to leave. "I won't."
 
-He laughs again, but this time its hollow, its a laugh of effort, trying to convince himself he isn't unsure about his motive for attacking this town. "I don't need you Amory Tau!"
+He laughs again, but this time its hollow, it's a laugh of effort, trying to convince himself he isn't unsure about his motive for attacking this town. "I don't need you Amory Tau!"
 
 He was right. He stormed the city, burned it to the ground, and killed every Scarborn he could find. It was remarkably easy, almost as if there was no Warlord army to fight against. The only one he failed to catch was [[Crux]], his terrifying Scarborn Warlord adversary. What a shame.
 
