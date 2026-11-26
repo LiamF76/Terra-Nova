@@ -20,6 +20,7 @@ Created: 2026-10-13
 	- Kasayt's Orb / soul
 - Kasayt is the soul of Adrithyr reborn
 - Sobek, The Thunderlord: Sobek was Audrey's character, an artifact from Sobek the legendary Blue Dragonborn is out in the world. A magical lightning rune of power that imbues the wielder with power?
+- **BIG IDEAS:** Aren and Finch lean strongly towards working with Arzen and Graveglass, perhaps even alongside the Ur-Daraan. Could this campaign end with Melantha, Alabaster, Ryfon, and the other former heroes / Young Wolves of Terra-Nova pitted against the characters of Terra-Oblivia? A battle at the end of time. The Day of a Thousand Dawns.
 - 
 
 ---

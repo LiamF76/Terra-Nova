@@ -11,6 +11,7 @@ tags:
 - [ ] [[CoK Session 2 Prep]]
 - [ ] [[CoK Session 2 Notes]]
 - [ ] [[Iseul]]
+- [ ] [[Twig]]
 
 
 ## Campaign Overview
@@ -22,14 +23,6 @@ tags:
 - [ ] [[CoK Brainstorm]]
 
 
-## Triarch 4 Season Spirits
-
-- [x] Spring: [[Astor]]
-- [x] Summer: [[Netri]]
-- [x] Autumn: [[Calder]]
-- [x] Winter: [[Pax]]
-
-
 ## future prep
 
 - [ ] [[Woodland Rest]]
@@ -38,6 +31,7 @@ tags:
 - [ ] [[Ruman Castor]]
 - [ ] Basilisk's Stone
 	- Pilgrim Knights castle / home base
+- [ ] [[Promise Gates]]
 
 
 ## Pre-Campaign Sessions
@@ -66,6 +60,10 @@ tags:
 
 ## Archive
 
+- [x] Spring: [[Astor]]
+- [x] Summer: [[Netri]]
+- [x] Autumn: [[Calder]]
+- [x] Winter: [[Pax]]
 - [x] [[CoK Session 1 Prep]]
 - [x] [[CoK Session 1 Notes]]
 - [x] [[Jade of Two Rivers]]
@@ -89,6 +87,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%

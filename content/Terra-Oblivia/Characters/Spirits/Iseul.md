@@ -3,6 +3,7 @@ publish: false
 title: Iseul
 aliases:
   - The Lady of the Lake
+  - The Weeping Maiden
 tags:
   - Terra-Oblivia
 Created: 2026-11-23
@@ -15,7 +16,7 @@ Created: 2026-11-23
 ---
 
 ## Iseul
-**The Lady of the Lake**
+**The Lady of the Lake, The Weeping Maiden**
 *Pronouns*: she/her
 
 ---
@@ -24,21 +25,21 @@ Created: 2026-11-23
 How they speak/communicate
 
 > [!quote]
-> "Quote"
+> "I am mother to all who are sent off to war laden in laurels and freshly forged swords, and I am by their side as they rot in the ground."
 
 > [!quote]
-> "Quote"
+> "I am no keeper of boons and blessed Spirit. My blades are a gift to be sure, but each gift has a cost."
 
 ---
 
 ## Description
-Physical forms and appearance
+Iseul is 5'4 and takes the form of a spectral woman composed of green light. She has long hair and a nondescript face. She is adorned with a halo and around her float small fish and wisps of water.
 
 ---
 
 ## Important Info
-- Spirit of [[Rocan Ashar]]
-- The Weeping Maiden, Iseul is the Spirit of women who send men off to wars they are doomed to die in
+- Spirit of [[Rocan Ashar]], Spirit of women who send men off to wars they are doomed to die in
+- Mother of [[Twig]]
 
 ---
 
@@ -47,5 +48,6 @@ Physical forms and appearance
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 - [[Rocan Ashar]]
+- [[Twig]]
 
 <!-- SerializedQuery END -->

@@ -24,12 +24,33 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+<<<<<<< HEAD
       "filepath": "Dashboard.md",
       "timestamp": 1795656797495
     },
     {
       "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
       "timestamp": 1795656796737
+=======
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
+      "timestamp": 1795649310587
+    },
+    {
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
+      "timestamp": 1795648821230
+    },
+    {
+      "filepath": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+      "timestamp": 1795648817506
+    },
+    {
+      "filepath": "Terra-Oblivia/Scratch/Order of Events.canvas",
+      "timestamp": 1795648715805
+    },
+    {
+      "filepath": "Dashboard.md",
+      "timestamp": 1795647889885
+>>>>>>> origin/Main
     }
   ],
   "bookmarkedFileStore": [],
