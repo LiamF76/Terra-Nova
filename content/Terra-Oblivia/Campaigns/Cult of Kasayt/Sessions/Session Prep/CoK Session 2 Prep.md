@@ -31,7 +31,7 @@ The effigy has four arms. Each hand grips a heavy, rusted iron blade, a weapon b
 
 The women twirl and scream. They pull down wooden masks carved with the faces of things long forgotten: indescribable, heretical, terrible to look upon. Their dance becomes a frenzy. Daggers flash in their hands, and they cut open their own wombs. Their blood spills onto the effigy, and the fire flares. The stone glows brighter, and it begins to shake like a beating heart.
 
-The leader of the cultists lifts his head to the sky, searching for the moon that brought him this message. He thinks of Osiris, the man who showed them the path to bring their dead god home.
+The leader of the cultists lifts his head to the sky, searching for the moon that brought him this message, and thanking the lady Nysria for her gift.. 
 
 ---
 
