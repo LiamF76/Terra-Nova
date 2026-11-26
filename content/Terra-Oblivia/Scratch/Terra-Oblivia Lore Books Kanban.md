@@ -40,7 +40,7 @@ tags:
 ## Tales from the Valley
 
 - [ ] triarch general lorebook
-- [ ] [[Leave Coward]]
+- [x] [[Leave Coward]]
 - [ ] [[Moonlit Ivory]]
 - [ ] [[Rising Son]]
 - [ ] [[Forge-Seeker]]

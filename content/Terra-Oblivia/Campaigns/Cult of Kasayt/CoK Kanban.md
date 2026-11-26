@@ -32,6 +32,9 @@ tags:
 - [ ] Basilisk's Stone
 	- Pilgrim Knights castle / home base
 - [ ] [[Promise Gates]]
+- [ ] [[Crux]]
+- [ ] [[Daegel Lathir]]
+- [ ] [[Dastan]]
 
 
 ## Pre-Campaign Sessions

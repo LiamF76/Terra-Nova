@@ -40,9 +40,9 @@ The leader of the cultists lifts his head to the sky, searching for the moon tha
 
 ## Room 1: Entrance Guardian
 
-#### **Wargs Fetch the Twig**
+#### **Twig is not Kindling**
 
-DM NOTE: Party is camping and Twig comes running down a stream being chased by wolves / wargs (any kind of big dog)
+DM NOTE: Party is camping and Twig spirit comes sneaking into their camp. It's scared and lost and wants help finding its Mom but doesn't know where she lives, only that she is an important spirit, and that the houses nearby may know
 
 *Set the Scene*: TBD
 
