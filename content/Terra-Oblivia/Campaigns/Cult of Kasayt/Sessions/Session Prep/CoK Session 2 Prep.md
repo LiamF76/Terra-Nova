@@ -17,9 +17,6 @@ Created: 2026-11-24
 - During the night a little spirit visits the party, tells them their mother is a friend who can help them, but the little spirit is lost and says they should go to town, someone there will know how to find their mother
 - At the tavern they get information on a local spirit who would be able to help the party, a lady of the lake type spirit, Iseul (the little spirit's mother)
 - Iseul only comes out when the moon is up, and hides beneath the water of her lake until midnight
-- **COLD OPEN BRAINSTORM**
-	- Aren themed cold open. Dormant Vulcan awakening in his soul because of Finch / Emrys awakening. Themed around Old Gods cultists dancing around an effigy with 4 arms on fire.
-	- After cold open, Aren's chest hurts, probably from eating too much salted beef on the road. Wink wink.
 - 
 
 ---
@@ -54,13 +51,15 @@ TBD
 
 ## Room 2: Puzzle or Roleplaying Challenge
 
-#### **TBD**
+#### **The Crooked Kettle**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: The party arrive at the Crooked Kettle, a tavern / inn / trading post along the road.
 
 *Set the Scene*: TBD
 
-TBD
+- **Marta Hobb, the innkeeper:** practical and superstitious. She leaves milk out for "the lake lady" and gets nervous when Twig shows up. Has a great deal of respect for the Spirits, says great heroes have come to her inn before.
+- **An old fisherman:** the one who "knows how to find her mother." He saw Iseul once as a boy, and she saved him from drowning. Rules: she comes out only under the moon, stays under the water until midnight, and you never throw anything into her lake.
+- **Rumor:** Travelers from the Triarch talk about black smoke and missing men. It's a quiet callback to the cold open.
 
 ---
 

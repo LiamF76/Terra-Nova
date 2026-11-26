@@ -21,6 +21,7 @@ tags:
 - [x] [[Acolyte BBEG]]
 - [ ] [[CoK Player Characters]]
 - [ ] [[CoK Brainstorm]]
+- [ ] [[CoK Cold Open Brainstorm]]
 
 
 ## future prep
