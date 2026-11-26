@@ -27,7 +27,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 # CURRENT CAMPAIGNS: Cult of Kasayt
 
 > [!note] Cult of Kasayt
-> ## [[CoK Kanban]] | [[CoK Brainstorm]] | [[CoK Player Characters]]
+> ## [[CoK Kanban]] | [[CoK Brainstorm]] | [[CoK Player Characters]] | [[Terra-Oblivia Lore Books Kanban]]
 
 > [!note] Encounter Ideas
 > ## [[Terra-Oblivia/Campaigns/Encounter Brainstorms/Exploration Encounter Ideas|Exploration Encounter Ideas]] | [[Dungeon and Quest Ideas]] | [[Terra-Oblivia/Campaigns/Encounter Brainstorms/Raid Encounter Ideas|Raid Encounter Ideas]] | [[Campaign Ideas]]
@@ -37,7 +37,7 @@ Are you about to prep a session? Remember [[Brennan's Toy Method]]!
 # Terra-Oblivia
 
 > [!note] Terra-Oblivia Worldbuilding
-> ##  [[Terra-Oblivia Kanban]] | [[TO Idea Dump]] | [[Terra-Oblivia Lore Books Kanban]]
+> ##  [[Terra-Oblivia Kanban]] | [[TO Idea Dump]]
 
 ---
 # Inactive
