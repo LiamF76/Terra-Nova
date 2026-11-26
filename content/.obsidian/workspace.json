@@ -24,98 +24,21 @@
             }
           },
           {
-            "id": "a63748170f3ba7db",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
-          },
-          {
-            "id": "c0336d50fe7ec747",
+            "id": "9fbb8f1fe355e463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
+                "file": "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink/From Dust To Dust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CoK Player Characters"
-            }
-          },
-          {
-            "id": "9a246a8b3a32727b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "CoK Session 2 Prep"
-            }
-          },
-          {
-            "id": "5c9dbf264631ec2d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Terra-Oblivia Lore Books Kanban"
-            }
-          },
-          {
-            "id": "e1b6fd4c659ab626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink/A Fixed Point.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Fixed Point"
+              "title": "From Dust To Dust"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,18 +172,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e1b6fd4c659ab626",
+  "active": "9fbb8f1fe355e463",
   "lastOpenFiles": [
+    "Terra-Nova/Resources/Learning/Brennan's Toy Method.md",
+    "Dashboard.md",
+    "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink/From Dust To Dust.md",
     "Terra-Oblivia/Scratch/Terra-Oblivia Lore Books Kanban.md",
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Player Characters.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
+    "Terra-Oblivia/History & Lore/Lore Books/Blood's Chronicle/Reshaping.md",
+    "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink/A Fixed Point.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Cold Open Brainstorm.md",
     "Terra-Oblivia/Characters/Mortals/Bellum Grail.md",
     "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Leave Coward.md",
     "Terra-Oblivia/History & Lore/Lore Books/Ivory Throne, Violet Ink/A Unique Rhetoric.md",
-    "Dashboard.md",
     "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Forge-Seeker.md",
     "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Rising Son.md",
     "Terra-Oblivia/History & Lore/Lore Books/Tales from the Valley/Moonlit Ivory.md",
@@ -279,11 +206,7 @@
     "z Images/Twig-1795643776896.webp",
     "z Images/TBD Lady-1795487389604.webp",
     "z Images/Pax-1795218389986.webp",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Notes/Act 1/CoK Session 2 Notes.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 1 Prep.md",
     "z Images/Yekril-1795105411149.webp",
-    "Terra-Oblivia/Characters/Mortals/Ruman Castor.md",
-    "Terra-Oblivia/Characters/Mortals/Chim.md",
     "z Images/Ruman-1795102742011.webp",
     "z Images/Netri-1795102076352.webp",
     "z Images/Unovan Regional Pokemon-1795028110235.webp",

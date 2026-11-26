@@ -31,6 +31,7 @@ tags:
 - [ ] [[O' Mother Mine]]
 - [ ] [[Scarlett Admonition]]
 - [ ] [[The Garden]]
+- [ ] [[Reshaping]]
 
 
 ## The Acolyte: Blessed to Burn
