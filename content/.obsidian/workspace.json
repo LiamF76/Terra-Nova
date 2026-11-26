@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff18e89c6fbe5448",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,50 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "92d381aaa000935e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "CoK Kanban"
-            }
-          },
-          {
-            "id": "0a7b06664ddae4a2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "CoK Session 2 Prep"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,15 +153,15 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "bases:Create new base": false,
-      "calendarium:Open Calendarium": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "0a7b06664ddae4a2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Brainstorm.md",
     "Terra-Oblivia/Campaigns/Cult of Kasayt/CoK Kanban.md",
-    "Terra-Oblivia/Campaigns/Cult of Kasayt/Sessions/Session Prep/CoK Session 2 Prep.md",
     "Terra-Oblivia/Scratch/Order of Events.canvas",
     "Dashboard.md",
     "Terra-Oblivia/Characters/Spirits/Iseul.md",
