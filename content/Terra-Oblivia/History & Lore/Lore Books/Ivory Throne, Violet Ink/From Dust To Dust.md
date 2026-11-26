@@ -21,7 +21,9 @@ I had 4 goals:
 3. Destroy the Demon soul, so that it doesn't get to keep any of my badass powers and come back to bite any of the Geriatric Wolves (or anyone else) in the ass after I am no longer taking care of everything at every moment forever.
 4. Die. I wanted my mortal soul, whatever had been allocated to me while fused with the Demon, to die. For good. No reincarnation, no time tricks. I had a good run, the kids turned out alright, and Nysria was content with the amount of time she got with me (though she would never say to to another few centuries, immortals am I right?)
 
-My body was weird looking from above. I don't exactly know what *me* was looking at it. I was frail in those days. Age had gotten me, white beard, missing horn from that experiment. 
+My body was weird looking from above. I don't exactly know what *me* was looking at it. I was frail in those days. Age had gotten me, white beard, missing horn from that experiment, general wear and tear, body was in rough shape. The skin too... the pale purple, I was almost lavendar.
+
+The ritual went off without a hitch, Melantha used Rovan to cut my soul in half, Ryfon excised
 
 ---
 
