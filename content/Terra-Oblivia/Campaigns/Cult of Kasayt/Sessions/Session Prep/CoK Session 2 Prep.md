@@ -23,15 +23,31 @@ Created: 2026-11-24
 
 ## Cold Open
 
-The black clouds blot out the sun over the Triarch, but the fire burns brighter still.
+The black clouds and darkness of night blot out the sun over the Triarch, but the fire burns brighter still.
 
-Nine women dance before it, naked, their bodies painted in the blood of their husbands. The blood was drawn from the men's corpses, and then the bodies were thrown on the fire to burn alongside the effigy.
+Nine women dance before it, naked, their bodies painted in the blood of their husbands. The blood was drawn from their husbands corpses, and then the bodies were thrown on the fire to burn alongside the effigy. Their bones will tell the future. The women circle the effigy as they dance, bowing and leaping and crying before their reverent idol.
 
-The effigy has four arms. Each hand grips a heavy, rusted iron blade, a weapon big enough for a giant. At its heart sits a stone, glowing red with malice and anger. It burns with the spirit of war.
+The effigy has four arms. Each hand grips a heavy, rusted iron blade, a weapon big enough for a giant. At its heart sits a stone, glowing red with malice and anger. It burns with the spirit of something mortals were bid to forget.
 
-The women twirl and scream. They pull down wooden masks carved with the faces of things long forgotten: indescribable, heretical, terrible to look upon. Their dance becomes a frenzy. Daggers flash in their hands, and they cut open their own wombs. Their blood spills onto the effigy, and the fire flares. The stone glows brighter, and it begins to shake like a beating heart.
+The women twirl and scream. They pull down wooden masks carved with the faces of things long forgotten. Their dance becomes a frenzy. Daggers flash in their hands, and they cut open their own wombs. Their blood spills onto the effigy, and the fire flares. The stone glows brighter, and it begins to shake like a beating heart. It thunders in a frenzy in response to the blood sacrifice.
 
-The leader of the cultists lifts his head to the sky, searching for the moon that brought him this message, and thanking the lady Nysria for her gift. 
+The leader of the cultists lifts his head to the sky, searching for the moon that brought him this message, and thanking the lady Nysria for her gift. He bows his head, body laden with the pelt of a golden lion, the most dishonorable of creatures, who sought to kill the true Old Gods.
+
+---
+
+## Finch Dream
+
+#### **The Sand Calls Out: LOCKET!**
+
+Finch, you are a man of comforts, and as such you take no watch this night, but while you sleep, you dream. For the first time in your life that you can remember, you dream vividly.
+
+The wind screams around you as orange rocks and dunes of sand are pelted with the force of a sandstorm. Your arms rush to cover your face, and the world is dark and chaotic as the storm is thick around you. A figure lies ahead, just barely in your sight, unable to make out their form, they seem to be moving towards you, yet slowly getting further and further away.
+
+Something about them draws you to them, and you call out, what do you scream above the winds as your soul reaches for this person?
+
+They hear you, and they shout back in kind, the shout is unintelligible, you cannot hear them. 
+
+You step forward, but you begin to sink, they call out again but no words reach you. You sink deeper with each step and hear them scream in agony, the air begins to burn. A dragon pierces the gale, black scales and shadowed flame turn the figure to ash, the sun is blotted out forever, and darkness takes you.
 
 ---
 
