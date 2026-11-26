@@ -6,6 +6,15 @@ tags:
 
 ---
 
+## Tales from the Valley
+
+- [ ] triarch general lorebook
+- [x] [[Leave Coward]]
+- [ ] [[Moonlit Ivory]]
+- [ ] [[Rising Son]]
+- [ ] [[Forge-Seeker]]
+
+
 ## Ivory Throne, Velvet Ink
 
 - [ ] [[A Unique Rhetoric]]
@@ -35,15 +44,6 @@ tags:
 ## Sand from the Hourglass
 
 - [ ] Arzen Osiris lore book
-
-
-## Tales from the Valley
-
-- [ ] triarch general lorebook
-- [x] [[Leave Coward]]
-- [ ] [[Moonlit Ivory]]
-- [ ] [[Rising Son]]
-- [ ] [[Forge-Seeker]]
 
 
 
