@@ -40,7 +40,7 @@ The leader of the cultists lifts his head to the sky, searching for the moon tha
 
 ## Finch Dream
 
-#### **The Sand Calls Out: LOCKET!**
+#### **Sandstorm, Darkness Takes You**
 
 Finch, you are a man of comforts, and as such you take no watch this night, but while you sleep, you dream. For the first time in your life that you can remember, you dream vividly.
 
