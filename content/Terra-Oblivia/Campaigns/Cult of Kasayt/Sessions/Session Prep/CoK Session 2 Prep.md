@@ -42,9 +42,9 @@ Aren Kaen, as you tend the fire, slowly poking the logs, you grip your chest, fe
 
 ---
 
-## Finch Dream
+## A Dream of Sand
 
-#### **A Dream of Sand**
+#### **Finch Dream**
 
 Music: 
 
@@ -62,9 +62,9 @@ You awaken with a start, shooting upwards and patting your body checking for inj
 
 ---
 
-## Room 1: Entrance Guardian
+## Twig is not Kindling
 
-#### **Twig is not Kindling**
+#### **Room 1: Entrance Guardian**
 
 DM NOTE: Party is camping and Twig spirit comes sneaking into their camp. It's scared and lost and wants help finding its Mom but doesn't know where she lives, only that she is an important spirit, and that the houses nearby may know
 
@@ -78,9 +78,9 @@ Running down the shallow creek is a creature made of leaves, a pair of wooden st
 
 ---
 
-## Room 2: Puzzle or Roleplaying Challenge
+## The Crooked Kettle
 
-#### **The Crooked Kettle**
+#### **Room 2: Puzzle or Roleplaying Challenge**
 
 DM NOTE: The party arrive at the Crooked Kettle, a tavern / inn / trading post along the road.
 
@@ -95,9 +95,9 @@ Near the fireplace an even older fisherman whittles away at a small piece of woo
 
 ---
 
-## Room 3: Trick or Setback
+## TBD
 
-#### **TBD**
+#### **Room 3: Trick or Setback**
 
 DM NOTE: Describe the encounter / overview of the room
 
@@ -107,9 +107,9 @@ TBD
 
 ---
 
-## Room 4: Climax, Big Battle
+## TBD
 
-#### **TBD**
+#### **Room 4: Climax, Big Battle**
 
 DM NOTE: Describe the encounter / overview of the room
 
@@ -121,9 +121,9 @@ TBD
 
 ---
 
-## Room 5: Reward, Revelation, Plot Twist
+## TBD
 
-#### **TBD**
+#### **Room 5: Reward, Revelation, Plot Twist**
 
 DM NOTE: Describe the encounter / overview of the room
 
@@ -136,10 +136,7 @@ TBD
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Twig]]
 
-
----
-
-## Links
-
-<!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery END -->
