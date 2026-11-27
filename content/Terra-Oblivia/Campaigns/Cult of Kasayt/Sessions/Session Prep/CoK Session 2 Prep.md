@@ -36,13 +36,13 @@ The women twirl and scream. They pull down wooden masks carved with the faces of
 
 The leader of the cultists lifts his head to the sky, searching for the moon that brought him this message, and thanking the lady Nysria for her gift. He bows his head, body laden with the pelt of a golden lion, the most dishonorable of creatures, who sought to kill the true Old Gods.
 
+Aren Kaen, as you tend the fire, slowly poking the logs, you grip your chest, feeling your heart beat in a frenzy, as if you were in the heat of battle. Strange, must have been all that salted beef you had for dinner.
+
 ---
 
 ## Finch Dream
 
 #### **A Dream of Sand**
-
-*(Finch before we RP  let me run the scene after this as well)*
 
 Finch, you are a man of comforts, and as such you take no watch this night, but while you sleep, you dream. For the first time in your life that you can remember, you dream vividly.
 
@@ -54,7 +54,7 @@ They hear you, and they shout back in kind, the shout is unintelligible, you can
 
 You step forward, but you begin to sink, they call out again but no words reach you. You sink deeper with each step and hear them scream in agony, the air begins to burn. A dragon pierces the gale, black scales and shadowed flame turn the figure to ash, the sun is blotted out forever, and darkness takes you.
 
-You awaken with a start, shooting upwards and patting your body checking for injury, you find no wounds, but around your neck... Rowan's necklace sits, and on top of it is a single grain of sand.
+You awaken with a start, shooting upwards and patting your body checking for injury, you find no wounds, but around your neck... Rowan's necklace sits, and on top of it is a single grain of sand. It drifts off the necklace, and disappears into the air in a tiny cloud of golden dust.
 
 ---
 
