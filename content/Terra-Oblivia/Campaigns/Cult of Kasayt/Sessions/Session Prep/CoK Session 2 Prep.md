@@ -20,6 +20,7 @@ Created: 2026-11-24
 - Iseul can tell the party that the black battleaxe is cursed, wielding it will bring untold power, but the more it is used the more likely Kasayt's minions are to find them, because it carries the Shadowed-Flame magic of the dragon
 - **ISEUL AND AREN**
 	- Iseul meets Aren, and reads his future through her power, seeing his destiny to fight against the Acolyte, a champion of Kasayt, a minion of destruction. Iseul sees the soul of Vulcan in Aren, and promises to bless a blade and give it to him, if he is willing to die to save the Triarch and its people. She says he must find the Forge-Seeker, a Spirit-Bonded blacksmith who can create a weapon from his very soul, one that will be strong enough to defeat the Acolyte. He must find the Forge-Seeker, earn a blade from them, and place it underwater to summon Iseul and bless the blade
+	- "You are not destined to die in *a* war Aren Kaen, you are destined to die in *the* war. The last war of all time, you shall fight under sunrise and sunset, and no sun at all. I would be honored to bless you, but no blade in my pool is worthy nor mighty enough for the battle you will face."
 
 ---
 
