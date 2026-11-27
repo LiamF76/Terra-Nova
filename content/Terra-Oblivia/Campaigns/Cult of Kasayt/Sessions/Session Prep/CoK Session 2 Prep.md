@@ -54,6 +54,8 @@ You step forward, but you begin to sink, they call out again but no words reach 
 
 After your dream, which troubles you, you find yourself outside by the fire, unable to get comfortable in your bedroll.
 
+*(Before we RP at the campfire let me run this next scene)*
+
 ---
 
 ## Room 1: Entrance Guardian
