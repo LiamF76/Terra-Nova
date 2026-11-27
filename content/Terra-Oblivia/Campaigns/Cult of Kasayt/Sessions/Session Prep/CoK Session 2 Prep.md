@@ -95,15 +95,19 @@ Near the fireplace an even older fisherman whittles away at a small piece of woo
 
 ---
 
-## TBD
+## The Lady of the Lake
 
 #### **Room 3: Trick or Setback**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: The party is led to a mystical glade by the Old Fisherman (Dale), to meet Iseul.
 
 *Set the Scene*: TBD
 
-TBD
+**[[Iseul]]**: 
+- [[Ruman Castor]]: Iseul has met Ruman many times (her cheeks blush slightly yellow at his mention) and can get a message to him through her magic. She knows he will be spending the winter at Basilisk Stone with the Pilgrim Knights.
+- **Aren Kaen**: Iseul looks at Aren for a moment and her face begins to curl into a look of pure terror. She sinks a bit into the water before speaking. "I can see something in your eyes, what is your name?"
+- 
+
 
 ---
 
