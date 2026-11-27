@@ -17,7 +17,9 @@ Created: 2026-11-24
 - During the night a little spirit visits the party, tells them their mother is a friend who can help them, but the little spirit is lost and says they should go to town, someone there will know how to find their mother
 - At the tavern they get information on a local spirit who would be able to help the party, a lady of the lake type spirit, Iseul (the little spirit's mother)
 - Iseul only comes out when the moon is up, and hides beneath the water of her lake until midnight
-- 
+- Iseul can tell the party that the black battleaxe is cursed, wielding it will bring untold power, but the more it is used the more likely Kasayt's minions are to find them, because it carries the Shadowed-Flame magic of the dragon
+- **ISEUL AND AREN**
+	- Iseul meets Aren, and reads his future through her power, seeing his destiny to fight against the Acolyte, a champion of Kasayt, a minion of destruction. Iseul sees the soul of Vulcan in Aren, and promises to bless a blade and give it to him, if he is willing to die to save the Triarch and its people. She says he must find the Forge-Seeker, a Spirit-Bonded blacksmith who can create a weapon from his very soul, one that will be strong enough to defeat the Acolyte. He must find the Forge-Seeker, earn a blade from them, and place it underwater to summon Iseul and bless the blade
 
 ---
 
