@@ -14,6 +14,8 @@ Created: 2026-10-11
 
 ---
 
+![[Miragrim Ysor-1795752312729.webp|400]]
+
 ## Nature
 **Dragon form**: (what they look like, and how their birth mutated them)
 **Temperament**: 

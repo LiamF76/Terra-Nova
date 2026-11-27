@@ -10,6 +10,7 @@ tags:
 
 - [ ] [[CoK Session 2 Prep]]
 - [ ] [[CoK Session 2 Notes]]
+- [ ] Pick music for Finch dream
 - [ ] [[Iseul]]
 - [ ] [[Twig]]
 
@@ -21,6 +22,7 @@ tags:
 - [x] [[Acolyte BBEG]]
 - [ ] [[CoK Player Characters]]
 - [ ] [[CoK Brainstorm]]
+- [ ] [[CoK Cold Open Brainstorm]]
 
 
 ## future prep
@@ -32,6 +34,9 @@ tags:
 - [ ] Basilisk's Stone
 	- Pilgrim Knights castle / home base
 - [ ] [[Promise Gates]]
+- [ ] [[Crux]]
+- [ ] [[Daegel Lathir]]
+- [ ] [[Dastan]]
 
 
 ## Pre-Campaign Sessions

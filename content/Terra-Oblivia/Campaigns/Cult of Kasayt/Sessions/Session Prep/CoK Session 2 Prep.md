@@ -17,50 +17,81 @@ Created: 2026-11-24
 - During the night a little spirit visits the party, tells them their mother is a friend who can help them, but the little spirit is lost and says they should go to town, someone there will know how to find their mother
 - At the tavern they get information on a local spirit who would be able to help the party, a lady of the lake type spirit, Iseul (the little spirit's mother)
 - Iseul only comes out when the moon is up, and hides beneath the water of her lake until midnight
-- **COLD OPEN BRAINSTORM**
-	- Aren themed cold open. Dormant Vulcan awakening in his soul because of Finch / Emrys awakening. Themed around Old Gods cultists dancing around an effigy with 4 arms on fire.
-	- After cold open, Aren's chest hurts, probably from eating too much salted beef on the road. Wink wink.
-- 
+- Iseul can tell the party that the black battleaxe is cursed, wielding it will bring untold power, but the more it is used the more likely Kasayt's minions are to find them, because it carries the Shadowed-Flame magic of the dragon
+- **ISEUL AND AREN**
+	- Iseul meets Aren, and reads his future through her power, seeing his destiny to fight against the Acolyte, a champion of Kasayt, a minion of destruction. Iseul sees the soul of Vulcan in Aren, and promises to bless a blade and give it to him, if he is willing to die to save the Triarch and its people. She says he must find the Forge-Seeker, a Spirit-Bonded blacksmith who can create a weapon from his very soul, one that will be strong enough to defeat the Acolyte. He must find the Forge-Seeker, earn a blade from them, and place it underwater to summon Iseul and bless the blade
+	- "You are not destined to die in *a* war Aren Kaen, you are destined to die in *the* war. The last war. You shall fight under sunrise and sunset, and no sun at all. I would be honored to bless you, but no blade in my pool is worthy nor mighty enough for the battle you will face."
 
 ---
 
 ## Cold Open
 
-The black clouds blot out the sun over the Triarch, but the fire burns brighter still.
+Music: Witch's Coven, Terra-Oblivia playlist on Spotify
 
-Nine women dance before it, naked, their bodies painted in the blood of their husbands. The blood was drawn from the men's corpses, and then the bodies were thrown on the fire to burn alongside the effigy.
+The black clouds and darkness of night blot out the sun over the Triarch, but the fire burns brighter still.
 
-The effigy has four arms. Each hand grips a heavy, rusted iron blade, a weapon big enough for a giant. At its heart sits a stone, glowing red with malice and anger. It burns with the spirit of war.
+Nine women dance before it, naked, their bodies painted in the blood of their husbands. The blood was drawn from their husbands corpses, and then the bodies were thrown on the fire to burn alongside the effigy. Their bones will tell the future. The women circle the effigy as they dance, bowing and leaping and crying before their reverent idol.
 
-The women twirl and scream. They pull down wooden masks carved with the faces of things long forgotten: indescribable, heretical, terrible to look upon. Their dance becomes a frenzy. Daggers flash in their hands, and they cut open their own wombs. Their blood spills onto the effigy, and the fire flares. The stone glows brighter, and it begins to shake like a beating heart.
+The effigy has four arms. Each hand grips a heavy, rusted iron blade, a weapon big enough for a giant. At its heart sits a stone, glowing red with malice and anger. It burns with the spirit of something mortals were bid to forget.
 
-The leader of the cultists lifts his head to the sky, searching for the moon that brought him this message. He thinks of Osiris, the man who showed them the path to bring their dead god home.
+The women twirl and scream. They pull down wooden masks carved with the faces of things long forgotten. Their dance becomes a frenzy. Daggers flash in their hands, and they cut open their own wombs. Their blood spills onto the effigy, and the fire flares. The stone glows brighter, and it begins to shake like a beating heart. It thunders in a frenzy in response to the blood sacrifice.
+
+The leader of the cultists lifts his head to the sky, searching for the moon that brought him this message, and thanking the lady Nysria for her gift. He bows his head, body laden with the pelt of a golden lion, the most dishonorable of creatures, who sought to kill the true Old Gods.
+
+Aren Kaen, as you tend the fire, slowly poking the logs, you grip your chest, feeling your heart beat in a frenzy, as if you were in the heat of battle. Strange, must have been all that salted beef you had for dinner.
+
+---
+
+## Finch Dream
+
+#### **A Dream of Sand**
+
+Music: 
+
+Finch, you are a man of comforts, and as such you take no watch this night, but while you sleep, you dream. For the first time in your life that you can remember, you dream vividly.
+
+The wind screams around you as orange rocks and dunes of sand are pelted with the force of a sandstorm. Your arms rush to cover your face, and the world is dark and chaotic as the storm is thick around you. A figure lies ahead, just barely in your sight, unable to make out their form, they seem to be moving towards you, yet slowly getting further and further away.
+
+Something about them draws you to them, and you call out, what do you scream above the winds as your soul reaches for this person?
+
+They hear you, and they shout back in kind, the shout is unintelligible, you cannot hear them. 
+
+You step forward, but you begin to sink, they call out again but no words reach you. You sink deeper with each step and hear them scream in agony, the air begins to burn. A dragon pierces the gale, black scales and shadowed flame turn the figure to ash, the sun is blotted out forever, and darkness takes you.
+
+You awaken with a start, shooting upwards and patting your body checking for injury, you find no wounds, but around your neck... Rowan's necklace sits, and on top of it is a single grain of sand. It drifts off the necklace, and disappears into the air in a tiny cloud of golden dust.
 
 ---
 
 ## Room 1: Entrance Guardian
 
-#### **Wargs Fetch the Twig**
+#### **Twig is not Kindling**
 
-DM NOTE: Party is camping and Twig comes running down a stream being chased by wolves / wargs (any kind of big dog)
+DM NOTE: Party is camping and Twig spirit comes sneaking into their camp. It's scared and lost and wants help finding its Mom but doesn't know where she lives, only that she is an important spirit, and that the houses nearby may know
 
-*Set the Scene*: TBD
+*Set the Scene*: Aren, your heart is thumping fast, beating out of your chest as you shoot awake, unable to return to sleep as the thumping subsides, you exit your tent and return to the campfire. The fire has burned low, and the night has gone very quiet. Only the sounds of crickets and owls occasionally breach the silence. A kettle above the campfire begins to bubble and boil as you ready a cup for coffee. The smell of burnt wood and the babble of a small brook just a bit away from your camp soothe your minds.
 
-TBD
+Your allies sit around the campfire, it seems everyone is having trouble sleeping, an uneasy feeling surrounding your departure from Citadel. How does your uneasiness show as sleep evades you? Is it visible on your face, or a nervous habit, perhaps you relax with a game of dice or chess?
 
-**Enemies**: 
+**[[Twig]]**: The sound of water is disturbed by little splashes, almost like someone skipping rocks or tossing sticks into the river. In the darkness you hear a faint wail, almost like a child crying.
+
+Running down the shallow creek is a creature made of leaves, a pair of wooden stick horns, and an adorable face. It is crying, and bounds right up to your campfire where it shakes itself dry and curls up into a ball, muffling its cries.
 
 ---
 
 ## Room 2: Puzzle or Roleplaying Challenge
 
-#### **TBD**
+#### **The Crooked Kettle**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: The party arrive at the Crooked Kettle, a tavern / inn / trading post along the road.
 
-*Set the Scene*: TBD
+*Set the Scene*: Inside the Crooked Kettle is quaint, a typical roadside inn. Lanterns on each table, a bar populated by local laborers, and tables dotted with travelers. 
+A group of men in cloaks bearing the symbol of Bastion sit near the entrance, looking tired from the road.
+Behind the bar an old woman lazily cleans a glass.
+Near the fireplace an even older fisherman whittles away at a small piece of wood, carving a fish, as a rod is propped up against the back of his chair. He hums a sad tune about a mother who cries on her son's sword. (called Weeping Mother, a song about women who send their sons to war and nothing is returned but their swords when they die)
 
-TBD
+- **Marta Hobb, the innkeeper:** practical and superstitious. She leaves milk out for "the lake lady" and gets nervous when Twig shows up. Has a great deal of respect for the Spirits, says great heroes have come to her inn before.
+- **An old fisherman:** the one who "knows how to find her mother." He saw Iseul once as a boy, and she saved him from drowning. Rules: she comes out only under the moon, stays under the water until midnight, and you never throw anything into her lake. (Will lead them to Iseul's lake if they agree to respect her)
+- **Rumor:** Travelers from the Triarch talk about black smoke and missing men. It's a quiet callback to the cold open.
 
 ---
 
