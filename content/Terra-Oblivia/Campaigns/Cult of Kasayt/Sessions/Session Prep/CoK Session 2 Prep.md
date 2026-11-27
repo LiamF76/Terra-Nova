@@ -40,7 +40,9 @@ The leader of the cultists lifts his head to the sky, searching for the moon tha
 
 ## Finch Dream
 
-#### **Sandstorm, Darkness Takes You**
+#### **A Dream of Sand**
+
+*(Finch before we RP  let me run the scene after this as well)*
 
 Finch, you are a man of comforts, and as such you take no watch this night, but while you sleep, you dream. For the first time in your life that you can remember, you dream vividly.
 
@@ -52,9 +54,7 @@ They hear you, and they shout back in kind, the shout is unintelligible, you can
 
 You step forward, but you begin to sink, they call out again but no words reach you. You sink deeper with each step and hear them scream in agony, the air begins to burn. A dragon pierces the gale, black scales and shadowed flame turn the figure to ash, the sun is blotted out forever, and darkness takes you.
 
-After your dream, which troubles you, you find yourself outside by the fire, unable to get comfortable in your bedroll.
-
-*(Before we RP at the campfire let me run this next scene)*
+You awaken with a start, shooting upwards and patting your body checking for injury, you find no wounds, but around your neck... Rowan's necklace sits, and on top of it is a single grain of sand.
 
 ---
 
@@ -68,7 +68,9 @@ DM NOTE: Party is camping and Twig spirit comes sneaking into their camp. It's s
 
 Your allies sit around the campfire, it seems everyone is having trouble sleeping, an uneasy feeling surrounding your departure from Citadel. How does your uneasiness show as sleep evades you? Is it visible on your face, or a nervous habit, perhaps you relax with a game of dice or chess?
 
-TBD
+**[[Twig]]**: The sound of water is disturbed by little splashes, almost like someone skipping rocks or tossing sticks into the river. In the darkness you hear a faint wail, almost like a child crying.
+
+Running down the shallow creek is a creature made of leaves, a pair of wooden stick horns, and an adorable face. It is crying, and bounds right up to your campfire where it shakes itself dry and curls up into a ball, muffling its cries.
 
 ---
 
