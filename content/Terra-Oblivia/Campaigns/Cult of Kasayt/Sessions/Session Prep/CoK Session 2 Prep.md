@@ -52,6 +52,8 @@ They hear you, and they shout back in kind, the shout is unintelligible, you can
 
 You step forward, but you begin to sink, they call out again but no words reach you. You sink deeper with each step and hear them scream in agony, the air begins to burn. A dragon pierces the gale, black scales and shadowed flame turn the figure to ash, the sun is blotted out forever, and darkness takes you.
 
+After your dream, which troubles you, you find yourself outside by the fire, unable to get comfortable in your bedroll.
+
 ---
 
 ## Room 1: Entrance Guardian
@@ -62,9 +64,9 @@ DM NOTE: Party is camping and Twig spirit comes sneaking into their camp. It's s
 
 *Set the Scene*: Aren, your heart is thumping fast, beating out of your chest as you shoot awake, unable to return to sleep as the thumping subsides, you exit your tent and return to the campfire. The fire has burned low, and the night has gone very quiet. Only the sounds of crickets and owls occasionally breach the silence. A kettle above the campfire begins to bubble and boil as you ready a cup for coffee. The smell of burnt wood and the babble of a small brook just a bit away from your camp soothe your minds.
 
-TBD
+Your allies sit around the campfire, it seems everyone is having trouble sleeping, an uneasy feeling surrounding your departure from Citadel. How does your uneasiness show as sleep evades you? Is it visible on your face, or a nervous habit, perhaps you relax with a game of dice or chess?
 
-**Enemies**: 
+TBD
 
 ---
 
