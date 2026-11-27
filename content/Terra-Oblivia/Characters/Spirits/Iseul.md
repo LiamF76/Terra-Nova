@@ -22,7 +22,7 @@ Created: 2026-11-23
 ---
 
 ## Voice
-How they speak/communicate
+Iseul only whispers in a soft feminine voice, one that can soothe the most fearful men, and calm the greatest rage.
 
 > [!quote]
 > "I am mother to all who are sent off to war laden in laurels and freshly forged swords, and I am by their side as they rot in the ground."
@@ -39,7 +39,7 @@ Iseul is 5'4 and takes the form of a spectral woman composed of green light. She
 
 ## Important Info
 - Spirit of [[Rocan Ashar]], Spirit of women who send men off to wars they are doomed to die in
-- Mother of [[Twig]]
+- Adoptive mother of [[Twig]]
 
 ---
 

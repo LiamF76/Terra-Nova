@@ -38,8 +38,7 @@ Twig's 1'8 body is a thin stick covered in a vaguely humanoid shape of leaves. T
 
 ## Important Info
 - Woodland Spirit, very distant descendant of [[Lumena]]
-- Mother: [[Iseul]]
-- Father: Unknown spirit of Lumena
+- Adopted child of [[Iseul]]
 
 ---
 
