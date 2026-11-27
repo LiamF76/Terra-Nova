@@ -10,6 +10,7 @@ tags:
 
 - [ ] [[CoK Session 2 Prep]]
 - [ ] [[CoK Session 2 Notes]]
+- [ ] Pick music for Finch dream
 - [ ] [[Iseul]]
 - [ ] [[Twig]]
 

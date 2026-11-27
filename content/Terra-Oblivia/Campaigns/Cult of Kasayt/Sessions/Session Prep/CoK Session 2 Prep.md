@@ -26,6 +26,8 @@ Created: 2026-11-24
 
 ## Cold Open
 
+Music: Witch's Coven, Terra-Oblivia playlist on Spotify
+
 The black clouds and darkness of night blot out the sun over the Triarch, but the fire burns brighter still.
 
 Nine women dance before it, naked, their bodies painted in the blood of their husbands. The blood was drawn from their husbands corpses, and then the bodies were thrown on the fire to burn alongside the effigy. Their bones will tell the future. The women circle the effigy as they dance, bowing and leaping and crying before their reverent idol.
@@ -43,6 +45,8 @@ Aren Kaen, as you tend the fire, slowly poking the logs, you grip your chest, fe
 ## Finch Dream
 
 #### **A Dream of Sand**
+
+Music: 
 
 Finch, you are a man of comforts, and as such you take no watch this night, but while you sleep, you dream. For the first time in your life that you can remember, you dream vividly.
 
@@ -80,10 +84,13 @@ Running down the shallow creek is a creature made of leaves, a pair of wooden st
 
 DM NOTE: The party arrive at the Crooked Kettle, a tavern / inn / trading post along the road.
 
-*Set the Scene*: TBD
+*Set the Scene*: Inside the Crooked Kettle is quaint, a typical roadside inn. Lanterns on each table, a bar populated by local laborers, and tables dotted with travelers. 
+A group of men in cloaks bearing the symbol of Bastion sit near the entrance, looking tired from the road.
+Behind the bar an old woman lazily cleans a glass.
+Near the fireplace an even older fisherman whittles away at a small piece of wood, carving a fish, as a rod is propped up against the back of his chair. He hums a sad tune about a mother who cries on her son's sword. (called Weeping Mother, a song about women who send their sons to war and nothing is returned but their swords when they die)
 
 - **Marta Hobb, the innkeeper:** practical and superstitious. She leaves milk out for "the lake lady" and gets nervous when Twig shows up. Has a great deal of respect for the Spirits, says great heroes have come to her inn before.
-- **An old fisherman:** the one who "knows how to find her mother." He saw Iseul once as a boy, and she saved him from drowning. Rules: she comes out only under the moon, stays under the water until midnight, and you never throw anything into her lake.
+- **An old fisherman:** the one who "knows how to find her mother." He saw Iseul once as a boy, and she saved him from drowning. Rules: she comes out only under the moon, stays under the water until midnight, and you never throw anything into her lake. (Will lead them to Iseul's lake if they agree to respect her)
 - **Rumor:** Travelers from the Triarch talk about black smoke and missing men. It's a quiet callback to the cold open.
 
 ---
