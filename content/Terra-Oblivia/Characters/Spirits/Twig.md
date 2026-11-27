@@ -21,7 +21,7 @@ Created: 2026-11-25
 ---
 
 ## Voice
-How they speak/communicate
+Twig speaks like a child, high pitched innocent baby. They are easily excitable, and just and easily let down when others are rude or aggressive.
 
 > [!quote]
 > "By the bark of my stick and the blade of my grass, I am Twig, and I am of the forest!"
@@ -38,10 +38,16 @@ Twig's 1'8 body is a thin stick covered in a vaguely humanoid shape of leaves. T
 
 ## Important Info
 - Woodland Spirit, very distant descendant of [[Lumena]]
-- Child of [[Iseul]]
+- Mother: [[Iseul]]
+- Father: Unknown spirit of Lumena
 
 ---
 
 ## Links
 
 <!-- QueryToSerialize: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+<!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
+- [[Lumena]]
+- [[Iseul]]
+
+<!-- SerializedQuery END -->
