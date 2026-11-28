@@ -109,7 +109,7 @@ DM NOTE: The party is led to a mystical glade by the Old Fisherman (Dale), to me
 	- Ruman will be able to identify Rowan's Amulet and its purpose.
 - **Aren**: Iseul looks at Aren for a moment and her face begins to curl into a look of pure terror. She sinks a bit into the water before speaking. "I can see something in your eyes, what is your name?"
 - **Bael**: Iseul can feel Bael's axe radiating with darkness. She says the weapon is cursed, and if Bael invokes its power then its creator may be able to track them. It is infused with the Shadowed-Flame of Kasayt, and could make Bael legendary and powerful, but it will bring him to ruin.
-- **Finch**: Iseul can sense Finch's sadness, and she floats to the edge of the lake, embracing him gently, rubbing his hair and saying he is a sweet boy. She can feel his amulet is magic, and that Rowan left it with the intent for Finch to find and protect it.
+- **Finch**: Iseul can sense Finch's sadness, and she floats to the edge of the lake, embracing him gently, rubbing his hair and saying he is a sweet boy. She can feel his amulet is magic, and that Rowan left it with the intent for Finch to find and protect it. Iseul never met Rowan, but she is sure Rowan would believe in and be proud of Finch. "No matter how much faith you have child, nobody can do it alone. You will need these friends here at your side." She leans in and cups her hand to your ear. "They are more trustworthy than you think."
 
 ---
 
