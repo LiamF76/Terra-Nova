@@ -101,13 +101,15 @@ Near the fireplace an even older fisherman whittles away at a small piece of woo
 
 DM NOTE: The party is led to a mystical glade by the Old Fisherman (Dale), to meet Iseul.
 
-*Set the Scene*: TBD
+*Set the Scene*: Pushing through the last curtain of silver-leafed willows, the forest opens into a hidden glade where the midnight air hangs still and cool, carrying the faint scent of moss and something sweeter, like crushed mint. At its heart lies a perfectly round lake whose water glows a soft, luminous green from somewhere deep below, its light rippling across the trunks of ancient trees and casting your shadows long and wavering behind you. The surface is utterly calm, not a single insect or night bird disturbs the hush, and as you watch, thin wisps of emerald mist curl up from the water as if the lake itself is slowly breathing.
 
 **[[Iseul]]**: 
 - [[Ruman Castor]]: Iseul has met Ruman many times (her cheeks blush slightly yellow at his mention) and can get a message to him through her magic. She knows he will be spending the winter at Basilisk Stone with the Pilgrim Knights.
-- **Aren Kaen**: Iseul looks at Aren for a moment and her face begins to curl into a look of pure terror. She sinks a bit into the water before speaking. "I can see something in your eyes, what is your name?"
-- 
-
+	- Ruman will be able to tell them more about a 'Stone King'
+	- Ruman will be able to identify Rowan's Amulet and its purpose.
+- **Aren**: Iseul looks at Aren for a moment and her face begins to curl into a look of pure terror. She sinks a bit into the water before speaking. "I can see something in your eyes, what is your name?"
+- **Bael**: Iseul can feel Bael's axe radiating with darkness. She says the weapon is cursed, and if Bael invokes its power then its creator may be able to track them. It is infused with the Shadowed-Flame of Kasayt, and could make Bael legendary and powerful, but it will bring him to ruin.
+- **Finch**: Iseul can sense Finch's sadness, and she floats to the edge of the lake, embracing him gently, rubbing his hair and saying he is a sweet boy. She can feel his amulet is magic, and that Rowan left it with the intent for Finch to find and protect it.
 
 ---
 
