@@ -43,7 +43,7 @@ The acolyte is a 7ft tall humanoid. He always wears his black robes and armor, d
 
 ## Important Info
 - Servant of [[Kasayt]], and Leader of [[The Cult of Kasayt]]
-- 
+- Master of [[Sana Black-Sky]] and [[Bellum Grail]]
 
 ---
 
@@ -53,5 +53,7 @@ The acolyte is a 7ft tall humanoid. He always wears his black robes and armor, d
 <!-- SerializedQuery: LIST WITHOUT ID filteredLink FLATTEN filter(file.outlinks, (link) => !meta(link).embed AND !contains(meta(link).path, "zImages/")) AS filteredLink WHERE file.path = this.file.path -->
 - [[Kasayt]]
 - [[The Cult of Kasayt]]
+- [[Sana Black-Sky]]
+- [[Bellum Grail]]
 
 <!-- SerializedQuery END -->

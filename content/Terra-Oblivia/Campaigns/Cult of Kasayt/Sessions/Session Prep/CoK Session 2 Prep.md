@@ -117,7 +117,7 @@ DM NOTE: The party is led to a mystical glade by the Old Fisherman (Dale), to me
 
 #### **Room 4: Climax, Big Battle**
 
-DM NOTE: Describe the encounter / overview of the room
+DM NOTE: The party is speaking with Iseul when they are ambushed by Sana Black-Sky and The Acolyte's Aspects. 
 
 *Set the Scene*: TBD
 
