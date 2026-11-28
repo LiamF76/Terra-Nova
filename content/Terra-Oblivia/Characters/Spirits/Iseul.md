@@ -33,7 +33,7 @@ Iseul only whispers in a soft feminine voice, one that can soothe the most fearf
 ---
 
 ## Description
-Iseul is 5'4 and takes the form of a spectral woman composed of green light. She has long hair and a nondescript face. She is adorned with a halo and around her float small fish and wisps of water.
+Iseul remains submerged at her waist usually, but from the water up she is nearly 7 feet tall. She akes the form of a spectral woman composed of green light. She has long hair and a nondescript face. She is adorned with a halo and around her float small fish and wisps of water.
 
 ---
 
